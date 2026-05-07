@@ -1641,7 +1641,7 @@
           <div id="res-content-barem" class="res-content flex flex-col gap-4 h-full overflow-hidden animate-fade-in">
             <div class="flex justify-between items-center px-1">
               <span class="text-[9px] font-black text-slate-400 uppercase tracking-[0.2em]">Model Answers 3D Book</span>
-              <button onclick="requestPhạm Tiến Dũng Gia SưBarem()"
+              <button onclick="requestAIBarem()"
                 class="text-[9px] font-black text-indigo-600 hover:text-indigo-800 transition-colors uppercase tracking-widest flex items-center gap-1.5 bg-indigo-50 px-2 py-1 rounded-lg border border-indigo-100">
                 <i class="fas fa-robot"></i> Phạm Tiến Dũng Gia Sư Generate
               </button>
@@ -1965,7 +1965,7 @@
             <button onclick="analyzeVoicesTxt()"
               class="px-4 py-2 bg-emerald-600 text-white rounded-lg text-xs font-bold shadow-md hover:bg-emerald-700 transition-all flex items-center gap-2"><i
                 class="fas fa-file-alt"></i> Phân tích voices.txt</button>
-            <button onclick="loadPhạm Tiến Dũng Gia SưHistory()"
+            <button onclick="loadAIHistory()"
               class="px-4 py-2 bg-slate-100 text-slate-600 rounded-lg text-xs font-bold hover:bg-slate-200 transition-all flex items-center gap-2"><i
                 class="fas fa-sync"></i> Làm mới</button>
           </div>
@@ -2585,7 +2585,7 @@
       if (mode === 'speaking') ensureMicAccess();
       if (mode === 'voiceManager') loadVoiceManager();
       if (mode === 'notesManager') loadNotesManager();
-      if (mode === 'aiHistory') loadPhạm Tiến Dũng Gia SưHistory();
+      if (mode === 'aiHistory') loadAIHistory();
       if (mode === 'dashboard') loadDashboard();
     }
 
@@ -2888,7 +2888,7 @@
     }
 
     // ── Phạm Tiến Dũng Gia Sư Proxy Server URL (chạy ielts_ai_server.py trước) ──
-    const Phạm Tiến Dũng Gia Sư_PROXY = 'http://localhost:5679';
+    const AI_PROXY = 'http://localhost:5679';
 
     async function analyzeSelectedRecordings() {
       const selected = Array.from(document.querySelectorAll('.voice-checkbox:checked')).map(cb => cb.dataset.id);
@@ -2927,12 +2927,12 @@
 
       try {
         // Kiểm tra server local có đang chạy không
-        const health = await fetch(`${Phạm Tiến Dũng Gia Sư_PROXY}/health`, { signal: AbortSignal.timeout(3000) }).catch(() => null);
+        const health = await fetch(`${AI_PROXY}/health`, { signal: AbortSignal.timeout(3000) }).catch(() => null);
         if (!health || !health.ok) {
           throw new Error('Server Phạm Tiến Dũng Gia Sư chưa khởi động!\n\nVui lòng chạy lệnh sau trong terminal:\n  python ielts_ai_server.py');
         }
 
-        const response = await fetch(`${Phạm Tiến Dũng Gia Sư_PROXY}/analyze`, {
+        const response = await fetch(`${AI_PROXY}/analyze`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ recordings })
@@ -3655,7 +3655,7 @@
       window.speechSynthesis.speak(utterance);
     };
 
-    async function requestPhạm Tiến Dũng Gia SưBarem() {
+    async function requestAIBarem() {
       const q = appState.questions[appState.currentIndex];
       const band = prompt("Chọn mức Band muốn Phạm Tiến Dũng Gia Sư gợi ý (7, 8, 9):", "8");
       if (!band || !['7', '8', '9'].includes(band)) return;
@@ -3681,7 +3681,7 @@
         alert("Lỗi khi kết nối server Phạm Tiến Dũng Gia Sư: " + err.message);
       }
     }
-    window.requestPhạm Tiến Dũng Gia SưBarem = requestPhạm Tiến Dũng Gia SưBarem;
+    window.requestAIBarem = requestAIBarem;
 
     window.requestPhạm Tiến Dũng Gia SưVocab = requestPhạm Tiến Dũng Gia SưVocab;
 
@@ -3934,13 +3934,13 @@
       window.switchMidTab('ai');
 
       try {
-        const Phạm Tiến Dũng Gia Sư_PROXY = 'http://localhost:5679';
-        const health = await fetch(`${Phạm Tiến Dũng Gia Sư_PROXY}/health`, { signal: AbortSignal.timeout(3000) }).catch(() => null);
+        const AI_PROXY = 'http://localhost:5679';
+        const health = await fetch(`${AI_PROXY}/health`, { signal: AbortSignal.timeout(3000) }).catch(() => null);
         if (!health || !health.ok) {
           throw new Error('Server Phạm Tiến Dũng Gia Sư chưa khởi động!\n\nVui lòng chạy lệnh sau trong terminal:\n  python ielts_ai_server.py');
         }
 
-        const response = await fetch(`${Phạm Tiến Dũng Gia Sư_PROXY}/analyze`, {
+        const response = await fetch(`${AI_PROXY}/analyze`, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
@@ -3987,13 +3987,13 @@
     // ==========================================
     // Phạm Tiến Dũng Gia Sư HISTORY & VOICES.TXT INTEGRATION
     // ==========================================
-    async function loadPhạm Tiến Dũng Gia SưHistory() {
+    async function loadAIHistory() {
       const list = document.getElementById('aiReportsList');
       if (!list) return;
       list.innerHTML = '<div class="text-center py-8 text-slate-400 text-xs italic">Đang tải...</div>';
 
       try {
-        const response = await fetch(`${Phạm Tiến Dũng Gia Sư_PROXY}/reports`);
+        const response = await fetch(`${AI_PROXY}/reports`);
         const data = await response.json();
         if (data.reports && data.reports.length > 0) {
           list.innerHTML = data.reports.map(rep => {
@@ -4016,7 +4016,7 @@
         list.innerHTML = '<div class="text-center py-8 text-rose-500 text-[10px]">Lỗi kết nối server Phạm Tiến Dũng Gia Sư.</div>';
       }
     }
-    window.loadPhạm Tiến Dũng Gia SưHistory = loadPhạm Tiến Dũng Gia SưHistory;
+    window.loadAIHistory = loadAIHistory;
 
     async function viewReport(filename) {
       const detail = document.getElementById('aiReportDetail');
@@ -4024,7 +4024,7 @@
       detail.innerHTML = '<div class="flex h-full items-center justify-center"><div class="w-8 h-8 border-2 border-indigo-600 border-t-transparent rounded-full animate-spin"></div></div>';
 
       try {
-        const response = await fetch(`${Phạm Tiến Dũng Gia Sư_PROXY}/report/${filename}`);
+        const response = await fetch(`${AI_PROXY}/report/${filename}`);
         if (filename.endsWith('.json')) {
           const data = await response.json();
           detail.innerHTML = `
@@ -4039,7 +4039,7 @@
           detail.innerHTML = `
             <div class="flex justify-end mb-4 gap-2">
                <button onclick="window.print()" class="text-[9px] font-black text-slate-500 uppercase tracking-widest hover:text-indigo-600"><i class="fas fa-print"></i></button>
-               <a href="${Phạm Tiến Dũng Gia Sư_PROXY}/report/${filename}" target="_blank" class="text-[9px] font-black text-slate-500 uppercase tracking-widest hover:text-indigo-600"><i class="fas fa-external-link-alt"></i></a>
+               <a href="${AI_PROXY}/report/${filename}" target="_blank" class="text-[9px] font-black text-slate-500 uppercase tracking-widest hover:text-indigo-600"><i class="fas fa-external-link-alt"></i></a>
             </div>
             <div class="ai-report-view">
               ${html}
@@ -4069,13 +4069,13 @@
         // Tôi sẽ tạo script call_ai_server.py nội bộ hoặc gọi qua endpoint mới.
 
         // Giả sử server có endpoint /analyze-voices-txt
-        const response = await fetch(`${Phạm Tiến Dũng Gia Sư_PROXY}/analyze-voices-txt`, { method: 'POST' });
+        const response = await fetch(`${AI_PROXY}/analyze-voices-txt`, { method: 'POST' });
         const data = await response.json();
         
         if (!response.ok) throw new Error(data.error || "Lỗi không xác định");
         
         renderPhạm Tiến Dũng Gia SưAnalysisReport(data, detail);
-        if (typeof loadPhạm Tiến Dũng Gia SưHistory === 'function') loadPhạm Tiến Dũng Gia SưHistory();
+        if (typeof loadAIHistory === 'function') loadAIHistory();
       } catch (err) {
         detail.innerHTML = `
           <div class="p-8 text-center">
