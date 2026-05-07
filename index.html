@@ -55,6 +55,20 @@
   </script>
 
   <style>
+    /* COPYRIGHT PROTECTION */
+    body {
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      -webkit-user-drag: none;
+    }
+    input, textarea {
+      -webkit-user-select: text;
+      -moz-user-select: text;
+      -ms-user-select: text;
+      user-select: text;
+    }
     /* Note Stack & Paper Styles */
     .note-stack-container {
       perspective: 1000px;
@@ -2101,6 +2115,32 @@
       currentVocab: [],
       vocabMap: {}
     };
+
+    // ==========================================
+    // COPYRIGHT PROTECTION SYSTEM
+    // ==========================================
+    (function protectWebsite() {
+      // 1. Disable Right Click
+      document.addEventListener('contextmenu', e => {
+        e.preventDefault();
+        showToast("Bản quyền thuộc về Phạm Tiến Dũng Gia Sư. Vui lòng không sao chép.");
+      });
+
+      // 2. Disable Common Shortcuts (F12, Ctrl+Shift+I, Ctrl+U, Ctrl+S, Ctrl+C)
+      document.addEventListener('keydown', e => {
+        const forbiddenKeys = [
+          (e.keyCode === 123), // F12
+          (e.ctrlKey && e.shiftKey && (e.keyCode === 73 || e.keyCode === 74 || e.keyCode === 67)), // I, J, C
+          (e.ctrlKey && (e.keyCode === 85 || e.keyCode === 83 || e.keyCode === 67 || e.keyCode === 65)) // U, S, C, A
+        ];
+
+        if (forbiddenKeys.some(k => k)) {
+          e.preventDefault();
+          showToast("Hành động bị chặn để bảo vệ bản quyền học liệu.");
+          return false;
+        }
+      });
+    })();
 
     let drillSentences = [];
     let fetchedDataGlobal = [];
