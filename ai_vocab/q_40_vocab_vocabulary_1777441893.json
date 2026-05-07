@@ -1,0 +1,76 @@
+{
+  "id": "q_40",
+  "vocab": [
+    {
+      "word": "cacophony",
+      "ipa": "/kəˈkɒfəni/",
+      "meaning": "âm thanh hỗn tạp, chói tai",
+      "example": "The city center is a constant cacophony of sirens, shouting, and construction work.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "ambient noise",
+      "ipa": "/ˈæmbiənt nɔɪz/",
+      "meaning": "tiếng ồn xung quanh, âm thanh nền",
+      "example": "I’ve grown so used to the ambient noise of the office that silence actually feels distracting.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "piercing shriek",
+      "ipa": "/ˈpɪəsɪŋ ʃriːk/",
+      "meaning": "tiếng hét chói tai, thét lên",
+      "example": "The peaceful morning was suddenly interrupted by the piercing shriek of a car alarm.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "incessant chatter",
+      "ipa": "/ɪnˈsesnt ˈtʃætə(r)/",
+      "meaning": "tiếng nói chuyện râm ran không ngớt",
+      "example": "Commuting on the bus means enduring the incessant chatter of fellow passengers every day.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "clatter of machinery",
+      "ipa": "/ˈklætə(r) əv məˈʃiːnəri/",
+      "meaning": "tiếng máy móc kêu lạch cạch/ầm ĩ",
+      "example": "Living next to a textile factory, the rhythmic clatter of machinery becomes part of your daily routine.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "sonic onslaught",
+      "ipa": "/ˈsɒnɪk ˈɒnslɔːt/",
+      "meaning": "một sự tấn công dữ dội về âm thanh",
+      "example": "Walking through the night market is a sonic onslaught of loud music and street vendors calling out.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "muffled thud",
+      "ipa": "/ˈmʌfld θʌd/",
+      "meaning": "tiếng bịch/bộp trầm đục (không rõ ràng)",
+      "example": "From my apartment, I can often hear the muffled thud of my upstairs neighbor moving furniture.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "jarring sound",
+      "ipa": "/ˈdʒɑːrɪŋ saʊnd/",
+      "meaning": "âm thanh gây khó chịu, chói tai",
+      "example": "The jarring sound of metal scraping against metal always sets my teeth on edge.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "hum of electricity",
+      "ipa": "/hʌm əv ɪˌlekˈtrɪsəti/",
+      "meaning": "tiếng rè rè của dòng điện",
+      "example": "In the dead of night, the only thing audible is the faint hum of electricity from the refrigerator.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "penetrate the walls",
+      "ipa": "/ˈpenətreɪt ðə wɔːlz/",
+      "meaning": "xuyên qua tường (âm thanh)",
+      "example": "The bass from the neighboring club is so powerful that it easily penetrates the walls of my bedroom.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "q_27",
+  "topic": "Work or Studies",
+  "q": "Do you work or are you a student?",
+  "examiner_note": "Đây là câu hỏi xuất hiện ở đầu hầu hết các bài thi IELTS Speaking Part 1. Bạn nên trả lời rõ ràng tình trạng hiện tại của mình (Đang đi làm hay đang đi học). Hãy mở rộng câu trả lời bằng cách nói về chuyên ngành (major) hoặc chức danh công việc (job title), và cảm nhận của bạn về nó. Các cụm từ như 'pursue a degree', 'working professional', 'career path' sẽ rất hữu ích.",
+  "samples": {
+    "band7": {
+      "text": "Currently, I’m a student at National Economics University. I’m majoring in Marketing, which I find very interesting because it allows me to be creative. I’ve been studying there for about two years now and I really enjoy the academic environment.",
+      "note": "Trả lời trực tiếp, nêu được trường học và chuyên ngành. Có lý do tại sao lại thích chuyên ngành đó. Sử dụng từ vựng ổn."
+    },
+    "band8": {
+      "text": "I’m currently a working professional. I hold the position of a Software Engineer at a leading tech firm in the city. I’ve been in this role for nearly three years, and while it can be quite demanding at times, I find the problem-solving aspect of my career path incredibly rewarding.",
+      "note": "Sử dụng từ vựng chuyên nghiệp (working professional, hold the position, tech firm, demanding, rewarding). Cách dẫn đạt trôi chảy và tự nhiên."
+    },
+    "band9": {
+      "text": "At present, I’m a postgraduate student pursuing a Master’s degree in Applied Linguistics. I decided to further my education to gain a deeper theoretical understanding of language acquisition. It’s an intellectually stimulating environment that challenges my perspectives. However, I also have some experience as a part-time language instructor, which allows me to bridge the gap between academic theory and practical application. I feel this combination is instrumental in my long-term career aspirations.",
+      "note": "Sử dụng vốn từ vựng cực kỳ phong phú và học thuật (postgraduate, pursuing, theoretical understanding, language acquisition, intellectually stimulating, practical application, instrumental, aspirations). Cách lập luận vô cùng tinh tế."
+    }
+  },
+  "v": [
+    { "word": "working professional", "meaning": "người đang đi làm chuyên nghiệp", "ipa": "/ˈwɜːrkɪŋ prəˈfeʃənl/", "example": "As a working professional, managing your time between work and life is crucial." },
+    { "word": "pursue a degree", "meaning": "theo đuổi một tấm bằng/việc học", "ipa": "/pərˈsuː ə dɪˈɡriː/", "example": "She chose to pursue a degree in Architecture because of her love for design." },
+    { "word": "career path", "meaning": "con đường sự nghiệp", "ipa": "/kəˈrɪr pæθ/", "example": "Choosing a career path in medicine requires a long-term commitment." },
+    { "word": "intellectually stimulating", "meaning": "kích thích trí tuệ", "ipa": "/ˌɪntəˈlektʃuəli ˈstɪmjuleɪtɪŋ/", "example": "The conference provided an intellectually stimulating environment for all researchers." },
+    { "word": "theoretical understanding", "meaning": "sự hiểu biết về mặt lý thuyết", "ipa": "/ˌθiːəˈretɪkl ˌʌndərˈstændɪŋ/", "example": "A strong theoretical understanding is necessary before you start practical experiments." },
+    { "word": "bridge the gap", "meaning": "rút ngắn khoảng cách/kết nối", "ipa": "/brɪdʒ ðə ɡæp/", "example": "Internships are an excellent way to bridge the gap between university and the workplace." },
+    { "word": "career aspirations", "meaning": "khát vọng sự nghiệp", "ipa": "/kəˈrɪr ˌæspəˈreɪʃnz/", "example": "Her career aspirations include becoming a senior manager in a global firma." },
+    { "word": "instrumental in", "meaning": "đóng vai trò quan trọng/là phương tiện để", "ipa": "/ˌɪnstrəˈmentl ɪn/", "example": "His guidance was instrumental in the team's success." },
+    { "word": "academic environment", "meaning": "môi trường học thuật", "ipa": "/ˌækəˈdemɪk ɪnˈvaɪrənmənt/", "example": "I really missed the academic environment after working for five years." },
+    { "word": "major in", "meaning": "học chuyên ngành về", "ipa": "/ˈmeɪdʒər ɪn/", "example": "I decided to major in Finance to better understand the economy." },
+    { "word": "postgraduate", "meaning": "sau đại học (thạc sĩ/tiến sĩ)", "ipa": "/ˌpoʊstˈɡrædʒuət/", "example": "She is a postgraduate student researching renewable energy." },
+    { "word": "language acquisition", "meaning": "sự lĩnh hội/học ngôn ngữ", "ipa": "/ˈlæŋɡwɪdʒ ˌækwɪˈzɪʃn/", "example": "Early childhood is the most effective period for natural language acquisition." },
+    { "word": "demanding", "meaning": "đòi hỏi cao/khắt khe", "ipa": "/dɪˈmændɪŋ/", "example": "A career in law can be very demanding but also very lucrative." },
+    { "word": "hold a position", "meaning": "nắm giữ một vị trí", "ipa": "/hoʊld ə pəˈzɪʃn/", "example": "He has held the position of CEO for over ten years." },
+    { "word": "full-time employment", "meaning": "công việc toàn thời gian", "ipa": "/fʊl taɪm ɪmˈplɔɪmənt/", "example": "Most people look for full-time employment for financial stability." },
+    { "word": "part-time job", "meaning": "công việc bán thời gian", "ipa": "/pɑːrt taɪm dʒɑːb/", "example": "Students often take a part-time job to cover their living expenses." },
+    { "word": "internship", "meaning": "thực tập", "ipa": "/ˈɪntɜːrnʃɪp/", "example": "A summer internship is a great way to gain professional experience." },
+    { "word": "curriculum", "meaning": "chương trình học", "ipa": "/kəˈrɪkjələm/", "example": "The school curriculum is updated every year to keep up with industry trends." },
+    { "word": "lecturer", "meaning": "giảng viên", "ipa": "/ˈlektʃərər/", "example": "The senior lecturer gave a fascinating talk on artificial intelligence." },
+    { "word": "faculty", "meaning": "khoa (trong trường đại học)", "ipa": "/ˈfæklti/", "example": "The faculty of Arts and Sciences is the largest in the university." },
+    { "word": "assignment", "meaning": "bài tập/nhiệm vụ được giao", "ipa": "/əˈsaɪnmənt/", "example": "I need to finish my history assignment by Friday." },
+    { "word": "deadline", "meaning": "hạn chót", "ipa": "/ˈdedlaɪn/", "example": "Meeting the deadline is crucial for the project’s success." },
+    { "word": "dissertation", "meaning": "luận văn tốt nghiệp", "ipa": "/ˌdɪsərˈteɪʃn/", "example": "He is currently writing his doctoral dissertation on environmental law." },
+    { "word": "scholarship", "meaning": "học bổng", "ipa": "/ˈskɑːlərʃɪp/", "example": "She won a full scholarship to study at Oxford University." },
+    { "word": "entry-level position", "meaning": "vị trí dành cho người mới vào nghề", "ipa": "/ˈentri ˌlevl pəˈzɪʃn/", "example": "Most graduates start their careers in an entry-level position." },
+    { "word": "promotion", "meaning": "sự thăng chức", "ipa": "/prəˈmoʊʃn/", "example": "Hard work and dedication are the keys to getting a promotion." },
+    { "word": "work-life balance", "meaning": "sự cân bằng giữa công việc và cuộc sống", "ipa": "/ˌwɜːrk laɪf ˈbæləns/", "example": "Many companies are now prioritizing work-life balance for their employees." },
+    { "word": "job satisfaction", "meaning": "sự hài lòng trong công việc", "ipa": "/dʒɑːb ˌsætɪsˈfækʃn/", "example": "Salary is important, but job satisfaction matters even more." },
+    { "word": "corporate culture", "meaning": "văn hóa doanh nghiệp", "ipa": "/ˈkɔːrpərət ˈkʌltʃər/", "example": "It's important to find a company whose corporate culture matches your values." },
+    { "word": "remote work", "meaning": "làm việc từ xa", "ipa": "/rɪˈmoʊt wɜːrk/", "example": "Technology has made remote work a viable option for many professionals." },
+    { "word": "telecommuting", "meaning": "làm việc tại nhà (kết nối qua internet)", "ipa": "/ˌtelikəˈmjuːtɪŋ/", "example": "Telecommuting can save hours of time spent on daily commutes." },
+    { "word": "networking", "meaning": "xây dựng mối quan hệ/kết nối", "ipa": "/ˈnetwɜːrkɪŋ/", "example": "Networking is essential for discovering new career opportunities." },
+    { "word": "soft skills", "meaning": "kỹ năng mềm (giao tiếp, làm việc nhóm...)", "ipa": "/sɔːft skɪlz/", "example": "Communication and leadership are key soft skills in the workplace." },
+    { "word": "hard skills", "meaning": "kỹ năng cứng (kiến thức chuyên môn)", "ipa": "/hɑːrd skɪlz/", "example": "Hard skills like programming and accounting are easily measurable." },
+    { "word": "entrepreneur", "meaning": "doanh nhân/người khởi nghiệp", "ipa": "/ˌɑːntrəprəˈnɜːr/", "example": "The young entrepreneur started his first company at eighteen." },
+    { "word": "startup", "meaning": "công ty khởi nghiệp", "ipa": "/ˈstɑːrtʌp/", "example": "Working in a startup can be risky but very exciting." },
+    { "word": "vacation leave", "meaning": "nghỉ phép/nghỉ lễ", "ipa": "/veɪˈkeɪʃn liːv/", "example": "Employees are entitled to twenty days of paid vacation leave per year." },
+    { "word": "redundancy", "meaning": "sự dư thừa nhân viên (bị sa thải do công ty thu hẹp)", "ipa": "/rɪˈdʌndənsi/", "example": "Many people faced redundancy during the economic recession." },
+    { "word": "salary package", "meaning": "gói lương/thu nhập", "ipa": "/ˈsæləri ˈpækɪdʒ/", "example": "The executive position comes with a very attractive salary package." },
+    { "word": "perks", "meaning": "đãi ngộ/tiện ích đi kèm", "ipa": "/pɜːrks/", "example": "One of the perks of the job is free health insurance." },
+    { "word": "bonus", "meaning": "tiền thưởng", "ipa": "/ˈboʊnəs/", "example": "The company gave all employees a year-end bonus for their hard work." },
+    { "word": "occupational hazard", "meaning": "nguy hiểm nghề nghiệp", "ipa": "/ˌɑːkjuˈpeɪʃənl ˈhæzərd/", "example": "Stress is an occupational hazard for many healthcare workers." },
+    { "word": "appraisal", "meaning": "sự đánh giá công việc", "ipa": "/əˈpreɪzl/", "example": "I have my annual performance appraisal with my manager tomorrow." },
+    { "word": "climb the career ladder", "meaning": "thăng tiến trong sự nghiệp", "ipa": "/klaɪm ðə kəˈrɪr ˈlædər/", "example": "She worked long hours to climb the career ladder quickly." },
+    { "word": "burn the midnight oil", "meaning": "thức khuya làm việc/học bài", "ipa": "/bɜːrn ðə ˈmɪdnaɪt ɔɪl/", "example": "The students are burning the midnight oil to prepare for their exams." },
+    { "word": "jack of all trades", "meaning": "người đa năng (biết mỗi thứ một ít)", "ipa": "/ˌdʒæk əv ɔːl ˈtreɪdz/", "example": "In a small company, you have to be a jack of all trades." },
+    { "word": "keep your nose to the grindstone", "meaning": "làm việc chăm chỉ/miệt mài", "ipa": "/kiːp jɔːr noʊz tə ðə ˈɡraɪndstoʊn/", "example": "If you keep your nose to the grindstone, you will surely succeed." },
+    { "word": "think outside the box", "meaning": "tư duy sáng tạo/phá cách", "ipa": "/θɪŋk ˌaʊtsaɪd ðə ˈbɑːks/", "example": "We need someone who can think outside the box to solve this puzzle." },
+    { "word": "practical experience", "meaning": "kinh nghiệm thực tế", "ipa": "/ˈpræktɪkl ɪkˈspɪriəns/", "example": "Internships are vital for gaining practical experience in your field." },
+    { "word": "vocational training", "meaning": "đào tạo nghề", "ipa": "/voʊˈkeɪʃənl ˈtreɪnɪŋ/", "example": "Vocational training focus on developing specific skills for a trade." }
+  ]
+}

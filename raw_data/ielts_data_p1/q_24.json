@@ -1,0 +1,72 @@
+{
+  "id": "q_24",
+  "topic": "Taking photos",
+  "q": "What kind of photos do you take?",
+  "examiner_note": "Giám khảo muốn biết về sở trường và phong cách nhiếp ảnh của bạn. Bạn nên liệt kê một vài thể loại (genres) như: ảnh phong cảnh (landscapes), ảnh chân dung (portraits), hay ảnh đời thường (street photography). Hãy giải thích tại sao bạn lại chọn những chủ thể đó. Các cụm từ như 'candid moments', 'architectural details', 'vivid landscapes' sẽ giúp câu trả lời chuyên nghiệp hơn.",
+  "samples": {
+    "band7": {
+      "text": "I mostly take photos of my friends and family during special occasions like birthdays or holidays. I also like taking pictures of my food when I go to nice restaurants, as it's a good way to share my experiences with others on social media.",
+      "note": "Trả lời trực tiếp, đưa ra các ví dụ cụ thể (friends, family, food). Sử dụng từ vựng tự nhiên và gần gũi."
+    },
+    "band8": {
+      "text": "I’m primarily drawn to landscape and street photography. I love capturing the vibrant energy of city life and the quiet beauty of natural scenery. I particularly enjoy taking 'candid shots' of people going about their daily lives, as I find they tell a much more authentic story than posed portraits.",
+      "note": "Sử dụng từ vựng chuyên môn tốt (landscape, street photography, vibrant energy, candid shots, authentic story, posed portraits). Cách dẫn đạt trôi chảy."
+    },
+    "band9": {
+      "text": "My photography is quite eclectic, but I have a particular affinity for architectural details and minimalist compositions. I find that focusing on the interplay of light and geometric shapes can result in some truly compelling imagery. Additionally, I frequently document my travels through a mix of sweeping vistas and intimate close-ups, aiming to create a comprehensive visual narrative of the places I visit.",
+      "note": "Sử dụng vốn từ vựng cực kỳ phong phú và học thuật (eclectic, affinity, architectural details, minimalist compositions, interplay, geometric shapes, compelling imagery, sweeping vistas, intimate close-ups, visual narrative). Cách lập luận mang tính nghệ thuật cao."
+    }
+  },
+  "v": [
+    { "word": "eclectic", "meaning": "đa dạng/pha trộn từ nhiều nguồn", "ipa": "/eˈklektɪk/", "example": "Her taste in music is very eclectic, ranging from jazz to heavy metal." },
+    { "word": "affinity for", "meaning": "sự yêu thích/hợp với cái gì đó", "ipa": "/əˈfɪnəti fɔːr/", "example": "He has a natural affinity for languages and speaks four fluently." },
+    { "word": "architectural details", "meaning": "các chi tiết kiến trúc", "ipa": "/ˌɑːrkɪˈtektʃərəl ˈdiːteɪlz/", "example": "The photographer captured the intricate architectural details of the old cathedral." },
+    { "word": "minimalist composition", "meaning": "bố cục tối giản", "ipa": "/ˈmɪnɪməlɪst ˌkɑːmpəˈzɪʃn/", "example": "Minimalist composition often relies on a lot of negative space to create impact." },
+    { "word": "compelling imagery", "meaning": "hình ảnh đầy sức thuyết phục/hấp dẫn", "ipa": "/kəmˈpelɪŋ ˈɪmɪdʒəri/", "example": "The documentary uses compelling imagery to highlight the effects of climate change." },
+    { "word": "sweeping vistas", "meaning": "vẻ đẹp bao la/tầm nhìn rộng lớn", "ipa": "/ˈswiːpɪŋ ˈvɪstəz/", "example": "The hotel balcony offers sweeping vistas of the entire mountain range." },
+    { "word": "intimate close-ups", "meaning": "những bức ảnh chụp cận cảnh thân mật", "ipa": "/ˈɪntɪmət ˈkloʊs ʌps/", "example": "The book features intimate close-ups of rare flowers in the rainforest." },
+    { "word": "visual narrative", "meaning": "câu chuyện bằng hình ảnh", "ipa": "/ˈvɪʒuəl ˈnærətɪv/", "example": "The series of photos creates a powerful visual narrative of the refugee crisis." },
+    { "word": "candid moments", "meaning": "những khoảnh khắc tự nhiên/không chuẩn bị", "ipa": "/ˈkændɪd ˈmoʊmənts/", "example": "I prefer taking photos of candid moments rather than posed groups." },
+    { "word": "vivid landscapes", "meaning": "những phong cảnh rực rỡ/sống động", "ipa": "/ˈvɪvɪd ˈlændskeɪps/", "example": "Her paintings are famous for their vivid landscapes and bold colors." },
+    { "word": "posed portraits", "meaning": "ảnh chân dung đã được dàn xếp/diễn", "ipa": "/poʊzd ˈpɔːrtrəts/", "example": "Commercial photography often involves a lot of posed portraits." },
+    { "word": "street photography", "meaning": "nhiếp ảnh đường phố", "ipa": "/striːt fəˈtɑːɡrəfi/", "example": "Street photography requires a quick eye and a lot of patience." },
+    { "word": "macro photography", "meaning": "nhiếp ảnh cận cảnh (vật nhỏ)", "ipa": "/ˈmækroʊ fəˈtɑːɡrəfi/", "example": "Macro photography reveals details that are invisible to the naked eye." },
+    { "word": "wildlife photography", "meaning": "nhiếp ảnh động vật hoang dã", "ipa": "/ˈwaɪldlaɪf fəˈtɑːɡrəfi/", "example": "Wildlife photography can be dangerous and requires specialized equipment." },
+    { "word": "fashion photography", "meaning": "nhiếp ảnh thời trang", "ipa": "/ˈfæʃn fəˈtɑːɡrəfi/", "example": "Fashion photography is a highly competitive and fast-paced industry." },
+    { "word": "food photography", "meaning": "nhiếp ảnh ẩm thực", "ipa": "/fuːd fəˈtɑːɡrəfi/", "example": "Good lighting is essential for high-quality food photography." },
+    { "word": "black and white", "meaning": "ảnh đen trắng", "ipa": "/blæk ənd waɪt/", "example": "Black and white photography has a timeless and dramatic feel." },
+    { "word": "sepia tone", "meaning": "màu nâu đỏ (phong cách ảnh cổ)", "ipa": "/ˈsiːpiə toʊn/", "example": "This filter adds a sepia tone to your photos for a vintage look." },
+    { "word": "high-key", "meaning": "ảnh tông sáng (ít bóng tối)", "ipa": "/haɪ kiː/", "example": "High-key lighting is often used in beauty and product photography." },
+    { "word": "low-key", "meaning": "ảnh tông tối (nhiều bóng tối, tương phản cao)", "ipa": "/loʊ kiː/", "example": "Low-key photography is perfect for creating a mysterious atmosphere." },
+    { "word": "subject matter", "meaning": "chủ đề/nội dung ảnh", "ipa": "/ˈsʌbdʒɪkt ˈmætər/", "example": "The artist's subject matter usually revolves around nature and technology." },
+    { "word": "focal point", "meaning": "điểm nhấn/điểm hội tụ", "ipa": "/ˈfoʊkl pɔɪnt/", "example": "In this composition, the bright red lighthouse is the focal point." },
+    { "word": "rule of thirds", "meaning": "quy tắc một phần ba (trong bố cục)", "ipa": "/ruːl əv θɜːrdz/", "example": "Applying the rule of thirds can make your photos look more professional." },
+    { "word": "leading lines", "meaning": "đường dẫn (trong bố cục ảnh)", "ipa": "/ˈliːdɪŋ laɪnz/", "example": "The road creates great leading lines that draw the viewer's eye into the distance." },
+    { "word": "bokeh", "meaning": "hiệu ứng làm mờ hậu cảnh (đốm sáng mờ)", "ipa": "/ˈboʊkə/", "example": "A fast lens is necessary to achieve a beautiful bokeh effect." },
+    { "word": "depth of field", "meaning": "độ sâu trường ảnh/độ mờ", "ipa": "/depθ əv fiːld/", "example": "A shallow depth of field is used to isolate the subject from the background." },
+    { "word": "shutter speed", "meaning": "tốc độ màn trập", "ipa": "/ˈʃʌtər spiːd/", "example": "A slow shutter speed can create a beautiful blur in moving water." },
+    { "word": "aperture", "meaning": "khẩu độ", "ipa": "/ˈæpərtʃər/", "example": "Choosing a wide aperture allows more light to reach the sensor." },
+    { "word": "ISO settings", "meaning": "thông số ISO (độ nhạy sáng)", "ipa": "/ˌaɪ es ˈoʊ ˈsetɪŋz/", "example": "Don't increase the ISO settings too much, or the photo will be grainy." },
+    { "word": "tripod", "meaning": "chân máy ảnh", "ipa": "/ˈtraɪpɑːd/", "example": "A tripod is essential for night-time and long-exposure photography." },
+    { "word": "external flash", "meaning": "đèn flash rời", "ipa": "/ɪkˈstɜːrnl flæʃ/", "example": "Using an external flash can help soften harsh shadows." },
+    { "word": "reflector", "meaning": "tấm hắt sáng", "ipa": "/rɪˈflektər/", "example": "The assistant held a reflector to bounce light onto the model's face." },
+    { "word": "post-processing", "meaning": "hậu kỳ/xỉnh sửa ảnh sau khi chụp", "ipa": "/poʊst ˈprɑːsesɪŋ/", "example": "Post-processing allows you to correct exposure and enhance colors." },
+    { "word": "RAW format", "meaning": "định dạng ảnh thô (chứa nhiều thông tin để chỉnh sửa)", "ipa": "/rɔː ˈfɔːrmæt/", "example": "Professional photographers always shoot in RAW format for maximum flexibility." },
+    { "word": "editing software", "meaning": "phần mềm chỉnh sửa", "ipa": "/ˈedɪtɪŋ ˈsɔːftwer/", "example": "Lightroom is arguably the best editing software for organizing and processing photos." },
+    { "word": "presets", "meaning": "các thiết lập sẵn (để chỉnh màu nhanh)", "ipa": "/ˈpriːsets/", "example": "I created some custom presets to give my photos a consistent look." },
+    { "word": "sharpening", "meaning": "làm sắc nét", "ipa": "/ˈʃɑːrpnɪŋ/", "example": "Be careful with sharpening; too much can make the photo look unnatural." },
+    { "word": "noise reduction", "meaning": "giảm nhiễu (cho ảnh thiếu sáng)", "ipa": "/nɔɪz rɪˈdʌkʃn/", "example": "The new software has a very effective Phạm Tiến Dũng Gia Sư-powered noise reduction tool." },
+    { "word": "overexposed", "meaning": "cháy sáng/quá sáng", "ipa": "/ˌoʊvərɪkˈspoʊzd/", "example": "The white dress looks completely flat because the photo is overexposed." },
+    { "word": "underexposed", "meaning": "thiếu sáng", "ipa": "/ˌʌndərɪkˈspoʊzd/", "example": "The shadows are too dark, suggesting the image is underexposed." },
+    { "word": "dynamic range", "meaning": "dải động (khả năng cân bằng sáng tối)", "ipa": "/daɪˈnæmɪk reɪndʒ/", "example": "Modern cameras have an incredible dynamic range that captures detail in both shadows and highlights." },
+    { "word": "framing", "meaning": "cách đóng khung", "ipa": "/ˈfreɪmɪŋ/", "example": "The arch of the bridge provided perfect framing for the city skyline." },
+    { "word": "vantage point", "meaning": "điểm thuận lợi (để quan sát/chụp)", "ipa": "/ˈvæntɪdʒ pɔɪnt/", "example": "We climbed to the rooftop to get a better vantage point for the fireworks." },
+    { "word": "shutter release", "meaning": "nút bấm chụp/cơ chế chụp", "ipa": "/ˈʃʌtər rɪˈliːs/", "example": "I used a remote shutter release to avoid vibrating the camera on the tripod." },
+    { "word": "long exposure", "meaning": "phơi sáng lâu", "ipa": "/lɔːŋ ɪkˈspoʊʒər/", "example": "Long exposure photography can turn moving clouds into a soft blur." },
+    { "word": "burst mode", "meaning": "chế độ chụp liên tục", "ipa": "/bɜːrst moʊd/", "example": "Use burst mode when photographing fast-moving action like sports." },
+    { "word": "panoramic", "meaning": "toàn cảnh", "ipa": "/ˌpænəˈræmɪk/", "example": "I took a panoramic photo to capture the whole mountain valley." },
+    { "word": "time-lapse", "meaning": "tua nhanh thời gian", "ipa": "/ˈtaɪm læps/", "example": "The time-lapse video showed the flower blooming in just thirty seconds." },
+    { "word": "digital footprint", "meaning": "dấu chân kỹ thuật số", "ipa": "/ˈdɪdʒɪtl ˈfʊtprɪnt/", "example": "Every photo you post online becomes part of your digital footprint." },
+    { "word": "visual aesthetic", "meaning": "thẩm mỹ về mặt thị giác", "ipa": "/ˈvɪʒuəl esˈθetɪk/", "example": "The director is known for his unique and haunting visual aesthetic." }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_42",
+  "vocab": [
+    {
+      "word": "hit the town",
+      "ipa": "/hɪt ðə taʊn/",
+      "meaning": "đi chơi đêm, thường là đến những nơi náo nhiệt như quán bar hay câu lạc bộ",
+      "example": "On the rare occasion that I'm feeling energetic, I might hit the town with my colleagues to celebrate a successful week.",
+      "type": "idiom"
+    },
+    {
+      "word": "a breath of fresh air",
+      "ipa": "/ə breθ əv freʃ eər/",
+      "meaning": "một sự thay đổi mới mẻ và dễ chịu",
+      "example": "Escaping to a quiet countryside retreat after a hectic week in the city is a real breath of fresh air for me.",
+      "type": "idiom"
+    },
+    {
+      "word": "at odds with",
+      "ipa": "/æt ɒdz wɪð/",
+      "meaning": "xung đột với, không phù hợp với (sở thích/tính cách)",
+      "example": "Noisy environments are usually at odds with my personality, as I prefer deep conversations over loud music.",
+      "type": "idiom"
+    },
+    {
+      "word": "my cup of tea",
+      "ipa": "/maɪ kʌp əv tiː/",
+      "meaning": "sở thích của tôi, thứ mà tôi ưa chuộng",
+      "example": "Loud, crowded concerts aren't really my cup of tea; I’d much rather spend my Sunday in a serene botanical garden.",
+      "type": "idiom"
+    },
+    {
+      "word": "a stone's throw from",
+      "ipa": "/ə stəʊnz θrəʊ frəm/",
+      "meaning": "rất gần, chỉ cách một quãng ngắn",
+      "example": "There's a quaint little library just a stone's throw from my house where I can enjoy some silence.",
+      "type": "idiom"
+    },
+    {
+      "word": "the best of both worlds",
+      "ipa": "/ðə best əv bəʊθ wɜːldz/",
+      "meaning": "tận hưởng được lợi thế của cả hai tình huống khác nhau",
+      "example": "I like visiting suburban cafes because they offer the best of both worlds: a bit of social buzz without being deafening.",
+      "type": "idiom"
+    },
+    {
+      "word": "be in one's element",
+      "ipa": "/bi ɪn wʌnz ˈel.ɪ.mənt/",
+      "meaning": "được ở trong môi trường quen thuộc/yêu thích và phát huy tốt nhất",
+      "example": "I'm truly in my element when I'm sitting in a quiet park, sketching the scenery without any distractions.",
+      "type": "idiom"
+    },
+    {
+      "word": "cut off from the world",
+      "ipa": "/kʌt ɒf frəm ðə wɜːld/",
+      "meaning": "tách biệt hoàn toàn với thế giới bên ngoài",
+      "example": "Sometimes I just want to go somewhere completely cut off from the world to clear my head and destress.",
+      "type": "idiom"
+    },
+    {
+      "word": "recharge one's batteries",
+      "ipa": "/ˌriːˈtʃɑːdʒ wʌnz ˈbæt.ər.iz/",
+      "meaning": "hồi phục năng lượng, nghỉ ngơi để lấy lại sức",
+      "example": "I tend to choose tranquil spots on Saturdays primarily to recharge my batteries for the upcoming work week.",
+      "type": "idiom"
+    },
+    {
+      "word": "it speaks volumes",
+      "ipa": "/ɪt spiːks ˈvɒl.juːmz/",
+      "meaning": "nói lên rất nhiều điều (mà không cần lời nói)",
+      "example": "The fact that I always head for the mountains on weekends speaks volumes about my need for solitude.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

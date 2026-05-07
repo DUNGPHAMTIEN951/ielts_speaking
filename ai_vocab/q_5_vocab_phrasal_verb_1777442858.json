@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "tiring out",
+      "ipa": "/ˈtaɪərɪŋ aʊt/",
+      "meaning": "làm cho kiệt sức, mệt lử",
+      "example": "Although a long hike can be tiring out, I find the physical exhaustion quite rewarding.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wander off",
+      "ipa": "/ˈwɒndər ɒf/",
+      "meaning": "đi lang thang xa khỏi lộ trình chính",
+      "example": "I love to wander off the beaten track when I'm exploring a new city on foot.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "step out",
+      "ipa": "/step aʊt/",
+      "meaning": "đi ra ngoài (trong một khoảng thời gian ngắn)",
+      "example": "I usually try to step out for a breath of fresh air during my lunch break to clear my head.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "amble along",
+      "ipa": "/ˈæmbl əˈlɒŋ/",
+      "meaning": "đi thong thả, tản bộ",
+      "example": "On Sunday mornings, I enjoy ambling along the riverbank without any particular destination in mind.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep on",
+      "ipa": "/kiːp ɒn/",
+      "meaning": "tiếp tục đi (mặc dù mệt hoặc khó khăn)",
+      "example": "Even when my legs start to ache, I keep on walking because I want to reach the summit before sunset.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng/đắm mình vào (không khí, cảnh vật khi đi bộ)",
+      "example": "Walking allows me to soak up the vibrant energy of the neighborhood in a way that driving never could.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off",
+      "ipa": "/set ɒf/",
+      "meaning": "khởi hành, bắt đầu một chuyến đi bộ",
+      "example": "I typically set off quite early in the morning to avoid the scorching midday sun.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stretch out",
+      "ipa": "/stretʃ aʊt/",
+      "meaning": "đi sải bước dài/thư giãn gân cốt",
+      "example": "After sitting in a cramped office all day, it feels great to stretch out my legs with a brisk walk home.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tag along",
+      "ipa": "/tæɡ əˈlɒŋ/",
+      "meaning": "đi theo, đi cùng (ai đó đã có kế hoạch đi trước)",
+      "example": "My flatmate often goes for a run, but I prefer to tag along at a walking pace just to get some exercise.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get about",
+      "ipa": "/ɡet əˈbaʊt/",
+      "meaning": "đi lại, di chuyển từ nơi này sang nơi khác",
+      "example": "In a compact city like this, walking is often the most efficient way to get about.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

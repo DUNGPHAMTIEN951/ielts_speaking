@@ -1,0 +1,76 @@
+{
+  "id": "q_29",
+  "vocab": [
+    {
+      "word": "tide over",
+      "ipa": "/taɪd ˈəʊ.vər/",
+      "meaning": "giúp ai đó vượt qua giai đoạn khó khăn (thường là về tài chính)",
+      "example": "I'm currently taking on a part-time retail job to tide me over until I secure a more permanent position in my field.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒ.ər ʌp tuː/",
+      "meaning": "đạt tới kỳ vọng hoặc tiêu chuẩn nhất định",
+      "example": "Being a fresh graduate, I sometimes worry whether my practical skills will measure up to the high standards of the corporate world.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull out all the stops",
+      "ipa": "/pʊl aʊt ɔːl ðə stɒps/",
+      "meaning": "nỗ lực hết mình, dùng mọi nguồn lực để đạt mục tiêu",
+      "example": "As a final-year student, I’ve had to pull out all the stops to balance my thesis writing with my internship responsibilities.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "map out",
+      "ipa": "/mæp aʊt/",
+      "meaning": "lên kế hoạch chi tiết cho tương lai hoặc một dự án",
+      "example": "My academic advisor helped me map out a clear career path, identifying which certifications I need to pursue after graduation.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "plough through",
+      "ipa": "/plaʊ θruː/",
+      "meaning": "kiên trì hoàn thành một việc gì đó khó khăn hoặc tẻ nhạt (ví dụ: đống tài liệu)",
+      "example": "In my current role as a researcher, I spend most of my mornings ploughing through vast amounts of raw data.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ease into",
+      "ipa": "/iːz ˈɪn.tuː/",
+      "meaning": "dần làm quen với một công việc hoặc môi trường mới",
+      "example": "I’m just starting my new job, so I’m currently trying to ease into the company culture and understand the workflow.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn tập hoặc cải thiện một kỹ năng đã lâu không dùng",
+      "example": "I’ve decided to brush up on my graphic design skills through an evening course to make myself more employable.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burn out",
+      "ipa": "/bɜːn aʊt/",
+      "meaning": "kiệt sức hoàn toàn do làm việc quá tải",
+      "example": "The workload at my current firm is quite intense, and I have to be careful not to burn out before the peak season ends.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take on",
+      "ipa": "/teɪk ɒn/",
+      "meaning": "đảm nhận (trách nhiệm, công việc hoặc thử thách mới)",
+      "example": "I recently took on the role of project lead, which has been a steep learning curve but incredibly rewarding.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp tiến độ hoặc những thay đổi mới nhất",
+      "example": "In the fast-paced world of software engineering, it's a constant struggle to keep up with the latest programming frameworks.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

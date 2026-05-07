@@ -1,0 +1,76 @@
+{
+  "id": "q_38",
+  "vocab": [
+    {
+      "word": "conducive to",
+      "ipa": "/kənˈdjuːsɪv tuː/",
+      "meaning": "có lợi cho, tạo điều kiện cho",
+      "example": "A quiet room with plenty of natural light is highly conducive to deep concentration.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "cognitive load",
+      "ipa": "/ˈkɒɡnətɪv ləʊd/",
+      "meaning": "áp lực nhận thức, lượng thông tin trí não phải xử lý",
+      "example": "A cluttered desk increases your cognitive load, making it much harder to process complex information.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "foster productivity",
+      "ipa": "/ˈfɒstə prɒdʌkˈtɪvəti/",
+      "meaning": "thúc đẩy năng suất",
+      "example": "Ergonomic furniture is not just a luxury; it's essential to foster productivity during long study sessions.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "undivided attention",
+      "ipa": "/ˌʌndɪˈvaɪdɪd əˈtenʃn/",
+      "meaning": "sự chú ý hoàn toàn, không bị xao nhãng",
+      "example": "Having a dedicated space allows me to give my undivided attention to the task at hand.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "sensory distractions",
+      "ipa": "/ˈsensəri dɪˈstrækʃnz/",
+      "meaning": "những tác nhân gây xao nhãng về giác quan (tiếng ồn, mùi vị, hình ảnh)",
+      "example": "I prefer studying in a library to minimize sensory distractions like the smell of food or the hum of the TV.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "psychological boundary",
+      "ipa": "/ˌsaɪkəˈlɒdʒɪkl ˈbaʊndri/",
+      "meaning": "ranh giới tâm lý",
+      "example": "Creating a specific study corner helps establish a psychological boundary between work and relaxation.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "optimal focus",
+      "ipa": "/ˈɒptɪml ˈfəʊkəs/",
+      "meaning": "sự tập trung tối ưu",
+      "example": "Without a proper environment, achieving optimal focus is nearly impossible for most students.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "streamline the process",
+      "ipa": "/ˈstriːmlaɪn ðə ˈprəʊses/",
+      "meaning": "tối ưu hóa quy trình, làm cho hiệu quả hơn",
+      "example": "A well-organized study area helps streamline the learning process by having all resources within reach.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "mental clarity",
+      "ipa": "/ˈmentl ˈklærəti/",
+      "meaning": "sự minh mẫn, sự sáng suốt trong tâm trí",
+      "example": "Minimalist surroundings often lead to greater mental clarity and faster problem-solving.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "be conducive to burnout",
+      "ipa": "/bi kənˈdjuːsɪv tuː ˈbɜːnaʊt/",
+      "meaning": "dễ dẫn đến kiệt sức (khi môi trường học tập tồi tệ)",
+      "example": "Studying in a chaotic or poorly lit room can be conducive to burnout and eye strain over time.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

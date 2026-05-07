@@ -1,0 +1,76 @@
+{
+  "id": "q_24",
+  "vocab": [
+    {
+      "word": "golden hour",
+      "ipa": "/ˈɡəʊl.dən aʊər/",
+      "meaning": "giờ vàng (thời điểm ngay sau khi mặt trời mọc hoặc trước khi mặt trời lặn)",
+      "example": "I try to head out during the golden hour to capture landscapes bathed in a warm, ethereal glow.",
+      "type": "collocation"
+    },
+    {
+      "word": "candid street photography",
+      "ipa": "/ˈkæn.dɪd striːt fəˈtɒɡ.rə.fi/",
+      "meaning": "chụp ảnh đường phố tự nhiên (không sắp đặt)",
+      "example": "My portfolio mostly consists of candid street photography, focusing on the raw, unscripted moments of daily life.",
+      "type": "collocation"
+    },
+    {
+      "word": "vanishing point",
+      "ipa": "/ˈvæn.ɪ.ʃɪŋ pɔɪnt/",
+      "meaning": "điểm tụ (trong bố cục hình ảnh)",
+      "example": "I like taking photos of long avenues or railways to experiment with the vanishing point and create a sense of infinite depth.",
+      "type": "collocation"
+    },
+    {
+      "word": "juxtaposition",
+      "ipa": "/ˌdʒʌk.stə.pəˈzɪʃ.ən/",
+      "meaning": "sự để cạnh nhau (để làm nổi bật sự tương phản)",
+      "example": "I am fascinated by the juxtaposition of ancient temples and modern skyscrapers in a single frame.",
+      "type": "collocation"
+    },
+    {
+      "word": "vibrant hues",
+      "ipa": "/ˈvaɪ.brənt hjuːz/",
+      "meaning": "những tông màu rực rỡ",
+      "example": "I particularly enjoy photographing botanical gardens because I'm drawn to the vibrant hues of exotic flowers.",
+      "type": "collocation"
+    },
+    {
+      "word": "silhouetted figures",
+      "ipa": "/ˌsɪl.uˈet.ɪd ˈfɪɡ.ərz/",
+      "meaning": "những nhân vật đổ bóng đen (ngược sáng)",
+      "example": "At sunset, I often look for silhouetted figures against the sky to create a more dramatic and mysterious mood.",
+      "type": "collocation"
+    },
+    {
+      "word": "grainy texture",
+      "ipa": "/ˈɡreɪ.ni ˈteks.tʃər/",
+      "meaning": "kết cấu hạt (thường thấy trong ảnh phim hoặc ảnh nghệ thuật)",
+      "example": "I sometimes apply a filter to give my shots a grainy texture, which lends them a nostalgic, vintage feel.",
+      "type": "collocation"
+    },
+    {
+      "word": "rule of thirds",
+      "ipa": "/ruːl əv θɜːdz/",
+      "meaning": "quy tắc một phần ba (trong bố cục)",
+      "example": "I strictly adhere to the rule of thirds to ensure my compositions are balanced and visually appealing.",
+      "type": "collocation"
+    },
+    {
+      "word": "ephemeral beauty",
+      "ipa": "/ɪˈfem.ər.əl ˈbjuː.ti/",
+      "meaning": "vẻ đẹp phù du/thoáng qua",
+      "example": "Photography allows me to freeze time and preserve the ephemeral beauty of a passing storm or a melting icicle.",
+      "type": "collocation"
+    },
+    {
+      "word": "symmetry and balance",
+      "ipa": "/ˈsɪm.ə.tri ənd ˈbæl.əns/",
+      "meaning": "sự đối xứng và cân bằng",
+      "example": "I have a keen eye for symmetry and balance, which is why I love taking photos of grand interior hallways.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

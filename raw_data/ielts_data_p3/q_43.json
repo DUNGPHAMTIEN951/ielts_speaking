@@ -1,0 +1,52 @@
+{
+  "id": "q_43",
+  "topic": "Public places",
+  "q": "Do you usually go to public places with your friends?",
+  "examiner_note": "Nói về hoạt động xã hội. Sử dụng 'hang out', 'convenient', 'social well-being', 'catch up'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I often hang out with friends in cafés or parks. These places are convenient, and they give us a chance to relax together and catch up on each other's lives. It's a very common way to spend our free time.",
+      "note": "Trả lời trực tiếp và sử dụng từ vựng tự nhiên (hang out, catch up)."
+    },
+    "band8": {
+      "text": "Definitely. I find that meeting in public spaces like libraries or community centers is a great way to socialize without the pressure of hosting at home. It’s also nice to be surrounded by other people and enjoy the vibrant atmosphere of the city together.",
+      "note": "Sử dụng từ vựng hay (socialize, hosting, vibrant atmosphere)."
+    },
+    "band9": {
+      "text": "I frequently utilize public squares and botanical gardens as venues for meeting friends. These spaces offer a neutral and accessible environment for social interaction and foster a sense of community engagement. I find that being in a shared public space enhances our collective experience and allows for more spontaneous and lighthearted conversations.",
+      "note": "Sử dụng từ vựng ở mức độ cao (venues, accessible, social interaction, collective, spontaneous)."
+    }
+  },
+  "v": [
+    {
+      "word": "venue",
+      "meaning": "địa điểm tổ chức",
+      "ipa": "/ˈvenjuː/",
+      "example": "The hotel is a popular venue for weddings."
+    },
+    {
+      "word": "spontaneous",
+      "meaning": "tự phát/ngẫu hứng",
+      "ipa": "/spɑːnˈteɪniəs/",
+      "example": "The crowd burst into spontaneous applause."
+    },
+    {
+      "word": "catch up",
+      "meaning": "hàn huyên/theo kịp tin tức",
+      "ipa": "/kætʃ ʌp/",
+      "example": "We need to catch up on all the news."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "accessible",
+      "meaning": "có thể tiếp cận dễ dàng",
+      "ipa": "/əkˈsesəbl/",
+      "example": "The building is fully accessible to wheelchair users."
+    }
+  ],
+  "similar_questions": [
+    "What is your favorite public place?",
+    "Do you prefer meeting friends at home or in public?"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_21",
+  "vocab": [
+    {
+      "word": "stick to",
+      "ipa": "/stɪk tuː/",
+      "meaning": "kiên trì bám sát (một kế hoạch hoặc chế độ ăn)",
+      "example": "It can be challenging during the holidays, but I try my best to stick to my clean eating routine.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut back on",
+      "ipa": "/kʌt bæk ɒn/",
+      "meaning": "cắt giảm bớt (lượng tiêu thụ thứ gì đó)",
+      "example": "I’ve been trying to cut back on caffeine lately to improve the quality of my sleep.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get into",
+      "ipa": "/ɡet ˈɪn.tuː/",
+      "meaning": "bắt đầu trở nên hứng thú hoặc hình thành một thói quen",
+      "example": "I recently managed to get into a steady rhythm of practicing yoga every morning.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "taper off",
+      "ipa": "/ˈteɪ.pər ɒf/",
+      "meaning": "giảm dần cường độ hoặc tần suất",
+      "example": "I usually taper off my physical activity toward the end of the week to allow my muscles to recover.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "work off",
+      "ipa": "/wɜːk ɒf/",
+      "meaning": "giải tỏa (căng thẳng, áp lực) hoặc tiêu hao năng lượng thông qua vận động",
+      "example": "After a stressful day at the office, I find that a session at the gym helps me work off all that pent-up frustration.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "duy trì tốc độ hoặc theo kịp (một chương trình tập luyện)",
+      "example": "At first, it was hard to keep up with the advanced aerobics class, but my stamina has improved significantly.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "whip up",
+      "ipa": "/wɪp ʌp/",
+      "meaning": "nấu nhanh một bữa ăn (thường là bữa ăn lành mạnh, tự làm)",
+      "example": "I prefer to whip up a nutritious salad at home rather than ordering fast food for lunch.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "freshen up",
+      "ipa": "/ˈfreʃ.ən ʌp/",
+      "meaning": "làm sảng khoái lại cơ thể (sau khi tập luyện hoặc làm việc)",
+      "example": "Taking a cold shower after a morning jog really helps me freshen up and prepares me for the day ahead.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "slack off",
+      "ipa": "/slæk ɒf/",
+      "meaning": "lơ là, bớt nỗ lực trong việc tập luyện hoặc ăn kiêng",
+      "example": "I tend to slack off a bit during the winter months, so I have to remind myself to stay active.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "live on",
+      "ipa": "/lɪv ɒn/",
+      "meaning": "ăn chủ yếu một loại thực phẩm nào đó (trong bối cảnh ăn uống lành mạnh)",
+      "example": "I practically live on fresh fruit and vegetables during the summer to keep my body feeling light and energized.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

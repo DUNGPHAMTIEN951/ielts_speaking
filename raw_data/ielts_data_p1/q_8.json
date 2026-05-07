@@ -1,0 +1,72 @@
+{
+  "id": "q_8",
+  "topic": "Scenery",
+  "q": "What's the best view that you have ever enjoyed?",
+  "examiner_note": "Đây là câu hỏi yêu cầu bạn kể về một trải nghiệm trong quá khứ. Hãy chọn một địa điểm thực sự ấn tượng (ví dụ: đỉnh núi, vịnh biển, hoặc thành phố về đêm). Sử dụng các tính từ chỉ mức độ cực hạn (superlative adjectives) và các cụm từ diễn tả sự kinh ngạc. Quan tâm đến việc mô tả không gian (vừa rộng lớn, vừa yên tĩnh) để tăng tính truyền cảm.",
+  "samples": {
+    "band7": {
+      "text": "The best view I’ve ever experienced was from the top of a mountain in Sapa. Standing above the clouds and looking down at the green valleys was absolutely amazing. It was a bit cold there, but the scenery made everything worth it.",
+      "note": "Trả lời mạch lạc, có địa điểm cụ thể và mô tả cảm xúc cá nhân. Sử dụng tốt tính từ 'absolutely amazing'."
+    },
+    "band8": {
+      "text": "The most memorable vista I’ve ever witnessed was definitely the sunrise over Ha Long Bay. I was on a cruise ship, and watching the sun slowly peek behind the limestone karsts, reflecting on the emerald water, was truly breathtaking. It felt like something straight out of a painting, and the sheer serenity of the moment is something I’ll cherish forever.",
+      "note": "Sử dụng từ vựng miêu tả rất tốt (vista, limestone karsts, emerald water, breathtaking, serenity). Có sự so sánh hình ảnh sinh động."
+    },
+    "band9": {
+      "text": "Without question, the most awe-inspiring sight I’ve ever beheld was the sunrise at the summit of Mount Fuji. After a gruelling overnight climb, the rewarding spectacle of the sun breaking through a sea of clouds was nothing short of miraculous. The horizon was painted in vibrant hues of crimson and gold, and for a few fleeting moments, the world felt infinitely vast yet incredibly peaceful. It was a profound spiritual experience that left an indelible mark on my memory.",
+      "note": "Từ vựng ở mức độ chuyên gia (awe-inspiring, beheld, summit, gruelling, spectacle, miraculous, hues, fleeting, indelible mark). Cách kể chuyện đầy cảm xúc và triết lý."
+    }
+  },
+  "v": [
+    { "word": "awe-inspiring", "meaning": "khiến người ta kinh ngạc/ngưỡng mộ", "ipa": "/ˈɔː ɪnˌspaɪərɪŋ/", "example": "The Milky Way is an awe-inspiring sight on a clear night." },
+    { "word": "beheld", "meaning": "chiêm ngưỡng/nhìn ngắm (quá khứ của behold)", "ipa": "/bɪˈheld/", "example": "We beheld a scene of incredible beauty." },
+    { "word": "summit", "meaning": "đỉnh núi", "ipa": "/ˈsʌmɪt/", "example": "It took us six hours to reach the summit." },
+    { "word": "gruelling", "meaning": "cực kỳ mệt mỏi/vất vả", "ipa": "/ˈɡruːəlɪŋ/", "example": "The marathon was a gruelling test of endurance." },
+    { "word": "spectacle", "meaning": "quang cảnh/thắng cảnh hùng vĩ", "ipa": "/ˈspektəkl/", "example": "The solar eclipse was a magnificent spectacle." },
+    { "word": "nothing short of", "meaning": "không khác gì/thực sự là", "ipa": "/ˈnʌθɪŋ ʃɔːrt əv/", "example": "Her survival was nothing short of a miracle." },
+    { "word": "vibrant hues", "meaning": "những sắc thái màu rực rỡ", "ipa": "/ˈvaɪbrənt hjuːz/", "example": "Transitioning clouds displayed vibrant hues of pink and orange." },
+    { "word": "fleeting moment", "meaning": "khoảnh khắc thoáng qua", "ipa": "/ˈfliːtɪŋ ˈmoʊmənt/", "example": "I only caught a fleeting moment of the shooting star." },
+    { "word": "indelible mark", "meaning": "dấu ấn không thể phai mờ", "ipa": "/ɪnˈdeləbl mɑːrk/", "example": "The war left an indelible mark on his character." },
+    { "word": "limestone karsts", "meaning": "núi đá vôi", "ipa": "/ˈlaɪmstoʊn kɑːrsts/", "example": "Ha Long Bay is famous for its towering limestone karsts." },
+    { "word": "emerald water", "meaning": "nước màu xanh ngọc lục bảo", "ipa": "/ˈemərəld ˈwɔːtər/", "example": "The tropical island is surrounded by emerald water." },
+    { "word": "breathtaking", "meaning": "đẹp đến nín thở", "ipa": "/ˈbreθˌteɪkɪŋ/", "example": "The view from the penthouse was breathtaking." },
+    { "word": "serenity", "meaning": "sự thanh bình/phẳng lặng", "ipa": "/səˈrenəti/", "example": "I love the serenity of the lake in the early morning." },
+    { "word": "cherish forever", "meaning": "trân trọng mãi mãi", "ipa": "/ˈtʃerɪʃ fərˈevər/", "example": "I will cherish these childhood memories forever." },
+    { "word": "vista", "meaning": "tầm nhìn xa/quang cảnh", "ipa": "/ˈvɪstə/", "example": "The balcony offers a broad vista of the city below." },
+    { "word": "panoramic", "meaning": "toàn cảnh", "ipa": "/ˌpænəˈræmɪk/", "example": "The hotel has a panoramic restaurant on the 50th floor." },
+    { "word": "stunningly beautiful", "meaning": "đẹp một cách kinh ngạc", "ipa": "/ˈstʌnɪŋli ˈbjuːtɪfl/", "example": "The coral reefs are stunningly beautiful." },
+    { "word": "magnificent", "meaning": "nguy nga/lộng lẫy", "ipa": "/mæɡˈnɪfɪsnt/", "example": "The palace is a magnificent example of architecture." },
+    { "word": "sublime", "meaning": "siêu thực/tuyệt vời", "ipa": "/səˈblaɪm/", "example": "The music was so beautiful it was almost sublime." },
+    { "word": "otherworldly", "meaning": "không thuộc về thế giới này/siêu thực", "ipa": "/ˌʌðərˈwɜːrldli/", "example": "The landscape of Iceland feels almost otherworldly." },
+    { "word": "rugged mountain", "meaning": "ngọn núi hiểm trở/gồ ghề", "ipa": "/ˈrʌɡɪd ˈmaʊntn/", "example": "The rugged mountains of Scotland are perfect for hiking." },
+    { "word": "snow-capped", "meaning": "đỉnh phủ đầy tuyết", "ipa": "/ˈsnoʊ kæpt/", "example": "The Alps are famous for their snow-capped peaks." },
+    { "word": "cascading waterfall", "meaning": "thác nước chảy xuống mạnh mẽ", "ipa": "/kæˈskeɪdɪŋ ˈwɔːtərfɔːl/", "example": "We stopped to admire the cascading waterfall." },
+    { "word": "dazzling light", "meaning": "ánh sáng chói lọi/rực rỡ", "ipa": "/ˈdæzlɪŋ laɪt/", "example": "The dazzling light of the sun on the snow was blinding." },
+    { "word": "picturesque village", "meaning": "ngôi làng đẹp như tranh", "ipa": "/ˌpɪktʃəˈresk ˈvɪlɪdʒ/", "example": "It was a picturesque village with narrow cobblestone streets." },
+    { "word": "spectacular sunset", "meaning": "hoàng hôn ngoạn mục", "ipa": "/spekˈtækjələr ˈsʌnset/", "example": "Santorini is known for its spectacular sunsets." },
+    { "word": "rolling hills", "meaning": "những ngọn đồi nhấp nhô", "ipa": "/ˈroʊlɪŋ hɪlz/", "example": "The Tuscan landscape is characterized by rolling hills." },
+    { "word": "dense forest", "meaning": "rừng rậm rạp", "ipa": "/dens ˈfɔːrɪst/", "example": "We hiked through the dense forest for hours." },
+    { "word": "crystal-clear lake", "meaning": "hồ nước trong vắt", "ipa": "/ˌkrɪstl ˈklɪr leɪk/", "example": "Lake Baikal is a famous crystal-clear lake in Russia." },
+    { "word": "pristine beach", "meaning": "bãi biển nguyên sơ", "ipa": "/ˈprɪstiːn biːtʃ/", "example": "The Maldives are home to many pristine beaches." },
+    { "word": "misty valley", "meaning": "thung lũng mờ sương", "ipa": "/ˈmɪsti ˈvæli/", "example": "The castle looked mysterious in the misty valley." },
+    { "word": "vast extent", "meaning": "một vùng rộng lớn", "ipa": "/væst ɪkˈstent/", "example": "The vast extent of the Sahara desert was overwhelming." },
+    { "word": "boundless horizon", "meaning": "đường chân trời vô hạn", "ipa": "/ˈbaʊndləs həˈraɪzn/", "example": "Standing on the ship, I saw only the boundless horizon." },
+    { "word": "eye-popping", "meaning": "đẹp đến mức trợn mắt (ngoạn mục)", "ipa": "/ˈaɪ pɑːpɪŋ/", "example": "The special effects in the movie were truly eye-popping." },
+    { "word": "take one's breath away", "meaning": "làm ai đó nín thở (vì quá đẹp/bất ngờ)", "ipa": "/teɪk wʌnz breθ əˈweɪ/", "example": "The view from the Eiffel tower will take your breath away." },
+    { "word": "feast for the eyes", "meaning": "một bữa tiệc cho đôi mắt", "ipa": "/fiːst fər ðə aɪz/", "example": "The flower show was a real feast for the eyes." },
+    { "word": "straight out of a movie", "meaning": "như bước ra từ phim ảnh", "ipa": "/streɪt aʊt əv ə ˈmuːvi/", "example": "This scenery is so perfect it's like straight out of a movie." },
+    { "word": "like a dream", "meaning": "như một giấc mơ", "ipa": "/laɪk ə driːm/", "example": "The whole holiday felt like a dream." },
+    { "word": "leave someone speechless", "meaning": "khiến ai đó không nói nên lời", "ipa": "/liːv ˈsʌmwʌn ˈspiːtʃləs/", "example": "The beauty of the cathedral left us speechless." },
+    { "word": "beyond words", "meaning": "không thể diễn tả bằng lời", "ipa": "/bɪˈjɑːnd wɜːrdz/", "example": "The kindness she showed was beyond words." },
+    { "word": "once in a lifetime", "meaning": "một lần trong đời", "ipa": "/wʌns ɪn ə ˈlaɪftaɪm/", "example": "Seeing an aurora is a once in a lifetime experience." },
+    { "word": "unforgettable memory", "meaning": "kỷ niệm không thể quên", "ipa": "/ˌʌnfərˈɡetəbl ˈmeməri/", "example": "Our wedding day is an unforgettable memory for both of us." },
+    { "word": "soothe the soul", "meaning": "xoa dịu tâm hồn", "ipa": "/suːð ðə soʊl/", "example": "Nature has a way to soothe the soul." },
+    { "word": "spiritual connection", "meaning": "mối liên kết tâm linh", "ipa": "/ˈspɪrɪtʃuəl kəˈnekʃn/", "example": "Some hikers find a spiritual connection with the mountains." },
+    { "word": "escape the city life", "meaning": "trốn khỏi cuộc sống thành phố", "ipa": "/ɪˈskeɪp ðə ˈsɪti laɪf/", "example": "I need a weekend trip to escape the city life." },
+    { "word": "immerse in nature", "meaning": "đắm chìm vào thiên nhiên", "ipa": "/ɪˈmɜːrs ɪn ˈneɪtʃər/", "example": "Camping is a great way to immerse yourself in nature." },
+    { "word": "get back to basics", "meaning": "quay lại với những giá trị cơ bản", "ipa": "/ɡet bæk tə ˈbeɪsɪks/", "example": "Life in the countryside is all about getting back to basics." },
+    { "word": "sense of accomplishment", "meaning": "cảm giác đạt được thành tựu", "ipa": "/sens əv əˈkɑːmplɪʃmənt/", "example": "Reaching the peak gives a huge sense of accomplishment." },
+    { "word": "refreshing change", "meaning": "một sự thay đổi sảng khoái", "ipa": "/rɪˈfreʃɪŋ tʃeɪndʒ/", "example": "The fresh mountain air was a refreshing change from the smog." },
+    { "word": "overwhelming beauty", "meaning": "vẻ đẹp choáng ngợp", "ipa": "/ˌoʊvərˈwelmɪŋ ˈbjuːti/", "example": "The overwhelming beauty of the stars left me in awe." }
+  ]
+}

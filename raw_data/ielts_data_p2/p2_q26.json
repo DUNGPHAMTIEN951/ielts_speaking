@@ -1,0 +1,50 @@
+{
+  "q": "Describe a popular product in your country.",
+  "cue_card": [
+    "A popular product in your country.",
+    "What the product is",
+    "Where you can buy it",
+    "How it is used / what it is used for",
+    "And explain why it is so popular"
+  ],
+  "examiner_note": "Với chủ đề về một sản phẩm, hãy tận dụng các từ vựng về thị trường và tiêu dùng (ubiquitous, mass appeal, staple). Giải thích lý do phổ biến thông qua tính thiết thực (practicality) hoặc giá cả phải chăng (affordability).",
+  "samples": {
+    "band7": "I'd like to talk about instant noodles, which are an incredibly popular product in my country. You can buy them literally anywhere, from large supermarkets to tiny convenience stores. People usually eat them for a quick breakfast or a late-night snack because they are very easy to prepare. Just add hot water. I think they are so popular because they are very cheap, delicious, and convenient for students and busy office workers.",
+    "band8": "I’m going to describe a ubiquitous product in Vietnam: the electric scooter. These vehicles are readily available at specialized dealerships and even online markets across the country. They are primarily used as a primary mode of daily commuting by high school students and homemakers navigating through crowded city streets. The reason for their massive popularity is twofold: they offer exceptional affordability compared to motorcycles, and they are perceived as an environmentally friendly, practical alternative for short-distance travel.",
+    "band9": "A product that commands ubiquitous presence and enduring popularity in my country is traditional fish sauce, a veritable staple in our national cuisine. This condiment is universally accessible, retailing everywhere from sprawling hypermarkets to modest neighborhood grocers. It serves as the foundational umami component in virtually every local dish, functioning both as a marinade and a quintessential dipping sauce. Its unrivaled mass appeal stems from its deep-rooted cultural significance and its unparalleled ability to elevate the flavor profile of any meal, making it an indispensable asset in every household pantry."
+  },
+  "v": [
+    {
+      "word": "Ubiquitous",
+      "meaning": "Có mặt ở khắp mọi nơi (Present, appearing, or found everywhere)",
+      "example": "Mobile phones have become ubiquitous in modern society."
+    },
+    {
+      "word": "Staple",
+      "meaning": "Mặt hàng chủ lực/thiết yếu (A main or important element of something, especially of a diet)",
+      "example": "Rice is a staple food in many Asian countries."
+    },
+    {
+      "word": "Mass appeal",
+      "meaning": "Sức hút đại chúng (Appealing to a large number of people)",
+      "example": "The movie was designed to have mass appeal rather than artistic depth."
+    },
+    {
+      "word": "Affordability",
+      "meaning": "Khả năng chi trả/giá cả phải chăng (The ability to be afforded; inexpensiveness)",
+      "example": "The affordability of this car makes it popular among young drivers."
+    },
+    {
+      "word": "Quintessential",
+      "meaning": "Hoàn hảo, tiêu biểu, tinh túy nhất (Representing the most perfect or typical example of a quality or class)",
+      "example": "It is the quintessential New York deli."
+    },
+    {
+      "word": "Indispensable asset",
+      "meaning": "Tài sản/thứ không thể thiếu (An absolutely necessary or vital resource)",
+      "example": "A reliable laptop is an indispensable asset for a freelance writer."
+    }
+  ],
+  "topic": "Describe a popular product in your country.",
+  "id": "p2_q26"
+}

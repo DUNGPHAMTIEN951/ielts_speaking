@@ -1,0 +1,76 @@
+{
+  "id": "q_15",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, kiến thức)",
+      "example": "I love to spend my weekends soaking up the tranquil atmosphere and rich culture found in local art galleries.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑːvl æt/",
+      "meaning": "chiêm ngưỡng với sự kinh ngạc và ngưỡng mộ",
+      "example": "Visitors from all over the world come to this museum to marvel at the intricate details of ancient artifacts.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔː(r) ˈəʊvə(r)/",
+      "meaning": "nghiên cứu kỹ lưỡng, mải mê xem xét",
+      "example": "As an art student, I can pore over a single oil painting for hours, analyzing every brushstroke.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig into",
+      "ipa": "/dɪɡ ˈɪntə/",
+      "meaning": "tìm hiểu sâu, khám phá kỹ càng (thông tin, lịch sử)",
+      "example": "Museums provide a unique opportunity to dig into the historical background of our ancestors.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ bắt gặp, vô tình tìm thấy",
+      "example": "I once stumbled upon a hidden gem of a gallery while wandering through the backstreets of Paris.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại, trau dồi lại (kiến thức đã quên)",
+      "example": "A trip to the science museum is a great way to brush up on my physics knowledge in a fun environment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng ngoạn, quan sát kỹ cảnh vật hoặc tác phẩm",
+      "example": "I prefer going to the museum alone so I can slowly take in the beauty of the exhibits without any distractions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại, hồi tưởng về quá khứ",
+      "example": "Historical museums allow us to look back on how far humanity has come over the last millennium.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "reflect on",
+      "ipa": "/rɪˈflekt ɒn/",
+      "meaning": "suy ngẫm về điều gì đó",
+      "example": "Abstract art often forces the viewer to reflect on their own emotions and personal experiences.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop into",
+      "ipa": "/pɒp ˈɪntə/",
+      "meaning": "ghé thăm nhanh, tạt vào đâu đó",
+      "example": "Whenever I'm in London, I always try to pop into the National Gallery even if it's just for twenty minutes.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

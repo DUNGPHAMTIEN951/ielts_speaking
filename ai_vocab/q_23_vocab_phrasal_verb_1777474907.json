@@ -1,0 +1,76 @@
+{
+  "id": "q_23",
+  "vocab": [
+    {
+      "word": "snap away",
+      "ipa": "/snæp əˈweɪ/",
+      "meaning": "chụp ảnh liên tục (với sự hào hứng)",
+      "example": "When I find myself in a picturesque village, I can't help but snap away until my memory card is full.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zoom in on",
+      "ipa": "/zuːm ɪn ɒn/",
+      "meaning": "phóng to/tập trung vào một chi tiết cụ thể",
+      "example": "I love to zoom in on the intricate patterns of flowers to capture details that the naked eye might miss.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật lên (trong một khung hình)",
+      "example": "Using a blurred background helps the main subject stand out much more effectively in portrait photography.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sift through",
+      "ipa": "/sɪft θruː/",
+      "meaning": "sàng lọc/chọn lựa kỹ lưỡng (giữa hàng trăm bức ảnh)",
+      "example": "After a long trip, I usually have to sift through thousands of raw files to find the few gems worth editing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "play around with",
+      "ipa": "/pleɪ əˈraʊnd wɪð/",
+      "meaning": "thử nghiệm/vọc vạch (các phong cách hoặc cài đặt)",
+      "example": "Lately, I’ve been playing around with long exposure settings to create that silky effect on waterfalls.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blunder into",
+      "ipa": "/ˈblʌndər ˈɪntuː/",
+      "meaning": "tình cờ bắt gặp (một khoảnh khắc/cảnh đẹp) một cách ngẫu nhiên",
+      "example": "Some of my most breathtaking street photos happened because I just blundered into a vibrant local festival.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fizzle out",
+      "ipa": "/ˈfɪzl aʊt/",
+      "meaning": "mờ nhạt dần/mất đi sự hứng thú (về một sở thích)",
+      "example": "My interest in landscape photography initially fizzled out, but it was reignited after I visited the Swiss Alps.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass off as",
+      "ipa": "/pæs ɔːf æz/",
+      "meaning": "biến cái gì đó trông như là (thường dùng để nói về việc chỉnh sửa ảnh)",
+      "example": "With some clever editing, I can pass off a mediocre backyard shot as a professional garden photograph.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại/trau dồi lại (kỹ năng chụp ảnh)",
+      "example": "I really need to brush up on my night photography techniques before our trip to see the Northern Lights.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "loại bỏ/che đi (những yếu tố gây nhiễu trong khung hình)",
+      "example": "I try to use natural elements like tree branches to block out unsightly power lines in my landscape shots.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

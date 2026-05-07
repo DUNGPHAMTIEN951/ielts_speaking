@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "capital accumulation",
+      "ipa": "/ˈkæpɪtl əˌkjuːmjuˈleɪʃn/",
+      "meaning": "tích lũy tư bản/vốn",
+      "example": "Banks serve as a primary vehicle for capital accumulation, allowing individuals to grow their net worth through compound interest.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "facilitate transactions",
+      "ipa": "/fəˈsɪlɪteɪt trænˈzækʃnz/",
+      "meaning": "tạo điều kiện thuận lợi cho các giao dịch",
+      "example": "The primary reason people utilize modern banking is to facilitate seamless domestic and international transactions.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "financial intermediary",
+      "ipa": "/faɪˈnænʃl ˌɪntəˈmiːdiəri/",
+      "meaning": "trung gian tài chính",
+      "example": "A bank acts as a financial intermediary, channeling funds from savers to borrowers to stimulate economic growth.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "hedge against",
+      "ipa": "/hedʒ əˈɡenst/",
+      "meaning": "phòng vệ/ngăn ngừa (rủi ro, mất mát)",
+      "example": "Keeping money in a diversified bank portfolio can help residents hedge against the unpredictable fluctuations of the market.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "solvent",
+      "ipa": "/ˈsɒlvənt/",
+      "meaning": "có khả năng thanh toán (không nợ nần)",
+      "example": "People rely on reputable institutions to remain solvent, ensuring their deposits are accessible even during economic downturns.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "creditworthiness",
+      "ipa": "/ˈkredɪtˌwɜːðinəs/",
+      "meaning": "mức độ uy tín tín dụng",
+      "example": "Maintaining a long-term relationship with a bank helps individuals build their creditworthiness for future mortgage applications.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "automated clearing house",
+      "ipa": "/ˈɔːtəmeɪtɪd ˈklɪərɪŋ haʊs/",
+      "meaning": "hệ thống thanh toán tự động (ACH)",
+      "example": "Many use banks specifically for the automated clearing house services which handle direct deposits of monthly salaries.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "safe-haven",
+      "ipa": "/seɪv ˈheɪvn/",
+      "meaning": "nơi trú ẩn an toàn (tài chính)",
+      "example": "During times of political instability, banks are often viewed as a safe-haven for protecting one's life savings from physical theft.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "interest-bearing account",
+      "ipa": "/ˈɪntrəst ˈbeərɪŋ əˈkaʊnt/",
+      "meaning": "tài khoản hưởng lãi suất",
+      "example": "Rather than keeping cash at home, many prefer an interest-bearing account to offset the eroding effects of inflation.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "financial literacy",
+      "ipa": "/faɪˈnænʃl ˈlɪtərəsi/",
+      "meaning": "kiến thức/hiểu biết về tài chính",
+      "example": "Banks often provide resources that enhance a customer's financial literacy, aiding them in making informed investment decisions.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

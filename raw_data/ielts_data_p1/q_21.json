@@ -1,0 +1,72 @@
+{
+  "id": "q_21",
+  "topic": "Health",
+  "q": "How do you keep healthy?",
+  "examiner_note": "Đây là câu hỏi quen thuộc về phong cách sống. Giám khảo muốn nghe về thói quen ăn uống (diet), vận động (physical activities) và đôi khi là sức khỏe tinh thần (mental well-being). Hãy sử dụng các cụm từ như 'balanced diet', 'daily exercise routine', 'stress management' để xây dựng câu trả lời thuyết phục. Đừng quên nhắc đến sự kỷ luật (self-discipline) trong việc duy trì lối sống lành mạnh.",
+  "samples": {
+    "band7": {
+      "text": "I try my best to lead a healthy lifestyle by eating a balanced diet with plenty of vegetables and fruits. I also go jogging for about 30 minutes every morning to stay active. Additionally, I make sure to get at least 7 hours of sleep each night to recharge my energy.",
+      "note": "Trả lời mạch lạc, bao quát được cả ăn uống, vận động và giấc ngủ. Sử dụng tốt các từ vựng phổ thông (balanced diet, stay active, recharge energy)."
+    },
+    "band8": {
+      "text": "Maintaining my health is a top priority for me. I follow a strict fitness regime that includes a mix of cardio and strength training. In terms of nutrition, I try to avoid processed foods and focus on whole, nutrient-dense ingredients. I also believe that mental health is just as important, so I practice mindfulness to manage stress and keep a positive outlook on life.",
+      "note": "Sử dụng các cụm từ nâng cao (top priority, fitness regime, cardio, nutrient-dense, mindfulness, positive outlook). Cách dẫn đạt tự nhiên và chuyên nghiệp."
+    },
+    "band9": {
+      "text": "I adopt a holistic approach to my well-being, which encompasses physical, nutritional, and mental health. I engage in high-intensity interval training to bolster my cardiovascular health while prioritizing a diet rich in antioxidants and lean proteins. Furthermore, I place great emphasis on psychological hygiene, utilizing techniques like transcendental meditation to mitigate the detrimental effects of a fast-paced lifestyle. For me, health isn't just the absence of illness; it's the optimization of one's physical and mental potential.",
+      "note": "Sử dụng vốn từ vựng cực kỳ học thuật và chuyên sâu (holistic approach, encompasses, high-intensity interval training, bolster, cardiovascular, antioxidants, psychological hygiene, transcendental meditation, mitigate, detrimental). Cách lập luận vô cùng tinh tế."
+    }
+  },
+  "v": [
+    { "word": "holistic approach", "meaning": "phương pháp tiếp cận toàn diện", "ipa": "/hoʊˈlɪstɪk əˈproʊtʃ/", "example": "A holistic approach to education considers the child's emotional and physical needs." },
+    { "word": "encompass", "meaning": "bao gồm/vây quanh", "ipa": "/ɪnˈkʌmpəs/", "example": "The festival encompasses a wide range of cultural activities." },
+    { "word": "bolster", "meaning": "củng cố/tăng cường", "ipa": "/ˈboʊlstər/", "example": "New evidence helped to bolster the prosecution's case." },
+    { "word": "cardiovascular health", "meaning": "sức khỏe tim mạch", "ipa": "/ˌkɑːrdioʊˈvæskjələr helθ/", "example": "Regular swimming is excellent for maintaining cardiovascular health." },
+    { "word": "antioxidant", "meaning": "chất chống oxy hóa", "ipa": "/ˌæntiˈɑːksɪdənt/", "example": "Berries are a great source of antioxidants that protect cells." },
+    { "word": "psychological hygiene", "meaning": "vệ sinh tâm lý (chăm sóc sức khỏe tinh thần)", "ipa": "/ˌsaɪkəˈlɑːdʒɪkl ˈhaɪdʒiːn/", "example": "Practicing gratitude is an essential part of psychological hygiene." },
+    { "word": "mitigate", "meaning": "giảm nhẹ/xoa dịu", "ipa": "/ˈmɪtɪɡeɪt/", "example": "Taking breaks can mitigate the stress of a long workday." },
+    { "word": "detrimental", "meaning": "có hại/bất lợi", "ipa": "/ˌdetrɪˈmentl/", "example": "Lack of sleep can have a detrimental effect on your productivity." },
+    { "word": "balanced diet", "meaning": "chế độ ăn cân bằng", "ipa": "/ˈbælənst ˈdaɪət/", "example": "A balanced diet should include proteins, fats, and carbohydrates." },
+    { "word": "self-discipline", "meaning": "sự tự kỷ luật", "ipa": "/ˌself ˈdɪsəplɪn/", "example": "Maintaining a fitness routine requires a great deal of self-discipline." },
+    { "word": "nutrient-dense", "meaning": "giàu chất dinh dưỡng", "ipa": "/ˈnuːtriənt dens/", "example": "Spinach is a nutrient-dense vegetable that is low in calories." },
+    { "word": "fitness regime", "meaning": "chế độ tập luyện", "ipa": "/ˈfɪtnəs reɪˈʒiːm/", "example": "He follows a strict fitness regime to prepare for the marathon." },
+    { "word": "processed food", "meaning": "thực phẩm đã qua chế biến", "ipa": "/ˈprəʊsest fuːd/", "example": "Try to limit your intake of processed foods like sausages and chips." },
+    { "word": "mindfulness", "meaning": "sự chánh niệm/tỉnh thức", "ipa": "/ˈmaɪndflnəs/", "example": "Mindfulness helps people stay focused on the present moment." },
+    { "word": "positive outlook", "meaning": "quan điểm/cách nhìn tích cực", "ipa": "/ˈpɑːzətɪv ˈaʊtlʊk/", "example": "Maintaining a positive outlook can help you overcome difficult times." },
+    { "word": "sedentary lifestyle", "meaning": "lối sống ít vận động", "ipa": "/ˈsednteri ˈlaɪfstaɪl/", "example": "A sedentary lifestyle is linked to many health problems." },
+    { "word": "physical excursion", "meaning": "sự vận động thể chất", "ipa": "/ˈfɪzɪkl ɪkˈskɜːrʒn/", "example": "I felt exhausted after the intense physical excursion of the hike." },
+    { "word": "metabolism", "meaning": "sự trao đổi chất", "ipa": "/məˈtæbəlɪzəm/", "example": "Regular exercise can help boost your metabolism." },
+    { "word": "immune system", "meaning": "hệ miễn dịch", "ipa": "/ɪˈmjuːn ˈsɪstəm/", "example": "Eating vitamin C helps strengthen your immune system." },
+    { "word": "well-being", "meaning": "tình trạng hạnh phúc/khỏe mạnh", "ipa": "/ˌwel ˈbiːɪŋ/", "example": "Yoga provides a sense of physical and mental well-being." },
+    { "word": "stamina", "meaning": "sức bền/khả năng chịu đựng", "ipa": "/ˈstæmɪnə/", "example": "Long-distance runners need a lot of stamina." },
+    { "word": "endurance", "meaning": "sự nhẫn nại/chịu đựng", "ipa": "/ɪnˈdʊrəns/", "example": "The training is a grueling test of physical endurance." },
+    { "word": "hydration", "meaning": "sự cung cấp nước (cho cơ thể)", "ipa": "/haɪˈdreɪʃn/", "example": "Proper hydration is essential when exercising in the heat." },
+    { "word": "calories", "meaning": "calo", "ipa": "/ˈkæləriz/", "example": "She is counting her calories to lose some weight." },
+    { "word": "aerobic exercise", "meaning": "bài tập aerobic/hiếu khí", "ipa": "/eˈroʊbɪk ˈeksərsaɪz/", "example": "Swimming and cycling are great forms of aerobic exercise." },
+    { "word": "anaerobic exercise", "meaning": "bài tập kị khí (như nâng tạ)", "ipa": "/ˌæneˈroʊbɪk ˈeksərsaɪz/", "example": "Sprinting is an example of anaerobic exercise." },
+    { "word": "muscle tone", "meaning": "độ săn chắc của cơ bắp", "ipa": "/ˈmʌsl toʊn/", "example": "Pilates is very effective for improving muscle tone." },
+    { "word": "flexibility", "meaning": "sự dẻo dai/linh hoạt", "ipa": "/ˌfleksəˈbɪləti/", "example": "Stretching exercises help increase your flexibility." },
+    { "word": "vitality", "meaning": "sức sống/năng lượng", "ipa": "/vaɪˈtæləti/", "example": "She is full of vitality even at the age of eighty." },
+    { "word": "longevity", "meaning": "sự trường thọ", "ipa": "/lɔːnˈdʒevəti/", "example": "A healthy diet and regular exercise are key to longevity." },
+    { "word": "wellness", "meaning": "sức khỏe toàn diện", "ipa": "/ˈwel nəs/", "example": "The company has a new wellness program for its employees." },
+    { "word": "check-up", "meaning": "kiểm tra sức khỏe tổng quát", "ipa": "/ˈtʃek ʌp/", "example": "It's important to go for an annual medical check-up." },
+    { "word": "disease prevention", "meaning": "phòng ngừa dịch bệnh", "ipa": "/dɪˈziːz prɪˈvenʃn/", "example": "Vaccination is a vital tool for disease prevention." },
+    { "word": "meditation", "meaning": "thiền định", "ipa": "/ˌmedɪˈteɪʃn/", "example": "Meditation can help reduce anxiety and improve focus." },
+    { "word": "stress management", "meaning": "quản lý căng thẳng", "ipa": "/stres ˈmænɪdʒmənt/", "example": "Yoga and deep breathing are effective stress management techniques." },
+    { "word": "sugar intake", "meaning": "lượng đường tiêu thụ", "ipa": "/ˈʃʊɡər ɪnˌteɪk/", "example": "Cutting down on your sugar intake can lower your risk of diabetes." },
+    { "word": "organic", "meaning": "hữu cơ", "ipa": "/ɔːrˈɡænɪk/", "example": "Many people prefer to buy organic vegetables to avoid pesticides." },
+    { "word": "pesticide", "meaning": "thuốc trừ sâu", "ipa": "/ˈpestɪsaɪd/", "example": "Farmers use pesticides to protect their crops from insects." },
+    { "word": "supplement", "meaning": "thực phẩm chức năng/bổ sung", "ipa": "/ˈsʌplɪmənt/", "example": "Some people take vitamin supplements to improve their health." },
+    { "word": "nutrient", "meaning": "chất dinh dưỡng", "ipa": "/ˈnuːtriənt/", "example": "Fruits and vegetables are packed with essential nutrients." },
+    { "word": "fiber", "meaning": "chất xơ", "ipa": "/ˈfaɪbər/", "example": "Whole grains are a good source of dietary fiber." },
+    { "word": "protein", "meaning": "đạm/protein", "ipa": "/ˈproʊtiːn/", "example": "Meat, fish, and beans are rich in protein." },
+    { "word": "cholesterol", "meaning": "cholesterol", "ipa": "/kəˈlestərɔːl/", "example": "High cholesterol levels can lead to heart disease." },
+    { "word": "blood pressure", "meaning": "huyết áp", "ipa": "/ˈblʌd ˌpreʃər/", "example": "Exercise helps to maintain a healthy blood pressure." },
+    { "word": "obesity", "meaning": "bệnh béo phì", "ipa": "/oʊˈbiːsəti/", "example": "Obesity is a major health crisis in many developed countries." },
+    { "word": "early bird", "meaning": "người dậy sớm", "ipa": "/ˈɜːrli bɜːrd/", "example": "Being an early bird allows me to exercise before work." },
+    { "word": "night owl", "meaning": "người thức khuya", "ipa": "/naɪt aʊl/", "example": "As a night owl, I find it hard to wake up for morning gym sessions." },
+    { "word": "recharge your batteries", "meaning": "nạp lại năng lượng", "ipa": "/ˌriːˈtʃɑːrdʒ jər ˈbætəriz/", "example": "A short nap can help you recharge your batteries." },
+    { "word": "back to health", "meaning": "hồi phục sức khỏe", "ipa": "/bæk tə helθ/", "example": "It took her weeks to get back to health after the surgery." },
+    { "word": "prevention is better than cure", "meaning": "phòng bệnh hơn chữa bệnh", "ipa": "/prɪˈvenʃn ɪz ˈbetər ðən kjʊr/", "example": "Eating well is the way to go; remember, prevention is better than cure." }
+  ]
+}

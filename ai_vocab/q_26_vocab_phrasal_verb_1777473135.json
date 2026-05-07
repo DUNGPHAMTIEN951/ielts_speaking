@@ -1,0 +1,76 @@
+{
+  "id": "q_26",
+  "vocab": [
+    {
+      "word": "fork out",
+      "ipa": "/fɔːrk aʊt/",
+      "meaning": "chi tiền (thường là miễn cưỡng cho món đồ đắt đỏ)",
+      "example": "I only buy shoes once a year because I hate having to fork out a fortune for high-end brands.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wear down",
+      "ipa": "/wer daʊn/",
+      "meaning": "mòn đi/hỏng dần do sử dụng nhiều",
+      "example": "I tend to wait until my current pair is completely worn down before I even consider browsing for new ones.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "snap up",
+      "ipa": "/snæp ʌp/",
+      "meaning": "mua nhanh chóng (thường là đồ rẻ hoặc đồ giới hạn)",
+      "example": "Whenever there is a seasonal clearance, I try to snap up a few pairs of sneakers at a bargain price.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hold off",
+      "ipa": "/həʊld ɔːf/",
+      "meaning": "trì hoãn/chờ đợi (để có dịp tốt hơn)",
+      "example": "I usually hold off on buying new footwear until the Black Friday sales to get the best possible deals.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "splash out on",
+      "ipa": "/splæʃ aʊt ɒn/",
+      "meaning": "vung tiền vào thứ gì đó xa xỉ",
+      "example": "Occasionally, I like to splash out on a pair of designer boots as a treat for my hard work.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick out",
+      "ipa": "/pɪk aʊt/",
+      "meaning": "lựa chọn kỹ lưỡng giữa nhiều thứ",
+      "example": "I’m quite picky, so it often takes me several hours to pick out the perfect pair that balances style and comfort.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tide someone over",
+      "ipa": "/taɪd ˈsʌmwʌn ˈəʊvər/",
+      "meaning": "giúp ai đó duy trì/xoay xở trong một khoảng thời gian",
+      "example": "A sturdy pair of leather shoes usually tides me over for at least two years of daily commuting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "scout around for",
+      "ipa": "/skaʊt əˈraʊnd fɔːr/",
+      "meaning": "tìm kiếm khắp nơi",
+      "example": "I spend quite a bit of time scouting around for vintage shops to find unique footwear that isn't mass-produced.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go with",
+      "ipa": "/ɡəʊ wɪð/",
+      "meaning": "phù hợp/phối hợp tốt với",
+      "example": "I only buy shoes that can go with multiple outfits to keep my wardrobe versatile and minimalist.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stock up on",
+      "ipa": "/stɒk ʌp ɒn/",
+      "meaning": "mua dự trữ số lượng lớn",
+      "example": "If I find a specific model that is incredibly comfortable, I might stock up on two or three pairs at once.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

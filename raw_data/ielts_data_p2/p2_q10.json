@@ -1,0 +1,50 @@
+{
+  "q": "Describe an object that is very important to you.",
+  "cue_card": [
+    "An object that is very important to you.",
+    "What the object is",
+    "How you got it",
+    "What you use it for",
+    "And explain why it is important to you"
+  ],
+  "examiner_note": "Khi miêu tả đồ vật, hãy sử dụng các cụm từ về giá trị tinh thần (sentimental value, heirloom, memento). Hãy miêu tả chi tiết về ngoại hình và ý nghĩa biểu tượng của nó đối với cuộc đời bạn.",
+  "samples": {
+    "band7": "I'm going to talk about my wristwatch, which was a birthday gift from my parents when I turned eighteen. It's a simple analog watch with a leather strap. I use it every day to check the time and stay organized. It is very important to me because it reminds me of my parents' love and support. Also, it was the first 'adult' accessory I ever owned, so it makes me feel more responsible whenever I wear it.",
+    "band8": "I’d like to describe a particularly cherished object of mine, which is an old fountain pen that belonged to my grandfather. He gave it to me shortly before I went to university, so it has immense sentimental value. I primarily use it for journaling or signing important documents, as it provides a much more elegant writing experience than a standard ballpoint. This pen is important to me because it represents a connection to my family’s past and serves as a constant reminder of the importance of education and legacy.",
+    "band9": "The object I’ve chosen to discuss is a vintage camera that was passed down to me as a family heirloom. It’s a beautifully crafted piece of machinery that I’ve meticulously maintained over the years. I use it for film photography, which allows me to slow down and appreciate the artistry of the process. This camera is of paramount importance to me, not just as a functional tool, but as a memento of my heritage. It symbolizes the continuity of our family’s story and serves as a tangible link to previous generations, embodying a timeless elegance that I deeply value."
+  },
+  "v": [
+    {
+      "word": "Cherished object",
+      "meaning": "Đồ vật quý giá (Something that is loved and valued highly)",
+      "example": "This old photo album is one of my most cherished objects."
+    },
+    {
+      "word": "Sentimental value",
+      "meaning": "Giá trị tình cảm (The value of something based on the feelings or memories it evokes rather than its money value)",
+      "example": "The ring has little market value but great sentimental value to her."
+    },
+    {
+      "word": "Heirloom",
+      "meaning": "Vật gia bảo (A valuable object that has belonged to a family for several generations)",
+      "example": "This silver necklace is a family heirloom passed down from my grandmother."
+    },
+    {
+      "word": "Memento",
+      "meaning": "Vật kỷ niệm (An object kept as a reminder or souvenir of a person or event)",
+      "example": "I kept the seashells as a memento of our trip to the beach."
+    },
+    {
+      "word": "Meticulously maintained",
+      "meaning": "Được bảo quản tỉ mỉ (Kept in very good condition with great attention to detail)",
+      "example": "This classic car has been meticulously maintained by its owner."
+    },
+    {
+      "word": "Tangible link",
+      "meaning": "Mối liên kết hữu hình (A connection that is real and can be seen or touched)",
+      "example": "Historical monuments provide a tangible link to our ancestors."
+    }
+  ],
+  "topic": "Describe an object that is very important to you.",
+  "id": "p2_q10"
+}

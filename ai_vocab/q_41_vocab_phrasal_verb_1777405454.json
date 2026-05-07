@@ -1,0 +1,76 @@
+{
+  "id": "q_41",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "hấp thụ, tiếp thu (kiến thức) một cách nhanh chóng và dễ dàng",
+      "example": "In primary school, I used to soak up every bit of information during Science lessons because I was so fascinated by nature.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "geek out (on/over)",
+      "ipa": "/ɡiːk aʊt/",
+      "meaning": "say mê, hào hứng quá mức về một chủ đề cụ thể nào đó",
+      "example": "I would totally geek out over History books, spending hours reading about ancient civilizations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɒf/",
+      "meaning": "mất tập trung, thả hồn theo mây gió",
+      "example": "To be honest, I tended to drift off during Math classes, but I was always wide awake for Art.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "breeze through",
+      "ipa": "/briːz θruː/",
+      "meaning": "vượt qua một cách dễ dàng (bài tập, kỳ thi)",
+      "example": "English was my forte, so I usually managed to breeze through all the creative writing assignments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall behind",
+      "ipa": "/fɔːl bɪˈhaɪnd/",
+      "meaning": "tụt hậu, không theo kịp chương trình học",
+      "example": "I never wanted to fall behind in Music class because playing the recorder was the highlight of my week.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại (một kỷ niệm hoặc thời gian trong quá khứ)",
+      "example": "When I look back on my primary school days, PE stands out as the subject that brought me the most joy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mess around",
+      "ipa": "/mes əˈraʊnd/",
+      "meaning": "nghịch ngợm, làm việc không nghiêm túc",
+      "example": "While other kids liked to mess around during lab time, I was always serious about my Science experiments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get your head around",
+      "ipa": "/ɡet jɔːr hed əˈraʊnd/",
+      "meaning": "thấu hiểu một vấn đề phức tạp",
+      "example": "It took me a while to get my head around long division, but my teacher made the process quite enjoyable.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, đáng nhớ nhất",
+      "example": "Among all the subjects, Geography really stood out to me because I loved learning about different countries.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dabble in",
+      "ipa": "/ˈdæbl ɪn/",
+      "meaning": "thử sức, làm quen một chút với một lĩnh vực",
+      "example": "We got to dabble in various art forms, from pottery to sketching, which made Art class very dynamic.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

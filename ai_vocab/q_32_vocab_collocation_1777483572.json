@@ -1,0 +1,76 @@
+{
+  "id": "q_32",
+  "vocab": [
+    {
+      "word": "intellectual breakthrough",
+      "ipa": "/ˌɪn.təlˈek.tʃu.əl ˈbreɪk.θruː/",
+      "meaning": "bước đột phá về trí tuệ",
+      "example": "There is nothing quite like the rush of an intellectual breakthrough when a complex theorem finally makes sense.",
+      "type": "collocation"
+    },
+    {
+      "word": "clash of ideologies",
+      "ipa": "/klæʃ əv ˌaɪ.diˈɒl.ə.dʒiz/",
+      "meaning": "sự xung đột giữa các hệ tư tưởng",
+      "example": "Studying political science is fascinating because you get to analyze the constant clash of ideologies that shapes our laws.",
+      "type": "collocation"
+    },
+    {
+      "word": "nuanced interpretation",
+      "ipa": "/ˈnjuː.ɑːnst ɪnˌtɜː.prəˈteɪ.ʃən/",
+      "meaning": "cách diễn giải sắc sảo, đa chiều",
+      "example": "Literature seminars have taught me to seek a nuanced interpretation of a text rather than just looking at the surface meaning.",
+      "type": "collocation"
+    },
+    {
+      "word": "relevance to contemporary issues",
+      "ipa": "/ˈrel.ə.vəns tuː kənˈtem.pər.ər.i ˈɪʃ.uːz/",
+      "meaning": "sự liên quan đến các vấn đề đương đại",
+      "example": "What captivates me most about sociology is its direct relevance to contemporary issues like urban poverty and social media.",
+      "type": "collocation"
+    },
+    {
+      "word": "critical inquiry",
+      "ipa": "/ˈkrɪt.ɪ.kəl ɪnˈkwaɪə.ri/",
+      "meaning": "sự truy vấn/nghiên cứu mang tính phản biện",
+      "example": "My course encourages a spirit of critical inquiry, teaching us to never take data at face value.",
+      "type": "collocation"
+    },
+    {
+      "word": "real-world implications",
+      "ipa": "/rɪəl wɜːld ˌɪm.plɪˈkeɪ.ʃənz/",
+      "meaning": "những hệ quả/ứng dụng trong thế giới thực",
+      "example": "It is exciting to study economic theories that have profound real-world implications for international trade.",
+      "type": "collocation"
+    },
+    {
+      "word": "academic discourse",
+      "ipa": "/ˌæk.əˈdem.ɪk ˈdɪs.kɔːrs/",
+      "meaning": "các cuộc thảo luận/diễn ngôn học thuật",
+      "example": "Participating in academic discourse with leading experts in the field has been the highlight of my semester.",
+      "type": "collocation"
+    },
+    {
+      "word": "dissect complex data",
+      "ipa": "/daɪˈsekt ˈkɒm.pleks ˈdeɪ.tə/",
+      "meaning": "mổ xẻ/phân tích dữ liệu phức tạp",
+      "example": "I find great satisfaction in using statistical software to dissect complex data and find hidden patterns.",
+      "type": "collocation"
+    },
+    {
+      "word": "a wealth of knowledge",
+      "ipa": "/ə welθ əv ˈnɒl.ɪdʒ/",
+      "meaning": "một kho tàng tri thức",
+      "example": "My professors are a wealth of knowledge, providing insights that go far beyond what is written in the syllabus.",
+      "type": "collocation"
+    },
+    {
+      "word": "pave the way for",
+      "ipa": "/peɪv ðə weɪ fɔːr/",
+      "meaning": "mở đường cho/tạo điều kiện cho",
+      "example": "The most interesting part of my research is that it might pave the way for more sustainable battery technologies.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

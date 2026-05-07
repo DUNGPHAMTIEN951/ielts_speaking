@@ -1,0 +1,50 @@
+{
+  "q": "Describe a place you visited that you would like to go back to.",
+  "cue_card": [
+    "A place you visited that you would like to go back to.",
+    "What and where the place was",
+    "When you went there",
+    "What you did there",
+    "And explain why you would like to go back there"
+  ],
+  "examiner_note": "Với câu hỏi về địa điểm, hãy sử dụng các tính từ miêu tả không gian (vibrant, tranquil, breathtaking). Tập trung vào cảm xúc khi ở đó (sense of peace, rejuvenation) và lý do muốn quay lại phải mang tính tương lai (unexplored corners, deeper connection).",
+  "samples": {
+    "band7": "I'd like to talk about Hoi An, an old town in Central Vietnam. I went there last summer with my family for a three-day vacation. We walked around the streets, looking at the ancient houses and colorful lanterns. The food was delicious, especially the Cao Lau noodles. I want to go back because the atmosphere is very relaxing and I didn't have enough time to visit all the small cafes near the river.",
+    "band8": "I’m going to describe Hoi An, a charming ancient town nestled along the coast of Central Vietnam. I had the pleasure of visiting it about two years ago during a short getaway. It was truly a mesmerizing experience as the town is famous for its well-preserved architecture and vibrant lantern-lit streets at night. I spent most of my time strolling through the pedestrian-only zones, soaking up the tranquil ambiance. The reason I’m itching to return is that I want to explore the outskirts more thoroughly, perhaps by cycling through the nearby rice paddies, and further immerse myself in the local culinary scene which is absolutely world-class.",
+    "band9": "Without a shadow of a doubt, the place I’m dying to revisit is Hoi An, a picturesque UNESCO World Heritage site that perfectly encapsulates Vietnam’s rich cultural tapestry. I first set foot in this coastal gem a few years back, and I was instantly captivated by its timeless elegance. The town is a labyrinth of mustard-yellow merchant houses and intricate Japanese bridges, all draped in a kaleidoscope of silk lanterns. During my stay, I was particularly fond of the 'slow living' philosophy that permeates the air; I spent hours in quaint teahouses, simply observing the gentle ebb and flow of local life. I would give anything to return, not just for the aesthetic splendor, but to delve deeper into the artisanal heritage of the region, such as the traditional silk weaving and pottery that I only caught a fleeting glimpse of during my initial trip."
+  },
+  "v": [
+    {
+      "word": "Picturesque",
+      "meaning": "Đẹp như tranh vẽ (Visually attractive, especially in a quaint or charming way)",
+      "example": "Hoi An is one of the most picturesque towns in Southeast Asia."
+    },
+    {
+      "word": "Mesmerizing",
+      "meaning": "Mê hoặc, quyến rũ (Capturing one's complete attention as if by magic)",
+      "example": "The sight of thousands of lanterns at night was truly mesmerizing."
+    },
+    {
+      "word": "Tranquil ambiance",
+      "meaning": "Bầu không khí yên bình (A peaceful and calm atmosphere)",
+      "example": "I love the tranquil ambiance of the early mornings by the river."
+    },
+    {
+      "word": "Culinary scene",
+      "meaning": "Nền ẩm thực (The food and cooking style of a particular area)",
+      "example": "The local culinary scene offers an array of exotic flavors."
+    },
+    {
+      "word": "Artisanal heritage",
+      "meaning": "Di sản thủ công mỹ nghệ (Traditions related to skilled manual work)",
+      "example": "I want to learn more about the artisanal heritage and traditional crafts of this region."
+    },
+    {
+      "word": "Kaleidoscope",
+      "meaning": "Kính vạn hoa / Sự thay đổi liên tục của màu sắc (A constantly changing pattern or sequence of objects or elements)",
+      "example": "The market was a kaleidoscope of colors and sounds."
+    }
+  ],
+  "topic": "Describe a place you visited that you would like to go back to.",
+  "id": "p2_q2"
+}

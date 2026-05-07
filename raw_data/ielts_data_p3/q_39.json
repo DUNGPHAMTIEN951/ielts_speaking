@@ -1,0 +1,52 @@
+{
+  "id": "q_39",
+  "topic": "Noisy & Quiet places",
+  "q": "What are some sounds you like?",
+  "examiner_note": "Mô tả âm thanh và cảm xúc. Sử dụng 'soothing', 'rustling', 'ambient noise', 'nostalgic'.",
+  "samples": {
+    "band7": {
+      "text": "I love the sound of rain tapping on a window or the gentle rustling of leaves in the wind. I find these natural sounds very soothing and they help me feel more connected to the environment and less stressed.",
+      "note": "Sử dụng từ vựng gợi cảm (tapping, rustling, soothing)."
+    },
+    "band8": {
+      "text": "I find the ambient noise of a busy library or a quiet café to be quite comforting. There’s something about the soft murmur of people and the turning of pages that helps me focus. I also enjoy the nostalgic sound of a distant train whistle at night.",
+      "note": "Sử dụng từ vựng hay (ambient noise, murmur, nostalgic)."
+    },
+    "band9": {
+      "text": "I’m particularly fond of the rhythmic sounds of nature, such as waves crashing against the shore or the steady hum of cicadas in the summer. These sounds have a grounding effect and always help me to attain a state of deep relaxation and mindfulness.",
+      "note": "Sử dụng từ vựng ở mức độ cao (rhythmic, hum, grounding, mindfulness)."
+    }
+  },
+  "v": [
+    {
+      "word": "soothing",
+      "meaning": "dịu êm/thư giãn",
+      "ipa": "/ˈsuːðɪŋ/",
+      "example": "The music was very soothing."
+    },
+    {
+      "word": "murmur",
+      "meaning": "tiếng rì rào/thì thầm",
+      "ipa": "/ˈmɜːrmər/",
+      "example": "The murmur of the crowd could be heard from outside."
+    },
+    {
+      "word": "mindfulness",
+      "meaning": "sự chánh niệm/tâm thế tỉnh thức",
+      "ipa": "/ˈmaɪndflnəs/",
+      "example": "Meditation helps to cultivate mindfulness."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "ambient",
+      "meaning": "xung quanh/bao quanh",
+      "ipa": "/ˈæmbiənt/",
+      "example": "The ambient temperature was perfect."
+    }
+  ],
+  "similar_questions": [
+    "What sounds do you dislike?",
+    "Is your hometown noisy or quiet?"
+  ]
+}

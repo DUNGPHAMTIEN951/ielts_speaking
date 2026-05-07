@@ -1,0 +1,76 @@
+{
+  "id": "q_24",
+  "vocab": [
+    {
+      "word": "toss in",
+      "ipa": "/tɒs ɪn/",
+      "meaning": "bỏ nhanh cái gì đó vào (túi, vali) mà không cần suy nghĩ nhiều",
+      "example": "If I’m just heading to the beach, I’ll quickly toss in a pair of flip-flops and some sunscreen.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pare down",
+      "ipa": "/peər daʊn/",
+      "meaning": "cắt giảm, lược bỏ bớt để chỉ còn lại những thứ thiết yếu nhất",
+      "example": "When backpacking, I have to pare down my belongings to the bare essentials to keep the bag lightweight.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stock up on",
+      "ipa": "/stɒk ʌp ɒn/",
+      "meaning": "mua hoặc chuẩn bị một lượng lớn thứ gì đó để dự phòng",
+      "example": "Before going on a long road trip to remote areas, I always stock up on bottled water and non-perishable snacks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up for",
+      "ipa": "/ɡɪər ʌp fɔːr/",
+      "meaning": "chuẩn bị đầy đủ đồ đạc/trang thiết bị cho một hoạt động cụ thể",
+      "example": "I really need to gear up for my hiking trip next week by packing proper boots and a waterproof jacket.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "leave behind",
+      "ipa": "/liːv bɪˈhaɪnd/",
+      "meaning": "bỏ lại, không mang theo cái gì đó",
+      "example": "To avoid being distracted, I usually leave behind my laptop when I go on a weekend retreat.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sift through",
+      "ipa": "/sɪft θruː/",
+      "meaning": "kiểm tra, sàng lọc kỹ lưỡng (đồ đạc) để chọn ra thứ cần thiết",
+      "example": "I spent an hour sifting through my wardrobe to find the most suitable outfit for the business conference.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "load up",
+      "ipa": "/ləʊd ʌp/",
+      "meaning": "chất đầy đồ đạc lên (xe, túi xách)",
+      "example": "We usually load up the car with camping gear and a cooler whenever we head to the countryside.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig out",
+      "ipa": "/dɪɡ aʊt/",
+      "meaning": "tìm ra một vật dụng gì đó sau một thời gian dài không dùng đến",
+      "example": "I had to dig out an old heavy coat from the attic before traveling to a much colder climate.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring along",
+      "ipa": "/brɪŋ əˈlɒŋ/",
+      "meaning": "mang theo cái gì đó bên mình khi đi đâu đó",
+      "example": "I always bring along a portable power bank because I can't afford to have my phone die in an unfamiliar city.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hand out",
+      "ipa": "/hænd aʊt/",
+      "meaning": "mang theo đồ để phân phát cho người khác (như quà cáp, tài liệu)",
+      "example": "When visiting my relatives in the countryside, I often carry a separate bag of small gifts to hand out.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,50 @@
+{
+  "q": "Describe an important decision you made.",
+  "cue_card": [
+    "An important decision you made.",
+    "What the decision was",
+    "How you made the decision",
+    "Who helped you to make the decision",
+    "And explain why it was so important"
+  ],
+  "examiner_note": "Quyết định quan trọng cần được mô tả bằng từ vựng về quá trình lựa chọn (weigh options, deliberate, decisive) và những ảnh hưởng lâu dài của nó (turning point, profound impact). Giải thích rõ vì sao quyết định đó lại mang tính bước ngoặt.",
+  "samples": {
+    "band7": "I want to talk about a very important decision I made last year, which was choosing to study abroad. I made this decision by researching different universities online and reading about their programs. My parents helped me a lot by discussing the financial costs and giving me advice. This decision was incredibly important because it meant I had to move far away from home, learn a new language, and learn how to be independent.",
+    "band8": "I’m going to describe a critical decision I made recently regarding my career path: transitioning from finance to software engineering. I arrived at this decision after months of careful deliberation, weighing my profound lack of job satisfaction against my growing interest in coding. A career counselor and some close friends in the tech industry provided invaluable guidance and encouragement. This choice was tremendously important because it represented a complete pivot in my professional trajectory, dictating my future earning potential and overall life satisfaction.",
+    "band9": "A monumental decision that profoundly reshaped my life trajectory was my choice to decline a lucrative corporate promotion in order to start my own social enterprise. This resolution was not made lightly; I spent weeks agonizing over the potential risks and conducting rigorous cost-benefit analyses. My former mentor played an instrumental role, acting as a sounding board and challenging me to align my career with my intrinsic ethical values. The gravity of this decision cannot be overstated—it necessitated a radical departure from conventional stability, yet it ultimately catalyzed unprecedented personal growth and unparalleled professional fulfillment."
+  },
+  "v": [
+    {
+      "word": "Careful deliberation",
+      "meaning": "Sự cân nhắc cẩn thận (Long and careful consideration or discussion)",
+      "example": "After careful deliberation, the committee chose the winning design."
+    },
+    {
+      "word": "Pivot",
+      "meaning": "Sự rẽ hướng, chuyển hướng quan trọng (A fundamental change in a business strategy or personal path)",
+      "example": "The company had to make a quick pivot to survive the pandemic."
+    },
+    {
+      "word": "Monumental decision",
+      "meaning": "Quyết định mang tính vĩ đại/bước ngoặt (A decision of great importance, extent, or size)",
+      "example": "Buying their first home was a monumental decision for the young couple."
+    },
+    {
+      "word": "Rigorous cost-benefit analysis",
+      "meaning": "Phân tích lợi ích - chi phí nghiêm ngặt (A systematic process for calculating and comparing benefits and costs of an action)",
+      "example": "We must conduct a rigorous cost-benefit analysis before investing in the new factory."
+    },
+    {
+      "word": "Sounding board",
+      "meaning": "Người lắng nghe và đóng góp ý kiến (A person or group whose reactions to suggested ideas are used as a test of their validity)",
+      "example": "He uses his wife as a sounding board for his new script ideas."
+    },
+    {
+      "word": "Intrinsic ethical values",
+      "meaning": "Giá trị đạo đức cốt lõi/tự tại (Moral principles that belong naturally; essential)",
+      "example": "Her work with charities is completely aligned with her intrinsic ethical values."
+    }
+  ],
+  "topic": "Describe an important decision you made.",
+  "id": "p2_q28"
+}

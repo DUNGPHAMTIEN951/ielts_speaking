@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "brisk pace",
+      "ipa": "/brɪsk peɪs/",
+      "meaning": "tốc độ nhanh, dứt khoát",
+      "example": "I try to maintain a brisk pace when walking to the station to ensure I get my heart rate up.",
+      "type": "collocation"
+    },
+    {
+      "word": "pedestrian-friendly",
+      "ipa": "/pəˈdes.tri.ən ˌfrend.li/",
+      "meaning": "thân thiện với người đi bộ (khu vực có vỉa hè tốt, an toàn)",
+      "example": "Living in a pedestrian-friendly neighborhood encourages me to opt for walking over taking the bus.",
+      "type": "collocation"
+    },
+    {
+      "word": "clear one's head",
+      "ipa": "/klɪər wʌnz hed/",
+      "meaning": "giải tỏa tâm trí, làm cho đầu óc tỉnh táo",
+      "example": "Whenever I feel overwhelmed with work, a long walk in the park helps to clear my head.",
+      "type": "collocation"
+    },
+    {
+      "word": "multimodal transport",
+      "ipa": "/ˌmʌl.tiˈməʊ.dəl ˈtræn.spɔːt/",
+      "meaning": "vận tải đa phương thức (phối hợp nhiều cách di chuyển, bao gồm đi bộ)",
+      "example": "Walking is a vital component of my multimodal transport routine, linking my home to the subway.",
+      "type": "collocation"
+    },
+    {
+      "word": "within walking distance",
+      "ipa": "/wɪˈðɪn ˈwɔː.kɪŋ ˌdɪs.təns/",
+      "meaning": "trong khoảng cách có thể đi bộ được (gần)",
+      "example": "I’m lucky that most essential amenities, like the grocery store and the pharmacy, are within walking distance.",
+      "type": "collocation"
+    },
+    {
+      "word": "low-impact exercise",
+      "ipa": "/ləʊ ˈɪm.pækt ˈek.sə.saɪz/",
+      "meaning": "bài tập tác động thấp (ít gây áp lực lên khớp)",
+      "example": "Walking is my preferred form of low-impact exercise because it’s gentle on my knees but still effective.",
+      "type": "collocation"
+    },
+    {
+      "word": "ponder over",
+      "ipa": "/ˈpɒn.dər ˈəʊ.vər/",
+      "meaning": "trầm tư, suy nghĩ kỹ về điều gì đó trong khi đi bộ",
+      "example": "I often use my evening walks as an opportunity to ponder over important life decisions.",
+      "type": "collocation"
+    },
+    {
+      "word": "serendipitous discovery",
+      "ipa": "/ˌser.ənˈdɪp.ɪ.təs dɪˈskʌv.ər.i/",
+      "meaning": "khám phá tình cờ và thú vị (thường xảy ra khi đi bộ lang thang)",
+      "example": "Walking allows for serendipitous discoveries, like finding a charming little bookstore tucked away in an alley.",
+      "type": "collocation"
+    },
+    {
+      "word": "active commuting",
+      "ipa": "/ˈæk.tɪv kəˈmjuː.tɪŋ/",
+      "meaning": "việc đi làm bằng các hình thức vận động thể chất (như đi bộ)",
+      "example": "The government is trying to promote active commuting to reduce traffic congestion and improve public health.",
+      "type": "collocation"
+    },
+    {
+      "word": "reconnect with nature",
+      "ipa": "/ˌriː.kəˈnekt wɪð ˈneɪ.tʃər/",
+      "meaning": "kết nối lại với thiên nhiên",
+      "example": "Walking through the forest trails on weekends is a wonderful way to reconnect with nature and escape the city noise.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

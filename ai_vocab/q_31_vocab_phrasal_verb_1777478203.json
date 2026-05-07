@@ -1,0 +1,76 @@
+{
+  "id": "q_31",
+  "vocab": [
+    {
+      "word": "gravitate towards",
+      "ipa": "/ˈɡræv.ɪ.teɪt twɔːrdz/",
+      "meaning": "bị thu hút về phía, có xu hướng chọn",
+      "example": "I’ve always gravitated towards subjects that involve analytical thinking, which is why I picked Mathematics.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look into",
+      "ipa": "/lʊk ˈɪn.tuː/",
+      "meaning": "nghiên cứu, tìm hiểu kỹ về một vấn đề",
+      "example": "After I started to look into the future of Artificial Intelligence, I knew that Computer Science was the right path for me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "opt for",
+      "ipa": "/ɒpt fɔːr/",
+      "meaning": "lựa chọn (thường là sau khi cân nhắc các phương án khác)",
+      "example": "Although I was interested in Art, I eventually opted for Architecture as it offered a more stable career trajectory.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dabble in",
+      "ipa": "/ˈdæb.əl ɪn/",
+      "meaning": "học hỏi/làm thử một cách sơ sài, không chuyên sâu (trước khi chọn chính thức)",
+      "example": "I dabbled in graphic design during high school, and that initial curiosity led me to major in Digital Media.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stem from",
+      "ipa": "/stem frəm/",
+      "meaning": "bắt nguồn từ (lý do, động lực)",
+      "example": "My decision to study Medicine stems from a lifelong desire to contribute to public healthcare.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "weigh up",
+      "ipa": "/weɪ ʌp/",
+      "meaning": "cân nhắc, so sánh các ưu nhược điểm",
+      "example": "I spent months weighing up the pros and cons of different engineering branches before committing to Civil Engineering.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fit in with",
+      "ipa": "/fɪt ɪn wɪð/",
+      "meaning": "phù hợp với, ăn khớp với (mục tiêu hoặc tính cách)",
+      "example": "International Relations seemed to fit in with my long-term goal of working for a global NGO.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật hơn hẳn (khiến mình chú ý)",
+      "example": "Among all the courses offered, Environmental Science really stood out because of its urgency in today's world.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go into",
+      "ipa": "/ɡəʊ ˈɪn.tuː/",
+      "meaning": "theo đuổi một lĩnh vực chuyên môn hoặc nghề nghiệp",
+      "example": "I decided to go into Economics because I wanted to understand the underlying forces that shape global markets.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp (xu hướng hoặc sự phát triển)",
+      "example": "I chose Marketing because I enjoy the challenge of keeping up with ever-changing consumer trends.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

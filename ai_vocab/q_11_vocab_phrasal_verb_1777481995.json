@@ -1,0 +1,76 @@
+{
+  "id": "q_11",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (bầu không khí, kiến thức)",
+      "example": "I love to spend my Sunday afternoons soaking up the tranquil atmosphere of the local contemporary art wing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up",
+      "ipa": "/ˈmeʒ.ər ʌp/",
+      "meaning": "đạt được tiêu chuẩn, kỳ vọng hoặc so sánh được với cái gì",
+      "example": "While digital prints are nice, they never quite measure up to the experience of seeing an original oil painting in person.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bəl əˈpɒn/",
+      "meaning": "tình cờ phát hiện ra",
+      "example": "I occasionally stumble upon hidden gems in smaller, independent galleries that aren't mentioned in the tourist guides.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "conjure up",
+      "ipa": "/ˈkʌn.dʒər ʌp/",
+      "meaning": "gợi lên, làm hiện lên (hình ảnh, ký ức, cảm xúc)",
+      "example": "Some abstract pieces are so powerful that they conjure up vivid childhood memories I had long forgotten.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "geek out over",
+      "ipa": "/ɡiːk aʊt ˈəʊ.vər/",
+      "meaning": "phấn khích quá mức và nói chi tiết về một chủ đề chuyên môn",
+      "example": "My friend and I usually geek out over the technical aspects of the sculptures, like the casting process or material choice.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊ.vər/",
+      "meaning": "suy ngẫm, cân nhắc kỹ lưỡng về điều gì đó",
+      "example": "I often find myself mulling over the deeper meaning behind a conceptual installation long after I've left the gallery.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, dễ nhận thấy",
+      "example": "The use of vibrant, neon colors really makes the portrait stand out against the more subdued tones of the rest of the exhibition.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get across",
+      "ipa": "/ɡet əˈkrɒs/",
+      "meaning": "truyền đạt thành công một thông điệp hoặc ý tưởng",
+      "example": "It's fascinating to see how different artists manage to get their political messages across through subtle symbolism.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "filter through",
+      "ipa": "/ˈfɪl.tər θruː/",
+      "meaning": "thấm nhuần, len lỏi qua (cảm xúc hoặc ánh sáng)",
+      "example": "The way the afternoon light filters through the gallery skylights adds a magical quality to the sculptures on display.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "grow on",
+      "ipa": "/ɡrəʊ ɒn/",
+      "meaning": "dần dần khiến ai đó thích (dù ban đầu không thích)",
+      "example": "Initially, I found modern art quite baffling, but after a few visits, it has really started to grow on me.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

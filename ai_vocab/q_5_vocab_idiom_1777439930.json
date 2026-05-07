@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "hit the pavement",
+      "ipa": "/hɪt ðə ˈpeɪv.mənt/",
+      "meaning": "đi bộ trên đường (thường là trong thành phố)",
+      "example": "I hit the pavement every morning to get some fresh air before the workday begins.",
+      "type": "idiom"
+    },
+    {
+      "word": "wear out one's shoe leather",
+      "ipa": "/weər aʊt wʌnz ʃuː ˈleð.ər/",
+      "meaning": "đi bộ rất nhiều (đến mức mòn cả đế giày)",
+      "example": "I've been wearing out my shoe leather lately trying to explore every hidden corner of this city.",
+      "type": "idiom"
+    },
+    {
+      "word": "stretch one's legs",
+      "ipa": "/stretʃ wʌnz leɡz/",
+      "meaning": "đi bộ để thư giãn gân cốt sau khi ngồi lâu",
+      "example": "After a four-hour flight, I really needed to stretch my legs with a brisk walk around the terminal.",
+      "type": "idiom"
+    },
+    {
+      "word": "beat the streets",
+      "ipa": "/biːt ðə striːts/",
+      "meaning": "đi bộ khắp các nẻo đường (thường để tìm kiếm cái gì đó hoặc đi dạo)",
+      "example": "During my holiday, I spent the entire day beating the streets of Paris to find the perfect bakery.",
+      "type": "idiom"
+    },
+    {
+      "word": "on the hoof",
+      "ipa": "/ɒn ðə huːf/",
+      "meaning": "làm việc gì đó khi đang di chuyển/đang đi bộ",
+      "example": "I'm so busy that I often have to grab my breakfast on the hoof while walking to the subway.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep pace with",
+      "ipa": "/kiːp peɪs wɪð/",
+      "meaning": "duy trì tốc độ đi bộ ngang hàng với ai đó",
+      "example": "My father walks incredibly fast, so I really have to struggle to keep pace with him.",
+      "type": "idiom"
+    },
+    {
+      "word": "at breakneck speed",
+      "ipa": "/æt ˈbreɪk.nek spiːd/",
+      "meaning": "đi bộ với tốc độ cực nhanh (thường vì đang vội)",
+      "example": "When I'm running late for a meeting, I tend to walk at breakneck speed through the downtown area.",
+      "type": "idiom"
+    },
+    {
+      "word": "walk on air",
+      "ipa": "/wɔːk ɒn eər/",
+      "meaning": "cảm thấy cực kỳ hạnh phúc/phấn khích khi đang đi",
+      "example": "After receiving the promotion, I was practically walking on air all the way home.",
+      "type": "idiom"
+    },
+    {
+      "word": "hotfoot it",
+      "ipa": "/ˌhɒtˈfʊt ɪt/",
+      "meaning": "đi bộ hoặc chạy đi một cách nhanh chóng/vội vã",
+      "example": "As soon as the rain started, we decided to hotfoot it back to the hotel.",
+      "type": "idiom"
+    },
+    {
+      "word": "a spring in one's step",
+      "ipa": "/ə sprɪŋ ɪn wʌnz step/",
+      "meaning": "dáng đi vui vẻ, đầy năng lượng và tự tin",
+      "example": "Since I started my new fitness regime, I’ve noticed I have much more of a spring in my step during my daily commute.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

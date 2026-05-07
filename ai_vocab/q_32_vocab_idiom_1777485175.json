@@ -1,0 +1,76 @@
+{
+  "id": "q_32",
+  "vocab": [
+    {
+      "word": "a steep learning curve",
+      "ipa": "/ə stiːp ˈlɜː.nɪŋ kɜːv/",
+      "meaning": "một khoảng thời gian học tập khó khăn ban đầu (đòi hỏi nỗ lực lớn)",
+      "example": "There was a steep learning curve when I first started my engineering degree, but mastering the basics was incredibly rewarding.",
+      "type": "idiom"
+    },
+    {
+      "word": "broaden one's horizons",
+      "ipa": "/ˈbrɔː.dən wʌnz həˈraɪ.zənz/",
+      "meaning": "mở mang tầm mắt/kiến thức",
+      "example": "Studying sociology has really helped broaden my horizons regarding how different cultures interact.",
+      "type": "idiom"
+    },
+    {
+      "word": "food for thought",
+      "ipa": "/fuːd fɔːr θɔːt/",
+      "meaning": "điều đáng để suy ngẫm",
+      "example": "Our seminars on environmental ethics always provide plenty of food for thought after class ends.",
+      "type": "idiom"
+    },
+    {
+      "word": "get your head around something",
+      "ipa": "/ɡet jɔːr hed əˈraʊnd ˈsʌm.θɪŋ/",
+      "meaning": "thấu hiểu một vấn đề phức tạp",
+      "example": "The most interesting part is finally being able to get your head around quantum mechanics after weeks of struggle.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the long run",
+      "ipa": "/ɪn ðə lɒŋ rʌn/",
+      "meaning": "về lâu về dài",
+      "example": "I find the practical applications of my research fascinating because I know they will be beneficial in the long run.",
+      "type": "idiom"
+    },
+    {
+      "word": "sink your teeth into",
+      "ipa": "/sɪŋk jɔːr tiːθ ˈɪn.tuː/",
+      "meaning": "dồn hết tâm trí và nhiệt huyết vào việc gì đó",
+      "example": "The final year project gives me a chance to really sink my teeth into a topic I'm passionate about.",
+      "type": "idiom"
+    },
+    {
+      "word": "the cream of the crop",
+      "ipa": "/ðə kriːm əv ðə krɒp/",
+      "meaning": "những gì tốt nhất/nhóm người xuất sắc nhất",
+      "example": "Being surrounded by classmates who are the cream of the crop pushes me to perform at my absolute best.",
+      "type": "idiom"
+    },
+    {
+      "word": "with flying colours",
+      "ipa": "/wɪð ˈflaɪ.ɪŋ ˈkʌl.əz/",
+      "meaning": "với kết quả mỹ mãn/điểm số cao",
+      "example": "The challenge of passing a difficult module with flying colours is what keeps me motivated in my studies.",
+      "type": "idiom"
+    },
+    {
+      "word": "burn the midnight oil",
+      "ipa": "/bɜːn ðə ˈmɪd.naɪt ɔɪl/",
+      "meaning": "thức khuya để học tập/làm việc",
+      "example": "While I sometimes have to burn the midnight oil, the thrill of discovering new data makes it all worthwhile.",
+      "type": "idiom"
+    },
+    {
+      "word": "knowledge is power",
+      "ipa": "/ˈnɒl.ɪdʒ ɪz ˈpaʊ.ər/",
+      "meaning": "kiến thức là sức mạnh",
+      "example": "I truly believe that knowledge is power, and the most exciting thing is gaining tools to change the world.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

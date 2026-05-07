@@ -1,0 +1,37 @@
+{
+  "q": "Describe a movie you watched and enjoyed recently",
+  "cue_card": [
+    "What the movie is",
+    "When you watched it",
+    "What it is about",
+    "And explain why you enjoyed it"
+  ],
+  "examiner_note": "Mô tả cốt truyện ngắn gọn, tập trung vào cảm xúc và lý do yêu thích (hình ảnh, diễn xuất, thông điệp).",
+  "samples": {
+    "band7": "I watched 'Inside Out 2' last weekend. It's an animation about a girl's emotions during her teenage years. I enjoyed it because it's very relatable and funny. It helped me understand how emotions change as we grow up, and the animation was absolutely beautiful.",
+    "band8": "Actually, I recently went to see 'Inside Out 2' at the cinema. It's a brilliant sequel that explores the complex emotions of a young girl named Riley as she hits puberty. What I found particularly enjoyable was the clever introduction of new emotions like Anxiety and Envy. It's not just a kids' movie; it offers profound insights into mental health and self-acceptance, which I found quite moving.",
+    "band9": "A film that truly captivated me recently was 'Inside Out 2'. It's a masterfully crafted exploration of the emotional turbulence of adolescence. What struck me most was the nuanced depiction of how complex feelings like anxiety can dominate our inner landscape. The storytelling is incredibly sophisticated, managing to be both intellectually stimulating and emotionally resonant. It's a rare example of a sequel that surpasses its predecessor in depth and emotional maturity."
+  },
+  "v": [
+    {
+      "word": "captivated",
+      "ipa": "/ˈkæptɪveɪtɪd/",
+      "meaning": "bị thu hút",
+      "example": "I was captivated by the beautiful scenery."
+    },
+    {
+      "word": "turbulence",
+      "ipa": "/ˈtɜːrbjələns/",
+      "meaning": "sự hỗn loạn/biến động",
+      "example": "The movie depicts the emotional turbulence of teenagers."
+    },
+    {
+      "word": "nuanced",
+      "ipa": "/ˈnuːɑːnst/",
+      "meaning": "sắc sảo/có nhiều sắc thái",
+      "example": "Her performance was very nuanced."
+    }
+  ],
+  "topic": "Describe a movie you watched and enjoyed recently",
+  "id": "p2_q30"
+}

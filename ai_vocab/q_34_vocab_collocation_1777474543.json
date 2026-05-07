@@ -1,0 +1,76 @@
+{
+  "id": "q_34",
+  "vocab": [
+    {
+      "word": "nutrient-rich compost",
+      "ipa": "/ˈnjuːtriənt rɪtʃ ˈkɒmpɒst/",
+      "meaning": "phân hữu cơ giàu chất dinh dưỡng",
+      "example": "To ensure a bountiful harvest, I always mix some nutrient-rich compost into the topsoil before planting.",
+      "type": "collocation"
+    },
+    {
+      "word": "germination rate",
+      "ipa": "/ˌdʒɜːmɪˈneɪʃn reɪt/",
+      "meaning": "tỷ lệ nảy mầm",
+      "example": "Using high-quality seeds significantly improves the germination rate, even in less-than-ideal weather.",
+      "type": "collocation"
+    },
+    {
+      "word": "susceptible to blight",
+      "ipa": "/səˈseptəbl tu blaɪt/",
+      "meaning": "dễ bị bệnh bạc lá/bệnh cây",
+      "example": "Certain heritage tomato varieties are unfortunately quite susceptible to blight during humid summers.",
+      "type": "collocation"
+    },
+    {
+      "word": "hydroponic system",
+      "ipa": "/ˌhaɪdrəˈpɒnɪk ˈsɪstəm/",
+      "meaning": "hệ thống thủy canh",
+      "example": "Living in a high-rise apartment, I’ve had to set up a small hydroponic system to grow fresh herbs without soil.",
+      "type": "collocation"
+    },
+    {
+      "word": "dormancy period",
+      "ipa": "/ˈdɔːrmənsi ˈpɪəriəd/",
+      "meaning": "giai đoạn ngủ nghỉ (của cây)",
+      "example": "It is crucial to reduce watering during the plant's dormancy period in winter to prevent root rot.",
+      "type": "collocation"
+    },
+    {
+      "word": "self-sustaining ecosystem",
+      "ipa": "/self səˈsteɪnɪŋ ˈiːkəʊˌsɪstəm/",
+      "meaning": "hệ sinh thái tự duy trì",
+      "example": "I recently built a closed terrarium, which essentially functions as a miniature, self-sustaining ecosystem.",
+      "type": "collocation"
+    },
+    {
+      "word": "alkaline soil",
+      "ipa": "/ˈælkəlaɪn sɔɪl/",
+      "meaning": "đất kiềm",
+      "example": "Lavenders thrive in alkaline soil with excellent drainage, whereas azaleas prefer more acidic conditions.",
+      "type": "collocation"
+    },
+    {
+      "word": "photosynthetic process",
+      "ipa": "/ˌfəʊtəʊsɪnˈθetɪk ˈprəʊses/",
+      "meaning": "quá trình quang hợp",
+      "example": "Sufficient sunlight is the primary engine for the photosynthetic process, allowing plants to convert light into energy.",
+      "type": "collocation"
+    },
+    {
+      "word": "companion planting",
+      "ipa": "/kəmˈpæniən ˈplɑːntɪŋ/",
+      "meaning": "trồng cây bạn đồng hành (trồng xen kẽ để hỗ trợ nhau)",
+      "example": "I'm a big advocate of companion planting, such as putting basil near tomatoes to improve their flavor and deter pests.",
+      "type": "collocation"
+    },
+    {
+      "word": "well-aerated",
+      "ipa": "/wel ˈeəreɪtɪd/",
+      "meaning": "thông thoáng khí",
+      "example": "The roots need a well-aerated medium to prevent them from suffocating in waterlogged earth.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

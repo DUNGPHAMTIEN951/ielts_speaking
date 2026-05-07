@@ -1,0 +1,72 @@
+{
+  "id": "q_6",
+  "topic": "Typing",
+  "q": "Do you type on a desktop or laptop keyboard every day?",
+  "examiner_note": "Giám khảo muốn nghe về thói quen sử dụng công nghệ hàng ngày của bạn. Bạn có thể nói về mục đích (học tập, làm việc, giải trí) và loại thiết bị bạn ưu tiên. Hãy nhắc đến các khái niệm như 'ergonomics' (công thái học) hoặc 'tactile feedback' (phản hồi xúc giác) để thể hiện sự am hiểu và nâng điểm từ vựng. Đừng quên sử dụng các trạng từ chỉ tần suất như 'religiously', 'on a daily basis'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I type on my laptop keyboard every single day for my studies and work. It's become a habit for me, and I feel much more comfortable typing than writing by hand now. I use it to take notes, write emails, and chat with my friends.",
+      "note": "Trả lời tự nhiên, trôi chảy, sử dụng tốt các từ chỉ mục đích và tần suất."
+    },
+    "band8": {
+      "text": "Indeed, I’m glued to my laptop keyboard on a daily basis. Since I’m a student, almost all of my assignments and research involve a significant amount of typing. I actually prefer the portability of a laptop, though I must admit that typing for long periods can be somewhat taxing on my wrists.",
+      "note": "Sử dụng các cụm từ tự nhiên như 'glued to', 'on a daily basis', 'portability', 'taxing on my wrists'."
+    },
+    "band9": {
+      "text": "Without fail, I utilize my laptop's mechanical-feel keyboard for several hours every day. Given my current academic workload, it’s my primary interface for both composition and communication. While I appreciate the convenience of the built-in keyboard, I occasionally connect an external ergonomic keyboard to optimize my typing posture and mitigate the risk of repetitive strain. It’s an essential tool that I simply couldn't function without in this digital age.",
+      "note": "Từ vựng học thuật và chuyên môn rất tốt (utilize, interface, composition, ergonomic, optimize, posture, mitigate, repetitive strain). Cách diễn đạt chuyên nghiệp."
+    }
+  },
+  "v": [
+    { "word": "on a daily basis", "meaning": "hàng ngày", "ipa": "/ɑːn ə ˈdeɪli ˈbeɪsɪs/", "example": "I check my emails on a daily basis." },
+    { "word": "glued to", "meaning": "dán mắt vào/gắn chặt với", "ipa": "/ɡluːd tuː/", "example": "Many teenagers are glued to their phones all day." },
+    { "word": "portability", "meaning": "tính di động", "ipa": "/ˌpɔːrtəˈbɪləti/", "example": "The portability of the iPad is its biggest selling point." },
+    { "word": "taxing on", "meaning": "gây áp lực/mệt mỏi cho", "ipa": "/ˈtæksɪŋ ɑːn/", "example": "Long hours of screen time can be taxing on your eyes." },
+    { "word": "without fail", "meaning": "không bao giờ thiếu/luôn luôn", "ipa": "/wɪˈθaʊt feɪl/", "example": "He goes for a run every morning without fail." },
+    { "word": "utilize", "meaning": "sử dụng (một cách có hiệu quả)", "ipa": "/ˈjuːtəlaɪz/", "example": "We should utilize all available resources to finish the project." },
+    { "word": "academic workload", "meaning": "khối lượng học tập", "ipa": "/ˌækəˈdemɪk ˈwɜːrkloʊd/", "example": "My academic workload has increased significantly this semester." },
+    { "word": "primary interface", "meaning": "giao diện chính/phương thức tương tác chính", "ipa": "/ˈpraɪmeri ˈɪntərfeɪs/", "example": "The touch screen is the primary interface for this device." },
+    { "word": "composition", "meaning": "việc sáng tác/soạn thảo", "ipa": "/ˌkɑːmpəˈzɪʃn/", "example": "Typing is essential for the composition of my essays." },
+    { "word": "built-in keyboard", "meaning": "bàn phím tích hợp sẵn (trên laptop)", "ipa": "/ˌbɪlt ˈɪn ˈkiːbɔːrd/", "example": "I find the built-in keyboard on my laptop quite comfortable." },
+    { "word": "external keyboard", "meaning": "bàn phím rời", "ipa": "/ɪkˈstɜːrnl ˈkiːbɔːrd/", "example": "I prefer using an external keyboard when working at my desk." },
+    { "word": "ergonomics", "meaning": "công thái học (thiết kế tối ưu cho con người)", "ipa": "/ˌɜːrɡəˈnɑːmɪks/", "example": "The office was redesigned with a focus on ergonomics." },
+    { "word": "optimize", "meaning": "tối ưu hóa", "ipa": "/ˈɑːptɪmaɪz/", "example": "We need to optimize our website for mobile users." },
+    { "word": "posture", "meaning": "tư thế (ngồi/đứng)", "ipa": "/ˈpɑːstʃər/", "example": "Good posture is vital when sitting at a computer all day." },
+    { "word": "mitigate", "meaning": "giảm nhẹ/xoa dịu", "ipa": "/ˈmɪtɪɡeɪt/", "example": "Regular breaks can mitigate the effects of eye strain." },
+    { "word": "repetitive strain", "meaning": "chấn thương do vận động lặp đi lặp lại", "ipa": "/rɪˈpetətɪv streɪn/", "example": "Typing for too long can lead to repetitive strain in your wrists." },
+    { "word": "digital age", "meaning": "thời đại kỹ thuật số", "ipa": "/ˈdɪdʒɪtl eɪdʒ/", "example": "In the digital age, typing is a basic survival skill." },
+    { "word": "mechanical keyboard", "meaning": "bàn phím cơ", "ipa": "/məˈkænɪkl ˈkiːbɔːrd/", "example": "Gamers often prefer mechanical keyboards for better feedback." },
+    { "word": "membrane keyboard", "meaning": "bàn phím cao su (thông thường)", "ipa": "/ˈmembreɪn ˈkiːbɔːrd/", "example": "Membrane keyboards are usually quieter than mechanical ones." },
+    { "word": "tactile feedback", "meaning": "phản hồi xúc giác", "ipa": "/ˈtæktaɪl ˈfiːdbæk/", "example": "I like keys that provide a strong tactile feedback." },
+    { "word": "keycaps", "meaning": "nút phím", "ipa": "/ˈkiːkæps/", "example": "You can customize your keyboard with different colored keycaps." },
+    { "word": "backlit", "meaning": "có đèn nền", "ipa": "/ˈbækˌlɪt/", "example": "A backlit keyboard is very useful when working in the dark." },
+    { "word": "wireless", "meaning": "không dây", "ipa": "/ˈwaɪərləs/", "example": "I use a wireless mouse to keep my desk tidy." },
+    { "word": "peripherals", "meaning": "các thiết bị ngoại vi", "ipa": "/pəˈrɪfərəlz/", "example": "The mouse and keyboard are essential computer peripherals." },
+    { "word": "desktop computer", "meaning": "máy tính để bàn", "ipa": "/ˈdesktɑːp kəmˈpjuːtər/", "example": "Desktops are usually more powerful than laptops." },
+    { "word": "productivity tool", "meaning": "công cụ tăng năng suất", "ipa": "/ˌproʊdʌkˈtɪvəti tuːl/", "example": "Microsoft Word is a standard productivity tool." },
+    { "word": "input device", "meaning": "thiết bị đầu vào", "ipa": "/ˈɪnpʊt dɪˈvaɪs/", "example": "A keyboard is the most common input device." },
+    { "word": "wrist rest", "meaning": "miếng kê tay", "ipa": "/rɪst rest/", "example": "Using a wrist rest can prevent pain during long typing sessions." },
+    { "word": "key travel", "meaning": "hành trình phím", "ipa": "/kiː ˈtrævl/", "example": "Laptops usually have a shorter key travel than desktops." },
+    { "word": "actuation force", "meaning": "lực nhấn phím", "ipa": "/ˌæktʃuˈeɪʃn fɔːrs/", "example": "Different switches require different amounts of actuation force." },
+    { "word": "shortcuts", "meaning": "phím tắt", "ipa": "/ˈʃɔːrtkʌts/", "example": "Learning keyboard shortcuts can save you a lot of time." },
+    { "word": "efficiency", "meaning": "sự hiệu quả", "ipa": "/ɪˈfɪʃnsi/", "example": "Touch typing is key to improving your typing efficiency." },
+    { "word": "versatile", "meaning": "linh hoạt/đa năng", "ipa": "/ˈvɜːrsətl/", "example": "A laptop is more versatile for people who travel often." },
+    { "word": "maintenance", "meaning": "sự bảo trì/vệ sinh", "ipa": "/ˈmeɪntənəns/", "example": "Regular maintenance of your keyboard prevents sticking keys." },
+    { "word": "dust-free", "meaning": "không bụi bẩn", "ipa": "/ˈdʌst friː/", "example": "It's important to keep your computer equipment dust-free." },
+    { "word": "clicky", "meaning": "tiếng lách cách (của phím)", "ipa": "/ˈklɪki/", "example": "Some people find clicky keyboards annoying in an office." },
+    { "word": "silent switches", "meaning": "nút phím không tiếng động", "ipa": "/ˈsaɪlənt swɪtʃɪz/", "example": "I chose silent switches for my office keyboard." },
+    { "word": "workstation", "meaning": "trạm làm việc/góc làm việc", "ipa": "/ˈwɜːrksteɪʃn/", "example": "I’ve invested a lot of money into my home workstation." },
+    { "word": "remote work", "meaning": "làm việc từ xa", "ipa": "/rɪˈmoʊt wɜːrk/", "example": "Remote work has become more common after the pandemic." },
+    { "word": "multitasking", "meaning": "đa nhiệm", "ipa": "/ˌmʌltiˈtæskɪŋ/", "example": "Computers allow for seamless multitasking between apps." },
+    { "word": "screen time", "meaning": "thời gian sử dụng màn hình", "ipa": "/skriːn taɪm/", "example": "We should all try to reduce our daily screen time." },
+    { "word": "blue light", "meaning": "ánh sáng xanh", "ipa": "/bluː laɪt/", "example": "Blue light filters can help protect your eyes at night." },
+    { "word": "cloud storage", "meaning": "lưu trữ đám mây", "ipa": "/klaʊd ˈstɔːrɪdʒ/", "example": "I save all my typed documents on cloud storage." },
+    { "word": "religiously", "meaning": "một cách sùng đạo/cực kỳ đều đặn", "ipa": "/rɪˈlɪdʒəsli/", "example": "I practice my typing skills religiously every morning." },
+    { "word": "essential", "meaning": "thiết yếu", "ipa": "/ɪˈsenʃl/", "example": "A fast typing speed is essential for many modern jobs." },
+    { "word": "strenuous", "meaning": "vất vả/căng thẳng", "ipa": "/ˈstrenjuəs/", "example": "Typing for eight hours straight can be very strenuous." },
+    { "word": "seamlessly", "meaning": "một cách mượt mà/không tì vết", "ipa": "/ˈsiːmləsli/", "example": "The keyboard connects seamlessly with my computer via Bluetooth." },
+    { "word": "tech-savvy", "meaning": "am hiểu công nghệ", "ipa": "/ˈtek sævi/", "example": "Today's generation is very tech-savvy from a young age." },
+    { "word": "obsolescence", "meaning": "sự lỗi thời", "ipa": "/ˌɑːbsəˈlesns/", "example": "Planned obsolescence is a big problem in the tech industry." },
+    { "word": "state-of-the-art", "meaning": "hiện đại nhất", "ipa": "/ˌsteɪt əv ðə ˈɑːrt/", "example": "My company provides us with state-of-the-art laptops." }
+  ]
+}

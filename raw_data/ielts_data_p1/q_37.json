@@ -1,0 +1,72 @@
+{
+  "id": "q_37",
+  "topic": "Studying",
+  "q": "Where do you usually study?",
+  "examiner_note": "Câu hỏi này về không gian học tập. \n- **Hướng dẫn trả lời**: Bạn có thể nói về nhà, thư viện, quán cà phê hoặc một nơi yên tĩnh nào đó. Giải thích tại sao bạn thích nơi đó (áp sáng, không khí, sự yên tĩnh). \n- **Mẹo**: Sử dụng các cụm từ như 'conducive to learning', 'peace and quiet', 'distraction-free', 'cozy atmosphere', 'well-lit'." ,
+  "samples": {
+    "band7": {
+      "text": "I usually study in my bedroom because it's the quietest place in my house. I have a big desk and a comfortable chair there, which helps me stay focused for a long time without getting tired.",
+      "note": "Trả lời trực tiếp, giải thích lý do đơn giản nhưng hiệu quả. Từ vựng ổn định."
+    },
+    "band8": {
+      "text": "Most of the time, I head to the university library. I find the academic atmosphere there very motivating, and it's a great place to stay away from the distractions of home, like the TV or the fridge.",
+      "note": "Sử dụng từ vựng tốt ('academic atmosphere', 'distractions'). Cách diễn đạt 'head to' tự nhiên."
+    },
+    "band9": {
+      "text": "I'm a regular at a local quiet café that has a wonderfully cozy atmosphere. I find that a bit of ambient noise actually helps my concentration, and the space is perfectly well-lit and conducive to long hours of deep study.",
+      "note": "Từ vựng ở trình độ cao ('regular', 'ambient noise', 'conducive to'). Diễn đạt mượt mà và logic."
+    }
+  },
+  "v": [
+    { "word": "head to", "meaning": "đi đến", "ipa": "/hed tuː/", "example": "After class, we usually head to the canteen for lunch." },
+    { "word": "academic atmosphere", "meaning": "bầu không khí học thuật", "ipa": "/ˌækəˈdemɪk ˈætməsfɪə(r)/", "example": "The college campus has a very vibrant academic atmosphere." },
+    { "word": "distraction", "meaning": "sự xao nhãng", "ipa": "/dɪˈstrækʃn/", "example": "I find it hard to study with the distraction of loud music." },
+    { "word": "cozy atmosphere", "meaning": "bầu không khí ấm cúng", "ipa": "/ˈkəʊzi ˈætməsfɪə(r)/", "example": "The small bookstore has a very cozy atmosphere for reading." },
+    { "word": "ambient noise", "meaning": "tiếng ồn xung quanh/tiếng ồn nền", "ipa": "/ˈæmbiənt nɔɪz/", "example": "Some people find that ambient noise helps them sleep better." },
+    { "word": "conducive to", "meaning": "có lợi cho/giúp ích cho", "ipa": "/kənˈdjuːsɪv tuː/", "example": "A quiet environment is conducive to deep concentration." },
+    { "word": "well-lit", "meaning": "được chiếu sáng tốt", "ipa": "/ˌwel ˈlɪt/", "example": "It's important to have a well-lit workspace to avoid eye strain." },
+    { "word": "peace and quiet", "meaning": "sự yên bình và tĩnh lặng", "ipa": "/piːs ənd ˈkwaɪət/", "example": "I went to the park because I needed some peace and quiet to think." },
+    { "word": "distraction-free", "meaning": "không bị xao nhãng", "ipa": "/dɪˈstrækʃn friː/", "example": "I try to keep my desk distraction-free when I'm working on a project." },
+    { "word": "regular", "meaning": "khách quen", "ipa": "/ˈreɡjələ(r)/", "example": "He's a regular at the coffee shop and always orders the same thing." },
+    { "word": "workspace", "meaning": "không gian làm việc", "ipa": "/ˈwɜːkspeɪs/", "example": "I've finally set up a dedicated workspace in my new apartment." },
+    { "word": "solitude", "meaning": "sự biệt lập/một mình", "ipa": "/ˈsɒlɪtjuːd/", "example": "She enjoys the solitude of her morning walks on the beach." },
+    { "word": "inspiring", "meaning": "truyền cảm hứng", "ipa": "/ɪnˈspaɪərɪŋ/", "example": "The view from the library window is very inspiring." },
+    { "word": "motivation", "meaning": "động lực", "ipa": "/ˌməʊtɪˈveɪʃn/", "example": "His speech gave the team the motivation they needed to win." },
+    { "word": "productive", "meaning": "năng suất/hiệu quả", "ipa": "/prəˈdʌktɪv/", "example": "I feel more productive when I wake up early." },
+    { "word": "concentration", "meaning": "sự tập trung", "ipa": "/ˌkɒnsnˈtreɪʃn/", "example": "The noise from the street is breaking my concentration." },
+    { "word": "comfortable", "meaning": "thoải mái", "ipa": "/ˈkʌmftəbl/", "example": "The chairs in the lecture hall are not very comfortable." },
+    { "word": "convenient", "meaning": "tiện lợi", "ipa": "/kənˈviːniənt/", "example": "The university is very convenient to get to by bus." },
+    { "word": "accessible", "meaning": "dễ tiếp cận", "ipa": "/əkˈsesəbl/", "example": "The library is accessible to all students 24 hours a day." },
+    { "word": "furnished", "meaning": "được trang bị đồ đạc", "ipa": "/ˈfɜːnɪʃt/", "example": "The study room is well-furnished with desks and computers." },
+    { "word": "organized", "meaning": "ngăn nắp/có tổ chức", "ipa": "/ˈɔːɡənaɪzd/", "example": "Keeping your room organized can help you study better." },
+    { "word": "cluttered", "meaning": "bừa bộn", "ipa": "/ˈklʌtəd/", "example": "I find it hard to focus if my desk is cluttered with papers." },
+    { "word": "isolated", "meaning": "cô lập/biệt lập", "ipa": "/ˈaɪsəleɪtɪd/", "example": "The science lab is located in an isolated part of the campus." },
+    { "word": "social space", "meaning": "không gian sinh hoạt chung", "ipa": "/ˈsəʊʃl speɪs/", "example": "The student union building is the main social space on campus." },
+    { "word": "hustle and bustle", "meaning": "sự hối hả/nhộn nhịp", "ipa": "/ˈhʌsl ənd ˈbʌsl/", "example": "I need some time away from the hustle and bustle of the city center." },
+    { "word": "secluded", "meaning": "hẻo lánh/yên tĩnh", "ipa": "/sɪˈkluːdɪd/", "example": "We found a secluded beach where there were no Other people." },
+    { "word": "tranquil", "meaning": "thanh bình/yên ả", "ipa": "/ˈtræŋkwɪl/", "example": "The lake was so tranquil and beautiful in the early morning." },
+    { "word": "refreshing", "meaning": "làm sảng khoái/mới mẻ", "ipa": "/rɪˈfreʃɪŋ/", "example": "Taking a short break and stretching is very refreshing." },
+    { "word": "vibrant", "meaning": "sống động/đầy sức sống", "ipa": "/ˈvaɪbrənt/", "example": "The city has a very vibrant cultural scene." },
+    { "word": "commuter-friendly", "meaning": "thuận tiện cho việc đi lại", "ipa": "/kəˈmjuːtə ˌfrendli/", "example": "The apartment is in a commuter-friendly location near the station." },
+    { "word": "ergonomic", "meaning": "công thái học", "ipa": "/ˌɜːɡəˈnɒmɪk/", "example": "An ergonomic chair can help prevent back pain from long hours of study." },
+    { "word": "ventilation", "meaning": "sự thông gió", "ipa": "/ˌventɪˈleɪʃn/", "example": "Good ventilation is important in a crowded classroom." },
+    { "word": "temperature-controlled", "meaning": "kiểm soát nhiệt độ", "ipa": "/ˈtemprətʃə kənˌtrəʊld/", "example": "The library is temperature-controlled to protect the ancient books." },
+    { "word": "high-speed internet", "meaning": "internet tốc độ cao", "ipa": "/haɪ spiːd ˈɪntənet/", "example": "The café offers free high-speed internet to its customers." },
+    { "word": "charging point", "meaning": "điểm sạc điện", "ipa": "/ˈtʃɑːdʒɪŋ pɔɪnt/", "example": "I need to find a desk near a charging point for my laptop." },
+    { "word": "spacious", "meaning": "rộng rãi", "ipa": "/ˈspeɪʃəs/", "example": "The new living room is much more spacious than the old one." },
+    { "word": "minimalist", "meaning": "tối giản", "ipa": "/ˈmɪnɪməlɪst/", "example": "Her office has a very clean and minimalist design." },
+    { "word": "personalized", "meaning": "cá nhân hóa", "ipa": "/ˈpɜːsənəlaɪzd/", "example": "The student created a personalized study plan for the finals." },
+    { "word": "dedicated", "meaning": "dành riêng cho", "ipa": "/ˈdedɪkeɪtɪd/", "example": "The building has a dedicated area for student research." },
+    { "word": "multifunctional", "meaning": "đa năng", "ipa": "/ˌmʌltiˈfʌŋkʃənl/", "example": "The new community center is a multifunctional space for all ages." },
+    { "word": "accessible", "meaning": "dễ tiếp cận", "ipa": "/əkˈsesəbl/", "example": "Public transport is now more accessible for people with disabilities." },
+    { "word": "affordable", "meaning": "giá cả phải chăng", "ipa": "/əˈfɔːdəbl/", "example": "They are building more affordable housing for young families." },
+    { "word": "centrally located", "meaning": "nằm ở vị trí trung tâm", "ipa": "/ˈsentrəli ləʊˌkeɪtɪd/", "example": "The hotel is centrally located near all the main attractions." },
+    { "word": "out of the way", "meaning": "nơi hẻo lánh", "ipa": "/ˌaʊt əv ðə ˈweɪ/", "example": "The restaurant is a bit out of the way, but it's well worth the trip." },
+    { "word": "tucked away", "meaning": "được giấu kín/nằm sâu trong", "ipa": "/tʌkt əˈweɪ/", "example": "The café is tucked away in a quiet alleyway." },
+    { "word": "bustling", "meaning": "nhộn nhịp/hối hả", "ipa": "/ˈbʌslɪŋ/", "example": "The market is constant bustling with activity." },
+    { "word": "serene", "meaning": "thanh bình/yên tĩnh", "ipa": "/səˈriːn/", "example": "The mountain air is so fresh and the surroundings are serene." },
+    { "word": "uncluttered", "meaning": "gọn gàng/không bừa bộn", "ipa": "/ˌʌnˈklʌtəd/", "example": "I prefer an uncluttered workspace to help me think clearly." },
+    { "word": "focal point", "meaning": "điểm nhấn/trọng tâm", "ipa": "/ˈfəʊkl pɔɪnt/", "example": "The large painting is the focal point of the room." },
+    { "word": "retreat", "meaning": "nơi nghỉ ngơi/ẩn náu", "ipa": "/rɪˈtriːt/", "example": "The cabin in the woods is my favorite weekend retreat." }
+  ]
+}

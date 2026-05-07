@@ -1,0 +1,76 @@
+{
+  "id": "q_34",
+  "vocab": [
+    {
+      "word": "a green thumb",
+      "ipa": "/ə ɡriːn θʌm/",
+      "meaning": "có khiếu trồng cây/mát tay nuôi cây",
+      "example": "My grandmother has a real green thumb; she can make almost any withered plant flourish again.",
+      "type": "collocation"
+    },
+    {
+      "word": "optimal growing conditions",
+      "ipa": "/ˈɒptɪməl ˈɡrəʊɪŋ kənˈdɪʃnz/",
+      "meaning": "điều kiện sinh trưởng tối ưu",
+      "example": "To ensure a bountiful harvest, you must maintain optimal growing conditions regarding humidity and light.",
+      "type": "collocation"
+    },
+    {
+      "word": "botanical knowledge",
+      "ipa": "/bəˈtænɪkl ˈnɒlɪdʒ/",
+      "meaning": "kiến thức về thực vật học",
+      "example": "While I lack formal botanical knowledge, I’ve learned through trial and error how to care for indoor lilies.",
+      "type": "collocation"
+    },
+    {
+      "word": "water-soluble fertilizer",
+      "ipa": "/ˈwɔːtər ˈsɒljəbl ˈfɜːrtəlaɪzər/",
+      "meaning": "phân bón tan trong nước",
+      "example": "Applying a water-soluble fertilizer every fortnight can significantly boost the growth of leafy vegetables.",
+      "type": "collocation"
+    },
+    {
+      "word": "thrive in",
+      "ipa": "/θraɪv ɪn/",
+      "meaning": "phát triển mạnh mẽ trong (môi trường nào đó)",
+      "example": "Certain species of ferns thrive in damp, shaded areas where direct sunlight is minimal.",
+      "type": "collocation"
+    },
+    {
+      "word": "rootbound",
+      "ipa": "/ˈruːtbaʊnd/",
+      "meaning": "tình trạng rễ bám quá chặt vào chậu (do chậu quá nhỏ)",
+      "example": "If a plant becomes rootbound, its growth will be stunted unless you repot it into a larger container.",
+      "type": "collocation"
+    },
+    {
+      "word": "soil aeration",
+      "ipa": "/sɔɪl erˈeɪʃn/",
+      "meaning": "sự thông thoáng/làm tơi xốp đất",
+      "example": "Good soil aeration is vital because it allows oxygen to reach the roots and prevents carbon dioxide buildup.",
+      "type": "collocation"
+    },
+    {
+      "word": "pest infestation",
+      "ipa": "/pest ˌɪnfeˈsteɪʃn/",
+      "meaning": "sự phá hoại của sâu bệnh",
+      "example": "Early detection of a pest infestation is key to saving your garden from complete destruction.",
+      "type": "collocation"
+    },
+    {
+      "word": "wilting leaves",
+      "ipa": "/ˈwɪltɪŋ liːvz/",
+      "meaning": "lá bị héo rũ",
+      "example": "Wilting leaves are often a telltale sign of dehydration, though they can also indicate overwatering.",
+      "type": "collocation"
+    },
+    {
+      "word": "an avid gardener",
+      "ipa": "/ən ˈævɪd ˈɡɑːrdnər/",
+      "meaning": "một người làm vườn say mê/nhiệt tâm",
+      "example": "As an avid gardener, I spend most of my weekends tending to my backyard herb collection.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

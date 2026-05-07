@@ -1,0 +1,76 @@
+{
+  "id": "q_7",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng/đắm mình trong (không khí, ánh nắng)",
+      "example": "Many city dwellers visit parks to soak up the sun and enjoy the natural scenery after a long day indoors.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "switch off",
+      "ipa": "/swɪtʃ ɒf/",
+      "meaning": "ngừng suy nghĩ về công việc/áp lực để thư giãn",
+      "example": "A stroll among the trees helps people switch off from the constant notifications and demands of modern life.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blow off steam",
+      "ipa": "/bləʊ ɒf stiːm/",
+      "meaning": "xả cơn giận/giải tỏa căng thẳng",
+      "example": "Parks are the perfect place for people to blow off steam through a brisk walk or an intense jog.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ bắt gặp/phát hiện",
+      "example": "Walking in larger parks allows you to stumble upon hidden gardens or quiet benches you never knew existed.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "break away from",
+      "ipa": "/breɪk əˈweɪ frəm/",
+      "meaning": "thoát khỏi/rời xa (thói quen, nơi chốn)",
+      "example": "It is essential to break away from the concrete jungle once in a while to reconnect with nature in a public park.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "thư giãn dần dần sau một hoạt động căng thẳng",
+      "example": "After a hectic week at the office, I find that a slow walk in the park helps me wind down effectively.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑːrvl æt/",
+      "meaning": "ngưỡng mộ/kinh ngạc trước cái gì",
+      "example": "People often pause during their walks to marvel at the changing colors of the leaves during autumn.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear out",
+      "ipa": "/klɪər aʊt/",
+      "meaning": "dọn sạch/giải tỏa (thường dùng cho tâm trí)",
+      "example": "Fresh air and physical movement help to clear out the mental cobwebs and improve one's focus.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp/duy trì liên lạc (với bạn bè khi đi bộ)",
+      "example": "Walking in the park is a fantastic way to keep up with friends while getting some light exercise at the same time.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "chặn/loại bỏ (tiếng ồn, suy nghĩ tiêu cực)",
+      "example": "The dense foliage in many urban parks helps to block out the deafening roar of city traffic.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

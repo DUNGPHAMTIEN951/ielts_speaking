@@ -1,0 +1,76 @@
+{
+  "id": "q_21",
+  "vocab": [
+    {
+      "word": "fit as a fiddle",
+      "ipa": "/fɪt æz ə ˈfɪd.əl/",
+      "meaning": "khỏe mạnh, sung sức, đầy năng lượng",
+      "example": "Despite my hectic work schedule, I manage to stay fit as a fiddle by hitting the gym at least four times a week.",
+      "type": "idiom"
+    },
+    {
+      "word": "recharge one's batteries",
+      "ipa": "/riːˈtʃɑːdʒ wʌnz ˈbæt.ər.iz/",
+      "meaning": "hồi phục năng lượng, nghỉ ngơi để lấy lại sức",
+      "example": "I find that getting a solid eight hours of sleep is the best way to recharge my batteries after a long day.",
+      "type": "idiom"
+    },
+    {
+      "word": "back on one's feet",
+      "ipa": "/bæk ɒn wʌnz fiːt/",
+      "meaning": "hồi phục sức khỏe (thường sau một đợt ốm hoặc chấn thương)",
+      "example": "After a brief bout of the flu, I used a balanced diet and herbal teas to get back on my feet quickly.",
+      "type": "idiom"
+    },
+    {
+      "word": "go under the knife",
+      "ipa": "/ɡəʊ ˈʌn.dər ðə naɪf/",
+      "meaning": "phẫu thuật (dùng để nhấn mạnh việc muốn giữ sức khỏe để tránh phải can thiệp y tế)",
+      "example": "I prioritize preventive care because the last thing I want is to have to go under the knife for a preventable condition.",
+      "type": "idiom"
+    },
+    {
+      "word": "full of beans",
+      "ipa": "/fʊl əv biːnz/",
+      "meaning": "hăng hái, tràn đầy sức sống và nhiệt huyết",
+      "example": "Ever since I started incorporating morning yoga, I've felt full of beans throughout the entire afternoon.",
+      "type": "idiom"
+    },
+    {
+      "word": "cut down on",
+      "ipa": "/kʌt daʊn ɒn/",
+      "meaning": "cắt giảm tiêu thụ thứ gì đó (như đường, chất béo) để tốt cho sức khỏe",
+      "example": "To maintain my weight, I've had to cut down on processed snacks and fizzy drinks.",
+      "type": "idiom"
+    },
+    {
+      "word": "burn the candle at both ends",
+      "ipa": "/bɜːn ðə ˈkæn.dəl æt bəʊθ endz/",
+      "meaning": "làm việc quá sức, thức khuya dậy sớm (thứ cần tránh để giữ sức khỏe)",
+      "example": "I realized I couldn't keep burning the candle at both ends, so I started practicing mindfulness to manage stress.",
+      "type": "idiom"
+    },
+    {
+      "word": "a picture of health",
+      "ipa": "/ə ˈpɪk.tʃər əv helθ/",
+      "meaning": "là hiện thân của sự khỏe mạnh (trông rất khỏe khoắn)",
+      "example": "By following a rigorous skincare and exercise routine, he truly looks like a picture of health.",
+      "type": "idiom"
+    },
+    {
+      "word": "listen to one's body",
+      "ipa": "/ˈlɪs.ən tu wʌnz ˈbɒd.i/",
+      "meaning": "lắng nghe cơ thể (biết khi nào cần nghỉ ngơi hoặc thay đổi chế độ)",
+      "example": "I don't believe in overtraining; I prefer to listen to my body and take a rest day when I feel fatigued.",
+      "type": "idiom"
+    },
+    {
+      "word": "kick the habit",
+      "ipa": "/kɪk ðə ˈhæb.ɪt/",
+      "meaning": "từ bỏ một thói quen xấu (như hút thuốc, ăn đêm)",
+      "example": "It was difficult, but kicking the habit of late-night snacking significantly improved my sleep quality.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

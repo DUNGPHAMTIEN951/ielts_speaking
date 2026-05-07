@@ -1,0 +1,76 @@
+{
+  "id": "q_24",
+  "vocab": [
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "cất kỹ, để gọn vào một nơi an toàn",
+      "example": "I always make sure to tuck away my passport in a hidden compartment of my backpack whenever I travel abroad.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "travel light",
+      "ipa": "/ˈtræv.əl laɪt/",
+      "meaning": "mang ít đồ đạc khi đi du lịch",
+      "example": "If I'm just going on a weekend city break, I prefer to travel light and only bring a small carry-on bag.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sort out",
+      "ipa": "/sɔːt aʊt/",
+      "meaning": "sắp xếp, phân loại đồ đạc",
+      "example": "Before a big move or trip, I spend hours sorting out which gadgets are essential and which can stay home.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry around",
+      "ipa": "/ˈkær.i əˈraʊnd/",
+      "meaning": "mang theo bên mình mọi lúc mọi nơi",
+      "example": "It’s quite a hassle to carry around a heavy DSLR camera, so I often opt for a compact one when exploring the city.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bundle up",
+      "ipa": "/ˈbʌn.dəl ʌp/",
+      "meaning": "gói ghém đồ đạc/mặc ấm (thường dùng khi chuẩn bị cho thời tiết lạnh)",
+      "example": "When heading to the mountains, I have to bundle up all my thermal gear and thick socks into a specialized kit.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "check in",
+      "ipa": "/tʃek ɪn/",
+      "meaning": "ký gửi đồ đạc (tại sân bay, khách sạn)",
+      "example": "If I’m carrying bulky sports equipment, I usually have to check it in rather than taking it into the cabin.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fumble for",
+      "ipa": "/ˈfʌm.bəl fɔːr/",
+      "meaning": "lục tìm cái gì đó (thường là trong túi xách) một cách lúng túng",
+      "example": "I hate having too many loose items in my bag because I always end up fumbling for my keys at the doorstep.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pack off",
+      "ipa": "/pæk ɒf/",
+      "meaning": "gửi đồ đạc đi hoặc đóng gói đồ đạc gửi đi",
+      "example": "For longer stays, I might pack off a separate trunk of books and supplies to my destination in advance.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set aside",
+      "ipa": "/set əˈsaɪd/",
+      "meaning": "để riêng ra một bên (thứ cần mang theo hoặc cần để lại)",
+      "example": "I always set aside my emergency first-aid kit first, regardless of where I am traveling.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hand over",
+      "ipa": "/hænd ˈəʊ.vər/",
+      "meaning": "giao nộp, đưa cái gì đó cho ai (thường là giấy tờ khi đi qua các trạm)",
+      "example": "When visiting different administrative zones, you frequently have to hand over your identification documents for inspection.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

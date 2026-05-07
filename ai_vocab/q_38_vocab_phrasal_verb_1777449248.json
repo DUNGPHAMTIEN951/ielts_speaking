@@ -1,0 +1,76 @@
+{
+  "id": "q_38",
+  "vocab": [
+    {
+      "word": "narrow down",
+      "ipa": "/ˈnæroʊ daʊn/",
+      "meaning": "thu hẹp (sự tập trung hoặc các lựa chọn)",
+      "example": "A minimalist study space helps me narrow down my focus to the most urgent tasks at hand.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tidy up",
+      "ipa": "/ˈtaɪdi ʌp/",
+      "meaning": "dọn dẹp ngăn nắp",
+      "example": "I always spend five minutes to tidy up my desk because a cluttered environment usually leads to a cluttered mind.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "perk up",
+      "ipa": "/pɜːrk ʌp/",
+      "meaning": "trở nên tươi tỉnh, năng động hơn",
+      "example": "A well-ventilated room with plenty of natural light really helps me perk up during long afternoon study sessions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shut out",
+      "ipa": "/ʃʌt aʊt/",
+      "meaning": "ngăn chặn, không cho (âm thanh, sự xao nhãng) lọt vào",
+      "example": "It is vital to have a quiet place where you can shut out the rest of the world and immerse yourself in books.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "muddle up",
+      "ipa": "/ˈmʌdl ʌp/",
+      "meaning": "làm lộn xộn, gây nhầm lẫn",
+      "example": "Without an organized filing system in my room, I often muddle up my lecture notes and lose track of my progress.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fresher up",
+      "ipa": "/ˈfreʃn ʌp/",
+      "meaning": "làm mới, làm cho sảng khoái (không gian hoặc tinh thần)",
+      "example": "Adding a few indoor plants is a great way to freshen up your study area and reduce stress levels.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure out",
+      "ipa": "/ˈmeʒər aʊt/",
+      "meaning": "phân chia, định lượng (thời gian hoặc công sức)",
+      "example": "A serene environment allows me to accurately measure out how much time I need for each complex problem.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wear away",
+      "ipa": "/wer əˈweɪ/",
+      "meaning": "làm mòn, làm giảm dần (sự kiên nhẫn hoặc năng lượng)",
+      "example": "Constant background noise can slowly wear away your patience, making it impossible to study effectively.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dựa vào (một nơi chốn/nguồn lực dự phòng)",
+      "example": "When my home gets too noisy, the local library is a reliable quiet zone that I can always fall back on.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block off",
+      "ipa": "/blɑːk ɔːf/",
+      "meaning": "tách biệt, phân ranh giới (một khoảng không gian)",
+      "example": "I try to block off a specific corner of my apartment solely for academic work to create a mental boundary.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

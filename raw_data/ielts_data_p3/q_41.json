@@ -1,0 +1,52 @@
+{
+  "id": "q_41",
+  "topic": "Noisy & Quiet places",
+  "q": "Where is the noise louder, in cities or the countryside?",
+  "examiner_note": "So sánh hai môi trường. Sử dụng 'density', 'serene', 'agricultural', 'stark contrast'.",
+  "samples": {
+    "band7": {
+      "text": "Undoubtedly in cities. The high density of people, vehicles, and construction activities creates a near-constant wall of sound. In contrast, the countryside is much more serene, with only the occasional natural or agricultural noise.",
+      "note": "So sánh rõ ràng và sử dụng từ nối tốt (Undoubtedly, In contrast)."
+    },
+    "band8": {
+      "text": "There’s a stark contrast between the two. Cities are epicenters of noise due to the concentrated human and mechanical activity. The countryside, however, offers a much more tranquil soundscape, where the primary sounds are those of nature or the quiet hum of rural life.",
+      "note": "Sử dụng từ vựng hay (stark contrast, epicenters, concentrated, soundscape)."
+    },
+    "band9": {
+      "text": "The disparity in noise levels is immense. Urban centers are characterized by a pervasive and diverse range of man-made sounds that can be quite intrusive. In contrast, rural environments provide a vastly different auditory experience, dominated by natural elements and a much slower, quieter pace of life.",
+      "note": "Sử dụng từ vựng ở mức độ cao (disparity, pervasive, intrusive, auditory experience)."
+    }
+  },
+  "v": [
+    {
+      "word": "stark contrast",
+      "meaning": "sự tương phản rõ rệt",
+      "ipa": "/stɑːrk ˈkɑːntræst/",
+      "example": "There is a stark contrast between the lives of the rich and the poor."
+    },
+    {
+      "word": "pervasive",
+      "meaning": "lan tỏa/tràn ngập",
+      "ipa": "/pərˈveɪsɪv/",
+      "example": "The smell of coffee was pervasive."
+    },
+    {
+      "word": "soundscape",
+      "meaning": "không gian âm thanh",
+      "ipa": "/ˈsaʊndskeɪp/",
+      "example": "The film has a very interesting soundscape."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "disparity",
+      "meaning": "sự khác biệt/chênh lệch",
+      "ipa": "/dɪˈspærəti/",
+      "example": "There is a significant disparity between the two groups."
+    }
+  ],
+  "similar_questions": [
+    "Which do you prefer, city or countryside?",
+    "Would you like to live in a quiet place in the future?"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "plough back",
+      "ipa": "/plaʊ bæk/",
+      "meaning": "tái đầu tư (lợi nhuận) vào doanh nghiệp",
+      "example": "Entrepreneurs use banks to manage their cash flow, allowing them to plough back profits into their expanding businesses.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "write off",
+      "ipa": "/raɪt ɔːf/",
+      "meaning": "xóa nợ (khi không còn khả năng thu hồi)",
+      "example": "Some people hope the bank will write off their debts during extreme financial crises, though this is rarely the case.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stave off",
+      "ipa": "/steɪv ɔːf/",
+      "meaning": "ngăn chặn một điều tồi tệ xảy ra (thường là rủi ro tài chính)",
+      "example": "Individuals often keep an emergency fund in a bank to stave off potential bankruptcy during a job loss.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dip into",
+      "ipa": "/dɪp ˈɪntə/",
+      "meaning": "tiêu lạm vào tiền tiết kiệm",
+      "example": "Having a savings account is convenient, but it’s often too easy to dip into those funds for impulsive purchases.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bail out",
+      "ipa": "/beɪl aʊt/",
+      "meaning": "cứu nguy về tài chính",
+      "example": "People take out personal loans from banks to bail themselves out when they face unexpected medical expenses.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cough up",
+      "ipa": "/kɔːf ʌp/",
+      "meaning": "miễn cưỡng trả một khoản tiền",
+      "example": "Banks provide a secure way to pay bills, so customers don't have to cough up large sums of cash in person.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tally up",
+      "ipa": "/ˈtæli ʌp/",
+      "meaning": "tổng hợp, tính toán tổng số tiền",
+      "example": "Mobile banking apps help users tally up their monthly expenditures with just a few taps on the screen.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "rake in",
+      "ipa": "/reɪk ɪn/",
+      "meaning": "thu về rất nhiều tiền (thường là lợi nhuận/lãi suất)",
+      "example": "Savvy investors use banks to rake in interest from fixed-term deposits over several years.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shore up",
+      "ipa": "/ʃɔːr ʌp/",
+      "meaning": "củng cố, làm cho vững chắc hơn (tài chính)",
+      "example": "Taking out a small business loan can help a startup shore up its finances during the initial months of operation.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "run up",
+      "ipa": "/rʌn ʌp/",
+      "meaning": "nợ nần chồng chất (do chi tiêu quá mức)",
+      "example": "Credit cards provided by banks are useful, but they can lead people to run up massive debts if not managed carefully.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

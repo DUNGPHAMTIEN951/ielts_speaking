@@ -1,0 +1,76 @@
+{
+  "id": "q_10",
+  "vocab": [
+    {
+      "word": "chill out",
+      "ipa": "/tʃɪl aʊt/",
+      "meaning": "thư giãn, thả lỏng tâm trí",
+      "example": "I love visiting art galleries to chill out and forget about the stresses of my daily routine.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "conjure up",
+      "ipa": "/ˈkʌndʒər ʌp/",
+      "meaning": "gợi lên (hình ảnh, cảm xúc hoặc ký ức)",
+      "example": "Abstract paintings often conjure up vivid emotions that are difficult to put into words.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out from",
+      "ipa": "/stænd aʊt frəm/",
+      "meaning": "nổi bật, khác biệt so với số đông",
+      "example": "I appreciate avant-garde pieces that truly stand out from the more traditional artworks you see everywhere.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "grow on",
+      "ipa": "/ɡrəʊ ɒn/",
+      "meaning": "dần dần khiến ai đó thích (dù lúc đầu không ấn tượng)",
+      "example": "Modern art didn't appeal to me at first, but it has really started to grow on me lately.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒər ʌp tuː/",
+      "meaning": "đạt tới tiêu chuẩn hoặc kỳ vọng",
+      "example": "Very few contemporary installations can measure up to the sheer beauty of Renaissance masterpieces.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại hoặc trau dồi kiến thức (về lịch sử nghệ thuật)",
+      "example": "I’m planning to brush up on my knowledge of art history before visiting the Louvre next month.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass for",
+      "ipa": "/pæs fɔːr/",
+      "meaning": "được coi là hoặc có vẻ như là",
+      "example": "In some modern circles, even a simple blank canvas can pass for a profound piece of art.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại quá khứ (để thấy sự tiến hóa của nghệ thuật)",
+      "example": "When you look back on the evolution of art, it's fascinating to see how social changes influenced painting styles.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get into",
+      "ipa": "/ɡet ˈɪntuː/",
+      "meaning": "trở nên say mê hoặc bắt đầu quan tâm đến",
+      "example": "My sister actually got me into pottery, and now I find it incredibly therapeutic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊpən ʌp/",
+      "meaning": "mở ra (những góc nhìn hoặc khả năng mới)",
+      "example": "Learning about surrealism has opened up a whole new world of imagination for me.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

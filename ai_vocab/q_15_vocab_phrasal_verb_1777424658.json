@@ -1,0 +1,76 @@
+{
+  "id": "q_15",
+  "vocab": [
+    {
+      "word": "pore over",
+      "ipa": "/pɔː(r) ˈəʊvə(r)/",
+      "meaning": "nghiên cứu kỹ lưỡng, ngắm nghía chi tiết",
+      "example": "I could spend hours in a museum poring over ancient manuscripts to uncover their hidden meanings.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑːvl æt/",
+      "meaning": "chiêm ngưỡng với sự kinh ngạc, khâm phục",
+      "example": "Visitors from around the globe come to marvel at the sheer scale of the historical installations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "trace back",
+      "ipa": "/treɪs bæk/",
+      "meaning": "truy nguyên, tìm hiểu về nguồn gốc của cái gì",
+      "example": "Museums are fascinating because they allow us to trace back the evolution of human tools over millennia.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ phát hiện ra (một tác phẩm hay)",
+      "example": "I love wandering aimlessly through galleries, hoping to stumble upon a masterpiece by an obscure artist.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dwell on",
+      "ipa": "/dwel ɒn/",
+      "meaning": "suy nghĩ kỹ về, dừng lại lâu ở (một ý tưởng hoặc tác phẩm)",
+      "example": "Abstract art often forces the viewer to dwell on the emotions and colors rather than a literal subject.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng ngoạn, hấp thụ (vẻ đẹp hoặc kiến thức)",
+      "example": "I prefer visiting galleries on weekdays when it’s quiet so I can truly take in the aesthetics of the sculptures.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "conjure up",
+      "ipa": "/ˈkʌndʒə(r) ʌp/",
+      "meaning": "gợi lên (hình ảnh, ký ức hoặc cảm xúc)",
+      "example": "The realistic portraits in the gallery conjure up a vivid sense of what life was like in the 18th century.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand back",
+      "ipa": "/stænd bæk/",
+      "meaning": "lùi lại (để có cái nhìn tổng thể)",
+      "example": "With Impressionist paintings, you often have to stand back to appreciate how the brushstrokes merge into a scene.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại, cải thiện (kiến thức về nghệ thuật/lịch sử)",
+      "example": "I want to visit the war museum to brush up on my local history before the upcoming national holiday.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊpən ʌp/",
+      "meaning": "mở ra (một chân trời, góc nhìn mới)",
+      "example": "Experiencing avant-garde art really opens up new ways of thinking about social issues.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

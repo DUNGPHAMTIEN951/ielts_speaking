@@ -1,0 +1,76 @@
+{
+  "id": "q_39",
+  "vocab": [
+    {
+      "word": "geek out over",
+      "ipa": "/ɡiːk aʊt ˈoʊvər/",
+      "meaning": "say mê/phấn khích quá mức về một chủ đề cụ thể",
+      "example": "My friends and I used to geek out over complex physics theories during our lunch breaks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get my head around",
+      "ipa": "/ɡet maɪ hed əˈraʊnd/",
+      "meaning": "thấu hiểu một vấn đề hóc búa",
+      "example": "It took me a while to get my head around organic chemistry, but once I did, it became my favorite subject.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "read up on",
+      "ipa": "/riːd ʌp ɒn/",
+      "meaning": "đọc thêm/tìm hiểu sâu về một chủ đề",
+      "example": "I loved History so much that I would often read up on the French Revolution outside of our required textbooks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bone up on",
+      "ipa": "/boʊn ʌp ɒn/",
+      "meaning": "học nhồi nhét/ôn tập kỹ cho một kỳ thi",
+      "example": "Even for subjects I liked, I had to bone up on the specific terminology before the final exams.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "scribble down",
+      "ipa": "/ˈskrɪbl daʊn/",
+      "meaning": "ghi chép nhanh/hối hả",
+      "example": "I would scribble down every single word my Literature teacher said because her interpretations were so insightful.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall behind with",
+      "ipa": "/fɔːl bɪˈhaɪnd wɪð/",
+      "meaning": "tụt hậu/không theo kịp tiến độ học tập",
+      "example": "I never wanted to fall behind with my Math assignments because I found solving equations quite therapeutic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại/trau dồi lại kiến thức đã lâu không dùng",
+      "example": "Every summer, I would brush up on my French grammar just because I enjoyed the rhythm of the language.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dip into",
+      "ipa": "/dɪp ˈɪntuː/",
+      "meaning": "đọc lướt/tìm hiểu qua một chút",
+      "example": "Our teacher encouraged us to dip into various philosophical texts, which really piqued my interest in Social Studies.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "finish off",
+      "ipa": "/ˈfɪnɪʃ ɔːf/",
+      "meaning": "hoàn tất phần cuối cùng của cái gì đó",
+      "example": "I always looked forward to finishing off my art projects because the sense of accomplishment was immense.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep at",
+      "ipa": "/kiːp æt/",
+      "meaning": "kiên trì thực hiện một việc khó khăn",
+      "example": "Calculus was tough, but I decided to keep at it because I loved the logic behind the numbers.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

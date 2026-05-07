@@ -1,0 +1,76 @@
+{
+  "id": "q_38",
+  "vocab": [
+    {
+      "word": "conducive to",
+      "ipa": "/kənˈdjuːsɪv tu/",
+      "meaning": "có lợi cho, tạo điều kiện thuận lợi cho",
+      "example": "A quiet room with plenty of natural light is highly conducive to effective learning.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "cognitive load",
+      "ipa": "/ˈkɒɡnətɪv ləʊd/",
+      "meaning": "áp lực nhận thức (lượng thông tin mà trí não phải xử lý)",
+      "example": "A chaotic environment increases your cognitive load, leaving less mental energy for actual studying.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "ergonomic setup",
+      "ipa": "/ˌɜːɡəˈnɒmɪk ˈsetʌp/",
+      "meaning": "cách bố trí (bàn ghế) đúng tiêu chuẩn bảo vệ sức khỏe",
+      "example": "Investing in an ergonomic setup helps prevent physical discomfort during long revision sessions.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "foster productivity",
+      "ipa": "/ˈfɒstə(r) ˌprɒdʌkˈtɪvəti/",
+      "meaning": "thúc đẩy năng suất",
+      "example": "A well-organized workspace can significantly foster productivity and help students meet tight deadlines.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "secluded spot",
+      "ipa": "/sɪˈkluːdɪd spɒt/",
+      "meaning": "một góc biệt lập, yên tĩnh",
+      "example": "I prefer to find a secluded spot in the library where I won't be interrupted by passersby.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "zone out",
+      "ipa": "/zəʊn aʊt/",
+      "meaning": "mất tập trung, lơ đãng (thường do môi trường không tốt)",
+      "example": "If there are too many distractions, I tend to zone out and find myself staring at the wall instead of my books.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "optimal conditions",
+      "ipa": "/ˈɒptɪməl kənˈdɪʃnz/",
+      "meaning": "điều kiện tối ưu",
+      "example": "Every student has different optimal conditions; some need total silence while others prefer white noise.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "minimize distractions",
+      "ipa": "/ˈmɪnɪmaɪz dɪˈstrækʃnz/",
+      "meaning": "giảm thiểu sự xao nhãng",
+      "example": "It is vital to minimize distractions by turning off phone notifications before starting a study session.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "mental clarity",
+      "ipa": "/ˈmentl ˈklærəti/",
+      "meaning": "sự minh mẫn về tâm trí",
+      "example": "A minimalist study area promotes mental clarity, allowing for better synthesis of complex information.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "stimulate the mind",
+      "ipa": "/ˈstɪmjuleɪt ðə maɪnd/",
+      "meaning": "kích thích trí óc",
+      "example": "A vibrant yet orderly environment can stimulate the mind and make the learning process more enjoyable.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

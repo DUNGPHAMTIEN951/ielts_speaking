@@ -1,0 +1,76 @@
+{
+  "id": "q_22",
+  "vocab": [
+    {
+      "word": "load up",
+      "ipa": "/ləʊd ʌp/",
+      "meaning": "chất đồ lên (xe, túi, hoặc phương tiện vận chuyển)",
+      "example": "Instead of carrying everything by hand, I usually load up a trolley to make the process more efficient.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "prop up",
+      "ipa": "/prɒp ʌp/",
+      "meaning": "chống đỡ, kê cái gì đó lên (để đỡ nặng hoặc giữ thăng bằng)",
+      "example": "If I need to take a break while carrying a heavy box, I'll prop it up against a wall for a moment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set down",
+      "ipa": "/set daʊn/",
+      "meaning": "đặt cái gì đó xuống (thường là sau khi mang vác vất vả)",
+      "example": "The moment I feel a strain in my back, I immediately set the item down to avoid any potential injury.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cart off",
+      "ipa": "/kɑːt ɒf/",
+      "meaning": "chở đi, mang đi (thường là bằng xe và vật đó rất nặng/cồng kềnh)",
+      "example": "For extremely bulky furniture, I usually hire a professional service to cart it off to my new apartment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shove around",
+      "ipa": "/ʃʌv əˈraʊnd/",
+      "meaning": "đẩy mạnh, dịch chuyển một vật nặng một cách khó khăn",
+      "example": "I had to shove the heavy wardrobe around for twenty minutes before I finally got it into the right corner.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ease down",
+      "ipa": "/iːz daʊn/",
+      "meaning": "hạ một vật nặng xuống một cách cẩn thận và chậm rãi",
+      "example": "It's crucial to ease down a heavy television set slowly to ensure you don't damage the screen.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up the slack",
+      "ipa": "/pɪk ʌp ðə slæk/",
+      "meaning": "hỗ trợ phần việc/sức lực mà người khác thiếu (khi cùng khênh đồ)",
+      "example": "When moving the piano, my brother had to pick up the slack because I wasn't strong enough to lift my end.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bundle up",
+      "ipa": "/ˈbʌndl ʌp/",
+      "meaning": "bó lại, gói ghém lại cho gọn (để dễ khuân vác hơn)",
+      "example": "I find that if I bundle up the heavy loose items together, they are much easier to handle.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "maneuver around",
+      "ipa": "/məˈnuːvər əˈraʊnd/",
+      "meaning": "điều khiển/xoay xở vật nặng vượt qua chướng ngại vật",
+      "example": "It took a lot of effort to maneuver the heavy washing machine around the tight corners of the hallway.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "farm out",
+      "ipa": "/fɑːm aʊt/",
+      "meaning": "giao lại việc (nặng) cho người khác hoặc bên thứ ba làm",
+      "example": "I decided to farm out the task of moving my heavy gym equipment to a specialized moving company.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

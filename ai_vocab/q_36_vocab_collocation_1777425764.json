@@ -1,0 +1,76 @@
+{
+  "id": "q_36",
+  "vocab": [
+    {
+      "word": "peak cognitive performance",
+      "ipa": "/piːk ˈkɒɡnətɪv pəˈfɔːməns/",
+      "meaning": "hiệu suất nhận thức đỉnh cao",
+      "example": "I hit my peak cognitive performance around 10 AM, so that's when I tackle the most challenging subjects.",
+      "type": "collocation"
+    },
+    {
+      "word": "chronotype",
+      "ipa": "/ˈkrəʊnətaɪp/",
+      "meaning": "kiểu thời gian sinh học (nhóm người cú đêm hay chim sớm)",
+      "example": "My chronotype is definitely that of an early bird, which is why I find afternoon study sessions quite draining.",
+      "type": "collocation"
+    },
+    {
+      "word": "mental alertness",
+      "ipa": "/ˈmentl əˈlɜːtnəs/",
+      "meaning": "sự tỉnh táo về tinh thần",
+      "example": "There is a noticeable surge in my mental alertness right after my morning coffee.",
+      "type": "collocation"
+    },
+    {
+      "word": "afternoon slump",
+      "ipa": "/ˌɑːftəˈnuːn slʌmp/",
+      "meaning": "sự uể oải, trì trệ vào buổi chiều",
+      "example": "I struggle to focus at 3 PM due to the typical afternoon slump that affects my concentration.",
+      "type": "collocation"
+    },
+    {
+      "word": "optimal window",
+      "ipa": "/ˈɒptɪml ˈwɪndəʊ/",
+      "meaning": "khoảng thời gian tối ưu",
+      "example": "The three hours following breakfast are my optimal window for memorizing complex vocabulary.",
+      "type": "collocation"
+    },
+    {
+      "word": "receptive to information",
+      "ipa": "/rɪˈseptɪv tu ˌɪnfəˈmeɪʃn/",
+      "meaning": "dễ dàng tiếp thu thông tin",
+      "example": "My brain seems much more receptive to new information when I first wake up and the house is quiet.",
+      "type": "collocation"
+    },
+    {
+      "word": "gradual decline",
+      "ipa": "/ˈɡrædʒuəl dɪˈklaɪn/",
+      "meaning": "sự suy giảm dần dần",
+      "example": "I notice a gradual decline in my productivity as the afternoon progresses toward evening.",
+      "type": "collocation"
+    },
+    {
+      "word": "stave off distractions",
+      "ipa": "/steɪv ɒf dɪˈstrækʃnz/",
+      "meaning": "ngăn chặn/loại bỏ sự xao nhãng",
+      "example": "It is far easier to stave off distractions in the early morning before the rest of the world starts calling.",
+      "type": "collocation"
+    },
+    {
+      "word": "burst of energy",
+      "ipa": "/bɜːst əv ˈenədʒi/",
+      "meaning": "sự bùng nổ năng lượng",
+      "example": "Sometimes I get a second burst of energy in the late afternoon, which is perfect for doing lighter revision.",
+      "type": "collocation"
+    },
+    {
+      "word": "circadian rhythm",
+      "ipa": "/sɜːˈkeɪdiən ˈrɪðəm/",
+      "meaning": "nhịp sinh học",
+      "example": "Studying in the morning aligns perfectly with my circadian rhythm, keeping me focused and motivated.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

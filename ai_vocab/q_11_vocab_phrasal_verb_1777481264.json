@@ -1,0 +1,76 @@
+{
+  "id": "q_11",
+  "vocab": [
+    {
+      "word": "draw on",
+      "ipa": "/drɔː ɒn/",
+      "meaning": "tận dụng hoặc lấy cảm hứng từ điều gì đó",
+      "example": "Visiting galleries allows me to draw on the creativity of masters to improve my own hobbyist sketches.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gaze at",
+      "ipa": "/ɡeɪz æt/",
+      "meaning": "nhìn chằm chằm một cách say sưa hoặc ngưỡng mộ",
+      "example": "I could easily spend an entire morning just gazing at the vibrant colors used in impressionist landscapes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dive into",
+      "ipa": "/daɪv ˈɪn.tuː/",
+      "meaning": "mải mê tìm hiểu sâu vào một chủ đề hoặc không gian",
+      "example": "I love to dive into the history behind a collection to understand the artist's original intent.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "hồi tưởng hoặc nhìn lại quá khứ (thông qua các tác phẩm)",
+      "example": "Art exhibitions help us look back on how society has evolved over the centuries.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "come across",
+      "ipa": "/kʌm əˈkrɒs/",
+      "meaning": "được cảm nhận hoặc thể hiện ra như là (nói về thông điệp của bức tranh)",
+      "example": "The sense of melancholy in his later works really comes across when you see them in person.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "tách biệt/ngăn chặn những phiền nhiễu bên ngoài",
+      "example": "Galleries are perfect places to block out the noise of the city and find some inner peace.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm nổi bật hoặc khơi gợi (cảm xúc/chi tiết)",
+      "example": "The specialized lighting in the gallery really brings out the texture of the sculptures.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass the time",
+      "ipa": "/pɑːs ðə taɪm/",
+      "meaning": "giết thời gian một cách thú vị",
+      "example": "Whenever I have a free afternoon, there's no better way to pass the time than wandering through a new exhibition.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "light up",
+      "ipa": "/laɪt ʌp/",
+      "meaning": "trở nên phấn chấn hoặc rạng rỡ (vì hào hứng)",
+      "example": "My face always lights up when I see a piece of art that I’ve only ever seen in textbooks before.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp/cập nhật những xu hướng mới nhất",
+      "example": "I visit contemporary galleries mainly to keep up with the latest trends in the modern art world.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

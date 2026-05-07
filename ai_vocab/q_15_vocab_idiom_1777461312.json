@@ -1,0 +1,76 @@
+{
+  "id": "q_15",
+  "vocab": [
+    {
+      "word": "a stone's throw from",
+      "ipa": "/ə stoʊnz θroʊ frəm/",
+      "meaning": "rất gần, chỉ cách một quãng ngắn",
+      "example": "There is a massive skyscraper just a stone's throw from my apartment complex.",
+      "type": "idiom"
+    },
+    {
+      "word": "dot the landscape",
+      "ipa": "/dɒt ðə ˈlændskeɪp/",
+      "meaning": "mọc lên rải rác khắp nơi",
+      "example": "Modern high-rises have begun to dot the landscape in my neighborhood over the last decade.",
+      "type": "idiom"
+    },
+    {
+      "word": "eyesore",
+      "ipa": "/ˈaɪsɔː(r)/",
+      "meaning": "vật chướng mắt (thường dùng cho công trình kiến trúc xấu)",
+      "example": "To be honest, the new concrete tower next door is a bit of an eyesore compared to the old villas.",
+      "type": "idiom"
+    },
+    {
+      "word": "reach for the stars",
+      "ipa": "/riːtʃ fə(r) ðə stɑː(r)z/",
+      "meaning": "vươn tới tận trời xanh (nghĩa bóng: rất cao)",
+      "example": "The commercial buildings in the city center seem to reach for the stars, dominating the skyline.",
+      "type": "idiom"
+    },
+    {
+      "word": "concrete jungle",
+      "ipa": "/ˈkɒŋkriːt ˈdʒʌŋɡl/",
+      "meaning": "thành phố toàn bê tông cốt thép (thiếu mảng xanh)",
+      "example": "Living downtown feels like being in a concrete jungle because of the sheer density of tall buildings.",
+      "type": "idiom"
+    },
+    {
+      "word": "blot out the sun",
+      "ipa": "/blɒt aʊt ðə sʌn/",
+      "meaning": "che khuất ánh mặt trời",
+      "example": "The skyscraper opposite my house is so tall that it completely blots out the sun in the afternoon.",
+      "type": "idiom"
+    },
+    {
+      "word": "within earshot of",
+      "ipa": "/wɪˈðɪn ˈɪəʃɒt əv/",
+      "meaning": "ở khoảng cách gần (có thể nghe thấy tiếng ồn từ đó)",
+      "example": "My home is within earshot of several high-rise construction sites, which can be quite noisy.",
+      "type": "idiom"
+    },
+    {
+      "word": "part and parcel",
+      "ipa": "/pɑːt ənd ˈpɑːsl/",
+      "meaning": "phần thiết yếu, đặc điểm hiển nhiên",
+      "example": "High-rise apartments are part and parcel of urban living in a crowded city like this.",
+      "type": "idiom"
+    },
+    {
+      "word": "sticks out like a sore thumb",
+      "ipa": "/stɪks aʊt laɪk ə sɔː(r) θʌm/",
+      "meaning": "nổi bần bật (theo cách kỳ quặc, không ăn nhập)",
+      "example": "That ultra-modern glass tower sticks out like a sore thumb among the low-rise traditional houses.",
+      "type": "idiom"
+    },
+    {
+      "word": "a bird's eye view",
+      "ipa": "/ə bɜːdz aɪ vjuː/",
+      "meaning": "tầm nhìn bao quát từ trên cao",
+      "example": "The penthouse at the top of that building offers a bird's eye view of the entire district.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

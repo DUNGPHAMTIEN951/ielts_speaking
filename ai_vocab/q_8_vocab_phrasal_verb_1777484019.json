@@ -1,0 +1,76 @@
+{
+  "id": "q_8",
+  "vocab": [
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "chiêm ngưỡng/thưởng ngoạn cảnh đẹp",
+      "example": "I’d love to walk along the coastal paths of Scotland to take in the breathtaking cliffs and rugged scenery.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head for",
+      "ipa": "/hed fɔːr/",
+      "meaning": "đi về phía/hướng tới một nơi nào đó",
+      "example": "If I had the opportunity, I would head for the deep pine forests to enjoy the solitude and fresh air.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng/đắm mình trong (không khí, nắng, văn hóa)",
+      "example": "A long walk through the streets of Kyoto would allow me to soak up the serene and spiritual atmosphere of the temples.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bəl əˈpɒn/",
+      "meaning": "tình cờ phát hiện ra điều gì đó thú vị",
+      "example": "I enjoy walking in old European cities because you often stumble upon charming hidden alleyways and local cafes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off",
+      "ipa": "/set ɒf/",
+      "meaning": "khởi hành/bắt đầu một chuyến đi",
+      "example": "I would set off at the crack of dawn to complete a long trek across the rolling hills of the countryside.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "break away from",
+      "ipa": "/breɪk əˈweɪ frəm/",
+      "meaning": "thoát khỏi/rời bỏ (sự ồn ào, thói quen nhàm chán)",
+      "example": "A long walk in the wilderness is the perfect way to break away from the hustle and bustle of city life.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊ.pən ʌp/",
+      "meaning": "mở ra (cảnh tượng, tầm nhìn rộng lớn)",
+      "example": "As you reach the summit of the trail, the entire valley suddenly opens up before your eyes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stop off",
+      "ipa": "/stɒp ɒf/",
+      "meaning": "ghé thăm/dừng chân lại một nơi trên đường đi",
+      "example": "I’d like to walk through the vineyards and stop off at a small local winery to taste the regional produce.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass through",
+      "ipa": "/pɑːs θruː/",
+      "meaning": "đi ngang qua/xuyên qua một khu vực",
+      "example": "It would be fascinating to take a trail that passes through diverse landscapes, from dense woods to open meadows.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep to",
+      "ipa": "/kiːp tuː/",
+      "meaning": "đi bám sát theo (lộ trình, con đường)",
+      "example": "I prefer to keep to the designated footpaths to protect the local flora while exploring the national parks.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

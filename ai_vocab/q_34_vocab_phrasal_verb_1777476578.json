@@ -1,0 +1,76 @@
+{
+  "id": "q_34",
+  "vocab": [
+    {
+      "word": "sprout up",
+      "ipa": "/spraʊt ʌp/",
+      "meaning": "nảy mầm, mọc lên nhanh chóng",
+      "example": "It’s incredibly rewarding to see the tiny seedlings finally sprout up after weeks of patient watering.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "thin out",
+      "ipa": "/θɪn aʊt/",
+      "meaning": "tỉa bớt (cây con) để có không gian phát triển",
+      "example": "If the carrots are planted too closely together, you need to thin them out so the roots have room to expand.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "prune back",
+      "ipa": "/pruːn bæk/",
+      "meaning": "cắt tỉa bớt (cành, lá) để cây mọc khỏe hơn",
+      "example": "To encourage more flowers next season, you should prune back the dead branches during the winter months.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "perk up",
+      "ipa": "/pɜːrk ʌp/",
+      "meaning": "tươi tỉnh trở lại, hưng phấn hơn (sau khi được tưới nước)",
+      "example": "My peace lily was looking quite wilted, but it quickly perked up after I gave it a good soak.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pot on",
+      "ipa": "/pɒt ɒn/",
+      "meaning": "chuyển cây sang chậu lớn hơn",
+      "example": "Once the roots start emerging from the bottom of the container, it's definitely time to pot the plant on.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig over",
+      "ipa": "/dɪɡ ˈəʊ.vər/",
+      "meaning": "xới đất, lật đất (để chuẩn bị gieo trồng)",
+      "example": "Before sowing any seeds, you must dig over the soil to ensure it's well-aerated and free of weeds.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dry out",
+      "ipa": "/draɪ aʊt/",
+      "meaning": "khô cạn, mất nước (đất hoặc cây)",
+      "example": "Terracotta pots tend to dry out much faster than plastic ones, so you have to keep a close eye on the moisture levels.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "feed up",
+      "ipa": "/fiːd ʌp/",
+      "meaning": "bón phân, cung cấp dưỡng chất dồi dào",
+      "example": "During the growing season, I make sure to feed up my tomato plants with organic liquid fertilizer every fortnight.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take root",
+      "ipa": "/teɪk ruːt/",
+      "meaning": "bắt rễ, bám rễ",
+      "example": "It usually takes about ten days for the cuttings to take root and show signs of new growth.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "die back",
+      "ipa": "/daɪ bæk/",
+      "meaning": "héo đi/lụi đi (thường là phần trên mặt đất vào mùa đông)",
+      "example": "Many perennials will die back to the ground in late autumn, only to re-emerge stronger in the spring.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

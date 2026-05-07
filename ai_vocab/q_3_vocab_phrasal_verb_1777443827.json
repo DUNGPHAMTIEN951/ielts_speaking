@@ -1,0 +1,76 @@
+{
+  "id": "q_3",
+  "vocab": [
+    {
+      "word": "dabble in",
+      "ipa": "/ˈdæbl ɪn/",
+      "meaning": "học hay làm một việc gì đó chỉ vì tò mò, không chuyên sâu",
+      "example": "As a young child, I used to dabble in watercolor painting, though I never became particularly proficient at it.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take up",
+      "ipa": "/teɪk ʌp/",
+      "meaning": "bắt đầu một thói quen hoặc sở thích mới",
+      "example": "I decided to take up chess when I was seven after watching my grandfather play every evening.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get into",
+      "ipa": "/ɡet ˈɪntuː/",
+      "meaning": "bắt đầu trở nên say mê hoặc hứng thú với cái gì",
+      "example": "I really got into model airplane building during my summer breaks; it required so much patience.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑːrvl æt/",
+      "meaning": "ngắm nhìn thứ gì đó với sự kinh ngạc và ngưỡng mộ",
+      "example": "I would spend hours in the garden just marveling at the intricate patterns on butterfly wings.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mess around with",
+      "ipa": "/mes əˈraʊnd wɪð/",
+      "meaning": "nghịch ngợm, loay hoay thử nghiệm cái gì đó một cách không nghiêm túc",
+      "example": "My brother and I loved messing around with old electronic parts to see if we could build a robot.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up",
+      "ipa": "/kiːp ʌp/",
+      "meaning": "duy trì một hoạt động nào đó thường xuyên",
+      "example": "I tried to keep up my piano practice for a few years, but eventually, my interest shifted toward sports.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại quá khứ (hồi tưởng)",
+      "example": "I fondly look back on the days when my only hobby was collecting shiny pebbles from the riverside.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "grow out of",
+      "ipa": "/ɡrəʊ aʊt əv/",
+      "meaning": "dần không còn thích thứ gì đó nữa khi lớn lên",
+      "example": "I was obsessed with collecting action figures, but I eventually grew out of it by the time I hit my teens.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "be wrapped up in",
+      "ipa": "/bi ræpt ʌp ɪn/",
+      "meaning": "hoàn toàn bận rộn hoặc say mê với cái gì",
+      "example": "Whenever I had a new comic book, I would be completely wrapped up in the story for the rest of the day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "whistle away",
+      "ipa": "/ˈwɪsl əˈweɪ/",
+      "meaning": "dành thời gian làm gì đó một cách vui vẻ và thư giãn",
+      "example": "I used to whistle away my afternoons sketching superheroes in my tattered notebook.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

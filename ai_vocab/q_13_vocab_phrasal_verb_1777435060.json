@@ -1,0 +1,76 @@
+{
+  "id": "q_13",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (bầu không khí hoặc vẻ đẹp)",
+      "example": "I love to sit on the shore and soak up the panoramic views before I even start taking photos.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bəl əˈpɒn/",
+      "meaning": "tình cờ phát hiện ra",
+      "example": "Some of my best landscape shots were taken when I happened to stumble upon a hidden waterfall in the forest.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑː.vəl æt/",
+      "meaning": "chiêm ngưỡng với sự kinh ngạc",
+      "example": "It's truly humbling to stand at the edge of a cliff and marvel at the vastness of the ocean.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zoom in on",
+      "ipa": "/zuːm ɪn ɒn/",
+      "meaning": "phóng to, tập trung vào một chi tiết cụ thể",
+      "example": "Even though it's a wide vista, I sometimes like to zoom in on a single lonely tree to create a more minimalist composition.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "che khuất hoặc loại bỏ (những yếu tố gây nhiễu)",
+      "example": "I often have to use a specific lens to block out the surrounding construction sites and focus purely on the natural scenery.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off",
+      "ipa": "/set ɒf/",
+      "meaning": "làm nổi bật lên",
+      "example": "The golden sunlight at dusk really sets off the vibrant colors of the autumn leaves.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out over",
+      "ipa": "/lʊk aʊt ˈəʊ.vər/",
+      "meaning": "nhìn ra phía xa (từ một vị trí cao)",
+      "example": "My favorite spot is a small balcony that looks out over the entire valley, especially during the misty mornings.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "map out",
+      "ipa": "/mæp aʊt/",
+      "meaning": "lên kế hoạch chi tiết (lộ trình đi săn ảnh)",
+      "example": "Before my trip to Iceland, I spent weeks mapping out the best vantage points for landscape photography.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass up",
+      "ipa": "/pɑːs ʌp/",
+      "meaning": "bỏ lỡ (một cơ hội tốt)",
+      "example": "Whenever I see a dramatic sky, I simply can't pass up the opportunity to pull over and snap a few frames.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blend in",
+      "ipa": "/blend ɪn/",
+      "meaning": "hòa hợp, hòa lẫn vào (để không làm phiền cảnh vật)",
+      "example": "When photographing wildlife within a landscape, I try to wear neutral colors to blend in with the environment.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

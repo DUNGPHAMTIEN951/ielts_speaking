@@ -1,0 +1,37 @@
+{
+  "q": "Describe a time when you gave advice to others",
+  "cue_card": [
+    "Who you gave advice to",
+    "What the advice was",
+    "Why you gave the advice",
+    "And explain how you felt after giving it"
+  ],
+  "examiner_note": "Kể về tình huống cụ thể và kết quả của lời khuyên.",
+  "samples": {
+    "band7": "I gave advice to my best friend when she was struggling with her university choice. I told her to follow her passion instead of just choosing a major that would lead to a high-paying job. I gave her this advice because I wanted her to be happy in the future. I felt relieved when she finally made a decision that she was excited about.",
+    "band8": "I remember offering some guidance to my best friend when she was at a crossroads regarding her academic path. I encouraged her to prioritize her genuine interests over societal expectations. I felt it was important to provide a supportive perspective during such a stressful time. After our conversation, I felt a sense of fulfillment seeing her regain her confidence and choose a direction that truly resonated with her values.",
+    "band9": "A notable occasion when I provided counsel was to my close friend who was grappling with a difficult career transition. I advised her to adopt a more holistic approach, weighing personal satisfaction against professional ambition. I felt compelled to share my insights because I value her long-term well-being. Ultimately, seeing her navigate the challenge with a renewed sense of clarity was incredibly rewarding for me, as it strengthened our bond and validated the importance of mutual support."
+  },
+  "v": [
+    {
+      "word": "at a crossroads",
+      "ipa": "/æt ə ˈkrɔːsrəʊdz/",
+      "meaning": "đứng trước những ngã rẽ (lựa chọn khó)",
+      "example": "He's at a crossroads in his career."
+    },
+    {
+      "word": "holistic approach",
+      "ipa": "/hoʊˈlɪstɪk əˈproʊtʃ/",
+      "meaning": "cách tiếp cận toàn diện",
+      "example": "The school takes a holistic approach to education."
+    },
+    {
+      "word": "grappling with",
+      "ipa": "/ˈɡræplɪŋ wɪð/",
+      "meaning": "vật lộn với",
+      "example": "The city is grappling with a housing crisis."
+    }
+  ],
+  "topic": "Describe a time when you gave advice to others",
+  "id": "p2_q37"
+}

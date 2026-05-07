@@ -1,0 +1,76 @@
+{
+  "id": "q_25",
+  "vocab": [
+    {
+      "word": "load up on",
+      "ipa": "/ləʊd ʌp ɒn/",
+      "meaning": "mang theo rất nhiều thứ gì đó",
+      "example": "In the morning, I usually load up on gadgets like my laptop and tablet to stay productive throughout the day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "swap out",
+      "ipa": "/swɒp aʊt/",
+      "meaning": "tráo đổi cái này bằng cái khác",
+      "example": "Once I get home, I swap out my bulky work bag for a sleek crossbody one if I'm heading out for dinner.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pare down",
+      "ipa": "/peər daʊn/",
+      "meaning": "giảm bớt số lượng xuống mức tối thiểu",
+      "example": "I try to pare down my essentials in the evening so I don't have to lug around a heavy backpack at a social gathering.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stock up with",
+      "ipa": "/stɒk ʌp wɪð/",
+      "meaning": "chuẩn bị đầy đủ, dự trữ sẵn thứ gì bên mình",
+      "example": "My morning tote is always stocked up with snacks and a water bottle to keep me going until lunch.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "leave behind",
+      "ipa": "/liːv bɪˈhaɪnd/",
+      "meaning": "bỏ lại, không mang theo",
+      "example": "I deliberately leave behind my professional gear in the evening to create a clear boundary between work and leisure.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "throw in",
+      "ipa": "/θrəʊ ɪn/",
+      "meaning": "vứt thêm cái gì đó vào (túi) một cách nhanh chóng",
+      "example": "If I'm going for a walk in the evening, I might just throw in a pair of earphones and my house keys.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "switch over",
+      "ipa": "/swɪtʃ ˈəʊvər/",
+      "meaning": "chuyển đổi hoàn toàn sang một trạng thái/vật dụng khác",
+      "example": "I switch over from a formal briefcase to a casual canvas bag when the weekend evening rolls around.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "make do with",
+      "ipa": "/meɪk duː wɪð/",
+      "meaning": "dùng tạm, xoay xở chỉ với những thứ đang có",
+      "example": "While I carry a full makeup kit in the morning, I usually make do with just a single lipstick for evening touch-ups.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clutter up",
+      "ipa": "/ˈklʌtər ʌp/",
+      "meaning": "làm cho bừa bộn, lấp đầy bằng những thứ không cần thiết",
+      "example": "I hate to clutter up my small evening clutch with unnecessary items like old receipts or extra pens.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hand over",
+      "ipa": "/hænd ˈəʊvər/",
+      "meaning": "giao nộp/đưa lại (thường dùng khi nói về thẻ ra vào/chìa khóa công ty)",
+      "example": "After I hand over my office pass at the security desk, I feel much lighter not having to carry it all evening.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

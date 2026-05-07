@@ -1,0 +1,76 @@
+{
+  "id": "q_7",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "thưởng ngoạn, tận hưởng (không khí, cảnh đẹp)",
+      "example": "I love heading to the rooftop bar to soak up the breathtaking panoramic views of the city skyline at sunset.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out over",
+      "ipa": "/lʊk aʊt ˈəʊvə(r)/",
+      "meaning": "nhìn ra (hướng nhìn từ trên cao xuống một khu vực)",
+      "example": "There’s a quaint little café on the cliffside that looks out over the turquoise waters of the bay.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "be nestled in",
+      "ipa": "/bi ˈnesld ɪn/",
+      "meaning": "tọa lạc ở vị trí thơ mộng/kín đáo (thường là giữa thiên nhiên)",
+      "example": "A stunning waterfall is nestled in the heart of the pine forest, offering a serene escape from the urban hustle.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "feast on",
+      "ipa": "/fiːst ɒn/",
+      "meaning": "thỏa sức ngắm nhìn (thứ gì đó đẹp đẽ)",
+      "example": "Hikers can feast their eyes on the rolling hills and lush greenery once they reach the summit.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stretch out",
+      "ipa": "/stretʃ aʊt/",
+      "meaning": "trải dài (không gian, cảnh vật)",
+      "example": "From the observation deck, you can see the golden sand dunes stretching out as far as the eye can see.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dot around",
+      "ipa": "/dɒt əˈraʊnd/",
+      "meaning": "rải rác khắp nơi (tạo nên điểm nhấn cho phong cảnh)",
+      "example": "The valley is truly picturesque with charming wooden cabins dotted around the lakeside.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "ngắm nhìn, hấp thụ toàn bộ vẻ đẹp",
+      "example": "We spent the entire afternoon just sitting on the promenade, taking in the majestic sight of the harbor.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊpən ʌp/",
+      "meaning": "mở rộng ra (khi một tầm nhìn mới hiện ra)",
+      "example": "As you round the final bend of the trail, the entire valley suddenly opens up before you.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gaze out at",
+      "ipa": "/ɡeɪz aʊt æt/",
+      "meaning": "nhìn chằm chằm, say sưa ngắm nhìn ra xa",
+      "example": "I often find myself gazing out at the distant mountains, which are often capped with clouds.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "ẩn mình, nằm ở một góc yên tĩnh (thường là nơi đẹp và ít người biết)",
+      "example": "There is a hidden garden tucked away behind the old cathedral that offers a spectacular view of the river.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

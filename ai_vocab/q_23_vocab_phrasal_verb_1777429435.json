@@ -1,0 +1,76 @@
+{
+  "id": "q_23",
+  "vocab": [
+    {
+      "word": "head out",
+      "ipa": "/hed aʊt/",
+      "meaning": "rời đi, khởi hành đi đâu đó",
+      "example": "Before I head out, I always do a quick mental checklist to ensure I haven't forgotten my essentials.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "load up on",
+      "ipa": "/loʊd ʌp ɒn/",
+      "meaning": "mang theo thật nhiều thứ gì đó",
+      "example": "If I'm planning to be away all day, I usually load up on portable chargers and snacks to keep me going.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "cất kỹ, để gọn vào một nơi an toàn",
+      "example": "I always keep some emergency cash tucked away in a hidden compartment of my wallet just in case.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stock up with",
+      "ipa": "/stɒk ʌp wɪð/",
+      "meaning": "chuẩn bị đầy đủ, trang bị sẵn",
+      "example": "During the flu season, I make sure my bag is stocked up with hand sanitizer and extra face masks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fumble around for",
+      "ipa": "/ˈfʌmbl əˈraʊnd fɔːr/",
+      "meaning": "lóng ngóng lục tìm thứ gì đó",
+      "example": "I hate having to fumble around for my keys at the doorstep, so I usually attach them to a bright keychain.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "leave behind",
+      "ipa": "/liːv bɪˈhaɪnd/",
+      "meaning": "bỏ quên hoặc cố tình để lại thứ gì đó",
+      "example": "I try to travel light, so I often leave behind any gadgets that aren't strictly necessary for my trip.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring along",
+      "ipa": "/brɪŋ əˈlɔːŋ/",
+      "meaning": "mang theo bên mình (thường là để dùng khi cần)",
+      "example": "I always bring along a light cardigan even in summer, as the air conditioning in malls can be quite chilly.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clutter up",
+      "ipa": "/ˈklʌtər ʌp/",
+      "meaning": "làm cho bừa bộn, lấp đầy bằng những thứ không cần thiết",
+      "example": "I try to clear out my backpack every weekend so that old receipts and wrappers don't clutter it up.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "check off",
+      "ipa": "/tʃek ɔːf/",
+      "meaning": "kiểm tra và đánh dấu hoàn thành (trong danh sách đồ đạc)",
+      "example": "Before a long journey, I check off every item in my travel kit to avoid any last-minute panic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hand over",
+      "ipa": "/hænd ˈoʊvər/",
+      "meaning": "giao nộp, đưa ra (thường là giấy tờ tùy thân khi được hỏi)",
+      "example": "I keep my ID in an easily accessible slot in case I need to hand it over at security checkpoints.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_30",
+  "vocab": [
+    {
+      "word": "go with",
+      "ipa": "/ɡəʊ wɪð/",
+      "meaning": "phù hợp với, đi kèm với (quần áo/phong cách)",
+      "example": "I love classic white trainers because they go with almost any outfit in my wardrobe.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "slip on",
+      "ipa": "/slɪp ɒn/",
+      "meaning": "xỏ giày vào một cách nhanh chóng/dễ dàng",
+      "example": "On lazy Sundays, I prefer loafers that I can just slip on without having to worry about laces.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, thu hút sự chú ý",
+      "example": "I have a pair of vibrant red boots that really make me stand out in a crowded street.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wear out",
+      "ipa": "/weə(r) aʊt/",
+      "meaning": "mòn, hỏng do sử dụng quá nhiều",
+      "example": "I tend to wear out my running shoes quite quickly because I hit the pavement every single morning.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃəʊ ɒf/",
+      "meaning": "khoe ra, phô diễn vẻ đẹp",
+      "example": "Stilettos are great when you want to show off a sophisticated look at a formal gala.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick out",
+      "ipa": "/pɪk aʊt/",
+      "meaning": "lựa chọn cẩn thận từ một nhóm",
+      "example": "It took me ages to pick out the perfect pair of brogues for my brother's wedding.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hold up",
+      "ipa": "/həʊld ʌp/",
+      "meaning": "vẫn còn tốt, bền bỉ qua thời gian",
+      "example": "These leather hiking boots have held up remarkably well despite the rugged terrain I've traversed.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "splash out on",
+      "ipa": "/splæʃ aʊt ɒn/",
+      "meaning": "chi mạnh tay/vung tiền vào thứ gì đó",
+      "example": "Every once in a while, I like to splash out on a pair of high-end designer sneakers as a treat.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dress up",
+      "ipa": "/dres ʌp/",
+      "meaning": "ăn mặc diện, làm cho vẻ ngoài sang trọng hơn",
+      "example": "Even a simple jeans-and-tee combo can be dressed up instantly with the right pair of Chelsea boots.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stock up on",
+      "ipa": "/stɒk ʌp ɒn/",
+      "meaning": "mua dự trữ nhiều (vì thích hoặc sợ hết)",
+      "example": "Whenever my favorite brand has a sale, I usually stock up on basic canvas shoes for the entire year.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_46",
+  "vocab": [
+    {
+      "word": "abstruse concepts",
+      "ipa": "/əbˈstruːs ˈkɒnsepts/",
+      "meaning": "các khái niệm trừu tượng, khó hiểu",
+      "example": "Physics remains a challenge for me due to its abstruse concepts that are hard to visualize.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "daunting prospect",
+      "ipa": "/ˈdɔːntɪŋ ˈprɒspekt/",
+      "meaning": "một viễn cảnh đáng sợ/gây nản lòng",
+      "example": "Mastering advanced calculus was a daunting prospect that kept me awake at night during my freshman year.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "perplexing equations",
+      "ipa": "/pəˈpleksɪŋ ɪˈkweɪʒnz/",
+      "meaning": "những phương trình gây bối rối/rắc rối",
+      "example": "I often found myself staring at perplexing equations in Chemistry without knowing where to begin.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "grasp the intricacies",
+      "ipa": "/ɡrɑːsp ði ˈɪntrɪkəsiz/",
+      "meaning": "thấu hiểu những chi tiết phức tạp",
+      "example": "It took me months to truly grasp the intricacies of international macroeconomics.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "intellectually taxing",
+      "ipa": "/ˌɪntəˈlektʃuəli ˈtæksɪŋ/",
+      "meaning": "đòi hỏi nhiều nỗ lực trí tuệ/hại não",
+      "example": "Philosophy can be intellectually taxing as it requires constant questioning of one's own logic.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "a mental block",
+      "ipa": "/ə ˈmentl blɒk/",
+      "meaning": "một rào cản tâm lý (khiến không thể suy nghĩ hay học tập)",
+      "example": "Whenever I open a math textbook, I seem to develop a mental block that prevents any progress.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "beyond my comprehension",
+      "ipa": "/bɪˈjɒnd maɪ ˌkɒmprɪˈhenʃn/",
+      "meaning": "vượt quá khả năng nhận thức của tôi",
+      "example": "The sheer scale of astronomical distances in Astrophysics is frankly beyond my comprehension.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "steep learning curve",
+      "ipa": "/stiːp ˈlɜːrnɪŋ kɜːrv/",
+      "meaning": "độ dốc của việc học (phải nỗ lực rất nhiều trong thời gian ngắn)",
+      "example": "Programming in C++ had such a steep learning curve that many students dropped the course.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "bewildering array of",
+      "ipa": "/bɪˈwɪldərɪŋ əˈreɪ əv/",
+      "meaning": "một loạt các thứ gây hoang mang/nhầm lẫn",
+      "example": "Biology involves a bewildering array of Latin names and classifications that are exhausting to memorize.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "fathom the logic",
+      "ipa": "/ˈfæðəm ðə ˈlɒdʒɪk/",
+      "meaning": "hiểu được cái logic/lý lẽ đằng sau",
+      "example": "Try as I might, I simply couldn't fathom the logic behind some of the archaic laws in my legal studies.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

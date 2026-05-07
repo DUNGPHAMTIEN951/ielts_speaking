@@ -1,0 +1,76 @@
+{
+  "id": "q_14",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "thưởng ngoạn, tận hưởng (bầu không khí, cảnh đẹp)",
+      "example": "I spent hours on the deck, just soaking up the breathtaking views of the Norwegian fjords.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drink in",
+      "ipa": "/drɪŋk ɪn/",
+      "meaning": "đắm chìm, say sưa ngắm nhìn hoặc lắng nghe cái gì đó",
+      "example": "We stood at the edge of the Grand Canyon, drinking in the vast, colorful landscape as the sun began to set.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble across",
+      "ipa": "/ˈstʌmbl əˈkrɒs/",
+      "meaning": "tình cờ bắt gặp, vô tình tìm thấy",
+      "example": "While hiking in Kyoto, we stumbled across a secluded temple hidden among the vibrant autumn leaves.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "feast on",
+      "ipa": "/fiːst ɒn/",
+      "meaning": "thỏa sức ngắm nhìn (thường dùng cho cảnh tượng lộng lẫy)",
+      "example": "From the peak of the mountain, our eyes could feast on the shimmering lights of the city below.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "quan sát, chiêm ngưỡng toàn bộ vẻ đẹp",
+      "example": "It took me a moment to truly take in the sheer scale and majesty of the Great Wall of China.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑːvl æt/",
+      "meaning": "kinh ngạc, ngưỡng mộ trước vẻ đẹp",
+      "example": "I could only marvel at the intricate details of the stained glass windows in the Sagrada Família.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gaze out over",
+      "ipa": "/ɡeɪz aʊt ˈəʊvə(r)/",
+      "meaning": "nhìn ra xa phía bên trên một không gian rộng lớn",
+      "example": "Our hotel room allowed us to gaze out over the crystal-clear turquoise waters of the Maldives every morning.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "staring back at",
+      "ipa": "/ˈsteərɪŋ bæk æt/",
+      "meaning": "hiện ra ngay trước mắt (thường dùng khi cảnh vật quá ấn tượng)",
+      "example": "When the mist cleared, the jagged peaks of the Himalayas were suddenly staring back at us.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stretch out",
+      "ipa": "/stretʃ aʊt/",
+      "meaning": "trải dài, mở rộng ra tận chân trời",
+      "example": "The lavender fields in Provence seemed to stretch out endlessly, creating a sea of purple.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊpən ʌp/",
+      "meaning": "mở ra (một không gian rộng lớn, mới mẻ)",
+      "example": "As we turned the corner of the trail, a stunning valley suddenly opened up before our eyes.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

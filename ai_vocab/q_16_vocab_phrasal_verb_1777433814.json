@@ -1,0 +1,76 @@
+{
+  "id": "q_16",
+  "vocab": [
+    {
+      "word": "stem from",
+      "ipa": "/stem frɒm/",
+      "meaning": "bắt nguồn từ (nguồn cảm hứng hoặc bối cảnh)",
+      "example": "While modern art stems from a desire for individual expression, traditional art was often rooted in religious patronage.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "push back against",
+      "ipa": "/pʊʃ bæk əˈɡeɪnst/",
+      "meaning": "phản kháng hoặc đi ngược lại (các chuẩn mực cũ)",
+      "example": "Modern art movements frequently push back against the rigid academic standards that defined the classical era.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "flesh out",
+      "ipa": "/fleʃ aʊt/",
+      "meaning": "phát triển chi tiết hơn (ý tưởng hoặc hình ảnh)",
+      "example": "Old masters would often flesh out their paintings with intricate details that took years to complete, unlike some minimalist modern works.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "strip away",
+      "ipa": "/strɪp əˈweɪ/",
+      "meaning": "lược bỏ, gạt bỏ (những thứ rườm rà)",
+      "example": "Contemporary artists often strip away unnecessary ornamentation to focus on the raw, conceptual core of the piece.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại (một thời kỳ trong quá khứ)",
+      "example": "When we look back on classical art, we see a heavy emphasis on realistic proportions and technical mastery.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand apart from",
+      "ipa": "/stænd əˈpɑːt frɒm/",
+      "meaning": "trở nên khác biệt/tách biệt hoàn toàn",
+      "example": "Digital art stands apart from traditional oil painting because of its infinite capacity for manipulation and reproduction.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tap into",
+      "ipa": "/tæp ˈɪn.tuː/",
+      "meaning": "khai thác (một cảm xúc, xu hướng hoặc công nghệ)",
+      "example": "Modern installations often tap into the viewer's subconscious through immersive technology and soundscapes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out into",
+      "ipa": "/brɑːntʃ aʊt ˈɪn.tuː/",
+      "meaning": "mở rộng sang (một lĩnh vực hoặc phong cách mới)",
+      "example": "In the 20th century, art began to branch out into multimedia formats, moving beyond just canvas and stone.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blend in with",
+      "ipa": "/blend ɪn wɪð/",
+      "meaning": "hòa hợp với (không gian hoặc bối cảnh)",
+      "example": "Traditional sculptures were designed to blend in with classical architecture, whereas modern pieces often intentionally clash with their surroundings.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get across",
+      "ipa": "/ɡet əˈkrɒs/",
+      "meaning": "truyền tải (thông điệp hoặc ý tưởng)",
+      "example": "The abstract nature of modern art can make it harder for the artist to get their message across to a general audience.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_47",
+  "vocab": [
+    {
+      "word": "spruce up",
+      "ipa": "/spruːs ʌp/",
+      "meaning": "tân trang, làm cho sạch đẹp hơn",
+      "example": "I’d love to see the local council spruce up the abandoned lot downtown and turn it into a community garden.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spring up",
+      "ipa": "/sprɪŋ ʌp/",
+      "meaning": "mọc lên như nấm, xuất hiện bất ngờ",
+      "example": "Lately, several trendy pocket parks have started to spring up around the city, which really enhances the neighborhood's vibe.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cater to",
+      "ipa": "/ˈkeɪ.tər tuː/",
+      "meaning": "phục vụ cho, đáp ứng nhu cầu của",
+      "example": "We need more public spaces that cater to the elderly, providing them with a quiet place to socialize and exercise.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hang out",
+      "ipa": "/hæŋ aʊt/",
+      "meaning": "đi chơi, dành thời gian thư giãn",
+      "example": "If there were a spacious plaza nearby, it would be a perfect spot for teenagers to hang out safely.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set aside",
+      "ipa": "/set əˈsaɪd/",
+      "meaning": "dành riêng ra (đất đai hoặc tiền bạc) cho mục đích cụ thể",
+      "example": "The government should set aside more land for green belts instead of allowing constant residential expansion.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, ánh nắng)",
+      "example": "Having a local park would allow residents to soak up some sunshine and fresh air without traveling too far.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring together",
+      "ipa": "/brɪŋ təˈɡeð.ər/",
+      "meaning": "kết nối, tập hợp mọi người lại",
+      "example": "Public squares act as a social hub that helps bring together people from all walks of life.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊ.pən ʌp/",
+      "meaning": "mở rộng, tạo ra không gian thoáng đãng",
+      "example": "By removing some of the old fences, the city could open up the riverside for public strolls.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "freshen up",
+      "ipa": "/ˈfreʃ.ən ʌp/",
+      "meaning": "làm mới, làm cho sảng khoái",
+      "example": "A quick walk through a nearby botanical garden is a great way to freshen up after a long day in the office.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop up",
+      "ipa": "/pɒp ʌp/",
+      "meaning": "xuất hiện đột ngột (thường là tạm thời)",
+      "example": "I'm a big fan of pop-up art galleries in local parks as they make culture more accessible to everyone.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

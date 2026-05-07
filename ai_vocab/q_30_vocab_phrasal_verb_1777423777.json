@@ -1,0 +1,76 @@
+{
+  "id": "q_30",
+  "vocab": [
+    {
+      "word": "break in",
+      "ipa": "/breɪk ɪn/",
+      "meaning": "đi cho quen chân (làm cho giày mềm và thoải mái hơn qua việc sử dụng)",
+      "example": "Leather boots are my favorite, though it usually takes a week or two to break them in properly.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up",
+      "ipa": "/ɡɪə(r) ʌp/",
+      "meaning": "chuẩn bị/trang bị đồ đạc (thường là giày chuyên dụng cho hoạt động nào đó)",
+      "example": "Whenever I plan a trekking trip, I gear up with my most durable waterproof hiking shoes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "put on",
+      "ipa": "/pʊt ɒn/",
+      "meaning": "đi giày vào",
+      "example": "The first thing I do every morning is put on my favorite pair of cushioned trainers for a quick walk.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clean up",
+      "ipa": "/kliːn ʌp/",
+      "meaning": "làm sạch, vệ sinh (giày)",
+      "example": "White sneakers look fantastic, but you have to clean them up regularly to maintain that pristine look.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick out",
+      "ipa": "/pɪk aʊt/",
+      "meaning": "lựa chọn kỹ lưỡng giữa nhiều lựa chọn",
+      "example": "I spent hours at the mall trying to pick out a pair of shoes that balanced both comfort and style.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dress up",
+      "ipa": "/dres ʌp/",
+      "meaning": "ăn mặc trang trọng (sử dụng giày để làm bộ trang phục lịch sự hơn)",
+      "example": "I love classic Oxfords because they can instantly dress up even a relatively simple suit.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hunt for",
+      "ipa": "/hʌnt fə(r)/",
+      "meaning": "săn lùng, tìm kiếm (một mẫu giày hiếm hoặc giá hời)",
+      "example": "I’m currently hunting for a vintage pair of limited-edition basketball shoes to add to my collection.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull off",
+      "ipa": "/pʊl ɒf/",
+      "meaning": "mặc/đi cái gì đó rất hợp (dù nó khó phối hoặc lạ mắt)",
+      "example": "Not everyone can pull off bright neon running shoes, but I find they add a nice pop of color to my gym gear.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "opt for",
+      "ipa": "/ɒpt fə(r)/",
+      "meaning": "chọn, quyết định lấy cái gì",
+      "example": "In the sweltering summer heat, I usually opt for breathable canvas shoes rather than heavy leather ones.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get away with",
+      "ipa": "/ɡet əˈweɪ wɪð/",
+      "meaning": "có thể mặc/đi cái gì đó mà không bị chê hoặc vi phạm quy định",
+      "example": "Fortunately, my office has a relaxed dress code, so I can get away with wearing smart-casual sneakers to work.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

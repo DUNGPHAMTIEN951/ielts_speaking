@@ -1,0 +1,76 @@
+{
+  "id": "q_2",
+  "vocab": [
+    {
+      "word": "rally round",
+      "ipa": "/ˈræli raʊnd/",
+      "meaning": "tập hợp lại để ủng hộ/hỗ trợ (một đội bóng hoặc cá nhân)",
+      "example": "Whenever the national team faces a major opponent, the entire country rallies round to show their unwavering support.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "face off",
+      "ipa": "/feɪs ɒf/",
+      "meaning": "đối đầu, tranh tài (thường là bắt đầu một trận đấu)",
+      "example": "It is always a spectacle when the two top-tier local clubs face off in the final championship.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cheer on",
+      "ipa": "/tʃɪər ɒn/",
+      "meaning": "cổ vũ nhiệt tình bằng tiếng reo hò",
+      "example": "You can see thousands of fans flocking to the stadium just to cheer on their sporting heroes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get swept up in",
+      "ipa": "/ɡet swept ʌp ɪn/",
+      "meaning": "bị cuốn theo (bầu không khí, cảm xúc mãnh liệt của đám đông)",
+      "example": "Even people who aren't sports enthusiasts often get swept up in the euphoria of a winning goal.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃəʊ ɒf/",
+      "meaning": "phô diễn (kỹ năng, tài năng)",
+      "example": "Street football is popular because it allows youngsters to show off their flair and agility to passersby.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull together",
+      "ipa": "/pʊl təˈɡeð.ər/",
+      "meaning": "nỗ lực phối hợp, đồng lòng làm việc như một nhóm",
+      "example": "In our culture, we emphasize the need for a team to pull together rather than relying on a single star player.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "warm up to",
+      "ipa": "/wɔːm ʌp tuː/",
+      "meaning": "dần dần trở nên thích thú hoặc ủng hộ điều gì đó",
+      "example": "While basketball was once niche, the younger generation has really warmed up to it over the last decade.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "luck out",
+      "ipa": "/lʌk aʊt/",
+      "meaning": "may mắn bất ngờ (trong một tình huống thi đấu)",
+      "example": "Sometimes a team might luck out with a last-minute penalty, but usually, popularity stems from consistent skill.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "squeeze in",
+      "ipa": "/skwiːz ɪn/",
+      "meaning": "tranh thủ thời gian (để chơi hoặc xem thể thao)",
+      "example": "Despite their hectic schedules, many office workers still try to squeeze in a game of badminton after work.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌk.əl daʊn/",
+      "meaning": "bắt đầu làm việc/tập luyện cực kỳ nghiêm túc và chăm chỉ",
+      "example": "Before the Asian Games, our athletes knuckle down for months of rigorous training to ensure they remain competitive.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

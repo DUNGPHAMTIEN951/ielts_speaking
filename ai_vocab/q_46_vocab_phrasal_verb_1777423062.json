@@ -1,0 +1,76 @@
+{
+  "id": "q_46",
+  "vocab": [
+    {
+      "word": "break the ice",
+      "ipa": "/breɪk ðə aɪs/",
+      "meaning": "phá vỡ bầu không khí ngần ngại, bắt chuyện làm quen",
+      "example": "I usually try to break the ice by making a lighthearted comment about the weather when waiting at a bus stop.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dùng đến cái gì đó như một phương án dự phòng (trong giao tiếp)",
+      "example": "When I struggle to find a topic with a stranger, I often fall back on asking about their local recommendations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get carried away",
+      "ipa": "/ɡet ˈkærid əˈweɪ/",
+      "meaning": "mải mê, bị cuốn cuốn vào (một cuộc trò chuyện)",
+      "example": "I once got carried away talking to an elderly man at the park and ended up missing my scheduled train.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush off",
+      "ipa": "/brʌʃ ɒf/",
+      "meaning": "phớt lờ, từ chối bắt chuyện một cách lạnh lùng",
+      "example": "There are times when I try to be friendly, but people just brush me off because they are in a rush.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry on",
+      "ipa": "/ˈkæri ɒn/",
+      "meaning": "tiếp tục (một cuộc đối thoại)",
+      "example": "We managed to carry on a fascinating discussion about street art for nearly half an hour while waiting for the gallery to open.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sound out",
+      "ipa": "/saʊnd aʊt/",
+      "meaning": "thăm dò ý kiến/quan điểm của ai đó",
+      "example": "I enjoy sounding out strangers on current events to get a broader perspective outside of my own social circle.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blend in",
+      "ipa": "/blend ɪn/",
+      "meaning": "hòa mình vào (đám đông/hoàn cảnh để dễ trò chuyện hơn)",
+      "example": "At public festivals, it's much easier to blend in and start spontaneous chats with people around you.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring up",
+      "ipa": "/brɪŋ ʌp/",
+      "meaning": "đề cập đến, đưa ra một chủ đề nào đó",
+      "example": "It can be quite awkward to bring up personal topics with someone you've only just met on a bench.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lean in",
+      "ipa": "/liːn ɪn/",
+      "meaning": "thể hiện sự quan tâm, hưởng ứng nhiệt tình vào cuộc đối thoại",
+      "example": "If the stranger is sharing an interesting anecdote, I tend to lean in and ask follow-up questions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bounce off",
+      "ipa": "/baʊns ɒf/",
+      "meaning": "trao đổi, phản hồi ý kiến qua lại",
+      "example": "I love how you can bounce ideas off a complete stranger and receive unbiased feedback that your friends might not give.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

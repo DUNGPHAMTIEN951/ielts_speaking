@@ -1,0 +1,76 @@
+{
+  "id": "q_2",
+  "vocab": [
+    {
+      "word": "root for",
+      "ipa": "/ruːt fɔːr/",
+      "meaning": "ủng hộ, cổ vũ hết mình cho một đội",
+      "example": "During the World Cup, the whole nation comes together to root for the national football team.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, xuất chúng hơn hẳn những người khác",
+      "example": "In team sports, even though collaboration is key, there are always star players who stand out due to their exceptional skills.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "miss out on",
+      "ipa": "/mɪs aʊt ɒn/",
+      "meaning": "bỏ lỡ cơ hội tham gia hoặc trải nghiệm điều gì đó thú vị",
+      "example": "People in my country hate to miss out on the electric atmosphere of a live stadium match.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring about",
+      "ipa": "/brɪŋ əˈbaʊt/",
+      "meaning": "mang lại, dẫn đến (sự thay đổi hoặc kết quả)",
+      "example": "Team sports are popular because they bring about a sense of national pride and unity.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look up to",
+      "ipa": "/lʊk ʌp tuː/",
+      "meaning": "ngưỡng mộ và kính trọng (thường là các vận động viên)",
+      "example": "Many youngsters look up to famous athletes as role models, which fuels the popularity of sports like basketball.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up",
+      "ipa": "/ˈmeʒ.ər ʌp/",
+      "meaning": "đạt được tiêu chuẩn hoặc kỳ vọng cần thiết",
+      "example": "There is a lot of pressure on local teams to measure up to the high standards set by international competitors.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "team up with",
+      "ipa": "/tiːm ʌp wɪð/",
+      "meaning": "hợp tác, lập đội cùng với ai đó",
+      "example": "It's quite common for colleagues to team up with each other for a friendly game of volleyball after work.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bounce back",
+      "ipa": "/baʊns bæk/",
+      "meaning": "vực dậy, phục hồi nhanh chóng sau thất bại",
+      "example": "Fans love watching how a team can bounce back after a devastating loss in the first half of a tournament.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "catch on",
+      "ipa": "/kætʃ ɒn/",
+      "meaning": "trở nên phổ biến hoặc được ưa chuộng",
+      "example": "Rugby didn't really catch on in my culture until recently, when more international schools started promoting it.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "give up",
+      "ipa": "/ɡɪv ʌp/",
+      "meaning": "từ bỏ, bỏ cuộc",
+      "example": "The most beloved teams are those that never give up, even when the odds are heavily stacked against them.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

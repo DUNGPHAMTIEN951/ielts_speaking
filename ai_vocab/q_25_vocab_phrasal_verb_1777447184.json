@@ -1,0 +1,76 @@
+{
+  "id": "q_25",
+  "vocab": [
+    {
+      "word": "sort through",
+      "ipa": "/sɔːrt θruː/",
+      "meaning": "kiểm tra, phân loại đồ đạc",
+      "example": "Before I head out in the morning, I quickly sort through my bag to ensure I haven't forgotten any essential documents.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "strip back",
+      "ipa": "/strɪp bæk/",
+      "meaning": "giảm bớt, loại bỏ những thứ không cần thiết",
+      "example": "When transitioning from work to an evening out, I strip back the contents of my purse to just the bare minimum.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up",
+      "ipa": "/ɡɪər ʌp/",
+      "meaning": "chuẩn bị đồ đạc/thiết bị cho một hoạt động cụ thể",
+      "example": "In the morning, I have to gear up with my laptop and chargers, whereas my evening carry is much more relaxed.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set aside",
+      "ipa": "/set əˈsaɪd/",
+      "meaning": "để sang một bên, không mang theo nữa",
+      "example": "I usually set aside my heavy textbooks in the evening because I prefer to travel light when meeting friends for dinner.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pack away",
+      "ipa": "/pæk əˈweɪ/",
+      "meaning": "cất đồ đạc vào (thường là sau khi dùng xong)",
+      "example": "I pack away my work ID and corporate keys once the sun goes down to help me mentally switch off.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig out",
+      "ipa": "/dɪɡ aʊt/",
+      "meaning": "tìm ra thứ gì đó sau khi lục lọi (trong túi/ngăn kéo)",
+      "example": "In the morning, I often have to dig out my commuter card from the bottom of my messy backpack.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "cất kỹ, giấu gọn vào một góc",
+      "example": "I keep a small emergency power bank tucked away in my evening clutch just in case my phone dies.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring along",
+      "ipa": "/brɪŋ əˈlɒŋ/",
+      "meaning": "mang kèm theo",
+      "example": "Unlike my morning routine, I rarely bring along a water bottle in the evening as I'll mostly be in cafes or restaurants.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear out",
+      "ipa": "/klɪər aʊt/",
+      "meaning": "dọn sạch, loại bỏ rác/đồ thừa",
+      "example": "I make it a habit to clear out any unnecessary receipts from my pockets before I head out for an evening stroll.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "double up as",
+      "ipa": "/ˈdʌbl ʌp æz/",
+      "meaning": "kiêm luôn vai trò/chức năng của thứ khác",
+      "example": "My morning tote often doubles up as a gym bag, whereas my evening bag is strictly for personal items.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

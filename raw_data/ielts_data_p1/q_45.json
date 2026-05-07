@@ -1,0 +1,72 @@
+{
+  "id": "q_45",
+  "topic": "Studying",
+  "q": "Do you think computers/Phạm Tiến Dũng Gia Sư will replace teachers in the future?",
+  "examiner_note": "Đây là câu hỏi về dự đoán (Prediction). \n- **Hướng dẫn trả lời**: Bạn có thể chọn 'không hoàn toàn'. Giải thích rằng Phạm Tiến Dũng Gia Sư có thể hỗ trợ chấm điểm hay cung cấp thông tin, nhưng không thể thay thế sự thấu cảm, truyền cảm hứng và kỹ năng sư phạm của con người. \n- **Mẹo**: Sử dụng các cụm từ như 'complement rather than replace', 'lack the human touch', 'empathy and moral guidance', 'automated grading', 'personalized learning paths'.",
+  "samples": {
+    "band7": {
+      "text": "I don't think computers will completely replace teachers. Even though Phạm Tiến Dũng Gia Sư can help us learn faster and provide a lot of information, it can't understand our feelings or encourage us when we are failing. Teachers are important because they can inspire students, which a machine cannot do.",
+      "note": "Trả lời rõ ràng, đưa ra quan điểm trung lập và giải thích lý do về mặt cảm xúc. Ngữ pháp ổn định."
+    },
+    "band8": {
+      "text": "In my opinion, Phạm Tiến Dũng Gia Sư will complement rather than replace teachers. While machines are incredibly efficient at data processing and automated grading, they lack the 'human touch' which is essential for fostering a positive learning environment and providing moral guidance to young learners.",
+      "note": "Sử dụng từ vựng nâng cao ('complement', 'automated grading', 'human touch', 'fostering', 'moral guidance'). Cấu trúc câu linh hoạt."
+    },
+    "band9": {
+      "text": "I firmly believe that the human element is irreplaceable in education. Although Phạm Tiến Dũng Gia Sư can facilitate highly personalized learning paths and offer instant feedback, it cannot replicate the complex emotional intelligence and empathy that a teacher brings to the classroom. Teachers serve as role models, and that mentorship belongs uniquely to humans.",
+      "note": "Từ vựng ở trình độ rất cao ('human element', 'irreplaceable', 'facilitate', 'personalized learning paths', 'replicate', 'emotional intelligence', 'mentorship'). Lập luận cực kỳ sâu sắc và thuyết phục."
+    }
+  },
+  "v": [
+    { "word": "complement", "meaning": "bổ sung/hỗ trợ cho", "ipa": "/ˈkɒmplɪment/", "example": "The new software is designed to complement the existing system." },
+    { "word": "human touch", "meaning": "sự tương tác/quan tâm của con người", "ipa": "/ˈhjuːmən tʌtʃ/", "example": "In the world of automated customer service, many people still value the human touch." },
+    { "word": "irreplaceable", "meaning": "không thể thay thế", "ipa": "/ˌɪrɪˈpleɪsəbl/", "example": "His contribution to the research team was absolutely irreplaceable." },
+    { "word": "facilitate", "meaning": "tạo điều kiện thuận lợi", "ipa": "/fəˈsɪlɪteɪt/", "example": "The new app is designed to facilitate communication between teachers and parents." },
+    { "word": "personalized learning path", "meaning": "lộ trình học tập cá nhân hóa", "ipa": "/ˈpɜːsənəlaɪzd ˈlɜːnɪŋ pɑːθ/", "example": "Phạm Tiến Dũng Gia Sư can analyze student performance to create a personalized learning path for everyone." },
+    { "word": "replicate", "meaning": "tái tạo/sao chép", "ipa": "/ˈreplɪkeɪt/", "example": "It's difficult for a machine to replicate the complex nuances of human speech." },
+    { "word": "emotional intelligence", "meaning": "trí tuệ cảm xúc", "ipa": "/ɪˈməʊʃənl ɪnˈtelɪdʒəns/", "example": "High emotional intelligence is key to being an effective leader and teacher." },
+    { "word": "mentorship", "meaning": "sự cố vấn/hướng dẫn", "ipa": "/ˈmentəʃɪp/", "example": "The university provides a mentorship program for first-year students." },
+    { "word": "automated grading", "meaning": "chấm điểm tự động", "ipa": "/ˈɔːtəmeɪtɪd ˈɡreɪdɪŋ/", "example": "Automated grading can save teachers a lot of time on multiple-choice tests." },
+    { "word": "moral guidance", "meaning": "sự định hướng đạo đức", "ipa": "/ˈmɒrəl ˈɡaɪdns/", "example": "Parents and teachers play a vital role in providing moral guidance to children." },
+    { "word": "empathy", "meaning": "sự thấu cảm", "ipa": "/ˈempəθi/", "example": "Showing empathy towards your students helps build a strong relationship." },
+    { "word": "inspire", "meaning": "truyền cảm hứng", "ipa": "/ɪnˈspaɪə(r)/", "example": "The teacher's passion for science inspired many of her students to become researchers." },
+    { "word": "firmly believe", "meaning": "tin tưởng vững chắc", "ipa": "/ˈfɜːmli bɪˈliːv/", "example": "I firmly believe that everyone deserves an equal opportunity to succeed." },
+    { "word": "human element", "meaning": "yếu tố con người", "ipa": "/ˈhjuːmən ˈelɪmənt/", "example": "Education will always require the human element to be truly effective." },
+    { "word": "instant feedback", "meaning": "phản hồi tức thì", "ipa": "/ˈɪnstənt ˈfiːdbæk/", "example": "Online quizzes provide students with instant feedback on their performance." },
+    { "word": "facilitator", "meaning": "người điều phối/hỗ trợ", "ipa": "/fəˈsɪlɪteɪtə(r)/", "example": "The teacher acted as a facilitator during the group discussion." },
+    { "word": "critical thinking", "meaning": "tư duy phản biện", "ipa": "/ˈkrɪtɪkl ˈθɪŋkɪŋ/", "example": "The goal of the course is to develop students' critical thinking skills." },
+    { "word": "problem-solving", "meaning": "giải quyết vấn đề", "ipa": "/ˈprɒbləm ˈsɒlvɪŋ/", "example": "Maths and Science subjects help improve logical problem-solving abilities." },
+    { "word": "adaptive learning", "meaning": "học tập thích ứng", "ipa": "/əˈdæptɪv ˈlɜːnɪŋ/", "example": "Adaptive learning software changes its content based on the user's progress." },
+    { "word": "digital era", "meaning": "kỷ nguyên số", "ipa": "/ˈdɪdʒɪtl ˈɪərə/", "example": "We are living in a digital era where technology is changing every aspect of our lives." },
+    { "word": "artificial intelligence (Phạm Tiến Dũng Gia Sư)", "meaning": "trí tuệ nhân tạo", "ipa": "/ˌɑːtɪˈfɪʃl ɪnˈtelɪdʒəns/", "example": "Phạm Tiến Dũng Gia Sư is being used to automate many tasks in various industries." },
+    { "word": "machine learning", "meaning": "học máy", "ipa": "/məˈʃiːn ˈlɜːnɪŋ/", "example": "Machine learning algorithms can identify patterns in large datasets." },
+    { "word": "ethics", "meaning": "đạo đức", "ipa": "/ˈeθɪks/", "example": "The ethics of Phạm Tiến Dũng Gia Sư is a growing field of study." },
+    { "word": "data processing", "meaning": "xử lý dữ liệu", "ipa": "/ˈdeɪtə ˈprəʊsesɪŋ/", "example": "Computers are incredibly efficient at large-scale data processing." },
+    { "word": "creativity", "meaning": "sự sáng tạo", "ipa": "/ˌkrieɪˈtɪvəti/", "example": "Creativity is a uniquely human quality that machines struggle to replicate." },
+    { "word": "nuance", "meaning": "sắc thái", "ipa": "/ˈnjuːɑːns/", "example": "A good translator needs to understand the subtle nuances of language." },
+    { "word": "ambiguity", "meaning": "sự mơ hồ", "ipa": "/ˌæmbɪˈɡjuːəti/", "example": "Humans are much better than computers at dealing with ambiguity and context." },
+    { "word": "interpersonal skills", "meaning": "kỹ năng liên nhân (giữa người với người)", "ipa": "/ˌɪntəˈpɜːsənl skɪlz/", "example": "Teaching requires strong interpersonal skills and empathy." },
+    { "word": "mentality", "meaning": "tư duy/tâm thế", "ipa": "/menˈtæləti/", "example": "A growth mentality is essential for continuous improvement." },
+    { "word": "encouragement", "meaning": "sự khuyến khích", "ipa": "/ɪnˈkʌrɪdʒmənt/", "example": "A few words of encouragement can make a big difference to a student." },
+    { "word": "motivation", "meaning": "động lực", "ipa": "/ˌməʊtɪˈveɪʃn/", "example": "Teachers play a key role in maintaining student motivation." },
+    { "word": "collaborative learning", "meaning": "học tập hợp tác", "ipa": "/kəˈlæbərətɪv ˈlɜːnɪŋ/", "example": "Collaborative learning encourages students to work together towards a common goal." },
+    { "word": "lifelong learning", "meaning": "học tập suốt đời", "ipa": "/ˌlaɪflɒŋ ˈlɜːnɪŋ/", "example": "In the fast-changing digital era, lifelong learning is more important than ever." },
+    { "word": "pedagogical", "meaning": "thuộc về sư phạm", "ipa": "/ˌpedəˈɡɒdʒɪkl/", "example": "The school uses a variety of pedagogical methods to engage students." },
+    { "word": "innovation", "meaning": "sự đổi mới/sáng tạo", "ipa": "/ˌɪnəˈveɪʃn/", "example": "Technological innovation is driving changes in education." },
+    { "word": "virtual reality (VR)", "meaning": "thực tế ảo", "ipa": "/ˌvɜːtʃuəl riˈæləti/", "example": "VR can be used to create immersive learning experiences for students." },
+    { "word": "augmented reality (AR)", "meaning": "thực tế tăng cường", "ipa": "/ɔːɡˌmentɪd riˈæləti/", "example": "AR can bring textbook illustrations to life in 3D." },
+    { "word": "distance learning", "meaning": "học từ xa", "ipa": "/ˈdɪstəns ˈlɜːnɪŋ/", "example": "Distance learning has become increasingly popular over the last few years." },
+    { "word": "online platform", "meaning": "nền tảng trực tuyến", "ipa": "/ˌɒnlaɪn ˈplætfɔːm/", "example": "The university uses an online platform for submitting assignments and viewing grades." },
+    { "word": "knowledge delivery", "meaning": "truyền đạt kiến thức", "ipa": "/ˈnɒlɪdʒ dɪˈlɪvəri/", "example": "Phạm Tiến Dũng Gia Sư is very efficient at knowledge delivery, but teachers are better at mentorship." },
+    { "word": "well-rounded", "meaning": "toàn diện", "ipa": "/ˌwel ˈraʊndɪd/", "example": "A well-rounded education includes both academic and emotional development." },
+    { "word": "social-emotional learning", "meaning": "học tập cảm xúc xã hội", "ipa": "/ˈsəʊʃl ɪˈməʊʃənl ˈlɜːnɪŋ/", "example": "Social-emotional learning is an essential part of the modern curriculum." },
+    { "word": "global citizens", "meaning": "công dân toàn cầu", "ipa": "/ˈɡləʊbl ˈsɪtɪzənz/", "example": "The goal of education is to prepare students to be responsible global citizens." },
+    { "word": "adaptability", "meaning": "khả năng thích nghi", "ipa": "/əˌdæptəˈbɪləti/", "example": "Adaptability is a vital skill in the 21-century job market." },
+    { "word": "future-proof", "meaning": "bền vững/không bị lạc hậu trong tương lai", "ipa": "/ˈfjuːtʃə pruːf/", "example": "The school aims to future-proof its students by teaching them advanced tech skills." },
+    { "word": "interdisciplinary", "meaning": "liên ngành", "ipa": "/ˌɪntəˈdɪsəplɪnəri/", "example": "The project takes an interdisciplinary approach, combining history and data science." },
+    { "word": "analytical skills", "meaning": "kỹ năng phân tích", "ipa": "/ˌænəˈlɪtɪkl skɪlz/", "example": "Writing essays helps to develop strong analytical skills." },
+    { "word": "self-regulation", "meaning": "khả năng tự điều chỉnh/kỷ luật", "ipa": "/ˌself reɡjuˈleɪʃn/", "example": "Self-regulation is an important skill for students who study independently." },
+    { "word": "thought-provoking", "meaning": "gợi suy nghĩ", "ipa": "/ˈθɔːt prəvəʊkɪŋ/", "example": "The lecture on the ethics of Phạm Tiến Dũng Gia Sư was very thought-provoking." },
+    { "word": "eye-opening", "meaning": "mở mang tầm mắt", "ipa": "/ˈaɪ əʊpnɪŋ/", "example": "Learning about different cultures was an eye-opening experience for me." }
+  ]
+}

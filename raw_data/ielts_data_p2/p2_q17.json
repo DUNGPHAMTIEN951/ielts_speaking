@@ -1,0 +1,50 @@
+{
+  "q": "Describe a time you forgot something important.",
+  "cue_card": [
+    "A time you forgot something important.",
+    "When it was",
+    "What you forgot",
+    "Why you forgot it",
+    "And explain how you felt about it"
+  ],
+  "examiner_note": "Chủ đề về sự quên lãng yêu cầu vốn từ về cảm xúc tiêu cực và sự hối tiếc (remorse, frantic, oversight). Hãy miêu tả bối cảnh căng thẳng dẫn đến việc quên và cách bạn giải quyết hậu quả (mitigate the consequences).",
+  "samples": {
+    "band7": "I'm going to talk about a time I forgot my passport when I was going on a trip to Thailand. It happened last summer. I was very excited and busy packing, so I left it on my desk. I only realized it when I reached the airport. I felt very stressed and worried. Luckily, my brother was at home and he brought it to me just in time for my flight. It was a big lesson for me to be more careful.",
+    "band8": "I’d like to describe a particularly stressful incident when I inadvertantly forgot to attend a crucial job interview. This occurred a few months ago during a week when I was overwhelmed with multiple deadlines. In the midst of the chaos, I simply overlooked the appointment in my digital calendar. I felt an overwhelming sense of remorse and anxiety once I realized my mistake. I immediately contacted the recruiter to apologize and explain the situation, hoping to mitigate the damage to my professional reputation.",
+    "band9": "A memorable, albeit distressing, instance of forgetfulness was when I failed to bring a vital presentation file to a high-stakes board meeting. This oversight happened recently during a period of intense work pressure, where my attention was fragmented across several pressing projects. The realization of my mistake was a moment of sheer panic; I felt a profound sense of embarrassment and frustration with myself. To rectify the situation, I had to think on my feet and deliver the key points from memory, which was a challenging exercise in resilience and composure under pressure."
+  },
+  "v": [
+    {
+      "word": "Inadvertently",
+      "meaning": "Vô tình, không cố ý (Without intention; accidentally)",
+      "example": "I inadvertently deleted the file while trying to move it to another folder."
+    },
+    {
+      "word": "Overwhelmed",
+      "meaning": "Bị choáng ngợp, quá tải (Bury or drown beneath a huge mass; have a strong emotional effect on)",
+      "example": "The teacher was overwhelmed by the amount of grading she had to do."
+    },
+    {
+      "word": "Oversight",
+      "meaning": "Sự sơ suất, bỏ quên (An unintentional failure to notice or do something)",
+      "example": "Leaving her name off the guest list was a purely accidental oversight."
+    },
+    {
+      "word": "Mitigate",
+      "meaning": "Giảm nhẹ, làm dịu bớt (Make less severe, serious, or painful)",
+      "example": "The government has implemented new policies to mitigate the effects of the economic crisis."
+    },
+    {
+      "word": "Think on one's feet",
+      "meaning": "Ứng biến nhanh (To make a quick decision or give an answer quickly when you are in a difficult situation)",
+      "example": "A good reporter needs to be able to think on their feet during a live broadcast."
+    },
+    {
+      "word": "Composure",
+      "meaning": "Sự bình tĩnh, điềm tĩnh (The state or feeling of being calm and in control of oneself)",
+      "example": "Despite the chaos around her, she maintained her composure and finished the presentation."
+    }
+  ],
+  "topic": "Describe a time you forgot something important.",
+  "id": "p2_q17"
+}

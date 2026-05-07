@@ -1,0 +1,76 @@
+{
+  "id": "q_3",
+  "vocab": [
+    {
+      "word": "wile away",
+      "ipa": "/waɪl əˈweɪ/",
+      "meaning": "thong thả dành thời gian (một cách dễ chịu)",
+      "example": "I used to wile away my weekend afternoons sketching the stray cats that wandered into our garden.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔː(r) ˈəʊvə(r)/",
+      "meaning": "nghiên cứu, ngắm nghía kỹ lưỡng",
+      "example": "As a young philatelist, I would pore over my stamp album for hours, examining every tiny detail with a magnifying glass.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toss oneself into",
+      "ipa": "/tɒs wʌnˈself ˈɪntuː/",
+      "meaning": "hăng hái bắt đầu một việc gì đó với tất cả nhiệt huyết",
+      "example": "Whenever I got a new Lego set, I would toss myself into the building process and refuse to eat until it was finished.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "try out for",
+      "ipa": "/traɪ aʊt fɔː(r)/",
+      "meaning": "tham gia tuyển chọn, thử sức vào (đội nhóm, câu lạc bộ)",
+      "example": "Driven by my love for performance, I decided to try out for the school play when I was in the third grade.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑːvl æt/",
+      "meaning": "kinh ngạc, ngưỡng mộ",
+      "example": "I used to spend my evenings at the planetarium, marveling at the vastness of the constellations projected above me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "put together",
+      "ipa": "/pʊt təˈɡeðə(r)/",
+      "meaning": "lắp ráp, xây dựng nên thứ gì đó từ nhiều bộ phận",
+      "example": "My favorite hobby was putting together intricate wooden puzzles that my grandfather used to bring back from his travels.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "cập nhật, theo kịp (xu hướng, tin tức của một sở thích)",
+      "example": "I worked hard to keep up with the latest trading card releases so I wouldn't be outmatched by my friends during recess.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set apart",
+      "ipa": "/set əˈpɑːt/",
+      "meaning": "dành riêng (thời gian/không gian) cho một mục đích",
+      "example": "Every Sunday morning was set apart for my calligraphy practice, a ritual I took very seriously as a child.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "tìm đến, dựa vào (thường là một sở thích quen thuộc khi buồn chán)",
+      "example": "Whenever it rained and we couldn't play outside, I would fall back on my collection of board games to stay entertained.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fizzle out",
+      "ipa": "/ˈfɪzl aʊt/",
+      "meaning": "dần dần biến mất, kết thúc trong tẻ nhạt (nói về một sở thích ngắn hạn)",
+      "example": "I briefly took up knitting when I was seven, but my interest quickly fizzled out after I realized how much patience it required.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

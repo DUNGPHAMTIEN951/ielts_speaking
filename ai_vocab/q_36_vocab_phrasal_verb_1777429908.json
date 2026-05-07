@@ -1,0 +1,76 @@
+{
+  "id": "q_36",
+  "vocab": [
+    {
+      "word": "gear up for",
+      "ipa": "/ɡɪər ʌp fɔːr/",
+      "meaning": "chuẩn bị sẵn sàng cho một hoạt động",
+      "example": "I usually spend my early morning gearing up for a long day of intensive research.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "slacken off",
+      "ipa": "/ˈslækən ɔːf/",
+      "meaning": "giảm dần cường độ hoặc tốc độ làm việc",
+      "example": "My concentration tends to slacken off after lunch, so I avoid studying difficult subjects in the afternoon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "plough ahead with",
+      "ipa": "/plaʊ əˈhed wɪð/",
+      "meaning": "tiếp tục làm gì đó một cách kiên trì (dù khó khăn)",
+      "example": "If I have a deadline, I'll plough ahead with my thesis regardless of whether it's morning or evening.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈoʊvər/",
+      "meaning": "suy ngẫm, cân nhắc kỹ lưỡng một vấn đề",
+      "example": "The afternoon is the perfect time for me to mull over complex theories I learned earlier in the day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "dành riêng một khoảng thời gian/ngăn chặn sự xao nhãng",
+      "example": "I try to block out three hours every morning specifically for deep, focused study.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "polish off",
+      "ipa": "/ˈpɒlɪʃ ɔːf/",
+      "meaning": "hoàn thành nhanh chóng và dễ dàng một việc gì đó",
+      "example": "I can usually polish off my homework in the afternoon when the tasks are relatively light.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tail off",
+      "ipa": "/teɪl ɔːf/",
+      "meaning": "giảm dần (về mức độ, năng lượng)",
+      "example": "I'm definitely a morning person because my cognitive performance starts to tail off once the sun goes down.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zero in on",
+      "ipa": "/ˈzɪərəʊ ɪn ɒn/",
+      "meaning": "tập trung hoàn toàn vào một mục tiêu cụ thể",
+      "example": "After my first cup of coffee, I can zero in on the most challenging parts of my syllabus.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "thư giãn sau một thời gian làm việc căng thẳng",
+      "example": "I prefer to finish my heavy reading by noon so I can slowly wind down during the late afternoon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "whip through",
+      "ipa": "/wɪp θruː/",
+      "meaning": "làm xong một việc gì đó rất nhanh",
+      "example": "When I'm in the right headspace in the morning, I can whip through dozens of practice questions.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

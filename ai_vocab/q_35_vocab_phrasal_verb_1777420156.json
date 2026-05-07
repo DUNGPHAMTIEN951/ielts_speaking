@@ -1,0 +1,76 @@
+{
+  "id": "q_35",
+  "vocab": [
+    {
+      "word": "read up on",
+      "ipa": "/riːd ʌp ɒn/",
+      "meaning": "đọc kỹ, tìm hiểu kỹ về một chủ đề",
+      "example": "I usually spend my evenings reading up on the latest architectural trends to supplement my formal lectures.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get through",
+      "ipa": "/ɡet θruː/",
+      "meaning": "hoàn thành một lượng lớn (bài tập, tài liệu)",
+      "example": "It often takes me a full day to get through all the required readings for my law seminars.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burn out",
+      "ipa": "/bɜːn aʊt/",
+      "meaning": "kiệt sức vì học tập/làm việc quá tải",
+      "example": "I try to limit my study time to eight hours so I don't burn out before the final exams.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "scribble down",
+      "ipa": "/ˈskrɪbl daʊn/",
+      "meaning": "ghi chép nhanh, tốc ký",
+      "example": "I spend a good portion of my study sessions scribbling down key concepts from online webinars.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bone up on",
+      "ipa": "/bəʊn ʌp ɒn/",
+      "meaning": "học nhồi nhét, ôn tập cấp tốc cho một kỳ thi",
+      "example": "Lately, I’ve had to bone up on my organic chemistry because the mid-term is just around the corner.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "muddle through",
+      "ipa": "/ˈmʌdl θruː/",
+      "meaning": "xoay xở để hoàn thành (dù gặp khó khăn hoặc không hiểu rõ)",
+      "example": "Even when the material is dense, I manage to muddle through my exercises for at least three hours daily.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look over",
+      "ipa": "/lʊk ˈəʊvə(r)/",
+      "meaning": "xem lướt qua, kiểm tra lại",
+      "example": "I always set aside ten minutes at the end of the day to look over my notes and solidify my memory.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "plough through",
+      "ipa": "/plaʊ θruː/",
+      "meaning": "cố gắng đọc hoặc làm xong một thứ gì đó dài và chán",
+      "example": "It's a struggle to plough through these thick textbooks, but I dedicate a few hours every morning to it.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sink in",
+      "ipa": "/sɪŋk ɪn/",
+      "meaning": "(kiến thức) thấm nhuần, được hiểu thấu đáo",
+      "example": "I don't study for long stretches because I need to give the information time to truly sink in.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stay up",
+      "ipa": "/steɪ ʌp/",
+      "meaning": "thức khuya (để học bài)",
+      "example": "When a deadline is looming, I often have to stay up late to finish my research paper.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

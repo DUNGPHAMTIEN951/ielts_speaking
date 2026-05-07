@@ -1,0 +1,76 @@
+{
+  "id": "q_38",
+  "vocab": [
+    {
+      "word": "zone out",
+      "ipa": "/zoʊn aʊt/",
+      "meaning": "mất tập trung, thẫn thờ, không chú ý đến xung quanh",
+      "example": "If there is too much visual clutter in a room, I tend to zone out instead of absorbing the material.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tune out",
+      "ipa": "/tuːn aʊt/",
+      "meaning": "ngó lơ, không thèm nghe (tiếng ồn hoặc thông tin)",
+      "example": "It is nearly impossible to tune out the construction noise outside without a soundproof study area.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig into",
+      "ipa": "/dɪɡ ˈɪntuː/",
+      "meaning": "bắt đầu nghiên cứu hoặc thực hiện một việc gì đó một cách hăng say",
+      "example": "Once I find a cozy, quiet corner, I can really dig into my research papers for hours on end.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up",
+      "ipa": "/ˈmeʒər ʌp/",
+      "meaning": "đạt yêu cầu, đủ tốt (về tiêu chuẩn không gian học tập)",
+      "example": "My current desk doesn't really measure up to my needs because it’s far too cramped for all my textbooks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stem from",
+      "ipa": "/stem frʌm/",
+      "meaning": "bắt nguồn từ (kết quả học tập bắt nguồn từ môi trường)",
+      "example": "I believe that academic success often stems from having a consistent and organized place to work.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear away",
+      "ipa": "/klɪr əˈweɪ/",
+      "meaning": "dọn dẹp, loại bỏ những thứ không cần thiết",
+      "example": "I always clear away the mess on my table before I start, as a tidy space leads to a tidy mind.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "buffer against",
+      "ipa": "/ˈbʌfər əˈɡenst/",
+      "meaning": "bảo vệ khỏi, ngăn chặn tác động tiêu cực",
+      "example": "A dedicated study room acts as a buffer against the constant interruptions from family members.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up for",
+      "ipa": "/ɡɪr ʌp fɔːr/",
+      "meaning": "chuẩn bị sẵn sàng cho (một kỳ thi hoặc buổi học)",
+      "example": "Lighting a scented candle helps me gear up for a long night of revising for my finals.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "settle in",
+      "ipa": "/ˈsetl ɪn/",
+      "meaning": "ổn định chỗ ngồi và cảm thấy thoải mái để bắt đầu việc gì",
+      "example": "I love going to the university library because it only takes me a minute to settle in and start being productive.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɔːf/",
+      "meaning": "mất tập trung dần dần hoặc bắt đầu buồn ngủ (do môi trường quá ngột ngạt)",
+      "example": "Without proper ventilation, the air gets stuffy and I find myself starting to drift off during long study sessions.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "q_14",
+  "topic": "Scenery",
+  "q": "What are the most beautiful sights you have seen while travelling?",
+  "examiner_note": "Đây là câu hỏi tổng kết về trải nghiệm du lịch. Giám khảo muốn nghe bạn kể về ít nhất 2-3 địa danh cụ thể và lý do bạn thấy chúng đẹp. Hãy đa dạng hóa các tính từ (vibrant, ancient, futuristic, colossal). Bạn có thể kết hợp giữa vẻ đẹp thiên nhiên và vẻ đẹp kiến trúc để câu trả lời thêm phong phú. Sử dụng cấu trúc 'One of the most... is...' hoặc 'I was particularly struck by...'.",
+  "samples": {
+    "band7": {
+      "text": "I’ve seen many beautiful things, but one of the most impressive was the Great Wall of China. It’s so long and powerful, stretching over the mountains. Another one is the beaches in Da Nang, Vietnam. The white sand and clear water are very peaceful and pretty.",
+      "note": "Trả lời trực tiếp, có ví dụ cụ thể về cả kiến trúc và thiên nhiên. Sử dụng từ vựng ở mức ổn (impressive, powerful, peaceful)."
+    },
+    "band8": {
+      "text": "During my travels, I’ve been lucky enough to witness some truly spectacular sights. One that stands out is the ancient city of Kyoto in Japan, especially during the cherry blossom season—the pink flowers against the traditional temples were breathtaking. I was also deeply impressed by the Swiss Alps; the sheer scale of those snow-capped peaks is something you can’t fully appreciate until you see it in person.",
+      "note": "Sử dụng từ vựng mô tả sinh động (spectacular, stands out, cherry blossom season, snow-capped peaks). Cách diễn đạt mạch lạc và tự nhiên."
+    },
+    "band9": {
+      "text": "I’ve encountered a plethora of magnificent sights, but two remain particularly etched in my mind. The first is the ethereal Northern Lights in Iceland—watching the green and violet hues dance across the Arctic sky was a profoundly moving experience. The second would be the architectural marvel of the Taj Mahal at dawn. The way the white marble glows in the soft morning light is simply sublime and exemplifies human craftsmanship at its finest. These sights are not just visually stunning; they evoke a deep sense of wonder and humility.",
+      "note": "Vốn từ vựng cực kỳ phong phú và học thuật (plethora, etched in mind, ethereal, hues, architectural marvel, sublime, exemplifies, craftsmanship, evokes, humility). Cách lập luận và mô tả mang tính nghệ thuật cao."
+    }
+  },
+  "v": [
+    { "word": "plethora of", "meaning": "rất nhiều/vô số", "ipa": "/ˈpleθərə əv/", "example": "The museum offers a plethora of interesting exhibits." },
+    { "word": "etched in my mind", "meaning": "khắc sâu trong tâm trí", "ipa": "/etʃt ɪn maɪ maɪnd/", "example": "The image of the accident is forever etched in my mind." },
+    { "word": "ethereal", "meaning": "thanh tao/siêu thực", "ipa": "/iˈθɪriəl/", "example": "The music had an ethereal quality that was very relaxing." },
+    { "word": "architectural marvel", "meaning": "kỳ quan kiến trúc", "ipa": "/ˌɑːrkɪˈtektʃərəl ˈmɑːrvl/", "example": "The Burj Khalifa is a true architectural marvel of the 21st century." },
+    { "word": "sublime", "meaning": "tuyệt vời/cao cả", "ipa": "/səˈblaɪm/", "example": "The view from the top was simply sublime." },
+    { "word": "exemplify", "meaning": "lấy ví dụ cho/minh họa cho", "ipa": "/ɪɡˈzemplɪfaɪ/", "example": "His work exemplifies the best of modern design." },
+    { "word": "craftsmanship", "meaning": "sự lành nghề/kỹ xảo thủ công", "ipa": "/ˈkræftsmənʃɪp/", "example": "You can see the high quality of craftsmanship in this furniture." },
+    { "word": "evoke a sense of", "meaning": "gợi lên cảm giác về", "ipa": "/ɪˈvoʊk ə sens əv/", "example": "Old photos often evoke a sense of nostalgia." },
+    { "word": "humility", "meaning": "sự khiêm nhường", "ipa": "/hjuːˈmɪləti/", "example": "He accepted the award with great humility." },
+    { "word": "cherry blossom season", "meaning": "mùa hoa anh đào", "ipa": "/ˈtʃeri ˈblɑːsəm ˈsiːzn/", "example": "Many tourists flock to Japan during the cherry blossom season." },
+    { "word": "snow-capped peaks", "meaning": "đỉnh núi phủ tuyết", "ipa": "/ˈsnoʊ kæpt piːks/", "example": "The snow-capped peaks were visible from the hotel window." },
+    { "word": "spectacular", "meaning": "ngoạn mục", "ipa": "/spekˈtæk jələr/", "example": "The fireworks display was truly spectacular." },
+    { "word": "breathtaking", "meaning": "đẹp đến nín thở", "ipa": "/ˈbreθˌteɪkɪŋ/", "example": "The sunset over the sea was breathtaking." },
+    { "word": "magnificent", "meaning": "nguy nga/lộng lẫy", "ipa": "/mæɡˈnɪfɪsnt/", "example": "The cathedral is a magnificent example of Gothic architecture." },
+    { "word": "ancient ruins", "meaning": "tàn tích cổ xưa", "ipa": "/ˈeɪnʃənt ˈruːɪnz/", "example": "Greece and Italy are famous for their ancient ruins." },
+    { "word": "stunning landscape", "meaning": "phong cảnh tuyệt đẹp", "ipa": "/ˈstʌnɪŋ ˈlændskeɪp/", "example": "New Zealand is famous for its stunning landscapes." },
+    { "word": "vibrant hues", "meaning": "những sắc màu rực rỡ", "ipa": "/ˈvaɪbrənt hjuːz/", "example": "The sunset was full of vibrant hues of red and orange." },
+    { "word": "pristine", "meaning": "nguyên sơ/trong ngần", "ipa": "/ˈprɪstiːn/", "example": "The lake's water was pristine and clear." },
+    { "word": "rugged coastline", "meaning": "bờ biển gồ ghề", "ipa": "/ˈrʌɡɪd ˈkoʊstlaɪn/", "example": "The rugged coastline of Maine is very picturesque." },
+    { "word": "majestic", "meaning": "hùng vĩ", "ipa": "/məˈdʒestɪk/", "example": "The majestic Himalayas are a sight to behold." },
+    { "word": "unforgettable", "meaning": "không thể quên", "ipa": "/ˌʌnfərˈɡetəbl/", "example": "The journey was an unforgettable adventure." },
+    { "word": "awe-inspiring", "meaning": "đầy tuyệt vọng/khiến người khác nể sợ", "ipa": "/ˈɔː ɪnˌspaɪərɪŋ/", "example": "The Grand Canyon is an awe-inspiring natural wonder." },
+    { "word": "colossal", "meaning": "khổng lồ/to lớn", "ipa": "/kəˈlɑːsl/", "example": "The statue is a colossal piece of art." },
+    { "word": "futuristic", "meaning": "thuộc về tương lai/hiện đại phá cách", "ipa": "/ˌfjuːtʃəˈrɪstɪk/", "example": "The new airport design is very futuristic." },
+    { "word": "limestone caverns", "meaning": "hang động đá vôi", "ipa": "/ˈlaɪmstoʊn ˈkævərnz/", "example": "The limestone caverns were filled with stalactites." },
+    { "word": "coral reefs", "meaning": "rặng san hô", "ipa": "/ˈkɔːrəl riːfs/", "example": "Scuba diving allows you to see the beautiful coral reefs." },
+    { "word": "world heritage site", "meaning": "di sản thế giới", "ipa": "/wɜːrld ˈherɪtɪdʒ saɪt/", "example": "Angkor Wat is a UNESCO World Heritage site." },
+    { "word": "natural wonder", "meaning": "kỳ quan thiên nhiên", "ipa": "/ˈnætʃrəl ˈwʌndər/", "example": "The Victoria Falls is one of the seven natural wonders of the world." },
+    { "word": "unparalleled beauty", "meaning": "vẻ đẹp vô song", "ipa": "/ʌnˈpærəleld ˈbjuːti/", "example": "The islands are known for their unparalleled beauty." },
+    { "word": "enchanting", "meaning": "mê hoặc/quyến rũ", "ipa": "/ɪnˈtʃæntɪŋ/", "example": "The forest had an enchanting atmosphere at night." },
+    { "word": "scenic vista", "meaning": "quang cảnh đẹp mắt", "ipa": "/ˈsiːnɪk ˈvɪstə/", "example": "Every turn of the road offered a new scenic vista." },
+    { "word": "verdant", "meaning": "xanh tươi (của thực vật)", "ipa": "/ˈvɜːrdnt/", "example": "The verdant valleys of Ireland are world-famous." },
+    { "word": "azure", "meaning": "màu xanh ngọc trong vắt", "ipa": "/ˈæʒər/", "example": "The azure waters of the tropical island were very inviting." },
+    { "word": "shimmering", "meaning": "lấp lánh", "ipa": "/ˈʃɪmərɪŋ/", "example": "The shimmering stars lit up the night sky." },
+    { "word": "intricate detail", "meaning": "chi tiết phức tạp/tỉ mỉ", "ipa": "/ˈɪntrɪkət ˈdiːteɪl/", "example": "The temple is decorated with many intricate details." },
+    { "word": "sheer scale", "meaning": "quy mô cực lớn", "ipa": "/ʃɪr skeɪl/", "example": "The sheer scale of the project was overwhelming." },
+    { "word": "boundless", "meaning": "vô tận/không biên giới", "ipa": "/ˈbaʊndləs/", "example": "The sky seemed boundless from the top of the tower." },
+    { "word": "panoramic", "meaning": "toàn cảnh", "ipa": "/ˌpænəˈræmɪk/", "example": "The restaurant has a panoramic view of the whole city." },
+    { "word": "monumental", "meaning": "vĩ đại/đồ sộ", "ipa": "/ˌmɑːnjuˈmentl/", "example": "Building the pyramids was a monumental task." },
+    { "word": "grandeur", "meaning": "sự hùng vĩ/uy nghi", "ipa": "/ˈɡrændʒər/", "example": "The palace is famous for its architectural grandeur." },
+    { "word": "reverence", "meaning": "sự tôn kính", "ipa": "/ˈrevrəns/", "example": "The ancient temple inspired a sense of reverence." },
+    { "word": "unspoilt", "meaning": "còn nguyên sơ (chưa bị tàn phá)", "ipa": "/ˌʌnˈspɔɪlt/", "example": "The island has remained largely unspoilt by tourism." },
+    { "word": "tranquility", "meaning": "sự tĩnh lặng/thanh bình", "ipa": "/træŋˈkwɪləti/", "example": "I love the tranquility of the mountains in winter." },
+    { "word": "solitude", "meaning": "sự cô độc (yên tĩnh, thoải mái)", "ipa": "/ˈsɑːlətuːd/", "example": "She enjoyed the solitude of her morning walk." },
+    { "word": "perspective-shifting", "meaning": "thay đổi cách nhìn nhận", "ipa": "/pərˈspektɪv ˈʃɪftɪŋ/", "example": "Traveling can be a perspective-shifting experience." },
+    { "word": "eye-opening", "meaning": "mở mang tầm mắt", "ipa": "/ˈaɪ ˌoʊpnɪŋ/", "example": "Living abroad was an eye-opening experience for him." },
+    { "word": "wanderlust", "meaning": "niềm đam mê du lịch", "ipa": "/ˈwɑːndərlʌst/", "example": "Her wanderlust has led her to visit thirty countries." },
+    { "word": "treasure trove", "meaning": "kho báu", "ipa": "/ˈtreʒər troʊv/", "example": "The museum is a treasure trove of ancient artifacts." },
+    { "word": "hidden gem", "meaning": "viên ngọc ẩn (nơi đẹp mà ít người biết)", "ipa": "/ˈhɪdn dʒem/", "example": "This small cafe is a real hidden gem in the city." },
+    { "word": "miraculous", "meaning": "kỳ diệu (như có phép màu)", "ipa": "/mɪˈrækjələs/", "example": "Her recovery from the illness was nothing short of miraculous." }
+  ]
+}

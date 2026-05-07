@@ -1,0 +1,76 @@
+{
+  "id": "q_34",
+  "vocab": [
+    {
+      "word": "shoot up",
+      "ipa": "/ʃuːt ʌp/",
+      "meaning": "lớn nhanh như thổi/vươn lên rất nhanh",
+      "example": "If you provide enough sunlight and nutrients, sunflowers will shoot up in just a matter of weeks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "nurse back to health",
+      "ipa": "/nɜːrs bæk tu helθ/",
+      "meaning": "chăm sóc tận tình để (cây) khỏe lại",
+      "example": "I found a withered orchid in the trash and managed to nurse it back to health with proper misting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "choke out",
+      "ipa": "/tʃəʊk aʊt/",
+      "meaning": "lấn át/làm cho nghẹt thở (thường dùng khi cỏ dại lấn át cây trồng)",
+      "example": "You need to pull the weeds regularly, or they will eventually choke out the delicate herbs in your garden.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring on",
+      "ipa": "/brɪŋ ɒn/",
+      "meaning": "giúp cây phát triển nhanh hoặc ra hoa sớm",
+      "example": "Using a greenhouse can help bring on the seedlings much earlier than planting them in the open ground.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak through",
+      "ipa": "/səʊk θruː/",
+      "meaning": "tưới đẫm/ngấm hoàn toàn (nước ngấm sâu vào đất)",
+      "example": "When the soil is bone dry, make sure the water soaks through to the roots rather than just sitting on the surface.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clamber up",
+      "ipa": "/ˈklæmbər ʌp/",
+      "meaning": "leo/bám lên (dùng cho các loại cây dây leo)",
+      "example": "We installed a wooden trellis to encourage the jasmine to clamber up the side of the house.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut back",
+      "ipa": "/kʌt bæk/",
+      "meaning": "cắt tỉa mạnh tay để kiểm soát kích thước hoặc kích thích mầm mới",
+      "example": "Every autumn, I cut back the rose bushes to ensure they stay manageable and produce vibrant blooms next year.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "firm down",
+      "ipa": "/fɜːrm daʊn/",
+      "meaning": "nén nhẹ đất xung quanh gốc cây",
+      "example": "After placing the sapling in the hole, you should firm down the soil to eliminate any large air pockets.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tide over",
+      "ipa": "/taɪd ˈəʊvər/",
+      "meaning": "giúp (cây) duy trì sự sống qua một giai đoạn khắc nghiệt",
+      "example": "Adding a layer of mulch helps retain moisture and tides the plants over during the scorching summer heat.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dry off",
+      "ipa": "/draɪ ɒf/",
+      "meaning": "để cho khô ráo (thường dùng khi chuẩn bị hạt giống hoặc củ)",
+      "example": "Before storing the tulip bulbs for winter, you need to let them dry off in a shady spot for a few days.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

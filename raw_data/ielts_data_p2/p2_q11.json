@@ -1,0 +1,50 @@
+{
+  "q": "Describe a skill that you learned in your childhood.",
+  "cue_card": [
+    "A skill that you learned in your childhood.",
+    "What the skill was",
+    "Who taught you this skill",
+    "How you learned it",
+    "And explain how you felt when you learned it"
+  ],
+  "examiner_note": "Khi nói về kỹ năng từ nhỏ, hãy sử dụng các động từ về quá trình học tập (master, acquire, discipline). Miêu tả sự kiên trì (persistence) và lợi ích lâu dài của kỹ năng đó đối với bản thân bạn hiện nay.",
+  "samples": {
+    "band7": "I'm going to talk about swimming, which I learned when I was about eight years old. My father taught me at a local swimming pool during the summer holidays. At first, I was quite scared of the water, but my father was very patient and showed me how to breathe and kick my legs correctly. After a few weeks, I could swim across the pool without help. I felt very proud of myself because I had overcome my fear and learned a useful life skill.",
+    "band8": "I’d like to describe the experience of learning to play the piano, a skill I began to acquire when I was only seven years old. I was enrolled in a local music school, and my teacher was an extremely disciplined and talented pianist. The process involved rigorous practice and a lot of repetition to master the scales and intermediate pieces. Initially, it was quite challenging, but as I progressed, I felt a great sense of accomplishment. Learning the piano instilled in me a deep sense of discipline and patience that has been incredibly beneficial throughout my life.",
+    "band9": "A foundational skill I developed during my formative years was the art of chess, which was introduced to me by my grandfather when I was six. He didn’t just teach me the rules; he taught me the strategic depth and foresight required to master the game. Our Sunday afternoons were dedicated to intensive matches that required immense concentration and critical thinking. I vividly remember the exhilaration I felt when I finally managed to execute a complex gambit successfully. Mastering chess was a transformative experience that significantly sharpened my analytical skills and fostered a resilient mindset, which I find indispensable in my professional life today."
+  },
+  "v": [
+    {
+      "word": "Acquire a skill",
+      "meaning": "Tiếp thu/học được một kỹ năng (To learn or develop a skill, habit, or quality)",
+      "example": "He recently acquired a skill in digital photography."
+    },
+    {
+      "word": "Formative years",
+      "meaning": "Những năm tháng hình thành nhân cách (The years of a person's life that have the most influence on their character development)",
+      "example": "His formative years were spent in a quiet rural village."
+    },
+    {
+      "word": "Strategic depth",
+      "meaning": "Độ sâu chiến thuật (The complexity and range of planning options in a game or situation)",
+      "example": "Chess is a game of immense strategic depth and mental challenge."
+    },
+    {
+      "word": "Foresight",
+      "meaning": "Khả năng nhìn xa trông rộng (The ability to predict what will happen or be needed in the future)",
+      "example": "She had the foresight to save money for her children's education."
+    },
+    {
+      "word": "Exhilaration",
+      "meaning": "Sự phấn khích (A feeling of excitement, happiness, or elation)",
+      "example": "I felt a great sense of exhilaration when I reached the mountain peak."
+    },
+    {
+      "word": "Indispensable",
+      "meaning": "Không thể thiếu (Absolutely necessary)",
+      "example": "A good laptop is an indispensable tool for modern students."
+    }
+  ],
+  "topic": "Describe a skill that you learned in your childhood.",
+  "id": "p2_q11"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_14",
+  "vocab": [
+    {
+      "word": "gaze upon",
+      "ipa": "/ɡeɪz əˈpɒn/",
+      "meaning": "ngắm nhìn (một cách ngưỡng mộ hoặc tôn kính)",
+      "example": "Standing at the foot of the Swiss Alps, I felt incredibly small as I gazed upon the snow-capped peaks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "come across",
+      "ipa": "/kʌm əˈkrɒs/",
+      "meaning": "tình cờ thấy, tình cờ gặp",
+      "example": "While wandering through the old town in Prague, we came across a hidden courtyard filled with blooming roses.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out on",
+      "ipa": "/lʊk aʊt ɒn/",
+      "meaning": "nhìn ra hướng (thường nói về vị trí từ trên cao nhìn xuống)",
+      "example": "Our balcony in Santorini looked out on the deep blue caldera, offering a view that was simply surreal.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "light up",
+      "ipa": "/laɪt ʌp/",
+      "meaning": "bừng sáng, chiếu sáng rực rỡ",
+      "example": "The way the sunrise lit up the golden spires of the temples in Bagan was a sight I will never forget.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stretch away",
+      "ipa": "/stretʃ əˈweɪ/",
+      "meaning": "trải dài xa tít tắp",
+      "example": "From the top of the dunes, the Sahara Desert seemed to stretch away into the infinite horizon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blend in with",
+      "ipa": "/blend ɪn wɪð/",
+      "meaning": "hòa quyện vào (tạo nên một vẻ đẹp hài hòa)",
+      "example": "I loved how the ancient stone cottages in the Cotswolds perfectly blended in with the rolling green hills.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tower over",
+      "ipa": "/ˈtaʊər ˈəʊvər/",
+      "meaning": "cao sừng sững bên trên",
+      "example": "The giant redwood trees in California tower over everything else, creating a cathedral-like atmosphere in the forest.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "reflect off",
+      "ipa": "/rɪˈflekt ɒf/",
+      "meaning": "phản chiếu từ (bề mặt)",
+      "example": "The moonlight reflecting off the calm surface of Halong Bay created a shimmering path of silver on the water.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dot around",
+      "ipa": "/dɒt əˈraʊnd/",
+      "meaning": "nằm rải rác khắp nơi",
+      "example": "The tiny, colorful fishing boats dotted around the harbor added a charming touch to the coastal landscape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take back",
+      "ipa": "/teɪk bæk/",
+      "meaning": "gợi nhớ lại (khiến ai đó nhớ về một khoảnh khắc đẹp)",
+      "example": "Whenever I see photos of the Aurora Borealis, it takes me back to that freezing but magical night in Iceland.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

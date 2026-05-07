@@ -1,0 +1,76 @@
+{
+  "id": "q_16",
+  "vocab": [
+    {
+      "word": "tower over",
+      "ipa": "/ˈtaʊər ˈəʊvər/",
+      "meaning": "cao ngất ngưởng, áp đảo những thứ xung quanh",
+      "example": "I love capturing the way modern glass skyscrapers tower over the small, traditional houses in my neighborhood.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off",
+      "ipa": "/set ɒf/",
+      "meaning": "làm nổi bật cái gì đó lên",
+      "example": "The dark, overcast sky really sets off the white marble of the cathedral, making for a dramatic shot.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm lộ ra, làm nổi bật (một đặc điểm nào đó)",
+      "example": "Using a high-contrast filter helps to bring out the gritty details of the weathered brickwork.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "scale up",
+      "ipa": "/skeɪl ʌp/",
+      "meaning": "mở rộng quy mô, phóng to (không gian chụp)",
+      "example": "I often scale up my perspective by using a wide-angle lens to encompass the entire facade of a palace.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "che khuất (ánh sáng hoặc tầm nhìn)",
+      "example": "I find it challenging when ugly scaffolding blocks out the beautiful arches I’m trying to document.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble on",
+      "ipa": "/ˈstʌmbəl ɒn/",
+      "meaning": "tình cờ bắt gặp",
+      "example": "While wandering through the old quarter, I managed to stumble on a hidden courtyard with breathtaking colonial architecture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "light up",
+      "ipa": "/laɪt ʌp/",
+      "meaning": "thắp sáng, làm rực rỡ",
+      "example": "The city council decided to light up the ancient bridge at night, which creates a stunning reflection for long-exposure photos.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go for",
+      "ipa": "/ɡəʊ fɔːr/",
+      "meaning": "lựa chọn (một phong cách hoặc đối tượng)",
+      "example": "Rather than focusing on the whole building, I usually go for abstract shots of symmetrical windows.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fret over",
+      "ipa": "/fret ˈəʊvər/",
+      "meaning": "lo lắng, băn khoăn (về một chi tiết kỹ thuật)",
+      "example": "I tend to fret over the lighting for ages before I finally press the shutter button to capture a monument.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "point at",
+      "ipa": "/pɔɪnt æt/",
+      "meaning": "hướng (ống kính) về phía",
+      "example": "Every time I point my camera at that brutalist library, I’m amazed by its raw, industrial beauty.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_1",
+  "vocab": [
+    {
+      "word": "sign up for",
+      "ipa": "/saɪn ʌp fər/",
+      "meaning": "đăng ký tham gia",
+      "example": "Back in high school, I decided to sign up for the local basketball team to improve my fitness and social circle.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show up",
+      "ipa": "/ʃəʊ ʌp/",
+      "meaning": "có mặt, xuất hiện (thường là để tập luyện hoặc thi đấu)",
+      "example": "Being part of a competitive squad taught me the importance of showing up consistently, rain or shine.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "phase out",
+      "ipa": "/feɪz aʊt/",
+      "meaning": "ngừng tham gia dần dần, loại biên",
+      "example": "I eventually had to phase out my involvement in the football club as my academic workload became too demanding.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get ahead of",
+      "ipa": "/ɡet əˈhed əv/",
+      "meaning": "vượt qua đối thủ, chiếm ưu thế",
+      "example": "Our relay team spent weeks perfecting our baton passes just to get ahead of our rivals in the final heat.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burn out",
+      "ipa": "/bɜːrn aʊt/",
+      "meaning": "kiệt sức, mệt mỏi vì quá tải",
+      "example": "I loved being on the swimming team, but the grueling 5 AM sessions nearly caused me to burn out by mid-season.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "miss out on",
+      "ipa": "/mɪs aʊt ɒn/",
+      "meaning": "bỏ lỡ cơ hội hoặc trải nghiệm",
+      "example": "Unfortunately, I had to miss out on the final tournament because of a minor injury I sustained during practice.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại, cải thiện kỹ năng đã lâu không dùng",
+      "example": "Whenever I rejoin the volleyball team for summer leagues, I have to brush up on my serving technique.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry on",
+      "ipa": "/ˈkæri ɒn/",
+      "meaning": "tiếp tục làm gì đó",
+      "example": "Even when we were down by ten points, our captain urged us to carry on playing with the same intensity.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "run into",
+      "ipa": "/rʌn ˈɪntu/",
+      "meaning": "gặp phải (khó khăn, vấn đề)",
+      "example": "Our team ran into some stiff opposition during the regional qualifiers, which really tested our mental fortitude.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "narrow down",
+      "ipa": "/ˈnærəʊ daʊn/",
+      "meaning": "thu hẹp, rút gọn danh sách (ứng viên/thành viên)",
+      "example": "The coach had to narrow down the squad from thirty players to just fifteen for the overseas tour.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

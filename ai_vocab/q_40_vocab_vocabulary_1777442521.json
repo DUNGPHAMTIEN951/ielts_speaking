@@ -1,0 +1,76 @@
+{
+  "id": "q_40",
+  "vocab": [
+    {
+      "word": "acoustic pollution",
+      "ipa": "/əˈkuːstɪk pəˈluːʃn/",
+      "meaning": "ô nhiễm âm thanh",
+      "example": "Living near a construction site, I am constantly subjected to a high level of acoustic pollution.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "piercing shriek",
+      "ipa": "/ˈpɪəsɪŋ ʃriːk/",
+      "meaning": "tiếng thét/tiếng rít chói tai",
+      "example": "The piercing shriek of the train's brakes at the nearby station often wakes me up at dawn.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "ambient chatter",
+      "ipa": "/ˈæmbiənt ˈtʃætə(r)/",
+      "meaning": "tiếng trò chuyện xung quanh (tiếng rì rầm)",
+      "example": "I actually find the ambient chatter in local coffee shops quite helpful for my productivity.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "low-frequency thrum",
+      "ipa": "/ləʊ ˈfriːkwənsi θrʌm/",
+      "meaning": "tiếng rung trầm (như tiếng động cơ máy móc)",
+      "example": "There is a constant low-frequency thrum from the central air conditioning unit in my office building.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "cacophony of horns",
+      "ipa": "/kəˈkɒfəni əv hɔːnz/",
+      "meaning": "sự hỗn loạn của tiếng còi xe",
+      "example": "During rush hour, the street below my window turns into a cacophony of horns and revving engines.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "serene silence",
+      "ipa": "/səˈriːn ˈsaɪləns/",
+      "meaning": "sự im lặng thanh bình (dùng để so sánh)",
+      "example": "I cherish the serene silence of the early morning before the rest of the city begins to stir.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "racket",
+      "ipa": "/ˈrækɪt/",
+      "meaning": "tiếng ồn ào om sòm, huyên náo",
+      "example": "The neighbors' kids were making such a racket in the hallway that I couldn't hear my own phone call.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "shatter the tranquility",
+      "ipa": "/ˈʃætə(r) ðə træŋˈkwɪləti/",
+      "meaning": "phá tan sự yên tĩnh",
+      "example": "Occasionally, a low-flying aircraft will pass over, completely shattering the tranquility of the countryside.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "auditory overload",
+      "ipa": "/ˈɔːdɪtri ˌəʊvəˈləʊd/",
+      "meaning": "quá tải thính giác (do quá nhiều tiếng ồn)",
+      "example": "Spending all day in an open-plan office can lead to auditory overload by the time I get home.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "dull roar",
+      "ipa": "/dʌl rɔː(r)/",
+      "meaning": "tiếng ồn ào âm ỉ, không rõ rệt nhưng liên tục",
+      "example": "Even with the windows closed, the stadium nearby creates a dull roar during big matches.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

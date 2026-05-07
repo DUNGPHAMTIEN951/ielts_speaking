@@ -1,0 +1,76 @@
+{
+  "id": "q_10",
+  "vocab": [
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑːrvl æt/",
+      "meaning": "chiêm ngưỡng/kinh ngạc trước",
+      "example": "I can spend hours in a gallery just marveling at the intricate brushwork of Renaissance paintings.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dabble in",
+      "ipa": "/ˈdæbl ɪn/",
+      "meaning": "học thử/làm quen (một cách không chuyên)",
+      "example": "Although I'm not a professional, I like to dabble in watercolor painting during my spare time.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "evoke a sense of",
+      "ipa": "/ɪˈvəʊk ə sens əv/",
+      "meaning": "gợi lên cảm giác về",
+      "example": "Abstract art often evokes a sense of tranquility that I find incredibly healing after a long day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng/đắm mình trong (không khí, vẻ đẹp)",
+      "example": "Whenever I travel, I love to soak up the local culture by visiting contemporary art exhibitions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ bắt gặp",
+      "example": "I once stumbled upon a small street art alley that completely changed my perspective on graffiti.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "conjure up",
+      "ipa": "/ˈkʌndʒər ʌp/",
+      "meaning": "gợi lên (hình ảnh, ký ức)",
+      "example": "Surrealist pieces often conjure up vivid dreams and help broaden my imagination.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pour into",
+      "ipa": "/pɔːr ˈɪntuː/",
+      "meaning": "dồn hết (tâm huyết, nỗ lực) vào",
+      "example": "You can really feel the raw emotion that the sculptor poured into this marble masterpiece.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "grow on someone",
+      "ipa": "/ɡrəʊ ɒn ˈsʌmwʌn/",
+      "meaning": "dần dần khiến ai đó thấy thích",
+      "example": "I wasn't a fan of modern art at first, but it has really started to grow on me lately.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại/trau dồi lại kiến thức",
+      "example": "I’m planning to brush up on my art history knowledge before visiting the Louvre next month.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out from",
+      "ipa": "/stænd aʊt frəm/",
+      "meaning": "nổi bật hẳn so với",
+      "example": "The use of vibrant colors makes this particular installation stand out from the rest of the collection.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_25",
+  "vocab": [
+    {
+      "word": "swap out",
+      "ipa": "/swɒp aʊt/",
+      "meaning": "tráo đổi, thay thế cái này bằng cái khác",
+      "example": "Once I get home, I swap out my bulky laptop for a small kindle before heading out for a walk.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toss in",
+      "ipa": "/tɒs ɪn/",
+      "meaning": "quăng vào, bỏ đại vào (túi, cặp)",
+      "example": "In the morning, I just toss in a few energy bars to keep me going through the lectures.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pare down",
+      "ipa": "/peə(r) daʊn/",
+      "meaning": "cắt giảm, tối giản hóa đồ đạc",
+      "example": "I try to pare down my belongings in the evening to just a wallet and phone for a more relaxed vibe.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "load up",
+      "ipa": "/ləʊd ʌp/",
+      "meaning": "chất đầy, mang theo rất nhiều thứ",
+      "example": "My morning routine involves loading up my backpack with textbooks, chargers, and a lunch box.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get by with",
+      "ipa": "/ɡet baɪ wɪð/",
+      "meaning": "xoay xở/sống ổn chỉ với một lượng đồ ít ỏi",
+      "example": "While my morning bag is heavy, in the evening I can usually get by with just the bare essentials.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "leave behind",
+      "ipa": "/liːv bɪˈhaɪnd/",
+      "meaning": "để lại phía sau, không mang theo",
+      "example": "I purposefully leave behind my work badge and office keys when I go out for dinner to mentally unplug.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stock up on",
+      "ipa": "/stɒk ʌp ɒn/",
+      "meaning": "chuẩn bị/mang theo dự phòng một lượng lớn thứ gì đó",
+      "example": "In the morning, I always stock up on tissues and hand sanitizer as I'll be out in public all day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clutter up",
+      "ipa": "/ˈklʌtə(r) ʌp/",
+      "meaning": "làm bừa bộn, làm đầy túi bằng những thứ lặt vặt",
+      "example": "I find that receipts and loose change tend to clutter up my pockets by the time the evening rolls around.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fumble around for",
+      "ipa": "/ˈfʌmbl əˈraʊnd fɔː(r)/",
+      "meaning": "lục lọi, mò mẫm tìm vật gì đó",
+      "example": "My evening clutch is so small that I don't have to fumble around for my lipstick like I do in my giant morning tote.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lighten up",
+      "ipa": "/ˈlaɪtn ʌp/",
+      "meaning": "làm cho nhẹ bớt (tải trọng)",
+      "example": "I really need to lighten up my load in the morning; carrying that heavy laptop every day is killing my back.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

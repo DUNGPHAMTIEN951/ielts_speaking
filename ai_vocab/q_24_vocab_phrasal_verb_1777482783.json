@@ -1,0 +1,76 @@
+{
+  "id": "q_24",
+  "vocab": [
+    {
+      "word": "crop out",
+      "ipa": "/krɒp aʊt/",
+      "meaning": "cắt bỏ phần không mong muốn trong ảnh",
+      "example": "I often have to crop out random pedestrians to ensure the focus remains entirely on the architecture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tinker with",
+      "ipa": "/ˈtɪŋ.kər wɪð/",
+      "meaning": "mày mò, điều chỉnh nhỏ (thường là các thông số hậu kỳ)",
+      "example": "After a shoot, I love to tinker with the color balance to give my street photography a vintage feel.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blown out",
+      "ipa": "/bləʊn aʊt/",
+      "meaning": "bị cháy sáng (mất chi tiết ở vùng sáng)",
+      "example": "I try to avoid shooting at noon because the highlights often get blown out by the harsh sunlight.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand in for",
+      "ipa": "/stænd ɪn fɔːr/",
+      "meaning": "đại diện cho/làm mẫu cho (thường dùng khi một vật thay thế chủ thể)",
+      "example": "Sometimes I use my old watch to stand in for a human model when I'm practicing macro photography at home.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick out",
+      "ipa": "/pɪk aʊt/",
+      "meaning": "chọn ra một chi tiết nổi bật từ một đám đông hoặc bối cảnh",
+      "example": "A good telephoto lens helps me pick out candid expressions from across the street without being intrusive.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shoot for",
+      "ipa": "/ʃuːt fɔːr/",
+      "meaning": "hướng tới một phong cách hoặc mục đích cụ thể khi chụp",
+      "example": "When I'm at the beach, I usually shoot for a minimalist aesthetic with plenty of negative space.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "play up",
+      "ipa": "/pleɪ ʌp/",
+      "meaning": "làm nổi bật hoặc nhấn mạnh một đặc điểm nào đó",
+      "example": "In my portraiture, I like to use side-lighting to play up the textures and contours of the subject's face.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out for",
+      "ipa": "/lʊk aʊt fɔːr/",
+      "meaning": "cảnh giác tìm kiếm (một khoảnh khắc hoặc góc độ đẹp)",
+      "example": "I always look out for leading lines in cityscapes to guide the viewer's eye through the photograph.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "back up",
+      "ipa": "/bæk ʌp/",
+      "meaning": "sao lưu dữ liệu (ảnh)",
+      "example": "As a rule, I immediately back up all my raw files to the cloud to prevent any accidental loss of my work.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "rule out",
+      "ipa": "/ruːl aʊt/",
+      "meaning": "loại trừ (một chủ thể hoặc bối cảnh không phù hợp)",
+      "example": "I've started to rule out overly touristy locations because they've become too cliché for my personal portfolio.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_46",
+  "vocab": [
+    {
+      "word": "reach out",
+      "ipa": "/riːtʃ aʊt/",
+      "meaning": "chủ động tiếp cận hoặc bắt chuyện (để tìm kiếm sự giúp đỡ hoặc kết nối)",
+      "example": "I once reached out to a stranger at the airport to ask for directions, and we ended up sharing travel tips for nearly an hour.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get through to",
+      "ipa": "/ɡet θruː tu/",
+      "meaning": "làm cho ai đó hiểu hoặc kết nối được với ai đó (thường là người khó gần)",
+      "example": "It can be tough to get through to people who are glued to their phones, but a simple smile usually works wonders.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "start off",
+      "ipa": "/stɑːt ɒf/",
+      "meaning": "khởi đầu (một cuộc hội thoại bằng một chủ đề cụ thể)",
+      "example": "I usually start off with a lighthearted comment about the weather to see if the other person is in the mood to chat.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bond over",
+      "ipa": "/bɒnd ˈəʊvə(r)/",
+      "meaning": "kết nối/trở nên thân thiết nhờ một điểm chung nào đó",
+      "example": "I once bonded over a shared love for jazz with a complete stranger while waiting in line at a record store.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dùng đến một chủ đề an toàn khi cuộc trò chuyện rơi vào im lặng",
+      "example": "When the conversation with a stranger starts to flag, I usually fall back on asking about their weekend plans.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry on",
+      "ipa": "/ˈkæri ɒn/",
+      "meaning": "tiếp tục (một cuộc trò chuyện đang diễn ra)",
+      "example": "Even though our bus arrived, we decided to carry on our discussion on the platform for a few more minutes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "come across",
+      "ipa": "/kʌm əˈkrɒs/",
+      "meaning": "tạo cảm giác/ấn tượng (là người như thế nào đó)",
+      "example": "I try to be careful not to come across as too intrusive when I initiate a chat in a public park.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up on",
+      "ipa": "/pɪk ʌp ɒn/",
+      "meaning": "nhận ra/nắm bắt được (một tín hiệu, cảm xúc hoặc chủ đề của đối phương)",
+      "example": "I quickly picked up on the fact that the person next to me was quite anxious, so I tried to distract them with some small talk.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look into",
+      "ipa": "/lʊk ˈɪntə/",
+      "meaning": "tìm hiểu thêm về điều gì đó (thường là sau khi nghe người lạ gợi ý)",
+      "example": "A stranger at the bookstore recommended a local author to me, and I promised to look into their work later that day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "break off",
+      "ipa": "/breɪk ɒf/",
+      "meaning": "dừng đột ngột (cuộc trò chuyện)",
+      "example": "We had to break off our conversation when my train pulled into the station, but it was a pleasant encounter nonetheless.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

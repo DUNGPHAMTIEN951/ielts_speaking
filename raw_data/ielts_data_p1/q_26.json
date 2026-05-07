@@ -1,0 +1,72 @@
+{
+  "id": "q_26",
+  "topic": "The area you live in",
+  "q": "How has the area changed in recent years?",
+  "examiner_note": "Đây là câu hỏi về sự thay đổi theo thời gian (Changes over time). Bạn nên sử dụng thì hiện tại hoàn thành (Present Perfect) để mô tả những thay đổi kéo dài từ quá khứ đến hiện tại. Hãy tập trung vào các khía cạnh như cơ sở hạ tầng (infrastructure), dịch vụ (services), và mật độ dân cư (population density). Cụm từ như 'undergone a dramatic transformation', 'modernized', 'sprouted up' sẽ rất hữu ích.",
+  "samples": {
+    "band7": {
+      "text": "My local area has changed a lot lately. There have been many new apartment buildings and shopping malls built recently, making it much more crowded and busy. On the positive side, the roads have been improved, so traveling to the city center is much faster than before.",
+      "note": "Sử dụng đúng thì hiện tại hoàn thành. Nêu được cả hai mặt tích cực và tiêu cực của sự thay đổi. Từ vựng tự nhiên."
+    },
+    "band8": {
+      "text": "Over the past few years, my neighborhood has undergone a dramatic transformation. It has shifted from a quiet residential suburb into a bustling commercial hub. Several high-rise complexes have sprouted up, providing more housing but also increasing traffic congestion. While I appreciate the new modern amenities, I sometimes miss the peace and quiet of the past.",
+      "note": "Sử dụng từ vựng nâng cao (undergone, transformation, commercial hub, sprouted up, traffic congestion, amenities). Cách dẫn đạt mạch lạc."
+    },
+    "band9": {
+      "text": "In recent years, the local landscape has been fundamentally reshaped by rapid urbanization and infrastructure development. The most striking change is the sheer proliferation of contemporary high-rises and mixed-use developments which have redefined the skyline. While these advancements have certainly bolstered the local economy and enhanced public services, they’ve also introduced challenges such as increased pollution and a loss of traditional community character. It’s a fascinating, yet complex, evolution to witness.",
+      "note": "Sử dụng vốn từ vựng cực kỳ phong phú và học thuật (fundamentally reshaped, urbanization, striking, proliferation, contemporary, mixed-use, redefined, bolstered, evolution). Cách lập luận mang tính phản tư sâu sắc."
+    }
+  },
+  "v": [
+    { "word": "fundamentally reshaped", "meaning": "được tái định hình một cách cơ bản", "ipa": "/ˌfʌndəˈmentəli ˌriːˈʃeɪpt/", "example": "The internet has fundamentally reshaped how we communicate with each other." },
+    { "word": "urbanization", "meaning": "sự đô thị hóa", "ipa": "/ˌɜːrbənəˈzeɪʃn/", "example": "Rapid urbanization often leads to various social and environmental issues." },
+    { "word": "infrastructure development", "meaning": "phát triển cơ sở hạ tầng", "ipa": "/ˈɪnfrəstrʌktʃər dɪˈveləpmənt/", "example": "The government is prioritizing infrastructure development to attract foreign investment." },
+    { "word": "striking change", "meaning": "sự thay đổi đáng kinh ngạc/nổi bật", "ipa": "/ˈstraɪkɪŋ tʃeɪndʒ/", "example": "There has been a striking change in the climate over the last century." },
+    { "word": "proliferation", "meaning": "sự bùng nổ/gia tăng nhanh chóng", "ipa": "/prəˌlɪfəˈreɪʃn/", "example": "The proliferation of smartphones has changed daily life forever." },
+    { "word": "mixed-use development", "meaning": "phát triển đa chức năng (nhà ở + văn phòng + thương mại)", "ipa": "/mɪkst juːs dɪˈveləpmənt/", "example": "Mixed-use developments allow people to live, work, and shop in the same area." },
+    { "word": "redefine the skyline", "meaning": "vẽ lại đường chân trời (thay đổi diện mạo thành phố)", "ipa": "/ˌriːdɪˈfaɪn ðə ˈskaɪlaɪn/", "example": "The completion of the new tower will redefine the city's skyline." },
+    { "word": "bolster", "meaning": "củng cố/tăng cường", "ipa": "/ˈboʊlstər/", "example": "Lowering interest rates can help bolster the housing market." },
+    { "word": "community character", "meaning": "đặc tính cộng đồng", "ipa": "/kəˈmjuːnəti ˈkærəktər/", "example": "Preserving the community character is a priority for many town councils." },
+    { "word": "witness", "meaning": "chứng kiến", "ipa": "/ˈwɪtnəs/", "example": "I was lucky enough to witness the opening ceremony of the Olympics." },
+    { "word": "undergone a transformation", "meaning": "trải qua một sự biến đổi", "ipa": "/ˌʌndərˈɡɔːn ə ˌtrænsfərˈmeɪʃn/", "example": "The old industrial district has undergone a stunning transformation into a tech hub." },
+    { "word": "commercial hub", "meaning": "trung tâm thương mại", "ipa": "/kəˈmɜːrʃl hʌb/", "example": "Singapore is one of the most important commercial hubs in Asia." },
+    { "word": "sprout up", "meaning": "mọc lên nhanh chóng", "ipa": "/spraʊt ʌp/", "example": "New cafes and restaurants are sprouting up all over the city." },
+    { "word": "traffic congestion", "meaning": "tắc nghẽn giao thông", "ipa": "/ˈtræfɪk kənˈdʒestʃən/", "example": "Traffic congestion is a major cause of air pollution in urban areas." },
+    { "word": "amenities", "meaning": "tiện ích", "ipa": "/əˈmenətiz/", "example": "The modern apartment comes with high-end amenities like a rooftop pool." },
+    { "word": "dramatic", "meaning": "ngoạn mục/đáng kể", "ipa": "/drəˈmætɪk/", "example": "There has been a dramatic increase in the number of people working from home." },
+    { "word": "modernize", "meaning": "hiện đại hóa", "ipa": "/ˈmɑːdərnaɪz/", "example": "The company needs to modernize its computer systems to stay competitive." },
+    { "word": "gentrification", "meaning": "sự cải thiện khu phố (đi kèm giá cả tăng)", "ipa": "/ˌdʒentrɪfɪˈkeɪʃn/", "example": "Gentrification often changes the feel and demographic of a neighborhood." },
+    { "word": "population density", "meaning": "mật độ dân số", "ipa": "/ˌpɑːpjuˈleɪʃn ˈdensəti/", "example": "The high population density makes land very expensive in the city center." },
+    { "word": "high-rise complex", "meaning": "tổ hợp nhà cao tầng", "ipa": "/haɪ raɪz ˈkɑːmpleks/", "example": "They are living on the 20th floor of a massive high-rise complex." },
+    { "word": "reconstruction", "meaning": "sự xây dựng lại", "ipa": "/ˌriːkənˈstrʌkʃn/", "example": "Reconstruction of the damaged bridge took over six months." },
+    { "word": "demolition", "meaning": "sự phá dỡ", "ipa": "/ˌdeməˈlɪʃn/", "example": "The old factory is scheduled for demolition next week." },
+    { "word": "renovate", "meaning": "cải tạo/trùng tu", "ipa": "/ˈrenəveɪt/", "example": "They spent a lot of money to renovate their historic house." },
+    { "word": "urban sprawl", "meaning": "sự mở rộng đô thị quá mức", "ipa": "/ˈɜːrbən sprɔːl/", "example": "Urban sprawl can lead to the loss of valuable agricultural land." },
+    { "word": "greenbelt", "meaning": "vành đai xanh (quanh đô thị)", "ipa": "/ˈɡriːnbelt/", "example": "Strict laws are in place to protect the greenbelt from development." },
+    { "word": "pedestrianized", "meaning": "dành riêng cho người đi bộ", "ipa": "/pəˈdestriənaɪzd/", "example": "The main shopping street was pedestrianized last year." },
+    { "word": "commuter belt", "meaning": "vùng ven dành cho người đi làm ở thành phố", "ipa": "/kəˈmjuːtər belt/", "example": "Many families choose to live in the commuter belt for a quieter life." },
+    { "word": "metropolitan", "meaning": "thuộc về thủ phủ/thành phố lớn", "ipa": "/ˌmetrəˈpɑːlɪtən/", "example": "The metropolitan area continues to attract new residents from rural parts." },
+    { "word": "expansion", "meaning": "sự mở rộng", "ipa": "/ɪkˈspænʃn/", "example": "The expansion of the airport has increased the noise levels for neighbors." },
+    { "word": "landmark", "meaning": "địa danh/công trình nổi bật", "ipa": "/ˈlændmɑːrk/", "example": "The Eiffel Tower is the most famous landmark in Paris." },
+    { "word": "historic preservation", "meaning": "bảo tồn di tích lịch sử", "ipa": "/hɪˈstɔːrɪk ˌprezərˈveɪʃn/", "example": "Historic preservation is important for maintaining a city's unique identity." },
+    { "word": "modern architecture", "meaning": "kiến trúc hiện đại", "ipa": "/ˈmɑːdərn ˈɑːrkɪtektʃər/", "example": "I'm not a big fan of the glass and steel of modern architecture." },
+    { "word": "concrete jungle", "meaning": "rừng bê tông (thành phố ngột ngạt)", "ipa": "/ˌkɑːŋkriːt ˈdʒʌŋɡl/", "example": "Living in a concrete jungle can be very stressful for nature lovers." },
+    { "word": "scenic", "meaning": "đẹp (phong cảnh)", "ipa": "/ˈsiːnɪk/", "example": "We took the more scenic route through the forest." },
+    { "word": "affordable housing", "meaning": "nhà ở giá rẻ/vừa túi tiền", "ipa": "/əˈfɔːrdəbl ˈhaʊzɪŋ/", "example": "There is a desperate need for more affordable housing in the city." },
+    { "word": "transport hub", "meaning": "trạm trung chuyển giao thông", "ipa": "/ˈtrænspɔːrt hʌb/", "example": "The main station is a major transport hub for the entire region." },
+    { "word": "noise pollution", "meaning": "ô nhiễm tiếng ồn", "ipa": "/nɔɪz pəˈluːʃn/", "example": "Noise pollution from the nearby highway is a constant problem." },
+    { "word": "air quality", "meaning": "chất lượng không khí", "ipa": "/er ˈkwɑːləti/", "example": "Air quality is usually better after a heavy rain shower." },
+    { "word": "overcrowding", "meaning": "/ˌoʊvərˈkraʊdɪŋ/", "ipa": "tình trạng quá tải/đông đúc", "example": "Overcrowding is a major issue on commuter trains during peak hours." },
+    { "word": "neighborhood", "meaning": "hàng xóm/khu vực lân cận", "ipa": "/ˈneɪbərhʊd/", "example": "He grew up in a very friendly neighborhood where everyone knew each other." },
+    { "word": "identity", "meaning": "bản sắc/nhận dạng", "ipa": "/aɪˈdentəti/", "example": "Each neighborhood has its own unique character and identity." },
+    { "word": "deteriorate", "meaning": "xuống cấp/xấu đi", "ipa": "/dɪˈtɪriəreɪt/", "example": "If the buildings are not maintained, they will eventually deteriorate." },
+    { "word": "flourish", "meaning": "phát triển rực rỡ/thịnh vượng", "ipa": "/ˈflɜːrɪʃ/", "example": "Local shops started to flourish again after the street was renovated." },
+    { "word": "migration", "meaning": "sự di cư", "ipa": "/maɪˈɡreɪʃn/", "example": "Economic opportunities are the main driver of internal migration." },
+    { "word": "industrialization", "meaning": "sự công nghiệp hóa", "ipa": "/ɪnˌdʌstriələˈzeɪʃn/", "example": "The area's character was changed forever by rapid industrialization." },
+    { "word": "landscape", "meaning": "phong cảnh/quang cảnh", "ipa": "/ˈlændskeɪp/", "example": "The volcanic landscape of Hawaii is unlike anywhere else on Earth." },
+    { "word": "suburbs", "meaning": "vùng ngoại ô", "ipa": "/ˈsʌbɜːrbz/", "example": "Many people move to the suburbs to have more space for their families." },
+    { "word": "commercialization", "meaning": "sự thương mại hóa", "ipa": "/kəˌmɜːrʃələˈzeɪʃn/", "example": "The commercialization of traditional festivals can take away their original meaning." },
+    { "word": "legacy", "meaning": "di sản (của quá khứ)", "ipa": "/ˈleɡəsi/", "example": "The architecture remains a lasting legacy of the colonial period." },
+    { "word": "evolution", "meaning": "sự tiến hóa/phát triển", "ipa": "/ˌevəˈluːʃn/", "example": "The evolution of the city from a small port to a global hub is fascinating." }
+  ]
+}

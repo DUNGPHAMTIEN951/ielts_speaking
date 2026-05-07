@@ -1,0 +1,76 @@
+{
+  "id": "q_8",
+  "vocab": [
+    {
+      "word": "wander off",
+      "ipa": "/ˈwɒn.dər ɒf/",
+      "meaning": "đi lang thang xa khỏi lộ trình chính hoặc nhóm",
+      "example": "If I were in the Swiss Alps, I'd love to wander off the beaten track to find a secluded spot by a glacial lake.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind through",
+      "ipa": "/waɪnd θruː/",
+      "meaning": "đi uốn lượn, quanh co qua một nơi nào đó",
+      "example": "I've always dreamed of taking a long walk that winds through the ancient, narrow cobblestone streets of Prague.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑː.vəl æt/",
+      "meaning": "chiêm ngưỡng với sự kinh ngạc và ngưỡng mộ",
+      "example": "A stroll along the Great Wall would be incredible, allowing me to marvel at the sheer scale of the engineering.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stretch out",
+      "ipa": "/stretʃ aʊt/",
+      "meaning": "trải dài ra (về không gian hoặc tầm nhìn)",
+      "example": "I’d choose a coastal path where the horizon stretches out indefinitely, giving a sense of absolute freedom.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut across",
+      "ipa": "/kʌt əˈkrɒs/",
+      "meaning": "đi tắt ngang qua (một khu vực)",
+      "example": "I would love to cut across the vast meadows of the English countryside during the golden hour.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "ẩn mình/nằm ở một nơi hẻo lánh, khó tìm",
+      "example": "My goal would be to find a tiny village tucked away in the mountains that isn't mentioned in any guidebooks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak in",
+      "ipa": "/səʊk ɪn/",
+      "meaning": "thấm nhuần/hấp thụ (vẻ đẹp hoặc bầu không khí)",
+      "example": "Walking through a redwood forest would be a spiritual experience, just to soak in the silence and the scent of the trees.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "trudge along",
+      "ipa": "/trʌdʒ əˈlɒŋ/",
+      "meaning": "bước đi chậm chạp, nặng nề (thường vì mệt nhưng đầy kiên trì)",
+      "example": "Even if it were raining, I wouldn't mind trudging along the rugged cliffs of Iceland just for the dramatic views.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift toward",
+      "ipa": "/drɪft təˈwɔːrd/",
+      "meaning": "vô tình hoặc thong thả đi về hướng nào đó",
+      "example": "In a city like Paris, I’d just let my feet lead the way and slowly drift toward the Seine as the sun sets.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊ.vər/",
+      "meaning": "suy ngẫm/nghĩ ngợi kỹ về điều gì đó trong khi đi bộ",
+      "example": "I find that taking a long walk in a quiet park is the best time to mull over life's big decisions.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

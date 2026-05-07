@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "a rainy day",
+      "ipa": "/ə ˈreɪni deɪ/",
+      "meaning": "những ngày khó khăn/cần tiền khẩn cấp",
+      "example": "Most people use savings accounts to put some money aside for a rainy day.",
+      "type": "idiom"
+    },
+    {
+      "word": "nest egg",
+      "ipa": "/nest eɡ/",
+      "meaning": "khoản tiền tiết kiệm dự phòng cho tương lai (thường là khi nghỉ hưu)",
+      "example": "Banks provide a secure environment for individuals to build up a substantial nest egg over the years.",
+      "type": "idiom"
+    },
+    {
+      "word": "peace of mind",
+      "ipa": "/piːs əv maɪnd/",
+      "meaning": "sự an tâm/thanh thản",
+      "example": "Keeping large sums of cash at home is risky, so using a bank gives people much-needed peace of mind.",
+      "type": "idiom"
+    },
+    {
+      "word": "feather one's nest",
+      "ipa": "/ˈfeðər wʌnz nest/",
+      "meaning": "tích góp tiền bạc cho bản thân (thường dùng để chỉ việc làm giàu)",
+      "example": "Through clever investments and high-interest accounts, savvy customers can effectively feather their nest.",
+      "type": "idiom"
+    },
+    {
+      "word": "break the bank",
+      "ipa": "/breɪk ðə bæŋk/",
+      "meaning": "tốn rất nhiều tiền/chi hết sạch tiền (ngữ cảnh vay vốn để không phải chi một lúc)",
+      "example": "Taking out a personal loan allows people to make large purchases without having to break the bank all at once.",
+      "type": "idiom"
+    },
+    {
+      "word": "tide someone over",
+      "ipa": "/taɪd ˈsʌmwʌn ˈoʊvər/",
+      "meaning": "giúp ai đó vượt qua giai đoạn khó khăn (về tài chính)",
+      "example": "Banks offer credit facilities or overdrafts that can tide small businesses over during periods of low cash flow.",
+      "type": "idiom"
+    },
+    {
+      "word": "stretch one's money",
+      "ipa": "/stretʃ wʌnz ˈmʌni/",
+      "meaning": "tiết kiệm/chi tiêu khéo léo để tiền dùng được lâu hơn",
+      "example": "By using automated budgeting tools provided by banks, consumers can learn how to stretch their money further.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the red",
+      "ipa": "/ɪn ðə red/",
+      "meaning": "trong tình trạng nợ nần/âm tiền",
+      "example": "Banks notify users when their account is in the red, helping them avoid further financial penalties.",
+      "type": "idiom"
+    },
+    {
+      "word": "bolt-hole",
+      "ipa": "/ˈboʊlthəʊl/",
+      "meaning": "nơi trú ẩn an toàn (nghĩa bóng: nơi giữ tiền an toàn)",
+      "example": "For many, a reputable bank acts as a financial bolt-hole where their life savings are protected from inflation.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep track of",
+      "ipa": "/kiːp træk əv/",
+      "meaning": "theo dõi/kiểm soát (chi tiêu)",
+      "example": "Online banking platforms make it incredibly easy to keep track of every penny spent throughout the month.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

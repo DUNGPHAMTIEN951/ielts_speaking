@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "squirrel away",
+      "ipa": "/ˈskwɜːrəl əˈweɪ/",
+      "meaning": "cất giấu hoặc dự trữ tiền bạc ở một nơi an toàn (như con sóc cất hạt)",
+      "example": "Many individuals use high-interest accounts to squirrel away a portion of their income for long-term goals.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tide over",
+      "ipa": "/taɪd ˈoʊvər/",
+      "meaning": "giúp ai đó vượt qua giai đoạn khó khăn (thường bằng cách cho vay tiền)",
+      "example": "Overdraft facilities are designed to tide customers over until their next paycheck arrives.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw down",
+      "ipa": "/drɔː daʊn/",
+      "meaning": "rút tiền từ một nguồn quỹ hoặc khoản vay đã được phê duyệt",
+      "example": "Homeowners often use banks to draw down equity from their mortgages to fund home renovations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lay out",
+      "ipa": "/leɪ aʊt/",
+      "meaning": "chi ra một khoản tiền lớn cho một mục đích cụ thể",
+      "example": "People rely on bank financing when they aren't prepared to lay out a fortune in cash for a new property.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "put by",
+      "ipa": "/pʊt baɪ/",
+      "meaning": "tiết kiệm tiền định kỳ cho tương lai",
+      "example": "It is wise to put by a small percentage of your earnings every month into a dedicated savings account.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "trông cậy vào nguồn dự phòng khi các nguồn khác thất bại",
+      "example": "Having a substantial bank balance provides a safety net that people can fall back on during an economic downturn.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "settle up",
+      "ipa": "/ˈsetl ʌp/",
+      "meaning": "thanh toán hết nợ nần hoặc tất toán hóa đơn",
+      "example": "Online banking apps make it incredibly simple to settle up with friends after a group dinner.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry over",
+      "ipa": "/ˈkæri ˈoʊvər/",
+      "meaning": "chuyển số dư hoặc nợ sang một kỳ hạn/tài khoản khác",
+      "example": "Credit cards allow users to carry over a balance to the next month, though this usually incurs interest.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "square away",
+      "ipa": "/skwer əˈweɪ/",
+      "meaning": "hoàn tất việc sắp xếp hoặc giải quyết ổn thỏa (vấn đề tài chính)",
+      "example": "Banks help businesses square away their international transactions through secure wire transfers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get by",
+      "ipa": "/ɡet baɪ/",
+      "meaning": "xoay sở để sống sót hoặc đủ chi tiêu",
+      "example": "Low-interest microloans from community banks help small traders get by during the slow season.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

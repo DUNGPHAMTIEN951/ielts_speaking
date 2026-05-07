@@ -1,0 +1,76 @@
+{
+  "id": "q_22",
+  "vocab": [
+    {
+      "word": "take up",
+      "ipa": "/teɪk ʌp/",
+      "meaning": "bắt đầu một thói quen hoặc sở thích mới",
+      "example": "I’ve recently decided to take up tennis to improve my cardiovascular health.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get into",
+      "ipa": "/ɡet ˈɪntə/",
+      "meaning": "trở nên say mê hoặc bắt đầu quan tâm đến điều gì",
+      "example": "I really got into swimming after watching the Olympics last year.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burn off",
+      "ipa": "/bɜːrn ɔːf/",
+      "meaning": "đốt cháy năng lượng hoặc calo",
+      "example": "Playing a high-intensity football match is the best way to burn off steam after a stressful day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp hoặc duy trì tốc độ với người khác",
+      "example": "It's quite a challenge to keep up with the professional runners in my local club.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "warm to",
+      "ipa": "/wɔːrm tu/",
+      "meaning": "bắt đầu thấy thích cái gì đó (sau một thời gian)",
+      "example": "I wasn't a fan of yoga at first, but I've slowly started to warm to it over the months.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "build up",
+      "ipa": "/bɪld ʌp/",
+      "meaning": "gia tăng hoặc củng cố (sức mạnh, thể lực)",
+      "example": "Cycling every morning has helped me build up my stamina significantly.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toss around",
+      "ipa": "/tɔːs əˈraʊnd/",
+      "meaning": "ném qua ném lại (bóng) hoặc chơi đùa nhẹ nhàng",
+      "example": "On weekends, I just love heading to the park to toss around a frisbee with my friends.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cheer on",
+      "ipa": "/tʃɪər ɒn/",
+      "meaning": "cổ vũ nhiệt tình cho ai đó hoặc đội nào đó",
+      "example": "Even though I don't play basketball, I love going to the stadium to cheer on my favorite team.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "work out",
+      "ipa": "/wɜːrk aʊt/",
+      "meaning": "tập thể dục (thường là tại phòng gym hoặc theo bài tập)",
+      "example": "I try to work out at least three times a week to keep myself in good shape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cool down",
+      "ipa": "/kuːl daʊn/",
+      "meaning": "thực hiện các bài tập nhẹ để điều hòa cơ thể sau khi vận động mạnh",
+      "example": "It is essential to cool down properly after a long run to avoid muscle stiffness.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

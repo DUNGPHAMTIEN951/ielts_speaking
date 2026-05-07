@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "sedentary lifestyle",
+      "ipa": "/ˈsed.ən.tər.i ˈlaɪf.staɪl/",
+      "meaning": "lối sống ít vận động",
+      "example": "Walking regularly is my primary way to combat the negative effects of a sedentary lifestyle caused by my office job.",
+      "type": "collocation"
+    },
+    {
+      "word": "strenuous exercise",
+      "ipa": "/ˈstren.ju.əs ˈek.sə.saɪz/",
+      "meaning": "bài tập cường độ cao/nặng nhọc",
+      "example": "I wouldn't call it strenuous exercise, but walking ten thousand steps a day certainly keeps me active.",
+      "type": "collocation"
+    },
+    {
+      "word": "unwind mentally",
+      "ipa": "/ʌnˈwaɪnd ˈmen.təl.i/",
+      "meaning": "thư giãn đầu óc",
+      "example": "A long walk by the river is the perfect opportunity to unwind mentally after a taxing day.",
+      "type": "collocation"
+    },
+    {
+      "word": "pavements",
+      "ipa": "/ˈpeɪv.mənts/",
+      "meaning": "vỉa hè/đường đi bộ (thường dùng trong bối cảnh hạ tầng)",
+      "example": "The local council has recently improved the pavements, making it much more inviting to walk around the city.",
+      "type": "collocation"
+    },
+    {
+      "word": "environmental footprint",
+      "ipa": "/ɪnˌvaɪ.rənˈmen.təl ˈfʊt.prɪnt/",
+      "meaning": "dấu chân môi trường (tác động đến môi trường)",
+      "example": "I try to walk as much as possible to reduce my carbon emissions and minimize my environmental footprint.",
+      "type": "collocation"
+    },
+    {
+      "word": "meandering path",
+      "ipa": "/miˈæn.dər.ɪŋ pɑːθ/",
+      "meaning": "con đường ngoằn ngoèo, uốn lượn",
+      "example": "There is a beautiful meandering path through the local woods that I follow every weekend.",
+      "type": "collocation"
+    },
+    {
+      "word": "rejuvenating effect",
+      "ipa": "/rɪˈdʒuː.vən.eɪ.tɪŋ ɪˈfekt/",
+      "meaning": "hiệu ứng làm trẻ hóa/hồi phục sức sống",
+      "example": "Being out in the fresh air has a truly rejuvenating effect on my overall well-being.",
+      "type": "collocation"
+    },
+    {
+      "word": "scenic route",
+      "ipa": "/ˈsiː.nɪk ruːt/",
+      "meaning": "tuyến đường có phong cảnh đẹp",
+      "example": "If I'm not in a hurry, I'll always take the scenic route home to enjoy the greenery.",
+      "type": "collocation"
+    },
+    {
+      "word": "pedestrian zone",
+      "ipa": "/pəˈdes.tri.ən zəʊn/",
+      "meaning": "khu phố đi bộ",
+      "example": "The city center has been converted into a pedestrian zone, which makes walking so much more enjoyable and safe.",
+      "type": "collocation"
+    },
+    {
+      "word": "physical stamina",
+      "ipa": "/ˈfɪz.ɪ.kəl ˈstæm.ɪ.nə/",
+      "meaning": "sức bền thể chất",
+      "example": "Daily walking has significantly boosted my physical stamina, allowing me to hike for hours without fatigue.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

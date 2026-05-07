@@ -1,0 +1,76 @@
+{
+  "id": "q_9",
+  "vocab": [
+    {
+      "word": "snap up",
+      "ipa": "/snæp ʌp/",
+      "meaning": "nhanh tay chụp lấy (một khoảnh khắc hoặc khung cảnh đẹp)",
+      "example": "Whenever I see a rainbow after a storm, I immediately reach for my phone to snap up the moment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃəʊ ɒf/",
+      "meaning": "phô diễn, làm nổi bật vẻ đẹp của cái gì đó",
+      "example": "I find that wide-angle lenses really show off the vastness of a mountain range.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick out",
+      "ipa": "/pɪk aʊt/",
+      "meaning": "nhận ra hoặc chọn ra một chi tiết nổi bật trong một khung cảnh lớn",
+      "example": "The camera allows me to pick out small, interesting details in a sprawling cityscape that the naked eye might miss.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật hẳn lên (so với xung quanh)",
+      "example": "I love taking photos where a single red flower stands out against a backdrop of green fields.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại, xem lại (kỷ niệm hoặc ảnh cũ)",
+      "example": "I take photos of scenic views primarily so I can look back on my travels with fondness years later.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brighten up",
+      "ipa": "/ˈbraɪ.tən ʌp/",
+      "meaning": "làm rạng rỡ, làm bừng sáng (khung hình hoặc tâm trạng)",
+      "example": "A few well-composed shots of a sun-drenched beach can really brighten up my digital photo album.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "crop out",
+      "ipa": "/krɒp aʊt/",
+      "meaning": "cắt bỏ (những phần không mong muốn trong ảnh)",
+      "example": "If there are too many tourists in the frame, I usually try to crop them out to keep the focus on the landscape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass on",
+      "ipa": "/pɑːs ɒn/",
+      "meaning": "truyền lại, chia sẻ (cho người khác)",
+      "example": "Taking photos is my way of passing on the beauty of my hometown to friends who live abroad.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block off",
+      "ipa": "/blɒk ɒf/",
+      "meaning": "ngăn cách, bao bọc (tạo khung cho bức ảnh)",
+      "example": "I like to use overhanging branches to block off the top of the frame, creating a natural border for the lake view.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sum up",
+      "ipa": "/sʌm ʌp/",
+      "meaning": "tóm gọn, lột tả được bản chất của (một khung cảnh/vẻ đẹp)",
+      "example": "Sometimes a single photograph of a sunset can perfectly sum up the peaceful atmosphere of an entire trip.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

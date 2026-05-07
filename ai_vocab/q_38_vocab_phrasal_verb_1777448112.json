@@ -1,0 +1,76 @@
+{
+  "id": "q_38",
+  "vocab": [
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌkl daʊn/",
+      "meaning": "bắt đầu học tập/làm việc một cách nghiêm túc và chăm chỉ",
+      "example": "A quiet room makes it much easier to knuckle down and finish a challenging assignment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "ngăn chặn (âm thanh, ánh sáng hoặc sự xao nhãng)",
+      "example": "I need a study space that helps me block out the ambient noise from the street.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "hấp thụ (kiến thức hoặc bầu không khí) một cách dễ dàng",
+      "example": "In a peaceful setting, your brain is better primed to soak up complex information.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɒf/",
+      "meaning": "mất tập trung, để tâm trí lơ đãng hoặc buồn ngủ",
+      "example": "If the environment is too cluttered or dimly lit, I tend to drift off rather than stay focused.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear out",
+      "ipa": "/klɪər aʊt/",
+      "meaning": "dọn dẹp, loại bỏ những thứ không cần thiết",
+      "example": "I always clear out my desk before a study session to minimize visual distractions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊvər/",
+      "meaning": "ngẫm nghĩ, suy ngẫm kỹ lưỡng về một vấn đề",
+      "example": "A tranquil environment provides the mental space needed to mull over difficult concepts.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up for",
+      "ipa": "/ɡɪər ʌp fər/",
+      "meaning": "chuẩn bị sẵn sàng cho cái gì",
+      "example": "Setting the right mood with lighting helps me gear up for a long night of revision.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒər ʌp tu/",
+      "meaning": "đạt tới tiêu chuẩn, kỳ vọng",
+      "example": "The local library is great, but it doesn't always measure up to my needs for total silence.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tide over",
+      "ipa": "/taɪd ˈəʊvər/",
+      "meaning": "giúp ai đó duy trì/vượt qua một giai đoạn (về năng lượng hoặc sự tập trung)",
+      "example": "Having a comfortable chair and some water nearby can tide me over during a three-hour study marathon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔːr ˈəʊvər/",
+      "meaning": "nghiên cứu, xem xét kỹ lưỡng (tài liệu, sách vở)",
+      "example": "I love a well-lit corner where I can pore over my research notes for hours on end.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

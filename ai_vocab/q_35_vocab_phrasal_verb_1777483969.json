@@ -1,0 +1,76 @@
+{
+  "id": "q_35",
+  "vocab": [
+    {
+      "word": "sprout up",
+      "ipa": "/spraʊt ʌp/",
+      "meaning": "nảy mầm, bắt đầu mọc lên nhanh chóng",
+      "example": "I remember being so excited to see the tiny green shoots of my beans sprout up after just a few days.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pot up",
+      "ipa": "/pɒt ʌp/",
+      "meaning": "cho cây vào chậu (thường là khi cây đã lớn hơn)",
+      "example": "Once the seedlings were strong enough, my grandmother helped me pot them up into larger terracotta containers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "die back",
+      "ipa": "/daɪ bæk/",
+      "meaning": "héo úa hoặc tàn đi (thường là tạm thời theo mùa)",
+      "example": "The lilies I planted would die back in the winter, but they always returned more beautiful the following spring.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "thrive on",
+      "ipa": "/θraɪv ɒn/",
+      "meaning": "phát triển cực kỳ tốt nhờ vào một điều kiện nào đó",
+      "example": "I tried growing cacti because they seemed to thrive on the intense sunlight on my bedroom windowsill.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "nurse back to health",
+      "ipa": "/nɜːs bæk tuː helθ/",
+      "meaning": "chăm sóc (cây) khỏe lại sau khi bị héo hoặc bệnh",
+      "example": "I found a withered aloe vera plant and spent weeks trying to nurse it back to health with careful watering.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take over",
+      "ipa": "/teɪk ˈəʊ.vər/",
+      "meaning": "mọc lan ra và chiếm lấy toàn bộ không gian",
+      "example": "The mint I planted in the garden started to take over the entire flowerbed because it grew so aggressively.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut back",
+      "ipa": "/kʌt bæk/",
+      "meaning": "tỉa bớt cành lá để cây phát triển tốt hơn",
+      "example": "My father taught me how to cut back the rose bushes in autumn to encourage new growth for the next year.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dry out",
+      "ipa": "/draɪ aʊt/",
+      "meaning": "khô héo hoàn toàn do thiếu nước",
+      "example": "I once forgot to water my marigolds during a heatwave, and they completely dried out within a few days.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig up",
+      "ipa": "/dɪɡ ʌp/",
+      "meaning": "đào lên (thường là cây lấy củ hoặc để chuyển chỗ)",
+      "example": "There was a sense of magic in digging up the potatoes I had planted and seeing how much they had grown underground.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm lộ ra hoặc thúc đẩy (vẻ đẹp, màu sắc, tiềm năng)",
+      "example": "The organic fertilizer we used really helped to bring out the vibrant colors of the hibiscus flowers.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

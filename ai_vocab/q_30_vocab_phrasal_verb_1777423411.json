@@ -1,0 +1,76 @@
+{
+  "id": "q_30",
+  "vocab": [
+    {
+      "word": "slip on",
+      "ipa": "/slɪp ɒn/",
+      "meaning": "xỏ giày vào một cách nhanh chóng (không cần buộc dây)",
+      "example": "I'm a big fan of loafers because they are so easy to slip on when I'm in a rush to head out.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wear out",
+      "ipa": "/weə(r) aʊt/",
+      "meaning": "dùng đến mức mòn, hỏng hoặc rách",
+      "example": "I tend to wear out my running shoes within six months because I jog on asphalt every single morning.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, gây chú ý",
+      "example": "I love sneakers with vibrant colors that really stand out and make a statement with a simple outfit.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "splash out on",
+      "ipa": "/splæʃ aʊt ɒn/",
+      "meaning": "chi một khoản tiền lớn để mua cái gì (thường là đồ xa xỉ)",
+      "example": "Every once in a while, I like to splash out on a pair of high-end Italian leather boots as a treat for myself.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go with",
+      "ipa": "/ɡəʊ wɪð/",
+      "meaning": "hợp với (quần áo, phong cách)",
+      "example": "White trainers are my go-to choice because they seem to go with almost everything in my wardrobe.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hold up",
+      "ipa": "/həʊld ʌp/",
+      "meaning": "vẫn còn bền, giữ được chất lượng tốt sau thời gian dài sử dụng",
+      "example": "I’ve had these hiking boots for five years and they’ve held up remarkably well despite the rugged conditions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take off",
+      "ipa": "/teɪk ɒf/",
+      "meaning": "cởi giày ra",
+      "example": "In many Asian cultures, it is customary to take off your shoes before entering someone's home.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃəʊ ɒf/",
+      "meaning": "khoe ra, phô trương vẻ đẹp của cái gì",
+      "example": "I wore my new limited-edition sneakers to the party just to show them off to my friends.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stock up on",
+      "ipa": "/stɒk ʌp ɒn/",
+      "meaning": "mua dự trữ số lượng lớn",
+      "example": "Whenever there's a sale at the sports store, I stock up on basic canvas shoes for daily wear.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "throw on",
+      "ipa": "/θrəʊ ɒn/",
+      "meaning": "xỏ đại/mặc đại cái gì đó vào một cách cẩu thả/nhanh chóng",
+      "example": "If I'm just going to the local grocery store, I'll just throw on a pair of old flip-flops.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

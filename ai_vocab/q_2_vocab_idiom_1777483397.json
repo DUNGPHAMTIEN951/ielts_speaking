@@ -1,0 +1,76 @@
+{
+  "id": "q_2",
+  "vocab": [
+    {
+      "word": "move the needle",
+      "ipa": "/muːv ðə ˈniː.dəl/",
+      "meaning": "tạo ra sự thay đổi đáng kể/có tác động lớn",
+      "example": "A major victory in an international tournament can really move the needle in terms of national morale and sports funding.",
+      "type": "idiom"
+    },
+    {
+      "word": "a safe pair of hands",
+      "ipa": "/ə seɪf peər əv hændz/",
+      "meaning": "người đáng tin cậy/người có khả năng xử lý tốt công việc",
+      "example": "In team sports, the captain is expected to be a safe pair of hands, especially when the pressure is at its peak.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep your head in the game",
+      "ipa": "/kiːp jɔːr hed ɪn ðə ɡeɪm/",
+      "meaning": "giữ sự tập trung hoàn toàn vào việc đang làm",
+      "example": "The fans are incredibly passionate, but players need to keep their head in the game to avoid making costly mistakes.",
+      "type": "idiom"
+    },
+    {
+      "word": "call the shots",
+      "ipa": "/kɔːl ðə ʃɒts/",
+      "meaning": "chỉ huy/đưa ra những quyết định quan trọng",
+      "example": "In our culture, the coach is highly respected as the one who calls the shots and determines the team's strategy.",
+      "type": "idiom"
+    },
+    {
+      "word": "go the extra mile",
+      "ipa": "/ɡəʊ ðə ˈek.strə maɪl/",
+      "meaning": "nỗ lực nhiều hơn mức mong đợi",
+      "example": "Winning a championship requires every player to go the extra mile during training sessions.",
+      "type": "idiom"
+    },
+    {
+      "word": "level the score",
+      "ipa": "/ˈlev.əl ðə skɔːr/",
+      "meaning": "gỡ hòa/trả đũa (mang nghĩa tích cực trong thể thao)",
+      "example": "The stadium erupted in cheers when the home team managed to level the score in the final seconds of the match.",
+      "type": "idiom"
+    },
+    {
+      "word": "par for the course",
+      "ipa": "/pɑːr fɔːr ðə kɔːrs/",
+      "meaning": "điều bình thường/điều tất yếu xảy ra",
+      "example": "Heated debates about football results are just par for the course at most local coffee shops here.",
+      "type": "idiom"
+    },
+    {
+      "word": "get a second wind",
+      "ipa": "/ɡet ə ˈsek.ənd wɪnd/",
+      "meaning": "hồi sức/tìm lại được nguồn năng lượng mới",
+      "example": "After a tough first half, the team seemed to get a second wind and dominated the rest of the game.",
+      "type": "idiom"
+    },
+    {
+      "word": "on the home stretch",
+      "ipa": "/ɒn ðə həʊm stretʃ/",
+      "meaning": "đang ở giai đoạn cuối/chặng nước rút của một hành trình",
+      "example": "As the tournament enters the home stretch, the excitement among the public reaches a fever pitch.",
+      "type": "idiom"
+    },
+    {
+      "word": "jump the gun",
+      "ipa": "/dʒʌmp ðə ɡʌn/",
+      "meaning": "vội vàng/hành động quá sớm trước thời điểm thích hợp",
+      "example": "Fans shouldn't jump the gun and celebrate the trophy before the final whistle has actually blown.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

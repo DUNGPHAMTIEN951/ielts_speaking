@@ -1,0 +1,76 @@
+{
+  "id": "q_6",
+  "vocab": [
+    {
+      "word": "tactile feedback",
+      "ipa": "/ˈtæktaɪl ˈfiːdbæk/",
+      "meaning": "phản hồi xúc giác (cảm giác khi gõ phím)",
+      "example": "I prefer using a mechanical desktop keyboard because it provides much better tactile feedback than a laptop.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "ergonomic design",
+      "ipa": "/ˌɜːrɡəˈnɒmɪk dɪˈzaɪn/",
+      "meaning": "thiết kế công thái học (tối ưu cho tư thế người dùng)",
+      "example": "To prevent wrist strain during long working hours, I invested in a keyboard with an ergonomic design.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "workstation setup",
+      "ipa": "/ˈwɜːrksteɪʃn ˈsetʌp/",
+      "meaning": "cấu hình/cách bố trí không gian làm việc",
+      "example": "My current workstation setup includes a high-end desktop keyboard for maximum productivity.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "typing speed and accuracy",
+      "ipa": "/ˈtaɪpɪŋ spiːd ənd ˈækjərəsi/",
+      "meaning": "tốc độ và độ chính xác khi đánh máy",
+      "example": "I find that my typing speed and accuracy improve significantly when I use a full-sized laptop keyboard.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "muscle memory",
+      "ipa": "/ˈmʌsl ˈmeməri/",
+      "meaning": "trí nhớ cơ bắp",
+      "example": "Since I've used the same laptop for years, my muscle memory allows me to type effortlessly without looking at the keys.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "versatility and portability",
+      "ipa": "/ˌvɜːrsəˈtɪləti ənd ˌpɔːrtəˈbɪləti/",
+      "meaning": "sự linh hoạt và tính di động",
+      "example": "Laptops offer unparalleled versatility and portability, allowing me to type from almost anywhere.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "key travel",
+      "ipa": "/kiː ˈtrævl/",
+      "meaning": "độ lún của phím (khoảng cách phím di chuyển khi nhấn)",
+      "example": "I dislike modern ultra-thin laptops because the key travel is too shallow for a comfortable typing experience.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "peripheral device",
+      "ipa": "/pəˈrɪfərəl dɪˈvaɪs/",
+      "meaning": "thiết bị ngoại vi",
+      "example": "Even when using a laptop, I often plug in an external keyboard as my primary peripheral device for typing.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "seamless transition",
+      "ipa": "/ˈsiːmləs trænˈzɪʃn/",
+      "meaning": "sự chuyển đổi mượt mà",
+      "example": "The layouts are quite similar, so there's a seamless transition between my office desktop and my home laptop.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "digital nomad",
+      "ipa": "/ˈdɪdʒɪtl ˈnəʊmæd/",
+      "meaning": "người làm việc tự do trên nền tảng số (hay di chuyển)",
+      "example": "As a digital nomad, I rely exclusively on my laptop keyboard to get work done while traveling.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

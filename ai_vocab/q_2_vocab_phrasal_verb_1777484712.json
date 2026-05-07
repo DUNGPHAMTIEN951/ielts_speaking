@@ -1,0 +1,76 @@
+{
+  "id": "q_2",
+  "vocab": [
+    {
+      "word": "root for",
+      "ipa": "/ruːt fɔːr/",
+      "meaning": "ủng hộ, cổ vũ hết mình cho một đội/người nào đó",
+      "example": "In my country, whenever the national football team plays, everyone stays glued to their screens to root for them.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring together",
+      "ipa": "/brɪŋ təˈɡeð.ər/",
+      "meaning": "gắn kết mọi người lại với nhau",
+      "example": "Team sports are immensely popular because they have this unique ability to bring together people from all walks of life.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "play out",
+      "ipa": "/pleɪ aʊt/",
+      "meaning": "diễn ra, xảy ra (thường là một trận đấu hoặc tình huống)",
+      "example": "It’s fascinating to watch how different strategies play out on the field during a high-stakes basketball match.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up for",
+      "ipa": "/ɡɪər ʌp fɔːr/",
+      "meaning": "chuẩn bị sẵn sàng cho một sự kiện/trận đấu",
+      "example": "Local communities often gear up for annual amateur tournaments, which create a very festive atmosphere.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "live up to",
+      "ipa": "/lɪv ʌp tuː/",
+      "meaning": "đáp ứng được (kỳ vọng, danh tiếng)",
+      "example": "The hype surrounding the derby match was huge, and fortunately, the players' performance really lived up to the billing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, xuất chúng",
+      "example": "While individual skills help a player stand out, in our culture, we value collective effort above all else.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bounce back",
+      "ipa": "/baʊns bæk/",
+      "meaning": "vực dậy, hồi phục sau thất bại",
+      "example": "Fans admire teams that can bounce back from a losing streak with even more determination.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "build up",
+      "ipa": "/bɪld ʌp/",
+      "meaning": "gia tăng, bồi đắp (sức mạnh, sự tự tin hoặc sự phấn khích)",
+      "example": "Participating in group sports is a fantastic way for children to build up their social skills and confidence.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "kick off",
+      "ipa": "/kɪk ɒf/",
+      "meaning": "bắt đầu, khai mạc (thường dùng cho bóng đá)",
+      "example": "The tournament is set to kick off next week, and the excitement in my neighborhood is already palpable.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dựa vào (một kế hoạch hoặc sự hỗ trợ khi gặp khó khăn)",
+      "example": "In team sports, when an individual makes a mistake, they can always fall back on their teammates for support.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

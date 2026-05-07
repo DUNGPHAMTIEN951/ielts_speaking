@@ -1,0 +1,76 @@
+{
+  "id": "q_1",
+  "vocab": [
+    {
+      "word": "pull together",
+      "ipa": "/pʊl təˈɡeðər/",
+      "meaning": "phối hợp, đoàn kết cùng nhau làm việc",
+      "example": "Even when we were trailing behind, the team managed to pull together and win in the final minutes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up",
+      "ipa": "/ˈmeʒər ʌp/",
+      "meaning": "đạt tiêu chuẩn, đủ khả năng cạnh tranh",
+      "example": "I was worried I wouldn't measure up to the other players in the academy, but I held my own.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "try out for",
+      "ipa": "/traɪ aʊt fər/",
+      "meaning": "thi tuyển vào một đội tuyển",
+      "example": "In middle school, I decided to try out for the volleyball team on a whim and actually made the cut.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall behind",
+      "ipa": "/fɔːl bɪˈhaɪnd/",
+      "meaning": "tụt lại phía sau (về điểm số hoặc thể lực)",
+      "example": "During pre-season training, if you don't keep up with the drills, you quickly fall behind the rest of the squad.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sit out",
+      "ipa": "/sɪt aʊt/",
+      "meaning": "không tham gia (do chấn thương hoặc quyết định của huấn luyện viên)",
+      "example": "I had to sit out several matches last year because of a recurring ankle injury.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cheer on",
+      "ipa": "/tʃɪər ɒn/",
+      "meaning": "cổ vũ nồng nhiệt cho ai đó",
+      "example": "Even when I wasn't on the pitch, I was always on the sidelines cheering on my teammates.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "warm up",
+      "ipa": "/wɔːrm ʌp/",
+      "meaning": "khởi động trước khi thi đấu/tập luyện",
+      "example": "Our coach always insisted that we warm up thoroughly to prevent any preventable muscle strains.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌkl daʊn/",
+      "meaning": "bắt đầu nỗ lực, tập trung làm việc nghiêm túc",
+      "example": "As the championship approached, we all had to knuckle down and intensify our training regime.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bounce back",
+      "ipa": "/baʊns bæk/",
+      "meaning": "vực dậy, phục hồi nhanh chóng sau thất bại",
+      "example": "It was a tough loss, but the team's ability to bounce back in the next game was truly impressive.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass up",
+      "ipa": "/pæs ʌp/",
+      "meaning": "từ bỏ, bỏ lỡ (một cơ hội)",
+      "example": "I was offered a spot on the regional team, but I had to pass up the opportunity due to my final exams.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

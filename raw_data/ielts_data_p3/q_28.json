@@ -1,0 +1,52 @@
+{
+  "id": "q_28",
+  "topic": "Shoes",
+  "q": "Do you like to wear shoes that are comfortable or good-looking?",
+  "examiner_note": "Nói về sự ưu tiên. Sử dụng 'priority', 'balance', 'daily well-being', 'aesthetic appeal'.",
+  "samples": {
+    "band7": {
+      "text": "I try to find a balance, but comfort is definitely my priority. I spend a lot of time on my feet, so having shoes that provide good support and don't cause pain is essential for my daily well-being. Good-looking shoes are nice, but not if they hurt.",
+      "note": "Sử dụng từ nối và lý giải thực tế tốt (priority, support, well-being)."
+    },
+    "band8": {
+      "text": "While I appreciate aesthetic appeal, I never sacrifice comfort for style. I believe that footwear should primarily serve its functional purpose, which is to protect and support our feet. I tend to look for brands that successfully merge both elements, but if I have to choose, comfort always wins out.",
+      "note": "Sử dụng từ vựng hay (sacrifice, primarily, functional purpose, merge, wins out)."
+    },
+    "band9": {
+      "text": "I’m firmly of the opinion that comfort is non-negotiable. I find that poorly fitting shoes can negatively impact one’s entire day and even lead to long-term physical issues. Therefore, I meticulously select footwear that offers superior ergonomic support, even if it means compromising slightly on the latest fashion trends.",
+      "note": "Sử dụng từ vựng ở mức độ cao (non-negotiable, meticulously, ergonomic, compromising)."
+    }
+  },
+  "v": [
+    {
+      "word": "non-negotiable",
+      "meaning": "không thể thương lượng/thỏa hiệp",
+      "ipa": "/ˌnɑːn nɪˈɡəʊʃiəbl/",
+      "example": "Quality is non-negotiable for our products."
+    },
+    {
+      "word": "ergonomic",
+      "meaning": "công thái học",
+      "ipa": "/ˌɜːrɡəˈnɑːmɪk/",
+      "example": "The chair has an ergonomic design."
+    },
+    {
+      "word": "aesthetic appeal",
+      "meaning": "vẻ đẹp thẩm mỹ",
+      "ipa": "/esˈθetɪk əˈpiːl/",
+      "example": "The building has a great aesthetic appeal."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "superior",
+      "meaning": "vượt trội",
+      "ipa": "/suːˈpɪriər/",
+      "example": "This model offers superior performance."
+    }
+  ],
+  "similar_questions": [
+    "Do you think shoes are more important than clothes?",
+    "What do you think of high heels?"
+  ]
+}

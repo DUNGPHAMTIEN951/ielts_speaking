@@ -1,0 +1,76 @@
+{
+  "id": "q_7",
+  "vocab": [
+    {
+      "word": "look out over",
+      "ipa": "/lʊk aʊt ˈəʊvə/",
+      "meaning": "có tầm nhìn hướng ra (một khu vực rộng lớn)",
+      "example": "There's a rooftop café in the city center that looks out over the entire harbor.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "be tucked away",
+      "ipa": "/bi tʌkt əˈweɪ/",
+      "meaning": "được ẩn mình, nằm ở nơi kín đáo/yên tĩnh",
+      "example": "There is a hidden gem of a park tucked away behind the high-rise buildings that offers a serene lake view.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, cảnh đẹp)",
+      "example": "I love heading to the cliffs at sunset to soak up the breathtaking scenery.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "feast one's eyes on",
+      "ipa": "/fiːst wʌnz aɪz ɒn/",
+      "meaning": "mãn nhãn, say sưa ngắm nhìn cái gì đó đẹp đẽ",
+      "example": "If you hike to the summit, you can feast your eyes on the lush green valleys below.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dot around",
+      "ipa": "/dɒt əˈraʊnd/",
+      "meaning": "nằm rải rác ở khắp nơi",
+      "example": "There are several quaint little pagodas dotted around the mountainside that provide spectacular vantage points.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open out",
+      "ipa": "/ˈəʊpən aʊt/",
+      "meaning": "mở rộng tầm mắt (không gian trở nên rộng lớn hơn)",
+      "example": "After walking through the dense forest, the path suddenly opens out onto a stunning panoramic view of the coastline.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stretch away",
+      "ipa": "/stretʃ əˈweɪ/",
+      "meaning": "trải dài ra xa tận chân trời",
+      "example": "From my balcony, the golden rice fields seem to stretch away as far as the eye can see.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "be bordered by",
+      "ipa": "/bi ˈbɔːdəd baɪ/",
+      "meaning": "được bao quanh/bao bọc bởi",
+      "example": "The local river is bordered by weeping willows, creating a very picturesque spot for a weekend stroll.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ tìm thấy (một cảnh đẹp)",
+      "example": "While wandering through the old quarter, I stumbled upon a small balcony with a magnificent view of the cathedral.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "che khuất (tầm nhìn, ánh sáng)",
+      "example": "Fortunately, there are no skyscrapers to block out the mountain views in this part of the city.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

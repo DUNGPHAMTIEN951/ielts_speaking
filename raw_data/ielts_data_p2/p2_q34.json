@@ -1,0 +1,37 @@
+{
+  "q": "Describe a time when you felt proud of a family member",
+  "cue_card": [
+    "Who the person is",
+    "What they did",
+    "When it happened",
+    "And explain why you felt proud of them"
+  ],
+  "examiner_note": "Kể về một thành tựu hoặc hành động đáng khen ngợi của người thân.",
+  "samples": {
+    "band7": "I felt very proud of my younger brother when he won a regional math competition last year. He had studied really hard for months, often staying up late to solve difficult problems. When his name was announced as the winner, I felt so happy because all his hard work finally paid off.",
+    "band8": "I remember feeling immensely proud of my younger brother when he secured first place in a prestigious regional math olympiad. He had demonstrated incredible dedication, spending his weekends practicing complex equations. Seeing him stand on the stage and receive his trophy was a deeply moving moment. It wasn't just about the award; it was about witnessing his resilience and his ability to overcome academic challenges through sheer perseverance.",
+    "band9": "A moment of profound pride for me was when my younger brother triumphed in a highly competitive regional mathematics competition. His preparation was characterized by a level of discipline that was truly remarkable for someone his age. When he was finally recognized as the top performer, it was a validation of his intellectual rigor and his unwavering focus. I felt proud not only of his victory but of the character he developed during the arduous process of preparation."
+  },
+  "v": [
+    {
+      "word": "immensely proud",
+      "ipa": "/ɪˈmensli praʊd/",
+      "meaning": "vô cùng tự hào",
+      "example": "I was immensely proud of her achievement."
+    },
+    {
+      "word": "perseverance",
+      "ipa": "/ˌpɜːrsəˈvɪərəns/",
+      "meaning": "sự kiên trì",
+      "example": "Success requires hard work and perseverance."
+    },
+    {
+      "word": "intellectual rigor",
+      "ipa": "/ˌɪntəˈlektʃuəl ˈrɪɡər/",
+      "meaning": "sự khắt khe về trí tuệ",
+      "example": "The course demands great intellectual rigor."
+    }
+  ],
+  "topic": "Describe a time when you felt proud of a family member",
+  "id": "p2_q34"
+}

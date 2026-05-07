@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "brisk pace",
+      "ipa": "/brɪsk peɪs/",
+      "meaning": "tốc độ đi bộ nhanh và tràn đầy năng lượng",
+      "example": "I try to maintain a brisk pace during my morning commutes to get my heart rate up.",
+      "type": "collocation"
+    },
+    {
+      "word": "pedestrian-friendly",
+      "ipa": "/pəˈdes.tri.ən ˈfrend.li/",
+      "meaning": "thân thiện với người đi bộ (khu vực có vỉa hè tốt, an toàn)",
+      "example": "Living in a pedestrian-friendly neighborhood encourages me to ditch the car for short errands.",
+      "type": "collocation"
+    },
+    {
+      "word": "cardiovascular health",
+      "ipa": "/ˌkɑː.di.əʊˈvæs.kjə.lər helθ/",
+      "meaning": "sức khỏe tim mạch",
+      "example": "I'm acutely aware of the benefits that regular walking has for my cardiovascular health.",
+      "type": "collocation"
+    },
+    {
+      "word": "explore on foot",
+      "ipa": "/ɪkˈsplɔːr ɒn fʊt/",
+      "meaning": "khám phá bằng cách đi bộ",
+      "example": "Whenever I visit a new city, I prefer to explore on foot to stumble upon hidden gems.",
+      "type": "collocation"
+    },
+    {
+      "word": "within walking distance",
+      "ipa": "/wɪˈðɪn ˈwɔː.kɪŋ ˈdɪs.təns/",
+      "meaning": "trong khoảng cách có thể đi bộ được (gần)",
+      "example": "Fortunately, my office is within walking distance, so I can avoid the daily traffic grind.",
+      "type": "collocation"
+    },
+    {
+      "word": "solitary stroll",
+      "ipa": "/ˈsɒl.ɪ.tər.i strəʊl/",
+      "meaning": "việc đi dạo một mình (thường để suy ngẫm)",
+      "example": "A solitary stroll in the evening helps me process my thoughts after a hectic day at work.",
+      "type": "collocation"
+    },
+    {
+      "word": "vibrant atmosphere",
+      "ipa": "/ˈvaɪ.brənt ˈæt.mə.sfɪər/",
+      "meaning": "bầu không khí sôi động",
+      "example": "I love walking through the night market just to soak up the vibrant atmosphere of the city.",
+      "type": "collocation"
+    },
+    {
+      "word": "sturdy footwear",
+      "ipa": "/ˈstɜː.di ˈfʊt.weər/",
+      "meaning": "giày dép chắc chắn, bền bỉ",
+      "example": "Investing in sturdy footwear is essential if you plan on covering long distances every day.",
+      "type": "collocation"
+    },
+    {
+      "word": "urban landscape",
+      "ipa": "/ˈɜː.bən ˈlænd.skeɪp/",
+      "meaning": "cảnh quan đô thị",
+      "example": "Walking allows me to appreciate the intricate details of the urban landscape that I’d miss in a bus.",
+      "type": "collocation"
+    },
+    {
+      "word": "low-impact exercise",
+      "ipa": "/ləʊ ˈɪm.pækt ˈek.sə.saɪz/",
+      "meaning": "bài tập ít gây tác động mạnh lên khớp",
+      "example": "As a low-impact exercise, walking is the perfect way for me to stay fit without risking injury.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

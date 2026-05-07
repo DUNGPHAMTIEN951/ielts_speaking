@@ -1,0 +1,76 @@
+{
+  "id": "q_22",
+  "vocab": [
+    {
+      "word": "a breath of fresh air",
+      "ipa": "/ə breθ əv freʃ er/",
+      "meaning": "một luồng gió mới (trải nghiệm sảng khoái, khác biệt)",
+      "example": "Hiking in the mountains is a breath of fresh air after a long week of being cooped up in the office.",
+      "type": "idiom"
+    },
+    {
+      "word": "recharge my batteries",
+      "ipa": "/ˌriːˈtʃɑːrdʒ maɪ ˈbætəriz/",
+      "meaning": "hồi phục năng lượng, nạp lại năng lượng",
+      "example": "I find that a quick game of badminton helps me recharge my batteries and stay focused on my studies.",
+      "type": "idiom"
+    },
+    {
+      "word": "level the playing field",
+      "ipa": "/ˈlevl ðə ˈpleɪɪŋ fiːld/",
+      "meaning": "tạo ra sự công bằng (trong thi đấu/cơ hội)",
+      "example": "The introduction of better equipment has really leveled the playing field for amateur athletes in this sport.",
+      "type": "idiom"
+    },
+    {
+      "word": "get a second wind",
+      "ipa": "/ɡet ə ˈsekənd wɪnd/",
+      "meaning": "tìm lại được sức lực (sau khi đã mệt mỏi)",
+      "example": "I was exhausted halfway through the marathon, but I managed to get a second wind and finished strong.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep one’s eye on the ball",
+      "ipa": "/kiːp wʌnz aɪ ɒn ðə bɔːl/",
+      "meaning": "tập trung cao độ vào mục tiêu",
+      "example": "To excel in tennis, you really need to keep your eye on the ball and ignore any distractions from the crowd.",
+      "type": "idiom"
+    },
+    {
+      "word": "give it one's best shot",
+      "ipa": "/ɡɪv ɪt wʌnz best ʃɒt/",
+      "meaning": "cố gắng hết sức mình",
+      "example": "I’m not a professional swimmer, but whenever I enter a race, I always give it my best shot.",
+      "type": "idiom"
+    },
+    {
+      "word": "the ball is in your court",
+      "ipa": "/ðə bɔːl ɪz ɪn jɔːr kɔːrt/",
+      "meaning": "quyền quyết định thuộc về bạn (thường dùng trong bối cảnh thi đấu/đối đầu)",
+      "example": "I’ve shown him all the drills; now the ball is in his court to practice and improve his game.",
+      "type": "idiom"
+    },
+    {
+      "word": "blow the competition away",
+      "ipa": "/bloʊ ðə ˌkɑːmpəˈtɪʃn əˈweɪ/",
+      "meaning": "đánh bại đối thủ một cách dễ dàng/vượt xa đối thủ",
+      "example": "With her incredible speed, she managed to blow the competition away in the final 100-meter sprint.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit the ground running",
+      "ipa": "/hɪt ðə ɡraʊnd ˈrʌnɪŋ/",
+      "meaning": "bắt đầu một việc gì đó với sự nhiệt huyết và thành công ngay lập tức",
+      "example": "I’ve just started learning yoga, and I want to hit the ground running by attending classes every day.",
+      "type": "idiom"
+    },
+    {
+      "word": "sink or swim",
+      "ipa": "/sɪŋk ɔːr swɪm/",
+      "meaning": "tự bơi hoặc chìm (phải tự mình xoay sở để thành công)",
+      "example": "Competitive sports often put you in a sink or swim situation, which builds immense mental toughness.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "q_40",
+  "topic": "Studying",
+  "q": "Did you like your school when you were a child?",
+  "examiner_note": "Câu hỏi này về cảm xúc trong quá khứ. \n- **Hướng dẫn trả lời**: Bạn có thể nói 'có' hoặc 'không' (hoặc cả hai tùy giai đoạn). Đề cập đến bạn bè, thầy cô, các hoạt động vui chơi hay cơ sở vật chất. \n- **Mẹo**: Sử dụng các cụm từ như 'fond memories', 'cherished moments', 'a sense of belonging', 'playground', 'extracurricular activities', 'nurturing environment'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I really liked my school when I was a child. I had a lot of friends, and we always played together during the breaks. The teachers were also very kind and they made the lessons easy to understand, which I appreciated a lot.",
+      "note": "Trả lời trực tiếp, ngôn ngữ tự nhiên, sử dụng thì quá khứ tốt. Lý do nêu ra rõ ràng."
+    },
+    "band8": {
+      "text": "I have very fond memories of my primary school years. It was a very nurturing environment where creativity was encouraged. What I loved most were the extracurricular activities, like the choir and the drama club, which gave me a real sense of belonging.",
+      "note": "Sử dụng từ vựng nâng cao ('fond memories', 'nurturing environment', 'sense of belonging'). Cấu trúc câu linh hoạt."
+    },
+    "band9": {
+      "text": "Looking back, I absolutely adored my school. It wasn't just a place of academic learning, but a community that fostered personal growth. I cherished the moments spent on the playground with my peers, and I truly felt that the school provided a solid foundation for my future development.",
+      "note": "Diễn đạt cực kỳ tinh tế ('adored', 'fostered personal growth', 'cherished', 'peers', 'solid foundation'). Cách dùng 'Looking back' rất tự nhiên trong văn nói."
+    }
+  },
+  "v": [
+    { "word": "fond memories", "meaning": "kỷ niệm đẹp", "ipa": "/fɒnd ˈmeməriz/", "example": "I have fond memories of our family holidays by the sea." },
+    { "word": "cherish", "meaning": "trân trọng/yêu thương", "ipa": "/ˈtʃerɪʃ/", "example": "I will always cherish the time we spent together." },
+    { "word": "nurturing environment", "meaning": "môi trường nuôi dưỡng/chăm sóc", "ipa": "/ˈnɜːtʃərɪŋ ɪnˈvaɪrənmənt/", "example": "A nurturing environment is essential for a child's healthy development." },
+    { "word": "sense of belonging", "meaning": "cảm giác thuộc về/gắn kết", "ipa": "/sens əv bɪˈlɒŋɪŋ/", "example": "Joining a club can give people a much-needed sense of belonging." },
+    { "word": "extracurricular activities", "meaning": "hoạt động ngoại khóa", "ipa": "/ˌekstrəkəˈrɪkjələ ækˈtɪvətiz/", "example": "The school offers a wide range of extracurricular activities, from sports to music." },
+    { "word": "playground", "meaning": "sân chơi", "ipa": "/ˈpleɪɡraʊnd/", "example": "The children were playing happily on the school playground." },
+    { "word": "academic learning", "meaning": "việc học học thuật", "ipa": "/ˌækəˈdemɪk ˈlɜːnɪŋ/", "example": "The university focuses on both academic learning and practical research." },
+    { "word": "foster", "meaning": "thúc đẩy/nuôi dưỡng", "ipa": "/ˈfɒstə(r)/", "example": "The program is designed to foster innovation and creativity." },
+    { "word": "personal growth", "meaning": "sự phát triển cá nhân", "ipa": "/ˈpɜːsənl ɡrəʊθ/", "example": "Traveling alone can be a great opportunity for personal growth." },
+    { "word": "solid foundation", "meaning": "nền tảng vững chắc", "ipa": "/ˈsɒlɪd faʊnˈdeɪʃn/", "example": "A good education provides a solid foundation for any career." },
+    { "word": "peer", "meaning": "bạn cùng trang lứa", "ipa": "/pɪə(r)/", "example": "It's important for children to learn how to interact with their peers." },
+    { "word": "adore", "meaning": "yêu quý/ngưỡng mộ", "ipa": "/əˈdɔː(r)/", "example": "I absolutely adore my young nieces and nephews." },
+    { "word": "appreciate", "meaning": "trân trọng/đánh giá cao", "ipa": "/əˈpriːʃieɪt/", "example": "I really appreciate all the help you've given me." },
+    { "word": "childhood", "meaning": "thời thơ ấu", "ipa": "/ˈtʃaɪldhʊd/", "example": "I had a very happy and carefree childhood." },
+    { "word": "primary school", "meaning": "trường tiểu học", "ipa": "/ˈpraɪməri skuːl/", "example": "My primary school was just a short walk from our house." },
+    { "word": "community", "meaning": "cộng đồng", "ipa": "/kəˈmjuːnəti/", "example": "The local community came together to support the family." },
+    { "word": "future development", "meaning": "sự phát triển trong tương lai", "ipa": "/ˈfjuːtʃə dɪˈveləpmənt/", "example": "The company is investing heavily in the future development of its products." },
+    { "word": "supportive", "meaning": "có tính hỗ trợ", "ipa": "/səˈpɔːtɪv/", "example": "My parents have always been very supportive of my choices." },
+    { "word": "inspiring", "meaning": "truyền cảm hứng", "ipa": "/ɪnˈspaɪərɪŋ/", "example": "The teacher gave an inspiring talk about her experiences abroad." },
+    { "word": "memorable", "meaning": "đáng nhớ", "ipa": "/ˈmemərəbl/", "example": "Our wedding day was the most memorable day of my life." },
+    { "word": "creative", "meaning": "sáng tạo", "ipa": "/krieɪˈtɪv/", "example": "She has a very creative mind and is always coming up with new ideas." },
+    { "word": "socialize", "meaning": "giao lưu/xã hội hóa", "ipa": "/ˈsəʊʃəlaɪz/", "example": "Uni is a great place to meet new people and socialize." },
+    { "word": "teamwork", "meaning": "làm việc nhóm", "ipa": "/ˈtiːmwɜːk/", "example": "Good teamwork is essential for the success of any project." },
+    { "word": "friendship", "meaning": "tình bạn", "ipa": "/ˈfrendʃɪp/", "example": "We've maintained a strong friendship for over twenty years." },
+    { "word": "recess", "meaning": "giờ nghỉ/giờ ra chơi", "ipa": "/rɪˈses/", "example": "We used to play football on the field during recess." },
+    { "word": "curriculum", "meaning": "chương trình học", "ipa": "/kəˈrɪkjələm/", "example": "The new school curriculum focuses more on practical skills." },
+    { "word": "educational", "meaning": "có tính giáo dục", "ipa": "/ˌedʒuˈkeɪʃənl/", "example": "The trip to the science museum was very educational." },
+    { "word": "enlightening", "meaning": "mang tính khai sáng/mở mang", "ipa": "/ɪnˈlaɪtnɪŋ/", "example": "The documentary was very enlightening and changed my perspective." },
+    { "word": "atmosphere", "meaning": "bầu không khí", "ipa": "/ˈætməsfɪə(r)/", "example": "There was a very relaxed and friendly atmosphere at the café." },
+    { "word": "facilities", "meaning": "cơ sở vật chất", "ipa": "/fəˈsɪlətiz/", "example": "The university has excellent sports and gym facilities." },
+    { "word": "well-equipped", "meaning": "được trang bị tốt", "ipa": "/ˌwel ɪˈkwɪpt/", "example": "The new science lab is very well-equipped with the latest technology." },
+    { "word": "modern", "meaning": "hiện đại", "ipa": "/ˈmɒdn/", "example": "The office has a very modern and stylish design." },
+    { "word": "traditional", "meaning": "truyền thống", "ipa": "/trəˈdɪʃənl/", "example": "The village is known for its beautiful traditional architecture." },
+    { "word": "diverse", "meaning": "đa dạng", "ipa": "/daɪˈvɜːs/", "example": "The city has a very diverse population from all over the world." },
+    { "word": "inclusive", "meaning": "hòa nhập/toàn diện", "ipa": "/ɪnˈkluːsɪv/", "example": "The school aims to provide an inclusive environment for all students." },
+    { "word": "mentoring", "meaning": "sự cố vấn/hướng dẫn", "ipa": "/ˈmentərɪŋ/", "example": "The university offers a peer mentoring program for freshmen." },
+    { "word": "guidance", "meaning": "sự hướng dẫn", "ipa": "/ˈɡaɪdns/", "example": "I'm looking for some guidance on which career path to choose." },
+    { "word": "opportunity", "meaning": "cơ hội", "ipa": "/ˌɒpəˈtjuːnəti/", "example": "This job is a great opportunity to gain international experience." },
+    { "word": "challenge", "meaning": "thử thách", "ipa": "/ˈtʃælɪndʒ/", "example": "Learning to play the violin is a major challenge." },
+    { "word": "achievement", "meaning": "thành tựu/thành tích", "ipa": "/əˈtʃiːvmənt/", "example": "The Nobel Prize is the highest achievement in many fields." },
+    { "word": "celebration", "meaning": "sự ăn mừng/lễ kỷ niệm", "ipa": "/ˌselɪˈbreɪʃn/", "example": "The whole city joined in the celebration of the national team's victory." },
+    { "word": "tradition", "meaning": "truyền thống", "ipa": "/trəˈdɪʃn/", "example": "It's a family tradition to have a big dinner on Christmas Eve." },
+    { "word": "legacy", "meaning": "di sản", "ipa": "/ˈleɡəsi/", "example": "The old school building is a beautiful architectural legacy." },
+    { "word": "influence", "meaning": "sự ảnh hưởng", "ipa": "/ˈɪnfluəns/", "example": "My parents have had a huge influence on my life values." },
+    { "word": "role model", "meaning": "hình mẫu lý tưởng", "ipa": "/ˈrəʊl ˌmɒdl/", "example": "Many young athletes see her as a great role model." },
+    { "word": "nurture", "meaning": "nuôi dưỡng/bồi đắp", "ipa": "/ˈnɜːtʃə(r)/", "example": "The academy helps to nurture young musical talent." },
+    { "word": "stimulate", "meaning": "kích thích", "ipa": "/ˈstɪmjuleɪt/", "example": "The tax cuts are intended to stimulate the economy." },
+    { "word": "intellect", "meaning": "trí tuệ", "ipa": "/ˈɪntəlekt/", "example": "She was a woman of great intellect and passion." },
+    { "word": "academic", "meaning": "thuộc về học thuật", "ipa": "/ˌækəˈdemɪk/", "example": "He has a very successful academic career in history." },
+    { "word": "pedagogical", "meaning": "thuộc về sư phạm", "ipa": "/ˌpedəˈɡɒdʒɪkl/", "example": "The new teaching method is based on sound pedagogical principles." }
+  ]
+}

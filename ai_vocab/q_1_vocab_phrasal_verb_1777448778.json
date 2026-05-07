@@ -1,0 +1,76 @@
+{
+  "id": "q_1",
+  "vocab": [
+    {
+      "word": "try out for",
+      "ipa": "/traɪ aʊt fɔːr/",
+      "meaning": "tham gia tuyển chọn/thi tuyển vào một đội",
+      "example": "I decided to try out for the local football team last summer, and to my surprise, I made the cut.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒər ʌp tu/",
+      "meaning": "đạt tới tiêu chuẩn hoặc kỳ vọng",
+      "example": "Being part of a varsity team was tough because I constantly felt the need to measure up to the older players.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull together",
+      "ipa": "/pʊl təˈɡeðər/",
+      "meaning": "phối hợp, đồng lòng (đặc biệt trong tình huống khó khăn)",
+      "example": "We were losing by two goals, but we managed to pull together in the second half and win the game.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall behind",
+      "ipa": "/fɔːl bɪˈhaɪnd/",
+      "meaning": "tụt lại phía sau (về điểm số hoặc trình độ)",
+      "example": "If you skip too many practice sessions, you quickly fall behind the rest of the squad in terms of fitness.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sit out",
+      "ipa": "/sɪt aʊt/",
+      "meaning": "không tham gia (do chấn thương hoặc quyết định của huấn luyện viên)",
+      "example": "I had to sit out the championship match due to a minor ankle sprain, which was quite frustrating.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spur on",
+      "ipa": "/spɜːr ɒn/",
+      "meaning": "thúc đẩy, khích lệ đồng đội",
+      "example": "The captain is great at spurring us on when our energy levels start to dip during a long match.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "warm up",
+      "ipa": "/wɔːrm ʌp/",
+      "meaning": "khởi động trước khi thi đấu",
+      "example": "We usually spend about twenty minutes warming up to prevent injuries before the actual game begins.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "face off against",
+      "ipa": "/feɪs ɔːf əˈɡenst/",
+      "meaning": "đối đầu trực tiếp với đối thủ",
+      "example": "Our basketball team is going to face off against our biggest rivals this coming Saturday.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "size up",
+      "ipa": "/saɪz ʌp/",
+      "meaning": "đánh giá, xem xét năng lực của đối thủ",
+      "example": "Before the whistle blew, I spent a few moments sizing up the defenders to find a weakness.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bounce back",
+      "ipa": "/baʊns bæk/",
+      "meaning": "vực dậy, phục hồi sau thất bại",
+      "example": "Although we lost the opening game, the team showed great character to bounce back and win the next three.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

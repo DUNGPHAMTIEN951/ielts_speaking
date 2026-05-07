@@ -1,0 +1,76 @@
+{
+  "id": "q_48",
+  "vocab": [
+    {
+      "word": "embark on",
+      "ipa": "/ɪmˈbɑːk ɒn/",
+      "meaning": "bắt đầu một hành trình, công việc hoặc khóa học mới",
+      "example": "If the opportunity arose, I would love to embark on a rigorous degree in neuroscience to understand the human brain.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bone up on",
+      "ipa": "/bəʊn ʌp ɒn/",
+      "meaning": "học tập chăm chỉ, ôn luyện kỹ lưỡng (thường là để chuẩn bị cho mục đích cụ thể)",
+      "example": "I plan to bone up on data analytics before applying for a master's program in business intelligence.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out into",
+      "ipa": "/brɑːntʃ aʊt ˈɪn.tuː/",
+      "meaning": "mở rộng sang một lĩnh vực mới (khác với chuyên môn hiện tại)",
+      "example": "After years of working in finance, I’m eager to branch out into environmental law to help combat climate change.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tinker with",
+      "ipa": "/ˈtɪŋ.kər wɪð/",
+      "meaning": "tìm tòi, học cách sửa chữa hoặc cải tiến thứ gì đó (đặc biệt là máy móc, công nghệ)",
+      "example": "In the future, I'd like to formally study mechanical engineering because I’ve always loved to tinker with old engines.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wrap one's head around",
+      "ipa": "/ræp wʌnz hed əˈraʊnd/",
+      "meaning": "cố gắng để thấu hiểu một vấn đề cực kỳ phức tạp",
+      "example": "It’s a dream of mine to wrap my head around quantum physics, even though the concepts are notoriously difficult.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "học thêm một thứ gì đó để làm phương án dự phòng",
+      "example": "I'd like to study graphic design so that I have a creative skill set to fall back on if my primary career path changes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "meaning": "học một kỹ năng hoặc ngôn ngữ mới một cách tự nhiên hoặc không quá khó khăn",
+      "example": "I'm hoping to pick up Mandarin through an immersive language program in Beijing next year.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "master the ropes",
+      "ipa": "/ˈmɑː.stər ðə rəʊps/",
+      "meaning": "học cách làm một công việc hoặc hoạt động nào đó một cách thành thạo",
+      "example": "I would love to take a professional culinary course to truly master the ropes of French pastry making.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zero in on",
+      "ipa": "/ˈzɪə.rəʊ ɪn ɒn/",
+      "meaning": "tập trung hoàn toàn vào một chủ đề hoặc khía cạnh cụ thể",
+      "example": "I want to zero in on sustainable development during my post-graduate studies to help build greener cities.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass up",
+      "ipa": "/pɑːs ʌp/",
+      "meaning": "bỏ lỡ/từ chối một cơ hội (thường dùng trong câu điều kiện)",
+      "example": "I wouldn't pass up the chance to study astronomy if a scholarship were offered to me.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

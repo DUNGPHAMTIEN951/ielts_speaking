@@ -1,0 +1,76 @@
+{
+  "id": "q_16",
+  "vocab": [
+    {
+      "word": "hark back to",
+      "ipa": "/hɑːrk bæk tuː/",
+      "meaning": "gợi nhớ về hoặc bắt nguồn từ (một truyền thống trong quá khứ)",
+      "example": "While modern art is often avant-garde, many pieces still hark back to the foundational techniques of the Renaissance.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "break away from",
+      "ipa": "/breɪk əˈweɪ frəm/",
+      "meaning": "thoát khỏi, phá vỡ (những quy tắc hoặc sự gò bó)",
+      "example": "Contemporary artists strive to break away from the rigid conventions of realism that dominated previous centuries.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw on",
+      "ipa": "/drɔː ɒn/",
+      "meaning": "tận dụng, khai thác (kiến thức, kinh nghiệm hoặc nguồn cảm hứng)",
+      "example": "Old masters used to draw on religious themes, whereas today's creators often draw on digital subcultures.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out from",
+      "ipa": "/stænd aʊt frəm/",
+      "meaning": "nổi bật, khác biệt hoàn toàn so với những thứ khác",
+      "example": "Modern installations tend to stand out from traditional sculptures due to their use of unconventional, everyday materials.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "boil down to",
+      "ipa": "/bɔɪl daʊn tuː/",
+      "meaning": "chung quy lại là, cốt lõi là",
+      "example": "The difference between these eras often boils down to the shift from objective beauty to subjective expression.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "play around with",
+      "ipa": "/pleɪ əˈraʊnd wɪð/",
+      "meaning": "thử nghiệm, thay đổi linh hoạt (ý tưởng, phong cách)",
+      "example": "Modern digital artists love to play around with light and pixels in ways that traditional oil painters never could.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "conjure up",
+      "ipa": "/ˈkʌn.dʒər ʌp/",
+      "meaning": "gợi lên (hình ảnh, cảm xúc hoặc ký ức)",
+      "example": "Classical art often aims to conjure up a sense of divine perfection, while modern art might intentionally provoke discomfort.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒ.ər ʌp tuː/",
+      "meaning": "đạt tới tiêu chuẩn, sánh được với",
+      "example": "Critics often debate whether abstract modern pieces can truly measure up to the technical mastery of the old masters.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm nổi bật (một phẩm chất hoặc đặc điểm nào đó)",
+      "example": "The use of bold, clashing colors in modern pop art is designed to bring out the chaotic energy of urban life.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "filter through",
+      "ipa": "/ˈfɪl.tər θruː/",
+      "meaning": "thấm nhuần, được truyền tải qua (một lăng kính hoặc góc nhìn)",
+      "example": "Traditional art was often filtered through the lens of patronage, while modern art is shaped by the artist's personal identity.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_16",
+  "vocab": [
+    {
+      "word": "gawp at",
+      "ipa": "/ɡɔːp æt/",
+      "meaning": "nhìn chằm chằm một cách ngớ ngẩn (vì quá ngạc nhiên hoặc ngưỡng mộ)",
+      "example": "I often find myself gawping at the sheer height of skyscrapers before I even think to take my camera out.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop up",
+      "ipa": "/pɒp ʌp/",
+      "meaning": "mọc lên, xuất hiện bất ngờ (thường nói về các tòa nhà mới)",
+      "example": "There are so many modern art galleries popping up around the city lately, and they make for fantastic photographic subjects.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "che khuất (ánh sáng hoặc tầm nhìn)",
+      "example": "I like to capture how massive apartment blocks can block out the sun, creating dramatic shadows across the street.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick out",
+      "ipa": "/pɪk aʊt/",
+      "meaning": "nhận ra hoặc làm nổi bật một chi tiết nhỏ trong một tổng thể",
+      "example": "With a good macro lens, you can pick out the tiny, intricate carvings on the facade of historical buildings.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toss up",
+      "ipa": "/tɒs ʌp/",
+      "meaning": "phân vân, do dự giữa hai lựa chọn",
+      "example": "It's often a toss-up between taking a wide-angle shot of the whole plaza or focusing on just one balcony.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tower over",
+      "ipa": "/ˈtaʊ.ər ˈəʊ.vər/",
+      "meaning": "cao hơn hẳn, bao trùm lên những thứ xung quanh",
+      "example": "I love the contrast when an old, tiny cottage is towered over by giant, glass financial centers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (bầu không khí)",
+      "example": "I usually spend a few minutes just soaking up the grandeur of a cathedral before I start snapping photos.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out over",
+      "ipa": "/lʊk aʊt ˈəʊ.vər/",
+      "meaning": "nhìn ra từ trên cao",
+      "example": "I always try to get onto rooftops that look out over the city skyline to get the best architectural shots.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "freshen up",
+      "ipa": "/ˈfreʃ.ən ʌp/",
+      "meaning": "làm mới, tân trang lại",
+      "example": "The city council has freshened up many colonial buildings with new paint, making them much more vibrant in photos.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "point out",
+      "ipa": "/pɔɪnt aʊt/",
+      "meaning": "chỉ ra, lưu ý về một điều gì đó",
+      "example": "My architect friend often points out hidden structural details that I would have otherwise ignored in my photography.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

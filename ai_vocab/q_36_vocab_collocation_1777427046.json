@@ -1,0 +1,76 @@
+{
+  "id": "q_36",
+  "vocab": [
+    {
+      "word": "intellectual stamina",
+      "ipa": "/ˌɪntəˈlektʃuəl ˈstæmɪnə/",
+      "meaning": "sức bền trí tuệ",
+      "example": "I find that my intellectual stamina is at its highest in the morning, allowing me to tackle dense research papers.",
+      "type": "collocation"
+    },
+    {
+      "word": "post-lunch lethargy",
+      "ipa": "/poʊst lʌntʃ ˈleθərdʒi/",
+      "meaning": "sự lờ đờ/uể oải sau khi ăn trưa",
+      "example": "I tend to avoid heavy studying in the afternoon to escape the inevitable wave of post-lunch lethargy.",
+      "type": "collocation"
+    },
+    {
+      "word": "prime time",
+      "ipa": "/praɪm taɪm/",
+      "meaning": "thời điểm vàng/thời gian lý tưởng nhất",
+      "example": "The quiet hours between 8 AM and 10 AM are my prime time for rote memorization and deep learning.",
+      "type": "collocation"
+    },
+    {
+      "word": "cognitive load",
+      "ipa": "/ˈkɒɡnətɪv loʊd/",
+      "meaning": "áp lực nhận thức/lượng thông tin não phải xử lý",
+      "example": "I prefer the morning when my cognitive load is still minimal and my mind is relatively uncluttered.",
+      "type": "collocation"
+    },
+    {
+      "word": "a sense of tranquility",
+      "ipa": "/ə sens əv træŋˈkwɪləti/",
+      "meaning": "một cảm giác yên bình/tĩnh lặng",
+      "example": "Studying at dawn provides a sense of tranquility that is often shattered by the hustle of the afternoon.",
+      "type": "collocation"
+    },
+    {
+      "word": "retention rate",
+      "ipa": "/rɪˈtenʃn reɪt/",
+      "meaning": "tỉ lệ ghi nhớ thông tin",
+      "example": "My retention rate seems to plummet in the late afternoon as my brain starts to tire from the day's activities.",
+      "type": "collocation"
+    },
+    {
+      "word": "harness focus",
+      "ipa": "/ˈhɑːrnəs ˈfoʊkəs/",
+      "meaning": "khai thác/tận dụng sự tập trung",
+      "example": "It is much easier for me to harness focus in the morning before my phone starts buzzing with notifications.",
+      "type": "collocation"
+    },
+    {
+      "word": "chronotype",
+      "ipa": "/ˈkrəʊnətaɪp/",
+      "meaning": "kiểu thời gian sinh học (nhóm người sáng hay tối)",
+      "example": "As someone with a morning chronotype, I naturally gravitate toward early study sessions.",
+      "type": "collocation"
+    },
+    {
+      "word": "analytical tasks",
+      "ipa": "/ˌænəˈlɪtɪkl tæsks/",
+      "meaning": "các nhiệm vụ mang tính phân tích",
+      "example": "I reserve the morning for analytical tasks like mathematics, leaving more creative work for the afternoon.",
+      "type": "collocation"
+    },
+    {
+      "word": "mental clarity",
+      "ipa": "/ˈmentl ˈklærəti/",
+      "meaning": "sự minh mẫn về tâm trí",
+      "example": "Waking up early gives me the mental clarity needed to grasp abstract concepts more effectively.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "q_32",
+  "topic": "Studying",
+  "q": "What is the most interesting thing about your studies?",
+  "examiner_note": "Giám khảo muốn thấy sự nhiệt huyết và khả năng mô tả chi tiết của bạn. \n- **Hướng dẫn trả lời**: Đừng chỉ nói 'everything is interesting'. Hãy chọn một khía cạnh cụ thể như: thực hành thí nghiệm, thảo luận nhóm, các dự án thực tế, hoặc một môn học cụ thể. \n- **Mẹo**: Sử dụng các tính từ mạnh như 'fascinating', 'captivating', 'intriguing' và các cụm từ như 'Hands-on experience', 'Practical application'.",
+  "samples": {
+    "band7": {
+      "text": "For me, the most interesting part is the group projects. We get to work with other students to solve real problems. It's not just about reading books; it's about applying what we learn to real-life situations.",
+      "note": "Trả lời tập trung vào một khía cạnh (group projects). Sử dụng cấu trúc 'not just... but also...' gián tiếp."
+    },
+    "band8": {
+      "text": "I find the practical applications of the theories we learn in class to be the most captivating. For instance, being able to conduct experiments in the lab and see the scientific principles in action is truly fascinating and much more engaging than just sitting through lectures.",
+      "note": "So sánh tốt giữa thực hành và lý thuyết. Từ vựng đa dạng ('captivating', 'conduct experiments', 'sitting through lectures')."
+    },
+    "band9": {
+      "text": "The most intriguing aspect of my studies is the interdisciplinary nature of the curriculum. I love the way complex theories from psychology are integrated with data science to predict human behavior. This fusion of different fields keeps me intellectually stimulated and constantly challenged.",
+      "note": "Sử dụng từ vựng ở trình độ rất cao ('intriguing aspect', 'interdisciplinary nature', 'integrated', 'fusion'). Diễn đạt mượt mà, logic."
+    }
+  },
+  "v": [
+    { "word": "intriguing", "meaning": "hấp dẫn, gợi sự tò mò", "ipa": "/ɪnˈtriːɡɪŋ/", "example": "The subject of quantum physics is incredibly intriguing." },
+    { "word": "captivating", "meaning": "làm say đắm, quyến rũ", "ipa": "/ˈkæptɪveɪtɪŋ/", "example": "The professor gave a captivating lecture on the history of art." },
+    { "word": "fascinating", "meaning": "cực kỳ hấp dẫn", "ipa": "/ˈfæsɪneɪtɪŋ/", "example": "I found the documentary about marine biology absolutely fascinating." },
+    { "word": "hands-on experience", "meaning": "kinh nghiệm thực tế/thực hành", "ipa": "/hændz ɒn ɪkˈspɪəriəns/", "example": "The course offers plenty of hands-on experience in the lab." },
+    { "word": "practical application", "meaning": "ứng dụng thực tế", "ipa": "/ˈpræktɪkl ˌæplɪˈkeɪʃn/", "example": "The most important part of the training is the practical application of the new skills." },
+    { "word": "intellectually stimulated", "meaning": "được kích thích về trí tuệ", "ipa": "/ˌɪntəˈlektʃuəli ˈstɪmju leɪtɪd/", "example": "I always feel intellectually stimulated after a good seminar." },
+    { "word": "interdisciplinary", "meaning": "liên ngành", "ipa": "/ˌɪntəˈdɪsəplɪnəri/", "example": "The project takes an interdisciplinary approach to urban planning." },
+    { "word": "fusion", "meaning": "sự kết hợp/hợp nhất", "ipa": "/ˈfjuːʒn/", "example": "The curriculum is a unique fusion of traditional and modern teaching methods." },
+    { "word": "sit through", "meaning": "ngồi chịu trận (một buổi học dài/chán)", "ipa": "/sɪt θruː/", "example": "I had to sit through a three-hour lecture on auditing." },
+    { "word": "engage", "meaning": "thu hút sự tham gia", "ipa": "/ɪnˈɡeɪdʒ/", "example": "The teacher managed to engage all the students in the discussion." },
+    { "word": "in action", "meaning": "đang hoạt động/thực thi", "ipa": "/ɪn ˈækʃn/", "example": "It was great to see the new software in action." },
+    { "word": "aspect", "meaning": "khía cạnh", "ipa": "/ˈæspekt/", "example": "Every aspect of the project was carefully planned." },
+    { "word": "nature of", "meaning": "bản chất của", "ipa": "/ˈneɪtʃə(r) əv/", "example": "The collaborative nature of the study group helped us all improve." },
+    { "word": "integrate", "meaning": "tích hợp", "ipa": "/ˈɪntɪɡreɪt/", "example": "The new system integrates all the different databases into one." },
+    { "word": "constantly challenged", "meaning": "liên tục bị thử thách", "ipa": "/ˈkɒnstəntli ˈtʃælɪndʒd/", "example": "I like this job because I'm constantly challenged to learn new things." },
+    { "word": "group project", "meaning": "dự án nhóm", "ipa": "/ɡruːp ˈprɒdʒekt/", "example": "We have to complete a group project by the end of the term." },
+    { "word": "solve real problems", "meaning": "giải quyết vấn đề thực tế", "ipa": "/sɒlv rɪəl ˈprɒbləmz/", "example": "The engineering department works with local companies to solve real problems." },
+    { "word": "apply", "meaning": "áp dụng", "ipa": "/əˈplaɪ/", "example": "Students are encouraged to apply for internships during the summer." },
+    { "word": "real-life situation", "meaning": "tình huống thực tế", "ipa": "/rɪəl laɪf ˌsɪtʃuˈeɪʃn/", "example": "The training helped me prepare for real-life situations on the job." },
+    { "word": "conduct experiments", "meaning": "tiến hành thí nghiệm", "ipa": "/kənˈdʌkt ɪkˈsperɪmənts/", "example": "Scientists conduct experiments to test their hypotheses." },
+    { "word": "scientific principles", "meaning": "nguyên lý khoa học", "ipa": "/ˌsaɪənˈtɪfɪk ˈprɪnsəplz/", "example": "Understanding basic scientific principles is essential for this course." },
+    { "word": "engaging", "meaning": "cuốn hút/thú vị", "ipa": "/ɪnˈɡeɪdʒɪŋ/", "example": "The story was very engaging from the first page." },
+    { "word": "challenging", "meaning": "thử thách/khó khăn (tích cực)", "ipa": "/ˈtʃælɪndʒɪŋ/", "example": "This is a challenging role, but I'm ready for it." },
+    { "word": "rewarding", "meaning": "đáng công sức/bổ ích", "ipa": "/rɪˈwɔːdɪŋ/", "example": "Teaching is a difficult but very rewarding profession." },
+    { "word": "thought-provoking", "meaning": "gợi suy nghĩ", "ipa": "/ˈθɔːt prəvəʊkɪŋ/", "example": "The film was very thought-provoking and raised important questions." },
+    { "word": "eye-opening", "meaning": "mở mang tầm mắt", "ipa": "/ˈaɪ əʊpnɪŋ/", "example": "Traveling to different countries has been an eye-opening experience for me." },
+    { "word": "peer discussion", "meaning": "thảo luận cùng bạn bè", "ipa": "/pɪə dɪˈskʌʃn/", "example": "Peer discussion is often more effective than traditional lectures." },
+    { "word": "critical debate", "meaning": "tranh luận phản biện", "ipa": "/ˈkrɪtɪkl dɪˈbeɪt/", "example": "The seminar encouraged critical debate on social issues." },
+    { "word": "problem-solving skills", "meaning": "kỹ năng giải quyết vấn đề", "ipa": "/ˈprɒbləm ˈsɒlvɪŋ skɪlz/", "example": "The course aims to enhance students' problem-solving skills." },
+    { "word": "research-led", "meaning": "dẫn dắt bởi nghiên cứu", "ipa": "/rɪˈsɜːtʃ led/", "example": "Our university provides a research-led education across all disciplines." },
+    { "word": "latest developments", "meaning": "những phát triển mới nhất", "ipa": "/ˈleɪtɪst dɪˈveləpmənts/", "example": "It's important to keep up with the latest developments in technology." },
+    { "word": "innovative methods", "meaning": "phương pháp sáng tạo", "ipa": "/ˈɪnəveɪtɪv ˈmeθədz/", "example": "The school uses innovative methods to teach languages." },
+    { "word": "broaden one's perspective", "meaning": "mở rộng quan điểm", "ipa": "/ˈbrɔːdn wʌnz pəˈspektɪv/", "example": "Reading widely helps you broaden your perspective on the world." },
+    { "word": "analytical thinking", "meaning": "tư duy phân tích", "ipa": "/ˌænəˈlɪtɪkl ˈθɪŋkɪŋ/", "example": "Maths and science help develop strong analytical thinking." },
+    { "word": "creativity and innovation", "meaning": "sáng tạo và đổi mới", "ipa": "/ˌkrieɪˈtɪvəti ənd ˌɪnəˈveɪʃn/", "example": "The hub provides a space for creativity and innovation." },
+    { "word": "field trip", "meaning": "chuyến đi thực tế", "ipa": "/ˈfiːld trɪp/", "example": "We went on a field trip to the local museum." },
+    { "word": "guest lecture", "meaning": "bài giảng của khách mời", "ipa": "/ɡest ˈlektʃə(r)/", "example": "We had a guest lecture from a famous entrepreneur yesterday." },
+    { "word": "case study", "meaning": "nghiên cứu tình huống", "ipa": "/keɪs ˈstʌdi/", "example": "In business class, we analyze case studies of successful companies." },
+    { "word": "hands-on approach", "meaning": "tiếp cận thực tế", "ipa": "/hændz ɒn əˈprəʊtʃ/", "example": "The teacher uses a hands-on approach to teaching science." },
+    { "word": "active participation", "meaning": "sự tham gia tích cực", "ipa": "/ˈæktɪv pɑːˌtɪsɪˈpeɪʃn/", "example": "Active participation in class discussions is encouraged." },
+    { "word": "collaborative environment", "meaning": "môi trường hợp tác", "ipa": "/kəˈlæbərətɪv ɪnˈvaɪrənmənt/", "example": "The university fosters a collaborative environment for research." },
+    { "word": "global outlook", "meaning": "tầm nhìn toàn cầu", "ipa": "/ˈɡləʊbl ˈaʊtlʊk/", "example": "Studying international relations provides you with a global outlook." },
+    { "word": "specialized training", "meaning": "đào tạo chuyên sâu", "ipa": "/ˈspeʃəlaɪzd ˈtreɪnɪŋ/", "example": "The program offers specialized training in cybersecurity." },
+    { "word": "professional growth", "meaning": "sự phát triển nghề nghiệp", "ipa": "/prəˈfeʃənl ɡrəʊθ/", "example": "Internships are an essential part of professional growth." },
+    { "word": "skill acquisition", "meaning": "việc tiếp thu kỹ năng", "ipa": "/skɪl ˌækwɪˈzɪʃn/", "example": "The first month of the course focuses on basic skill acquisition." },
+    { "word": "lifelong learning", "meaning": "học tập suốt đời", "ipa": "/ˌlaɪflɒŋ ˈlɜːnɪŋ/", "example": "University education instills a love for lifelong learning." },
+    { "word": "curiosity", "meaning": "sự tò mò", "ipa": "/ˌkjʊəriˈɒsəti/", "example": "Intellectual curiosity is the driving force behind most scientific discoveries." },
+    { "word": "discovery", "meaning": "khám phá", "ipa": "/dɪˈskʌvəri/", "example": "The lab is a place for discovery and innovation." },
+    { "word": "personal fulfillment", "meaning": "sự mãn nguyện cá nhân", "ipa": "/ˈpɜːsənl fʊlˈfɪlmənt/", "example": "Achieving your goals brings a great sense of personal fulfillment." },
+    { "word": "intellectual growth", "meaning": "sự phát triển trí tuệ", "ipa": "/ˌɪntəˈlektʃuəl ɡrəʊθ/", "example": "College is a time for significant intellectual growth." }
+  ]
+}

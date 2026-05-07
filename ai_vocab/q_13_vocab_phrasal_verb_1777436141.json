@@ -1,0 +1,76 @@
+{
+  "id": "q_13",
+  "vocab": [
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bəl əˈpɒn/",
+      "meaning": "tình cờ phát hiện ra (cảnh đẹp)",
+      "example": "I love wandering off the beaten track because you often stumble upon breathtaking vistas that aren't on any map.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak in",
+      "ipa": "/səʊk ɪn/",
+      "meaning": "đắm mình vào, thưởng ngoạn một cách chậm rãi",
+      "example": "Before I even take my camera out, I like to just stand there and soak in the panoramic view for a few minutes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "filter out",
+      "ipa": "/ˈfɪl.tər aʊt/",
+      "meaning": "loại bỏ (ánh sáng chói, chi tiết rác) bằng kính lọc",
+      "example": "I usually use a polarizing lens to filter out the glare from the water's surface when photographing the coastline.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm nổi bật lên (màu sắc, chi tiết)",
+      "example": "The post-processing phase is crucial because it helps to bring out the subtle golden hues of the sunset.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "crop out",
+      "ipa": "/krɒp aʊt/",
+      "meaning": "cắt bỏ (những phần không mong muốn trong ảnh)",
+      "example": "If there are any unsightly power lines in the frame, I usually just crop them out later to keep the landscape looking pristine.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "miss out on",
+      "ipa": "/mɪs aʊt ɒn/",
+      "meaning": "bỏ lỡ (khoảnh khắc/ánh sáng đẹp)",
+      "example": "I always set my alarm for 5 AM because I don't want to miss out on the soft, ethereal light of dawn.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "play around with",
+      "ipa": "/pleɪ əˈraʊnd wɪð/",
+      "meaning": "thử nghiệm/nghịch các cài đặt khác nhau",
+      "example": "When I'm at a waterfall, I like to play around with slow shutter speeds to create that silky water effect.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spruce up",
+      "ipa": "/spruːs ʌp/",
+      "meaning": "chỉnh sửa, làm cho đẹp hơn (hậu kỳ)",
+      "example": "A few minor adjustments to the contrast and saturation can really spruce up a landscape photo and make it pop.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, gây ấn tượng mạnh",
+      "example": "That solitary tree against the vast snow-covered field really made the composition stand out.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp (xu hướng/công nghệ nhiếp ảnh)",
+      "example": "I try to keep up with the latest drone technology to capture scenery from unique aerial perspectives.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

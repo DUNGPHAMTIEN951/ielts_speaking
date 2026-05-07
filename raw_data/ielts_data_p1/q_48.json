@@ -1,0 +1,72 @@
+{
+  "id": "q_48",
+  "topic": "Studying",
+  "q": "What would you like to study in the future if you had the chance?",
+  "examiner_note": "Đây là câu hỏi giả định (Hypothetical) về ước mơ. \n- **Hướng dẫn trả lời**: Sử dụng cấu trúc 'If I had the chance, I would...'. Bạn có thể chọn một môn học hoàn toàn mới (Astronomy, Marine Biology, Fine Arts) hoặc một kỹ năng (Photography, Coding). Giải thích tại sao nó lôi cuốn bạn. \n- **Mẹo**: Sử dụng các cụm từ như 'If I were to embark on...', 'have always been intrigued by', 'broaden my horizons', 'personal enrichment', 'unexplored territory'.",
+  "samples": {
+    "band7": {
+      "text": "If I had the chance, I would like to study Photography. I've always loved taking photos of my family and my travels, and I want to learn how to do it professionally. I think it would be a very creative and fun hobby to have.",
+      "note": "Sử dụng đúng cấu trúc điều kiện loại 2. Giải thích lý do đơn giản và chân thực. Từ vựng ổn định."
+    },
+    "band8": {
+      "text": "If I were to embark on a new academic journey, I'd definitely choose Astronomy. I've always been intrigued by the mysteries of the universe and would love to gain a deeper understanding of celestial bodies and space exploration. It's a field that has always fascinated me.",
+      "note": "Sử dụng từ vựng nâng cao ('embark on', 'intrigued by', 'celestial bodies'). Cấu trúc câu linh hoạt."
+    },
+    "band9": {
+      "text": "Given the opportunity, I would love to delve into the field of Artificial Intelligence. I am profoundly fascinated by the potential of Phạm Tiến Dũng Gia Sư to revolutionize our lives, and I believe that gaining a comprehensive understanding of its mechanisms would be both intellectually stimulating and personally enriching.",
+      "note": "Từ vựng ở trình độ rất cao ('delve into', 'profoundly fascinated', 'revolutionize', 'intellectually stimulating', 'personally enriching'). Diễn đạt cực kỳ lôi cuốn và mang tính học thuật."
+    }
+  },
+  "v": [
+    { "word": "embark on", "meaning": "bắt đầu (một hành trình/dự án)", "ipa": "/ɪmˈbɑːk ɒn/", "example": "After graduation, she plans to embark on a career in journalism." },
+    { "word": "intrigued by", "meaning": "bị thu hút/tò mò bởi", "ipa": "/ɪnˈtriːɡd baɪ/", "example": "I've always been intrigued by the history of ancient Egypt." },
+    { "word": "celestial bodies", "meaning": "thiên thể (hành tinh, ngôi sao...)", "ipa": "/səˈlestiəl ˈbɒdiz/", "example": "Astronomy is the study of celestial bodies like stars, planets, and galaxies." },
+    { "word": "delve into", "meaning": "đi sâu vào nghiên cứu", "ipa": "/delv ˈɪntuː/", "example": "The historian's new book delves into the causes of the French Revolution." },
+    { "word": "revolutionize", "meaning": "cách mạng hóa", "ipa": "/ˌrevəˈluːʃənaɪz/", "example": "The invention of the smartphone has revolutionized the way we communicate." },
+    { "word": "intellectually stimulating", "meaning": "kích thích trí tuệ", "ipa": "/ˌɪntəˈlektʃuəli ˈstɪmjuleɪtɪŋ/", "example": "I found the philosophy seminar to be incredibly intellectually stimulating." },
+    { "word": "personally enriching", "meaning": "làm giàu thêm giá trị bản thân", "ipa": "/ˈpɜːsənəli ɪnˈrɪtʃɪŋ/", "example": "Traveling to different countries is a personally enriching experience that broadens your mind." },
+    { "word": "broaden horizons", "meaning": "mở rộng tầm hiểu biết", "ipa": "/ˈbrɔːdn həˈraɪznz/", "example": "Learning a new language is a great way to broaden your horizons and meet new people." },
+    { "word": "unexplored territory", "meaning": "vùng đất chưa được khám phá/lĩnh vực mới", "ipa": "/ˌʌnɪkˈsplɔːd ˈterətri/", "example": "For many scientists, the deep ocean remains unexplored territory." },
+    { "word": "personal enrichment", "meaning": "sự làm giàu/nâng cao giá trị bản thân", "ipa": "/ˈpɜːsənl ɪnˈrɪtʃmənt/", "example": "Taking an evening class in cooking is purely for personal enrichment." },
+    { "word": "Astronomy", "meaning": "Thiên văn học", "ipa": "/əˈstrɒnəmi/", "example": "He spent every clear night looking at the stars through his telescope, pursuing his interest in Astronomy." },
+    { "word": "Marine Biology", "meaning": "Sinh học biển", "ipa": "/məˈriːn baɪˈɒlədʒi/", "example": "Studying marine biology in the Great Barrier Reef was a dream come true for her." },
+    { "word": "Fine Arts", "meaning": "Nghệ thuật chính thống/Mỹ thuật", "ipa": "/faɪn ɑːts/", "example": "After high school, he decided to pursue a degree in Fine Arts and become a professional painter." },
+    { "word": "Psychology", "meaning": "Tâm lý học", "ipa": "/saɪˈkɒlədʒi/", "example": "She chose to study Psychology to better understand human behavior and mental health." },
+    { "word": "Archaeology", "meaning": "Khảo cổ học", "ipa": "/ˌɑːkiˈɒlədʒi/", "example": "The discovery of the ancient tomb was a major breakthrough in the field of Archaeology." },
+    { "word": "Philosophy", "meaning": "Triết học", "ipa": "/fəˈlɒsəfi/", "example": "Reading ancient Greek Philosophy can give us a new perspective on modern problems." },
+    { "word": "Linguistics", "meaning": "Ngôn ngữ học", "ipa": "/lɪŋˈɡwɪstɪks/", "example": "His fascination with language led him to pursue a career in Linguistics." },
+    { "word": "Sociology", "meaning": "Xã hội học", "ipa": "/ˌsəʊsiˈɒlədʒi/", "example": "Sociology helps us understand the complex structures and dynamics of our society." },
+    { "word": "Anthropology", "meaning": "Nhân chủng học", "ipa": "/ˌænθrəˈpɒlədʒi/", "example": "Anthropology involves studying human cultures and societies from around the world." },
+    { "word": "Political Science", "meaning": "Khoa học chính trị", "ipa": "/pəˈlɪtɪkl ˈsaɪəns/", "example": "He decided to study Political Science to better understand how governments work." },
+    { "word": "curiosity", "meaning": "sự tò mò", "ipa": "/ˌkjʊəriˈɒsəti/", "example": "Intellectual curiosity is the driving force behind most scientific discoveries." },
+    { "word": "passion", "meaning": "niềm đam mê", "ipa": "/ˈpæʃn/", "example": "Working in a job that you're passionate about is very rewarding." },
+    { "word": "inspiration", "meaning": "nguồn cảm hứng", "ipa": "/ˌɪnspəˈreɪʃn/", "example": "Nature has always been a great source of inspiration for my art." },
+    { "word": "creative expression", "meaning": "sự biểu đạt sáng tạo", "ipa": "/krieɪˈtɪv ɪkˈspreʃn/", "example": "Photography provides a wonderful outlet for creative expression." },
+    { "word": "lifelong learning", "meaning": "học tập suốt đời", "ipa": "/ˌlaɪflɒŋ ˈlɜːnɪŋ/", "example": "University education should instill a love for lifelong learning." },
+    { "word": "academic pursuit", "meaning": "sự theo đuổi học thuật", "ipa": "/ˌækəˈdemɪk pəˈsjuːt/", "example": "His whole life was dedicated to academic pursuit and the search for truth." },
+    { "word": "attain", "meaning": "đạt được", "ipa": "/əˈteɪn/", "example": "She worked incredibly hard to attain her goals and fulfill her potential." },
+    { "word": "aspiration", "meaning": "khát vọng/nguyện vọng", "ipa": "/ˌæspəˈreɪʃn/", "example": "He has high aspirations for his future career in law." },
+    { "word": "opportunity", "meaning": "cơ hội", "ipa": "/ˌɒpəˈtjuːnəti/", "example": "Studying abroad was a once-in-a-lifetime opportunity for me." },
+    { "word": "vision", "meaning": "tầm nhìn", "ipa": "/ˈvɪʒn/", "example": "The company's vision is to create a more sustainable future for everyone." },
+    { "word": "milestone", "meaning": "cột mốc", "ipa": "/ˈmaɪlstəʊn/", "example": "Starting your own business is a major milestone in your professional life." },
+    { "word": "achievement", "meaning": "thành tích/thành tựu", "ipa": "/əˈtʃiːvmənt/", "example": "Winning the science fair was a proud achievement for the whole class." },
+    { "word": "recognition", "meaning": "sự công nhận", "ipa": "/ˌrekəɡˈnɪʃn/", "example": "His groundbreaking research received international recognition in the field of medicine." },
+    { "word": "fulfillment", "meaning": "sự mãn nguyện", "ipa": "/fʊlˈfɪlmənt/", "example": "Helping others gives her a real sense of personal fulfillment and purpose." },
+    { "word": "adventure", "meaning": "cuộc phiêu lưu", "ipa": "/ədˈventʃə(r)/", "example": "Traveling to a new country is always an exciting adventure." },
+    { "word": "voyage", "meaning": "chuyến đi hành trình", "ipa": "/ˈvɔɪɪdʒ/", "example": "The first voyage to the moon was a momentous event for all of humanity." },
+    { "word": "quest", "meaning": "cuộc tìm kiếm/theo đuổi", "ipa": "/kwest/", "example": "Scientists are on a constant quest for knowledge and understanding of the universe." },
+    { "word": "uncover", "meaning": "khám phá/tiết lộ", "ipa": "/ʌnˈkʌvə(r)/", "example": "The detective worked hard to uncover the truth behind the mysterious crime." },
+    { "word": "discovery", "meaning": "sự khám phá", "ipa": "/dɪˈskʌvəri/", "example": "The discovery of penicillin changed the face of modern medicine." },
+    { "word": "pioneer", "meaning": "người tiên phong", "ipa": "/ˌpaɪəˈnɪə(r)/", "example": "Marie Curie was a pioneer in the field of radioactivity research." },
+    { "word": "trailblazer", "meaning": "người đi đầu/mở đường", "ipa": "/ˈtreɪlbleɪzə(r)/", "example": "She was a trailblazer for women in the technology industry." },
+    { "word": "innovation", "meaning": "sự đổi mới/sáng tạo", "ipa": "/ˌɪnəˈveɪʃn/", "example": "The tech company is known for its constant innovation and cutting-edge products." },
+    { "word": "cutting-edge", "meaning": "tiên tiến nhất", "ipa": "/ˌkʌtɪŋ ˈedʒ/", "example": "The research lab is doing cutting-edge work on renewable energy sources." },
+    { "word": "advanced", "meaning": "nâng cao/tiên tiến", "ipa": "/ədˈvɑːnst/", "example": "She is taking an advanced course in theoretical physics." },
+    { "word": "specialized", "meaning": "chuyên môn hóa", "ipa": "/ˈspeʃəlaɪzd/", "example": "The hospital provides specialized care for heart disease patients." },
+    { "word": "discipline", "meaning": "ngành học/môn học", "ipa": "/ˈdɪsəplɪn/", "example": "Sociology is a fascinating academic discipline that studies human society." },
+    { "word": "expert", "meaning": "chuyên gia", "ipa": "/ˈekspɜːt/", "example": "He is a leading expert in the field of cybersecurity." },
+    { "word": "authority", "meaning": "người có uy tín/thẩm quyền", "ipa": "/ɔːˈθɒrəti/", "example": "The professor is a world authority on ancient Greek history." },
+    { "word": "intellect", "meaning": "trí tuệ", "ipa": "/ˈɪntəlekt/", "example": "She is a woman of great intellect and passion for her research." },
+    { "word": "wisdom", "meaning": "sự thông thái", "ipa": "/ˈwɪzdəm/", "example": "The elder was respected for her great wisdom and experience in life." }
+  ]
+}

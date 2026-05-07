@@ -1,0 +1,76 @@
+{
+  "id": "q_33",
+  "vocab": [
+    {
+      "word": "a steep learning curve",
+      "ipa": "/ə stiːp ˈlɜː.nɪŋ kɜːv/",
+      "meaning": "một khoảng thời gian khó khăn để học kỹ năng mới",
+      "example": "I found the advanced statistics module quite daunting as it had a incredibly steep learning curve.",
+      "type": "idiom"
+    },
+    {
+      "word": "burn the candle at both ends",
+      "ipa": "/bɜːn ðə ˈkæn.dəl æt bəʊθ endz/",
+      "meaning": "làm việc quá sức, thức khuya dậy sớm",
+      "example": "During finals week, I often have to burn the candle at both ends to keep up with the heavy workload.",
+      "type": "idiom"
+    },
+    {
+      "word": "bite off more than one can chew",
+      "ipa": "/baɪt ɒf mɔːr ðæn wʌn kæn tʃuː/",
+      "meaning": "ôm đồm quá nhiều thứ, quá sức mình",
+      "example": "I think I bit off more than I could chew by enrolling in five elective courses this semester.",
+      "type": "idiom"
+    },
+    {
+      "word": "dry as dust",
+      "ipa": "/draɪ æz dʌst/",
+      "meaning": "rất khô khan, nhàm chán",
+      "example": "To be honest, some of the theoretical lectures are as dry as dust and fail to capture my interest.",
+      "type": "idiom"
+    },
+    {
+      "word": "be snowed under with",
+      "ipa": "/biː snəʊd ˈʌn.də wɪð/",
+      "meaning": "ngập đầu trong công việc/bài tập",
+      "example": "The only thing I dislike is being constantly snowed under with assignments and lab reports.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit the books",
+      "ipa": "/hɪt ðə bʊks/",
+      "meaning": "vùi đầu vào học tập",
+      "example": "I'm not a fan of having to hit the books every single weekend instead of socializing with friends.",
+      "type": "idiom"
+    },
+    {
+      "word": "pass with flying colors",
+      "ipa": "/pɑːs wɪð ˈflaɪ.ɪŋ ˈkʌl.əz/",
+      "meaning": "vượt qua (kỳ thi) với điểm số rất cao",
+      "example": "While I struggle with the pressure, the feeling of passing a difficult exam with flying colors is quite rewarding.",
+      "type": "idiom"
+    },
+    {
+      "word": "put something on the back burner",
+      "ipa": "/pʊt ˈsʌm.θɪŋ ɒn ðə bæk ˈbɜː.nə/",
+      "meaning": "tạm gác lại một việc gì đó (để ưu tiên việc khác)",
+      "example": "Because of my thesis, I’ve had to put my personal hobbies on the back burner, which is quite frustrating.",
+      "type": "idiom"
+    },
+    {
+      "word": "it's not my cup of tea",
+      "ipa": "/ɪts nɒt maɪ kʌp əv tiː/",
+      "meaning": "không phải sở thích/thứ mình thích",
+      "example": "Rote learning and memorizing long lists of dates is really not my cup of tea.",
+      "type": "idiom"
+    },
+    {
+      "word": "the ivory tower",
+      "ipa": "/ðiː ˈaɪ.vər.i ˈtaʊ.ə/",
+      "meaning": "tháp ngà (ám chỉ môi trường học thuật xa rời thực tế)",
+      "example": "Sometimes I feel like my course is stuck in an ivory tower, focusing too much on theory rather than practical application.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

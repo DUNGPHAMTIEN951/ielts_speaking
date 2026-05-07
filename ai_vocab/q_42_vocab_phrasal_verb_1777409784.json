@@ -1,0 +1,76 @@
+{
+  "id": "q_42",
+  "vocab": [
+    {
+      "word": "pass on",
+      "ipa": "/pæs ɒn/",
+      "meaning": "truyền đạt (kiến thức, kinh nghiệm)",
+      "example": "Teachers do not just deliver facts; they pass on invaluable life experiences to the next generation.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "khơi dậy, làm bộc lộ (tiềm năng, tài năng)",
+      "example": "A great educator knows how to bring out the best in every student, even those who lack confidence.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spark off",
+      "ipa": "/spɑːrk ɒf/",
+      "meaning": "khơi mào, kích thích (sự tò mò, hứng thú)",
+      "example": "An engaging lecture can spark off a lifelong interest in a particular subject.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sink in",
+      "ipa": "/sɪŋk ɪn/",
+      "meaning": "được hiểu thấu đáo, thấm nhuần (kiến thức)",
+      "example": "Teachers use various analogies to ensure that complex theories truly sink in for their pupils.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "point out",
+      "ipa": "/pɔɪnt aʊt/",
+      "meaning": "chỉ ra (lỗi sai, vấn đề) để cải thiện",
+      "example": "It is crucial for a mentor to point out mistakes constructively so students can learn from them.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp (tốc độ bài giảng, xu hướng mới)",
+      "example": "Without a teacher's guidance, many students would struggle to keep up with the fast-paced curriculum.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "break down",
+      "ipa": "/breɪk daʊn/",
+      "meaning": "chia nhỏ, phân tích (thông tin khó hiểu)",
+      "example": "Expert teachers are able to break down abstract concepts into digestible pieces of information.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spur on",
+      "ipa": "/spɜːr ɒn/",
+      "meaning": "thúc đẩy, khích lệ ai đó tiến tới",
+      "example": "The encouragement of a tutor can spur a student on to achieve academic excellence beyond their expectations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look up to",
+      "ipa": "/lʊk ʌp tuː/",
+      "meaning": "ngưỡng mộ và kính trọng",
+      "example": "Teachers serve as role models whom students look up to for moral and intellectual guidance.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cater to",
+      "ipa": "/ˈkeɪ.tər tuː/",
+      "meaning": "phục vụ, đáp ứng (nhu cầu, phong cách học tập khác nhau)",
+      "example": "Effective instructors cater to the diverse learning needs of their students by using various teaching methods.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

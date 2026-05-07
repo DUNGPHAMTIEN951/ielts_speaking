@@ -1,0 +1,76 @@
+{
+  "id": "q_19",
+  "vocab": [
+    {
+      "word": "dash off",
+      "ipa": "/dæʃ ɒf/",
+      "meaning": "vẽ hoặc viết gì đó một cách nhanh chóng và vội vã",
+      "example": "When I was a kid, I used to dash off quick charcoal sketches of our family pets whenever they were sleeping.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "scribble down",
+      "ipa": "/ˈskrɪb.əl daʊn/",
+      "meaning": "nguệch ngoạc, ghi lại nhanh (hình ảnh hoặc ý tưởng)",
+      "example": "I would always scribble down funny doodles in the margins of my school notebooks during boring history lessons.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toy with",
+      "ipa": "/tɔɪ wɪð/",
+      "meaning": "thử nghiệm hoặc cân nhắc một ý tưởng/kỹ thuật một cách hời hợt",
+      "example": "In middle school, I toyed with the idea of becoming a professional illustrator, though I never followed through with it.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blot out",
+      "ipa": "/blɒt aʊt/",
+      "meaning": "che phủ hoàn toàn bề mặt (thường là dùng màu để xóa đi lỗi sai)",
+      "example": "I remember accidentally spilling ink on my canvas and having to blot it out with thick layers of white acrylic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "flesh out",
+      "ipa": "/fleʃ aʊt/",
+      "meaning": "thêm chi tiết vào một bản phác thảo sơ sài để làm nó hoàn thiện hơn",
+      "example": "My art teacher always encouraged me to flesh out my initial pencil outlines with more intricate textures and shading.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift away",
+      "ipa": "/drɪft əˈweɪ/",
+      "meaning": "dần dần mất đi sự quan tâm hoặc rời xa một thói quen",
+      "example": "Although I was quite passionate about oil painting at ten, I eventually drifted away from it as my academic workload increased.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "touch up",
+      "ipa": "/tʌtʃ ʌp/",
+      "meaning": "chỉnh sửa những chi tiết nhỏ để hoàn thiện tác phẩm",
+      "example": "Before submitting my work for the school competition, I spent hours touching up the lighting effects on the scenery.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bəl əˈpɒn/",
+      "meaning": "tình cờ tìm thấy (một phong cách hoặc chất liệu mới)",
+      "example": "I stumbled upon a set of old pastels in the attic, which totally changed the way I approached color in my drawings.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down to",
+      "ipa": "/ˈnʌk.əl daʊn tuː/",
+      "meaning": "bắt đầu làm việc gì đó một cách thực sự nghiêm túc và tập trung",
+      "example": "I only started to see real improvement in my portraits when I finally knuckled down to practicing anatomy every day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm nổi bật lên một đặc điểm hoặc phẩm chất nào đó",
+      "example": "The art classes I took as a child really helped to bring out my hidden talent for capturing human expressions.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

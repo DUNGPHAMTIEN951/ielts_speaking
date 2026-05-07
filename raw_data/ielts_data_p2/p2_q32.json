@@ -1,0 +1,37 @@
+{
+  "q": "Describe an interesting building you saw during a trip",
+  "cue_card": [
+    "Where it was",
+    "What it looked like",
+    "When you saw it",
+    "And explain why you found it interesting"
+  ],
+  "examiner_note": "Mô tả kiến trúc và ấn tượng cá nhân (vẻ đẹp, lịch sử, sự độc đáo).",
+  "samples": {
+    "band7": "I saw the Landmark 81 building in Ho Chi Minh City last summer. It's the tallest building in Vietnam and has a very modern design with lots of glass. I found it interesting because it looks like a bundle of bamboo, which is a symbol of Vietnamese culture. The view from the top was also amazing.",
+    "band8": "During my trip to Ho Chi Minh City last year, I was struck by the Landmark 81 skyscraper. Its architectural design is inspired by traditional bundles of bamboo, symbolizing strength and unity. What I found particularly fascinating was the way it seamlessly blends modern structural engineering with cultural symbolism. Seeing it lit up at night was a breathtaking experience, reflecting the city's rapid development and ambition.",
+    "band9": "A truly iconic structure that caught my attention was Landmark 81 in Saigon. It's a magnificent feat of contemporary architecture, towering over the city skyline. Its design is deeply symbolic, drawing inspiration from the resilience of bamboo in Vietnamese folklore. What makes it exceptionally interesting is the synthesis of high-tech aesthetic with national identity. It serves as a visual metaphor for the country's soaring economic trajectory and its aspirations on the global stage."
+  },
+  "v": [
+    {
+      "word": "feat of architecture",
+      "ipa": "/fiːt əv ˈɑːrkɪtektʃər/",
+      "meaning": "kỳ tích kiến trúc",
+      "example": "The bridge is a magnificent feat of architecture."
+    },
+    {
+      "word": "skyscraper",
+      "ipa": "/ˈskaɪskreɪpər/",
+      "meaning": "nhà chọc trời",
+      "example": "The city is full of glass skyscrapers."
+    },
+    {
+      "word": "visual metaphor",
+      "ipa": "/ˈvɪʒuəl ˈmetəfər/",
+      "meaning": "ẩn dụ hình ảnh",
+      "example": "The statue is a visual metaphor for freedom."
+    }
+  ],
+  "topic": "Describe an interesting building you saw during a trip",
+  "id": "p2_q32"
+}

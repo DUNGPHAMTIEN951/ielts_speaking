@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "garner financial stability",
+      "ipa": "/ˈɡɑːrnər faɪˈnænʃl stəˈbɪləti/",
+      "meaning": "đạt được sự ổn định tài chính",
+      "example": "By utilizing long-term savings plans, individuals can slowly garner financial stability for their retirement.",
+      "type": "collocation"
+    },
+    {
+      "word": "secure a mortgage",
+      "ipa": "/sɪˈkjʊər ə ˈmɔːrɡɪdʒ/",
+      "meaning": "đảm bảo một khoản vay thế chấp (mua nhà)",
+      "example": "Most people rely on reputable banks to secure a mortgage when they decide to purchase their first home.",
+      "type": "collocation"
+    },
+    {
+      "word": "liquidity management",
+      "ipa": "/lɪˈkwɪdəti ˈmænɪdʒmənt/",
+      "meaning": "quản lý tính thanh khoản (tiền mặt sẵn có)",
+      "example": "Current accounts offer excellent liquidity management, allowing instant access to cash for daily expenses.",
+      "type": "collocation"
+    },
+    {
+      "word": "hedging against inflation",
+      "ipa": "/ˈhedʒɪŋ əˈɡenst ɪnˈfleɪʃn/",
+      "meaning": "phòng vệ trước lạm phát",
+      "example": "Certain banking investment products serve as a strategic way of hedging against inflation to preserve purchasing power.",
+      "type": "collocation"
+    },
+    {
+      "word": "fiduciary duty",
+      "ipa": "/fɪˈduːʃieri ˈduːti/",
+      "meaning": "trách nhiệm ủy thác (trách nhiệm bảo vệ tài sản khách hàng)",
+      "example": "People trust banks because these institutions have a fiduciary duty to act in the best interest of their depositors.",
+      "type": "collocation"
+    },
+    {
+      "word": "credit facility",
+      "ipa": "/ˈkredɪt fəˈsɪləti/",
+      "meaning": "hỗ trợ/cơ sở tín dụng",
+      "example": "Small business owners often turn to banks to request a credit facility to expand their operations.",
+      "type": "collocation"
+    },
+    {
+      "word": "wealth management services",
+      "ipa": "/welθ ˈmænɪdʒmənt ˈsɜːrvɪsɪz/",
+      "meaning": "dịch vụ quản lý tài sản",
+      "example": "High-net-worth individuals often utilize specialized wealth management services offered by private banks.",
+      "type": "collocation"
+    },
+    {
+      "word": "fraud prevention protocols",
+      "ipa": "/frɔːd prɪˈvenʃn ˈproʊtəkɔːlz/",
+      "meaning": "các giao thức ngăn ngừa gian lận",
+      "example": "Modern banks implement rigorous fraud prevention protocols to monitor and flag suspicious account activity.",
+      "type": "collocation"
+    },
+    {
+      "word": "wire transfer",
+      "ipa": "/ˈwaɪər ˈtrænsfɜːr/",
+      "meaning": "chuyển tiền điện tử (thường là quốc tế)",
+      "example": "Expats frequently use banks to execute a wire transfer to send financial support to their families abroad.",
+      "type": "collocation"
+    },
+    {
+      "word": "financial solvency",
+      "ipa": "/faɪˈnænʃl ˈsɒlvənsi/",
+      "meaning": "khả năng thanh toán tài chính",
+      "example": "Banks are required to maintain a high level of financial solvency to ensure they can meet all withdrawal demands.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

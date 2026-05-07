@@ -1,0 +1,76 @@
+{
+  "id": "q_14",
+  "vocab": [
+    {
+      "word": "wash over",
+      "ipa": "/wɒʃ ˈəʊvə(r)/",
+      "meaning": "dâng trào, bao phủ lấy (cảm giác khi nhìn thấy cảnh đẹp)",
+      "example": "A profound sense of tranquility washed over me as I watched the mist settle on the terraced rice fields of Sapa.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "beholden to",
+      "ipa": "/bɪˈhəʊldən tuː/",
+      "meaning": "bị lôi cuốn, bị mê hoặc bởi vẻ đẹp",
+      "example": "I stood there, completely beholden to the ethereal glow of the Northern Lights dancing across the Arctic sky.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stretch for",
+      "ipa": "/stretʃ fɔː(r)/",
+      "meaning": "trải dài hàng (dặm/km) tới một khoảng cách nào đó",
+      "example": "The turquoise coastline of the Great Ocean Road stretches for hundreds of miles, offering one stunning vista after another.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off",
+      "ipa": "/set ɒf/",
+      "meaning": "tôn lên, làm nổi bật vẻ đẹp của thứ gì đó",
+      "example": "The deep blue of the Mediterranean Sea was perfectly set off by the brilliant white architecture of the coastal villages.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take back to",
+      "ipa": "/teɪk bæk tuː/",
+      "meaning": "gợi nhớ lại, mang ký ức trở về một thời điểm nào đó",
+      "example": "Seeing the ancient ruins of Machu Picchu took me back to the stories of explorers I read about as a child.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out across",
+      "ipa": "/lʊk aʊt əˈkrɒs/",
+      "meaning": "phóng tầm mắt ra khắp một không gian rộng lớn",
+      "example": "We hiked to the summit just to look out across the patchwork of vineyards that defines the Tuscan landscape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "emerge from",
+      "ipa": "/ɪˈmɜːrdʒ frəm/",
+      "meaning": "hiện ra, ló dạng từ (sương mù, bóng tối...)",
+      "example": "The majestic Taj Mahal slowly emerged from the early morning fog, looking like a dream made of white marble.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak in",
+      "ipa": "/səʊk ɪn/",
+      "meaning": "hấp thụ, cảm nhận sâu sắc (vẻ đẹp hoặc bầu không khí)",
+      "example": "I sat on a quiet bench for an hour, just soaking in the vibrant colors of the cherry blossoms in Kyoto.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look down on",
+      "ipa": "/lʊk daʊn ɒn/",
+      "meaning": "nhìn xuống từ một vị trí cao",
+      "example": "From the helicopter, we could look down on the intricate patterns of the Great Barrier Reef beneath the waves.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sink into",
+      "ipa": "/sɪŋk ˈɪntuː/",
+      "meaning": "chìm đắm vào (trạng thái chiêm nghiệm khi thấy cảnh đẹp)",
+      "example": "It’s easy to sink into a state of awe when you’re surrounded by the sheer vertical cliffs of the Yosemite Valley.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

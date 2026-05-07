@@ -1,0 +1,76 @@
+{
+  "id": "q_3",
+  "vocab": [
+    {
+      "word": "root for",
+      "ipa": "/ruːt fɔːr/",
+      "meaning": "ủng hộ, cổ vũ cho (một đội hoặc cá nhân)",
+      "example": "I've been rooting for my local football team since I was a child, regardless of their performance.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cheer on",
+      "ipa": "/tʃɪər ɒn/",
+      "meaning": "hò reo cổ vũ nhiệt tình",
+      "example": "There's nothing quite like being in a stadium and cheering on your favorite players with thousands of other fans.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "face off",
+      "ipa": "/feɪs ɔːf/",
+      "meaning": "đối đầu, tranh tài",
+      "example": "I find it exhilarating to watch two powerhouse teams face off in a high-stakes championship final.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull off",
+      "ipa": "/pʊl ɔːf/",
+      "meaning": "thành công thực hiện một điều khó khăn (thắng ngược, lội ngược dòng)",
+      "example": "It's truly inspiring when an underdog team manages to pull off a stunning victory against the favorites.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "count on",
+      "ipa": "/kaʊnt ɒn/",
+      "meaning": "tin tưởng, trông cậy vào (sự phối hợp đồng đội)",
+      "example": "In team sports, players must be able to count on each other to execute complex tactical maneuvers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go up against",
+      "ipa": "/ɡəʊ ʌp əˈɡeɪnst/",
+      "meaning": "đối mặt, thi đấu chống lại (đối thủ mạnh)",
+      "example": "The tension is palpable when a young, inexperienced team has to go up against the reigning champions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, vượt trội",
+      "example": "While I enjoy the team aspect, I also love watching star athletes who stand out due to their exceptional skills.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring about",
+      "ipa": "/brɪŋ əˈbaʊt/",
+      "meaning": "mang lại, dẫn đến (sự đoàn kết, cảm xúc)",
+      "example": "International tournaments like the World Cup bring about a unique sense of national pride and unity.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "luck out",
+      "ipa": "/lʌk aʊt/",
+      "meaning": "may mắn có được kết quả tốt",
+      "example": "Sometimes a team might luck out with a last-minute penalty, which adds a layer of unpredictability to the game.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall through",
+      "ipa": "/fɔːl θruː/",
+      "meaning": "thất bại, không diễn ra như ý (chiến thuật bị phá sản)",
+      "example": "It’s fascinating to see how a team reacts when their initial game plan falls through due to the opponent's pressure.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

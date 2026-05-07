@@ -1,0 +1,76 @@
+{
+  "id": "q_1",
+  "vocab": [
+    {
+      "word": "learn the ropes",
+      "ipa": "/lɜːrn ðə rəʊps/",
+      "meaning": "học cách làm một công việc/hoạt động mới",
+      "example": "Joining the local cricket club was a challenge, but the senior players helped me learn the ropes quickly.",
+      "type": "idiom"
+    },
+    {
+      "word": "a team player",
+      "ipa": "/ə tiːm ˈpleɪər/",
+      "meaning": "người có tinh thần đồng đội, hợp tác tốt",
+      "example": "Being part of a basketball team taught me how to be a team player rather than just focusing on individual glory.",
+      "type": "idiom"
+    },
+    {
+      "word": "throw in the towel",
+      "ipa": "/θrəʊ ɪn ðə ˈtaʊəl/",
+      "meaning": "bỏ cuộc, đầu hàng",
+      "example": "Even when we were losing by twenty points, our captain urged us never to throw in the towel.",
+      "type": "idiom"
+    },
+    {
+      "word": "the ball is in your court",
+      "ipa": "/ðə bɔːl ɪz ɪn jər kɔːrt/",
+      "meaning": "đến lượt bạn đưa ra quyết định/hành động",
+      "example": "Once the coach gave me the strategy, the ball was in my court to execute the play during the final minutes.",
+      "type": "idiom"
+    },
+    {
+      "word": "win hands down",
+      "ipa": "/wɪn hændz daʊn/",
+      "meaning": "thắng một cách dễ dàng, thuyết phục",
+      "example": "Our school's volleyball team was so well-coordinated that we managed to win the regional finals hands down.",
+      "type": "idiom"
+    },
+    {
+      "word": "pull one's weight",
+      "ipa": "/pʊl wʌnz weɪt/",
+      "meaning": "làm tròn phần việc của mình, đóng góp công sức công bằng",
+      "example": "In a sports team, everyone has to pull their weight if the group wants to achieve a podium finish.",
+      "type": "idiom"
+    },
+    {
+      "word": "take the bull by the horns",
+      "ipa": "/teɪk ðə bʊl baɪ ðə hɔːrnz/",
+      "meaning": "quyết đoán giải quyết một tình huống khó khăn",
+      "example": "I decided to take the bull by the horns and volunteered to be the goalkeeper when our main one got injured.",
+      "type": "idiom"
+    },
+    {
+      "word": "front and center",
+      "ipa": "/frʌnt ənd ˈsentər/",
+      "meaning": "ở vị trí quan trọng nhất, trở thành tâm điểm",
+      "example": "In my university days, sports were front and center in my life, and being on the rowing team was my proudest achievement.",
+      "type": "idiom"
+    },
+    {
+      "word": "call the shots",
+      "ipa": "/kɔːl ðə ʃɒts/",
+      "meaning": "chỉ huy, đưa ra những quyết định quan trọng",
+      "example": "As the point guard, I was responsible for calling the shots and directing my teammates on the floor.",
+      "type": "idiom"
+    },
+    {
+      "word": "give it one's best shot",
+      "ipa": "/ɡɪv ɪt wʌnz best ʃɒt/",
+      "meaning": "cố gắng hết sức mình",
+      "example": "We didn't win the championship, but I'm proud that every member of the team gave it their best shot.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

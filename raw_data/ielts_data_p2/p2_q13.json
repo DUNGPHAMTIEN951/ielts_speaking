@@ -1,0 +1,50 @@
+{
+  "q": "Describe a historical building you have visited.",
+  "cue_card": [
+    "A historical building you have visited.",
+    "What and where the building is",
+    "When you visited it",
+    "What you did there",
+    "And explain why you think it is interesting"
+  ],
+  "examiner_note": "Khi miêu tả công trình lịch sử, hãy dùng các tính từ về kiến trúc và thời gian (majestic, ancient, architectural marvel). Giải thích giá trị lịch sử (historical significance) và cảm xúc khi đứng trước một chứng nhân lịch sử.",
+  "samples": {
+    "band7": "I'm going to talk about the Temple of Literature in Hanoi. I visited it last year with my classmates during a school trip. It is a very old and beautiful building with many stone steles and traditional Vietnamese architecture. We walked through the gardens and learned about the history of the first university in Vietnam. I think it is interesting because it shows how much our ancestors valued education and it's a very peaceful place in the middle of a busy city.",
+    "band8": "I’d like to describe the Temple of Literature in Hanoi, a truly magnificent historical landmark that I visited about a year ago. It serves as a testament to Vietnam’s long-standing academic tradition, being the country’s first university. The site is a splendid example of traditional architecture, featuring intricate woodwork and serene courtyards. I found it exceptionally interesting because it offers a glimpse into the past and encapsulates the profound respect for learning that is deeply rooted in our culture.",
+    "band9": "A historical structure that has left a lasting impression on me is the Temple of Literature in Hanoi, an architectural marvel that dates back nearly a millennium. I had the privilege of exploring this majestic site recently, and I was instantly captivated by its timeless elegance. The complex is a harmonious blend of nature and history, with its ancient stone steles and vibrant gardens. What makes it so compelling is its historical significance as a beacon of knowledge and its role in preserving the intellectual heritage of our nation. It’s a profoundly evocative place that beautifully illustrates the continuity of our societal values."
+  },
+  "v": [
+    {
+      "word": "Architectural marvel",
+      "meaning": "Kỳ quan kiến trúc (A building or structure that is exceptionally beautiful or impressive in its design and construction)",
+      "example": "The Taj Mahal is considered one of the greatest architectural marvels of the world."
+    },
+    {
+      "word": "Historical significance",
+      "meaning": "Ý nghĩa lịch sử (The importance of an event, person, or place in history)",
+      "example": "The signing of the treaty had great historical significance for both nations."
+    },
+    {
+      "word": "Testament to",
+      "meaning": "Minh chứng cho (Something that serves as evidence or proof of a specified fact, event, or quality)",
+      "example": "The success of the project is a testament to the hard work of the entire team."
+    },
+    {
+      "word": "Serene courtyards",
+      "meaning": "Những khoảng sân yên tĩnh (Calm, peaceful, and untroubled open areas within a building)",
+      "example": "I enjoyed reading my book in the serene courtyards of the old library."
+    },
+    {
+      "word": "Encapsulate",
+      "meaning": "Gói gọn, tóm lược (To express the most important parts of something in a short and clear way)",
+      "example": "The museum's new exhibit perfectly encapsulates the spirit of the 1920s."
+    },
+    {
+      "word": "Evocative",
+      "meaning": "Gợi nhớ (Bringing strong images, memories, or feelings to mind)",
+      "example": "The old photographs were very evocative of a bygone era."
+    }
+  ],
+  "topic": "Describe a historical building you have visited.",
+  "id": "p2_q13"
+}

@@ -1,0 +1,50 @@
+{
+  "q": "Describe a person you know who is very talkative.",
+  "cue_card": [
+    "A person you know who is very talkative.",
+    "Who this person is",
+    "How you know this person",
+    "What he/she likes to talk about",
+    "And explain how you feel about this person"
+  ],
+  "examiner_note": "Khi miêu tả một người nói nhiều, hãy cân bằng giữa các khía cạnh tích cực (charismatic, outgoing) và tiêu cực (loquacious, dominate the conversation). Sử dụng các cụm từ về giao tiếp xã hội (social butterfly, gift of the gab).",
+  "samples": {
+    "band7": "I'm going to talk about my best friend, Minh. I've known him since we were in primary school. He is extremely talkative and can talk for hours about anything, from football to the latest technology. He is very friendly and always makes people laugh. Sometimes it's a bit tired to listen to him for too long, but I like him because he is very funny and always brings energy to our group.",
+    "band8": "I’d like to describe my cousin, Sarah, who is undoubtedly the most loquacious person I know. We’ve been close since childhood, and her talkative nature has always been her defining trait. She has an incredible 'gift of the gab' and can effortlessly strike up a conversation on a wide array of topics, from pop culture to political issues. While her constant chatter can be somewhat overwhelming at times, I find her energy quite infectious and her stories genuinely entertaining.",
+    "band9": "The individual who immediately comes to mind when discussing talkativeness is my colleague, Jonathan. He is a true social butterfly with a remarkable ability to dominate any conversation with his charismatic presence. Jonathan possesses a rare intellectual curiosity that drives him to discuss everything from philosophy to market trends with equal fervor. What I find most intriguing about him is not just the volume of his speech, but the sheer depth of insight he provides. His loquacity is balanced by a sharp wit, making every dialogue with him a stimulating, albeit exhaustive, experience."
+  },
+  "v": [
+    {
+      "word": "Loquacious",
+      "meaning": "Nói nhiều, huyên thuyên (Tending to talk a great deal; talkative)",
+      "example": "He is a loquacious person who can make friends with anyone in minutes."
+    },
+    {
+      "word": "Gift of the gab",
+      "meaning": "Có tài ăn nói (The ability to speak easily and confidently in a way that makes people want to listen to you and believe you)",
+      "example": "Being a successful salesman requires a certain gift of the gab."
+    },
+    {
+      "word": "Social butterfly",
+      "meaning": "Người thích giao thiệp (A person who is socially dynamic, networking, and charismatic)",
+      "example": "She is such a social butterfly; she knows everyone at the party."
+    },
+    {
+      "word": "Charismatic",
+      "meaning": "Có sức lôi cuốn (Exercising a compelling charm which inspires devotion in others)",
+      "example": "The charismatic leader was able to inspire thousands of people with his speech."
+    },
+    {
+      "word": "Fervor",
+      "meaning": "Sự nhiệt huyết, hăng hái (Intense and passionate feeling)",
+      "example": "He spoke about the importance of environmental protection with great fervor."
+    },
+    {
+      "word": "Stiumulating",
+      "meaning": "Kích thích tư duy, húng thú (Encouraging new ideas or new enthusiasm)",
+      "example": "The lecture was very stimulating and gave me a lot of new ideas for my research."
+    }
+  ],
+  "topic": "Describe a person you know who is very talkative.",
+  "id": "p2_q18"
+}

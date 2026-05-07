@@ -1,0 +1,76 @@
+{
+  "id": "q_24",
+  "vocab": [
+    {
+      "word": "load up on",
+      "ipa": "/ləʊd ʌp ɒn/",
+      "meaning": "mang theo thật nhiều thứ gì đó",
+      "example": "If I'm heading to a remote area, I've got to load up on snacks and water since there are no shops around.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "narrow down",
+      "ipa": "/ˈnær.əʊ daʊn/",
+      "meaning": "thu hẹp lại/cắt giảm danh sách đồ đạc",
+      "example": "It's always a struggle to narrow down my footwear options to just two pairs when traveling light.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stock up on",
+      "ipa": "/stɒk ʌp ɒn/",
+      "meaning": "mua dự trữ hoặc chuẩn bị sẵn một lượng lớn thứ gì đó",
+      "example": "Before going on a camping trip, I usually stock up on batteries and insect repellent.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up for",
+      "ipa": "/ɡɪər ʌp fɔːr/",
+      "meaning": "chuẩn bị đầy đủ trang thiết bị cho một hoạt động cụ thể",
+      "example": "When I go to the mountains, I really have to gear up for the cold with thermal layers and heavy coats.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig out",
+      "ipa": "/dɪɡ aʊt/",
+      "meaning": "tìm ra thứ gì đó sau một thời gian dài không dùng đến",
+      "example": "Whenever I visit the beach, I have to dig out my old snorkeling mask from the back of the closet.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "leave behind",
+      "ipa": "/liːv bɪˈhaɪnd/",
+      "meaning": "bỏ lại, không mang theo",
+      "example": "To save space in my suitcase, I often decide to leave behind bulky items like hair dryers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "make do with",
+      "ipa": "/meɪk duː wɪð/",
+      "meaning": "dùng tạm, xoay sở với những gì đang có",
+      "example": "For short city breaks, I prefer to make do with just a small backpack to avoid checking in luggage.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clutter up",
+      "ipa": "/ˈklʌt.ər ʌp/",
+      "meaning": "làm bừa bộn hoặc chiếm quá nhiều không gian",
+      "example": "I try not to let unnecessary gadgets clutter up my bag when I'm on a business trip.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "meaning": "mua hoặc lấy thêm thứ gì đó dọc đường",
+      "example": "I rarely carry a lot of toiletries because I can easily pick up what I need at a local pharmacy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "phải dùng đến phương án dự phòng khi cần thiết",
+      "example": "I always carry a paper map to fall back on in case my phone battery dies in an unfamiliar city.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,322 @@
+{
+  "id": "q_43",
+  "topic": "Studying",
+  "q": "Did you have a favorite teacher when you were at school?",
+  "examiner_note": "Câu hỏi này về trải nghiệm cá nhân và kỷ niệm. \n- **Hướng dẫn trả lời**: Kể về một giáo viên cụ thể. Mô tả phẩm chất của họ (tận tâm, hài hước, dạy giỏi) và sức ảnh hưởng của họ đối với bạn. \n- **Mẹo**: Sử dụng các cụm từ như 'stand out in my mind', 'passionate about their subject', 'encouraging', 'patient', 'had a knack for', 'made a lasting impression'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I had a favorite teacher, my English teacher in high school. She was very kind and always encouraged us to speak more in class. Her lessons were very interesting because she used many games and videos, which made learning fun.",
+      "note": "Trả lời trực tiếp, mô tả phẩm chất giáo viên bằng từ ngữ đơn giản nhưng hiệu quả. Ngữ pháp ổn định."
+    },
+    "band8": {
+      "text": "My history teacher really stands out in my mind. He was incredibly passionate about his subject and had a knack for making even the most boring periods come alive with stories. He was also very supportive and always had time for students who were struggling.",
+      "note": "Sử dụng các cụm từ hay như 'stands out in my mind', 'passionate about', 'had a knack for', 'come alive'. Diễn đạt mượt mà."
+    },
+    "band9": {
+      "text": "The one teacher who made a truly lasting impression on me was my mathematics instructor. She possessed a rare combination of academic brilliance and immense patience. Beyond just teaching formulas, she taught us how to approach problems logically and persevere through challenges, which has been invaluable to me.",
+      "note": "Sử dụng từ vựng cực kỳ ấn tượng ('lasting impression', 'academic brilliance', 'immense patience', 'persevere', 'invaluable'). Lập luận sâu sắc về sức ảnh hưởng của giáo viên."
+    }
+  },
+  "v": [
+    {
+      "word": "stand out in my mind",
+      "meaning": "nổi bật trong tâm trí/đáng nhớ",
+      "ipa": "/stænd aʊt ɪn maɪ maɪnd/",
+      "example": "The trip to the mountains really stands out in my mind as one of the best times of my life."
+    },
+    {
+      "word": "passionate about",
+      "meaning": "đam mê về",
+      "ipa": "/ˈpæʃənət əˈbaʊt/",
+      "example": "She is very passionate about social justice and human rights."
+    },
+    {
+      "word": "had a knack for",
+      "meaning": "có năng khiếu/biết cách làm gì đó khéo léo",
+      "ipa": "/hæd ə næk fɔː(r)/",
+      "example": "My grandfather had a knack for growing beautiful roses."
+    },
+    {
+      "word": "make a lasting impression",
+      "meaning": "tạo ấn tượng lâu dài",
+      "ipa": "/meɪk ə ˈlɑːstɪŋ ɪmˈpreʃn/",
+      "example": "Her speech on environmental conservation made a lasting impression on everyone."
+    },
+    {
+      "word": "academic brilliance",
+      "meaning": "sự xuất sắc/tỏa sáng trong học thuật",
+      "ipa": "/ˌækəˈdemɪk ˈbrɪliəns/",
+      "example": "The young scientist's academic brilliance was recognized internationally."
+    },
+    {
+      "word": "immense patience",
+      "meaning": "sự kiên nhẫn vô cùng",
+      "ipa": "/ɪˈmens ˈpeɪʃns/",
+      "example": "Teaching young children requires a great deal of immense patience."
+    },
+    {
+      "word": "persevere",
+      "meaning": "kiên trì/bền bỉ",
+      "ipa": "/ˌpɜːsɪˈvɪə(r)/",
+      "example": "Despite many setbacks, the team continued to persevere and eventually won the title."
+    },
+    {
+      "word": "invaluable",
+      "meaning": "vô giá/cực kỳ hữu ích",
+      "ipa": "/ɪnˈvæljuəbl/",
+      "example": "Her advice was invaluable to me during the decision-making process."
+    },
+    {
+      "word": "come alive",
+      "meaning": "sống động/nhộn nhịp",
+      "ipa": "/kʌm əˈlaɪv/",
+      "example": "The city really comes alive after dark with all the lights and music."
+    },
+    {
+      "word": "encouraging",
+      "meaning": "mang tính khuyến khích/cổ vũ",
+      "ipa": "/ɪnˈkʌrɪdʒɪŋ/",
+      "example": "The teacher gave the students some encouraging words before the big exam."
+    },
+    {
+      "word": "supportive",
+      "meaning": "có tính hỗ trợ",
+      "ipa": "/səˈpɔːtɪv/",
+      "example": "I was lucky to have a very supportive family who believed in me."
+    },
+    {
+      "word": "inspiring figure",
+      "meaning": "nhân vật truyền cảm hứng",
+      "ipa": "/ɪnˈspaɪərɪŋ ˈfɪɡə(r)/",
+      "example": "My high school biology teacher was an inspiring figure who led me to study medicine."
+    },
+    {
+      "word": "role model",
+      "meaning": "hình mẫu lý tưởng",
+      "ipa": "/ˈrəʊl ˌmɒdl/",
+      "example": "Parents should strive to be positive role models for their children."
+    },
+    {
+      "word": "mentoring",
+      "meaning": "sự cố vấn/hướng dẫn",
+      "ipa": "/ˈmentərɪŋ/",
+      "example": "The university has a mentoring program to help new students adjust to campus life."
+    },
+    {
+      "word": "guidance",
+      "meaning": "sự hướng dẫn",
+      "ipa": "/ˈɡaɪdns/",
+      "example": "The careers advisor provided valuable guidance on job applications."
+    },
+    {
+      "word": "knack",
+      "meaning": "sở trường/bí quyết",
+      "ipa": "/næk/",
+      "example": "She has a real knack for making people feel comfortable and at ease."
+    },
+    {
+      "word": "charisma",
+      "meaning": "sức hút/uy tín cá nhân",
+      "ipa": "/kəˈrɪzmə/",
+      "example": "The leader's charisma helped to inspire confidence in his team."
+    },
+    {
+      "word": "dedication",
+      "meaning": "sự tận tụy",
+      "ipa": "/ˌdedɪˈkeɪʃn/",
+      "example": "Achieving success requires a lot of hard work and dedication."
+    },
+    {
+      "word": "enthusiasm",
+      "meaning": "sự nhiệt tình",
+      "ipa": "/ɪnˈθjuːziæzəm/",
+      "example": "The students' enthusiasm for the project was truly infectious."
+    },
+    {
+      "word": "approachable",
+      "meaning": "dễ gần/dễ tiếp cận",
+      "ipa": "/əˈprəʊtʃəbl/",
+      "example": "Despite his high position, he is always very friendly and approachable."
+    },
+    {
+      "word": "strict",
+      "meaning": "nghiêm khắc",
+      "ipa": "/strɪkt/",
+      "example": "The rules at the school are very strict, but they are fair."
+    },
+    {
+      "word": "fair-minded",
+      "meaning": "công bằng/không thiên vị",
+      "ipa": "/ˌfeə ˈmaɪndɪd/",
+      "example": "Our manager is known for being very fair-minded and objective."
+    },
+    {
+      "word": "knowledgeable",
+      "meaning": "có kiến thức rộng",
+      "ipa": "/ˈnɒlɪdʒəbl/",
+      "example": "The guide was incredibly knowledgeable about the history of the ancient city."
+    },
+    {
+      "word": "articulate",
+      "meaning": "có khả năng diễn đạt lưu loát",
+      "ipa": "/ɑːˈtɪkjulət/",
+      "example": "She is a very articulate and persuasive speaker."
+    },
+    {
+      "word": "engaging",
+      "meaning": "cuốn hút/hấp dẫn",
+      "ipa": "/ɪnˈɡeɪdʒɪŋ/",
+      "example": "The novel was so engaging that I finished it in one day."
+    },
+    {
+      "word": "humorous",
+      "meaning": "hài hước",
+      "ipa": "/ˈhjuːmərəs/",
+      "example": "Our science teacher is very humorous and always makes us laugh."
+    },
+    {
+      "word": "patiently",
+      "meaning": "một cách kiên nhẫn",
+      "ipa": "/ˈpeɪʃəntli/",
+      "example": "The nurse patiently explained the procedure to the nervous patient."
+    },
+    {
+      "word": "compassionate",
+      "meaning": "giàu lòng trắc ẩn",
+      "ipa": "/kəmˈpæʃənət/",
+      "example": "She is a very kind and compassionate person who always helps those in need."
+    },
+    {
+      "word": "thoughtful",
+      "meaning": "chu đáo/biết suy nghĩ",
+      "ipa": "/ˈθɔːtfl/",
+      "example": "It was very thoughtful of you to remember my birthday."
+    },
+    {
+      "word": "influential",
+      "meaning": "có tầm ảnh hưởng",
+      "ipa": "/ˌɪnfluˈenʃl/",
+      "example": "He is one of the most influential people in the technology industry."
+    },
+    {
+      "word": "significant impact",
+      "meaning": "tác động đáng kể",
+      "ipa": "/sɪɡˈnɪfɪkənt ˈɪmpækt/",
+      "example": "The new law will have a significant impact on local businesses."
+    },
+    {
+      "word": "turning point",
+      "meaning": "bước ngoặt",
+      "ipa": "/ˈtɜːnɪŋ pɔɪnt/",
+      "example": "Winning the competition was a major turning point in her artistic career."
+    },
+    {
+      "word": "perspective-shifting",
+      "meaning": "thay đổi quan điểm",
+      "ipa": "/pəˈspektɪv ˈʃɪftɪŋ/",
+      "example": "Reading this book was a perspective-shifting experience for me."
+    },
+    {
+      "word": "wisdom",
+      "meaning": "trí tuệ/sự thông thái",
+      "ipa": "/ˈwɪzdəm/",
+      "example": "The elder in the village is respected for his great wisdom and experience."
+    },
+    {
+      "word": "intellectual",
+      "meaning": "thuộc về trí tuệ",
+      "ipa": "/ˌɪntəˈlektʃuəl/",
+      "example": "College is a time for significant intellectual and personal growth."
+    },
+    {
+      "word": "mentor",
+      "meaning": "người hướng dẫn/cố vấn (N/V)",
+      "ipa": "/ˈmentɔː(r)/",
+      "example": "She has mentored many young designers during her career."
+    },
+    {
+      "word": "nurture",
+      "meaning": "nuôi dưỡng (N/V)",
+      "ipa": "/ˈnɜːtʃə(r)/",
+      "example": "The school provides an environment that nurtures creativity and innovation."
+    },
+    {
+      "word": "encourage",
+      "meaning": "khuyến khích",
+      "ipa": "/ɪnˈkʌrɪdʒ/",
+      "example": "Parents should encourage their children to explore different interests."
+    },
+    {
+      "word": "empower",
+      "meaning": "trao quyền/nâng cao năng lực",
+      "ipa": "/ɪmˈpaʊə(r)/",
+      "example": "The community center aims to empower local residents through skill-building workshops."
+    },
+    {
+      "word": "well-rounded",
+      "meaning": "toàn diện",
+      "ipa": "/ˌwel ˈraʊndɪd/",
+      "example": "The university values students who have a well-rounded academic and extracurricular background."
+    },
+    {
+      "word": "achievement",
+      "meaning": "thành tựu/thành tích",
+      "ipa": "/əˈtʃiːvmənt/",
+      "example": "Graduating from university with honors is a major achievement."
+    },
+    {
+      "word": "recognition",
+      "meaning": "sự công nhận",
+      "ipa": "/ˌrekəɡˈnɪʃn/",
+      "example": "The scientist received international recognition for her groundbreaking research."
+    },
+    {
+      "word": "appreciation",
+      "meaning": "sự trân trọng/biết ơn",
+      "ipa": "/əˌpriːʃiˈeɪʃn/",
+      "example": "The students showed their appreciation for the teacher with a beautiful card and flowers."
+    },
+    {
+      "word": "gratitude",
+      "meaning": "lòng biết ơn",
+      "ipa": "/ˈɡrætɪtjuːd/",
+      "example": "I would like to express my sincere gratitude for all your support."
+    },
+    {
+      "word": "respect",
+      "meaning": "sự tôn trọng",
+      "ipa": "/rɪˈspekt/",
+      "example": "It's important to treat everyone with respect, regardless of their position."
+    },
+    {
+      "word": "legacy",
+      "meaning": "di sản",
+      "ipa": "/ˈleɡəsi/",
+      "example": "The teacher's legacy lives on in the lives of the thousands of students she inspired."
+    },
+    {
+      "word": "foster",
+      "meaning": "nuôi dưỡng/thúc đẩy",
+      "ipa": "/ˈfɒstə(r)/",
+      "example": "The coach's role is to foster teamwork and sportsmanship among the players."
+    },
+    {
+      "word": "stimulate",
+      "meaning": "kích thích/khuyến khích",
+      "ipa": "/ˈstɪmjuleɪt/",
+      "example": "Reading stories is a great way to stimulate a child's imagination."
+    },
+    {
+      "word": "ignite",
+      "meaning": "khơi dậy/đốt cháy (nghĩa bóng)",
+      "ipa": "/ɪɡˈnaɪt/",
+      "example": "The film sparked a debate that ignited passions on both sides of the issue."
+    },
+    {
+      "word": "passion",
+      "meaning": "niềm đam mê",
+      "ipa": "/ˈpæʃn/",
+      "example": "If you follow your passion, success will naturally follow."
+    }
+  ]
+}

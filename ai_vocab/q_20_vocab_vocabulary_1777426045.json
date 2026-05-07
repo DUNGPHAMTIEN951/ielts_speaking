@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "fiduciary duty",
+      "ipa": "/fɪˈdjuːʃəri ˈdjuːti/",
+      "meaning": "trách nhiệm ủy thác (nghĩa vụ pháp lý bảo vệ tài sản khách hàng)",
+      "example": "People trust financial institutions because they have a fiduciary duty to act in the best interests of their depositors.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "liquid assets",
+      "ipa": "/ˈlɪkwɪd ˈæsets/",
+      "meaning": "tài sản thanh khoản (tiền mặt hoặc tài sản dễ chuyển thành tiền mặt)",
+      "example": "Banks allow individuals to maintain liquid assets that can be withdrawn or transferred instantly in case of an emergency.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "credit facility",
+      "ipa": "/ˈkredɪt fəˈsɪləti/",
+      "meaning": "hỗ trợ tín dụng (các loại khoản vay hoặc thấu chi)",
+      "example": "Entrepreneurs often leverage a bank's credit facility to expand their business operations without exhausting their personal savings.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "capital appreciation",
+      "ipa": "/ˈkæpɪtl əˌpriːʃiˈeɪʃn/",
+      "meaning": "sự tăng trưởng vốn (giá trị tài sản tăng theo thời gian)",
+      "example": "While some keep money in savings, others use banking platforms to invest in various funds to achieve long-term capital appreciation.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "underpin the economy",
+      "ipa": "/ˌʌndəˈpɪn ðɪ ɪˈkɒnəmi/",
+      "meaning": "làm nền tảng/trụ cột cho nền kinh tế",
+      "example": "Banks are essential because they underpin the economy by recycling dormant capital into productive commercial loans.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "solvent",
+      "ipa": "/ˈsɒlvənt/",
+      "meaning": "có khả năng chi trả (không bị phá sản/nợ nần)",
+      "example": "The primary reason for using a bank is the assurance that the institution is solvent and regulated by a central authority.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "streamline payments",
+      "ipa": "/ˈstriːmlaɪn ˈpeɪmənts/",
+      "meaning": "tối ưu hóa/đơn giản hóa việc thanh toán",
+      "example": "Digital banking has managed to streamline payments to the point where physical currency is becoming almost obsolete in many regions.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "wealth preservation",
+      "ipa": "/welθ ˌprezəˈveɪʃn/",
+      "meaning": "bảo tồn tài sản (tránh mất giá hoặc rủi ro)",
+      "example": "For the affluent, banks offer sophisticated strategies for wealth preservation against market volatility and legal liabilities.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "collateral",
+      "ipa": "/kəˈlætərəl/",
+      "meaning": "tài sản thế chấp",
+      "example": "Banks provide a structured environment where people can use their property as collateral to secure low-interest loans.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "fiscal discipline",
+      "ipa": "/ˈfɪskl ˈdɪsəplɪn/",
+      "meaning": "kỷ luật tài chính (quản lý thu chi chặt chẽ)",
+      "example": "Utilizing automated savings features in a banking app encourages a sense of fiscal discipline that is hard to maintain with physical cash.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

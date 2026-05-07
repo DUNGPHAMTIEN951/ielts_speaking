@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "plow back into",
+      "ipa": "/plaʊ bæk ˈɪntə/",
+      "meaning": "tái đầu tư tiền bạc (vào kinh doanh hoặc tài sản)",
+      "example": "Entrepreneurs often use business accounts to plow their profits back into the company for expansion.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "siphon off",
+      "ipa": "/ˈsaɪfn ɔːf/",
+      "meaning": "trích ra một số tiền (thường là tự động hoặc định kỳ)",
+      "example": "Many people set up their accounts to automatically siphon off a small amount of their salary into a savings fund.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "write off",
+      "ipa": "/raɪt ɔːf/",
+      "meaning": "xóa nợ (khi không còn khả năng chi trả)",
+      "example": "In certain extreme cases, banks might write off a portion of a debt if a customer is facing severe insolvency.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "build up",
+      "ipa": "/bɪld ʌp/",
+      "meaning": "tích lũy dần dần (tiền bạc hoặc lãi suất)",
+      "example": "Savings accounts are an excellent way to build up a significant nest egg over several decades.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "chip away at",
+      "ipa": "/tʃɪp əˈweɪ æt/",
+      "meaning": "trả dần từng khoản nhỏ (để giảm bớt nợ nần)",
+      "example": "By using monthly installments, borrowers can slowly chip away at their student loans without feeling overwhelmed.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tie up",
+      "ipa": "/taɪ ʌp/",
+      "meaning": "giữ tiền ở một trạng thái không thể rút ngay (ví dụ: tiền gửi có kỳ hạn)",
+      "example": "People use fixed deposits to tie up their capital in exchange for a higher interest rate than a regular account.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cough up",
+      "ipa": "/kɔːf ʌp/",
+      "meaning": "phải chi ra một khoản tiền (thường là bắt buộc hoặc không mong muốn)",
+      "example": "Banks handle the process when you have to cough up a large down payment for a new property.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep track of",
+      "ipa": "/kiːp træk əv/",
+      "meaning": "theo dõi sát sao (biến động số dư/chi tiêu)",
+      "example": "Digital banking helps consumers keep track of their spending habits through detailed transaction histories.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out",
+      "ipa": "/bræntʃ aʊt/",
+      "meaning": "mở rộng danh mục (ví dụ: từ tiết kiệm sang đầu tư chứng khoán)",
+      "example": "Once people have enough savings, they often use bank platforms to branch out into mutual funds or stocks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hand over",
+      "ipa": "/hænd ˈoʊvər/",
+      "meaning": "giao lại/uỷ thác (tiền bạc hoặc quyền quản lý)",
+      "example": "Investors hand over their wealth to private banks to ensure it is managed by professional fund managers.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

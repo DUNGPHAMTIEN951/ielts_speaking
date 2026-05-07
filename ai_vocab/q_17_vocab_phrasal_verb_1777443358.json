@@ -1,0 +1,76 @@
+{
+  "id": "q_17",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "đắm mình trong (không gian, bầu không khí)",
+      "example": "I spent the entire afternoon at the Louvre just to soak up the creative atmosphere.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔː(r) ˈəʊvə(r)/",
+      "meaning": "ngắm nhìn hoặc nghiên cứu cực kỳ kỹ lưỡng",
+      "example": "Art enthusiasts often pore over the brushwork of Van Gogh to understand his emotional state.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ phát hiện ra",
+      "example": "During my trip to Paris, I stumbled upon a boutique gallery showcasing local abstract art.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw in",
+      "ipa": "/drɔː ɪn/",
+      "meaning": "thu hút, lôi cuốn (sự chú ý của ai đó)",
+      "example": "The vibrant colors of the mural immediately drew me in the moment I entered the room.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick out",
+      "ipa": "/pɪk aʊt/",
+      "meaning": "nhận ra hoặc phân biệt được một chi tiết cụ thể",
+      "example": "It is fascinating to try and pick out the subtle symbolism hidden in Renaissance portraits.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, gây ấn tượng mạnh",
+      "example": "Among all the exhibits, the massive iron sculpture really stood out due to its sheer scale.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sink in",
+      "ipa": "/sɪŋk ɪn/",
+      "meaning": "dần dần thấu hiểu hoặc cảm nhận được (ý nghĩa)",
+      "example": "I had to sit quietly for a while to let the profound message of the installation sink in.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back at",
+      "ipa": "/lʊk bæk æt/",
+      "meaning": "nhìn lại (quá khứ hoặc một phong cách nghệ thuật cũ)",
+      "example": "The gallery organized a special exhibition to look back at the origins of impressionism.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "conjure up",
+      "ipa": "/ˈkʌndʒə(r) ʌp/",
+      "meaning": "gợi lên (hình ảnh, ký ức hoặc cảm xúc)",
+      "example": "The surrealist paintings often conjure up dreamlike images that are hard to describe in words.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊvə(r)/",
+      "meaning": "ngẫm nghĩ, suy xét kỹ về một điều gì đó",
+      "example": "I found myself mulling over the artist's choice of materials long after I had left the exhibition.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

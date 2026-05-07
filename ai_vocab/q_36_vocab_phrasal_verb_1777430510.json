@@ -1,0 +1,76 @@
+{
+  "id": "q_36",
+  "vocab": [
+    {
+      "word": "crack on with",
+      "ipa": "/kræk ɒn wɪð/",
+      "meaning": "tiếp tục hoặc bắt tay vào làm việc gì đó một cách hăng hái",
+      "example": "I love the morning because I can just crack on with my thesis without any interruptions from my roommates.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fizzle out",
+      "ipa": "/ˈfɪzl aʊt/",
+      "meaning": "yếu dần rồi mất hẳn (năng lượng, sự tập trung)",
+      "example": "My concentration tends to fizzle out by mid-afternoon, making it the worst time for me to tackle complex math problems.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈoʊvər/",
+      "meaning": "suy ngẫm, cân nhắc kỹ lưỡng một vấn đề",
+      "example": "I prefer the quiet of the morning to mull over difficult concepts I encountered in the previous day's lectures.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại, cải thiện nhanh một kỹ năng hoặc kiến thức đã quên",
+      "example": "I usually set aside an hour in the afternoon to brush up on my Spanish vocabulary before my evening class.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɑːk aʊt/",
+      "meaning": "dành riêng một khoảng thời gian (hoặc không gian) để tập trung hoàn toàn",
+      "example": "I try to block out four hours every morning for deep work, as that's when my cognitive function peaks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "thư giãn, nghỉ ngơi sau một khoảng thời gian làm việc căng thẳng",
+      "example": "By the late afternoon, I start to wind down by doing lighter tasks like organizing my notes or answering emails.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sink in",
+      "ipa": "/sɪŋk ɪn/",
+      "meaning": "được hiểu thấu đáo, thấm nhuần (kiến thức)",
+      "example": "I find that if I study right after waking up, the information really starts to sink in much faster.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "polish off",
+      "ipa": "/ˈpɑːlɪʃ ɔːf/",
+      "meaning": "hoàn thành một việc gì đó một cách nhanh chóng và dễ dàng",
+      "example": "I can usually polish off my daily reading list by noon if I start at the crack of dawn.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "slack off",
+      "ipa": "/slæk ɔːf/",
+      "meaning": "làm việc ít nỗ lực hơn, trở nên lười biếng hoặc chậm chạp",
+      "example": "I find myself slacking off in the afternoon heat, so I prefer to get the bulk of my studying done early.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "plough through",
+      "ipa": "/plaʊ θruː/",
+      "meaning": "vật lộn để hoàn thành một khối lượng công việc lớn/khó khăn",
+      "example": "It takes me a lot longer to plough through a textbook in the afternoon compared to the fresh hours of the morning.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

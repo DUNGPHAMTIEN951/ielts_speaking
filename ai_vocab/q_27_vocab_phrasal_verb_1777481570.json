@@ -1,0 +1,76 @@
+{
+  "id": "q_27",
+  "vocab": [
+    {
+      "word": "snap up",
+      "ipa": "/snæp ʌp/",
+      "meaning": "mua nhanh chóng một món hời hoặc thứ gì đó đang hot",
+      "example": "I managed to snap up a pair of limited-edition sneakers just seconds after they were released online.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out for",
+      "ipa": "/lʊk aʊt fɔːr/",
+      "meaning": "chú ý quan sát hoặc chờ đợi một thứ gì đó xuất hiện",
+      "example": "I always look out for discount codes or flash sales before I commit to buying high-end leather boots.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "try on",
+      "ipa": "/traɪ ɒn/",
+      "meaning": "thử đồ (giày dép, quần áo) xem có vừa hoặc đẹp không",
+      "example": "The only downside of online shopping is that you can't try them on to check the arch support before paying.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fork out",
+      "ipa": "/fɔːk aʊt/",
+      "meaning": "chi một khoản tiền lớn (thường là một cách miễn cưỡng)",
+      "example": "I had to fork out a significant amount for shipping fees because the store was based in Europe.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "send back",
+      "ipa": "/send bæk/",
+      "meaning": "gửi trả lại hàng cho người bán (do lỗi hoặc không vừa)",
+      "example": "Fortunately, the return policy was quite flexible, so I could send back the loafers that were a size too small.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pay off",
+      "ipa": "/peɪ ɒf/",
+      "meaning": "mang lại kết quả tốt (nói về việc dành thời gian nghiên cứu kỹ)",
+      "example": "My patience really paid off when I found the exact same running shoes for half the price on a different site.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop up",
+      "ipa": "/pɒp ʌp/",
+      "meaning": "xuất hiện bất ngờ (thường nói về quảng cáo hoặc thông báo giảm giá)",
+      "example": "A personalized ad popped up on my feed showing exactly the style of sandals I had been searching for.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry out",
+      "ipa": "/ˈkær.i aʊt/",
+      "meaning": "thực hiện (một cuộc khảo sát hoặc kiểm tra kỹ lưỡng)",
+      "example": "I usually carry out extensive research on customer feedback to ensure the shoes are true to size.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cater to",
+      "ipa": "/ˈkeɪ.tər tuː/",
+      "meaning": "phục vụ cho nhu cầu hoặc sở thích cụ thể",
+      "example": "I prefer online platforms because they cater to people with niche tastes that local shops often ignore.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wear out",
+      "ipa": "/weər aʊt/",
+      "meaning": "mòn, hỏng hoặc rách do sử dụng quá nhiều",
+      "example": "Since I wore out my old trainers, I’ve been browsing several websites to find a durable replacement.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

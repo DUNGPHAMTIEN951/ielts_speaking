@@ -1,0 +1,76 @@
+{
+  "id": "q_21",
+  "vocab": [
+    {
+      "word": "tide over",
+      "ipa": "/taɪd ˈəʊ.vər/",
+      "meaning": "giúp duy trì năng lượng hoặc vượt qua cơn đói trong chốc lát",
+      "example": "I usually have a handful of nuts in the afternoon to tide me over until dinner so I don't overeat.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burn off",
+      "ipa": "/bɜːn ɒf/",
+      "meaning": "đốt cháy năng lượng hoặc calo thông qua vận động thể chất",
+      "example": "I love going for a long run on the weekends to burn off any extra calories I consumed during the week.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut out",
+      "ipa": "/kʌt aʊt/",
+      "meaning": "loại bỏ hoàn toàn thứ gì đó khỏi chế độ ăn uống hoặc lối sống",
+      "example": "To improve my energy levels, I've decided to cut out processed sugars and carbonated drinks entirely.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ease into",
+      "ipa": "/iːz ˈɪn.tuː/",
+      "meaning": "bắt đầu một thói quen hoặc bài tập mới một cách từ từ để cơ thể thích nghi",
+      "example": "If you're new to the gym, it's best to ease into a weightlifting program to avoid any potential injuries.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "top up",
+      "ipa": "/tɒp ʌp/",
+      "meaning": "nạp thêm hoặc làm đầy lại (thường là nước hoặc vitamin)",
+      "example": "I make a conscious effort to top up my water bottle throughout the day to stay properly hydrated.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep to",
+      "ipa": "/kiːp tuː/",
+      "meaning": "tuân thủ nghiêm ngặt một kế hoạch, chế độ ăn hoặc lịch trình",
+      "example": "It's not always easy, but I try to keep to a consistent sleep schedule to ensure my body recovers well.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ward off",
+      "ipa": "/wɔːd ɒf/",
+      "meaning": "ngăn chặn sự tấn công của bệnh tật hoặc các yếu tố có hại",
+      "example": "Boosting my vitamin C intake during winter is essential to ward off common colds and infections.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "build up",
+      "ipa": "/bɪld ʌp/",
+      "meaning": "tăng cường hoặc làm cho thứ gì đó (sức mạnh, sức bền) trở nên mạnh mẽ hơn",
+      "example": "I'm focusing on compound exercises to build up my core strength and improve my overall posture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "thư giãn và nghỉ ngơi sau một thời gian hoạt động căng thẳng",
+      "example": "I find that practicing meditation before bed helps me wind down and get a more restful night's sleep.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up",
+      "ipa": "/ˈmeʒ.ər ʌp/",
+      "meaning": "đạt được tiêu chuẩn hoặc mục tiêu sức khỏe đã đề ra",
+      "example": "I track my progress using a fitness app to see if my daily activity levels measure up to my long-term goals.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

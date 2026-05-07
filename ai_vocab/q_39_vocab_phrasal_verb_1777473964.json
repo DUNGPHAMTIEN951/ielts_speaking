@@ -1,0 +1,76 @@
+{
+  "id": "q_39",
+  "vocab": [
+    {
+      "word": "sail through",
+      "ipa": "/seɪl θruː/",
+      "meaning": "vượt qua một cách dễ dàng (thường là bài thi/môn học)",
+      "example": "I used to sail through English exams because I had a natural knack for languages and grammar.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔːr ˈoʊvər/",
+      "meaning": "nghiền ngẫm/nghiên cứu kỹ lưỡng",
+      "example": "I would spend hours in the library poring over ancient maps during our geography modules.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dựa vào vốn sẵn có (khi gặp khó khăn)",
+      "example": "When I struggled with complex physics problems, I could always fall back on my strong foundation in algebra.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "muddle through",
+      "ipa": "/ˈmʌdl θruː/",
+      "meaning": "vật lộn để vượt qua (dù không giỏi lắm hoặc không có kế hoạch rõ ràng)",
+      "example": "While I loved Art, I usually just had to muddle through Chemistry because the formulas felt like a foreign language.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "geek out on",
+      "ipa": "/ɡiːk aʊt ɒn/",
+      "meaning": "mê mẩn/phấn khích thái quá về một chủ đề kỹ thuật hoặc chuyên sâu",
+      "example": "My friends and I would constantly geek out on the latest tech trends during our Computer Science breaks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "delve into",
+      "ipa": "/delv ˈɪntuː/",
+      "meaning": "đi sâu vào tìm hiểu/khám phá",
+      "example": "History was fascinating because it allowed us to delve into the socio-political reasons behind major world conflicts.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "skimp on",
+      "ipa": "/skɪmp ɒn/",
+      "meaning": "làm qua loa/thiếu đầu tư (thời gian, công sức)",
+      "example": "I never skimped on my Literature assignments because I genuinely enjoyed analyzing the symbolism in every novel.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out to",
+      "ipa": "/stænd aʊt tuː/",
+      "meaning": "gây ấn tượng mạnh/đáng nhớ đối với ai đó",
+      "example": "The creative writing workshops really stood out to me as the highlight of my high school years.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wrap one's head around",
+      "ipa": "/ræp wʌnz hed əˈraʊnd/",
+      "meaning": "hiểu thấu đáo một vấn đề phức tạp",
+      "example": "It took me a while to wrap my head around calculus, but once I did, it became my most liked subject.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "glance over",
+      "ipa": "/ɡlæns ˈoʊvər/",
+      "meaning": "xem lướt qua (vì đã nắm rõ hoặc không quan tâm)",
+      "example": "I only needed to glance over my biology notes before a test because the concepts felt so intuitive to me.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

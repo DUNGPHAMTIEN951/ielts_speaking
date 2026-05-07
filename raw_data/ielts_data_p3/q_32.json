@@ -1,0 +1,52 @@
+{
+  "id": "q_32",
+  "topic": "Shoes",
+  "q": "Do you often buy shoes from famous brands?",
+  "examiner_note": "Nói về thương hiệu vs chất lượng. Sử dụng 'athletic shoes', 'durability', 'technology and research', 'status symbol'.",
+  "samples": {
+    "band7": {
+      "text": "Sometimes, especially for athletic shoes where performance and durability are key. I find that well-known brands often offer better technology and research that really benefits my feet, though I'm happy with lesser-known brands for casual wear.",
+      "note": "Sử dụng từ nối và phân biệt mục đích sử dụng (athletic shoes, durability, well-known)."
+    },
+    "band8": {
+      "text": "I do gravitate towards reputable brands for my more active footwear, as I trust their commitment to quality and innovation. However, I’m not solely driven by brand names; I’m always open to exploring emerging designers if their products offer the same level of craftsmanship and comfort.",
+      "note": "Sử dụng từ vựng hay (gravitate, commitment, innovation, emerging, craftsmanship)."
+    },
+    "band9": {
+      "text": "While I appreciate the prestige associated with certain luxury brands, I prioritize functional excellence above all. I often opt for established names in the athletic industry due to their extensive research and development. However, for formal wear, I’m more concerned with the quality of the materials and the timelessness of the design than the label itself.",
+      "note": "Sử dụng từ vựng ở mức độ cao (prestige, functional excellence, established, extensive, timelessness)."
+    }
+  },
+  "v": [
+    {
+      "word": "prestige",
+      "meaning": "uy tín/danh giá",
+      "ipa": "/preˈstiːʒ/",
+      "example": "The company has a lot of prestige."
+    },
+    {
+      "word": "craftsmanship",
+      "meaning": "sự khéo léo/tay nghề",
+      "ipa": "/ˈkræftsmənʃɪp/",
+      "example": "The furniture is a fine example of traditional craftsmanship."
+    },
+    {
+      "word": "emerging",
+      "meaning": "mới nổi",
+      "ipa": "/ɪˈmɜːrdʒɪŋ/",
+      "example": "She is an emerging talent in the fashion world."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "solely",
+      "meaning": "duy nhất",
+      "ipa": "/ˈsəʊlli/",
+      "example": "He is solely responsible for the project."
+    }
+  ],
+  "similar_questions": [
+    "Why are some brands so expensive?",
+    "Do you think brands are important?"
+  ]
+}

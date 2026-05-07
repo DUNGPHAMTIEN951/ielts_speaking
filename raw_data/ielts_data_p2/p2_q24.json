@@ -1,0 +1,50 @@
+{
+  "q": "Describe a book you read that you found useful.",
+  "cue_card": [
+    "A book you read that you found useful.",
+    "What the book is",
+    "Why you decided to read it",
+    "What you learned from it",
+    "And explain why you found it useful"
+  ],
+  "examiner_note": "Chủ đề sách yêu cầu chuyên môn hóa từ vựng về thể loại và việc đọc (non-fiction, self-help, devour a book). Hãy tập trung miêu tả cách cuốn sách đó đã thay đổi suy nghĩ hoặc đem lại kỹ năng thực tiễn cho bạn (practical application, actionable advice).",
+  "samples": {
+    "band7": "I'm going to talk about a book called 'Atomic Habits'. It is a popular self-help book about building good habits and breaking bad ones. I decided to read it because I wanted to be more organized with my studies. From this book, I learned that small changes can make a big difference if you do them every day. I found it very useful because the advice is easy to follow and it actually helped me improve my daily routine.",
+    "band8": "I’d like to describe a non-fiction book that had a profound impact on me, titled 'Atomic Habits' by James Clear. I picked it up during a time when I was struggling with procrastination and wanted to enhance my productivity. The core premise I gleaned from it is the concept of marginal gains—the idea that tiny, incremental changes compound over time to yield massive results. I found it exceptionally useful because it eschews vague motivational rhetoric in favor of practical, actionable advice that is grounded in behavioral psychology.",
+    "band9": "A literary work that proved to be an indispensable resource for me is 'Atomic Habits', a seminal self-help volume by James Clear. I was compelled to read it in an effort to overcome chronic procrastination and optimize my workflow. The book elegantly unpacks the mechanics of habit formation, emphasizing the profound power of infinitesimal, compounding changes over time. What made it extraordinarily useful was its pragmatic delivery; it circumvented cliché platitudes to offer a robust, scientifically backed framework. Implementing its actionable strategies catalyzed a genuine paradigm shift in how I manage my time and cognitive resources, yielding immediate and tangible academic dividends."
+  },
+  "v": [
+    {
+      "word": "Seminal",
+      "meaning": "Có ảnh hưởng lớn, định hình tương lai (Strongly influencing later developments)",
+      "example": "His seminal work on artificial intelligence is still widely cited."
+    },
+    {
+      "word": "Marginal gains",
+      "meaning": "Những lợi ích/tiến bộ nhỏ lẻ (Small incremental improvements that in combination bring a significant benefit)",
+      "example": "The coach focused on marginal gains to improve the team's overall performance."
+    },
+    {
+      "word": "Compounding",
+      "meaning": "Gộp lại, tích lũy (Make up a composite whole; increase over time)",
+      "example": "The compounding effect of saving money early is well known."
+    },
+    {
+      "word": "Actionable advice",
+      "meaning": "Lời khuyên có thể áp dụng thực tế (Advice that can be acted upon)",
+      "example": "The seminar provided actionable advice rather than just theory."
+    },
+    {
+      "word": "Platitudes",
+      "meaning": "Lời sáo rỗng (A remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful)",
+      "example": "The speech was full of meaningless platitudes."
+    },
+    {
+      "word": "Tangible dividends",
+      "meaning": "Thành quả rõ ràng/hữu hình (Clear, concrete benefits or rewards)",
+      "example": "Her hard work in the gym finally paid tangible dividends."
+    }
+  ],
+  "topic": "Describe a book you read that you found useful.",
+  "id": "p2_q24"
+}

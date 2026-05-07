@@ -1,0 +1,52 @@
+{
+  "id": "q_2",
+  "topic": "Sports team",
+  "q": "Are team sports popular in your culture?",
+  "examiner_note": "Nói về tầm quan trọng của thể thao (đặc biệt là bóng đá ở Việt Nam). Sử dụng 'national identity', 'second religion', 'unite'.",
+  "samples": {
+    "band7": {
+      "text": "Extremely popular. Football, in particular, is like a second religion in Vietnam. Whenever our national team plays, the streets are filled with fans cheering and celebrating together. It’s a huge part of our national identity.",
+      "note": "Sử dụng so sánh tốt (second religion) và giải thích lý do."
+    },
+    "band8": {
+      "text": "Undoubtedly. Team sports, especially football, hold a special place in the hearts of Vietnamese people. It’s not just about the game; it’s about the collective passion and national pride. When major tournaments happen, you can feel a tremendous sense of unity across the country.",
+      "note": "Sử dụng từ vựng mạnh (Undoubtedly, hold a special place, collective passion, tremendous, unity)."
+    },
+    "band9": {
+      "text": "They are deeply ingrained in our cultural fabric. Football stands out as a preeminent force that transcends social barriers, acting as a powerful catalyst for national solidarity. The fervor displayed during international fixtures is a testament to how team sports can galvanize an entire nation and foster a shared identity.",
+      "note": "Sử dụng ngôn ngữ học thuật và hình ảnh (ingrained in cultural fabric, preeminent, transcends, catalyst, fervor, fixtures, galvanize)."
+    }
+  },
+  "v": [
+    {
+      "word": "ingrained",
+      "meaning": "ăn sâu vào",
+      "ipa": "/ɪnˈɡreɪnd/",
+      "example": "Traditions are deeply ingrained in our society."
+    },
+    {
+      "word": "catalyst",
+      "meaning": "chất xúc tác",
+      "ipa": "/ˈkætəlɪst/",
+      "example": "The victory was a catalyst for national pride."
+    },
+    {
+      "word": "galvanize",
+      "meaning": "kích động/phấn chấn",
+      "ipa": "/ˈɡælvənaɪz/",
+      "example": "The speech helped galvanize the crowd."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "preeminent",
+      "meaning": "ưu việt/vượt trội",
+      "ipa": "/priˈemɪnənt/",
+      "example": "Football is the preeminent sport in Vietnam."
+    }
+  ],
+  "similar_questions": [
+    "What is the most popular sport in your country?",
+    "Why do people love football so much?"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_7",
+  "vocab": [
+    {
+      "word": "switch off",
+      "ipa": "/swɪtʃ ɒf/",
+      "meaning": "ngừng suy nghĩ về công việc hoặc các vấn đề gây căng thẳng",
+      "example": "Parks provide a sanctuary where urban dwellers can finally switch off from the constant demands of their digital lives.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng hoặc hấp thụ (không khí, ánh nắng, bầu không khí)",
+      "example": "Many people visit local gardens just to soak up the tranquil atmosphere and the much-needed Vitamin D.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blow off some steam",
+      "ipa": "/bləʊ ɒf sʌm stiːm/",
+      "meaning": "giải tỏa cơn giận hoặc năng lượng dư thừa",
+      "example": "After a high-pressure meeting, walking briskly through a park helps me blow off some steam and regain my composure.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear out",
+      "ipa": "/klɪər aʊt/",
+      "meaning": "loại bỏ những thứ không cần thiết (nghĩa bóng: làm sạch tâm trí)",
+      "example": "A long stroll in a green space is the most effective way to clear out the mental cobwebs after a long day of tedious tasks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bəl əˈpɒn/",
+      "meaning": "tình cờ phát hiện ra điều gì đó thú vị",
+      "example": "One of the joys of wandering through larger parks is the chance to stumble upon hidden sculptures or rare bird species.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊ.vər/",
+      "meaning": "suy ngẫm kỹ lưỡng về một vấn đề nào đó",
+      "example": "I often find that walking at a slow pace in nature allows me the headspace to mull over complex life decisions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get away from it all",
+      "ipa": "/ɡet əˈweɪ frəm ɪt ɔːl/",
+      "meaning": "thoát khỏi cuộc sống thường nhật đầy áp lực",
+      "example": "Public parks offer a convenient way for city residents to get away from it all without having to travel far to the countryside.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "duy trì sự kết nối hoặc theo kịp (bạn bè, người thân)",
+      "example": "Parks are social hubs where people can keep up with their friends' lives while engaging in a healthy outdoor activity.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "thả lỏng, thư giãn dần dần trước khi nghỉ ngơi",
+      "example": "I love to take a gentle walk as the sun sets to help my body wind down before heading home for the evening.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "work up",
+      "ipa": "/wɜːk ʌp/",
+      "meaning": "kích thích hoặc tạo ra (thường là cảm giác thèm ăn hoặc sức lực)",
+      "example": "Families often spend hours in the park to help the children work up an appetite before a big weekend lunch.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

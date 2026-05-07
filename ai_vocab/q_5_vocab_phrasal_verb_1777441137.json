@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "rack up",
+      "ipa": "/ræk ʌp/",
+      "meaning": "tích lũy được (số lượng, quãng đường)",
+      "example": "By walking to the office every day, I easily rack up over ten thousand steps before dinner.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "amble along",
+      "ipa": "/ˈæm.bəl əˈlɒŋ/",
+      "meaning": "đi dạo thong thả, chậm rãi",
+      "example": "On weekends, I love to amble along the riverbank just to clear my head and enjoy the breeze.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head off",
+      "ipa": "/hed ɒf/",
+      "meaning": "bắt đầu đi/khởi hành đi đâu đó",
+      "example": "I usually head off for a brisk walk around the local park as soon as I finish my morning coffee.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clock up",
+      "ipa": "/klɒk ʌp/",
+      "meaning": "đạt được một con số cụ thể (thời gian hoặc khoảng cách)",
+      "example": "It is quite surprising how much distance you can clock up just by opting for the stairs instead of the lift.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "map out",
+      "ipa": "/mæp aʊt/",
+      "meaning": "vạch ra lộ trình hoặc kế hoạch chi tiết",
+      "example": "I enjoy mapping out new walking routes through the city to discover hidden gems and quiet backstreets.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng/hấp thụ (không khí, cảm giác) khi đi bộ",
+      "example": "Walking allows me to really soak up the atmosphere of the neighborhood in a way that driving never could.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wear down",
+      "ipa": "/weər daʊn/",
+      "meaning": "làm mòn (giày dép) do đi bộ quá nhiều",
+      "example": "I walk so frequently that I tend to wear down the soles of my trainers within just a few months.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stroll around",
+      "ipa": "/strəʊl əˈraʊnd/",
+      "meaning": "đi dạo quanh một khu vực để thư giãn",
+      "example": "After a heavy meal, I find that strolling around the block helps a lot with my digestion.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut through",
+      "ipa": "/kʌt θruː/",
+      "meaning": "đi đường tắt xuyên qua đâu đó",
+      "example": "I often cut through the university campus on foot because it's much more scenic than the main road.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up",
+      "ipa": "/kiːp ʌp/",
+      "meaning": "duy trì tốc độ đi bộ nhanh",
+      "example": "My dog is quite energetic, so I have to walk pretty fast just to keep up with him.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

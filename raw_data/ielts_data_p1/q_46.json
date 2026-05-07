@@ -1,0 +1,72 @@
+{
+  "id": "q_46",
+  "topic": "Studying",
+  "q": "What is the most difficult subject for you to learn?",
+  "examiner_note": "Câu hỏi này về thử thách cá nhân. \n- **Hướng dẫn trả lời**: Chọn một môn bạn thấy khó (Toán, Lý, Văn, ngoại ngữ khác). Giải thích tại sao (nhiều công thức, quá trừu tượng, khó nhớ từ vựng). Bạn có thể nói thêm về cách bạn vượt qua nó. \n- **Mẹo**: Sử dụng các cụm từ như 'find it quite challenging', 'struggle with', 'abstract concepts', 'memorize formulas', 'overcome the difficulty', 'persistently'." ,
+  "samples": {
+    "band7": {
+      "text": "For me, Physics is the most difficult subject. I find it very hard to memorize all the formulas and understand how they apply to real life. I usually have to spend more time on it than on other subjects to get a good grade.",
+      "note": "Trả lời trực tiếp, nêu lý do cụ thể (công thức, ứng dụng). Sử dụng từ vựng ổn ('memorize', 'formulas')."
+    },
+    "band8": {
+      "text": "I've always struggled with Mathematics. I find the abstract concepts and complex logic quite challenging to grasp. However, I've been trying to overcome this difficulty by practicing regularly and asking my teachers for extra help.",
+      "note": "Sử dụng từ vựng tốt ('struggled with', 'abstract concepts', 'challenging to grasp', 'overcome the difficulty'). Cách diễn đạt cầu tiến."
+    },
+    "band9": {
+      "text": "Undoubtedly, philosophy has been the most demanding subject for me. I often find the highly abstract theories and dense academic texts to be quite overwhelming. Despite the initial struggle, I persistently engage with the materials to broaden my intellectual horizons.",
+      "note": "Từ vựng ở trình độ C1/C2 ('undoubtedly', 'demanding', 'abstract theories', 'dense academic texts', 'persistently', 'intellectual horizons'). Diễn đạt cực kỳ học thuật."
+    }
+  },
+  "v": [
+    { "word": "struggle with", "meaning": "vật lộn với/gặp khó khăn với", "ipa": "/ˈstrʌɡl wɪð/", "example": "Many students struggle with chemistry because of its complex formulas." },
+    { "word": "abstract concepts", "meaning": "khái niệm trừu tượng", "ipa": "/ˈæbstrækt ˈkɒnseptz/", "example": "Mathematics often involves high-level abstract concepts." },
+    { "word": "challenging to grasp", "meaning": "thử thách để nắm bắt/hiểu", "ipa": "/ˈtʃælɪndʒɪŋ tuː ɡrɑːsp/", "example": "The theory of relativity is incredibly challenging to grasp for beginners." },
+    { "word": "overcome difficulty", "meaning": "vượt qua khó khăn", "ipa": "/ˌəʊvəˈkʌm ˈdɪfɪkəlti/", "example": "He worked hard to overcome his difficulty with reading and writing." },
+    { "word": "persistently", "meaning": "một cách kiên trì", "ipa": "/pəˈsɪstəntli/", "example": "She persistently practiced until she could play the piano piece perfectly." },
+    { "word": "demanding subject", "meaning": "môn học đòi hỏi cao", "ipa": "/dɪˈmɑːndɪŋ ˈsʌbdʒɪkt/", "example": "Medicine is widely known as a very demanding subject of study." },
+    { "word": "dense academic texts", "meaning": "văn bản học thuật dày đặc/khó hiểu", "ipa": "/dens ˌækəˈdemɪk teksts/", "example": "The students spent hours trying to understand the dense academic texts in the library." },
+    { "word": "intellectual horizons", "meaning": "tầm hiểu biết trí tuệ", "ipa": "/ˌɪntəˈlektʃuəl həˈraɪznz/", "example": "Studying history abroad really helped broaden my intellectual horizons." },
+    { "word": "memorize formulas", "meaning": "ghi nhớ công thức", "ipa": "/ˈmeməraɪz ˈfɔːmjuləz/", "example": "I find it very boring to simply memorize formulas without understanding the logic behind them." },
+    { "word": "overwhelming", "meaning": "choáng ngợp", "ipa": "/ˌəʊvəˈwelmɪŋ/", "example": "The amount of work I have to do this week is absolutely overwhelming." },
+    { "word": "grasp", "meaning": "nắm bắt/hiểu thấu", "ipa": "/ɡrɑːsp/", "example": "It took me a long time to grasp the main idea of the lecture." },
+    { "word": "perseverance", "meaning": "sự kiên trì", "ipa": "/ˌpɜːsɪˈvɪərəns/", "example": "Learning a new language requires a great deal of patience and perseverance." },
+    { "word": "dedication", "meaning": "sự tận tụy", "ipa": "/ˌdedɪˈkeɪʃn/", "example": "His dedication to his research is truly inspiring for everyone in the department." },
+    { "word": "tiresome", "meaning": "mệt mỏi/chán ngấy", "ipa": "/ˈtaɪəsəm/", "example": "Doing the same repetitive tasks every day can be very tiresome." },
+    { "word": "taxing", "meaning": "đòi hỏi nhiều nỗ lực/mệt mỏi", "ipa": "/ˈtæksɪŋ/", "example": "The exam period is a very taxing time for both students and teachers." },
+    { "word": "daunting", "meaning": "làm nản chí/đáng sợ", "ipa": "/ˈdɔːntɪŋ/", "example": "The prospect of speaking in front of a thousand people was quite daunting." },
+    { "word": "complex", "meaning": "phức tạp", "ipa": "/ˈkɒmpleks/", "example": "The problem is more complex than it first appears." },
+    { "word": "intricate", "meaning": "tinh vi/phức tạp", "ipa": "/ˈɪntrɪkət/", "example": "The clock has an extremely intricate mechanism with hundreds of tiny parts." },
+    { "word": "theoretical", "meaning": "mang tính lý thuyết", "ipa": "/θɪəˈretɪkl/", "example": "The course is very theoretical and lacks practical application." },
+    { "word": "academic rigor", "meaning": "sự khắt khe trong học thuật", "ipa": "/ˌækəˈdemɪk ˈrɪɡə(r)/", "example": "The PhD program is known for its intense academic rigor." },
+    { "word": "mental block", "meaning": "sự bế tắc/ngăn chặn về tinh thần", "ipa": "/ˈmentl blɒk/", "example": "I had a total mental block during the math exam and couldn't remember anything." },
+    { "word": "confusion", "meaning": "sự bối rối/lẫn lộn", "ipa": "/kənˈfjuːʒn/", "example": "There was a lot of confusion about the new rules." },
+    { "word": "frustrating", "meaning": "đáng thất vọng/gây bực bội", "ipa": "/frʌˈstreɪtɪŋ/", "example": "It's very frustrating when you study hard but still don't get a good grade." },
+    { "word": "counterintuitive", "meaning": "ngược với trực giác", "ipa": "/ˌkaʊntərɪnˈtjuːɪtɪv/", "example": "The laws of quantum physics are often described as counterintuitive." },
+    { "word": "elusive", "meaning": "khó nắm bắt/mơ hồ", "ipa": "/ɪˈluːsɪv/", "example": "The answer to the problem remained elusive despite hours of work." },
+    { "word": "multifaceted", "meaning": "đa diện/nhiều khía cạnh", "ipa": "/ˌmʌltiˈfæsɪtɪd/", "example": "Poverty is a multifaceted problem that requires a complex solution." },
+    { "word": "academic hurdle", "meaning": "rào cản học thuật", "ipa": "/ˌækəˈdemɪk ˈhɜːdl/", "example": "Passing the entrance exam is the first major academic hurdle for students." },
+    { "word": "analytical thinking", "meaning": "tư duy phân tích", "ipa": "/ˌænəˈlɪtɪkl ˈθɪŋkɪŋ/", "example": "Science subjects help develop strong analytical thinking skills." },
+    { "word": "logical reasoning", "meaning": "suy luận logic", "ipa": "/ˈlɒdʒɪkl ˈriːzənɪŋ/", "example": "Mathematics is based on precise logical reasoning." },
+    { "word": "critical analysis", "meaning": "phân tích phản biện", "ipa": "/ˈkrɪtɪkl əˈnæləsɪs/", "example": "The course requires students to perform a critical analysis of historical events." },
+    { "word": "self-correction", "meaning": "tự sửa lỗi", "ipa": "/ˌself kəˈrekʃn/", "example": "Learning from your own mistakes through self-correction is very effective." },
+    { "word": "revision", "meaning": "ôn tập/sửa đổi", "ipa": "/rɪˈvɪʒn/", "example": "I've started my revision early to avoid cramming before the exam." },
+    { "word": "rote learning", "meaning": "học vẹt", "ipa": "/rəʊt ˈlɜːnɪŋ/", "example": "The school is trying to move away from rote learning and towards interactive methods." },
+    { "word": "comprehend", "meaning": "thấu hiểu/lĩnh hội", "ipa": "/ˌkɒmprɪˈhend/", "example": "I can't comprehend how someone could be so cruel to animals." },
+    { "word": "mastery", "meaning": "sự thành thạo/làm chủ", "ipa": "/ˈmɑːstəri/", "example": "Achieving mastery in a musical instrument takes years of practice." },
+    { "word": "proficiency", "meaning": "sự thông thạo/năng lực", "ipa": "/prəˈfɪʃnsi/", "example": "You need to demonstrate a high level of proficiency in English to apply for the course." },
+    { "word": "competence", "meaning": "năng lực/khả năng", "ipa": "/ˈkɒmpɪtəns/", "example": "The training program aims to improve the professional competence of the staff." },
+    { "word": "guidance", "meaning": "sự hướng dẫn", "ipa": "/ˈɡaɪdns/", "example": "I'm looking for some guidance on which career path to choose." },
+    { "word": "tutor", "meaning": "gia sư/người hướng dẫn", "ipa": "/ˈtjuːtə(r)/", "example": "He hired a private tutor to help him with his A-level maths." },
+    { "word": "extracurricular", "meaning": "ngoại khóa", "ipa": "/ˌekstrəkəˈrɪkjələ(r)/", "example": "I have very little time for extracurricular activities because of my heavy workload." },
+    { "word": "academic environment", "meaning": "môi trường học thuật", "ipa": "/ˌækəˈdemɪk ɪnˈvaɪrənmənt/", "example": "The university provides a very stimulating academic environment for research." },
+    { "word": "intellectual curiosity", "meaning": "sự tò mò về trí tuệ", "ipa": "/ˌɪntəˈlektʃuəl ˌkjʊəriˈɒsəti/", "example": "Reading widely is a great way to satisfy your intellectual curiosity." },
+    { "word": "perseverance", "meaning": "sự kiên trì", "ipa": "/ˌpɜːsɪˈvɪərəns/", "example": "Her success is a testament to her hard work and perseverance." },
+    { "word": "tenacity", "meaning": "sự bền bỉ/ngoan cường", "ipa": "/təˈnæsəti/", "example": "He showed great tenacity in pursuing his goals despite many setbacks." },
+    { "word": "resilience", "meaning": "khả năng phục hồi/kiên cường", "ipa": "/rɪˈzɪliəns/", "example": "Children often show a remarkable amount of resilience after a traumatic event." },
+    { "word": "grit", "meaning": "sự can trường/bền gan", "ipa": "/ɡrɪt/", "example": "Success in life requires a combination of passion and grit." },
+    { "word": "determination", "meaning": "sự quyết tâm", "ipa": "/dɪˌtɜːmɪˈneɪʃn/", "example": "She has a lot of determination and never gives up easily." },
+    { "word": "motivation", "meaning": "động lực", "ipa": "/ˌməʊtɪˈveɪʃn/", "example": "What was your main motivation for wanting to become a doctor?" },
+    { "word": "commitment", "meaning": "sự cam kết/tận tâm", "ipa": "/kəˈmɪtmənt/", "example": "The company has a strong commitment to environmental sustainability." },
+    { "word": "excellence", "meaning": "sự xuất sắc", "ipa": "/ˈeksələns/", "example": "The school strives for excellence in both academics and sports." }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_16",
+  "vocab": [
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑːrvl æt/",
+      "meaning": "chiêm ngưỡng với sự kinh ngạc",
+      "example": "I often stop to marvel at the intricate gothic stonework of old cathedrals before taking a shot.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blend in",
+      "ipa": "/blend ɪn/",
+      "meaning": "hòa hợp, tiệp màu với xung quanh",
+      "example": "I love how some modern eco-friendly buildings manage to blend in with the natural landscape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zoom in on",
+      "ipa": "/zuːm ɪn ɒn/",
+      "meaning": "phóng to vào một chi tiết cụ thể",
+      "example": "I prefer to zoom in on the weathered textures of ancient doors rather than taking a wide shot of the whole street.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, khác biệt",
+      "example": "The colonial-era villas really stand out against the backdrop of glass and steel skyscrapers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble across",
+      "ipa": "/ˈstʌmbl əˈkrɔːs/",
+      "meaning": "tình cờ tìm thấy",
+      "example": "Sometimes I stumble across hidden architectural gems while wandering through the older quarters of the city.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "reflect on",
+      "ipa": "/rɪˈflekt ɒn/",
+      "meaning": "phản chiếu lên bề mặt nào đó",
+      "example": "I enjoy capturing the way the sunset reflects on the glass facades of the financial district.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sprawl out",
+      "ipa": "/sprɔːl aʊt/",
+      "meaning": "trải dài, mở rộng ra (thường nói về đô thị)",
+      "example": "From the rooftop, you can see how the residential complexes sprawl out towards the horizon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fit in with",
+      "ipa": "/fɪt ɪn wɪð/",
+      "meaning": "phù hợp với phong cách chung",
+      "example": "I like photographing how new renovations are designed to fit in with the historical aesthetic of the neighborhood.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "scale back",
+      "ipa": "/skeɪl bæk/",
+      "meaning": "giảm bớt quy mô/kích cỡ",
+      "example": "When the architecture is too overwhelming, I scale back my composition to focus on a single window or arch.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brighten up",
+      "ipa": "/ˈbraɪtn ʌp/",
+      "meaning": "làm rạng rỡ, làm sáng sủa hơn",
+      "example": "The colorful street art on the side of that derelict warehouse really brightens up the whole photo.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_19",
+  "vocab": [
+    {
+      "word": "mess around with",
+      "ipa": "/mes əˈraʊnd wɪð/",
+      "meaning": "làm phép thử, nghịch ngợm hoặc thử nghiệm một cách không quá nghiêm túc",
+      "example": "When I was in primary school, I used to mess around with watercolors just to see how the colors blended on the paper.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sketch out",
+      "ipa": "/sketʃ aʊt/",
+      "meaning": "vẽ phác thảo những nét cơ bản",
+      "example": "I remember spending my afternoons trying to sketch out the characters from my favorite comic books.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "doodle away",
+      "ipa": "/ˈduːdl əˈweɪ/",
+      "meaning": "vẽ nguệch ngoạc một cách mải mê (thường là khi đang tập trung vào việc khác hoặc để giết thời gian)",
+      "example": "I would often doodle away in the margins of my notebooks during history lectures.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "meaning": "học được một kỹ năng mới thông qua việc quan sát hoặc thực hành tự nhiên",
+      "example": "I managed to pick up some basic shading techniques by watching my older sister paint.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "start off with",
+      "ipa": "/stɑːrt ɒf wɪð/",
+      "meaning": "bắt đầu bằng việc gì đó hoặc vật liệu gì đó",
+      "example": "In our art class, we usually started off with simple charcoal drawings before moving on to oil paints.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wash over",
+      "ipa": "/wɒʃ ˈəʊvər/",
+      "meaning": "phủ một lớp màu mỏng (thường dùng trong kỹ thuật màu nước)",
+      "example": "The teacher showed us how to let the blue pigment wash over the canvas to create a realistic sky.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blot out",
+      "ipa": "/blɒt aʊt/",
+      "meaning": "xóa sạch hoặc che phủ hoàn toàn (thường là che đi lỗi sai bằng màu đậm)",
+      "example": "Whenever I made a mistake, I would try to blot it out with a thicker layer of acrylic paint.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "flesh out",
+      "ipa": "/fleʃ aʊt/",
+      "meaning": "thêm chi tiết vào một bản phác thảo thô để làm nó hoàn thiện hơn",
+      "example": "After drawing the basic outline of the landscape, I'd spend hours fleshing out the trees and clouds.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "give up on",
+      "ipa": "/ɡɪv ʌp ɒn/",
+      "meaning": "từ bỏ việc gì đó (do cảm thấy quá khó hoặc không có năng khiếu)",
+      "example": "To be honest, I almost gave up on painting altogether because I found it incredibly frustrating to get the perspective right.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "hồi tưởng lại, nhìn lại quá khứ",
+      "example": "I often look back on those early art lessons with great fondness, even though I wasn't particularly talented.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

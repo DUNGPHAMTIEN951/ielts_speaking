@@ -1,0 +1,76 @@
+{
+  "id": "q_31",
+  "vocab": [
+    {
+      "word": "gravitate towards",
+      "ipa": "/ˈɡræv.ɪ.teɪt təˈwɔːdz/",
+      "meaning": "bị thu hút về phía/có xu hướng chọn",
+      "example": "I’ve always struggled with rote learning, so I naturally gravitated towards Design where practical creativity is key.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stem from",
+      "ipa": "/stem frɒm/",
+      "meaning": "bắt nguồn từ/xuất phát từ",
+      "example": "My decision to study Sociology stems from a deep-seated desire to understand the root causes of social inequality.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp/cập nhật những thay đổi mới nhất",
+      "example": "I chose Computer Science primarily because I wanted to keep up with the breakneck pace of technological advancement.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drawn into",
+      "ipa": "/drɔːn ˈɪn.tuː/",
+      "meaning": "bị cuốn hút vào một lĩnh vực/hoạt động nào đó",
+      "example": "After reading a few case studies, I was completely drawn into the world of Forensic Science.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "point toward",
+      "ipa": "/pɔɪnt təˈwɔːd/",
+      "meaning": "gợi ý/chỉ ra một hướng đi phù hợp",
+      "example": "My high school aptitude tests all pointed toward a career in Engineering, given my strength in spatial reasoning.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "weigh up",
+      "ipa": "/weɪ ʌp/",
+      "meaning": "cân nhắc kỹ lưỡng (ưu và nhược điểm)",
+      "example": "I spent months weighing up the pros and cons of different majors before deciding that Marketing was the most versatile option.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fit in with",
+      "ipa": "/fɪt ɪn wɪð/",
+      "meaning": "phù hợp với (tầm nhìn/giá trị/lối sống)",
+      "example": "Studying Hospitality fits in with my long-term goal of managing a boutique hotel chain in the future.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look into",
+      "ipa": "/lʊk ˈɪn.tuː/",
+      "meaning": "nghiên cứu/tìm hiểu kỹ thông tin",
+      "example": "I started looking into International Relations after becoming fascinated by global political shifts during the elections.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "chance upon",
+      "ipa": "/tʃɑːns əˈpɒn/",
+      "meaning": "vô tình bắt gặp (cơ hội hoặc thông tin)",
+      "example": "I chanced upon an online course in UX Design and immediately realized it was the perfect blend of psychology and art.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "opt for",
+      "ipa": "/ɒpt fɔːr/",
+      "meaning": "lựa chọn (thường là sau khi cân nhắc các phương án khác)",
+      "example": "Despite my parents' pressure to study Medicine, I eventually opted for Archaeology to follow my true passion.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

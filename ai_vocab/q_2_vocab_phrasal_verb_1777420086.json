@@ -1,0 +1,76 @@
+{
+  "id": "q_2",
+  "vocab": [
+    {
+      "word": "take up",
+      "ipa": "/teɪk ʌp/",
+      "meaning": "bắt đầu một thói quen/sở thích",
+      "example": "I actually took up stamp collecting when I was only six years old after finding my grandfather's old album.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stick with",
+      "ipa": "/stɪk wɪð/",
+      "meaning": "kiên trì, gắn bó lâu dài với cái gì",
+      "example": "Although many of my friends changed their interests, I've stuck with playing chess for over fifteen years.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "grow on",
+      "ipa": "/ɡrəʊ ɒn/",
+      "meaning": "dần dần trở nên được yêu thích hơn (theo thời gian)",
+      "example": "Classical piano didn't appeal to me at first, but it really grew on me as I practiced more throughout my teens.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get into",
+      "ipa": "/ɡet ˈɪntuː/",
+      "meaning": "trở nên hăng hái, bắt đầu say mê",
+      "example": "I first got into photography using an old film camera, and that passion has only intensified over the years.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up",
+      "ipa": "/kiːp ʌp/",
+      "meaning": "duy trì, tiếp tục làm gì đó",
+      "example": "It's been challenging with a busy work schedule, but I try my best to keep up my drawing habit every weekend.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass down",
+      "ipa": "/pɑːs daʊn/",
+      "meaning": "truyền lại (từ thế hệ trước sang thế hệ sau)",
+      "example": "Gardening is a hobby that was passed down to me by my mother, and I’ve been nurturing my own plants since primary school.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "delve into",
+      "ipa": "/delv ˈɪntuː/",
+      "meaning": "tìm hiểu sâu, đi sâu nghiên cứu",
+      "example": "Even as a young child, I loved to delve into historical encyclopedias, which sparked my lifelong interest in archaeology.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "map out",
+      "ipa": "/mæp aʊt/",
+      "meaning": "lên kế hoạch chi tiết (cho một hành trình hoặc dự án sở thích)",
+      "example": "I used to spend hours mapping out imaginary worlds in my notebook, a hobby that eventually led me to become an illustrator.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toy with",
+      "ipa": "/tɔɪ wɪð/",
+      "meaning": "cân nhắc, thử nghiệm nhẹ nhàng (ý tưởng hoặc công việc)",
+      "example": "I initially just toyed with the idea of creative writing as a kid, but it soon evolved into a serious daily practice.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lose oneself in",
+      "ipa": "/luːz wʌnˈself ɪn/",
+      "meaning": "mải mê, đắm chìm hoàn toàn vào cái gì",
+      "example": "Whenever I pick up a fantasy novel, I completely lose myself in the story, just as I did when I was ten.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

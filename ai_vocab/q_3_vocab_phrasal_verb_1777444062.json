@@ -1,0 +1,76 @@
+{
+  "id": "q_3",
+  "vocab": [
+    {
+      "word": "wile away",
+      "ipa": "/waɪl əˈweɪ/",
+      "meaning": "giết thời gian một cách thư thả, dễ chịu",
+      "example": "I used to wile away my weekend afternoons sketching superheroes in my backyard.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tire out",
+      "ipa": "/ˈtaɪər aʊt/",
+      "meaning": "làm cho mệt lử (thường do hoạt động quá hăng say)",
+      "example": "We would play football until we completely tired ourselves out, just as the sun began to set.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pave the way for",
+      "ipa": "/peɪv ðə weɪ fɔːr/",
+      "meaning": "mở đường cho/tạo tiền đề cho (một kỹ năng hoặc đam mê sau này)",
+      "example": "My childhood obsession with Lego actually paved the way for my current career in architecture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔːr ˈəʊvər/",
+      "meaning": "nghiên cứu kỹ lưỡng, mải mê đọc",
+      "example": "I would pore over atlas maps for hours, memorizing every single country and capital city.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "act out",
+      "ipa": "/ækt aʊt/",
+      "meaning": "đóng vai, diễn lại (một câu chuyện hoặc tình huống)",
+      "example": "My siblings and I loved to act out scenes from our favorite cartoons after school.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stick with",
+      "ipa": "/stɪk wɪð/",
+      "meaning": "kiên trì, tiếp tục gắn bó với một hoạt động",
+      "example": "Drawing was the only hobby that really stuck with me throughout my entire adolescence.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tinker with",
+      "ipa": "/ˈtɪŋkər wɪð/",
+      "meaning": "loay hoay sửa chữa, lắp ráp hoặc thay đổi thứ gì đó",
+      "example": "I spent a lot of time tinkering with old radios to see if I could make them work again.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set aside",
+      "ipa": "/set əˈsaɪd/",
+      "meaning": "dành riêng (thời gian hoặc tiền bạc) cho một mục đích",
+      "example": "I always set aside my pocket money to buy the latest issues of my favorite comic books.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ tìm thấy, vô tình phát hiện ra",
+      "example": "I stumbled upon a box of old coins in the attic, which sparked a lifelong interest in numismatics.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look up to",
+      "ipa": "/lʊk ʌp tu/",
+      "meaning": "ngưỡng mộ và noi theo (thường là lý do bắt đầu một sở thích)",
+      "example": "I looked up to my older brother, so I started playing guitar just because he did.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

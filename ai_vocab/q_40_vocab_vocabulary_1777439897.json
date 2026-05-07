@@ -1,0 +1,76 @@
+{
+  "id": "q_40",
+  "vocab": [
+    {
+      "word": "cacophony of sounds",
+      "ipa": "/kəˈkɒf.ə.ni əv saʊndz/",
+      "meaning": "một mớ âm thanh hỗn độn, tai quái",
+      "example": "Living in the city center means I wake up to a cacophony of sounds, from blaring horns to screeching brakes.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "ambient noise",
+      "ipa": "/ˈæm.bi.ənt nɔɪz/",
+      "meaning": "tiếng ồn xung quanh/tiếng ồn nền",
+      "example": "I've grown so accustomed to the ambient noise of the office that I find total silence quite unsettling.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "incessant chatter",
+      "ipa": "/ɪnˈses.ənt ˈtʃæt.ər/",
+      "meaning": "tiếng nói chuyện phiếm không ngớt",
+      "example": "The incessant chatter of commuters on the train can be quite draining during my morning journey.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "muffled thud",
+      "ipa": "/ˈmʌf.əld θʌd/",
+      "meaning": "tiếng bịch/tiếng động trầm đục bị bóp nghẹt",
+      "example": "In my apartment, I occasionally hear the muffled thud of footsteps from the neighbors living upstairs.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "pierce the silence",
+      "ipa": "/pɪəs ðə ˈsaɪ.ləns/",
+      "meaning": "xé tan bầu không khí tĩnh lặng",
+      "example": "Every few hours, the high-pitched siren of an ambulance will pierce the silence of our suburban street.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "low-frequency hum",
+      "ipa": "/ləʊ ˈfriː.kwən.si hʌm/",
+      "meaning": "tiếng ù ù tần số thấp",
+      "example": "There is a constant low-frequency hum from the industrial air conditioning units nearby that never seems to stop.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "auditory overload",
+      "ipa": "/ˈɔː.dɪ.tər.i ˌəʊ.vəˈləʊd/",
+      "meaning": "sự quá tải về thính giác (do quá nhiều tiếng ồn)",
+      "example": "Visiting the local wet market often results in auditory overload because of the shouting vendors and clattering pans.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "rattle and clatter",
+      "ipa": "/ˈræt.əl ənd ˈklæt.ər/",
+      "meaning": "tiếng lạch cạch và loảng xoảng",
+      "example": "I can always hear the rattle and clatter of the old elevator whenever someone on my floor uses it.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "echo through",
+      "ipa": "/ˈek.əʊ θruː/",
+      "meaning": "vang vọng khắp (không gian)",
+      "example": "The sound of construction work tends to echo through the narrow alleyways of my neighborhood all day long.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "drown out",
+      "ipa": "/draʊn aʊt/",
+      "meaning": "át đi tiếng động khác",
+      "example": "The roar of the jet engines from the nearby airport completely drowns out our conversation every time a plane takes off.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

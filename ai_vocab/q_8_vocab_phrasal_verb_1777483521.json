@@ -1,0 +1,76 @@
+{
+  "id": "q_8",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, cảnh vật)",
+      "example": "I’d love to walk through the streets of Paris to soak up the vibrant atmosphere and admire the architecture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head for",
+      "ipa": "/hed fɔːr/",
+      "meaning": "đi về phía, hướng tới một địa điểm nào đó",
+      "example": "If I had a free weekend, I would head for the coastal paths in Cornwall for a long, breezy trek.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bəl əˈpɒn/",
+      "meaning": "tình cờ phát hiện ra điều gì đó thú vị",
+      "example": "I enjoy wandering aimlessly in old cities, hoping to stumble upon a hidden garden or a quaint little bookstore.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "map out",
+      "ipa": "/mæp aʊt/",
+      "meaning": "lên kế hoạch chi tiết cho một lộ trình",
+      "example": "Before going, I would carefully map out a trail through the Highlands to ensure I don't miss any scenic viewpoints.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "break away from",
+      "ipa": "/breɪk əˈweɪ frəm/",
+      "meaning": "thoát khỏi (áp lực, sự ồn ào, thói quen)",
+      "example": "Taking a long walk in the countryside is the perfect way to break away from the hustle and bustle of city life.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊ.vər/",
+      "meaning": "ngẫm nghĩ, suy ngẫm về điều gì đó",
+      "example": "I find that walking alone in a quiet forest helps me mull over complex problems and clear my head.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stop off",
+      "ipa": "/stɒp ɒf/",
+      "meaning": "ghé thăm nơi nào đó một lát trên đường đi",
+      "example": "I'd like to walk along the valley and stop off at a local teahouse for a quick refreshment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "ngắm nhìn, thưởng ngoạn cảnh vật",
+      "example": "I would pause every now and then to take in the breathtaking panoramic views from the top of the ridge.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch off",
+      "ipa": "/brɑːntʃ ɒf/",
+      "meaning": "rẽ nhánh (khỏi con đường chính)",
+      "example": "I’m the type of person who likes to branch off the main trail to explore the lesser-known, secluded paths.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up",
+      "ipa": "/ɡɪər ʌp/",
+      "meaning": "chuẩn bị trang thiết bị/tinh thần cho một hoạt động",
+      "example": "I need to gear up with a sturdy pair of hiking boots before embarking on such a demanding long-distance walk.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

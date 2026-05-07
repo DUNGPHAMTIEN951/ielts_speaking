@@ -1,0 +1,72 @@
+{
+  "id": "q_13",
+  "topic": "Scenery",
+  "q": "Do you like to take scenery pictures?",
+  "examiner_note": "Đây là một câu hỏi mở rộng của chủ đề nhiếp ảnh và phong cảnh. Bạn nên tập trung vào lý do tại sao bạn thích thể loại ảnh này (ví dụ: vẻ đẹp tĩnh lặng, sự hùng vĩ của thiên nhiên). Hãy nhắc đến các yếu tố kỹ thuật như 'lighting', 'framing', 'wide-angle'. Bạn có thể so sánh giữa việc chụp ảnh chân dung (portraits) và ảnh phong cảnh (scenery) để làm nổi bật sở thích.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I really enjoy taking scenery pictures. Whenever I go hiking or visit a new city, I take my camera to capture the beautiful views. I think scenery photos are much more relaxing to look at later than pictures of people.",
+      "note": "Trả lời trực tiếp và đưa ra ví dụ cụ thể (hiking, new city). Sử dụng từ vựng tự nhiên (capture, relaxing)."
+    },
+    "band8": {
+      "text": "Absolutely. I find landscape photography to be incredibly fulfilling. There’s something special about freezing a magnificent sunset or a tranquil mountain range in a frame. I especially enjoy experimenting with different lighting and angles to get the perfect shot. It’s a great way to preserve the beauty of nature.",
+      "note": "Sử dụng từ vựng chuyên môn nhẹ (landscape photography, magnificent, frame, experimenting with lighting). Cách diễn đạt mạch lạc."
+    },
+    "band9": {
+      "text": "Indeed, I’m a passionate landscape photography enthusiast. I’m particularly drawn to the challenge of capturing the raw, unadulterated beauty of the natural world. For me, it’s not just about snapping a photo; it’s about understanding the interplay between light and shadow and finding a unique perspective. I find that scenic photography allows me to translate the silent majesty of nature into a visual narrative.",
+      "note": "Từ vựng cực kỳ học thuật và giàu tính nghệ thuật (unadulterated, interplay, perspective, translate, silent majesty, visual narrative). Cách lập luận rất sâu sắc và tinh tế."
+    }
+  },
+  "v": [
+    { "word": "landscape photography", "meaning": "nhiếp ảnh phong cảnh", "ipa": "/ˈlændskeɪp fəˈtɑːɡrəfi/", "example": "Landscape photography requires a lot of patience to wait for the right light." },
+    { "word": "unadulterated beauty", "meaning": "vẻ đẹp thuần khiết/không bị pha tạp", "ipa": "/ˌʌnəˈdʌltəreɪtɪd ˈbjuːti/", "example": "The remote island offered scenes of unadulterated beauty." },
+    { "word": "interplay", "meaning": "sự tương tác/kết hợp", "ipa": "/ˈɪntərpleɪ/", "example": "The interplay of light and shadow on the building was fascinating." },
+    { "word": "visual narrative", "meaning": "câu chuyện bằng hình ảnh", "ipa": "/ˈvɪʒuəl ˈnærətɪv/", "example": "The photo series creates a powerful visual narrative of the war." },
+    { "word": "silent majesty", "meaning": "vẻ oai nghiêm tĩnh lặng", "ipa": "/ˈsaɪlənt ˈmædʒəsti/", "example": "We stood in awe of the silent majesty of the ancient redwood trees." },
+    { "word": "frozen in time", "meaning": "đóng băng trong thời gian", "ipa": "/ˈfroʊzn ɪn taɪm/", "example": "Photographs make moments feel frozen in time." },
+    { "word": "perspective", "meaning": "phối cảnh/góc nhìn", "ipa": "/pərˈspektɪv/", "example": "Changing your perspective can completely change a photograph." },
+    { "word": "lighting", "meaning": "ánh sáng", "ipa": "/ˈlaɪtɪŋ/", "example": "The soft evening lighting was perfect for a portrait." },
+    { "word": "framing", "meaning": "cách đóng khung (trong ảnh)", "ipa": "/ˈfreɪmɪŋ/", "example": "Natural elements like trees are great for framing a subject." },
+    { "word": "wide-angle lens", "meaning": "ống kính góc rộng", "ipa": "/ˌwaɪd ˈæŋɡl lenz/", "example": "A wide-angle lens is essential for capturing vast landscapes." },
+    { "word": "aesthetic", "meaning": "có tính thẩm mỹ", "ipa": "/esˈθetɪk/", "example": "The website has a clean and modern aesthetic." },
+    { "word": "magnificent", "meaning": "nguy nga/hùng vĩ", "ipa": "/mæɡˈnɪfɪsnt/", "example": "The palace is a magnificent building." },
+    { "word": "panoramic", "meaning": "toàn cảnh", "ipa": "/ˌpænəˈræmɪk/", "example": "The hotel offers a panoramic view of the coastline." },
+    { "word": "breathtaking", "meaning": "đẹp đến nín thở", "ipa": "/ˈbreθˌteɪkɪŋ/", "example": "The view from the top of the mountain was breathtaking." },
+    { "word": "stunning", "meaning": "lộng lẫy/ấn tượng", "ipa": "/ˈstʌnɪŋ/", "example": "She looked stunning in her red dress." },
+    { "word": "vivid colors", "meaning": "màu sắc sống động", "ipa": "/ˈvɪvɪd ˈkʌlərz/", "example": "The sunset was full of vivid colors like pink and purple." },
+    { "word": "tranquil", "meaning": "yên tịnh/thanh bình", "ipa": "/ˈtræŋkwɪl/", "example": "The library is a tranquil place to work." },
+    { "word": "serenity", "meaning": "sự thanh thản/phẳng lặng", "ipa": "/səˈrenəti/", "example": "The meditation helped her find a sense of serenity." },
+    { "word": "scenic beauty", "meaning": "vẻ đẹp phong cảnh", "ipa": "/ˈsiːnɪk ˈbjuːti/", "example": "Many tourists visit Switzerland for its scenic beauty." },
+    { "word": "nature enthusiast", "meaning": "người đam mê thiên nhiên", "ipa": "/ˈneɪtʃər ɪnˈθuːziæst/", "example": "As a nature enthusiast, Jim spends every weekend camping." },
+    { "word": "capture the essence", "meaning": "ghi lại cái hồn/bản chất", "ipa": "/ˈkæptʃər ðə ˈesns/", "example": "The artist tried to capture the essence of the city in his sketches." },
+    { "word": "point-and-shoot", "meaning": "loại máy ảnh nhỏ gọn, tự động", "ipa": "/ˌpɔɪnt n ˈʃuːt/", "example": "I prefer a professional DSLR over a point-and-shoot camera." },
+    { "word": "high resolution", "meaning": "độ phân giải cao", "ipa": "/haɪ ˌrezəˈluːʃn/", "example": "A high resolution photo has great detail even when zoomed in." },
+    { "word": "digital gallery", "meaning": "bộ sưu tập kỹ thuật số", "ipa": "/ˈdɪdʒɪtl ˈɡæləri/", "example": "My phone's digital gallery is organized by date and location." },
+    { "word": "social media platform", "meaning": "nền tảng mạng xã hội", "ipa": "/ˈsoʊʃl ˈmiːdiə ˈplætˌfɔːrm/", "example": "Instagram is the most popular social media platform for sharing photos." },
+    { "word": "editing software", "meaning": "phần mềm chỉnh sửa", "ipa": "/ˈedɪtɪŋ ˈsɔːftwer/", "example": "Photoshop is the industry standard for photo editing software." },
+    { "word": "filter", "meaning": "bộ lọc (chỉnh màu)", "ipa": "/ˈfɪltər/", "example": "This filter makes everything look like an old movie." },
+    { "word": "post-processing", "meaning": "hậu kỳ (xử lý sau khi chụp)", "ipa": "/poʊst ˈprɑːsesɪŋ/", "example": "Post-processing is a vital part of professional photography." },
+    { "word": "exposure", "meaning": "độ phơi sáng", "ipa": "/ɪkˈspoʊʒər/", "example": "Long exposure is needed to capture the night sky." },
+    { "word": "composition", "meaning": "bố cục", "ipa": "/ˌkɑːmpəˈzɪʃn/", "example": "The composition of the painting is very balanced." },
+    { "word": "shutter", "meaning": "màn trập", "ipa": "/ˈʃʌtər/", "example": "The sound of the camera shutter is very satisfying." },
+    { "word": "tripod", "meaning": "chân máy ảnh", "ipa": "/ˈtraɪpɑːd/", "example": "You need a tripod to keep the camera steady for long shots." },
+    { "word": "depth of field", "meaning": "độ sâu trường ảnh/độ mờ hậu cảnh", "ipa": "/depθ əv fiːld/", "example": "A shallow depth of field helps the subject stand out." },
+    { "word": "mount", "meaning": "ngọn núi (thường dùng trong văn chương/tên riêng)", "ipa": "/maʊnt/", "example": "Mount Everest is the highest mountain in the world." },
+    { "word": "valley", "meaning": "thung lũng", "ipa": "/ˈvæli/", "example": "The tiny houses were scattered across the green valley." },
+    { "word": "canyon", "meaning": "hẻm núi", "ipa": "/ˈkænjən/", "example": "The Grand Canyon was carved by the Colorado River." },
+    { "word": "waterfall", "meaning": "thác nước", "ipa": "/ˈwɔːtərfɔːl/", "example": "We hiked for miles to see the majestic waterfall." },
+    { "word": "rugged coastline", "meaning": "bờ biển gồ ghề", "ipa": "/ˈrʌɡɪd ˈkoʊstlaɪn/", "example": "The lighthouse stands on a rugged coastline." },
+    { "word": "misty", "meaning": "có sương mù/mờ ảo", "ipa": "/ˈmɪsti/", "example": "The forest looked very mysterious on a misty morning." },
+    { "word": "lush green", "meaning": "xanh mướt/tươi tốt", "ipa": "/lʌʃ ɡriːn/", "example": "After the rain, the field was a lush green color." },
+    { "word": "horizon", "meaning": "đường chân trời", "ipa": "/həˈraɪzn/", "example": "The ship disappeared over the horizon." },
+    { "word": "reflection", "meaning": "sự phản chiếu", "ipa": "/rɪˈflekʃn/", "example": "The mountain's reflection on the lake was perfect." },
+    { "word": "symmetry", "meaning": "sự đối xứng", "ipa": "/ˈsɪmətri/", "example": "I love the symmetry in classical architecture." },
+    { "word": "vantage point", "meaning": "điểm thuận lợi (để quan sát)", "ipa": "/ˈvæntɪdʒ pɔɪnt/", "example": "The top of the tower is an excellent vantage point." },
+    { "word": "spectacular sight", "meaning": "quang cảnh đẹp mắt", "ipa": "/spekˈtækjələr saɪt/", "example": "The Northern Lights are a truly spectacular sight." },
+    { "word": "awe-inspiring", "meaning": "đầy tuyệt vọng/khiến người khác nể sợ", "ipa": "/ˈɔː ɪnˌspaɪərɪŋ/", "example": "The sheer scale of the building is awe-inspiring." },
+    { "word": "evocative", "meaning": "gợi nhớ/khơi gợi (cảm xúc)", "ipa": "/ɪˈvɑːkətɪv/", "example": "The song is very evocative of my childhood." },
+    { "word": "mesmerizing", "meaning": "quyến rũ/mê hồn", "ipa": "/ˈmezməraɪzɪŋ/", "example": "The dance was mesmerizing to watch." },
+    { "word": "magnify", "meaning": "phóng đại", "ipa": "/ˈmæɡnɪfaɪ/", "example": "A telescope can magnify distant stars." },
+    { "word": "look through a lens", "meaning": "nhìn qua ống kính", "ipa": "/lʊk θruː ə lenz/", "example": "Seeing the world through a lens changes your perspective." }
+  ]
+}

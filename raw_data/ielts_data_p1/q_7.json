@@ -1,0 +1,72 @@
+{
+  "id": "q_7",
+  "topic": "Scenery",
+  "q": "Where can you enjoy beautiful views where you live?",
+  "examiner_note": "Giám khảo muốn bạn mô tả một địa điểm cụ thể và lý do tại sao nó đẹp. Hãy sử dụng các tính từ mô tả mạnh mẽ (vivid adjectives) thay vì chỉ dùng 'beautiful' hay 'nice'. Bạn có thể nói về một công viên, một bờ sông, hoặc thậm chí là góc nhìn từ một quán cà phê trên cao. Các cụm từ như 'panoramic view', 'picturesque', 'hustle and bustle' sẽ rất hiệu quả.",
+  "samples": {
+    "band7": {
+      "text": "Where I live, there are some stunning views along the riverside. I often go there in the evening to watch the sunset, and the way the city lights reflect on the water is truly mesmerizing. It's a great place to escape from the noise of the city.",
+      "note": "Cung cấp địa điểm cụ thể (riverside) và mô tả chi tiết (city lights reflect). Sử dụng từ vựng tốt (stunning, mesmerizing)."
+    },
+    "band8": {
+      "text": "I’m fortunate to live in an area with diverse scenery. One of my favorite spots is a rooftop cafe in the city center that offers a breathtaking panoramic view of the skyline. It’s particularly captivating during the 'golden hour' when the entire city is bathed in a warm, orange glow. It’s the perfect place to unwind and take in the beauty of the urban landscape.",
+      "note": "Sử dụng từ vựng nâng cao (diverse scenery, breathtaking panoramic view, captivating, golden hour). Cách diễn đạt mang tính hình ảnh cao."
+    },
+    "band9": {
+      "text": "Living in a coastal city, I’m spoiled for choice when it comes to scenic vistas. However, the most unparalleled view is from a lookout point on a nearby hill. From there, you can witness the majestic meeting of the azure ocean and the rugged coastline. The serenity of the location, combined with the sheer scale of the horizon, is absolutely awe-inspiring. It provides a profound sense of tranquility that is hard to find amidst the typical urban sprawl.",
+      "note": "Sử dụng vốn từ vựng cực kỳ phong phú và học thuật (spoiled for choice, scenic vistas, unparalleled, azure, rugged coastline, serenity, awe-inspiring, urban sprawl). Cách lập luận và mô tả rất tinh tế."
+    }
+  },
+  "v": [
+    { "word": "scenic vista", "meaning": "quang cảnh đẹp mắt", "ipa": "/ˈsiːnɪk ˈvɪstə/", "example": "The hotel balcony offers a stunning scenic vista of the valley." },
+    { "word": "unparalleled", "meaning": "vô song/không gì sánh kịp", "ipa": "/ʌnˈpærəleld/", "example": "The mountain peak provides an unparalleled view of the sunrise." },
+    { "word": "azure", "meaning": "xanh ngọc/xanh da trời trong vắt", "ipa": "/ˈæʒər/", "example": "The azure waters of the Mediterranean are famous worldwide." },
+    { "word": "rugged coastline", "meaning": "bờ biển gồ ghề/hiểm trở", "ipa": "/ˈrʌɡɪd ˈkoʊstlaɪn/", "example": "Ireland is known for its beautiful and rugged coastline." },
+    { "word": "awe-inspiring", "meaning": "đầy cảm hứng/khiến người ta phải kinh ngạc", "ipa": "/ˈɔː ɪnˌspaɪərɪŋ/", "example": "The Grand Canyon is one of the most awe-inspiring sights on Earth." },
+    { "word": "urban sprawl", "meaning": "sự mở rộng đô thị (thường mang nghĩa tiêu cực)", "ipa": "/ˈɜːrbən sprɔːl/", "example": "The park provides a rare green space amidst the urban sprawl." },
+    { "word": "spoiled for choice", "meaning": "có quá nhiều lựa chọn tốt", "ipa": "/spɔɪld fər tʃɔɪs/", "example": "In this city, you are spoiled for choice when it comes to good restaurants." },
+    { "word": "panoramic view", "meaning": "tầm nhìn toàn cảnh", "ipa": "/ˌpænəˈræmɪk vjuː/", "example": "The Observation Deck gives you a 360-degree panoramic view of London." },
+    { "word": "skyline", "meaning": "đường chân trời/hình dáng thành phố phía xa", "ipa": "/ˈskaɪlaɪn/", "example": "The New York City skyline is recognizable all over the world." },
+    { "word": "golden hour", "meaning": "giờ vàng (lúc hoàng hôn hoặc bình minh)", "ipa": "/ˈɡoʊldən ˈaʊər/", "example": "Photographers love shooting during the golden hour for the soft light." },
+    { "word": "bathed in light", "meaning": "ngập tràn trong ánh sáng", "ipa": "/beɪðd ɪn laɪt/", "example": "The valley was bathed in the soft glow of the morning sun." },
+    { "word": "mesmerizing", "meaning": "mê hoặc/quyến rũ", "ipa": "/ˈmezməraɪzɪŋ/", "example": "The movement of the waves was absolutely mesmerizing." },
+    { "word": "picturesque", "meaning": "đẹp như tranh vẽ", "ipa": "/kætʃ ðə ˈaɪ/", "example": "The village is small but very picturesque." },
+    { "word": "catch the eye", "meaning": "thu hút ánh nhìn", "ipa": "/kætʃ ðə aɪ/", "example": "The bright red flowers caught my eye immediately." },
+    { "word": "breathtaking", "meaning": "đẹp đến nín thở", "ipa": "/ˈbreθteɪkɪŋ/", "example": "The view from the top of the waterfall was breathtaking." },
+    { "word": "stunning", "meaning": "cực kỳ ấn tượng/đẹp", "ipa": "/ˈstʌnɪŋ/", "example": "She looked absolutely stunning in her wedding dress." },
+    { "word": "tranquility", "meaning": "sự yên tĩnh/thanh bình", "ipa": "/træŋˈkwɪləti/", "example": "I love the tranquility of the countryside." },
+    { "word": "hustle and bustle", "meaning": "sự hối hả và nhộn nhịp", "ipa": "/ˈhʌsl ənd ˈbʌsl/", "example": "I need a break from the hustle and bustle of city life." },
+    { "word": "landmark", "meaning": "địa danh/công trình nổi bật", "ipa": "/ˈlændmɑːrk/", "example": "The Eiffel Tower is the most famous landmark in Paris." },
+    { "word": "vibrant", "meaning": "sôi động/đầy sức sống", "ipa": "/ˈvaɪbrənt/", "example": "The market is constant, vibrant and full of energy." },
+    { "word": "rolling hills", "meaning": "những ngọn đồi nhấp nhô", "ipa": "/ˈroʊlɪŋ hɪlz/", "example": "The English countryside is famous for its rolling hills." },
+    { "word": "foliage", "meaning": "tán lá", "ipa": "/ˈfoʊliiɪdʒ/", "example": "In autumn, the foliage turns into brilliant shades of red and gold." },
+    { "word": "lush", "meaning": "tươi tốt/xanh mướt", "ipa": "/lʌʃ/", "example": "The tropical island is covered in lush vegetation." },
+    { "word": "crystal clear", "meaning": "trong suốt như pha lê", "ipa": "/ˌkrɪstl ˈklɪr/", "example": "The lake water is crystal clear, you can see the fish at the bottom." },
+    { "word": "mist-covered", "meaning": "phủ đầy sương mù", "ipa": "/mɪst ˈkʌvərd/", "example": "The mist-covered mountains looked very mysterious." },
+    { "word": "unspoilt", "meaning": "còn nguyên sơ (chưa bị con người tác động)", "ipa": "/ˌʌnˈspɔɪlt/", "example": "This part of the coast is still largely unspoilt by tourism." },
+    { "word": "secluded", "meaning": "hẻo lánh/yên tĩnh", "ipa": "/sɪˈkluːdɪd/", "example": "We found a secluded beach where we were completely alone." },
+    { "word": "spectacular", "meaning": "ngoạn mục", "ipa": "/spekˈtæk jələr/", "example": "The fireworks display was truly spectacular." },
+    { "word": "majestic", "meaning": "hùng vĩ/uy nghiêm", "ipa": "/məˈdʒestɪk/", "example": "The majestic peaks of the Himalayas are a sight to behold." },
+    { "word": "reflection", "meaning": "sự phản chiếu", "ipa": "/rɪˈflekʃn/", "example": "The reflection of the moon on the water was beautiful." },
+    { "word": "illuminate", "meaning": "chiếu sáng", "ipa": "/ɪˈluːmɪneɪt/", "example": "Floodlights illuminate the stadium at night." },
+    { "word": "serene", "meaning": "thanh bình/phẳng lặng", "ipa": "/səˈriːn/", "example": "She has a very serene expression on her face." },
+    { "word": "bustling", "meaning": "nhộn nhịp/bận rộn", "ipa": "/ˈbʌslɪŋ/", "example": "The bustling streets of Tokyo are amazing to see." },
+    { "word": "contemporary", "meaning": "hiện đại/đương đại", "ipa": "/kənˈtempəreri/", "example": "The city features many contemporary buildings." },
+    { "word": "ancient", "meaning": "cổ xưa", "ipa": "/ˈeɪnʃənt/", "example": "Rome is famous for its ancient ruins." },
+    { "word": "metropolitan", "meaning": "thuộc về đô thị lớn", "ipa": "/ˌmetrəˈpɑːlɪtən/", "example": "New York is a huge metropolitan area." },
+    { "word": "overlook", "meaning": "nhìn ra (từ trên cao)", "ipa": "/ˌoʊvərˈlʊk/", "example": "Our hotel room overlooks the ocean." },
+    { "word": "stretch out", "meaning": "trải dài", "ipa": "/stretʃ aʊt/", "example": "The golden sands stretch out for miles." },
+    { "word": "dotted with", "meaning": "được điểm xuyết bởi", "ipa": "/ˈdɑːtɪd wɪð/", "example": "The hillside was dotted with colorful wild flowers." },
+    { "word": "nestled in", "meaning": "nằm gọn trong/được bao bọc bởi", "ipa": "/ˈnesld ɪn/", "example": "The village is nestled in a quiet valley." },
+    { "word": "feast for the eyes", "meaning": "bữa tiệc cho đôi mắt (cảnh rất đẹp)", "ipa": "/fiːst fər ðə aɪz/", "example": "The autumn colours in New England are a feast for the eyes." },
+    { "word": "in the middle of nowhere", "meaning": "ở nơi hẻo lánh (không bóng người)", "ipa": "/ɪn ðə ˈmɪdl əv ˈnoʊwer/", "example": "The cabin was located in the middle of nowhere." },
+    { "word": "bird's eye view", "meaning": "tầm nhìn từ trên cao xuống", "ipa": "/bɜːrdz aɪ vjuː/", "example": "From the helicopter, we had a bird's eye view of the city." },
+    { "word": "take in the view", "meaning": "ngắm nhìn/thưởng ngoạn cảnh đẹp", "ipa": "/teɪk ɪn ðə vjuː/", "example": "We sat on the bench for an hour just taking in the view." },
+    { "word": "worth the climb", "meaning": "đáng để leo lên (vì cảnh đẹp)", "ipa": "/wɜːrθ ðə klaɪm/", "example": "The path was steep, but the view from the top was worth the climb." },
+    { "word": "out of this world", "meaning": "tuyệt vời (như không thuộc về thế giới này)", "ipa": "/aʊt əv ðɪs wɜːrld/", "example": "The sunset in Santorini is simply out of this world." },
+    { "word": "feast your eyes on", "meaning": "hãy ngắm nhìn/thưởng thức (cảnh đẹp)", "ipa": "/fiːst jɔːr aɪz ɑːn/", "example": "Feast your eyes on this magnificent landscape!" },
+    { "word": "like a postcard", "meaning": "đẹp như một tấm bưu thiếp", "ipa": "/laɪk ə ˈpoʊstkɑːrd/", "example": "The snowy mountains looked just like a postcard." },
+    { "word": "eye-catching", "meaning": "bắt mắt", "ipa": "/ˈaɪ kætʃɪŋ/", "example": "The modern architecture of the museum is very eye-catching." },
+    { "word": "magnificent", "meaning": "nguy nga/lộng lẫy", "ipa": "/mæɡˈnɪfɪsnt/", "example": "The palace stood in magnificent gardens." }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "q_44",
+  "topic": "Public places",
+  "q": "Do you think your place should add more public places?",
+  "examiner_note": "Nói về nhu cầu cộng đồng. Sử dụng 'accessible', 'social well-being', 'residents', 'engage'.",
+  "samples": {
+    "band7": {
+      "text": "I believe it should. Having more accessible parks, community centers, and libraries would greatly benefit the social well-being of residents and provide more opportunities for people to connect and engage with their local area. It would make the city more livable.",
+      "note": "Đưa ra ý kiến rõ ràng và lý giải tốt (benefit, residents, engage, livable)."
+    },
+    "band8": {
+      "text": "Absolutely. I think there’s a real need for more green spaces and communal areas in our neighborhood. These places are essential for fostering a sense of community and providing residents with a much-needed space to relax and socialize. Investing in public infrastructure is always a good idea for the long-term health of a city.",
+      "note": "Sử dụng từ vựng hay (communal areas, fostering, infrastructure)."
+    },
+    "band9": {
+      "text": "I’m a strong advocate for increasing the number of public spaces in our urban environment. I believe that well-designed public areas are vital for social cohesion and individual well-being. By providing more opportunities for people to interact and engage with their surroundings, we can create a more inclusive and vibrant community for everyone.",
+      "note": "Sử dụng từ vựng ở mức độ cao (advocate, social cohesion, inclusive, vibrant)."
+    }
+  },
+  "v": [
+    {
+      "word": "advocate",
+      "meaning": "người ủng hộ/biện hộ",
+      "ipa": "/ˈædvəkət/",
+      "example": "She is a strong advocate for women's rights."
+    },
+    {
+      "word": "social cohesion",
+      "meaning": "sự gắn kết xã hội",
+      "ipa": "/ˌsəʊʃl kəʊˈhiːʒn/",
+      "example": "Public spaces play a key role in social cohesion."
+    },
+    {
+      "word": "livable",
+      "meaning": "đáng sống",
+      "ipa": "/ˈlɪvəbl/",
+      "example": "The city has been ranked as one of the most livable in the world."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "communal",
+      "meaning": "chung/cộng đồng",
+      "ipa": "/kəˈmjuːnl/",
+      "example": "The building has a communal garden."
+    }
+  ],
+  "similar_questions": [
+    "What kind of public places are missing in your city?",
+    "How can public places be improved?"
+  ]
+}

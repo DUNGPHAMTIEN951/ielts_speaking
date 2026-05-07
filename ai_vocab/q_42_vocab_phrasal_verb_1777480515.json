@@ -1,0 +1,76 @@
+{
+  "id": "q_42",
+  "vocab": [
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "nghỉ ngơi, thư giãn sau một thời gian căng thẳng",
+      "example": "After a grueling week at the office, I usually look for a serene library to wind down.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, ánh nắng, âm thanh)",
+      "example": "I love to head to the outskirts and soak up the tranquil atmosphere of the countryside.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shut out",
+      "ipa": "/ʃʌt aʊt/",
+      "meaning": "ngăn chặn, không cho (âm thanh, ánh sáng) lọt vào",
+      "example": "I prefer quiet cafes where the thick walls help to shut out the relentless roar of traffic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head for",
+      "ipa": "/hed fɔːr/",
+      "meaning": "đi thẳng về hướng nào đó",
+      "example": "On Saturdays, I often head for the botanical gardens to escape the city's hustle and bustle.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bottle up",
+      "ipa": "/ˈbɒt.əl ʌp/",
+      "meaning": "kiềm nén (cảm xúc/áp lực) - cần nơi yên tĩnh để giải tỏa",
+      "example": "If I’ve been bottling up a lot of stress, a noisy environment is the last place I’d want to be.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brighten up",
+      "ipa": "/ˈbraɪ.tən ʌp/",
+      "meaning": "làm cho (tâm trạng/ngày tháng) trở nên vui vẻ, rạng rỡ hơn",
+      "example": "Sometimes a lively, noisy market can really brighten up an otherwise dull Sunday morning.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "loại bỏ, không để tâm đến (tiếng ồn hoặc sự xao nhãng)",
+      "example": "It’s hard to block out the distractions in a crowded mall, which is why I prefer secluded spots.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get away from it all",
+      "ipa": "/ɡet əˈweɪ frəm ɪt ɔːl/",
+      "meaning": "trốn khỏi tất cả những rắc rối, mệt mỏi của cuộc sống thường nhật",
+      "example": "Finding a quiet spot by the river is the best way to get away from it all and clear my head.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "freshen up",
+      "ipa": "/ˈfreʃ.ən ʌp/",
+      "meaning": "làm mới bản thân, lấy lại năng lượng (về cả tinh thần)",
+      "example": "A stroll through a silent pine forest helps me freshen up my mind before Monday rolls around.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "thrive on",
+      "ipa": "/θraɪv ɒn/",
+      "meaning": "phát triển mạnh mẽ hoặc rất thích thú trong một môi trường nào đó",
+      "example": "While many dislike the clamor, some of my friends actually thrive on the chaotic energy of noisy festivals.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

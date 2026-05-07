@@ -1,0 +1,76 @@
+{
+  "id": "q_47",
+  "vocab": [
+    {
+      "word": "get your head down",
+      "ipa": "/ɡet jɔːr hed daʊn/",
+      "meaning": "tập trung tối đa vào việc học/làm việc",
+      "example": "I prefer studying solo when I really need to get my head down and finish a complex assignment before a deadline.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "feed off",
+      "ipa": "/fiːd ɒf/",
+      "meaning": "tận dụng năng lượng hoặc cảm hứng từ người khác",
+      "example": "I often study in groups because I can feed off the enthusiasm of my classmates, which keeps me from burning out.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hammer out",
+      "ipa": "/ˈhæm.ər aʊt/",
+      "meaning": "thảo luận kỹ lưỡng để đi đến thống nhất hoặc giải quyết vấn đề",
+      "example": "Collaborative sessions are perfect when we need to hammer out the details of a complicated group project.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sink in",
+      "ipa": "/sɪŋk ɪn/",
+      "meaning": "kiến thức dần được hiểu thấu đáo hoặc ghi nhớ sâu",
+      "example": "I need some quiet time alone after a lecture to let the new concepts really sink in.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "read up on",
+      "ipa": "/riːd ʌp ɒn/",
+      "meaning": "đọc nhiều tài liệu để tìm hiểu kỹ về một chủ đề",
+      "example": "Before our group meets, I usually spend a few hours reading up on the topic by myself so I can contribute more effectively.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick someone's brains",
+      "ipa": "/pɪk ˈsʌm.wʌnz breɪnz/",
+      "meaning": "hỏi ý kiến hoặc mượn trí tuệ của người khác về một vấn đề họ giỏi",
+      "example": "Studying with peers is a great opportunity to pick their brains on tricky subjects that I struggle to grasp alone.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall behind",
+      "ipa": "/fɔːl bɪˈhaɪnd/",
+      "meaning": "tụt hậu hoặc chậm tiến độ so với người khác/kế hoạch",
+      "example": "If I study alone for too long, I sometimes worry that I might fall behind the rest of the class without a benchmark.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "loại bỏ/khóa các yếu tố gây xao nhãng",
+      "example": "I use noise-canceling headphones to block out any noise, allowing me to enter a deep state of focus when studying solo.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "talk through",
+      "ipa": "/tɔːk θruː/",
+      "meaning": "giải thích hoặc thảo luận kỹ một vấn đề từ đầu đến cuối",
+      "example": "It’s incredibly helpful to talk through a difficult theory with a partner to ensure there are no gaps in my logic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep at it",
+      "ipa": "/kiːp æt ɪt/",
+      "meaning": "kiên trì tiếp tục làm một việc gì đó khó khăn",
+      "example": "When a topic is particularly dry, having friends around encourages me to keep at it rather than giving up early.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

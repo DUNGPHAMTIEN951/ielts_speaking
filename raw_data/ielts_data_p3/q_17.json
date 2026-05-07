@@ -1,0 +1,52 @@
+{
+  "id": "q_17",
+  "topic": "Arts and Drawing",
+  "q": "Have you ever visited an art gallery?",
+  "examiner_note": "Kể về một trải nghiệm cụ thể. Sử dụng 'unique atmosphere', 'showcases', 'diverse range', 'thought-provoking'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I’ve visited several local art galleries in my city. Each one has its own unique atmosphere and showcases a different range of artists, which I always find very interesting to explore. It’s a great way to spend a weekend afternoon.",
+      "note": "Trả lời rõ ràng, sử dụng từ vựng tốt (showcases, range, atmosphere)."
+    },
+    "band8": {
+      "text": "I certainly have. I recently visited a small gallery specializing in contemporary photography. I was struck by the raw emotional power of the images and the way the exhibition was curated to tell a compelling story. It was a very thought-provoking experience.",
+      "note": "Sử dụng từ vựng hay (specializing, contemporary, struck by, curated, compelling)."
+    },
+    "band9": {
+      "text": "I make a point of visiting galleries whenever I travel. One of the most memorable was a visit to the Uffizi Gallery in Florence. Standing in front of world-renowned masterpieces that I’d only seen in textbooks was a truly humbling and awe-inspiring experience that deepened my appreciation for art history.",
+      "note": "Sử dụng từ vựng ở mức độ cao (make a point of, world-renowned, humbling, awe-inspiring, deepened appreciation)."
+    }
+  },
+  "v": [
+    {
+      "word": "contemporary",
+      "meaning": "đương đại",
+      "ipa": "/kənˈtempəreri/",
+      "example": "The museum has a fine collection of contemporary art."
+    },
+    {
+      "word": "curate",
+      "meaning": "phụ trách triển lãm/chăm sóc",
+      "ipa": "/kjʊˈreɪt/",
+      "example": "She curated an exhibition of local artists."
+    },
+    {
+      "word": "humbling",
+      "meaning": "làm cho khiêm tốn",
+      "ipa": "/ˈhʌmblɪŋ/",
+      "example": "It was a humbling experience to meet such talented people."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "awe-inspiring",
+      "meaning": "đầy kinh ngạc/đáng kính nể",
+      "ipa": "/ˈɔː ɪnspaɪərɪŋ/",
+      "example": "The Grand Canyon is truly awe-inspiring."
+    }
+  ],
+  "similar_questions": [
+    "What is the best art exhibition you have ever seen?",
+    "Do you prefer small galleries or big museums?"
+  ]
+}

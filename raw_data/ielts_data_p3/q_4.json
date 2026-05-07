@@ -1,0 +1,52 @@
+{
+  "id": "q_4",
+  "topic": "Sports team",
+  "q": "What are the differences between team sports and individual sports?",
+  "examiner_note": "So sánh sự phối hợp (collaboration) vs sự tự lực (self-reliance). Sử dụng 'collective effort', 'personal accountability', 'interpersonal skills'.",
+  "samples": {
+    "band7": {
+      "text": "I think the main difference is the level of collaboration required. Team sports rely on communication and collective effort, whereas individual sports are more about personal discipline, focus, and self-reliance.",
+      "note": "Sử dụng từ nối tốt (whereas) và so sánh rõ ràng."
+    },
+    "band8": {
+      "text": "The fundamental distinction lies in the distribution of responsibility. In team sports, success is a byproduct of synergy and interpersonal skills. Conversely, individual sports put the spotlight on personal accountability and mental fortitude, as there’s no one else to fall back on.",
+      "note": "Sử dụng từ vựng nâng cao (fundamental distinction, byproduct, synergy, Conversely, mental fortitude)."
+    },
+    "band9": {
+      "text": "The core divergence is centered around the dynamics of achievement. Team sports necessitate a high degree of synchronicity and shared vision, fostering a collaborative mindset. In stark contrast, individual pursuits prioritize self-mastery and internal resilience, where the athlete’s psychological endurance is tested in isolation, without the safety net of a group.",
+      "note": "Cấu trúc câu phức tạp và từ vựng chuyên sâu (divergence, necessitate, synchronicity, shared vision, In stark contrast, isolation, safety net)."
+    }
+  },
+  "v": [
+    {
+      "word": "synergy",
+      "meaning": "sự hiệp lực",
+      "ipa": "/ˈsɪnərdʒi/",
+      "example": "The team's success was due to their perfect synergy."
+    },
+    {
+      "word": "mental fortitude",
+      "meaning": "nghị lực tinh thần",
+      "ipa": "/ˈmentl ˈfɔːrtɪtuːd/",
+      "example": "Individual sports require great mental fortitude."
+    },
+    {
+      "word": "synchronicity",
+      "meaning": "sự đồng bộ",
+      "ipa": "/ˌsɪŋkrəˈnɪsəti/",
+      "example": "The swimmers showed perfect synchronicity."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "divergence",
+      "meaning": "sự khác nhau/phân kỳ",
+      "ipa": "/daɪˈvɜːrdʒəns/",
+      "example": "There is a clear divergence between the two approaches."
+    }
+  ],
+  "similar_questions": [
+    "Which do you prefer, team or individual sports?",
+    "What can children learn from individual sports?"
+  ]
+}

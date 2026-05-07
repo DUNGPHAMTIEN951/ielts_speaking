@@ -1,0 +1,76 @@
+{
+  "id": "q_17",
+  "vocab": [
+    {
+      "word": "gaze at",
+      "ipa": "/ɡeɪz æt/",
+      "meaning": "ngắm nhìn chằm chằm một cách say mê",
+      "example": "I could gaze at the intricate details of a sculpture for hours without getting bored.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊvə(r)/",
+      "meaning": "ngẫm nghĩ, cân nhắc kỹ về ý nghĩa của cái gì",
+      "example": "Modern art often leaves me mulling over the artist's true intentions for days afterward.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop into",
+      "ipa": "/pɒp ˈɪntuː/",
+      "meaning": "tạt ngang qua, ghé thăm nhanh",
+      "example": "Whenever I’m in the city center, I like to pop into a small local gallery to see what’s new.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "tách biệt, ngăn chặn (tiếng ồn/sự xao nhãng)",
+      "example": "The quiet atmosphere of the gallery helps me block out the frantic pace of the outside world.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up on",
+      "ipa": "/pɪk ʌp ɒn/",
+      "meaning": "nhận ra hoặc cảm nhận được (một chi tiết/ẩn ý)",
+      "example": "It takes a keen eye to pick up on the subtle political messages hidden within the exhibition.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig into",
+      "ipa": "/dɪɡ ˈɪntuː/",
+      "meaning": "tìm hiểu sâu, nghiên cứu kỹ",
+      "example": "I love to dig into the historical background of a painting before I actually see it in person.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out into",
+      "ipa": "/brɑːntʃ aʊt ˈɪntuː/",
+      "meaning": "mở rộng sang (một lĩnh vực/thể loại mới)",
+      "example": "Lately, I’ve started to branch out into contemporary digital art rather than just sticking to classical works.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "flick through",
+      "ipa": "/flɪk θruː/",
+      "meaning": "xem lướt qua (thường là sách hướng dẫn triển lãm)",
+      "example": "I usually flick through the gallery brochure first to decide which rooms I want to prioritize.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lose oneself in",
+      "ipa": "/luːz wʌnˈself ɪn/",
+      "meaning": "mải mê, đắm chìm hoàn toàn vào cái gì",
+      "example": "It’s easy to lose oneself in the vibrant colors and abstract shapes of a large-scale mural.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand in for",
+      "ipa": "/stænd ɪn fɔː(r)/",
+      "meaning": "tượng trưng cho, thay thế cho (một khái niệm)",
+      "example": "In many of the pieces I saw, abstract symbols seemed to stand in for complex human emotions.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

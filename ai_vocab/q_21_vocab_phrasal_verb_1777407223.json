@@ -1,0 +1,76 @@
+{
+  "id": "q_21",
+  "vocab": [
+    {
+      "word": "delve into",
+      "ipa": "/delv ˈɪntuː/",
+      "meaning": "nghiên cứu sâu, tìm hiểu kỹ càng",
+      "example": "I'm keen to delve into the history of Renaissance art to understand the techniques behind those masterpieces.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại hoặc cải thiện kiến thức/kỹ năng (đã từng học)",
+      "example": "I'd love to brush up on my oil painting skills since I haven't touched a canvas since high school.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, hấp thụ (kiến thức, bầu không khí)",
+      "example": "I plan to visit more galleries to soak up the creative atmosphere and learn from contemporary artists.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sign up for",
+      "ipa": "/saɪn ʌp fɔːr/",
+      "meaning": "đăng ký (một khóa học, chương trình)",
+      "example": "In the near future, I might sign up for a digital illustration course to keep pace with modern artistic trends.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "meaning": "học lỏm hoặc tiếp thu một kỹ năng mới một cách tự nhiên",
+      "example": "By attending workshops, I hope to pick up some unique pottery techniques from experienced artisans.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out into",
+      "ipa": "/brɑːntʃ aʊt ˈɪntuː/",
+      "meaning": "mở rộng sang một lĩnh vực mới",
+      "example": "I've mostly focused on sketching, but I'd like to branch out into abstract sculpture later on.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look into",
+      "ipa": "/lʊk ˈɪntuː/",
+      "meaning": "tìm hiểu, xem xét hoặc nghiên cứu về cái gì",
+      "example": "I’m interested in looking into the psychological effects of color theory in modern art.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp, cập nhật (xu hướng, tin tức)",
+      "example": "Learning more about art would allow me to keep up with the rapidly evolving digital art scene.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "narrow down",
+      "ipa": "/ˈnærəʊ daʊn/",
+      "meaning": "thu hẹp (phạm vi, sự lựa chọn)",
+      "example": "Art is a vast field, so I need to narrow down my interests to specifically focus on 19th-century impressionism.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊpən ʌp/",
+      "meaning": "mở ra (cơ hội, khả năng mới)",
+      "example": "Studying art could open up a whole new world of self-expression and professional opportunities for me.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "cất giữ tiền vào một nơi an toàn (để dành cho tương lai)",
+      "example": "Banks provide a secure platform for individuals to tuck away their savings for retirement or unforeseen emergencies.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fork out",
+      "ipa": "/fɔːrk aʊt/",
+      "meaning": "miễn cưỡng phải chi ra một khoản tiền lớn",
+      "example": "People often rely on bank loans when they have to fork out a significant amount of money for a new car or home repairs.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sink into",
+      "ipa": "/sɪŋk ˈɪntuː/",
+      "meaning": "đổ tiền vào đầu tư (thường là một khoản lớn)",
+      "example": "Many investors use specialized bank accounts to sink their capital into diverse portfolios like stocks or gold.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep back",
+      "ipa": "/kiːp bæk/",
+      "meaning": "giữ lại một phần tiền (không chi tiêu hết)",
+      "example": "By using a separate savings account, it's easier to keep back a portion of your paycheck instead of spending it all at once.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dip into",
+      "ipa": "/dɪp ˈɪntuː/",
+      "meaning": "tiêu một phần tiền từ nguồn tiết kiệm",
+      "example": "The advantage of a flexible bank account is that you can dip into your funds whenever a sudden expense arises.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pay in",
+      "ipa": "/peɪ ɪn/",
+      "meaning": "nộp tiền vào tài khoản",
+      "example": "Most employees have their monthly salaries paid in directly to their bank accounts for convenience and safety.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "run up",
+      "ipa": "/rʌn ʌp/",
+      "meaning": "làm tăng nợ nần (do chi tiêu quá mức)",
+      "example": "Some people use banks poorly and run up massive credit card debts that take years to clear.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "write out",
+      "ipa": "/raɪt aʊt/",
+      "meaning": "viết (séc/hóa đơn) để thanh toán",
+      "example": "In the past, business owners frequently had to write out checks for their suppliers, a process managed entirely by banks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "live off",
+      "ipa": "/lɪv ɔːf/",
+      "meaning": "sống dựa vào nguồn tiền nào đó (ví dụ: lãi suất ngân hàng)",
+      "example": "High-net-worth individuals often place their wealth in fixed deposits to live off the interest generated each month.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bail out",
+      "ipa": "/beɪl aʊt/",
+      "meaning": "giải cứu tài chính (cho ai đó hoặc doanh nghiệp đang gặp khó khăn)",
+      "example": "Banks play a crucial role in the economy by providing the necessary credit to bail out struggling businesses during a recession.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

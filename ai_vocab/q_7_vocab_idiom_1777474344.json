@@ -1,0 +1,76 @@
+{
+  "id": "q_7",
+  "vocab": [
+    {
+      "word": "a change of scenery",
+      "ipa": "/ə tʃeɪndʒ əv ˈsiːnəri/",
+      "meaning": "thay đổi không khí/phong cảnh",
+      "example": "After staring at a computer screen all morning, a walk in the park provides a much-needed change of scenery.",
+      "type": "idiom"
+    },
+    {
+      "word": "clear one's head",
+      "ipa": "/klɪər wʌnz hed/",
+      "meaning": "thanh thản đầu óc/giải tỏa tâm trí",
+      "example": "Whenever I feel overwhelmed with work, I head to the nearest green space to clear my head.",
+      "type": "idiom"
+    },
+    {
+      "word": "watch the world go by",
+      "ipa": "/wɒtʃ ðə wɜːrld ɡəʊ baɪ/",
+      "meaning": "ngắm nhìn thế giới trôi qua (quan sát mọi người xung quanh)",
+      "example": "I love sitting on a park bench just to watch the world go by and enjoy the peaceful atmosphere.",
+      "type": "idiom"
+    },
+    {
+      "word": "a breath of fresh air",
+      "ipa": "/ə breθ əv freʃ er/",
+      "meaning": "một luồng gió mới (nghĩa đen: khí trong lành; nghĩa bóng: điều gì đó mới mẻ, tích cực)",
+      "example": "The local botanical garden is a breath of fresh air compared to the dusty, crowded streets of the city center.",
+      "type": "idiom"
+    },
+    {
+      "word": "get away from it all",
+      "ipa": "/ɡet əˈweɪ frəm ɪt ɔːl/",
+      "meaning": "thoát khỏi tất cả (áp lực, xô bồ của cuộc sống)",
+      "example": "People frequent parks because it’s the easiest way to get away from it all without leaving the city.",
+      "type": "idiom"
+    },
+    {
+      "word": "recharge one's batteries",
+      "ipa": "/ˌriːˈtʃɑːrdʒ wʌnz ˈbætəriz/",
+      "meaning": "hồi phục năng lượng/tái tạo sức lao động",
+      "example": "Spending an hour surrounded by nature helps me recharge my batteries for the upcoming week.",
+      "type": "idiom"
+    },
+    {
+      "word": "feast one's eyes on",
+      "ipa": "/fiːst wʌnz aɪz ɒn/",
+      "meaning": "chiêm ngưỡng vẻ đẹp (no nê con mắt)",
+      "example": "In autumn, visitors flock to the park to feast their eyes on the vibrant red and gold leaves.",
+      "type": "idiom"
+    },
+    {
+      "word": "blow away the cobwebs",
+      "ipa": "/bləʊ əˈweɪ ðə ˈkɒbwebz/",
+      "meaning": "làm cho đầu óc tỉnh táo/xua tan sự uể oải",
+      "example": "A brisk walk in the park is a great way to blow away the cobwebs on a sluggish Sunday morning.",
+      "type": "idiom"
+    },
+    {
+      "word": "take the weight off one's feet",
+      "ipa": "/teɪk ðə weɪt ɒf wʌnz fiːt/",
+      "meaning": "ngồi xuống nghỉ ngơi sau khi đi bộ lâu",
+      "example": "After a long stroll, there’s nothing better than finding a shaded bench to take the weight off your feet.",
+      "type": "idiom"
+    },
+    {
+      "word": "the best of both worlds",
+      "ipa": "/ðə best əv bəʊθ wɜːrldz/",
+      "meaning": "vẹn cả đôi đường (hòa quyện cả hai ưu điểm)",
+      "example": "Urban parks offer the best of both worlds: modern city conveniences combined with the serenity of nature.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

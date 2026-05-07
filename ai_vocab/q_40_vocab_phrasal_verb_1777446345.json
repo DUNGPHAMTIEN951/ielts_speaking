@@ -1,0 +1,76 @@
+{
+  "id": "q_40",
+  "vocab": [
+    {
+      "word": "filter out",
+      "ipa": "/ˈfɪltər aʊt/",
+      "meaning": "lọc bỏ (âm thanh không mong muốn)",
+      "example": "Living near a busy intersection, I’ve had to learn how to filter out the constant hum of traffic to get any work done.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blare out",
+      "ipa": "/bleər aʊt/",
+      "meaning": "phát ra tiếng ôm sùm, chói tai (thường là loa đài)",
+      "example": "Early in the morning, the communal loudspeakers often blare out news and announcements across the neighborhood.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "die down",
+      "ipa": "/daɪ daʊn/",
+      "meaning": "giảm dần rồi tắt hẳn (âm thanh, tiếng ồn)",
+      "example": "The street noise usually starts to die down after midnight, finally giving me some much-needed tranquility.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pipe down",
+      "ipa": "/paɪp daʊn/",
+      "meaning": "trở nên yên lặng hơn (thường dùng để yêu cầu ai đó)",
+      "example": "I sometimes wish my neighbors would pipe down when they are having those rowdy late-night parties.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift in",
+      "ipa": "/drɪft ɪn/",
+      "meaning": "trôi vào, vọng vào (âm thanh từ xa)",
+      "example": "During the weekends, the faint sound of music from a nearby cafe often drifts in through my window.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "echo back",
+      "ipa": "/ˈekəʊ bæk/",
+      "meaning": "vang vọng lại",
+      "example": "In the narrow alleyways of the city, the sound of footsteps tends to echo back, creating a rather eerie atmosphere.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "ngăn chặn, không cho âm thanh lọt vào",
+      "example": "I invested in a pair of high-quality headphones to block out the racket of the construction site next door.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pipe up",
+      "ipa": "/paɪp ʌp/",
+      "meaning": "đột ngột phát ra tiếng (thường là tiếng nói hoặc âm thanh cao)",
+      "example": "Just as the room goes quiet, the car alarms outside often pipe up, which is incredibly startling.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "startle out of",
+      "ipa": "/ˈstɑːrtl aʊt əv/",
+      "meaning": "làm giật mình khỏi (một trạng thái nào đó)",
+      "example": "The sudden screech of brakes in the street can startle me out of a deep sleep.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dull down",
+      "ipa": "/dʌl daʊn/",
+      "meaning": "làm giảm bớt độ sắc/váng của âm thanh",
+      "example": "The thick curtains in my bedroom help to dull down the sharp noises of the city outside.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

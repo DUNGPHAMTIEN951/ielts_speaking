@@ -1,0 +1,76 @@
+{
+  "id": "q_28",
+  "vocab": [
+    {
+      "word": "hammer out",
+      "ipa": "/ˈhæmər aʊt/",
+      "meaning": "thảo luận kỹ lưỡng để đi đến thống nhất (một thỏa thuận/kế hoạch)",
+      "example": "I often have to hammer out the finer details of contracts with our legal team to ensure everything is above board.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep an eye on",
+      "ipa": "/kiːp æn aɪ ɒn/",
+      "meaning": "để mắt tới, giám sát (tiến độ hoặc tình hình)",
+      "example": "My role requires me to keep an eye on emerging market trends so we don't fall behind our competitors.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drill down into",
+      "ipa": "/drɪl daʊn ˈɪntə/",
+      "meaning": "xem xét, phân tích dữ liệu một cách cực kỳ chi tiết",
+      "example": "I am responsible for drilling down into the monthly sales figures to identify where we can optimize our costs.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "reach out to",
+      "ipa": "/riːtʃ aʊt tu/",
+      "meaning": "liên lạc, kết nối với (để hỗ trợ hoặc hợp tác)",
+      "example": "I regularly reach out to external stakeholders to solicit feedback on our new product prototypes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull together",
+      "ipa": "/pʊl təˈɡeðər/",
+      "meaning": "thu thập, tập hợp (thông tin/nguồn lực) để chuẩn bị cho cái gì",
+      "example": "At the end of each week, I pull together a comprehensive report for the executive board.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "back up",
+      "ipa": "/bæk ʌp/",
+      "meaning": "ủng hộ, hỗ trợ hoặc sao lưu (dữ liệu/ý kiến)",
+      "example": "Part of my job is to back up my team's proposals with solid empirical evidence during board meetings.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tide over",
+      "ipa": "/taɪd ˈəʊvər/",
+      "meaning": "giúp vượt qua giai đoạn khó khăn (thường về tài chính)",
+      "example": "I manage the short-term grants that tide our department over during the quieter fiscal months.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw up",
+      "ipa": "/drɔː ʌp/",
+      "meaning": "soạn thảo (văn bản, hợp đồng, danh sách)",
+      "example": "One of my core duties is to draw up the initial outlines for our quarterly marketing campaigns.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "weed out",
+      "ipa": "/wiːd aʊt/",
+      "meaning": "loại bỏ (những thứ không cần thiết hoặc không đạt yêu cầu)",
+      "example": "I have to weed out any inaccuracies in the database to maintain the integrity of our client information.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "weigh in on",
+      "ipa": "/weɪ ɪn ɒn/",
+      "meaning": "đưa ra ý kiến đóng góp (trong một cuộc thảo luận quan trọng)",
+      "example": "As a senior consultant, I'm expected to weigh in on all major strategic pivots the company considers.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

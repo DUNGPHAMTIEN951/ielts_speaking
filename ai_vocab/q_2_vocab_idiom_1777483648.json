@@ -1,0 +1,76 @@
+{
+  "id": "q_2",
+  "vocab": [
+    {
+      "word": "a whole new ball game",
+      "ipa": "/ə həʊl njuː bɔːl ɡeɪm/",
+      "meaning": "một tình thế hoàn toàn khác biệt/một cục diện mới",
+      "example": "Watching a match in the stadium is a whole new ball game compared to seeing it on a small television screen.",
+      "type": "idiom"
+    },
+    {
+      "word": "get the ball rolling",
+      "ipa": "/ɡet ðə bɔːl ˈrəʊ.lɪŋ/",
+      "meaning": "bắt đầu một tiến trình hoặc hành động nào đó",
+      "example": "Local authorities often get the ball rolling by building community sports centers to encourage youngsters to play together.",
+      "type": "idiom"
+    },
+    {
+      "word": "on the ball",
+      "ipa": "/ɒn ðə bɔːl/",
+      "meaning": "nhanh nhẹn, tinh ý và am hiểu sự việc",
+      "example": "To succeed in fast-paced team sports like basketball, players really need to be on the ball at every second.",
+      "type": "idiom"
+    },
+    {
+      "word": "drop the ball",
+      "ipa": "/drɒp ðə bɔːl/",
+      "meaning": "mắc sai lầm ngớ ngẩn do thiếu trách nhiệm hoặc thiếu tập trung",
+      "example": "If the defense drops the ball in the final minutes, it can cost the entire team their chance at the championship.",
+      "type": "idiom"
+    },
+    {
+      "word": "blow the whistle on",
+      "ipa": "/bləʊ ðə ˈwɪs.əl ɒn/",
+      "meaning": "tố giác/vạch trần một hành vi sai trái (như tiêu cực trong thể thao)",
+      "example": "The media recently blew the whistle on several instances of match-fixing that had plagued the local league.",
+      "type": "idiom"
+    },
+    {
+      "word": "front-runner",
+      "ipa": "/ˌfrʌntˈrʌn.ər/",
+      "meaning": "người/đội dẫn đầu, có khả năng thắng cao nhất",
+      "example": "Our national football team is considered the front-runner in the regional games this year.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep your eye on the prize",
+      "ipa": "/kiːp jɔːr aɪ ɒn ðə praɪz/",
+      "meaning": "luôn tập trung vào mục tiêu cuối cùng",
+      "example": "Despite the grueling training schedule, the athletes keep their eye on the prize: an Olympic gold medal.",
+      "type": "idiom"
+    },
+    {
+      "word": "level playing field",
+      "ipa": "/ˌlev.əl ˈpleɪ.ɪŋ fiːld/",
+      "meaning": "một sân chơi bình đẳng/môi trường cạnh tranh công bằng",
+      "example": "Strict regulations on athlete subsidies help ensure a level playing field for all domestic clubs.",
+      "type": "idiom"
+    },
+    {
+      "word": "the ball is in your court",
+      "ipa": "/ðə bɔːl ɪz ɪn jɔːr kɔːrt/",
+      "meaning": "đến lượt bạn (phải đưa ra quyết định hoặc hành động tiếp theo)",
+      "example": "The management has offered a new contract; now the ball is in the star player's court to decide his future.",
+      "type": "idiom"
+    },
+    {
+      "word": "win hands down",
+      "ipa": "/wɪn hændz daʊn/",
+      "meaning": "thắng một cách cực kỳ dễ dàng",
+      "example": "With their superior tactics, the home team won the derby hands down, much to the delight of the local fans.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

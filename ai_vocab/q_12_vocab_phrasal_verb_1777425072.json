@@ -1,0 +1,76 @@
+{
+  "id": "q_12",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, ánh nắng)",
+      "example": "I love heading to the coast just to soak up the sun and the salty sea breeze.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get away from it all",
+      "ipa": "/ɡet əˈweɪ frəm ɪt ɔːl/",
+      "meaning": "thoát khỏi cuộc sống thường nhật ồn ào để nghỉ ngơi",
+      "example": "The mountains are the perfect place to get away from it all and clear your head.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cool off",
+      "ipa": "/kuːl ɒf/",
+      "meaning": "làm mát cơ thể, giải nhiệt",
+      "example": "There is nothing quite like diving into the ocean to cool off on a scorching summer day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gaze out at",
+      "ipa": "/ɡeɪz aʊt æt/",
+      "meaning": "nhìn đắm đuối, nhìn xa xăm vào cái gì",
+      "example": "I could spend hours sitting on a cliffside, gazing out at the vast, blue horizon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "ẩn mình, nằm ở nơi hẻo lánh/yên tĩnh",
+      "example": "I prefer the mountains because you can find cozy cabins tucked away in the forest.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "thư giãn sau một thời gian làm việc căng thẳng",
+      "example": "Walking along the shoreline helps me wind down after a particularly hectic week.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑːvl æt/",
+      "meaning": "chiêm ngưỡng với sự kinh ngạc, ngưỡng mộ",
+      "example": "Standing at the summit, you can't help but marvel at the sheer scale of the landscape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set out",
+      "ipa": "/set aʊt/",
+      "meaning": "khởi hành, bắt đầu một chuyến đi (thường là leo núi)",
+      "example": "We set out at dawn to ensure we reached the mountain peak before the midday heat.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "freshen up",
+      "ipa": "/ˈfreʃn ʌp/",
+      "meaning": "làm sảng khoái, tươi mới lại tinh thần",
+      "example": "The crisp, thin air of the highlands really helps to freshen up my mind.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out over",
+      "ipa": "/lʊk aʊt ˈəʊvə(r)/",
+      "meaning": "nhìn từ trên cao xuống bao quát một khu vực",
+      "example": "Our hotel balcony looks out over the turquoise waters of the bay.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

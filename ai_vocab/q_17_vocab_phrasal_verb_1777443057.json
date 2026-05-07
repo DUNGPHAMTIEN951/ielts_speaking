@@ -1,0 +1,76 @@
+{
+  "id": "q_17",
+  "vocab": [
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "chiêm ngưỡng, thưởng ngoạn (để hiểu và cảm nhận)",
+      "example": "I love to sit on the gallery benches and just take in the sheer beauty of the oil paintings.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop into",
+      "ipa": "/pɒp ˈɪntuː/",
+      "meaning": "ghé thăm nhanh, tạt qua",
+      "example": "Whenever I'm in the city center, I try to pop into the contemporary art space to see what's new.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm nổi bật lên (một đặc điểm, ý nghĩa)",
+      "example": "The clever use of lighting in the gallery really brings out the textures of the sculptures.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑːrvl æt/",
+      "meaning": "chiêm ngưỡng với sự kinh ngạc, thán phục",
+      "example": "Visitors often stand still for minutes just to marvel at the intricate details of the Renaissance pieces.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "reflect on",
+      "ipa": "/rɪˈflekt ɒn/",
+      "meaning": "suy ngẫm về",
+      "example": "Art galleries provide a quiet space to reflect on the artist's message and historical context.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig into",
+      "ipa": "/dɪɡ ˈɪntuː/",
+      "meaning": "tìm hiểu sâu, nghiên cứu kỹ",
+      "example": "I used the audio guide to dig into the background story of the avant-garde movement.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "come across",
+      "ipa": "/kʌm əˈkrɒs/",
+      "meaning": "tình cờ thấy, bắt gặp (một tác phẩm/nghệ sĩ)",
+      "example": "I came across a local artist’s work in a small gallery that I ended up absolutely loving.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand back",
+      "ipa": "/stænd bæk/",
+      "meaning": "lùi lại phía sau (để nhìn bao quát)",
+      "example": "You need to stand back from those large-scale installations to truly appreciate their impact.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go over",
+      "ipa": "/ɡəʊ ˈəʊvə(r)/",
+      "meaning": "xem xét, kiểm tra kỹ lưỡng",
+      "example": "I spent a good hour going over the sketches to see how the artist developed their final ideas.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "finish off",
+      "ipa": "/ˈfɪnɪʃ ɒf/",
+      "meaning": "kết thúc (một trải nghiệm, một chuyến đi)",
+      "example": "We decided to finish off our gallery visit with a coffee in the museum's charming courtyard.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

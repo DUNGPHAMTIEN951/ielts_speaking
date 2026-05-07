@@ -1,0 +1,76 @@
+{
+  "id": "q_36",
+  "vocab": [
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌkl daʊn/",
+      "meaning": "bắt đầu làm việc/học tập một cách nghiêm túc và quyết tâm",
+      "example": "I find it much easier to knuckle down to my assignments in the early morning before the world wakes up.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tide over",
+      "ipa": "/taɪd ˈoʊvər/",
+      "meaning": "giúp ai đó duy trì sự tập trung hoặc năng lượng trong một khoảng thời gian",
+      "example": "A quick snack usually tides me over during my afternoon sessions when my energy starts to dip.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "power through",
+      "ipa": "/ˈpaʊər θruː/",
+      "meaning": "hoàn thành một việc gì đó một cách nhanh chóng bằng sự nỗ lực lớn (dù mệt mỏi)",
+      "example": "If I have a mountain of paperwork, I prefer to power through it in the morning when my brain is at its sharpest.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɔːf/",
+      "meaning": "mất tập trung hoặc bắt đầu buồn ngủ",
+      "example": "I avoid studying complex theories in the afternoon because I tend to drift off after a heavy lunch.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/soʊk ʌp/",
+      "meaning": "hấp thụ/tiếp thu kiến thức một cách tự nhiên và hiệu quả",
+      "example": "My mind is like a sponge at 7 AM, allowing me to soak up new vocabulary effortlessly.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig out",
+      "ipa": "/dɪɡ aʊt/",
+      "meaning": "tìm tòi/lục lại thông tin hoặc tài liệu cũ",
+      "example": "I usually reserve the afternoon for digging out old notes to cross-reference with my new lessons.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ease into",
+      "ipa": "/iːz ˈɪntuː/",
+      "meaning": "bắt đầu một việc gì đó một cách nhẹ nhàng, từ từ",
+      "example": "I like to ease into my study routine by reading a few light articles before tackling the harder subjects.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear up",
+      "ipa": "/klɪər ʌp/",
+      "meaning": "giải quyết hoặc làm sáng tỏ những thắc mắc/vấn đề chưa hiểu",
+      "example": "I often use my afternoon group study sessions to clear up any points that confused me during the morning lecture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get through",
+      "ipa": "/ɡet θruː/",
+      "meaning": "hoàn tất một khối lượng công việc hoặc bài học nhất định",
+      "example": "It's satisfying to see how much material I can get through during a quiet four-hour block in the morning.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burn out",
+      "ipa": "/bɜːrn aʊt/",
+      "meaning": "kiệt sức hoặc mất hết động lực do làm việc quá tải",
+      "example": "I limit my afternoon study time to avoid burning out before my evening revision starts.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

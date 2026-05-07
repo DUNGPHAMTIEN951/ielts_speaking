@@ -1,0 +1,76 @@
+{
+  "id": "q_37",
+  "vocab": [
+    {
+      "word": "hole up",
+      "ipa": "/həʊl ʌp/",
+      "meaning": "ẩn mình/trốn vào một nơi yên tĩnh để làm việc trong thời gian dài",
+      "example": "During finals week, I tend to hole up in a secluded corner of the campus library to avoid any distractions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "prop up",
+      "ipa": "/prɒp ʌp/",
+      "meaning": "dựng/kê cái gì đó lên (thường là laptop hoặc sách) để làm việc",
+      "example": "I love propping up my tablet on a stand at a local cafe and working while enjoying a latte.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spread out",
+      "ipa": "/spred aʊt/",
+      "meaning": "bày bừa/trải rộng tài liệu ra một không gian lớn",
+      "example": "I prefer studying at the dining table because it allows me to spread out all my notebooks and textbooks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tune out",
+      "ipa": "/tjuːn aʊt/",
+      "meaning": "lờ đi/không chú ý đến những âm thanh xung quanh",
+      "example": "If I study in a public lounge, I use white noise to tune out the conversations around me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig into",
+      "ipa": "/dɪɡ ˈɪn.tuː/",
+      "meaning": "bắt đầu nghiên cứu hoặc tìm hiểu kỹ lưỡng một vấn đề",
+      "example": "I find it much easier to dig into complex research papers when I’m in a formal study hall.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brighten up",
+      "ipa": "/ˈbraɪ.tən ʌp/",
+      "meaning": "làm cho không gian sáng sủa/vui tươi hơn",
+      "example": "I've placed a few succulent plants on my desk to brighten up my study space and boost my mood.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɒf/",
+      "meaning": "mất tập trung/thẫn thờ (thường dùng để giải thích tại sao không học ở giường)",
+      "example": "I never study on my bed because I inevitably start to drift off instead of focusing on my metaphors.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hack away at",
+      "ipa": "/hæk əˈweɪ æt/",
+      "meaning": "nỗ lực làm dần dần một công việc lớn/khó khăn",
+      "example": "I usually go to a co-working space for a few hours every afternoon to hack away at my dissertation.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊ.pən ʌp/",
+      "meaning": "mở mang (tầm mắt/đầu óc) - dùng để nói về không gian học tập thoáng đãng",
+      "example": "Studying near a large window really opens up the room and stops me from feeling claustrophobic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stay put",
+      "ipa": "/steɪ pʊt/",
+      "meaning": "ở yên một chỗ (không di chuyển để giữ sự tập trung)",
+      "example": "Once I find a good spot in the park with a strong Wi-Fi signal, I usually stay put for the entire afternoon.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

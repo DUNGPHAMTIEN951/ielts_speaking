@@ -1,0 +1,72 @@
+{
+  "id": "q_19",
+  "topic": "Cash",
+  "q": "Do you prefer to use cash or bank services (like cards, online banking)?",
+  "examiner_note": "Chủ đề này liên quan đến thói quen tiêu dùng hiện đại. Bạn nên phân tích ưu/nhược điểm của cả hai (ví dụ: tiền mặt giúp kiểm soát chi tiêu, ngân hàng trực tuyến giúp thanh toán nhanh chóng). Hãy sử dụng các thuật ngữ như 'cashless society', 'digital transactions', 'contactless payment' để thể hiện sự am hiểu về xu hướng hiện nay.",
+  "samples": {
+    "band7": {
+      "text": "I definitely prefer using bank services like online banking and credit cards. It’s so much more convenient because I don't have to carry a lot of cash with me. Plus, I can track my spending much more easily through the banking app.",
+      "note": "Trả lời trực tiếp, rõ ràng. Nêu được các lợi ích chính (convenient, track spending). Sử dụng từ vựng tự nhiên."
+    },
+    "band8": {
+      "text": "I’m a huge advocate for digital transactions. In today’s world, bank services are indispensable for their sheer efficiency and security features. However, I usually keep a small amount of cash on hand just in case I visit smaller shops or vendors that don't accept contactless payments yet. Overall, I think we’re moving rapidly towards a cashless society.",
+      "note": "Sử dụng từ vựng nâng cao (advocate, indispensable, efficiency, contactless payments, cashless society). Cách dẫn đạt mạch lạc."
+    },
+    "band9": {
+      "text": "In this increasingly digitalized economy, I almost exclusively rely on bank services for my financial transactions. The level of convenience offered by mobile banking and digital wallets is simply unparalleled, allowing for instantaneous payments and seamless budgeting. While I recognize that cash still holds some traditional value and provides a sense of tangible control over one's funds, the security and transparency of digital banking make it my preferred choice for virtually all my expenditures.",
+      "note": "Sử dụng vốn từ vựng cực kỳ phong phú và học thuật (increasingly digitalized, almost exclusively, instantaneous, seamless, tangible, expenditures, transparency). Cách lập luận sâu sắc và thuyết phục."
+    }
+  },
+  "v": [
+    { "word": "bank services", "meaning": "dịch vụ ngân hàng", "ipa": "/bæŋk ˈsɜːrvɪsɪz/", "example": "Most people use bank services for their daily financial needs." },
+    { "word": "online banking", "meaning": "ngân hàng trực tuyến", "ipa": "/ˈɔːnlaɪn ˈbæŋkɪŋ/", "example": "Online banking has made managing personal finances much easier." },
+    { "word": "track spending", "meaning": "theo dõi chi tiêu", "ipa": "/træk ˈspendɪŋ/", "example": "Banking apps help users track their spending in real time." },
+    { "word": "digital transaction", "meaning": "giao dịch kỹ thuật số", "ipa": "/ˈdɪdʒɪtl trænˈzækʃn/", "example": "The government is encouraging more citizens to use digital transactions." },
+    { "word": "sheer efficiency", "meaning": "hiệu quả tuyệt đối", "ipa": "/ʃɪr ɪˈfɪʃnsi/", "example": "The sheer efficiency of the new software saved us hours of work." },
+    { "word": "contactless payment", "meaning": "thanh toán không tiếp xúc", "ipa": "/ˈkɑːntæktləs ˈpeɪmənt/", "example": "Contactless payment is becoming the standard for small purchases." },
+    { "word": "cashless society", "meaning": "xã hội không tiền mặt", "ipa": "/ˈkæʃləs səˈsaɪəti/", "example": "Some experts predict that we will be a completely cashless society within a decade." },
+    { "word": "digitalized economy", "meaning": "nền kinh tế số hóa", "ipa": "/ˈdɪdʒɪtəlaɪzd ɪˈkɑːnəmi/", "example": "In a digitalized economy, data is as valuable as money." },
+    { "word": "digital wallet", "meaning": "ví điện tử", "ipa": "/ˈdɪdʒɪtl ˈwɔːlɪt/", "example": "Apple Pay and Google Pay are examples of popular digital wallets." },
+    { "word": "unparalleled", "meaning": "vô song/không gì sánh kịp", "ipa": "/ʌnˈpærəleld/", "example": "The speed of fiber-optic internet is unparalleled." },
+    { "word": "instantaneous", "meaning": "tức thời", "ipa": "/ˌɪnstənˈteɪniəs/", "example": "The response from the server was almost instantaneous." },
+    { "word": "seamless budgeting", "meaning": "lập kế hoạch chi tiêu mượt mà", "ipa": "/ˈsiːmləs ˈbʌdʒɪtɪŋ/", "example": "Integrated apps allow for seamless budgeting across multiple accounts." },
+    { "word": "tangible control", "meaning": "sự kiểm soát hữu hình (có thể thấy/chạm được)", "ipa": "/ˈtændʒəbl kənˈtroʊl/", "example": "Some people prefer physical cash because it gives them a tangible control over their money." },
+    { "word": "transparency", "meaning": "sự minh bạch", "ipa": "/trænsˈpærənsi/", "example": "Blockchain technology improves the transparency of financial transactions." },
+    { "word": "expenditure", "meaning": "chi tiêu/khoản chi", "ipa": "/ɪkˈspendɪtʃər/", "example": "We need to reduce our monthly expenditure to save for a house." },
+    { "word": "atm withdrawal", "meaning": "rút tiền tại cây ATM", "ipa": "/ˌeɪ tiː ˈem wɪðˈdrɔːəl/", "example": "I need to find an ATM for a quick cash withdrawal." },
+    { "word": "credit card", "meaning": "thẻ tín dụng", "ipa": "/ˈkredɪt kɑːrd/", "example": "Waiters often bring a card machine for credit card payments." },
+    { "word": "debit card", "meaning": "thẻ ghi nợ", "ipa": "/ˈdebɪt kɑːrd/", "example": "Your debit card is directly linked to your bank account." },
+    { "word": "interest rate", "meaning": "lãi suất", "ipa": "/ˈɪntrəst reɪt/", "example": "The central bank decided to lower the interest rate this month." },
+    { "word": "savings account", "meaning": "tài khoản tiết kiệm", "ipa": "/ˈseɪvɪŋz əˈkaʊnt/", "example": "It's a good idea to put some money into a savings account every month." },
+    { "word": "mortgage", "meaning": "khoản vay thế chấp (mua nhà)", "ipa": "/ˈmɔːrɡɪdʒ/", "example": "Most young couples need a mortgage to buy their first home." },
+    { "word": "loan", "meaning": "khoản vay", "ipa": "/loʊn/", "example": "He took out a small loan to start his business." },
+    { "word": "overdraft", "meaning": "chi vượt mức (trong tài khoản)", "ipa": "/ˈoʊvərdræft/", "example": "Be careful not to go into your overdraft, as the fees are high." },
+    { "word": "bank statement", "meaning": "sao kê ngân hàng", "ipa": "/bæŋk ˈsteɪtmənt/", "example": "I check my bank statement regularly to monitor my transactions." },
+    { "word": "currency exchange", "meaning": "đổi tiền tệ", "ipa": "/ˈkɜːrənsi ɪksˈtʃeɪndʒ/", "example": "The currency exchange rate for euros is quite good today." },
+    { "word": "fraud prevention", "meaning": "phòng chống gian lận/lừa đảo", "ipa": "/frɔːd prɪˈvenʃn/", "example": "Banks use sophisticated Phạm Tiến Dũng Gia Sư for fraud prevention." },
+    { "word": "identity theft", "meaning": "đánh cắp danh tính", "ipa": "/aɪˈdentəti θeft/", "example": "Always protect your personal information to avoid identity theft." },
+    { "word": "financial literacy", "meaning": "kiến thức tài chính", "ipa": "/faɪˈnænʃl ˈlɪtərəsi/", "example": "Schools should teach more about financial literacy to prepare kids for adult life." },
+    { "word": "investment portfolio", "meaning": "danh mục đầu tư", "ipa": "/ɪnˈvestmənt pɔːrtˈfoʊlioʊ/", "example": "He has a diverse investment portfolio including stocks and bonds." },
+    { "word": "stock market", "meaning": "thị trường chứng khoán", "ipa": "/stɑːk ˈmɑːrkɪt/", "example": "The stock market can be quite volatile during a crisis." },
+    { "word": "inflation", "meaning": "lạm phát", "ipa": "/ɪnˈfleɪʃn/", "example": "High inflation means that the value of money decreases over time." },
+    { "word": "spending power", "meaning": "sức mua", "ipa": "/ˈspendɪŋ ˈpaʊər/", "example": "Wage increases help boost people's spending power." },
+    { "word": "tax return", "meaning": "quyết toán thuế/khai thuế", "ipa": "/tæks rɪˈtɜːrn/", "example": "Have you finished your tax return for this year yet?" },
+    { "word": "budgeting app", "meaning": "ứng dụng quản lý chi tiêu", "ipa": "/ˈbʌdʒɪtɪŋ æp/", "example": "Using a budgeting app helped me save more money." },
+    { "word": "pocket money", "meaning": "tiền tiêu vặt", "ipa": "/ˈpɑːkɪt ˈmʌni/", "example": "I used to save my pocket money to buy video games." },
+    { "word": "loose change", "meaning": "tiền lẻ", "ipa": "/luːs tʃeɪndʒ/", "example": "I keep all my loose change in a jar on the shelf." },
+    { "word": "bill", "meaning": "hóa đơn", "ipa": "/bɪl/", "example": "We need to pay all our utility bills by the end of the month." },
+    { "word": "receipt", "meaning": "biên lai", "ipa": "/rɪˈsiːt/", "example": "Don't forget to ask for a receipt as proof of purchase." },
+    { "word": "transaction fee", "meaning": "phí giao dịch", "ipa": "/trænˈzækʃn fiː/", "example": "Some banks charge a high transaction fee for international transfers." },
+    { "word": "wire transfer", "meaning": "chuyển khoản điện tử", "ipa": "/ˈwaɪər ˈtrænsfɜːr/", "example": "The money was sent via a wire transfer yesterday." },
+    { "word": "saving for a rainy day", "meaning": "tiết kiệm cho những lúc khó khăn", "ipa": "/ˈseɪvɪŋ fər ə ˈreɪni deɪ/", "example": "It's always smart to keep some money saved for a rainy day." },
+    { "word": "money doesn't grow on trees", "meaning": "tiền không tự dưng mà có", "ipa": "/ˈmʌni ˈdʌznt ɡroʊ ɑːn triːz/", "example": "Stop wasting your money; remember that it doesn't grow on trees!" },
+    { "word": "break the bank", "meaning": "tốn rất nhiều tiền/phá sản", "ipa": "/breɪk ðə bæŋk/", "example": "Going on this holiday won't break the bank; it's quite affordable." },
+    { "word": "live beyond one's means", "meaning": "vung tay quá trán/tiêu quá số tiền mình có", "ipa": "/lɪv bɪˈjɑːnd wʌnz miːnz/", "example": "The problem with credit cards is that people often live beyond their means." },
+    { "word": "pay through the nose", "meaning": "trả giá cắt cổ", "ipa": "/peɪ θruː ðə noʊz/", "example": "We had to pay through the nose for those concert tickets." },
+    { "word": "tighten one's belt", "meaning": "thắt lưng buộc bụng/tiết kiệm", "ipa": "/ˈtaɪtn wʌnz belt/", "example": "Inflation is high, so we all need to tighten our belts a bit." },
+    { "word": "in the red", "meaning": "đang mắc nợ", "ipa": "/ɪn ðə red/", "example": "The company has been in the red for three consecutive quarters." },
+    { "word": "in the black", "meaning": "đang có lãi/không mắc nợ", "ipa": "/ɪn ðə blæk/", "example": "After a difficult year, we are finally back in the black." },
+    { "word": "nest egg", "meaning": "khoản tiền tiết kiệm cho tương lai", "ipa": "/nest eɡ/", "example": "They have built up a comfortable nest egg for their retirement." },
+    { "word": "price tag", "meaning": "nhãn giá/mức giá", "ipa": "/praɪs tæɡ/", "example": "The high quality of the product is reflected in its price tag." }
+  ]
+}

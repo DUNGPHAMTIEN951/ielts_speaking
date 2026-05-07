@@ -1,0 +1,72 @@
+{
+  "id": "q_22",
+  "topic": "Health",
+  "q": "What are your favorite sports?",
+  "examiner_note": "Đây là câu hỏi về sở thích cá nhân liên quan đến thể thao. Bạn nên mô tả loại hình thể thao bạn chơi hoặc xem (team vs individual) và lợi ích nó mang lại cho bạn. Hãy sử dụng các cụm từ như 'spectator sport', 'competitive edge', 'foster teamwork' để làm giàu vốn từ. Nếu bạn không chơi thể thao, hãy nói về việc bạn thích xem các trận đấu hoặc rèn luyện sức khỏe bằng cách khác.",
+  "samples": {
+    "band7": {
+      "text": "My absolute favorite sport is football. I love playing it with my friends every weekend because it’s not only a great workout but also a fun way to socialize. Besides football, I also enjoy swimming, which I find very relaxing and good for building lung capacity.",
+      "note": "Trả lời rõ ràng, nêu được tên các môn thể thao và lợi ích của chúng. Sử dụng tốt các từ vựng phổ thông (socialize, workout, building lung capacity)."
+    },
+    "band8": {
+      "text": "I’m particularly fond of individual sports like tennis and badminton. I enjoy the competitive edge and the mental focus required to improve my skills. Recently, I’ve also become quite a fan of watching basketball; the fast-paced nature of the game makes it an incredibly exciting spectator sport.",
+      "note": "Sử dụng từ vựng nâng cao (competitive edge, mental focus, fast-paced, spectator sport). Cách dẫn đạt trôi chảy và tự nhiên."
+    },
+    "band9": {
+      "text": "While I appreciate a diverse range of athletic activities, I’m primarily drawn to competitive swimming. I find the discipline and physical endurance it demands to be profoundly satisfying. Beyond my own participation, I’m also an avid follower of major sporting events like the Olympics. I believe that sports have a unique ability to foster a sense of national pride and a collective spirit of perseverance among participants and viewers alike.",
+      "note": "Từ vựng ở mức độ chuyên gia (drawn to, discipline, endurance, profoundly satisfying, foster, national pride, collective spirit, perseverance). Cách lập luận tầm vĩ mô và rất tinh tế."
+    }
+  },
+  "v": [
+    { "word": "competitive edge", "meaning": "lợi thế cạnh tranh/tinh thần thi đấu", "ipa": "/kəmˈpetətɪv edʒ/", "example": "In business, you need a competitive edge to succeed." },
+    { "word": "spectator sport", "meaning": "môn thể thao có nhiều khán giả xem", "ipa": "/ˈspekteɪtər spɔːrt/", "example": "Football is the most popular spectator sport in the world." },
+    { "word": "foster teamwork", "meaning": "nuôi dưỡng/thúc đẩy làm việc nhóm", "ipa": "/ˈfɔːstər ˈtiːmwɜːrk/", "example": "Group projects are designed to foster teamwork among students." },
+    { "word": "building lung capacity", "meaning": "tăng cường dung tích phổi", "ipa": "/ˈbɪldɪŋ lʌŋ kəˈpæsəti/", "example": "Regular swimming is great for building lung capacity and stamina." },
+    { "word": "physical endurance", "meaning": "sức bền thể chất", "ipa": "/ˈfɪzɪkl ɪnˈdʊrəns/", "example": "Ironman competitions are a true test of physical endurance." },
+    { "word": "major sporting event", "meaning": "sự kiện thể thao lớn", "ipa": "/ˈmeɪdʒər ˈspɔːrtɪŋ ɪˈvent/", "example": "The World Cup is the biggest major sporting event globally." },
+    { "word": "national pride", "meaning": "niềm tự hào dân tộc", "ipa": "/ˈnæʃnəl praɪd/", "example": "Winning a gold medal can bring immense national pride." },
+    { "word": "perseverance", "meaning": "sự kiên trì/nhẫn nại", "ipa": "/ˌpɜːrsəˈvɪərəns/", "example": "Success in sports requires talent, hard work, and perseverance." },
+    { "word": "mental focus", "meaning": "sự tập trung tinh thần", "ipa": "/ˈmentl ˈfoʊkəs/", "example": "Archery requires a high degree of mental focus and steady hands." },
+    { "word": "fast-paced", "meaning": "nhịp độ nhanh", "ipa": "/ˌfæst ˈpeɪst/", "example": "Basketball is a very fast-paced and exciting game." },
+    { "word": "drawn to", "meaning": "bị thu hút bởi", "ipa": "/drɔːn tuː/", "example": "Many young people are drawn to extreme sports like skydiving." },
+    { "word": "profoundly satisfying", "meaning": "thực sự thỏa mãn/hạnh phúc", "ipa": "/prəˈfaʊndli ˈsætɪsfaɪɪŋ/", "example": "Finishing a long hike is profoundly satisfying for many outdoor lovers." },
+    { "word": "collective spirit", "meaning": "tinh thần tập thể", "ipa": "/kəˈlektɪv ˈspɪrɪt/", "example": "The team’s victory was a result of their incredible collective spirit." },
+    { "word": "athletic activities", "meaning": "các hoạt động thể thao/điền kinh", "ipa": "/æθˈletɪk ækˈtɪvətiz/", "example": "Schools should encourage children to participate in athletic activities." },
+    { "word": "socialize", "meaning": "giao lưu/kết bạn", "ipa": "/ˈsoʊʃəlaɪz/", "example": "Joining a basketball club is a great way to socialize and meet new people." },
+    { "word": "individual sports", "meaning": "các môn thể thao cá nhân", "ipa": "/ˌɪndɪˈvɪdʒuəl spɔːrts/", "example": "Golf and tennis are popular individual sports." },
+    { "word": "team sports", "meaning": "các môn thể thao đồng đội", "ipa": "/tiːm spɔːrts/", "example": "Basketball, soccer, and volleyball are all team sports." },
+    { "word": "amateur", "meaning": "nghiệp dư/người làm vì đam mê", "ipa": "/ˈæmətər/", "example": "He treats his hobby like a professional, even though he's an amateur." },
+    { "word": "professional", "meaning": "chuyên nghiệp", "ipa": "/prəˈfeʃənl/", "example": "Professional athletes train for several hours every day." },
+    { "word": "court", "meaning": "sân (tennis, bóng rổ...)", "ipa": "/kɔːrt/", "example": "They played a long match on the clay court." },
+    { "word": "pitch", "meaning": "sân cỏ (bóng đá, rugby...)", "ipa": "/pɪtʃ/", "example": "The football pitch was quite slippery after the rain." },
+    { "word": "stadium", "meaning": "sân vận động", "ipa": "/ˈsteɪdiəm/", "example": "The concert was held in a massive stadium." },
+    { "word": "athlete", "meaning": "vận động viên", "ipa": "/ˈæθliːt/", "example": "She is a gifted athlete who excels at jumping." },
+    { "word": "coach", "meaning": "huấn luyện viên", "ipa": "/koʊtʃ/", "example": "The coach gave them some final advice before the game." },
+    { "word": "opponent", "meaning": "đối thủ", "ipa": "/əˈpoʊnənt/", "example": "His opponent was a very experienced player." },
+    { "word": "referee", "meaning": "trọng tài", "ipa": "/ˌrefəˈriː/", "example": "The referee blew the whistle to end the match." },
+    { "word": "tournament", "meaning": "giải đấu", "ipa": "/ˈtʊrnəmənt/", "example": "We are planning to enter a national chess tournament." },
+    { "word": "victory", "meaning": "chiến thắng", "ipa": "/ˈvɪktəri/", "example": "The whole city celebrated the team’s historic victory." },
+    { "word": "defeat", "meaning": "sự thất bại/trận thua", "ipa": "/dɪˈfiːt/", "example": "They suffered a narrow defeat in the final." },
+    { "word": "set a record", "meaning": "lập kỷ lục", "ipa": "/set ə ˈrekərd/", "example": "He managed to set a new world record for the 100-meter dash." },
+    { "word": "break a record", "meaning": "phá kỷ lục", "ipa": "/breɪk ə ˈrekərd/", "example": "Someone will eventually break his swimming record." },
+    { "word": "fair play", "meaning": "thi đấu đẹp/công bằng", "ipa": "/ˌfer ˈpleɪ/", "example": "The award was for those who demonstrated incredible fair play." },
+    { "word": "sportsmanship", "meaning": "tinh thần thể thao nỗ lực/đẹp", "ipa": "/ˈspɔːrtsmənʃɪp/", "example": "The players showed great sportsmanship after the match." },
+    { "word": "adrenalin kick", "meaning": "cảm giác hưng phấn (do adrenalin)", "ipa": "/əˈdrenəlɪn kɪk/", "example": "Extreme sports provide a huge adrenalin kick." },
+    { "word": "stay in shape", "meaning": "giữ dáng", "ipa": "/steɪ ɪn ʃeɪp/", "example": "Jogging is a simple and effective way to stay in shape." },
+    { "word": "fitness fanatic", "meaning": "người cuồng luyện tập", "ipa": "/ˈfɪtnəs fəˈnætɪk/", "example": "As a fitness fanatic, he never misses a day at the gym." },
+    { "word": "play by the rules", "meaning": "chơi đúng quy định", "ipa": "/pleɪ baɪ ðə ruːlz/", "example": "If we want to succeed, we must always play by the rules." },
+    { "word": "level playing field", "meaning": "sân chơi bình đẳng", "ipa": "/ˈlevl ˈpleɪɪŋ fiːld/", "example": "The regulation was meant to ensure a level playing field for all small businesses." },
+    { "word": "win hands down", "meaning": "thắng một cách dễ dàng", "ipa": "/wɪn hændz daʊn/", "example": "They were much better than the other team and won hands down." },
+    { "word": "score a goal", "meaning": "ghi bàn", "ipa": "/skɔːr ə ɡoʊl/", "example": "The striker managed to score a goal in the final few minutes." },
+    { "word": "medalist", "meaning": "người đạt huy chương", "ipa": "/ˈmedəlɪst/", "example": "She is an Olympic gold medalist in track and field." },
+    { "word": "sports gear", "meaning": "đồ dùng/thiết bị thể thao", "ipa": "/spɔːrts ɡɪr/", "example": "You need the right sports gear to prevent injuries." },
+    { "word": "protective equipment", "meaning": "thiết bị bảo hộ", "ipa": "/prəˈtektɪv ɪˈkwɪpmənt/", "example": "Helmets and pads are essential protective equipment for cycling." },
+    { "word": "out of breath", "meaning": "hụt hơi/hết hơi", "ipa": "/aʊt əv breθ/", "example": "I was completely out of breath after running up the stairs." },
+    { "word": "get into the swing of", "meaning": "bắt đầu quen với cái gì đó", "ipa": "/ɡet ˈɪntuː ðə swɪŋ əv/", "example": "It took a few weeks for her to get into the swing of the yoga class." },
+    { "word": "on the ball", "meaning": "nhạy bén/tập trung/làm tốt", "ipa": "/ɑːn ðə bɔːl/", "example": "He's really on the ball with all the new regulations." },
+    { "word": "jump the gun", "meaning": "hành động quá sớm", "ipa": "/dʒʌmp ðə ɡʌn/", "example": "Don’t jump the gun; we need to wait for further instructions." },
+    { "word": "front runner", "meaning": "người dẫn đầu/ứng viên nặng ký", "ipa": "/frʌnt ˈrʌnər/", "example": "She is the front runner for the position of regional manager." },
+    { "word": "keep track of", "meaning": "theo dõi", "ipa": "/kiːp træk əv/", "example": "I use an app to keep track of my daily exercise." },
+    { "word": "recharge your batteries", "meaning": "nạp lại năng lượng", "ipa": "/ˌriːˈtʃɑːrdʒ jər ˈbætəriz/", "example": "A weekend in the mountains was exactly what I needed to recharge my batteries." }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_39",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "hấp thụ kiến thức một cách nhanh chóng và dễ dàng",
+      "example": "I used to sit in the front row of my History class, just soaking up every detail about ancient civilizations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "geek out on",
+      "ipa": "/ɡiːk aʊt ɒn/",
+      "meaning": "say mê tìm hiểu/nói về một chủ đề chuyên sâu",
+      "example": "My friends and I would often geek out on complex physics theories during our lunch breaks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "breeze through",
+      "ipa": "/briːz θruː/",
+      "meaning": "vượt qua một cách dễ dàng (thường là bài tập hoặc kỳ thi)",
+      "example": "Mathematics was my forte, so I could usually breeze through the most challenging calculus problems.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɔːf/",
+      "meaning": "mất tập trung/thả hồn treo ngược cành cây (dùng để so sánh với môn không thích)",
+      "example": "While I loved Literature, I tended to drift off during chemistry lectures because the formulas felt so dry.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dựa vào vốn kiến thức sẵn có (khi gặp khó khăn)",
+      "example": "I really enjoyed Geography, and I still fall back on that knowledge whenever I travel to new countries.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig into",
+      "ipa": "/dɪɡ ˈɪntuː/",
+      "meaning": "nghiên cứu sâu/tìm tòi kỹ lưỡng",
+      "example": "Biology was fascinating because it allowed me to dig into the mysteries of the human genetic code.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp tiến độ/kiến thức (thường là môn khó nhưng vẫn thích)",
+      "example": "Even though advanced IT was demanding, I worked hard to keep up with the latest programming trends.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": " knuckle down",
+      "ipa": "/ˈnʌkl daʊn/",
+      "meaning": "bắt đầu làm việc/học tập một cách nghiêm túc",
+      "example": "I would always knuckle down whenever we had a creative writing project because I wanted the prose to be perfect.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "muddle through",
+      "ipa": "/ˈmʌdl θruː/",
+      "meaning": "xoay xở vượt qua dù không giỏi (dùng làm phép so sánh)",
+      "example": "I just managed to muddle through Physical Education, but I truly excelled when it came to Fine Arts.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔːr ˈəʊvər/",
+      "meaning": "nghiền ngẫm/đọc một cách cẩn thận",
+      "example": "I would spend hours in the library poring over classic novels for my English Literature assignments.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

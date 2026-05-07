@@ -1,0 +1,76 @@
+{
+  "id": "q_39",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/soʊk ʌp/",
+      "meaning": "hấp thụ/tiếp thu kiến thức một cách hào hứng",
+      "example": "I used to sit in the front row of my History class, just soaking up every detail about ancient civilizations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌkl daʊn/",
+      "meaning": "bắt đầu học tập/làm việc một cách nghiêm túc",
+      "example": "Although I loved Math, I really had to knuckle down when we started learning complex calculus.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fathom out",
+      "ipa": "/ˈfæðəm aʊt/",
+      "meaning": "tìm hiểu kỹ để hiểu được một vấn đề khó khăn",
+      "example": "I spent countless evenings trying to fathom out the intricate theories of quantum physics in my senior year.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brighten up",
+      "ipa": "/ˈbraɪtn ʌp/",
+      "meaning": "làm cho cái gì đó trở nên thú vị/tươi sáng hơn",
+      "example": "The weekly laboratory experiments really brightened up the Biology syllabus for me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gloss over",
+      "ipa": "/ɡlɔːs ˈoʊvər/",
+      "meaning": "học lướt qua/bỏ qua những chi tiết không quan trọng",
+      "example": "While I adored literature, I tended to gloss over the dry biographical facts of the authors to focus on their poems.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp tiến độ/kiến thức của môn học",
+      "example": "Economics was my favorite, though it was quite a challenge to keep up with the fluctuating market theories.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look into",
+      "ipa": "/lʊk ˈɪntuː/",
+      "meaning": "nghiên cứu/tìm hiểu sâu về một chủ đề",
+      "example": "Our Geography teacher encouraged us to look into the environmental impact of urbanization, which I found fascinating.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "plough through",
+      "ipa": "/plaʊ θruː/",
+      "meaning": "kiên trì đọc hoặc học hết một lượng lớn tài liệu khó",
+      "example": "I was happy to plough through thick philosophy textbooks because the subject matter truly intrigued me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "catch on",
+      "ipa": "/kætʃ ɑːn/",
+      "meaning": "hiểu hoặc nắm bắt được cái gì đó (sau một thời gian)",
+      "example": "At first, Chemistry formulas were a nightmare, but I finally caught on after a few hands-on experiments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mark out",
+      "ipa": "/mɑːrk aʊt/",
+      "meaning": "làm cho ai/cái gì trở nên nổi bật hoặc khác biệt",
+      "example": "It was my fascination with vibrant colors and textures that marked out Fine Arts as my preferred subject.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

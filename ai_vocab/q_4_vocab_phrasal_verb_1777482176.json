@@ -1,0 +1,76 @@
+{
+  "id": "q_4",
+  "vocab": [
+    {
+      "word": "tide over",
+      "ipa": "/taɪd ˈəʊ.vər/",
+      "meaning": "giúp ai đó vượt qua một giai đoạn khó khăn",
+      "example": "Engaging in my woodworking hobby really helped to tide me over during the long months of the lockdown.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out into",
+      "ipa": "/brɑːntʃ aʊt ˈɪn.tuː/",
+      "meaning": "bắt đầu làm một việc gì đó mới mẻ hoặc khác biệt so với những gì thường làm",
+      "example": "I’ve been a long-distance runner for years, but recently I’ve decided to branch out into rock climbing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɒf/",
+      "meaning": "thả hồn theo mây gió/mơ màng (thường dùng khi nghe nhạc hoặc thiền)",
+      "example": "I love listening to ambient music in my spare time; it allows me to drift off and forget about my daily stresses.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "geek out on",
+      "ipa": "/ɡiːk aʊt ɒn/",
+      "meaning": "phấn khích và đi sâu tìm hiểu một chủ đề chuyên môn nào đó",
+      "example": "My friends and I can geek out on vintage film cameras for hours, discussing everything from shutter speeds to lens glass.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp, duy trì cập nhật thông tin về một sở thích",
+      "example": "It’s quite a challenge to keep up with all the latest trends and techniques in the ever-evolving world of digital art.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "savour every moment",
+      "ipa": "/ˈseɪ.vər ˈev.ri ˈməʊ.mənt/",
+      "meaning": "tận hưởng từng khoảnh khắc (cụm từ mang sắc thái phrasal)",
+      "example": "When I'm out hiking in the wilderness, I try to slow down and savour every moment away from the city.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get a kick out of",
+      "ipa": "/ɡet ə kɪk aʊt əv/",
+      "meaning": "tìm thấy niềm vui hoặc sự thú vị từ việc gì đó",
+      "example": "I really get a kick out of finding rare vinyl records in dusty old thrift shops.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zone out",
+      "ipa": "/zəʊn aʊt/",
+      "meaning": "ngưng chú ý đến xung quanh, tập trung hoàn toàn vào một việc",
+      "example": "Knitting is so repetitive and rhythmic that it helps me zone out and reach a state of complete relaxation.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "put together",
+      "ipa": "/pʊt təˈɡeð.ər/",
+      "meaning": "lắp ráp hoặc xây dựng cái gì đó (mô hình, bộ sưu tập)",
+      "example": "I spend most of my weekends putting together intricate LEGO sets to display in my home office.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "top up",
+      "ipa": "/tɒp ʌp/",
+      "meaning": "làm đầy lại/nạp lại năng lượng (về mặt tinh thần)",
+      "example": "For me, photography is a way to top up my creative energy after a tiring week of analytical work.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

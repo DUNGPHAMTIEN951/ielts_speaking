@@ -1,0 +1,76 @@
+{
+  "id": "q_7",
+  "vocab": [
+    {
+      "word": "bundle up",
+      "ipa": "/ˈbʌndl ʌp/",
+      "meaning": "mặc ấm, mặc nhiều lớp quần áo (để đi dạo khi trời lạnh)",
+      "example": "In the winter, you’ll see many locals bundle up and head to the park to enjoy the crisp morning air.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop into",
+      "ipa": "/pɒp ˈɪntuː/",
+      "meaning": "ghé vào nhanh một nơi nào đó",
+      "example": "Office workers often pop into the nearest green space during their lunch break to stretch their legs.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "map out",
+      "ipa": "/mæp aʊt/",
+      "meaning": "lên kế hoạch chi tiết/vạch ra (lộ trình đi dạo)",
+      "example": "Avid joggers usually map out a specific trail within the park to ensure they hit their daily mileage goal.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "laze around",
+      "ipa": "/leɪz əˈraʊnd/",
+      "meaning": "nghỉ ngơi, thư giãn một cách lười biếng",
+      "example": "On weekends, the park is full of people who just want to laze around on the grass with a good book.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tag along",
+      "ipa": "/tæɡ əˈlɒŋ/",
+      "meaning": "đi theo, đi cùng (thường là đi cùng một nhóm hoặc một người khác)",
+      "example": "Children love to tag along when their parents take the family dog for its afternoon run in the park.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out over",
+      "ipa": "/lʊk aʊt ˈəʊvər/",
+      "meaning": "nhìn ra xa hướng về phía nào đó (thường là nơi có tầm nhìn đẹp)",
+      "example": "People are drawn to parks with hills because they can look out over the entire city skyline from the summit.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ease off",
+      "ipa": "/iːz ɒf/",
+      "meaning": "giảm bớt, trở nên ít căng thẳng/áp lực hơn",
+      "example": "After a few minutes of walking in nature, the mental strain of the work day begins to ease off.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "freshen up",
+      "ipa": "/ˈfreʃn ʌp/",
+      "meaning": "làm cho tỉnh táo, sảng khoái hơn",
+      "example": "A quick stroll through the botanical gardens is the best way to freshen up your mind before an evening meeting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bottle up",
+      "ipa": "/ˈbɒtl ʌp/",
+      "meaning": "dồn nén (cảm xúc) - đi dạo giúp giải tỏa những điều này",
+      "example": "Walking provides a peaceful environment for people to process emotions they might have been bottling up all week.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head back",
+      "ipa": "/hed bæk/",
+      "meaning": "quay trở lại (sau khi đã đi dạo xong)",
+      "example": "Once they have recharged their batteries, most visitors feel much more energized as they head back to their homes.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

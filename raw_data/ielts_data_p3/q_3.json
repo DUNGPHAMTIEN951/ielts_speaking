@@ -1,0 +1,52 @@
+{
+  "id": "q_3",
+  "topic": "Sports team",
+  "q": "Do you like watching team games? Why?",
+  "examiner_note": "Nói về cảm xúc, bầu không khí và tính chiến thuật. Sử dụng 'electric atmosphere', 'tactical nuances', 'edge of one's seat'.",
+  "samples": {
+    "band7": {
+      "text": "I enjoy the excitement and the sense of camaraderie that team sports bring. It’s also fascinating to watch how different individuals work together towards a common goal under pressure.",
+      "note": "Cấu trúc câu tốt, từ vựng ổn (fascinating, common goal)."
+    },
+    "band8": {
+      "text": "I’m quite fond of it, primarily because of the electric atmosphere, especially when watching live. There's something gripping about seeing a group of athletes execute a well-rehearsed strategy. It keeps me on the edge of my seat until the final whistle.",
+      "note": "Sử dụng thành ngữ (edge of my seat) và từ vựng tự nhiên (fond of, electric atmosphere, gripping, execute)."
+    },
+    "band9": {
+      "text": "Absolutely. I find the tactical nuances of team games to be utterly compelling. It’s not just a display of physical prowess, but a mental chess match played at high speed. The sheer unpredictability and the potential for dramatic comebacks are what make it such an exhilarating experience.",
+      "note": "Sử dụng ẩn dụ và từ vựng phong phú (tactical nuances, utterly compelling, physical prowess, mental chess match, sheer unpredictability, exhilarating)."
+    }
+  },
+  "v": [
+    {
+      "word": "tactical nuances",
+      "meaning": "sắc thái chiến thuật",
+      "ipa": "/ˈtæktɪkl ˈnjuːɑːnsɪz/",
+      "example": "I love analyzing the tactical nuances of the game."
+    },
+    {
+      "word": "physical prowess",
+      "meaning": "sự dũng mãnh về thể chất",
+      "ipa": "/ˈfɪzɪkl ˈpraʊəs/",
+      "example": "The athletes displayed incredible physical prowess."
+    },
+    {
+      "word": "exhilarating",
+      "meaning": "làm phấn chấn/hào hứng",
+      "ipa": "/ɪɡˈzɪləreɪtɪŋ/",
+      "example": "It was an exhilarating victory."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "utterly",
+      "meaning": "hoàn toàn",
+      "ipa": "/ˈʌtərli/",
+      "example": "The performance was utterly breathtaking."
+    }
+  ],
+  "similar_questions": [
+    "Have you ever watched a live match at a stadium?",
+    "What is the best game you have ever watched?"
+  ]
+}

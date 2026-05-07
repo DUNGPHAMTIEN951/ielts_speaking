@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "brisk pace",
+      "ipa": "/brɪsk peɪs/",
+      "meaning": "tốc độ nhanh, dứt khoát",
+      "example": "I try to maintain a brisk pace when walking to the station to get my heart rate up in the morning.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "urban exploration",
+      "ipa": "/ˈɜː.bən ˌek.spləˈreɪ.ʃən/",
+      "meaning": "khám phá đô thị (đi bộ ngắm nhìn phố phường)",
+      "example": "Walking is my favorite mode of urban exploration, as it allows me to observe architectural details I'd otherwise miss.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "pedestrian-friendly",
+      "ipa": "/pəˈdes.tri.ən ˈfrend.li/",
+      "meaning": "thân thiện với người đi bộ (cơ sở hạ tầng tốt)",
+      "example": "Living in a pedestrian-friendly neighborhood has encouraged me to ditch my car for short errands.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "solitude",
+      "ipa": "/ˈsɒl.ɪ.tʃuːd/",
+      "meaning": "sự biệt lập/tĩnh lặng một mình",
+      "example": "I value the solitude of a long walk, as it provides a rare opportunity for self-reflection in a noisy world.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "uninterrupted",
+      "ipa": "/ˌʌn.ɪn.təˈrʌp.tɪd/",
+      "meaning": "không bị gián đoạn/liên tục",
+      "example": "I enjoy an uninterrupted hour of walking each evening to clear my mind and decompress.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "low-impact exercise",
+      "ipa": "/ləʊ ˈɪm.pækt ˈek.sə.saɪz/",
+      "meaning": "bài tập cường độ thấp (ít gây áp lực lên khớp)",
+      "example": "Since it is a low-impact exercise, walking is the ideal way for me to stay active without risking injury.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "stroll along",
+      "ipa": "/strəʊl əˈlɒŋ/",
+      "meaning": "đi dạo dọc theo (bờ sông, bãi biển...)",
+      "example": "There is nothing more relaxing than a stroll along the riverbank during the golden hour.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "mental clarity",
+      "ipa": "/ˈmen.təl ˈklær.ə.ti/",
+      "meaning": "sự minh mẫn/sáng suốt về tinh thần",
+      "example": "A quick walk around the block usually restores my mental clarity when I am struggling with a difficult task.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "commute on foot",
+      "ipa": "/kəˈmjuːt ɒn fʊt/",
+      "meaning": "đi làm bằng cách đi bộ",
+      "example": "I am fortunate enough to commute on foot, which helps me reach my daily activity targets effortlessly.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "traverse",
+      "ipa": "/trəˈvɜːs/",
+      "meaning": "đi băng qua/đi dọc theo (một khu vực)",
+      "example": "I love to traverse the local park trails on weekends to soak up the natural beauty of the changing seasons.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

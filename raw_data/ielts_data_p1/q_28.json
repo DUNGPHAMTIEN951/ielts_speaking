@@ -1,0 +1,72 @@
+{
+  "id": "q_28",
+  "topic": "Work or Studies",
+  "q": "What are your responsibilities at work?",
+  "examiner_note": "Đây là câu hỏi đi sâu vào chi tiết công việc của bạn. Giám khảo muốn nghe bạn mô tả các nhiệm vụ hàng ngày (daily tasks) và vai trò của bạn trong tổ chức. Hãy sử dụng các động từ chỉ hành động (action verbs) như 'oversee', 'coordinate', 'analyze', 'implement'. Đừng quên nhắc đến trách nhiệm đối với đồng nghiệp hoặc khách hàng. Nếu bạn là sinh viên, hãy nói về trách nhiệm học tập (assignment, research, attending lectures).",
+  "samples": {
+    "band7": {
+      "text": "As a Marketing Assistant, my main responsibilities include managing our social media accounts and creating promotional content for our campaigns. I also have to coordinate with other departments to ensure that our marketing materials are consistent with the brand's identity.",
+      "note": "Trả lời trực tiếp, liệt kê được các nhiệm vụ chính. Sử dụng từ vựng tự nhiên và chuyên nghiệp (promotional content, coordinate, brand identity)."
+    },
+    "band8": {
+      "text": "In my current role as a Project Manager, I’m primarily responsible for overseeing the entire lifecycle of our software developments. This involves coordinating across various teams, managing timelines, and ensuring that we meet our clients' specific requirements. I also have to report our progress to senior management on a weekly basis.",
+      "note": "Sử dụng từ vựng nâng cao (overseeing, lifecycle, coordinating, senior management). Cách dẫn đạt mạch lạc và chuyên nghiệp."
+    },
+    "band9": {
+      "text": "My core responsibilities revolve around strategic planning and the implementation of innovative solutions within the department. I’m tasked with analyzing market trends and utilizing those insights to optimize our internal processes. Furthermore, I serve as a primary liaison between our technical team and stakeholders, ensuring that our project objectives align with the company’s long-term vision. It’s a multifaceted role that requires both analytical rigor and effective communication skills.",
+      "note": "Sử dụng vốn từ vựng cực kỳ phong phú và học thuật (core responsibilities, strategic planning, implementation, innovative, optimize, liaison, stakeholders, multifaceted, analytical rigor). Cách lập luận vô cùng chuyên sâu."
+    }
+  },
+  "v": [
+    { "word": "core responsibilities", "meaning": "các trách nhiệm cốt lõi", "ipa": "/kɔːr rɪˌspɑːnsəˈbɪlətiz/", "example": "Strategic planning is one of my core responsibilities as a manager." },
+    { "word": "oversee", "meaning": "giám sát/trông nom", "ipa": "/ˌoʊvərˈsiː/", "example": "As the director, she oversees the work of fifty employees." },
+    { "word": "coordinate", "meaning": "phối hợp/điều phối", "ipa": "/koʊˈɔːrdɪneɪt/", "example": "We need to coordinate our efforts to finish the project on time." },
+    { "word": "implementation", "meaning": "sự thực thi/áp dụng", "ipa": "/ˌɪmplɪmenˈteɪʃn/", "example": "The implementation of the new policy will begin next month." },
+    { "word": "innovative solutions", "meaning": "các giải pháp sáng tạo", "ipa": "/ˈɪnəveɪtɪv səˈluːʃnz/", "example": "The startup is known for providing innovative solutions to everyday problems." },
+    { "word": "optimize", "meaning": "tối ưu hóa", "ipa": "/ˈɑːptɪmaɪz/", "example": "The software is designed to optimize the performance of the server." },
+    { "word": "liaison", "meaning": "người liên lạc/mối liên hệ", "ipa": "/liˈeɪzɑːn/", "example": "He acts as a primary liaison between the government and the public." },
+    { "word": "stakeholders", "meaning": "các bên liên quan", "ipa": "/ˈsteɪkhoʊldərz/", "example": "It's important to keep all stakeholders informed about the project's progress." },
+    { "word": "multifaceted role", "meaning": "vai trò đa năng/nhiều khía cạnh", "ipa": "/ˌmʌltiˈfæsɪtɪd roʊl/", "example": "Being a teacher is a multifaceted role that includes coaching and mentoring." },
+    { "word": "analytical rigor", "meaning": "sự khắt khe/chặt chẽ trong phân tích", "ipa": "/ˌænəˈlɪtɪkl ˈrɪɡər/", "example": "The study was praised for its analytical rigor and depth." },
+    { "word": "strategic planning", "meaning": "lập kế hoạch chiến lược", "ipa": "/strəˈtiːdʒɪk ˈplænɪŋ/", "example": "Strategic planning is essential for the long-term success of any business." },
+    { "word": "promotional content", "meaning": "nội dung quảng bá", "ipa": "/prəˈmoʊʃənl ˈkɑːntent/", "example": "We are working on new promotional content for our summer sale." },
+    { "word": "brand identity", "meaning": "nhận diện thương hiệu", "ipa": "/brænd aɪˈdentəti/", "example": "Consistency is key to building a strong and recognizable brand identity." },
+    { "word": "lifecycle", "meaning": "vòng đời (của dự án/sản phẩm)", "ipa": "/ˈlaɪfsaɪkl/", "example": "User feedback is collected at every stage of the product lifecycle." },
+    { "word": "senior management", "meaning": "ban lãnh đạo cấp cao", "ipa": "/ˈsiːnjər ˈmænɪdʒmənt/", "example": "The final decision will be made by the senior management team." },
+    { "word": "on a weekly basis", "meaning": "hàng tuần", "ipa": "/ɑːn ə ˈwiːkli ˈbeɪsɪs/", "example": "We have a team meeting on a weekly basis to discuss our progress." },
+    { "word": "align with", "meaning": "sắp hàng/phù hợp với", "ipa": "/əˈlaɪn wɪð/", "example": "Your personal goals should align with the company’s vision." },
+    { "word": "long-term vision", "meaning": "tầm nhìn dài hạn", "ipa": "/lɔːŋ tɜːrm ˈvɪʒn/", "example": "The company’s long-term vision is to become a leader in green energy." },
+    { "word": "administrative tasks", "meaning": "các công việc hành chính", "ipa": "/ədˈmɪnɪstreɪtɪv tæsks/", "example": "I spend too much time on paperwork and other administrative tasks." },
+    { "word": "reporting", "meaning": "việc báo cáo", "ipa": "/rɪˈpɔːrtɪŋ/", "example": "Financial reporting is a key part of my daily routine." },
+    { "word": "workload", "meaning": "khối lượng công việc", "ipa": "/ˈwɜːrkloʊd/", "example": "He’s been struggling with an incredibly heavy workload lately." },
+    { "word": "delegate", "meaning": "ủy thác/phân chia (nhiệm vụ)", "ipa": "/ˈdelɪɡət/", "example": "A good manager knows how to delegate tasks effectively." },
+    { "word": "supervise", "meaning": "giám sát", "ipa": "/ˈsuːpərvaɪz/", "example": "Teachers supervise the children while they are on the playground." },
+    { "word": "collaborate", "meaning": "cộng tác", "ipa": "/kəˈlæbəreɪt/", "example": "Artists and scientists often collaborate on innovative projects." },
+    { "word": "troubleshooting", "meaning": "giải quyết sự cố/khó khăn", "ipa": "/ˈtrʌblˌʃuːtɪŋ/", "example": "The IT department is busy with software troubleshooting today." },
+    { "word": "data analysis", "meaning": "phân tích dữ liệu", "ipa": "/ˈdeɪtə əˌnæləsɪs/", "example": "Data analysis helps us understand customer behavior better." },
+    { "word": "client relations", "meaning": "quan hệ khách hàng", "ipa": "/ˈklaɪənt rɪˈleɪʃnz/", "example": "Maintaining good client relations is essential for business growth." },
+    { "word": "quality control", "meaning": "kiểm soát chất lượng", "ipa": "/ˈkwɑːləti kənˈtroʊl/", "example": "Every product must pass a strict quality control check before shipping." },
+    { "word": "schedule", "meaning": "lên lịch/lồng ghép", "ipa": "/ˈskedʒuːl/", "example": "We scheduled a meeting for next Monday morning." },
+    { "word": "budget management", "meaning": "quản lý ngân sách", "ipa": "/ˈbʌdʒɪt ˈmænɪdʒmənt/", "example": "Effective budget management is crucial for any project." },
+    { "word": "public relations", "meaning": "quan hệ công chúng (PR)", "ipa": "/ˌpʌblɪk rɪˈleɪʃnz/", "example": "She works in the public relations department of a large bank." },
+    { "word": "inventory management", "meaning": "quản lý kho hàng/hàng tồn", "ipa": "/ˈɪnvəntɔːri ˈmænɪdʒmənt/", "example": "Computer software has simplified inventory management for small retailers." },
+    { "word": "technical support", "meaning": "hỗ trợ kỹ thuật", "ipa": "/ˈteknɪkl səˈpɔːrt/", "example": "Call technical support if you have trouble installing the software." },
+    { "word": "research and development", "meaning": "nghiên cứu và phát triển (R&D)", "ipa": "/rɪˈsɜːrtʃ ənd dɪˈveləpmənt/", "example": "The company invests heavily in research and development." },
+    { "word": "training and development", "meaning": "đào tạo và phát triển", "ipa": "/ˈtreɪnɪŋ ənd dɪˈveləpmənt/", "example": "The company offers many opportunities for employee training and development." },
+    { "word": "compliance", "meaning": "sự tuân thủ (quy định/luật lệ)", "ipa": "/kəmˈplaɪəns/", "example": "All employees must attend a course on safety compliance." },
+    { "word": "deadlines", "meaning": "hạn chót", "ipa": "/ˈdedlaɪnz/", "example": "She is under a lot of pressure to meet the project deadlines." },
+    { "word": "workflow", "meaning": "luồng công việc", "ipa": "/ˈwɜːrkfloʊ/", "example": "The new system is designed to improve the overall office workflow." },
+    { "word": "mentorship", "meaning": "sự hướng dẫn/cố vấn", "ipa": "/ˈmentɔːrʃɪp/", "example": "Large companies often have a formal mentorship program for new hires." },
+    { "word": "networking", "meaning": "xây dựng mạng lưới/kết nối", "ipa": "/ˈnetwɜːrkɪŋ/", "example": "I attended the conference primarily for professional networking." },
+    { "word": "multitasking", "meaning": "làm nhiều việc cùng lúc", "ipa": "/ˌmʌltiˈtæskɪŋ/", "example": "Modern office life requires a high degree of multitasking." },
+    { "word": "productivity", "meaning": "năng suất", "ipa": "/ˌproʊdʌkˈtɪvəti/", "example": "Listening to music helps some people increase their productivity." },
+    { "word": "efficiency", "meaning": "hiệu quả/hiệu suất", "ipa": "/ɪˈfɪʃnsi/", "example": "The goal of the new software is to increase the efficiency of our team." },
+    { "word": "accountability", "meaning": "trách nhiệm giải trình", "ipa": "/əˌkaʊntəˈbɪləti/", "example": "Clear job descriptions lead to greater individual accountability." },
+    { "word": "professionalism", "meaning": "sự chuyên nghiệp", "ipa": "/prəˈfeʃənəlɪzəm/", "example": "The staff were praised for their extreme politeness and professionalism." },
+    { "word": "ethics", "meaning": "đạo đức", "ipa": "/ˈeθɪks/", "example": "Professional ethics are at the heart of our company's values." },
+    { "word": "burnout", "meaning": "sự kiệt sức (do làm việc quá độ)", "ipa": "/ˈbɜːrnaʊt/", "example": "Burnout is a serious risk for those working in high-pressure environments." },
+    { "word": "team spirit", "meaning": "tinh thần đồng đội", "ipa": "/tiːm ˈspɪrɪt/", "example": "A strong team spirit is vital for any successful sports team." },
+    { "word": "problem-solving", "meaning": "giải quyết vấn đề", "ipa": "/ˈprɑːbləm ˌsɔːlvɪŋ/", "example": "He showed excellent problem-solving skills during the crisis." },
+    { "word": "leadership", "meaning": "khả năng lãnh đạo", "ipa": "/ˈliːdərʃɪp/", "example": "She took a course to further develop her leadership skills." }
+  ]
+}

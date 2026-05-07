@@ -1,0 +1,76 @@
+{
+  "id": "q_35",
+  "vocab": [
+    {
+      "word": "tended to",
+      "ipa": "/ˈten.dɪd tuː/",
+      "meaning": "chăm sóc, trông nom",
+      "example": "I diligently tended to my small patch of sunflowers every single afternoon after school.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut back",
+      "ipa": "/kʌt bæk/",
+      "meaning": "tỉa bớt, cắt tỉa (cành, lá)",
+      "example": "My grandfather taught me how to cut back the dead leaves to help the rose bushes grow stronger.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "root around",
+      "ipa": "/ruːt əˈraʊnd/",
+      "meaning": "đào bới, tìm kiếm (trong đất)",
+      "example": "I loved to root around in the soil with my bare hands to find earthworms while planting seeds.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure out",
+      "ipa": "/ˈmeʒ.ər aʊt/",
+      "meaning": "đong, đo lường (lượng nước, phân bón)",
+      "example": "I would carefully measure out the liquid fertilizer to ensure my tomatoes got the perfect amount of nutrients.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pot up",
+      "ipa": "/pɒt ʌp/",
+      "meaning": "cho cây vào chậu",
+      "example": "Once the seedlings were sturdy enough, my mother helped me pot them up into larger ceramic containers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take over",
+      "ipa": "/teɪk ˈəʊ.vər/",
+      "meaning": "lan ra, lấn át, chiếm lĩnh (không gian)",
+      "example": "We planted some mint, but it quickly began to take over the entire herb garden because it grows so fast.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull out",
+      "ipa": "/pʊl aʊt/",
+      "meaning": "nhổ ra, loại bỏ (cỏ dại)",
+      "example": "One of my weekly chores was to pull out the stubborn weeds that competed with our vegetable plants.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "perk up",
+      "ipa": "/pɜːk ʌp/",
+      "meaning": "tươi tỉnh lại, héo rũ rồi xanh tươi lại",
+      "example": "It was amazing to see how the wilted lettuce would perk up almost instantly after a heavy rain.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out",
+      "ipa": "/brɑːntʃ aʊt/",
+      "meaning": "đâm cành, mọc thêm nhánh",
+      "example": "I watched the small sapling slowly branch out until it eventually provided a bit of shade in our backyard.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wrap up",
+      "ipa": "/ræp ʌp/",
+      "meaning": "bao bọc, che chắn (để bảo vệ cây)",
+      "example": "During the surprisingly cold nights, we had to wrap up the delicate tropical plants in plastic sheets.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

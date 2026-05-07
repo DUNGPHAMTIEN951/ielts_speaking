@@ -1,0 +1,76 @@
+{
+  "id": "q_14",
+  "vocab": [
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "chiêm ngưỡng, thưởng ngoạn cảnh đẹp",
+      "example": "I spent the entire afternoon on the balcony just taking in the panoramic view of the Swiss Alps.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open out",
+      "ipa": "/ˈəʊpən aʊt/",
+      "meaning": "mở rộng ra (về phía tầm mắt, không gian)",
+      "example": "As we reached the top of the hill, the narrow path opened out into a breathtaking valley filled with wildflowers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blot out",
+      "ipa": "/blɒt aʊt/",
+      "meaning": "che khuất hoàn toàn (tầm nhìn, ánh sáng)",
+      "example": "The massive red sand dunes of the Namib Desert were so tall that they seemed to blot out the horizon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drink in",
+      "ipa": "/drɪŋk ɪn/",
+      "meaning": "tận hưởng một cách say sưa (vẻ đẹp hoặc không khí)",
+      "example": "Standing on the edge of the Grand Canyon, I just stood there drinking in the sheer scale of the landscape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "light up",
+      "ipa": "/laɪt ʌp/",
+      "meaning": "bừng sáng, chiếu sáng rực rỡ",
+      "example": "The golden hour began to light up the ancient temples of Bagan, turning the whole plain into a glowing masterpiece.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble across",
+      "ipa": "/ˈstʌmbl əˈkrɒs/",
+      "meaning": "tình cờ bắt gặp (một cảnh đẹp không định trước)",
+      "example": "While wandering through the backstreets of Kyoto, we stumbled across a hidden garden that was exquisitely tranquil.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tower over",
+      "ipa": "/ˈtaʊə(r) ˈəʊvə(r)/",
+      "meaning": "cao sừng sững, áp đảo phía trên",
+      "example": "The jagged peaks of the Himalayas tower over the surrounding clouds, creating a truly humbling sight.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blend into",
+      "ipa": "/blend ˈɪntuː/",
+      "meaning": "hòa quyện, tan vào (môi trường xung quanh)",
+      "example": "The modern architecture of the museum seemed to blend into the natural cliffs, making it look like a part of the earth.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "melt away",
+      "ipa": "/melt əˈweɪ/",
+      "meaning": "tan biến đi (thường là sương mù hoặc cảm giác mệt mỏi khi thấy cảnh đẹp)",
+      "example": "Watching the early morning mist melt away to reveal the crystal-clear lake was the highlight of my trip to Canada.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burst into",
+      "ipa": "/bɜːst ˈɪntuː/",
+      "meaning": "đột ngột hiện ra rực rỡ (thường là màu sắc)",
+      "example": "At sunset, the sky suddenly burst into shades of violet and crimson, reflecting perfectly on the salt flats.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

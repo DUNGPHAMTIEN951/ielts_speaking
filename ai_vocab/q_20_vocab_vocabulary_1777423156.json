@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "safeguard assets",
+      "ipa": "/ˈseɪfɡɑːd ˈæsets/",
+      "meaning": "bảo vệ tài sản",
+      "example": "One of the primary motivations for using a bank is to safeguard assets against potential theft or loss at home.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "facilitate transactions",
+      "ipa": "/fəˈsɪlɪteɪt trænˈzækʃnz/",
+      "meaning": "tạo điều kiện thuận lợi cho các giao dịch",
+      "example": "Modern banking systems facilitate transactions across the globe, allowing users to send money instantaneously.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "accrue interest",
+      "ipa": "/əˈkruː ˈɪntrəst/",
+      "meaning": "tích lũy tiền lãi",
+      "example": "By keeping funds in a high-yield savings account, individuals can accrue interest over time, steadily growing their wealth.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "financial intermediary",
+      "ipa": "/faɪˈnænʃl ˌɪntəˈmiːdiəri/",
+      "meaning": "trung gian tài chính",
+      "example": "A bank acts as a financial intermediary, connecting those who have surplus capital with those who need to borrow.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "creditworthiness",
+      "ipa": "/ˈkredɪtˌwɜːðinəs/",
+      "meaning": "khả năng chi trả/độ tin cậy về tín dụng",
+      "example": "Consistent use of banking services helps individuals build their creditworthiness, which is vital for securing future loans.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "hedge against inflation",
+      "ipa": "/hedʒ əˈɡenst ɪnˈfleɪʃn/",
+      "meaning": "phòng vệ trước lạm phát",
+      "example": "People often use diverse banking instruments to hedge against inflation and preserve the purchasing power of their savings.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "seamless integration",
+      "ipa": "/ˈsiːmləs ˌɪntɪˈɡreɪʃn/",
+      "meaning": "sự tích hợp liền mạch (với các dịch vụ khác)",
+      "example": "Digital banking offers seamless integration with e-commerce platforms, making everyday shopping incredibly convenient.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "capital accumulation",
+      "ipa": "/ˈkæpɪtl əˌkjuːmjuˈleɪʃn/",
+      "meaning": "sự tích lũy vốn",
+      "example": "Banks provide structured savings plans that are essential for long-term capital accumulation for major life goals.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "foster fiscal discipline",
+      "ipa": "/ˈfɒstə(r) ˈfɪskl ˈdɪsəplɪn/",
+      "meaning": "thúc đẩy kỷ luật tài chính",
+      "example": "Automated transfers to a locked savings account can help foster fiscal discipline by curbing impulsive spending habits.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "regulatory oversight",
+      "ipa": "/ˈreɡjələtəri ˈəʊvəsaɪt/",
+      "meaning": "sự giám sát của cơ quan quản lý",
+      "example": "The presence of strict regulatory oversight ensures that customers' deposits are protected by government-backed insurance.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

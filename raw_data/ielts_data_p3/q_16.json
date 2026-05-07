@@ -1,0 +1,52 @@
+{
+  "id": "q_16",
+  "topic": "Arts and Drawing",
+  "q": "What are the differences between old and modern arts?",
+  "examiner_note": "So sánh kỹ thuật và thông điệp. Sử dụng 'realistic representation', 'traditional techniques', 'abstraction', 'challenging conventional ideas'.",
+  "samples": {
+    "band7": {
+      "text": "I think old art often focused more on realistic representation and traditional techniques, like oil painting on canvas. On the other hand, modern art is more about experimentation, abstraction, and challenging conventional ideas of what art can be. It's often more about the concept than the technical skill.",
+      "note": "Sử dụng từ vựng so sánh tốt (realistic representation, experimentation, abstraction)."
+    },
+    "band8": {
+      "text": "The primary distinction lies in the shift from objective representation to subjective expression. Traditional art generally prioritized technical mastery and the faithful depiction of the world. Conversely, modern art frequently utilizes non-traditional mediums and abstract forms to explore complex themes and provoke emotional responses.",
+      "note": "Sử dụng từ vựng nâng cao (distinction, objective vs subjective, depiction, Conversely, provoke)."
+    },
+    "band9": {
+      "text": "The evolution of art reflects a fundamental shift in philosophical and aesthetic priorities. While traditional genres were often constrained by the pursuit of mimetic accuracy and established conventions, modernism and its successors have dismantled these boundaries. Today's art is characterized by a pluralism of styles and a focus on conceptual depth, where the viewer’s interpretation is as vital as the artist’s intent.",
+      "note": "Sử dụng từ vựng ở mức độ chuyên sâu (mimetic accuracy, conventions, dismantled, pluralism, interpretation)."
+    }
+  },
+  "v": [
+    {
+      "word": "depiction",
+      "meaning": "sự miêu tả",
+      "ipa": "/dɪˈpɪkʃn/",
+      "example": "The depiction of life in the village is very realistic."
+    },
+    {
+      "word": "convention",
+      "meaning": "quy ước/truyền thống",
+      "ipa": "/kənˈvenʃn/",
+      "example": "He broke with convention and used bright colors."
+    },
+    {
+      "word": "pluralism",
+      "meaning": "sự đa nguyên/đa dạng",
+      "ipa": "/ˈplʊrəlɪzəm/",
+      "example": "The art scene is characterized by a healthy pluralism."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "mimetic",
+      "meaning": "có tính mô phỏng",
+      "ipa": "/mɪˈmetɪk/",
+      "example": "The artist avoided mimetic representation."
+    }
+  ],
+  "similar_questions": [
+    "How has technology changed art?",
+    "Do you think art is becoming more accessible?"
+  ]
+}

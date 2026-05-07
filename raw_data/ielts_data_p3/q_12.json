@@ -1,0 +1,52 @@
+{
+  "id": "q_12",
+  "topic": "Arts and Drawing",
+  "q": "Do you want to be an artist?",
+  "examiner_note": "Nói về đam mê vs. thực tế. Sử dụng 'talent', 'dedication', 'appreciator', 'creative outlet'.",
+  "samples": {
+    "band7": {
+      "text": "While I enjoy being creative as a hobby, I don't think I have the level of talent or dedication required to pursue it as a professional career. I'm happy being an appreciator of art instead. It’s nice to have it as a creative outlet.",
+      "note": "Trả lời khiêm tốn và thực tế, từ vựng ổn (talent, dedication, appreciator, creative outlet)."
+    },
+    "band8": {
+      "text": "As much as I admire artists, I don't see myself pursuing it professionally. I find great satisfaction in creating art for my own pleasure, but I lack the relentless drive and specialized skill set that being a successful artist demands. I'm content with keeping it as a therapeutic pastime.",
+      "note": "Sử dụng từ vựng tự nhiên và mạnh (relentless drive, specialized, content with, therapeutic pastime)."
+    },
+    "band9": {
+      "text": "While I harbor a deep-seated passion for artistic expression, I’ve never seriously entertained the idea of becoming a professional artist. I recognize the immense challenges and the precarious nature of the art world. For me, art remains a vital form of personal exploration rather than a career path I wish to tread.",
+      "note": "Sử dụng ngôn ngữ tinh tế (harbor, deep-seated, entertained the idea, precarious, tread)."
+    }
+  },
+  "v": [
+    {
+      "word": "creative outlet",
+      "meaning": "nơi giải tỏa sự sáng tạo",
+      "ipa": "/kriˈeɪtɪv ˈaʊtlet/",
+      "example": "Writing is my main creative outlet."
+    },
+    {
+      "word": "pastime",
+      "meaning": "trò giải trí/thú tiêu khiển",
+      "ipa": "/ˈpæstaɪm/",
+      "example": "Reading is her favorite pastime."
+    },
+    {
+      "word": "precarious",
+      "meaning": "bấp bênh/tạm bợ",
+      "ipa": "/prɪˈkeriəs/",
+      "example": "Many artists live a precarious existence."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "deep-seated",
+      "meaning": "ăn sâu/bền rễ",
+      "ipa": "/ˌdiːp ˈsiːtɪd/",
+      "example": "She has a deep-seated fear of spiders."
+    }
+  ],
+  "similar_questions": [
+    "What skills do you think an artist needs?",
+    "Is it hard to make a living as an artist?"
+  ]
+}

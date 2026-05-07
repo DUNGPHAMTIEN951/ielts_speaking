@@ -1,0 +1,76 @@
+{
+  "id": "q_1",
+  "vocab": [
+    {
+      "word": "miss out on",
+      "ipa": "/mɪs aʊt ɒn/",
+      "meaning": "bỏ lỡ cơ hội tham gia vào điều gì đó",
+      "example": "I didn't want to miss out on the camaraderie of being in a team, so I joined the local volleyball club.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get passed over",
+      "ipa": "/ɡet pæst ˈoʊvər/",
+      "meaning": "bị phớt lờ, không được chọn (vào đội hình chính)",
+      "example": "In my first year, I got passed over for the starting lineup, which only motivated me to train harder.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look up to",
+      "ipa": "/lʊk ʌp tu/",
+      "meaning": "ngưỡng mộ và tôn trọng (thường là đàn anh hoặc huấn luyện viên)",
+      "example": "As a junior player, I really looked up to our team captain for his incredible work ethic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fit in",
+      "ipa": "/fɪt ɪn/",
+      "meaning": "hòa nhập vào tập thể",
+      "example": "It took a few weeks to fit in with the rest of the squad, but now we're like a family.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "root for",
+      "ipa": "/ruːt fɔːr/",
+      "meaning": "ủng hộ, cổ vũ hết mình cho đồng đội",
+      "example": "Even when I was on the bench, I was always rooting for my teammates from the sidelines.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃoʊ ɔːf/",
+      "meaning": "thể hiện kỹ năng, phô diễn tài năng",
+      "example": "I don't like to show off, but scoring the winning goal in the finals was an unforgettable moment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wear out",
+      "ipa": "/wer aʊt/",
+      "meaning": "làm kiệt sức (đối thủ hoặc bản thân)",
+      "example": "Our strategy was to keep possession of the ball and slowly wear out the opposing defenders.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, xuất sắc hơn những người khác",
+      "example": "He really stands out in the team because of his exceptional agility and vision on the pitch.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go through with",
+      "ipa": "/ɡoʊ θruː wɪð/",
+      "meaning": "quyết tâm thực hiện đến cùng (một kế hoạch tập luyện/trận đấu)",
+      "example": "It was a grueling season, but we decided to go through with the extra training sessions to win the trophy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hold back",
+      "ipa": "/hoʊld bæk/",
+      "meaning": "kìm nén, giữ sức hoặc không dám thể hiện hết mình",
+      "example": "Once you're on the court, you can't afford to hold back; you have to give it your absolute all.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

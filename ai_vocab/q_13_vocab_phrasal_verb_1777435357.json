@@ -1,0 +1,76 @@
+{
+  "id": "q_13",
+  "vocab": [
+    {
+      "word": "hold onto",
+      "ipa": "/həʊld ˈɒn.tuː/",
+      "meaning": "giữ chặt lấy (một khoảnh khắc hoặc kỷ niệm)",
+      "example": "For me, capturing a landscape is a way to hold onto the fleeting feeling of peace I experience in nature.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "cất giấu, để ở một nơi khuất/bí mật",
+      "example": "I adore finding little-known spots tucked away in the mountains that haven't been over-photographed by tourists.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm nổi bật, làm lộ rõ (vẻ đẹp hoặc đặc điểm)",
+      "example": "The post-rain clarity really brings out the deep greens and textures of the valley, making for a stunning photo.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "filter out",
+      "ipa": "/ˈfɪl.tər aʊt/",
+      "meaning": "lọc bỏ, loại bỏ (những yếu tố không mong muốn)",
+      "example": "When I'm framing a shot, I try to filter out any modern eyesores like power lines to keep the view looking pristine.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng ngoạn, ngắm nhìn bao quát",
+      "example": "Before I reach for my camera, I like to just stand there and take in the sheer scale of the scenery.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble across",
+      "ipa": "/ˈstʌm.bəl əˈkrɒs/",
+      "meaning": "tình cờ bắt gặp",
+      "example": "The most breathtaking views I’ve ever shot were those I happened to stumble across while wandering aimlessly.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop up",
+      "ipa": "/pɒp ʌp/",
+      "meaning": "bất ngờ xuất hiện",
+      "example": "You never know when a perfect rainbow might pop up, so I always keep my gear ready when the weather is unpredictable.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drawn to",
+      "ipa": "/drɔːn tuː/",
+      "meaning": "bị thu hút bởi",
+      "example": "I've always been drawn to coastal scenery because of the dramatic way the waves crash against the cliffs.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, gây chú ý",
+      "example": "I look for a singular element, like a red barn in a green field, to make the landscape stand out in the frame.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brighten up",
+      "ipa": "/ˈbraɪ.tən ʌp/",
+      "meaning": "làm rạng rỡ, làm sáng bừng lên",
+      "example": "A few rays of sunlight peeking through the clouds can instantly brighten up an otherwise gloomy mountain vista.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

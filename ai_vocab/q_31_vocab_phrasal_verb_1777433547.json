@@ -1,0 +1,76 @@
+{
+  "id": "q_31",
+  "vocab": [
+    {
+      "word": "cough up",
+      "ipa": "/kɒf ʌp/",
+      "meaning": "miễn cưỡng chi tiền (thường là một khoản lớn)",
+      "example": "I recently had to cough up a substantial amount for a pair of limited-edition boots that I’d been eyeing for months.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lay out",
+      "ipa": "/leɪ aʊt/",
+      "meaning": "chi ra một số tiền lớn cho một mục đích cụ thể",
+      "example": "Professional athletes often lay out thousands of dollars annually on specialized footwear to enhance their performance.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dip into",
+      "ipa": "/dɪp ˈɪn.tuː/",
+      "meaning": "tiêu vào tiền tiết kiệm",
+      "example": "I occasionally have to dip into my savings when a high-end designer collaboration drops unexpectedly.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "run up",
+      "ipa": "/rʌn ʌp/",
+      "meaning": "làm tăng nhanh số nợ hoặc số tiền phải trả",
+      "example": "It is quite easy to run up a massive bill if you have a weakness for artisanal, hand-crafted leather shoes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shell out",
+      "ipa": "/ʃel aʊt/",
+      "meaning": "chi tiền cho một thứ gì đó đắt đỏ",
+      "example": "Most people are unwilling to shell out for premium sneakers, but for me, the comfort factor justifies the price.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blow through",
+      "ipa": "/bləʊ θruː/",
+      "meaning": "tiêu hết sạch tiền một cách nhanh chóng",
+      "example": "I tend to blow through my fashion budget the moment the end-of-season clearance sales begin.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "put towards",
+      "ipa": "/pʊt təˈwɔːdz/",
+      "meaning": "góp tiền vào/dành tiền cho một khoản mua sắm",
+      "example": "Every month, I save a small portion of my paycheck to put towards a pair of high-quality bespoke loafers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go towards",
+      "ipa": "/ɡəʊ təˈwɔːdz/",
+      "meaning": "(tiền) được dùng cho mục đích gì",
+      "example": "A significant chunk of my disposable income goes towards maintaining my extensive collection of vintage trainers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hold back",
+      "ipa": "/həʊld bæk/",
+      "meaning": "kiềm chế, giữ lại không chi tiêu quá mức",
+      "example": "Even though I’m a shoe enthusiast, I try to hold back and only purchase items that offer real longevity.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tide over",
+      "ipa": "/taɪd ˈəʊ.vər/",
+      "meaning": "giúp ai đó xoay xở (chi tiêu) cho đến khi có thêm tiền",
+      "example": "Buying a cheap pair of sandals might tide me over for the summer, but they usually fall apart within a few months.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

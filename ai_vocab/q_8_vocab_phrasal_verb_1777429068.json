@@ -1,0 +1,76 @@
+{
+  "id": "q_8",
+  "vocab": [
+    {
+      "word": "take your breath away",
+      "ipa": "/teɪk jɔːr breθ əˈweɪ/",
+      "meaning": "đẹp đến ngạt thở/choáng ngợp",
+      "example": "The sight of the sun dipping below the ocean horizon was enough to take my breath away.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "feast your eyes on",
+      "ipa": "/fiːst jɔːr aɪz ɒn/",
+      "meaning": "chiêm ngưỡng/thưởng ngoạn say mê",
+      "example": "We reached the cliff edge and could finally feast our eyes on the emerald valley below.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sweep over",
+      "ipa": "/swiːp ˈoʊvər/",
+      "meaning": "bao trùm/lan tỏa (cảm giác hoặc ánh sáng qua một không gian)",
+      "example": "A sense of utter peace swept over me as I watched the morning mist lift from the lake.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take it all in",
+      "ipa": "/teɪk ɪt ɔːl ɪn/",
+      "meaning": "thu trọn mọi thứ vào tầm mắt/tận hưởng trọn vẹn",
+      "example": "I stood there in silence for ten minutes, just trying to take it all in before we headed back down.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "light up",
+      "ipa": "/laɪt ʌp/",
+      "meaning": "rực sáng/chiếu sáng rực rỡ",
+      "example": "As night fell, the entire city started to light up, creating a dazzling display of neon colors.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blot out",
+      "ipa": "/blɒt aʊt/",
+      "meaning": "che khuất/làm lu mờ (thường nói về mây hoặc sương)",
+      "example": "The clouds would occasionally blot out the peak, adding a layer of mystery to the landscape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tower over",
+      "ipa": "/ˈtaʊər ˈoʊvər/",
+      "meaning": "cao sừng sững/áp đảo phía trên",
+      "example": "The limestone karsts tower over the bay, making everything else look minuscule in comparison.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sink in",
+      "ipa": "/sɪŋk ɪn/",
+      "meaning": "dần thấm thía/cảm nhận sâu sắc (vẻ đẹp)",
+      "example": "It took a few moments for the sheer scale of the Grand Canyon to really sink in.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gaze out at",
+      "ipa": "/ɡeɪz aʊt æt/",
+      "meaning": "nhìn đăm đăm ra xa",
+      "example": "From my hotel window, I could gaze out at the vast expanse of the desert for hours.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm nổi bật lên (vẻ đẹp hoặc đặc điểm)",
+      "example": "The golden sunlight really brought out the rich textures of the ancient stone walls.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

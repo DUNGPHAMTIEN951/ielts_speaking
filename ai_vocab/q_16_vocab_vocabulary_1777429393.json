@@ -1,0 +1,76 @@
+{
+  "id": "q_16",
+  "vocab": [
+    {
+      "word": "artistic medium",
+      "ipa": "/ɑːrˈtɪstɪk ˈmiːdiəm/",
+      "meaning": "phương tiện/chất liệu nghệ thuật",
+      "example": "While oil on canvas was the dominant artistic medium in the past, modern creators often utilize digital software or mixed media.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "representational art",
+      "ipa": "/ˌreprɪzenˈteɪʃənl ɑːrt/",
+      "meaning": "nghệ thuật mang tính hình mẫu (mô tả sự vật thực tế)",
+      "example": "Old masters focused heavily on representational art, striving to mirror reality with incredible precision.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "abstract expression",
+      "ipa": "/ˈæbstrækt ɪkˈspreʃn/",
+      "meaning": "sự biểu đạt trừu tượng",
+      "example": "Modern art lean towards abstract expression, where the focus is on emotional impact rather than literal figures.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "technical virtuosity",
+      "ipa": "/ˈteknɪkl ˌvɜːrtʃuˈɑːsəti/",
+      "meaning": "sự điêu luyện về mặt kỹ thuật",
+      "example": "Classical paintings are often admired for the technical virtuosity required to capture the texture of silk or the glow of skin.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "challenge social norms",
+      "ipa": "/ˈtʃælɪndʒ ˈsoʊʃl nɔːrmz/",
+      "meaning": "thách thức các quy chuẩn xã hội",
+      "example": "A key characteristic of contemporary art is its tendency to challenge social norms and provoke political debate.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "patronage system",
+      "ipa": "/ˈpætrənɪdʒ ˈsɪstəm/",
+      "meaning": "hệ thống bảo trợ (người giàu/tổ chức thuê họa sĩ)",
+      "example": "Traditional art was largely shaped by the patronage system, with works commissioned by the church or the aristocracy.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "aesthetic conventions",
+      "ipa": "/esˈθetɪk kənˈvenʃnz/",
+      "meaning": "các quy ước về thẩm mỹ",
+      "example": "Modernism sought to dismantle long-standing aesthetic conventions, prioritizing originality over classical beauty.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "evoke a response",
+      "ipa": "/ɪˈvoʊk ə rɪˈspɑːns/",
+      "meaning": "gợi lên một phản hồi/cảm xúc (từ người xem)",
+      "example": "The goal of many modern installations is to evoke a visceral response, even if that response is one of discomfort.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "chiaroscuro technique",
+      "ipa": "/kiˌɑːrəˈskjʊroʊ tekˈniːk/",
+      "meaning": "kỹ thuật tương phản sáng tối (trong hội họa cổ điển)",
+      "example": "Old art frequently employed the chiaroscuro technique to create a sense of three-dimensional volume and drama.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "ephemeral nature",
+      "ipa": "/ɪˈfemərəl ˈneɪtʃər/",
+      "meaning": "tính chất phù du/chóng tàn",
+      "example": "Unlike the enduring statues of the past, some modern street art is valued specifically for its ephemeral nature.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

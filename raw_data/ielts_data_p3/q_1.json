@@ -1,0 +1,52 @@
+{
+  "id": "q_1",
+  "topic": "Sports team",
+  "q": "Have you ever been part of a sports team?",
+  "examiner_note": "Giám khảo muốn nghe về trải nghiệm cá nhân của bạn. Đừng chỉ trả lời 'Yes/No', hãy mô tả vai trò của bạn và những gì bạn học được. Sử dụng các từ như 'camaraderie', 'collaborative effort', 'sense of belonging'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I have. I used to be part of my secondary school football team. Although we weren’t professional, training together and playing matches taught me teamwork and discipline. It was a great way to stay active and make friends.",
+      "note": "Trả lời rõ ràng, mạch lạc, sử dụng từ vựng tốt (teamwork, discipline)."
+    },
+    "band8": {
+      "text": "Definitely. I was quite involved in a basketball squad back in university. Beyond just the physical exercise, it was the sense of camaraderie and the shared goal that really made it special. We had to coordinate our efforts constantly, which sharpened my communication skills in high-pressure situations.",
+      "note": "Sử dụng từ vựng tự nhiên (involved in, squad, camaraderie, coordinate, sharpened)."
+    },
+    "band9": {
+      "text": "Indeed, I’ve had several stints in various sports teams, most notably a local volleyball club. What I found most rewarding wasn't just the thrill of competition, but the collaborative effort required to synchronize our movements on the court. It instilled in me a profound understanding of collective responsibility and the importance of supporting one's peers through both victories and setbacks.",
+      "note": "Vốn từ vựng và cấu trúc câu ở mức độ rất cao (stints, notably, synchronize, instilled, profound, collective responsibility, setbacks)."
+    }
+  },
+  "v": [
+    {
+      "word": "camaraderie",
+      "meaning": "tình đồng đội",
+      "ipa": "/ˌkæməˈrɑːdəri/",
+      "example": "There's a great sense of camaraderie among the team members."
+    },
+    {
+      "word": "collaborative effort",
+      "meaning": "nỗ lực cộng tác",
+      "ipa": "/kəˈlæbərətɪv ˈefərt/",
+      "example": "Winning the championship was a truly collaborative effort."
+    },
+    {
+      "word": "setback",
+      "meaning": "trở ngại/thất bại tạm thời",
+      "ipa": "/ˈsetbæk/",
+      "example": "We faced some setbacks, but we eventually won the game."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "stint",
+      "meaning": "một khoảng thời gian làm việc/hoạt động gì đó",
+      "ipa": "/stɪnt/",
+      "example": "I had a brief stint as a goalkeeper."
+    }
+  ],
+  "similar_questions": [
+    "Do you prefer individual or team sports?",
+    "What are the benefits of playing sports in a team?"
+  ]
+}

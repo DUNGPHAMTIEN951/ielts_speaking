@@ -1,0 +1,76 @@
+{
+  "id": "q_39",
+  "vocab": [
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɔːf/",
+      "meaning": "thả mình vào giấc ngủ (thường nhờ âm thanh êm dịu)",
+      "example": "I love the sound of white noise because it helps me drift off in a matter of minutes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "chặn/át đi âm thanh không mong muốn",
+      "example": "Listening to the hum of the ocean helps me block out the chaotic noise of city traffic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/soʊk ʌp/",
+      "meaning": "tận hưởng/đắm mình trong âm thanh",
+      "example": "Whenever I'm in the countryside, I just sit still to soak up the melodic chirping of the birds.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "chill out",
+      "ipa": "/tʃɪl aʊt/",
+      "meaning": "thư giãn (bằng cách nghe âm thanh gì đó)",
+      "example": "Low-fidelity beats are my go-to sounds when I need to chill out after a high-pressure day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring back",
+      "ipa": "/brɪŋ bæk/",
+      "meaning": "gợi nhớ lại (kỷ niệm/cảm xúc)",
+      "example": "The crackling sound of a fireplace always brings back fond memories of my family holidays.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "liven up",
+      "ipa": "/ˈlaɪvn ʌp/",
+      "meaning": "làm cho không khí trở nên sôi động/vui vẻ hơn",
+      "example": "I enjoy the sound of upbeat jazz as it really livens up the atmosphere in my apartment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tune in",
+      "ipa": "/tuːn ɪn/",
+      "meaning": "lắng nghe một cách tập trung/chú ý",
+      "example": "I like to tune in to the rhythmic patter of rain against the windowpane while I'm reading.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wash over",
+      "ipa": "/wɒʃ ˈoʊvər/",
+      "meaning": "tràn ngập/bao phủ (cảm giác do âm thanh mang lại)",
+      "example": "I find the sound of a cello very moving; I just let the music wash over me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "vibe with",
+      "ipa": "/vaɪb wɪð/",
+      "meaning": "cảm thấy hòa hợp/thích thú với (âm hưởng/nhịp điệu)",
+      "example": "There’s something about the sound of a bass guitar that I really vibe with.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "perk up",
+      "ipa": "/pɜːrk ʌp/",
+      "meaning": "trở nên tươi tỉnh/hào hứng hơn (khi nghe thấy âm thanh nào đó)",
+      "example": "My ears always perk up when I hear the distant sound of an ice cream truck.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_2",
+  "vocab": [
+    {
+      "word": "draw in",
+      "ipa": "/drɔː ɪn/",
+      "meaning": "thu hút một lượng lớn người tham gia hoặc khán giả",
+      "example": "Major football tournaments draw in millions of viewers across the country, creating a shared national experience.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clash with",
+      "ipa": "/klæʃ wɪð/",
+      "meaning": "đối đầu, chạm trán (thường dùng cho các đội bóng là kình địch)",
+      "example": "Whenever the two local basketball giants clash with each other, the atmosphere in the stadium is absolutely electric.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hype up",
+      "ipa": "/haɪp ʌp/",
+      "meaning": "quảng bá, làm cho mọi người phấn khích về điều gì đó",
+      "example": "The media usually hypes up international matches for weeks, making them the main topic of conversation in every coffee shop.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sit through",
+      "ipa": "/sɪt θruː/",
+      "meaning": "kiên nhẫn ngồi xem từ đầu đến cuối (ngay cả khi trận đấu kéo dài hoặc chán)",
+      "example": "Die-hard fans are willing to sit through a ninety-minute match in the pouring rain just to support their home team.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌk.əl daʊn/",
+      "meaning": "bắt đầu làm việc/tập luyện một cách nghiêm túc và chăm chỉ",
+      "example": "Before the national games, our athletes really knuckle down to ensure they are in peak physical condition.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull off",
+      "ipa": "/pʊl ɒf/",
+      "meaning": "thành công trong việc làm một điều gì đó khó khăn (như thắng ngược dòng)",
+      "example": "It was incredible to see the underdog team pull off a stunning victory against the defending champions last night.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "kick off",
+      "ipa": "/kɪk ɒf/",
+      "meaning": "bắt đầu (thường dùng cho trận đấu hoặc một sự kiện thể thao)",
+      "example": "The tournament is scheduled to kick off this weekend, and the anticipation among the youth is palpable.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "phase out",
+      "ipa": "/feɪz aʊt/",
+      "meaning": "dần dần loại bỏ (dùng để nói về việc các môn thể thao cũ không còn phổ biến)",
+      "example": "While traditional games are being phased out in urban areas, modern team sports like futsal are rapidly taking their place.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lose out to",
+      "ipa": "/luːz aʊt tuː/",
+      "meaning": "thất thế hoặc bị thay thế bởi một thứ khác hấp dẫn hơn",
+      "example": "Individual sports often lose out to team sports in terms of popularity because the latter offers a stronger sense of community.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "warm up to",
+      "ipa": "/wɔːm ʌp tuː/",
+      "meaning": "dần dần trở nên thích hoặc chấp nhận điều gì đó",
+      "example": "It took some time, but people are finally starting to warm up to cricket, which was once considered quite foreign here.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

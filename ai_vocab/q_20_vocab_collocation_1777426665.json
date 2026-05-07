@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "safeguard assets",
+      "ipa": "/ˈseɪfɡɑːrd ˈæsets/",
+      "meaning": "bảo vệ tài sản",
+      "example": "One of the primary reasons people use banks is to safeguard their hard-earned assets from physical theft.",
+      "type": "collocation"
+    },
+    {
+      "word": "accrue interest",
+      "ipa": "/əˈkruː ˈɪntrəst/",
+      "meaning": "tích lũy lãi suất",
+      "example": "Savings accounts allow individuals to let their capital accrue interest over time, ensuring modest growth.",
+      "type": "collocation"
+    },
+    {
+      "word": "facilitate transactions",
+      "ipa": "/fəˈsɪlɪteɪt trænˈzækʃnz/",
+      "meaning": "tạo điều kiện thuận lợi cho các giao dịch",
+      "example": "Digital banking platforms facilitate seamless transactions, allowing users to move funds globally in seconds.",
+      "type": "collocation"
+    },
+    {
+      "word": "mitigate financial risks",
+      "ipa": "/ˈmɪtɪɡeɪt faɪˈnænʃl rɪsks/",
+      "meaning": "giảm thiểu các rủi ro tài chính",
+      "example": "By diversifying their holdings in different bank instruments, investors can effectively mitigate financial risks.",
+      "type": "collocation"
+    },
+    {
+      "word": "establish creditworthiness",
+      "ipa": "/ɪˈstæblɪʃ ˈkredɪtˌwɜːrðinəs/",
+      "meaning": "xây dựng độ tin cậy về tín dụng",
+      "example": "Maintaining a consistent banking history is crucial to establish creditworthiness when applying for a mortgage.",
+      "type": "collocation"
+    },
+    {
+      "word": "capital accumulation",
+      "ipa": "/ˈkæpɪtl əˌkjuːmjuˈleɪʃn/",
+      "meaning": "sự tích lũy vốn",
+      "example": "Banks serve as vital engines for capital accumulation, helping families save for long-term goals like education.",
+      "type": "collocation"
+    },
+    {
+      "word": "foster fiscal discipline",
+      "ipa": "/ˈfɔːstər ˈfɪskl ˈdɪsəplɪn/",
+      "meaning": "thúc đẩy kỷ luật tài chính",
+      "example": "Automated savings features in modern banking apps help users foster fiscal discipline by curbing impulsive spending.",
+      "type": "collocation"
+    },
+    {
+      "word": "streamline payroll",
+      "ipa": "/ˈstriːmlaɪn ˈpeɪroʊl/",
+      "meaning": "tối ưu hóa quy trình trả lương",
+      "example": "Most corporations utilize banking systems to streamline payroll, ensuring employees receive their wages punctually.",
+      "type": "collocation"
+    },
+    {
+      "word": "unauthorized access",
+      "ipa": "/ʌnˈɔːθəraɪzd ˈækses/",
+      "meaning": "truy cập trái phép",
+      "example": "Advanced encryption in banking software acts as a robust barrier against unauthorized access to personal wealth.",
+      "type": "collocation"
+    },
+    {
+      "word": "financial intermediary",
+      "ipa": "/faɪˈnænʃl ˌɪntərˈmiːdiəri/",
+      "meaning": "trung gian tài chính",
+      "example": "Banks act as a reliable financial intermediary between those who have excess funds and those who need to borrow.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

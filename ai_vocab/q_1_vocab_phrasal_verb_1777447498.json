@@ -1,0 +1,76 @@
+{
+  "id": "q_1",
+  "vocab": [
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒə(r) ʌp tu/",
+      "meaning": "đạt tới tiêu chuẩn, xứng đáng với kỳ vọng",
+      "example": "Being part of the varsity team was tough because I constantly felt the need to measure up to the senior players.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌkl daʊn/",
+      "meaning": "bắt đầu làm việc/tập luyện một cách nghiêm túc và chăm chỉ",
+      "example": "Before the championship, the whole team had to knuckle down and practice for three hours every single day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dựa dẫm vào (khi những thứ khác thất bại)",
+      "example": "When our main strategy didn't work, we had to fall back on our intensive defensive training to stay in the game.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "play off against",
+      "ipa": "/pleɪ ɒf əˈɡeɪnst/",
+      "meaning": "đối đầu/thi đấu trực tiếp với ai đó",
+      "example": "It was exhilarating to play off against the top-seeded team in the province during my high school years.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bounce back",
+      "ipa": "/baʊns bæk/",
+      "meaning": "vực dậy, phục hồi nhanh chóng (sau thất bại)",
+      "example": "Our coach always emphasized the importance of being able to bounce back after a heavy defeat.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull through",
+      "ipa": "/pʊl θruː/",
+      "meaning": "vượt qua khó khăn, giành chiến thắng trong tình thế hiểm nghèo",
+      "example": "Despite being two goals down, our collective effort helped us pull through in the final minutes of the match.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sit out",
+      "ipa": "/sɪt aʊt/",
+      "meaning": "không tham gia (do chấn thương hoặc không được chọn)",
+      "example": "I had to sit out the entire season last year due to a recurring ankle injury, which was quite frustrating.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cheer on",
+      "ipa": "/tʃɪə(r) ɒn/",
+      "meaning": "cổ vũ, khích lệ tinh thần",
+      "example": "Even when I wasn't on the field, I was always on the sidelines cheering on my teammates with all my heart.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look up to",
+      "ipa": "/lʊk ʌp tu/",
+      "meaning": "ngưỡng mộ và kính trọng",
+      "example": "As a junior member, I really looked up to our team captain for his incredible leadership and discipline.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fit in with",
+      "ipa": "/fɪt ɪn wɪð/",
+      "meaning": "hòa nhập, phù hợp với một tập thể",
+      "example": "It took me a while to fit in with the rest of the squad, but eventually, we became like a second family.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "q_18",
+  "topic": "Arts and Drawing",
+  "q": "Do you think it would be interesting for you to be an artist?",
+  "examiner_note": "Cân nhắc ưu và nhược điểm. Sử dụng 'fulfilling', 'vision', 'challenges and pressures', 'artistic integrity'.",
+  "samples": {
+    "band7": {
+      "text": "I think it would be incredibly fulfilling to be able to share your vision with the world through your work. However, I also recognize the challenges and pressures that professional artists face, like finding an audience and making a steady income.",
+      "note": "Sử dụng từ nối tốt và cân bằng hai mặt (fulfilling, vision, pressures)."
+    },
+    "band8": {
+      "text": "It’s certainly an intriguing prospect. The freedom to explore one’s creativity and influence people's emotions through art is very appealing. However, the lack of financial stability and the constant pressure to innovate might take some of the joy out of it for me.",
+      "note": "Sử dụng từ vựng hay (intriguing prospect, appealing, stability, innovate)."
+    },
+    "band9": {
+      "text": "While the idea of dedicated self-expression is captivating, I suspect the reality of maintaining artistic integrity while navigating the commercial art market would be immensely challenging. I admire those who can balance their creative vision with the practicalities of a career in the arts, but I’m not sure I possess that particular blend of talent and tenacity.",
+      "note": "Sử dụng từ vựng ở mức độ C2 (captivating, integrity, navigating, practicalities, tenacity)."
+    }
+  },
+  "v": [
+    {
+      "word": "integrity",
+      "meaning": "sự chính trực/tính nguyên vẹn",
+      "ipa": "/ɪnˈteɡrəti/",
+      "example": "He has a reputation for artistic integrity."
+    },
+    {
+      "word": "tenacity",
+      "meaning": "sự kiên trì/bền bỉ",
+      "ipa": "/təˈnæsəti/",
+      "example": "Her tenacity helped her achieve her goals."
+    },
+    {
+      "word": "intriguing",
+      "meaning": "hấp dẫn/gợi tò mò",
+      "ipa": "/ɪnˈtriːɡɪŋ/",
+      "example": "The plot of the movie was very intriguing."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "prospect",
+      "meaning": "triển vọng/khả năng",
+      "ipa": "/ˈprɑːspekt/",
+      "example": "The prospect of a new job is exciting."
+    }
+  ],
+  "similar_questions": [
+    "Would you ever take an art class?",
+    "What is the most difficult thing about being an artist?"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_40",
+  "vocab": [
+    {
+      "word": "cut through",
+      "ipa": "/kʌt θruː/",
+      "meaning": "xuyên qua, vang lên lấn át (những âm thanh khác)",
+      "example": "The shrill sound of an ambulance siren often cuts through the low-level hum of the city.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drown out",
+      "ipa": "/draʊn aʊt/",
+      "meaning": "át đi, làm cho không thể nghe thấy",
+      "example": "The roar of the airplane engines completely drowned out our conversation on the balcony.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wash over",
+      "ipa": "/wɒʃ ˈəʊvər/",
+      "meaning": "bao phủ, tràn ngập (thường là âm thanh nhẹ nhàng hoặc liên tục)",
+      "example": "I sometimes let the ambient noise of the rain wash over me while I'm trying to relax.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burst forth",
+      "ipa": "/bɜːrst fɔːrθ/",
+      "meaning": "đột ngột vang lên mạnh mẽ",
+      "example": "Occasionally, a chorus of car horns will burst forth during the peak hour traffic jam.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ring out",
+      "ipa": "/rɪŋ aʊt/",
+      "meaning": "vang lên rõ rệt (thường là tiếng chuông hoặc tiếng kêu sắc gọn)",
+      "example": "The church bells ring out every hour, serving as a constant reminder of the time in our quiet village.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "thrum away",
+      "ipa": "/θrʌm əˈweɪ/",
+      "meaning": "kêu rì rì, rung lên liên tục (máy móc)",
+      "example": "The air conditioning unit in my office just thrums away in the background all day long.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off",
+      "ipa": "/set ɔːf/",
+      "meaning": "làm kích hoạt (chuông báo động, tiếng nổ)",
+      "example": "Stray cats often set off the car alarms in our apartment complex in the middle of the night.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry over",
+      "ipa": "/ˈkæri ˈəʊvər/",
+      "meaning": "truyền đi xa, vọng lại từ khoảng cách xa",
+      "example": "The sound of the music from the stadium carries over for miles when the wind is blowing in our direction.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "swell up",
+      "ipa": "/swel ʌp/",
+      "meaning": "to dần lên, tăng dần về âm lượng",
+      "example": "The chatter in the local market tends to swell up as more vendors and customers arrive in the morning.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fade away",
+      "ipa": "/feɪd əˈweɪ/",
+      "meaning": "nhỏ dần rồi biến mất hẳn",
+      "example": "I listen to the sound of the late-night bus as it slowly fades away into the distance.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

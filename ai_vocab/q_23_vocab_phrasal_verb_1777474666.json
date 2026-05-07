@@ -1,0 +1,76 @@
+{
+  "id": "q_23",
+  "vocab": [
+    {
+      "word": "spruce up",
+      "ipa": "/spruːs ʌp/",
+      "meaning": "chỉnh sửa cho đẹp hơn/làm bóng bẩy hơn",
+      "example": "I usually spend a few minutes with an editing app to spruce up my landscape shots before posting them online.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "crop out",
+      "ipa": "/krɒp aʊt/",
+      "meaning": "cắt bỏ phần không mong muốn trong ảnh",
+      "example": "If there's a distracting element in the corner of the frame, I'll just crop it out to maintain the focus on the subject.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại/hồi tưởng lại (kỷ niệm qua ảnh)",
+      "example": "Taking photos is vital for me because I love to look back on those precious moments years later.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm nổi bật (chi tiết, đặc điểm hoặc cảm xúc)",
+      "example": "The right lighting can really bring out the textures of the old building's stone walls in a photograph.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get into",
+      "ipa": "/ɡet ˈɪntuː/",
+      "meaning": "trở nên hứng thú/bắt đầu đam mê cái gì",
+      "example": "I first got into photography when my father gifted me an old film camera on my tenth birthday.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃoʊ ɔːf/",
+      "meaning": "khoe/trưng bày (tác phẩm hoặc kỹ năng)",
+      "example": "Social media platforms are great places for amateur photographers to show off their creative work to the world.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mess about with",
+      "ipa": "/mes əˈbaʊt wɪð/",
+      "meaning": "thử nghiệm/vọc vạch một cách thoải mái",
+      "example": "On weekends, I enjoy messing about with different filters and exposure settings to see what unique effects I can create.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "capture on",
+      "ipa": "/ˈkæptʃər ɒn/",
+      "meaning": "ghi lại trên (phim, thẻ nhớ, thiết bị)",
+      "example": "There's a unique aesthetic to images captured on film that digital cameras simply cannot replicate.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật/gây chú ý",
+      "example": "I like using a shallow depth of field to make the main subject stand out against a blurred background.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toy with",
+      "ipa": "/tɔɪ wɪð/",
+      "meaning": "cân nhắc/thử nghiệm (một ý tưởng hoặc kỹ thuật mới)",
+      "example": "Lately, I’ve been toying with the idea of drone photography to get a bird’s-eye view of my city.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

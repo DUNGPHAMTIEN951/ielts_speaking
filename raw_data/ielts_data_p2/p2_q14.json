@@ -1,0 +1,50 @@
+{
+  "q": "Describe an electronic device you often use.",
+  "cue_card": [
+    "An electronic device you often use.",
+    "What the device is",
+    "What you use it for",
+    "How it helps you in your daily life",
+    "And explain why you think it is useful"
+  ],
+  "examiner_note": "Chủ đề công nghệ yêu cầu các từ vựng về tính đa năng (versatile, multi-functional, indispensable). Hãy miêu tả cách thiết bị này thay đổi thói quen sinh hoạt hoặc nâng cao năng suất (streamline, boost productivity).",
+  "samples": {
+    "band7": "I'm going to talk about my smartphone, which is an iPhone. I use it every day for many things, like calling my friends, surfing the internet, and checking my emails. It helps me stay connected and I also use it as a navigation tool when I travel. I think it is very useful because it's like a small computer in my pocket that can do almost everything I need for my work and personal life.",
+    "band8": "I’d like to describe my smartphone, specifically my latest iPhone, which has become an indispensable part of my daily routine. I use it for a multitude of tasks, ranging from professional communication via email to managing my personal schedule. It dramatically streamlines my life by providing instant access to information and various productivity apps. What makes it exceptionally useful is its versatility; it’s not just a communication device, but also a powerful tool for learning and entertainment.",
+    "band9": "The electronic device that I find absolutely essential is my smartphone, a multi-functional tool that has fundamentally transformed the way I navigate my daily life. I utilize it for everything from high-level project management to capturing spontaneous moments through its high-resolution camera. Its ability to integrate various aspects of my life—social, professional, and personal—into a single, portable interface is nothing short of revolutionary. It hasn't merely Boosted my productivity; it has redefined it by allowing for seamless multitasking and instant connectivity, making it an intellectually and practically indispensable asset."
+  },
+  "v": [
+    {
+      "word": "Indispensable",
+      "meaning": "Không thể thiếu (Absolutely necessary)",
+      "example": "In today's digital age, the internet has become an indispensable part of our lives."
+    },
+    {
+      "word": "Multitude of tasks",
+      "meaning": "Vô số nhiệm vụ (A extremely large number of tasks)",
+      "example": "Modern smartphones can handle a multitude of tasks simultaneously."
+    },
+    {
+      "word": "Streamline",
+      "meaning": "Tối ưu hóa, tinh giản (Make an organization or system more efficient and effective by employing faster or simpler working methods)",
+      "example": "The new software is designed to streamline the production process."
+    },
+    {
+      "word": "Versatility",
+      "meaning": "Tính linh hoạt/đa năng (Ability to adapt or be adapted to many different functions or activities)",
+      "example": "I chose this camera for its versatility and high performance in various lighting conditions."
+    },
+    {
+      "word": "Seamless",
+      "meaning": "Liền mạch, thông suốt (Moving from one thing to another without any interruptions or problems)",
+      "example": "The transition between the two systems was completely seamless."
+    },
+    {
+      "word": "Fundamental transformation",
+      "meaning": "Sự thay đổi căn bản (A basic and important change in something)",
+      "example": "The rise of Phạm Tiến Dũng Gia Sư has led to a fundamental transformation in the job market."
+    }
+  ],
+  "topic": "Describe an electronic device you often use.",
+  "id": "p2_q14"
+}

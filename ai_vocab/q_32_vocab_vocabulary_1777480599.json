@@ -1,0 +1,76 @@
+{
+  "id": "q_32",
+  "vocab": [
+    {
+      "word": "a steep learning curve",
+      "ipa": "/ə stiːp ˈlɜː.nɪŋ kɜːv/",
+      "meaning": "một quá trình học tập đầy thách thức nhưng tiến bộ nhanh",
+      "example": "Mastering advanced calculus presented a steep learning curve, but overcoming those hurdles was immensely satisfying.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "interdisciplinary synergy",
+      "ipa": "/ˌɪn.təˈdɪs.ə.plɪ.ner.i ˈsɪn.ə.dʒi/",
+      "meaning": "sự hiệp lực liên ngành (kết hợp nhiều môn học)",
+      "example": "I am fascinated by the interdisciplinary synergy between artificial intelligence and linguistics in my current research.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "heuristic approach",
+      "ipa": "/hjuːˈrɪs.tɪk əˈprəʊtʃ/",
+      "meaning": "phương pháp học tập dựa trên sự tự khám phá/trải nghiệm",
+      "example": "My professor encourages a heuristic approach, allowing us to derive formulas through trial and error rather than rote memorization.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "cognitive dissonance",
+      "ipa": "/ˈkɒɡ.nə.tɪv ˈdɪs.ə.nəns/",
+      "meaning": "sự mâu thuẫn trong nhận thức (thách thức niềm tin cũ)",
+      "example": "Studying sociopolitics often triggers a sense of cognitive dissonance that forces me to re-evaluate my preconceived notions.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "nuanced understanding",
+      "ipa": "/ˈnjuː.ɑːnst ˌʌn.dəˈstæn.dɪŋ/",
+      "meaning": "sự hiểu biết sắc thái (sâu sắc và chi tiết)",
+      "example": "The most rewarding part is developing a nuanced understanding of how global markets fluctuate beyond simple supply and demand.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "hands-on workshop",
+      "ipa": "/ˌhændzˈɒn ˈwɜːk.ʃɒp/",
+      "meaning": "hội thảo thực hành thực tế",
+      "example": "The hands-on workshops in our lab allow us to see chemical reactions occur in real-time, which is far more engaging than theory.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "threshold concept",
+      "ipa": "/ˈθreʃ.həʊld ˈkɒn.sept/",
+      "meaning": "khái niệm ngưỡng (kiến thức cốt lõi thay đổi cách nhìn)",
+      "example": "Once I grasped the threshold concept of 'scarcity' in economics, everything else in the curriculum finally clicked into place.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "thought-provoking",
+      "ipa": "/ˈθɔːt.prəˈvəʊ.kɪŋ/",
+      "meaning": "gợi suy nghĩ/kích thích tư duy",
+      "example": "Our seminars often involve thought-provoking discussions about the ethical boundaries of genetic engineering.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "theoretical framework",
+      "ipa": "/θɪəˈret.ɪ.kəl ˈfreɪm.wɜːk/",
+      "meaning": "khung lý thuyết/cơ sở lý luận",
+      "example": "I find it intriguing to apply a different theoretical framework to analyze the same historical event from multiple angles.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "cultivate a mindset",
+      "ipa": "/ˈkʌl.tɪ.veɪt ə ˈmaɪnd.set/",
+      "meaning": "trau dồi/xây dựng một tư duy",
+      "example": "My studies have helped me cultivate a mindset of critical inquiry, ensuring I never take information at face value.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

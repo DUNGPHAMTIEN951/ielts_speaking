@@ -1,0 +1,76 @@
+{
+  "id": "q_45",
+  "vocab": [
+    {
+      "word": "tune out",
+      "ipa": "/tuːn aʊt/",
+      "meaning": "lờ đi, không chú ý đến những âm thanh xung quanh",
+      "example": "I often put my headphones on to tune out the annoying chatter of people on the bus.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɑːk aʊt/",
+      "meaning": "ngăn chặn (âm thanh, tiếng ồn) để không nghe thấy",
+      "example": "Noise-canceling headphones are perfect for blocking out the roar of the city engine.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zone out",
+      "ipa": "/zoʊn aʊt/",
+      "meaning": "thả lỏng tâm trí, không chú ý đến mọi thứ xung quanh",
+      "example": "Sometimes I just want to zone out and enjoy my favorite playlist while waiting for the train.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/soʊk ʌp/",
+      "meaning": "đắm mình vào, tận hưởng trọn vẹn (âm nhạc, không gian)",
+      "example": "I love to soak up the latest podcasts whenever I’m commuting to work.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut oneself off",
+      "ipa": "/kʌt wʌnˈself ɔːf/",
+      "meaning": "tách biệt bản thân khỏi (môi trường, xã hội)",
+      "example": "Wearing headphones allows me to cut myself off from the chaotic environment of a crowded terminal.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lose oneself in",
+      "ipa": "/luːz wʌnˈself ɪn/",
+      "meaning": "mải mê, đắm chìm hoàn toàn vào điều gì",
+      "example": "It's easy to lose oneself in a captivating audiobook when you're stuck in a long queue.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop on",
+      "ipa": "/pɑːp ɑːn/",
+      "meaning": "đeo vào (một cách nhanh chóng)",
+      "example": "I usually pop on my earbuds the moment I step out of the house to keep myself entertained.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɔːf/",
+      "meaning": "thả hồn theo, bắt đầu mơ mộng hoặc lơ đãng",
+      "example": "With some lo-fi music, I can easily drift off and forget that I'm in a noisy public space.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fend off",
+      "ipa": "/fend ɔːf/",
+      "meaning": "ngăn chặn, tránh né (sự làm phiền hoặc tương tác không mong muốn)",
+      "example": "Headphones act as a social signal to fend off unwanted conversations from strangers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get through",
+      "ipa": "/ɡet θruː/",
+      "meaning": "vượt qua (một khoảng thời gian hoặc tình huống khó khăn)",
+      "example": "Listening to high-energy tracks really helps me get through the tedious daily commute.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

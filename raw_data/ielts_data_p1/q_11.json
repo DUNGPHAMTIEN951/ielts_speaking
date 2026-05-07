@@ -1,0 +1,72 @@
+{
+  "id": "q_11",
+  "topic": "Scenery",
+  "q": "Do you look out the window at the scenery when travelling by bus or car?",
+  "examiner_note": "Đây là câu hỏi về thói quen cá nhân trong quá trình di chuyển. Bạn có thể nói về việc ngắm cảnh giúp giảm bớt sự nhàm chán (boredom) hoặc say xe (motion sickness). Hãy sử dụng các cụm từ như 'watching the world go by', 'fleeting glimpses', 'contemplative' để làm phong phú câu trả lời. Ngoài ra, việc so sánh giữa việc ngắm cảnh và thói quen dùng điện thoại cũng là một hướng trả lời hay.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I almost always look out the window. I find it very relaxing to watch the different landscapes pass by, especially if the journey is long. It’s much better than just staring at my phone the whole time.",
+      "note": "Trả lời trực tiếp, rõ ràng. Có sự so sánh nhẹ với việc dùng điện thoại. Sử dụng từ vựng ổn (relaxing, landscapes pass by)."
+    },
+    "band8": {
+      "text": "Absolutely, I’m quite fond of 'watching the world go by' during a commute. Whether it’s the bustling city streets or the tranquil countryside, there’s always something interesting to observe. I find that it puts me in a contemplative mood and helps the time pass much more quickly.",
+      "note": "Sử dụng các cụm từ tự nhiên và hình ảnh (watching the world go by, bustling city streets, tranquil countryside, contemplative mood). Diễn đạt trôi chảy."
+    },
+    "band9": {
+      "text": "Without fail, I find myself captivated by the shifting panoramas outside the window. There’s something uniquely hypnotic about the rhythmic motion of travel combined with the fleeting glimpses of life and nature unfolding. For me, it’s a form of passive meditation that allows my mind to wander and escape the monotony of a long journey. It’s certainly more enriching than being tethered to a digital screen.",
+      "note": "Từ vựng cực kỳ tinh tế và giàu sức gợi (captivated, shifting panoramas, hypnotic, fleeing glimpses, unfolding, passive meditation, monotony, tethered). Cách lập luận mang tính phản tư sâu sắc."
+    }
+  },
+  "v": [
+    { "word": "watching the world go by", "meaning": "ngắm nhìn thế giới trôi qua (ngắm cảnh vật/người)", "ipa": "/ˈwɑːtʃɪŋ ðə wɜːrld ɡoʊ baɪ/", "example": "I can spend hours in a cafe, just watching the world go by." },
+    { "word": "contemplative mood", "meaning": "tâm trạng trầm tư/suy ngẫm", "ipa": "/kənˈtemplətɪv muːd/", "example": "The quiet rainy afternoon put me in a contemplative mood." },
+    { "word": "shifting panorama", "meaning": "toàn cảnh luôn thay đổi (khi di chuyển)", "ipa": "/ˈʃɪftɪŋ ˌpænəˈræmə/", "example": "From the train window, we enjoyed the shifting panorama of the mountains." },
+    { "word": "hypnotic", "meaning": "có tính thôi miên/gây mê hoặc", "ipa": "/hɪpˈnɑːtɪk/", "example": "The sound of the rain was almost hypnotic." },
+    { "word": "fleeting glimpse", "meaning": "cái nhìn thoáng qua/chớp nhoáng", "ipa": "/ˈfliːtɪŋ ɡlɪmps/", "example": "I caught a fleeting glimpse of a deer in the woods." },
+    { "word": "passive meditation", "meaning": "thiền thụ động (thư giãn tâm trí một cách tự nhiên)", "ipa": "/ˈpæsɪv ˌmedɪˈteɪʃn/", "example": "Watching the sea can be a form of passive meditation." },
+    { "word": "monotony", "meaning": "sự đơn điệu/nhàm chán lặp đi lặp lại", "ipa": "/məˈnɑːtəni/", "example": "She needed a vacation to break the monotony of her daily routine." },
+    { "word": "be tethered to", "meaning": "bị ràng buộc/gắn chặt với", "ipa": "/bi ˈteðərd tuː/", "example": "In the modern office, people are tethered to their desks all day." },
+    { "word": "commute", "meaning": "quãng đường đi học/đi làm hàng ngày", "ipa": "/kəˈmjuːt/", "example": "My daily commute takes about forty-five minutes by train." },
+    { "word": "motion sickness", "meaning": "say xe/say tàu", "ipa": "/ˈmoʊʃn ˈsɪknəs/", "example": "Looking out at the horizon can help reduce motion sickness." },
+    { "word": "scenery", "meaning": "phong cảnh", "ipa": "/ˈsiːnəri/", "example": "The mountain scenery was absolutely breathtaking." },
+    { "word": "eyes glued to", "meaning": "mắt dán chặt vào", "ipa": "/aɪz ɡluːd tuː/", "example": "Everyone’s eyes were glued to the screen during the final match." },
+    { "word": "gaze out of", "meaning": "nhìn đăm đăm ra ngoài", "ipa": "/ɡeɪz aʊt əv/", "example": "I like to gaze out of the window and daydream." },
+    { "word": "landscape", "meaning": "phong cảnh/địa hình", "ipa": "/ˈlændskeɪp/", "example": "The volcanic landscape of Iceland is very unique." },
+    { "word": "urban scenery", "meaning": "phong cảnh đô thị", "ipa": "/ˈɜːrbən ˈsiːnəri/", "example": "The photographer specializes in capturing urban scenery at night." },
+    { "word": "rural landscape", "meaning": "phong cảnh nông thôn", "ipa": "/ˈrʊrəl ˈlændskeɪp/", "example": "The train passed through a beautiful rural landscape." },
+    { "word": "vibrant streets", "meaning": "đường phố sôi động", "ipa": "/ˈvaɪbrənt striːts/", "example": "The vibrant streets of the city were full of life." },
+    { "word": "serene countryside", "meaning": "vùng nông thôn yên bình", "ipa": "/səˈriːn ˈkʌntrisaɪd/", "example": "We spent our holiday in the serene countryside." },
+    { "word": "passing traffic", "meaning": "xe cộ đi ngang qua", "ipa": "/ˈpæsɪŋ ˈtræfɪk/", "example": "The noise of passing traffic kept me awake." },
+    { "word": "window seat", "meaning": "ghế cạnh cửa sổ", "ipa": "/ˈwɪndoʊ siːt/", "example": "I always request a window seat when booking a flight." },
+    { "word": "passenger", "meaning": "hành khách", "ipa": "/ˈpæsɪndʒər/", "example": "The bus was full of exhausted passengers." },
+    { "word": "daydreaming", "meaning": "mơ mộng hão huyền", "ipa": "/ˈdeɪdriːmɪŋ/", "example": "I was daydreaming and missed my stop." },
+    { "word": "road trip", "meaning": "chuyến du lịch bằng đường bộ", "ipa": "/ˈroʊd trɪp/", "example": "We’re planning a long road trip across the country this summer." },
+    { "word": "sightseeing", "meaning": "đi ngắm cảnh", "ipa": "/ˈsaɪtsiːɪŋ/", "example": "There isn’t much time for sightseeing on this business trip." },
+    { "word": "staring into space", "meaning": "nhìn vào khoảng không (vô định)", "ipa": "/ˈsterɪŋ ˈɪntuː speɪs/", "example": "He sat there staring into space, lost in thought." },
+    { "word": "unfold", "meaning": "mở ra/lộ diện", "ipa": "/ʌnˈfoʊld/", "example": "A beautiful view started to unfold as we reached the top." },
+    { "word": "observe", "meaning": "quan sát", "ipa": "/əbˈzɜːrv/", "example": "Artists often observe the world in great detail." },
+    { "word": "distraction", "meaning": "sự gây xao nhãng", "ipa": "/dɪˈstrækʃn/", "example": "The noise from the street is a constant distraction." },
+    { "word": "enchanting", "meaning": "quyến rũ/mê hoặc", "ipa": "/ɪnˈtʃæntɪŋ/", "example": "The forest had an enchanting atmosphere in the moonlight." },
+    { "word": "mesmerize", "meaning": "mê hoặc/quá đẹp đến mức không thể rời mắt", "ipa": "/ˈmezməraɪz/", "example": "The rhythmic motion of the waves mesmerized her." },
+    { "word": "breathtaking", "meaning": "đẹp đến nín thở", "ipa": "/ˈbreθˌteɪkɪŋ/", "example": "The sunset over the ocean was breathtaking." },
+    { "word": "stunningly clear", "meaning": "trong vắt một cách ấn tượng", "ipa": "/ˈstʌnɪŋli ˈklɪr/", "example": "The air in the mountains was stunningly clear." },
+    { "word": "spectacular", "meaning": "ngoạn mục/đẹp mắt", "ipa": "/spekˈtækjələr/", "example": "The fireworks display was truly spectacular." },
+    { "word": "intriguing", "meaning": "hấp dẫn/gợi sự tò mò", "ipa": "/ɪnˈtriːɡɪŋ/", "example": "She told an intriguing story about her travels." },
+    { "word": "rolling", "meaning": "nhấp nhô (đồi núi)", "ipa": "/ˈroʊlɪŋ/", "example": "The house was surrounded by rolling green hills." },
+    { "word": "rugged", "meaning": "hiểm trở/xù xì", "ipa": "/ˈrʌɡɪd/", "example": "The rugged mountains were difficult to climb." },
+    { "word": "panoramic", "meaning": "toàn cảnh", "ipa": "/ˌpænəˈræmɪk/", "example": "The restaurant offers a panoramic view of the harbor." },
+    { "word": "expansive", "meaning": "rộng lớn/bao la", "ipa": "/ɪkˈspænsɪv/", "example": "The expansive desert stretched out before them." },
+    { "word": "vastness", "meaning": "sự bao la/rộng lớn", "ipa": "/ˈvæstnəs/", "example": "The vastness of the ocean is hard to imagine." },
+    { "word": "remote", "meaning": "xa xôi/hẻo lánh", "ipa": "/rɪˈmoʊt/", "example": "They live in a remote village in the mountains." },
+    { "word": "picturesque", "meaning": "đẹp như tranh vẽ", "ipa": "/ˌpɪktʃəˈresk/", "example": "The old town is very picturesque with its narrow alleys." },
+    { "word": "tranquil", "meaning": "yên bình/thanh tịnh", "ipa": "/ˈtræŋkwɪl/", "example": "The garden is a tranquil place to sit and read." },
+    { "word": "placid", "meaning": "phẳng lặng/yên lặng", "ipa": "/ˈplæsɪd/", "example": "The placid surface of the lake reflected the mountains." },
+    { "word": "bustling", "meaning": "nhộn nhịp/hối hả", "ipa": "/ˈbʌslɪŋ/", "example": "The bustling city center is full of tourists." },
+    { "word": "vivid", "meaning": "sống động/rực rỡ", "ipa": "/ˈvɪvɪd/", "example": "I have very vivid memories of that holiday." },
+    { "word": "indistinct", "meaning": "không rõ ràng/mờ ảo", "ipa": "/ˌɪndɪˈstɪŋkt/", "example": "The far-off mountains were indistinct in the mist." },
+    { "word": "blur", "meaning": "sự mờ nhạt (do chuyển động nhanh)", "ipa": "/blɜːr/", "example": "The scenery became a blur as the train sped up." },
+    { "word": "capturing the moment", "meaning": "ghi lại khoảnh khắc", "ipa": "/ˈkæptʃərɪŋ ðə ˈmoʊmənt/", "example": "Photography is all about capturing the moment." },
+    { "word": "sensory experience", "meaning": "trải nghiệm về giác quan", "ipa": "/ˈsensəri ɪkˈspɪriəns/", "example": "Traveling provides a rich sensory experience." },
+    { "word": "sense of wonder", "meaning": "cảm giác ngạc nhiên/kinh ngạc", "ipa": "/sens əv ˈwʌndər/", "example": "Stargazing always fills me with a sense of wonder." }
+  ]
+}

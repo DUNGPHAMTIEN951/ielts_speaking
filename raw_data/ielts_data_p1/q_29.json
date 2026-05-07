@@ -1,0 +1,72 @@
+{
+  "id": "q_29",
+  "topic": "Studying",
+  "q": "Do you work or are you a student?",
+  "examiner_note": "Đây là câu hỏi mở đầu kinh điển trong IELTS Speaking Part 1. Giám khảo muốn xác nhận trạng thái hiện tại của bạn để điều chỉnh các câu hỏi tiếp theo. \n- **Hướng dẫn trả lời**: Bạn nên trả lời trực diện (Direct answer), sau đó mở rộng bằng cách nêu tên trường/công ty và chuyên ngành/vị trí công việc. \n- **Mẹo**: Sử dụng các cụm từ như 'at the moment', 'currently', 'pursuing a degree' để câu văn tự nhiên hơn.",
+  "samples": {
+    "band7": {
+      "text": "Currently, I'm a full-time student at a university in my city. I'm in my third year, and I'm studying Economics. I find it quite challenging but very interesting because it helps me understand how the world works.",
+      "note": "Trả lời rõ ràng, có mở rộng ý bằng chuyên ngành và cảm nhận cá nhân. Ngữ pháp chính xác."
+    },
+    "band8": {
+      "text": "At the moment, I'm pursuing a Bachelor's degree in Computer Science at a prestigious university. I'm actually in my final year, so I'm currently buried in my graduation thesis, which keeps me pretty occupied most of the time.",
+      "note": "Sử dụng từ vựng nâng cao như 'pursuing a degree', 'prestigious', 'buried in my thesis'. Cấu trúc câu phức tốt."
+    },
+    "band9": {
+      "text": "As it stands, I'm a final-year undergraduate majoring in International Relations. Beyond just attending lectures, I'm also deeply involved in several campus-based research projects. It's a demanding schedule, but I'm thoroughly enjoying the intellectual stimulation it provides.",
+      "note": "Phản xạ tự nhiên, từ vựng học thuật đỉnh cao ('undergraduate', 'intellectual stimulation'). Cách diễn đạt 'As it stands' rất bản ngữ."
+    }
+  },
+  "v": [
+    { "word": "undergraduate", "meaning": "sinh viên chưa tốt nghiệp", "ipa": "/ˌʌndəˈɡrædʒuət/", "example": "As an undergraduate, I have to balance my social life with heavy coursework." },
+    { "word": "major in", "meaning": "chuyên ngành về", "ipa": "/ˈmeɪdʒər ɪn/", "example": "I decided to major in Psychology because I'm fascinated by human behavior." },
+    { "word": "pursue a degree", "meaning": "theo đuổi một tấm bằng", "ipa": "/pəˈsjuː ə dɪˈɡriː/", "example": "She is pursuing a degree in Law at a top university." },
+    { "word": "prestigious", "meaning": "uy tín, danh giá", "ipa": "/preˈstɪdʒəs/", "example": "He was accepted into a prestigious medical school." },
+    { "word": "final year", "meaning": "năm cuối", "ipa": "/ˈfaɪnl jɪə/", "example": "Most students feel the pressure of finding a job in their final year." },
+    { "word": "graduation thesis", "meaning": "luận văn tốt nghiệp", "ipa": "/ˌɡrædʒuˈeɪʃn ˈθiːsɪs/", "example": "I spent six months researching for my graduation thesis." },
+    { "word": "occupy", "meaning": "chiếm giữ (thời gian)", "ipa": "/ˈɒkjupaɪ/", "example": "Studying for the IELTS exam occupies most of my free time." },
+    { "word": "intellectual stimulation", "meaning": "sự kích thích trí tuệ", "ipa": "/ˌɪntəˈlektʃuəl ˌstɪmjuˈleɪʃn/", "example": "I love my major because it provides constant intellectual stimulation." },
+    { "word": "demanding schedule", "meaning": "lịch trình dày đặc/áp lực", "ipa": "/dɪˈmɑːndɪŋ ˈʃedjuːl/", "example": "Nursing students often have a very demanding schedule." },
+    { "word": "academic workload", "meaning": "khối lượng học tập", "ipa": "/ˌækəˈdemɪk ˈwɜːkləʊd/", "example": "The academic workload in engineering is known to be quite heavy." },
+    { "word": "fresher", "meaning": "sinh viên năm nhất", "ipa": "/ˈfreʃə(r)/", "example": "The university organizes a welcome party for all freshers." },
+    { "word": "sophomore", "meaning": "sinh viên năm hai", "ipa": "/ˈsɒfəmɔː(r)/", "example": "She is currently a sophomore majoring in English Literature." },
+    { "word": "junior", "meaning": "sinh viên năm ba", "ipa": "/ˈdʒuːniə(r)/", "example": "As a junior, I'm starting to look for internship opportunities." },
+    { "word": "senior", "meaning": "sinh viên năm cuối", "ipa": "/ˈsiːniə(r)/", "example": "Being a senior means dealing with both exams and job applications." },
+    { "word": "tertiary education", "meaning": "giáo dục đại học", "ipa": "/ˈtɜːʃəri ˌedʒuˈkeɪʃn/", "example": "More students are opting for tertiary education to improve their career prospects." },
+    { "word": "curriculum", "meaning": "chương trình học", "ipa": "/kəˈrɪkjələm/", "example": "The school is revising its curriculum to include more practical skills." },
+    { "word": "elective subject", "meaning": "môn học tự chọn", "ipa": "/ɪˈlektɪv ˈsʌbdʒɪkt/", "example": "I chose Photography as my elective subject this semester." },
+    { "word": "core subject", "meaning": "môn học chính", "ipa": "/kɔː(r) ˈsʌbdʒɪkt/", "example": "Mathematics and English are core subjects in the national curriculum." },
+    { "word": "distance learning", "meaning": "học từ xa", "ipa": "/ˈdɪstəns ˈlɜːnɪŋ/", "example": "Distance learning has become increasingly popular due to its flexibility." },
+    { "word": "vocational training", "meaning": "đào tạo nghề", "ipa": "/vəʊˈkeɪʃənl ˈtreɪnɪŋ/", "example": "He decided to pursue vocational training instead of a traditional degree." },
+    { "word": "critical thinking", "meaning": "tư duy phản biện", "ipa": "/ˈkrɪtɪkl ˈθɪŋkɪŋ/", "example": "University education aims to develop students' critical thinking skills." },
+    { "word": "time management", "meaning": "quản lý thời gian", "ipa": "/taɪm ˈmænɪdʒmənt/", "example": "Effective time management is crucial for academic success." },
+    { "word": "self-study", "meaning": "tự học", "ipa": "/ˌself ˈstʌdi/", "example": "I spent a lot of time on self-study to improve my coding skills." },
+    { "word": "peer pressure", "meaning": "áp lực từ bạn bè", "ipa": "/ˈpɪə preʃə(r)/", "example": "Many students struggle with peer pressure to excel academically." },
+    { "word": "scholarship", "meaning": "học bổng", "ipa": "/ˈskɒləʃɪp/", "example": "She was awarded an full scholarship to study abroad." },
+    { "word": "tuition fees", "meaning": "học phí", "ipa": "/tjuˈɪʃn fiːz/", "example": "The rising cost of tuition fees is a major concern for many families." },
+    { "word": "campus", "meaning": "khuôn viên trường", "ipa": "/ˈkæmpəs/", "example": "The university campus has excellent sports facilities." },
+    { "word": "dormitory", "meaning": "ký túc xá", "ipa": "/ˈdɔːmətri/", "example": "Living in a dormitory is a great way to make new friends." },
+    { "word": "lecture hall", "meaning": "giảng đường", "ipa": "/ˈlektʃə hɔːl head/", "example": "The historical lecture hall can seat up to 500 students." },
+    { "word": "seminar", "meaning": "hội thảo/buổi thảo luận", "ipa": "/ˈsemɪnɑː(r)/", "example": "We had a very engaging seminar on climate change today." },
+    { "word": "tutorial", "meaning": "tiết hướng dẫn", "ipa": "/tjuːˈtɔːriəl/", "example": "During the tutorial, I was able to ask the professor for clarification." },
+    { "word": "assignment", "meaning": "bài tập/nhiệm vụ", "ipa": "/əˈsaɪnmənt/", "example": "I have a big assignment due at the end of the week." },
+    { "word": "deadline", "meaning": "hạn chót", "ipa": "/ˈdedlaɪn/", "example": "Missing a deadline can result in a lower grade." },
+    { "word": "grade Point Average (GPA)", "meaning": "điểm trung bình học tập", "ipa": "/ɡreɪd pɔɪnt ˈævərɪdʒ/", "example": "Maintaining a high GPA is important for graduate school applications." },
+    { "word": "extracurricular activities", "meaning": "hoạt động ngoại khóa", "ipa": "/ˌekstrəkəˈrɪkjələ ækˈtɪvətiz/", "example": "Participating in extracurricular activities helps develop soft skills." },
+    { "word": "internship", "meaning": "thực tập", "ipa": "/ˈɪntɜːnʃɪp/", "example": "A summer internship provides valuable hands-on experience." },
+    { "word": "networking", "meaning": "kết nối mạng lưới", "ipa": "/ˈnetwɜːkɪŋ/", "example": "University is a great place for networking with future colleagues." },
+    { "word": "soft skills", "meaning": "kỹ năng mềm", "ipa": "/sɒft skɪlz/", "example": "Communication and teamwork are essential soft skills for any career." },
+    { "word": "problem-solving", "meaning": "giải quyết vấn đề", "ipa": "/ˈprɒbləm ˈsɒlvɪŋ/", "example": "The course focuses on practical problem-solving in the tech industry." },
+    { "word": "lifelong learning", "meaning": "học tập suốt đời", "ipa": "/ˌlaɪflɒŋ ˈlɜːnɪŋ/", "example": "In a rapidly changing world, lifelong learning is necessary." },
+    { "word": "academic excellence", "meaning": "sự xuất sắc trong học tập", "ipa": "/ˌækəˈdemɪk ˈeksələns/", "example": "The school rewards students for their academic excellence." },
+    { "word": "literacy", "meaning": "khả năng đọc viết", "ipa": "/ˈlɪtərəsi/", "example": "Computer literacy is now as important as basic literacy." },
+    { "word": "numeracy", "meaning": "khả năng tính toán", "ipa": "/ˈnjuːmərəsi/", "example": "Numeracy skills are essential for many everyday tasks." },
+    { "word": "qualifications", "meaning": "bằng cấp/trình độ chuyên môn", "ipa": "/ˌkwɒlɪfɪˈkeɪʃnz/", "example": "He has all the necessary qualifications for the job." },
+    { "word": "knowledge acquisition", "meaning": "việc tiếp thu kiến thức", "ipa": "/ˈnɒlɪdʒ ˌækwɪˈzɪʃn/", "example": "Self-study is an effective method for knowledge acquisition." },
+    { "word": "broaden one's horizons", "meaning": "mở rộng tầm hiểu biết", "ipa": "/ˈbrɔːdn wʌnz həˈraɪznz/", "example": "Traveling and studying abroad help broaden one's horizons." },
+    { "word": "apply for", "meaning": "nộp đơn cho", "ipa": "/əˈplaɪ fɔː(r)/", "example": "I'm going to apply for a specialized master's program." },
+    { "word": "graduate from", "meaning": "tốt nghiệp từ", "ipa": "/ˈɡrædʒueɪt frəm/", "example": "She graduated from university with honors." },
+    { "word": "drop out of", "meaning": "bỏ học giữa chừng", "ipa": "/drɒp aʊt əv/", "example": "He decided to drop out of college to start his own business." },
+    { "word": "keep up with", "meaning": "theo kịp", "ipa": "/kiːp ʌp wɪð/", "example": "It's hard to keep up with the fast-paced curriculum." }
+  ]
+}

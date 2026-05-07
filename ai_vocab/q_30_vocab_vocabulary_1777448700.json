@@ -1,0 +1,76 @@
+{
+  "id": "q_30",
+  "vocab": [
+    {
+      "word": "steep learning curve",
+      "ipa": "/stiːp ˈlɜːrnɪŋ kɜːrv/",
+      "meaning": "quá trình học tập khó khăn lúc ban đầu do lượng kiến thức mới quá lớn",
+      "example": "Studying Quantum Physics has a steep learning curve, but the intellectual satisfaction is worth the effort.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "interdisciplinary approach",
+      "ipa": "/ˌɪntərˈdɪsəpləneri əˈproʊtʃ/",
+      "meaning": "tiếp cận đa ngành, liên ngành",
+      "example": "My major in Environmental Science requires an interdisciplinary approach, blending biology, chemistry, and law.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "cognate subjects",
+      "ipa": "/ˈkɑːɡneɪt ˈsʌbdʒekts/",
+      "meaning": "các môn học có cùng nguồn gốc hoặc liên quan mật thiết",
+      "example": "While my focus is on Sociology, I also delve into cognate subjects like Psychology and Anthropology.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "pioneer groundbreaking research",
+      "ipa": "/ˌpaɪəˈnɪr ˈɡraʊndbreɪkɪŋ rɪˈsɜːrtʃ/",
+      "meaning": "tiên phong trong các nghiên cứu mang tính đột phá",
+      "example": "One of the reasons I chose this field is the opportunity to pioneer groundbreaking research in renewable energy.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "theoretical underpinning",
+      "ipa": "/ˌθiːəˈretɪkl ˈʌndərpɪnɪŋ/",
+      "meaning": "nền tảng lý luận, cơ sở lý thuyết",
+      "example": "The course provides a solid theoretical underpinning for understanding modern economic fluctuations.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "rigorous academic discipline",
+      "ipa": "/ˈrɪɡərəs ˌækəˈdemɪk ˈdɪsəplɪn/",
+      "meaning": "kỷ luật học thuật khắt khe / ngành học đòi hỏi sự nghiêm túc cao",
+      "example": "Law is a rigorous academic discipline that demands meticulous attention to detail and critical thinking.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "hands-on experience",
+      "ipa": "/ˌhændz ˈɑːn ɪkˈspɪriəns/",
+      "meaning": "kinh nghiệm thực hành thực tế",
+      "example": "My Engineering degree isn't just about textbooks; we get plenty of hands-on experience in the workshops.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "vocational training",
+      "ipa": "/voʊˈkeɪʃənl ˈtreɪnɪŋ/",
+      "meaning": "đào tạo nghề nghiệp (mang tính ứng dụng thực tế cao)",
+      "example": "The curriculum is heavily geared towards vocational training to ensure we are job-ready upon graduation.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "scholarly pursuit",
+      "ipa": "/ˈskɑːlərli pərˈsuːt/",
+      "meaning": "việc theo đuổi học thuật/nghiên cứu",
+      "example": "Philosophy is a lifelong scholarly pursuit that challenges one's perception of reality and ethics.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "empirical evidence",
+      "ipa": "/ɪmˈpɪrɪkl ˈevɪdəns/",
+      "meaning": "bằng chứng thực nghiệm (thu được qua quan sát, thí nghiệm)",
+      "example": "In Data Science, we are taught to draw conclusions based on empirical evidence rather than mere intuition.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

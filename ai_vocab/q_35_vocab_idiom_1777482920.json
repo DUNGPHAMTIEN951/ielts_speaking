@@ -1,0 +1,76 @@
+{
+  "id": "q_35",
+  "vocab": [
+    {
+      "word": "barking up the wrong tree",
+      "ipa": "/ˈbɑːr.kɪŋ ʌp ðə rɒŋ triː/",
+      "meaning": "tìm kiếm giải pháp sai chỗ/hiểu lầm vấn đề (áp dụng khi chăm sóc cây sai cách)",
+      "example": "I thought the plant needed more water, but I was barking up the wrong tree; it actually just needed more sunlight.",
+      "type": "idiom"
+    },
+    {
+      "word": "gild the lily",
+      "ipa": "/ɡɪld ðə ˈlɪl.i/",
+      "meaning": "tô vẽ vô ích (làm quá mức cần thiết cho một thứ vốn đã đẹp)",
+      "example": "The jasmine flowers were already stunning, so I felt that adding artificial decorations would just gild the lily.",
+      "type": "idiom"
+    },
+    {
+      "word": "beat around the bush",
+      "ipa": "/biːt əˈraʊnd ðə bʊʃ/",
+      "meaning": "nói vòng vo (thường dùng để dẫn dắt vào câu chuyện trồng trọt)",
+      "example": "Not to beat around the bush, but my first attempt at growing orchids was a total disaster.",
+      "type": "idiom"
+    },
+    {
+      "word": "a bed of roses",
+      "ipa": "/ə bed əv ˈrəʊ.zɪz/",
+      "meaning": "một tình huống dễ dàng, thuận lợi",
+      "example": "Growing sunflowers in that fertile soil was a bed of roses; they practically took care of themselves.",
+      "type": "idiom"
+    },
+    {
+      "word": "the cherry on top",
+      "ipa": "/ðə ˈtʃer.i ɒn tɒp/",
+      "meaning": "điều tuyệt vời cuối cùng giúp mọi thứ hoàn hảo",
+      "example": "Seeing the tiny buds finally open was the cherry on top of a very long and rewarding summer project.",
+      "type": "idiom"
+    },
+    {
+      "word": "not a patch on",
+      "ipa": "/nɒt ə pætʃ ɒn/",
+      "meaning": "không thể sánh bằng (so sánh giữa các loại cây/khu vườn)",
+      "example": "The small balcony garden I have now is not a patch on the vast vegetable patch we had when I was a kid.",
+      "type": "idiom"
+    },
+    {
+      "word": "olive branch",
+      "ipa": "/ˈɒl.ɪv brɑːntʃ/",
+      "meaning": "biểu tượng của sự hòa giải (có thể dùng khi kể về việc tặng cây để làm hòa)",
+      "example": "After a silly argument, my brother gave me a small potted cactus as an olive branch.",
+      "type": "idiom"
+    },
+    {
+      "word": "as red as a beetroot",
+      "ipa": "/æz red æz ə ˈbiːt.ruːt/",
+      "meaning": "đỏ mặt vì ngượng hoặc vì nắng (thường dùng khi kể về việc làm vườn dưới nắng)",
+      "example": "I spent all afternoon weeding the garden until my face was as red as a beetroot.",
+      "type": "idiom"
+    },
+    {
+      "word": "can't see the wood for the trees",
+      "ipa": "/kɑːnt siː ðə wʊd fɔːr ðə triːz/",
+      "meaning": "quá chú trọng chi tiết mà không thấy được tổng thể",
+      "example": "I was so worried about individual leaves that I couldn't see the wood for the trees and missed the overall growth of the plant.",
+      "type": "idiom"
+    },
+    {
+      "word": "pushing up daisies",
+      "ipa": "/ˈpʊʃ.ɪŋ ʌp ˈdeɪ.ziz/",
+      "meaning": "đã chết (thường dùng hóm hỉnh khi nói về những cái cây bị héo úa)",
+      "example": "Unfortunately, due to my lack of experience, most of my early seedlings ended up pushing up daisies within a week.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

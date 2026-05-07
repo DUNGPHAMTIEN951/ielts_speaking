@@ -1,0 +1,76 @@
+{
+  "id": "q_2",
+  "vocab": [
+    {
+      "word": "a home run",
+      "ipa": "/ə həʊm rʌn/",
+      "meaning": "một thành công rực rỡ/thắng lợi lớn",
+      "example": "The decision to host the international football tournament was a home run for our tourism industry.",
+      "type": "idiom"
+    },
+    {
+      "word": "cover all the bases",
+      "ipa": "/ˈkʌv.ər ɔːl ðə ˈbeɪ.sɪz/",
+      "meaning": "chuẩn bị kỹ lưỡng cho mọi tình huống có thể xảy ra",
+      "example": "Before the big match, the coach makes sure to cover all the bases, from tactical drills to psychological prep.",
+      "type": "idiom"
+    },
+    {
+      "word": "jump the gun",
+      "ipa": "/dʒʌmp ðə ɡʌn/",
+      "meaning": "vội vàng/hành động quá sớm trước thời điểm thích hợp",
+      "example": "Many fans jumped the gun by celebrating the victory before the final whistle had even blown.",
+      "type": "idiom"
+    },
+    {
+      "word": "on the home stretch",
+      "ipa": "/ɒn ðə həʊm stretʃ/",
+      "meaning": "đang ở giai đoạn cuối cùng/chặng đường cuối của một nhiệm vụ",
+      "example": "The team is now on the home stretch of the season, and every single point matters for the title.",
+      "type": "idiom"
+    },
+    {
+      "word": "give it one's best shot",
+      "ipa": "/ɡɪv ɪt wʌnz best ʃɒt/",
+      "meaning": "nỗ lực hết sức mình",
+      "example": "In our culture, even if a team isn't the most talented, people respect them as long as they give it their best shot.",
+      "type": "idiom"
+    },
+    {
+      "word": "move the goalposts",
+      "ipa": "/muːv ðə ˈɡəʊl.pəʊsts/",
+      "meaning": "thay đổi luật lệ/mục tiêu giữa chừng làm khó cho người khác",
+      "example": "It’s frustrating for local clubs when the national federation moves the goalposts regarding stadium requirements.",
+      "type": "idiom"
+    },
+    {
+      "word": "throw in the towel",
+      "ipa": "/θrəʊ ɪn ðə ˈtaʊ.əl/",
+      "meaning": "bỏ cuộc/chấp nhận thất bại",
+      "example": "Even when losing by four goals, our national team never throws in the towel; they fight until the bitter end.",
+      "type": "idiom"
+    },
+    {
+      "word": "a level playing field",
+      "ipa": "/ə ˈlev.əl ˈpleɪ.ɪŋ fiːld/",
+      "meaning": "một môi trường cạnh tranh công bằng cho tất cả mọi người",
+      "example": "The government is investing in rural sports facilities to create a level playing field for aspiring young athletes.",
+      "type": "idiom"
+    },
+    {
+      "word": "the front-runner",
+      "ipa": "/ðə ˈfrʌntˌrʌn.ər/",
+      "meaning": "người/đội đang dẫn đầu cuộc đua",
+      "example": "Despite being the front-runner for the entire season, the team lost their momentum in the final playoffs.",
+      "type": "idiom"
+    },
+    {
+      "word": "par for the course",
+      "ipa": "/pɑːr fɔːr ðə kɔːrs/",
+      "meaning": "là điều bình thường/được dự đoán trước (thường là điều không hay)",
+      "example": "Long training sessions and strict diets are just par for the course for anyone aspiring to be a pro athlete.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

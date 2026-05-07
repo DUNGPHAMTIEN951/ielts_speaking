@@ -1,0 +1,76 @@
+{
+  "id": "q_23",
+  "vocab": [
+    {
+      "word": "head out",
+      "ipa": "/hed aʊt/",
+      "meaning": "đi ra ngoài, khởi hành",
+      "example": "Before I head out, I always double-check my pockets for my keys and wallet.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "grab on the go",
+      "ipa": "/ɡræb ɒn ðə ɡoʊ/",
+      "meaning": "vơ lấy/mang theo khi đang vội",
+      "example": "I usually grab a pair of earphones on the go so I can listen to podcasts during my commute.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "load up on",
+      "ipa": "/loʊd ʌp ɒn/",
+      "meaning": "mang theo rất nhiều thứ gì đó",
+      "example": "If I’m going to be out all day, I load up on snacks and a large water bottle to stay energized.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clutter up",
+      "ipa": "/ˈklʌtər ʌp/",
+      "meaning": "làm bừa bộn/lấp đầy (túi xách) bằng những thứ lặt vặt",
+      "example": "My backpack tends to get cluttered up with old receipts and loose change that I forget to take out.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stock up on",
+      "ipa": "/stɒk ʌp ɒn/",
+      "meaning": "chuẩn bị/mang theo dự phòng một lượng lớn",
+      "example": "During the flu season, I make sure to stock up on hand sanitizer and wet wipes in my bag.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring along",
+      "ipa": "/brɪŋ əˈlɒŋ/",
+      "meaning": "mang theo bên mình (đến một nơi nào đó)",
+      "example": "I always bring along a lightweight jacket just in case the weather turns chilly in the evening.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fumble around for",
+      "ipa": "/ˈfʌmbl əˈraʊnd fər/",
+      "meaning": "lục lọi, tìm kiếm (thứ gì đó trong túi) một cách lóng ngóng",
+      "example": "I hate having to fumble around for my subway card, so I keep it in an easy-to-reach side pocket.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "cất kỹ, giấu gọn vào một góc an toàn",
+      "example": "I keep some emergency cash tucked away in a hidden compartment of my wallet for peace of mind.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hand out",
+      "ipa": "/hænd aʊt/",
+      "meaning": "phân phát (lý do mang theo danh thiếp hoặc kẹo)",
+      "example": "I carry a few business cards in my blazer to hand out whenever I attend networking events.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "leave behind",
+      "ipa": "/liːv bɪˈhaɪnd/",
+      "meaning": "bỏ quên hoặc chủ động để lại không mang theo",
+      "example": "I try not to leave behind my portable charger, as my phone battery drains quite quickly these days.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

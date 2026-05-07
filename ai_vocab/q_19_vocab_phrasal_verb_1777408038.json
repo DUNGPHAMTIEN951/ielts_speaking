@@ -1,0 +1,76 @@
+{
+  "id": "q_19",
+  "vocab": [
+    {
+      "word": "opt for",
+      "ipa": "/ɒpt fɔːr/",
+      "meaning": "lựa chọn (thay vì một phương án khác)",
+      "example": "I usually opt for online banking because it saves me the hassle of standing in long queues at the ATM.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep track of",
+      "ipa": "/kiːp træk əv/",
+      "meaning": "theo dõi sát sao (chi tiêu, ngân sách)",
+      "example": "Using digital cards makes it incredibly easy to keep track of my monthly outgoings through automated statements.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "run out of",
+      "ipa": "/rʌn aʊt əv/",
+      "meaning": "hết sạch cái gì đó",
+      "example": "I rarely carry cash because I hate the feeling of running out of bills just when I need to pay for something small.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "rely on",
+      "ipa": "/rɪˈlaɪ ɒn/",
+      "meaning": "phụ thuộc vào/dựa dẫm vào",
+      "example": "In this day and age, I almost exclusively rely on bank services as they are accepted nearly everywhere.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pay off",
+      "ipa": "/peɪ ɒf/",
+      "meaning": "thanh toán hết/trả nợ (thường nói về hóa đơn hoặc nợ thẻ tín dụng)",
+      "example": "With online banking apps, I can pay off my utility bills instantly at the touch of a button.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dùng đến khi các phương án khác thất bại (phương án dự phòng)",
+      "example": "I always keep a few banknotes in my wallet to fall back on in case the card terminal at a store is out of order.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "splash out on",
+      "ipa": "/splæʃ aʊt ɒn/",
+      "meaning": "vung tiền, chi tiêu mạnh tay cho cái gì đó",
+      "example": "Online banking makes it far too tempting to splash out on luxury items during flash sales.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set aside",
+      "ipa": "/set əˈsaɪd/",
+      "meaning": "dành riêng ra một khoản (để tiết kiệm)",
+      "example": "I use a banking feature that automatically sets aside a small percentage of my salary for my savings account.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shell out",
+      "ipa": "/ʃel aʊt/",
+      "meaning": "trả một khoản tiền (thường là lớn hoặc cảm thấy miễn cưỡng)",
+      "example": "I'm not a fan of cash because I find it painful to physically shell out large sums of money for expensive gadgets.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set up",
+      "ipa": "/set ʌp/",
+      "meaning": "thiết lập/cài đặt (thường nói về thanh toán tự động)",
+      "example": "I’ve set up several recurring payments on my banking app so I never miss a deadline for my rent.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

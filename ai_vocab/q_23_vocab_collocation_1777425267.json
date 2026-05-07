@@ -1,0 +1,76 @@
+{
+  "id": "q_23",
+  "vocab": [
+    {
+      "word": "everyday carry (EDC)",
+      "ipa": "/ˈevrideɪ ˈkæri/",
+      "meaning": "những vật dụng luôn mang theo bên mình hàng ngày",
+      "example": "My everyday carry is quite minimalist, consisting only of my smartphone, a slim wallet, and a pair of earbuds.",
+      "type": "collocation"
+    },
+    {
+      "word": "indispensable gadget",
+      "ipa": "/ˌɪndɪˈspensəbl ˈɡædʒɪt/",
+      "meaning": "thiết bị công nghệ không thể thiếu",
+      "example": "My smartwatch has become an indispensable gadget that I never leave the house without.",
+      "type": "collocation"
+    },
+    {
+      "word": "on my person",
+      "ipa": "/ɒn maɪ ˈpɜːsn/",
+      "meaning": "mang theo trên người (trong túi quần, túi áo)",
+      "example": "I always make sure to have some emergency cash on my person just in case my digital payment fails.",
+      "type": "collocation"
+    },
+    {
+      "word": "streamline",
+      "ipa": "/ˈstriːmlaɪn/",
+      "meaning": "tối giản hóa, làm cho gọn nhẹ",
+      "example": "I’ve tried to streamline my belongings lately to avoid the discomfort of carrying a heavy backpack all day.",
+      "type": "collocation"
+    },
+    {
+      "word": "functional and fashionable",
+      "ipa": "/ˈfʌŋkʃənl ənd ˈfæʃnəbl/",
+      "meaning": "vừa tiện dụng vừa thời trang",
+      "example": "I usually opt for a tote bag that is both functional and fashionable to complement my outfit.",
+      "type": "collocation"
+    },
+    {
+      "word": "RFID-blocking wallet",
+      "ipa": "/ˌɑːr ef aɪ ˈdiː ˈblɒkɪŋ ˈwɒlɪt/",
+      "meaning": "ví chống trộm sóng vô tuyến (bảo mật thẻ từ)",
+      "example": "To protect my sensitive information, I recently switched to an RFID-blocking wallet.",
+      "type": "collocation"
+    },
+    {
+      "word": "travel light",
+      "ipa": "/ˈtrævl laɪt/",
+      "meaning": "mang đồ nhẹ nhàng, không cồng kềnh",
+      "example": "I’m a firm believer in the philosophy to travel light, especially when I’m exploring the city on foot.",
+      "type": "collocation"
+    },
+    {
+      "word": "misplace",
+      "ipa": "/ˌmɪsˈpleɪs/",
+      "meaning": "để thất lạc, quên chỗ để đồ",
+      "example": "I use a dedicated key organizer so that I’m less likely to misplace my house keys when I'm out and about.",
+      "type": "collocation"
+    },
+    {
+      "word": "standard procedure",
+      "ipa": "/ˈstændəd prəˈsiːdʒə(r)/",
+      "meaning": "thói quen/quy trình chuẩn (đã thành nếp)",
+      "example": "Checking for my phone, keys, and wallet before locking the door has become a standard procedure for me.",
+      "type": "collocation"
+    },
+    {
+      "word": "clutter-free",
+      "ipa": "/ˈklʌtə friː/",
+      "meaning": "gọn gàng, không có đồ thừa thãi",
+      "example": "I prefer a clutter-free pocket, so I often leave unnecessary loyalty cards at home.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

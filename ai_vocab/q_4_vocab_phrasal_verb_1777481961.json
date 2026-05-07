@@ -1,0 +1,76 @@
+{
+  "id": "q_4",
+  "vocab": [
+    {
+      "word": "dabble in",
+      "ipa": "/ˈdæb.əl ɪn/",
+      "meaning": "thử làm điều gì đó một cách nông cạn, không quá chuyên sâu",
+      "example": "I tend to dabble in digital photography, though I haven't reached a professional level yet.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get into",
+      "ipa": "/ɡet ˈɪn.tuː/",
+      "meaning": "trở nên hứng thú hoặc bắt đầu tham gia một hoạt động nào đó",
+      "example": "I recently got into urban gardening because I wanted to turn my balcony into a green oasis.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại hoặc cải thiện một kỹ năng đã lâu không sử dụng",
+      "example": "I've been trying to brush up on my Spanish as a hobby to prepare for my next trip.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "tạm thời quên đi hoặc ngắt kết nối với thực tại/căng thẳng",
+      "example": "Painting helps me block out the noise of my daily life and just focus on the colors.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lose oneself in",
+      "ipa": "/luːz wʌnˈself ɪn/",
+      "meaning": "đắm chìm hoàn toàn vào việc gì đó đến mức quên hết xung quanh",
+      "example": "I often lose myself in a good historical novel for hours on end during the weekend.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ease off",
+      "ipa": "/iːz ɒf/",
+      "meaning": "giảm bớt áp lực hoặc sự căng thẳng (thông qua sở thích)",
+      "example": "Swimming is a great way for me to ease off after a particularly grueling week at the office.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sign up for",
+      "ipa": "/saɪn ʌp fɔːr/",
+      "meaning": "đăng ký tham gia một khóa học hoặc câu lạc bộ sở thích",
+      "example": "I decided to sign up for a pottery class to challenge my creative side.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃəʊ ɒf/",
+      "meaning": "khoe tài năng hoặc thành quả của một sở thích",
+      "example": "I don't mean to show off, but I’ve finally managed to bake a perfect sourdough bread.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look forward to",
+      "ipa": "/lʊk ˈfɔː.wəd tuː/",
+      "meaning": "mong đợi một cách hào hứng",
+      "example": "I always look forward to my weekly yoga sessions as they provide much-needed mental clarity.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "quay lại với một sở thích cũ khi không có gì khác để làm",
+      "example": "Whenever I feel bored, I usually fall back on playing the piano, which I’ve done since childhood.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

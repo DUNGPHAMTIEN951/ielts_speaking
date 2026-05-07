@@ -1,0 +1,72 @@
+{
+  "id": "q_38",
+  "topic": "Studying",
+  "q": "Do you think it is important to have a good study environment?",
+  "examiner_note": "Câu hỏi này yêu cầu bạn đưa ra đánh giá về tầm quan trọng. \n- **Hướng dẫn trả lời**: Khẳng định là 'rất quan trọng'. Giải thích tại sao (tăng năng suất, giảm xao nhãng, bảo vệ sức khỏe). Nêu các yếu tố cấu thành một môi trường tốt (ánh sáng, sự yên tĩnh, sự ngăn nắp). \n- **Mẹo**: Sử dụng các cụm từ như 'of paramount importance', 'crucial factor', 'maximize productivity', 'minimize distractions', 'mental well-being'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I think it's very important. A good study environment helps you to stay focused and not get distracted by other things. For example, if you have a quiet room with good lighting, you can study for longer hours without feeling tired or bored.",
+      "note": "Trả lời trực tiếp, có ví dụ minh họa đơn giản. Ngữ pháp chính xác."
+    },
+    "band8": {
+      "text": "Absolutely, having a dedicated and well-organized study space is crucial for maximizing productivity. It allows you to enter a 'flow state' much faster, and it also minimizes the potential for interruptions, which can significantly hinder your learning process.",
+      "note": "Sử dụng từ vựng tốt ('maximizing productivity', 'flow state', 'minimize potential', 'hinder'). Cấu trúc câu phức tạp."
+    },
+    "band9": {
+      "text": "Undoubtedly, a conducive study environment is of paramount importance for academic success. It's not just about the physical space, but also about the mental attitude it fosters. A clean, distraction-free area significantly enhances cognitive performance and reduces the mental fatigue associated with long study sessions.",
+      "note": "Từ vựng ở trình độ C1/C2 ('undoubtedly', 'paramount importance', 'mental fatigue', 'cognitive performance'). Diễn đạt cực kỳ học thuật và gãy gọn."
+    }
+  },
+  "v": [
+    { "word": "paramount importance", "meaning": "tầm quan trọng tối cao/hàng đầu", "ipa": "/ˈpærəmaʊnt ɪmˈpɔːtns/", "example": "Information security is of paramount importance to our company." },
+    { "word": "maximize productivity", "meaning": "tối đa hóa năng suất", "ipa": "/ˈmæksɪmaɪz ˌprɒdʌkˈtɪvəti/", "example": "Effective time management is the key to maximizing productivity." },
+    { "word": "minimize distraction", "meaning": "giảm thiểu sự xao nhãng", "ipa": "/ˈmɪnɪmaɪz dɪˈstrækʃn/", "example": "Turning off notifications helps to minimize distractions while you work." },
+    { "word": "mental well-being", "meaning": "sức khỏe tinh thần", "ipa": "/ˈmentl ˌwel ˈbiːɪŋ/", "example": "A healthy work-life balance is essential for mental well-being." },
+    { "word": "flow state", "meaning": "trạng thái 'dòng chảy' (tập trung tuyệt đối)", "ipa": "/fləʊ steɪt/", "example": "I can only reach a flow state when I'm working in complete silence." },
+    { "word": "hinder", "meaning": "cản trở", "ipa": "/ˈhɪndə(r)/", "example": "Lack of funding has hindered the development of the project." },
+    { "word": "cognitive performance", "meaning": "hiệu suất nhận thức", "ipa": "/ˈkɒɡnətɪv pəˈfɔːməns/", "example": "Getting enough sleep is crucial for optimal cognitive performance." },
+    { "word": "mental fatigue", "meaning": "sự mệt mỏi về tinh thần", "ipa": "/ˈmentl fəˈtiːɡ/", "example": "Long hours of screen time can lead to severe mental fatigue." },
+    { "word": "conducive to", "meaning": "có lợi cho", "ipa": "/kənˈdjuːsɪv tuː/", "example": "The quiet atmosphere of the library is conducive to study." },
+    { "word": "foster", "meaning": "thúc đẩy/nuôi dưỡng", "ipa": "/ˈfɒstə(r)/", "example": "The school aims to foster a love of learning in all its students." },
+    { "word": "distraction-free", "meaning": "không bị xao nhãng", "ipa": "/dɪˈstrækʃn friː/", "example": "I need a distraction-free environment to finish my report." },
+    { "word": "undoubtedly", "meaning": "không nghi ngờ gì nữa", "ipa": "/ʌnˈdaʊtɪdli/", "example": "Undoubtedly, the internet has changed the way we access information." },
+    { "word": "crucial factor", "meaning": "yếu tố quan trọng/then chốt", "ipa": "/ˈkruːʃl ˈfæktə(r)/", "example": "Motivation is a crucial factor in achieving long-term goals." },
+    { "word": "dedicated space", "meaning": "không gian riêng dành cho", "ipa": "/ˈdedɪkeɪtɪd speɪs/", "example": "I've finally set up a dedicated space for my painting hobby." },
+    { "word": "well-organized", "meaning": "ngăn nắp/có tổ chức", "ipa": "/ˌwel ˈɔːɡənaɪzd/", "example": "Her notes are always very well-organized and easy to read." },
+    { "word": "potential for", "meaning": "tiềm năng/khả năng xảy ra", "ipa": "/pəˈtenʃl fɔː(r)/", "example": "The new technology has a lot of potential for improving education." },
+    { "word": "interruption", "meaning": "sự gián đoạn", "ipa": "/ˌɪntəˈrʌpʃn/", "example": "I'm sorry for the interruption, but there's a phone call for you." },
+    { "word": "learning process", "meaning": "quá trình học tập", "ipa": "/ˈlɜːnɪŋ ˈprəʊses/", "example": "Mistakes are an essential part of the learning process." },
+    { "word": "physical space", "meaning": "không gian vật lý", "ipa": "/ˈfɪzɪkl speɪs/", "example": "The university is expanding its physical space to accommodate more students." },
+    { "word": "mental attitude", "meaning": "thái độ tinh thần", "ipa": "/ˈmentl ˈætɪtjuːd/", "example": "A positive mental attitude can help you overcome many challenges." },
+    { "word": "clean", "meaning": "sạch sẽ/gọn gàng", "ipa": "/kliːn/", "example": "It's important to keep your workspace clean and tidy." },
+    { "word": "concentration", "meaning": "sự tập trung", "ipa": "/ˌkɒnsnˈtreɪʃn/", "example": "I find it hard to maintain my concentration in a noisy room." },
+    { "word": "productivity", "meaning": "năng suất", "ipa": "/ˌprɒdʌkˈtɪvəti/", "example": "Working from home has improved my productivity significantly." },
+    { "word": "environmental factors", "meaning": "các yếu tố môi trường", "ipa": "/ɪnˌvaɪrənˈmentl ˈfæktəz/", "example": "Noise and lighting are important environmental factors in a study space." },
+    { "word": "optimal", "meaning": "tối ưu", "ipa": "/ˈɒptɪməl/", "example": "The laboratory provides the optimal conditions for the experiment." },
+    { "word": "organized", "meaning": "ngăn nắp", "ipa": "/ˈɔːɡənaɪzd/", "example": "A well-organized study area helps reduce stress." },
+    { "word": "tidiness", "meaning": "sự gọn gàng", "ipa": "/ˈtaɪdinəs/", "example": "Tidiness is not just about aesthetics; it's also about efficiency." },
+    { "word": "clarity of thought", "meaning": "sự sáng suốt trong tư duy", "ipa": "/ˈklærəti əv θɔːt/", "example": "A quiet walk often brings me clarity of thought." },
+    { "word": "uncluttered", "meaning": "không bừa bộn", "ipa": "/ˌʌnˈklʌtəd/", "example": "I prefer an uncluttered desk to help me focus." },
+    { "word": "ergonomics", "meaning": "công thái học", "ipa": "/ˌɜːɡəˈnɒmɪks/", "example": "The office furniture was chosen for its ergonomics and comfort." },
+    { "word": "adjustable", "meaning": "có thể điều chỉnh", "ipa": "/əˈdʒʌstəbl/", "example": "The height of the chair is fully adjustable." },
+    { "word": "ventilation", "meaning": "sự thông gió", "ipa": "/ˌventɪˈleɪʃn/", "example": "Good ventilation is necessary in a crowded meeting room." },
+    { "word": "natural light", "meaning": "ánh sáng tự nhiên", "ipa": "/ˈnætʃrəl laɪt/", "example": "Natural light is much better for your eyes than artificial light." },
+    { "word": "quiet spot", "meaning": "nơi yên tĩnh", "ipa": "/ˈkwaɪət spɒt/", "example": "I finally found a quiet spot in the library away from the computer lab." },
+    { "word": "isolation", "meaning": "sự biệt lập", "ipa": "/ˌaɪsəˈleɪʃn/", "example": "Some people thrive in isolation, while others find it difficult." },
+    { "word": "ambient temperature", "meaning": "nhiệt độ môi trường", "ipa": "/ˈæmbiənt ˈtemprətʃə(r)/", "example": "The ambient temperature should be kept around 20 degrees Celsius." },
+    { "word": "noise-canceling", "meaning": "chống ồn", "ipa": "/ˈnɔɪz ˌkænsəlɪŋ/", "example": "Noise-canceling headphones are great for studying in public places." },
+    { "word": "inspiration", "meaning": "nguồn cảm hứng", "ipa": "/ˌɪnspəˈreɪʃn/", "example": "The museum was a great source of inspiration for my art project." },
+    { "word": "stimulating", "meaning": "kích thích/thú vị", "ipa": "/ˈstɪmjuleɪtɪŋ/", "example": "The discussion was very stimulating and gave me many new ideas." },
+    { "word": "serene", "meaning": "thanh bình", "ipa": "/səˈriːn/", "example": "The mountain lake was a serene and peaceful place." },
+    { "word": "harmonious", "meaning": "hài hòa", "ipa": "/hɑːˈməʊniəs/", "example": "The colors in the room are very harmonious and relaxing." },
+    { "word": "personalized", "meaning": "cá nhân hóa", "ipa": "/ˈpɜːsənəlaɪzd/", "example": "Each student received a personalized feedback report." },
+    { "word": "functional", "meaning": "có tính chức năng/hữu dụng", "ipa": "/ˈfʌŋkʃənl/", "example": "The new kitchen is small but very functional." },
+    { "word": "efficient", "meaning": "hiệu quả", "ipa": "/ɪˈfɪʃnt/", "example": "The new heating system is much more efficient than the old one." },
+    { "word": "resourceful", "meaning": "tháo vát/nhiều tài lẻ", "ipa": "/rɪˈsɔːsfl/", "example": "She is a very resourceful person who always finds a way to solve a problem." },
+    { "word": "adaptable", "meaning": "dễ thích nghi", "ipa": "/əˈdæptəbl/", "example": "In a changing world, it's important to be adaptable and open to new ideas." },
+    { "word": "flexible", "meaning": "linh hoạt", "ipa": "/ˈfleksəbl/", "example": "We have clear goals but we need to stay flexible in our approach." },
+    { "word": "comfortable", "meaning": "thoải mái", "ipa": "/ˈkʌmftəbl/", "example": "The bed was so comfortable that I fell asleep immediately." },
+    { "word": "motivating", "meaning": "truyền động lực", "ipa": "/ˈməʊtɪveɪtɪŋ/", "example": "Having clear goals is a very motivating factor in any career." },
+    { "word": "conducive", "meaning": "giúp ích cho", "ipa": "/kənˈdjuːsɪv/", "example": "The quiet atmosphere of the countryside is conducive to creative writing." }
+  ]
+}

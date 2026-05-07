@@ -1,0 +1,76 @@
+{
+  "id": "q_37",
+  "vocab": [
+    {
+      "word": "settle in",
+      "ipa": "/ˈset.əl ɪn/",
+      "meaning": "bắt đầu cảm thấy thoải mái và sẵn sàng tập trung vào việc gì đó",
+      "example": "Once I settle in at my favorite corner desk in the library, I can focus for hours without distraction.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔːr ˈəʊ.vər/",
+      "meaning": "nghiên cứu hoặc đọc một cách cực kỳ kỹ lưỡng",
+      "example": "I usually head to a quiet cafe to pore over my lecture notes and highlight the key points.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "ngăn chặn (âm thanh hoặc sự xao nhãng) để tập trung",
+      "example": "I prefer studying in my bedroom because it's easier to block out the noise from the street.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hunker down",
+      "ipa": "/ˈhʌŋ.kər daʊn/",
+      "meaning": "ổn định vị trí để làm việc một cách nghiêm túc trong thời gian dài",
+      "example": "During exam season, I hunker down in the university study hall from dawn until dusk.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "hấp thụ (kiến thức hoặc bầu không khí) một cách dễ dàng",
+      "example": "I like studying in botanical gardens because the tranquil environment helps me soak up complex information.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head for",
+      "ipa": "/hed fɔːr/",
+      "meaning": "đi về phía/tìm đến một nơi nào đó",
+      "example": "Whenever I have a heavy workload, I head for the top floor of the library where silence is strictly enforced.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɒf/",
+      "meaning": "mất tập trung hoặc bắt đầu buồn ngủ (thường dùng để nói về nơi không nên học)",
+      "example": "I avoid studying on my bed because I tend to drift off instead of getting any actual work done.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear away",
+      "ipa": "/klɪər əˈweɪ/",
+      "meaning": "dọn dẹp các thứ không cần thiết để tạo không gian",
+      "example": "I always clear away the clutter on my desk before starting, as a tidy space leads to a tidy mind.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "jot down",
+      "ipa": "/dʒɒt daʊn/",
+      "meaning": "ghi chép nhanh những ý tưởng hoặc thông tin quan trọng",
+      "example": "I usually sit in a park to brainstorm and jot down initial ideas for my essays in a notebook.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại hoặc cải thiện một kỹ năng/kiến thức đã lâu không dùng",
+      "example": "The local community center is a great place for me to brush up on my French before the final exam.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

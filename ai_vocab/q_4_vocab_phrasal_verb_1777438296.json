@@ -1,0 +1,76 @@
+{
+  "id": "q_4",
+  "vocab": [
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒ.ər ʌp tuː/",
+      "meaning": "đạt tới tiêu chuẩn hoặc kỳ vọng của người khác",
+      "example": "In team sports, there is a constant psychological pressure to measure up to the standards of your teammates.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dựa dẫm vào/cậy nhờ vào khi gặp khó khăn",
+      "example": "When a player has an off-day in football, they can fall back on the collective strength of the squad, which isn't an option in tennis.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bounce back",
+      "ipa": "/baʊns bæk/",
+      "meaning": "vực dậy, phục hồi nhanh chóng (sau thất bại)",
+      "example": "Solo athletes must learn to bounce back from defeat entirely on their own, requiring immense mental fortitude.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "count on",
+      "ipa": "/kaʊnt ɒn/",
+      "meaning": "tin tưởng, trông cậy vào ai đó",
+      "example": "Relay races are unique because you have to count on your partners to maintain the lead you've built.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "size up",
+      "ipa": "/saɪz ʌp/",
+      "meaning": "quan sát và đánh giá (đối thủ hoặc tình huống)",
+      "example": "In individual combat sports like boxing, you spend the first round sizing up your opponent's weaknesses.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌk.əl daʊn/",
+      "meaning": "bắt đầu làm việc/tập luyện một cách nghiêm túc và chăm chỉ",
+      "example": "Individual sports require you to knuckle down in solitary training sessions for hours to perfect a single technique.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring about",
+      "ipa": "/brɪŋ əˈbaʊt/",
+      "meaning": "dẫn đến, làm nảy sinh (sự thay đổi hoặc kết quả)",
+      "example": "Effective communication within a team can bring about a strategic victory even against a more physically gifted opponent.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry through",
+      "ipa": "/ˈkær.i θruː/",
+      "meaning": "hoàn thành hoặc duy trì thứ gì đó đến cùng (dù khó khăn)",
+      "example": "It is often the cheering of a team captain that carries a struggling player through the final minutes of a match.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "strive for",
+      "ipa": "/straɪv fɔːr/",
+      "meaning": "phấn đấu, nỗ lực hết mình để đạt được cái gì",
+      "example": "While both types of athletes strive for excellence, the motivation in groups is often externalized through peer encouragement.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lean on",
+      "ipa": "/liːn ɒn/",
+      "meaning": "tựa vào, dựa vào sự hỗ trợ của ai đó",
+      "example": "During high-stakes tournaments, teammates often lean on each other for emotional support to combat pre-game jitters.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_22",
+  "vocab": [
+    {
+      "word": "get a kick out of",
+      "ipa": "/ɡet ə kɪk aʊt əv/",
+      "meaning": "tìm thấy niềm vui/sự thú vị cực độ từ việc gì",
+      "example": "I really get a kick out of playing competitive tennis because of the adrenaline rush it provides.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "work out",
+      "ipa": "/wɜːrk aʊt/",
+      "meaning": "tập thể dục, tập thể hình",
+      "example": "Whenever I have some spare time, I head to the gym to work out and keep myself in shape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take up",
+      "ipa": "/teɪk ʌp/",
+      "meaning": "bắt đầu một sở thích hoặc môn thể thao mới",
+      "example": "I’ve recently decided to take up swimming to improve my cardiovascular health.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp, duy trì tốc độ hoặc trình độ với ai đó",
+      "example": "It’s quite challenging to keep up with the professional players in my local football league.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "warm up",
+      "ipa": "/wɔːrm ʌp/",
+      "meaning": "khởi động trước khi vận động mạnh",
+      "example": "I never skip the chance to warm up thoroughly before a match to prevent any potential injuries.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tire out",
+      "ipa": "/ˈtaɪər aʊt/",
+      "meaning": "làm cho kiệt sức, mệt lử",
+      "example": "A high-intensity basketball game usually tires me out, but it’s a great way to relieve stress.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "face off against",
+      "ipa": "/feɪs ɔːf əˈɡenst/",
+      "meaning": "đối đầu, thi đấu trực tiếp với ai đó",
+      "example": "My favorite part of the tournament is when I get to face off against the top-seeded players.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knock out",
+      "ipa": "/nɑːk aʊt/",
+      "meaning": "loại bỏ (đối thủ) khỏi một cuộc thi",
+      "example": "Our team managed to knock out the defending champions in the very first round of the cup.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burn off",
+      "ipa": "/bɜːrn ɔːf/",
+      "meaning": "đốt cháy (năng lượng, calo)",
+      "example": "Running is the most effective way for me to burn off excess calories after a heavy meal.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get into",
+      "ipa": "/ɡet ˈɪntuː/",
+      "meaning": "trở nên hứng thú hoặc bắt đầu tham gia thường xuyên vào cái gì",
+      "example": "I first got into yoga during the lockdown, and it has since become a vital part of my daily routine.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

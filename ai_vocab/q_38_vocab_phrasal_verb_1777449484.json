@@ -1,0 +1,76 @@
+{
+  "id": "q_38",
+  "vocab": [
+    {
+      "word": "block out",
+      "ipa": "/blɑːk aʊt/",
+      "meaning": "ngăn chặn (âm thanh hoặc ánh sáng) để không bị xao nhãng",
+      "example": "A dedicated workspace helps me block out the hustle and bustle of the household.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "buckle down",
+      "ipa": "/ˈbʌkl daʊn/",
+      "meaning": "bắt đầu làm việc/học tập một cách nghiêm túc và quyết tâm",
+      "example": "Having a tidy desk makes it much easier to buckle down and tackle complex assignments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/soʊk ʌp/",
+      "meaning": "hấp thụ, tiếp thu (kiến thức hoặc không khí) một cách dễ dàng",
+      "example": "In a tranquil setting, I find that I can soak up information like a sponge.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌkl daʊn/",
+      "meaning": "bắt đầu làm việc cực kỳ chăm chỉ (thường là sau một thời gian trì hoãn)",
+      "example": "When I go to the library, the studious atmosphere compels me to knuckle down immediately.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "filter out",
+      "ipa": "/ˈfɪltər aʊt/",
+      "meaning": "loại bỏ những thứ không mong muốn (tiếng ồn, thông tin rác)",
+      "example": "I use noise-canceling headphones to filter out the chatter and maintain my concentration.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set apart",
+      "ipa": "/set əˈpɑːrt/",
+      "meaning": "dành riêng ra (không gian hoặc thời gian) cho một mục đích nhất định",
+      "example": "It's essential to set apart a specific area of the house exclusively for academic pursuits.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drill down into",
+      "ipa": "/drɪl daʊn ˈɪntuː/",
+      "meaning": "nghiên cứu sâu, xem xét chi tiết một vấn đề gì đó",
+      "example": "Without a quiet environment, it is incredibly difficult to drill down into the finer details of the subject.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear up",
+      "ipa": "/klɪr ʌp/",
+      "meaning": "giải quyết hoặc làm sáng tỏ (sự nhầm lẫn hoặc vấn đề)",
+      "example": "A minimalist room helps clear up my thoughts, allowing for much more logical thinking.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stem from",
+      "ipa": "/stem frʌm/",
+      "meaning": "bắt nguồn từ (kết quả của một yếu tố nào đó)",
+      "example": "I believe that many academic breakthroughs stem from working in a highly organized and serene space.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep away from",
+      "ipa": "/kiːp əˈweɪ frʌm/",
+      "meaning": "tránh xa cái gì đó (như điện thoại hay tivi)",
+      "example": "A good study environment is one that keeps you away from digital distractions and temptations.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_24",
+  "vocab": [
+    {
+      "word": "pare down",
+      "ipa": "/peər daʊn/",
+      "meaning": "cắt giảm, giảm bớt số lượng (để lại những thứ cốt yếu)",
+      "example": "If I'm just going for a quick hike, I'll pare down my essentials to just a water bottle and a light snack.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cram into",
+      "ipa": "/kræm ˈɪn.tuː/",
+      "meaning": "nhồi nhét cái gì vào một không gian chật hẹp",
+      "example": "I often find myself trying to cram as many souvenirs as possible into my suitcase before heading back home.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up",
+      "ipa": "/ɡɪər ʌp/",
+      "meaning": "chuẩn bị đồ đạc/trang thiết bị cho một hoạt động cụ thể",
+      "example": "When I visit the beach, I have to gear up with sunscreen, a towel, and snorkeling equipment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stock up on",
+      "ipa": "/stɒk ʌp ɒn/",
+      "meaning": "mua hoặc chuẩn bị một lượng lớn thứ gì đó để dự phòng",
+      "example": "Before going to a remote area, I always stock up on portable power banks and offline maps.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lug around",
+      "ipa": "/lʌɡ əˈraʊnd/",
+      "meaning": "mang vác một vật nặng nề một cách khó khăn",
+      "example": "I hate having to lug around a heavy winter coat when I'm traveling between different climate zones.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "leave behind",
+      "ipa": "/liːv bɪˈhaɪnd/",
+      "meaning": "bỏ lại, không mang theo cái gì đó",
+      "example": "When I go to a formal event, I leave behind my casual backpack and opt for a sleek briefcase instead.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig out",
+      "ipa": "/dɪɡ aʊt/",
+      "meaning": "tìm ra thứ gì đó sau khi nó đã bị cất đi hoặc vùi lấp lâu ngày",
+      "example": "I had to dig out my old raincoat from the back of the closet before my trip to the rainy highlands.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clutter up",
+      "ipa": "/ˈklʌt.ər ʌp/",
+      "meaning": "làm cho không gian trở nên bừa bộn (do mang quá nhiều đồ không cần thiết)",
+      "example": "I try not to clutter up my handbag with receipts and old wrappers when I'm out sightseeing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "make do with",
+      "ipa": "/meɪk duː wɪð/",
+      "meaning": "dùng tạm, xoay xở với những gì đang có",
+      "example": "In minimalist travel, you often have to make do with just one pair of versatile shoes for every occasion.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "load up",
+      "ipa": "/ləʊd ʌp/",
+      "meaning": "chất đầy đồ đạc (lên xe hoặc vào túi)",
+      "example": "For a road trip, we usually load up the trunk with camping gear and a large cooler of drinks.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

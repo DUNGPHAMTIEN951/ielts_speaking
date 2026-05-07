@@ -1,0 +1,50 @@
+{
+  "q": "Describe a person who often helps others.",
+  "cue_card": [
+    "A person who often helps others.",
+    "Who this person is",
+    "How you know this person",
+    "How he/she helps others",
+    "And explain why you think this person is helpful"
+  ],
+  "examiner_note": "Khi miêu tả phẩm chất con người, hãy dùng các tính từ chỉ tính cách bậc cao (altruistic, benevolent, philanthropic). Đừng chỉ nói 'he is kind', hãy miêu tả hành động cụ thể và tác động của nó lên cộng đồng (positive ripple effect).",
+  "samples": {
+    "band7": "I'm going to talk about my neighbor, Mrs. Lan. She is a retired teacher and has lived next door to me for over ten years. She often helps others in our neighborhood, like cooking for elderly people or helping children with their homework for free. She is very kind and always has a smile on her face. I think she is helpful because she spends her free time making our community better without asking for anything in return.",
+    "band8": "I’d like to describe my colleague, Mark, who is truly an exemplary figure when it comes to altruism. I’ve known him for about three years since we started working in the same department. Mark is the type of person who consistently goes above and beyond to support those around him. Whether it’s volunteering at a local food bank every weekend or mentoring junior staff during his lunch breaks, his commitment is unwavering. I find him incredibly helpful because he possesses a rare blend of empathy and proactivity; he doesn't just wait to be asked for help, he anticipates needs and steps in before anyone even realizes they’re struggling.",
+    "band9": "The individual I’ve chosen to talk about is a dear friend of mine named Sarah, whose life is essentially a testament to the power of benevolence. We’ve been close confidants since our university days, and throughout that time, I’ve witnessed her tireless dedication to various philanthropic causes. Sarah is frequently involved in grassroots initiatives, ranging from organizing community clean-up drives to advocating for the marginalized in our city. What makes her exceptionally helpful is her profound sense of social responsibility and her ability to inspire a collective effort. She doesn't just provide band-aid solutions; she empowers people to help themselves, creating a sustainable and positive ripple effect that touches countless lives in our society."
+  },
+  "v": [
+    {
+      "word": "Altruistic",
+      "meaning": "Vị tha, hy sinh vì người khác (Showing a disinterested and selfless concern for the well-being of others)",
+      "example": "His altruistic nature makes him stay late to help others."
+    },
+    {
+      "word": "Benevolence",
+      "meaning": "Lòng nhân từ, thiện chí (The quality of being well meaning; kindness)",
+      "example": "He is known for his benevolence and charity work."
+    },
+    {
+      "word": "Philanthropic",
+      "meaning": "Nhân đạo, từ thiện (Seeking to promote the welfare of others, typically by donating money or time)",
+      "example": "The company has a strong philanthropic record."
+    },
+    {
+      "word": "Grassroots initiatives",
+      "meaning": "Các sáng kiến từ cơ sở/người dân (Actions started by common people in a community rather than leaders)",
+      "example": "She organized several grassroots initiatives to improve the local park."
+    },
+    {
+      "word": "Ripple effect",
+      "meaning": "Hiệu ứng gợn sóng/lan tỏa (A situation in which one event produces effects which spread to other places or people)",
+      "example": "Her kindness had a positive ripple effect throughout the school."
+    },
+    {
+      "word": "Empower",
+      "meaning": "Trao quyền, làm cho ai đó tự tin hơn (Give someone the authority or power to do something; make someone stronger/more confident)",
+      "example": "Her goal is to empower women through education."
+    }
+  ],
+  "topic": "Describe a person who often helps others.",
+  "id": "p2_q3"
+}

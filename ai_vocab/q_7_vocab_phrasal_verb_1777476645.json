@@ -1,0 +1,76 @@
+{
+  "id": "q_7",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (bầu không khí, ánh nắng)",
+      "example": "Many urban dwellers head to the park just to soak up the sun and enjoy the fresh air away from the smog.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "switch off",
+      "ipa": "/swɪtʃ ɒf/",
+      "meaning": "ngừng suy nghĩ về công việc/rắc rối, nghỉ ngơi hoàn toàn",
+      "example": "Walking amidst greenery helps people switch off from the relentless pressure of their digital lives.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear out",
+      "ipa": "/klɪər aʊt/",
+      "meaning": "giải tỏa, làm sạch (tâm trí, phổi)",
+      "example": "A brisk walk is perfect to clear out the cobwebs in your head after a long day of mental exertion.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "ngắm nhìn, thưởng ngoạn (phong cảnh)",
+      "example": "The park is a great place to take in the scenic views and the changing colors of the seasons.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burn off",
+      "ipa": "/bɜːrn ɒf/",
+      "meaning": "tiêu hao (năng lượng dư thừa, calo, căng thẳng)",
+      "example": "Parents often take their children to the local playground to let them burn off some steam.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "ngăn chặn, át đi (tiếng ồn, sự xao nhãng)",
+      "example": "The dense line of trees in the park helps to block out the constant drone of city traffic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "thư giãn dần dần sau một hoạt động căng thẳng",
+      "example": "I find that strolling through a botanical garden is the ultimate way to wind down on a Sunday afternoon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble across",
+      "ipa": "/ˈstʌmbl əˈkrɒs/",
+      "meaning": "tình cờ bắt gặp (thứ gì đó thú vị)",
+      "example": "If you wander off the beaten path in larger parks, you might stumble across a hidden pond or a rare bird.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "muck about",
+      "ipa": "/mʌk əˈbaʊt/",
+      "meaning": "chơi đùa, làm những việc linh tinh thư giãn",
+      "example": "Groups of teenagers often gather in open spaces just to muck about and kick a ball around.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get away from",
+      "ipa": "/ɡet əˈweɪ frəm/",
+      "meaning": "trốn thoát khỏi, rời xa (nơi nào đó ngột ngạt)",
+      "example": "People flock to public gardens primarily to get away from the concrete jungle and reconnect with nature.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

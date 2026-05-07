@@ -1,0 +1,76 @@
+{
+  "id": "q_24",
+  "vocab": [
+    {
+      "word": "snap up",
+      "ipa": "/snæp ʌp/",
+      "meaning": "chụp nhanh một bức ảnh khi có cơ hội",
+      "example": "Whenever I see a street performer with a unique look, I try to snap up a quick candid shot before the moment passes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "trawl through",
+      "ipa": "/trɔːl θruː/",
+      "meaning": "tìm kiếm kỹ lưỡng (trong kho ảnh) để chọn ra thứ mình cần",
+      "example": "After a weekend trip, I usually trawl through hundreds of raw files to find that one perfect shot for my portfolio.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "play around with",
+      "ipa": "/pleɪ əˈraʊnd wɪð/",
+      "meaning": "thử nghiệm nhiều cách khác nhau (về góc độ, ánh sáng, chỉnh sửa)",
+      "example": "I like to play around with long exposure settings to capture the ethereal movement of waterfalls.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out against",
+      "ipa": "/stænd aʊt əˈɡeinst/",
+      "meaning": "nổi bật trên nền của cái gì đó",
+      "example": "I love taking photos of minimalist architecture where a single bright color stands out against a monochrome background.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "narrow down",
+      "ipa": "/ˈnær.əʊ daʊn/",
+      "meaning": "thu hẹp lựa chọn (chọn ra những bức ảnh đẹp nhất)",
+      "example": "It’s always a struggle to narrow down my landscape photos to just a top three for my social media feed.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "jazz up",
+      "ipa": "/dʒæz ʌp/",
+      "meaning": "làm cho bức ảnh trở nên thú vị, sống động hoặc hấp dẫn hơn",
+      "example": "I often use subtle presets to jazz up my travel photos, giving them a more professional and polished look.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fumble around",
+      "ipa": "/ˈfʌm.bəl əˈraʊnd/",
+      "meaning": "lóng ngóng, dò dẫm (thường dùng khi điều chỉnh máy ảnh trong bóng tối hoặc tình huống gấp)",
+      "example": "I missed a great shot of the lightning because I was fumbling around with my tripod in the dark.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm nổi bật một đặc điểm hoặc chi tiết cụ thể",
+      "example": "Using a macro lens really helps to bring out the intricate textures of flower petals that are invisible to the naked eye.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stock up on",
+      "ipa": "/stɒk ʌp ɒn/",
+      "meaning": "tích trữ, chuẩn bị nhiều (thẻ nhớ, phim, thiết bị) trước khi chụp",
+      "example": "Before heading to the mountains, I always stock up on high-capacity memory cards so I don't run out of space.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại (xem lại ảnh cũ để nhớ về kỷ niệm)",
+      "example": "I mostly take family photos so that I can look back on these precious memories ten or twenty years from now.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

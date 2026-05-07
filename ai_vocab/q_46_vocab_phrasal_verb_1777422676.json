@@ -1,0 +1,76 @@
+{
+  "id": "q_46",
+  "vocab": [
+    {
+      "word": "strike up",
+      "ipa": "/straɪk ʌp/",
+      "meaning": "bắt đầu (một cuộc trò chuyện/mối quan hệ) một cách tự nhiên",
+      "example": "I often strike up a conversation with fellow commuters to make the long train journey feel shorter.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hit it off",
+      "ipa": "/hɪt ɪt ɒf/",
+      "meaning": "tâm đầu ý hợp/nhanh chóng trở nên thân thiết ngay từ lần đầu gặp",
+      "example": "I once met a traveler in a cafe and we hit it off immediately, discussing our shared passion for photography.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊpən ʌp/",
+      "meaning": "mở lòng/bắt đầu chia sẻ nhiều hơn",
+      "example": "It’s surprising how quickly people can open up about their life stories when you show genuine interest in a public setting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift apart",
+      "ipa": "/drɪft əˈpɑːt/",
+      "meaning": "từ từ kết thúc cuộc trò chuyện (trong ngữ cảnh này là rời đi khi buổi nói chuyện kết thúc)",
+      "example": "After a pleasant fifteen-minute chat at the bus stop, we naturally drifted apart as our respective buses arrived.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "chime in",
+      "ipa": "/tʃaɪm ɪn/",
+      "meaning": "nói xen vào/góp vui vào một cuộc trò chuyện đang diễn ra",
+      "example": "While waiting in line, I heard someone mentioning a book I loved, so I couldn't help but chime in with my own thoughts.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep back",
+      "ipa": "/kiːp bæk/",
+      "meaning": "giữ khoảng cách/ngần ngại không muốn tham gia cuộc vui (dùng để nói về sự e dè ban đầu)",
+      "example": "Normally I keep back in crowded places, but the friendly atmosphere at the festival encouraged me to talk to strangers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spark off",
+      "ipa": "/spɑːk ɒf/",
+      "meaning": "khơi mào/kích hoạt (một cuộc thảo luận sôi nổi)",
+      "example": "A simple question about the time can often spark off an incredibly deep and meaningful dialogue.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wrap up",
+      "ipa": "/ræp ʌp/",
+      "meaning": "kết thúc/tóm gọn lại một cuộc trò chuyện",
+      "example": "I had to wrap up the conversation with the street artist because my friends were waiting for me at the museum entrance.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bump into",
+      "ipa": "/bʌmp ˈɪntuː/",
+      "meaning": "tình cờ gặp gỡ (và dẫn đến một cuộc trò chuyện)",
+      "example": "I enjoy the spontaneity of bumping into interesting characters in the city and hearing their unique perspectives.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "warm up to",
+      "ipa": "/wɔːm ʌp tu/",
+      "meaning": "dần dần trở nên thân thiện/cởi mở hơn với ai đó",
+      "example": "Although he seemed reserved at first, the person sitting next to me on the plane eventually warmed up to me after a few jokes.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

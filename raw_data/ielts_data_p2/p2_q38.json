@@ -1,0 +1,37 @@
+{
+  "q": "Describe a popular person",
+  "cue_card": [
+    "Who they are",
+    "Why they are popular",
+    "How you know them",
+    "And explain what you think of this person"
+  ],
+  "examiner_note": "Có thể chọn một người bạn, người thân hoặc người nổi tiếng.",
+  "samples": {
+    "band7": "I want to talk about my classmate, Minh, who is very popular in our school. He's popular because he's very friendly and always helps others with their studies. I've known him for two years, and I think he's a very kind person who deserves all the respect he gets from our teachers and classmates.",
+    "band8": "I'd like to describe my colleague, Minh, who is incredibly well-liked within our department. His popularity stems from his charismatic personality and his willingness to go out of his way to assist others. I've worked alongside him for several years, and I genuinely admire his ability to build rapport with everyone he meets. He has a way of making people feel valued, which I find truly impressive.",
+    "band9": "The person who comes to mind is my associate, Minh, who enjoys widespread popularity in our professional circle. His appeal is rooted in a unique combination of emotional intelligence and professional competence. I've had the pleasure of collaborating with him on numerous projects, and I've always been struck by his innate ability to foster a positive and inclusive atmosphere. He is a natural leader who leads with empathy, and I believe his popularity is a well-deserved reflection of his genuine character."
+  },
+  "v": [
+    {
+      "word": "charismatic",
+      "ipa": "/ˌkærɪzˈmætɪk/",
+      "meaning": "có sức lôi cuốn",
+      "example": "He is a charismatic speaker."
+    },
+    {
+      "word": "build rapport",
+      "ipa": "/bɪld ræˈpɔːr/",
+      "meaning": "xây dựng mối quan hệ tốt",
+      "example": "It's important to build rapport with your clients."
+    },
+    {
+      "word": "inclusive",
+      "ipa": "/ɪnˈkluːsɪv/",
+      "meaning": "mang tính hòa nhập",
+      "example": "The company strives for an inclusive environment."
+    }
+  ],
+  "topic": "Describe a popular person",
+  "id": "p2_q38"
+}

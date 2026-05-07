@@ -1,0 +1,72 @@
+{
+  "id": "q_17",
+  "topic": "Childhood activities",
+  "q": "What were your favourite activities when you were a child?",
+  "examiner_note": "Giám khảo muốn bạn kể về các hoạt động giải trí thời thơ ấu. Bạn nên sử dụng thì quá khứ (Past Simple) và các cấu trúc thói quen như 'used to' hoặc 'would'. Hãy mô tả chi tiết một hoặc hai hoạt động (ví dụ: chơi đồ hàng, thả diều, đá bóng) và cảm xúc của bạn khi đó (vui vẻ, phấn khích). Các cụm từ như 'carefree days', 'childhood antics', 'spark my imagination' rất hữu ích.",
+  "samples": {
+    "band7": {
+      "text": "When I was a child, I absolutely loved playing hide-and-seek with my friends in the neighborhood. We would spend hours running around and laughing. I also really enjoyed drawing and would often create my own little comic books with crayons.",
+      "note": "Trả lời trực tiếp, rõ ràng. Sử dụng đúng thì quá khứ và cấu trúc 'would' cho thói quen. Từ vựng tự nhiên."
+    },
+    "band8": {
+      "text": "Oh, I have such fond memories of my childhood activities. I was particularly enamored with outdoor games like flying kites in the open fields near my house. There was something magical about watching the kite soar high in the sky. Besides that, I spent a lot of time building LEGO sets, which really helped spark my imagination and creativity.",
+      "note": "Sử dụng từ vựng miêu tả tốt (fond memories, enamored with, soar high, spark my imagination). Cách diễn đạt trôi chảy và giàu cảm xúc."
+    },
+    "band9": {
+      "text": "Looking back, my childhood was a tapestry of diverse and engaging activities. I was an exceptionally inquisitive child, and one of my absolute favorites was embarking on 'nature expeditions' in our garden, where I’d observe insects and collect interesting stones. Additionally, I would frequently orchestrate elaborate role-playing scenarios with my siblings, which served as a wonderful creative outlet. Those carefree days were truly instrumental in shaping my inquisitive nature.",
+      "note": "Vốn từ vựng cực kỳ phong phú và tinh tế (tapestry, inquisitive, embarking on, expeditions, orchestrate, elaborate, creative outlet, instrumental). Cách lập luận và mô tả mang tính phản tư cao."
+    }
+  },
+  "v": [
+    { "word": "fond memories", "meaning": "kỷ niệm đẹp/đáng mến", "ipa": "/fɑːnd ˈmeməriz/", "example": "I have fond memories of my summers at the seaside." },
+    { "word": "enamored with", "meaning": "say đắm/thích mê cái gì", "ipa": "/ɪˈnæmərd wɪð/", "example": "I was enamored with the world of dinosaurs as a young boy." },
+    { "word": "soar high", "meaning": "bay vút lên cao", "ipa": "/sɔːr haɪ/", "example": "The eagle soared high above the mountains." },
+    { "word": "spark imagination", "meaning": "khơi dậy trí tưởng tượng", "ipa": "/spɑːrk ɪˌmædʒɪˈneɪʃn/", "example": "Storytelling is a great way to spark imagination in children." },
+    { "word": "tapestry of activities", "meaning": "một chuỗi các hoạt động đa dạng (như một tấm thảm dệt)", "ipa": "/ˈtæpəstri əv ækˈtɪvətiz/", "example": "His life was a rich tapestry of experiences and travels." },
+    { "word": "inquisitive child", "meaning": "đứa trẻ ham học hỏi/tò mò", "ipa": "/ɪnˈkwɪzətɪv tʃaɪld/", "example": "As an inquisitive child, he was always asking 'why'." },
+    { "word": "embark on", "meaning": "bắt tay vào/bắt đầu (một hành trình/nhiệm vụ)", "ipa": "/ɪmˈbɑːrk ɑːn/", "example": "She is about to embark on a new diplomatic mission." },
+    { "word": "orchestrate", "meaning": "sắp xếp/điều phối (một cách tỉ mỉ)", "ipa": "/ˈɔːrkɪstreɪt/", "example": "The surprise party was perfectly orchestrated by his friends." },
+    { "word": "elaborate", "meaning": "tỉ mỉ/chi tiết/trau chuốt", "ipa": "/ɪˈlæbərət/", "example": "They made elaborate preparations for the wedding." },
+    { "word": "creative outlet", "meaning": "nơi giải tỏa sự sáng tạo", "ipa": "/kriˈeɪtɪv ˈaʊtlet/", "example": "Writing poetry is her main creative outlet." },
+    { "word": "instrumental in", "meaning": "đóng vai trò quan trọng trong", "ipa": "/ˌɪnstrəˈmentl ɪn/", "example": "Her help was instrumental in getting the deal signed." },
+    { "word": "carefree days", "meaning": "những ngày tháng không lo âu", "ipa": "/ˈkerfriː deɪz/", "example": "I miss the carefree days of my youth." },
+    { "word": "hide-and-seek", "meaning": "trò chơi trốn tìm", "ipa": "/ˌhaɪd n ˈsiːk/", "example": "Hide-and-seek was our favorite game at school." },
+    { "word": "fly a kite", "meaning": "thả diều", "ipa": "/flaɪ ə kaɪt/", "example": "We went to the park to fly a kite on a windy day." },
+    { "word": "hopscotch", "meaning": "trò nhảy lò cò", "ipa": "/ˈhɑːpskɑːtʃ/", "example": "I haven't played hopscotch since I was ten." },
+    { "word": "tag", "meaning": "trò đuổi bắt", "ipa": "/tæɡ/", "example": "Playing tag in the yard was great exercise." },
+    { "word": "role-playing", "meaning": "trò chơi nhập vai", "ipa": "/ˈroʊl ˌpleɪɪŋ/", "example": "Role-playing is used in training to simulate real-life situations." },
+    { "word": "pretend", "meaning": "giả vờ/tưởng tượng", "ipa": "/prɪˈtend/", "example": "The children liked to pretend they were pirates." },
+    { "word": "crayons", "meaning": "bút sáp màu", "ipa": "/ˈkreɪənz/", "example": "She drew a beautiful house with her brand new crayons." },
+    { "word": "building blocks", "meaning": "khối xây dựng/đồ chơi xếp hình", "ipa": "/ˈbɪldɪŋ blɑːks/", "example": "Wooden building blocks are a classic childhood toy." },
+    { "word": "recess", "meaning": "giờ ra chơi", "ipa": "/rɪˈses/", "example": "Everyone rushed outside the moment recess started." },
+    { "word": "childhood friend", "meaning": "bạn thuở nhỏ", "ipa": "/ˈtʃaɪldhʊd frend/", "example": "He's my childhood friend; we've known each other for twenty years." },
+    { "word": "neighborhood", "meaning": "hàng xóm/khu phố", "ipa": "/ˈneɪbərhʊd/", "example": "It's a very friendly neighborhood where everyone knows each other." },
+    { "word": "curiosity", "meaning": "sự tò mò", "ipa": "/ˌkjʊriˈɑːsəti/", "example": "Children have an innate curiosity about the natural world." },
+    { "word": "play house", "meaning": "trò chơi đồ hàng (giả vờ làm gia đình)", "ipa": "/pleɪ haʊs/", "example": "The girls were playing house in the shade of the tree." },
+    { "word": "dollhouse", "meaning": "nhà búp bê", "ipa": "/ˈdɑːlhaʊs/", "example": "She spent all afternoon decorating her new dollhouse." },
+    { "word": "action figures", "meaning": "mô hình nhân vật", "ipa": "/ˈækʃn ˈfɪɡjərz/", "example": "He had a huge collection of superhero action figures." },
+    { "word": "board games", "meaning": "trò chơi bàn cờ", "ipa": "/ˈbɔːrd ɡeɪmz/", "example": "We love playing board games on rainy weekends." },
+    { "word": "video games", "meaning": "trò chơi điện tử", "ipa": "/ˈvɪdioʊ ɡeɪmz/", "example": "He spends too much time playing video games." },
+    { "word": "storytelling", "meaning": "kể chuyện", "ipa": "/ˈstɔːritelɪŋ/", "example": "I loved my father’s storytelling when I was young." },
+    { "word": "nurture", "meaning": "nuôi dưỡng", "ipa": "/ˈnɜːrtʃər/", "example": "It's important to nurture a child's talent early on." },
+    { "word": "adventure", "meaning": "cuộc phiêu lưu", "ipa": "/ədˈventʃər/", "example": "Going to the dark attic felt like a huge adventure." },
+    { "word": "excitement", "meaning": "sự háo hức/phấn khích", "ipa": "/ɪkˈsaɪtmənt/", "example": "The children couldn't hide their excitement for the trip." },
+    { "word": "innocence", "meaning": "sự ngây thơ", "ipa": "/ˈɪnəsəns/", "example": "The book captures the innocence of childhood perfectly." },
+    { "word": "upbringing", "meaning": "sự giáo dục/nuôi dưỡng", "ipa": "/ˈʌpˌbrɪŋɪŋ/", "example": "She had a very religious upbringing." },
+    { "word": "playtime", "meaning": "giờ chơi", "ipa": "/ˈpleɪtaɪm/", "example": "The children were very sad when playtime ended." },
+    { "word": "playground", "meaning": "sân chơi", "ipa": "/ˈpleɪɡraʊnd/", "example": "The local playground was full of children on Sunday." },
+    { "word": "swing set", "meaning": "xích đu", "ipa": "/swɪŋ set/", "example": "I loved going high on the swing set." },
+    { "word": "sandbox", "meaning": "hố cát", "ipa": "/ˈsændbɑːks/", "example": "They were building a castle in the sandbox." },
+    { "word": "mischievous", "meaning": "tinh nghịch/láu lỉnh", "ipa": "/ˈmɪstʃɪvəs/", "example": "The mischievous little boy hid his mother's keys." },
+    { "word": "energy-filled", "meaning": "tràn đầy năng lượng", "ipa": "/ˈenərdʒi fɪld/", "example": "It was an energy-filled afternoon at the park." },
+    { "word": "unforgettable", "meaning": "không thể quên", "ipa": "/ˌʌnfərˈɡetəbl/", "example": "That summer camp was an unforgettable experience." },
+    { "word": "childhood antics", "meaning": "những trò đùa tinh quái thời thơ ấu", "ipa": "/ˈtʃaɪldhʊd ˈæntɪks/", "example": "We laughed as we remembered our childhood antics." },
+    { "word": "make believe", "meaning": "giả tưởng/tưởng tượng", "ipa": "/ˈmeɪk bɪliːv/", "example": "In their world of make believe, they were kings and queens." },
+    { "word": "solitary", "meaning": "đơn độc/nghĩ ngợi một mình", "ipa": "/ˈsɑːləteri/", "example": "He was a solitary child who preferred books to people." },
+    { "word": "bonding", "meaning": "sự gắn kết (giữa người với người)", "ipa": "/ˈbɑːndɪŋ/", "example": "Family meals are a great time for bonding." },
+    { "word": "sibling", "meaning": "anh chị em ruột", "ipa": "/ˈsɪblɪŋ/", "example": "The two siblings are very close and share many hobbies." },
+    { "word": "daydreaming", "meaning": "mơ mộng hão huyền", "ipa": "/ˈdeɪdriːmɪŋ/", "example": "I spent a lot of my time in class daydreaming." },
+    { "word": "freetime", "meaning": "thời gian rảnh", "ipa": "/ˈfriː taɪm/", "example": "What do you like to do in your freetime?" },
+    { "word": "cherish", "meaning": "trân trọng", "ipa": "/ˈtʃerɪʃ/", "example": "I will cherish this gift forever." }
+  ]
+}

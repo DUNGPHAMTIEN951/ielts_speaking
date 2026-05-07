@@ -1,0 +1,76 @@
+{
+  "id": "q_27",
+  "vocab": [
+    {
+      "word": "snap up",
+      "ipa": "/snæp ʌp/",
+      "meaning": "mua nhanh chóng (thường là món hời hoặc hàng giới hạn)",
+      "example": "Whenever there is a flash sale, I try to snap up the latest sneaker releases before they go out of stock.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fork out",
+      "ipa": "/fɔːrk aʊt/",
+      "meaning": "chi một khoản tiền lớn (thường là một cách miễn cưỡng)",
+      "example": "I had to fork out a significant amount for shipping fees because the boots were sent from overseas.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sift through",
+      "ipa": "/sɪft θruː/",
+      "meaning": "sàng lọc, kiểm tra kỹ lưỡng giữa nhiều lựa chọn",
+      "example": "It took me nearly an hour to sift through hundreds of listings to find a pair that actually met my criteria.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "send back",
+      "ipa": "/send bæk/",
+      "meaning": "gửi trả lại (hàng hóa không vừa hoặc bị lỗi)",
+      "example": "The sizing was completely off, so I had to send them back and request a full refund.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "try out",
+      "ipa": "/traɪ aʊt/",
+      "meaning": "thử nghiệm (tính năng, sự thoải mái) lần đầu",
+      "example": "I'm always a bit hesitant to try out new footwear brands online without knowing their exact fit.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand by",
+      "ipa": "/stænd baɪ/",
+      "meaning": "vẫn trung thành/tin dùng (một thương hiệu hoặc quyết định)",
+      "example": "Despite the delay in delivery, I still stand by that retailer because their quality is consistently superb.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out for",
+      "ipa": "/lʊk aʊt fɔːr/",
+      "meaning": "chờ đợi, canh chừng (để tìm dịp tốt hoặc mẫu mới)",
+      "example": "I usually look out for discount codes or seasonal clearances to save some money on my online purchases.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "opt for",
+      "ipa": "/ɒpt fɔːr/",
+      "meaning": "lựa chọn (giữa các phương án thay thế)",
+      "example": "After comparing several models, I decided to opt for the synthetic leather version due to its durability.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "meaning": "mua được cái gì đó (thường là với giá rẻ)",
+      "example": "I managed to pick up some classic trainers at a fraction of their original price during the Black Friday sale.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sell out",
+      "ipa": "/sel aʊt/",
+      "meaning": "hết hàng, bán sạch",
+      "example": "By the time I added the running shoes to my cart, my size had already sold out.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

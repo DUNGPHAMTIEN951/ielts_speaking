@@ -1,0 +1,76 @@
+{
+  "id": "q_47",
+  "vocab": [
+    {
+      "word": "carve out",
+      "ipa": "/kɑːrv aʊt/",
+      "meaning": "dành ra hoặc tạo ra một không gian riêng biệt",
+      "example": "I believe the city should carve out more pedestrian zones from these congested streets to improve livability.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw in",
+      "ipa": "/drɔː ɪn/",
+      "meaning": "thu hút mọi người tìm đến",
+      "example": "An open-air amphitheater would certainly draw in a lot of local artists and boost the community spirit.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "jazz up",
+      "ipa": "/dʒæz ʌp/",
+      "meaning": "làm cho cái gì đó trở nên thú vị, hấp dẫn hoặc sinh động hơn",
+      "example": "They could jazz up the local square with some interactive water features or colorful street art.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop up",
+      "ipa": "/pɒp ʌp/",
+      "meaning": "xuất hiện bất ngờ hoặc được mở ra trong thời gian ngắn",
+      "example": "I'm a big fan of those temporary libraries that pop up in residential areas during the summer months.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "make over",
+      "ipa": "/meɪk ˈəʊ.vər/",
+      "meaning": "thay đổi diện mạo hoàn toàn (cải tạo)",
+      "example": "The neglected riverside area was recently made over into a stunning promenade with plenty of benches.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bowl over",
+      "ipa": "/bəʊl ˈəʊ.vər/",
+      "meaning": "làm ai đó kinh ngạc hoặc ấn tượng sâu sắc",
+      "example": "I was absolutely bowled over by the design of the new community hub; it's both modern and functional.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block off",
+      "ipa": "/blɒk ɒf/",
+      "meaning": "phong tỏa hoặc rào chắn lại để ngăn xe cộ",
+      "example": "It would be great if they could block off certain roads on weekends to create a temporary street market.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "có cái gì đó để trông cậy vào khi cần thiết",
+      "example": "Having a local park to fall back on for exercise is vital when the indoor gyms are overcrowded.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "phase in",
+      "ipa": "/feɪz ɪn/",
+      "meaning": "triển khai dần dần từng giai đoạn",
+      "example": "The council plans to phase in more bicycle lanes and small plazas over the next three years.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "muck in",
+      "ipa": "/mʌk ɪn/",
+      "meaning": "cùng nhau làm việc, chung tay góp sức",
+      "example": "If more public gardens were available, I’m sure many residents would be happy to muck in and help with the planting.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

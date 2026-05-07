@@ -1,0 +1,322 @@
+{
+  "id": "q_34",
+  "topic": "Studying",
+  "q": "What are your plans after you finish your studies?",
+  "examiner_note": "Giám khảo muốn nghe về định hướng tương lai của bạn. \n- **Hướng dẫn trả lời**: Bạn có thể nói về việc tìm việc làm, khởi nghiệp, học tiếp lên cao (Thạc sĩ/Tiến sĩ), hoặc đi du học. \n- **Mẹo**: Sử dụng các cụm từ chỉ tương lai như 'I intend to', 'I'm planning to', 'My ultimate goal is to', 'I aspire to' và từ vựng về thị trường lao động.",
+  "samples": {
+    "band7": {
+      "text": "After graduation, I plan to look for a job in a big marketing firm. I want to gain some practical experience in the industry and improve my professional skills. Maybe after a few years of working, I will consider studying for a Master's degree.",
+      "note": "Kế hoạch rõ ràng, đi từ việc tìm việc đến học nâng cao. Từ vựng phù hợp ('graduation', 'practical experience')."
+    },
+    "band8": {
+      "text": "Once I've completed my degree, I'm intending to apply for an internship at an international organization. My goal is to immerse myself in a professional environment and build a strong network of contacts, which I believe is essential for my long-term career prospects.",
+      "note": "Sử dụng từ vựng tốt ('immerse myself', 'network of contacts', 'career prospects'). Cấu trúc câu linh hoạt."
+    },
+    "band9": {
+      "text": "Upon finishing my undergraduate studies, I aspire to secure a scholarship for a Master's program abroad, specifically in the UK. I'm keen on further specializing in behavioral economics, as I believe it will provide me with a competitive edge in the global job market.",
+      "note": "Từ vựng ở trình độ rất cao ('aspire to', 'secure a scholarship', 'competitive edge'). Diễn đạt cực kỳ học thuật và thuyết phục."
+    }
+  },
+  "v": [
+    {
+      "word": "graduation",
+      "meaning": "sự tốt nghiệp",
+      "ipa": "/ˌɡrædʒuˈeɪʃn/",
+      "example": "After graduation, I spent a few months traveling before looking for work."
+    },
+    {
+      "word": "intend to",
+      "meaning": "dự định làm gì",
+      "ipa": "/ɪnˈtend tuː/",
+      "example": "I intend to apply for several jobs in the tech sector."
+    },
+    {
+      "word": "aspire to",
+      "meaning": "khao khát/mong muốn đạt được",
+      "ipa": "/əˈspaɪə(r) tuː/",
+      "example": "Young musicians aspire to perform at world-famous venues."
+    },
+    {
+      "word": "secure a scholarship",
+      "meaning": "đạt được/giành được học bổng",
+      "ipa": "/sɪˈkjʊə(r) ə ˈskɒləʃɪp/",
+      "example": "He worked incredibly hard to secure a scholarship for his PhD."
+    },
+    {
+      "word": "competitive edge",
+      "meaning": "lợi thế cạnh tranh",
+      "ipa": "/kəmˈpetətɪv edʒ/",
+      "example": "Fluency in multiple languages gives you a competitive edge in the job market."
+    },
+    {
+      "word": "global job market",
+      "meaning": "thị trường việc làm toàn cầu",
+      "ipa": "/ˈɡləʊbl dʒɒb ˈmɑːkɪt/",
+      "example": "Universities aim to prepare students for the demands of the global job market."
+    },
+    {
+      "word": "further specialize",
+      "meaning": "chuyên sâu hơn nữa",
+      "ipa": "/ˈfɜːðər ˈspeʃəlaɪz/",
+      "example": "I want to further specialize in intellectual property law."
+    },
+    {
+      "word": "immerse oneself in",
+      "meaning": "đắm mình vào",
+      "ipa": "/ɪˈmɜːs wʌnˌself ɪn/",
+      "example": "The best way to learn a language is to immerse yourself in the culture."
+    },
+    {
+      "word": "professional environment",
+      "meaning": "môi trường chuyên nghiệp",
+      "ipa": "/prəˈfeʃənl ɪnˈvaɪrənmənt/",
+      "example": "Internships allow students to experience a professional environment firsthand."
+    },
+    {
+      "word": "long-term",
+      "meaning": "dài hạn",
+      "ipa": "/ˌlɒŋ ˈtɜːm/",
+      "example": "Saving money is part of my long-term financial planning."
+    },
+    {
+      "word": "career prospects",
+      "meaning": "triển vọng nghề nghiệp",
+      "ipa": "/kəˈrɪə ˈprɒspekts/",
+      "example": "Graduates from this university have excellent career prospects."
+    },
+    {
+      "word": "internship",
+      "meaning": "thực tập",
+      "ipa": "/ˈɪntɜːnʃɪp/",
+      "example": "I'm currently doing an internship at a law firm."
+    },
+    {
+      "word": "undergraduate studies",
+      "meaning": "việc học đại học",
+      "ipa": "/ˌʌndəˈɡrædʒuət ˈstʌdiz/",
+      "example": "During my undergraduate studies, I spent a semester in France."
+    },
+    {
+      "word": "master's program",
+      "meaning": "chương trình thạc sĩ",
+      "ipa": "/ˈmɑːstəz ˈprəʊɡræm/",
+      "example": "She has been accepted into a Master's program in public health."
+    },
+    {
+      "word": "apply for",
+      "meaning": "nộp đơn cho",
+      "ipa": "/əˈplaɪ fɔː(r)/",
+      "example": "I'm going to apply for a visa to study in the US."
+    },
+    {
+      "word": "gain practical experience",
+      "meaning": "đạt được kinh nghiệm thực tế",
+      "ipa": "/ɡeɪn ˈpræktɪkl ɪkˈspɪəriəns/",
+      "example": "It's important to gain practical experience before starting your own business."
+    },
+    {
+      "word": "professional skills",
+      "meaning": "kỹ năng chuyên môn",
+      "ipa": "/prəˈfeʃənl skɪlz/",
+      "example": "The workshops focus on developing essential professional skills."
+    },
+    {
+      "word": "industry",
+      "meaning": "ngành công nghiệp/lĩnh vực",
+      "ipa": "/ˈɪndəstri/",
+      "example": "The tourism industry has been greatly affected by the pandemic."
+    },
+    {
+      "word": "network of contacts",
+      "meaning": "mạng lưới các mối quan hệ",
+      "ipa": "/ˈnetwɜːk əv ˈkɒntækts/",
+      "example": "Building a strong network of contacts is key to finding a good job."
+    },
+    {
+      "word": "essential for",
+      "meaning": "thiết yếu cho",
+      "ipa": "/ɪˈsenʃl fɔː(r)/",
+      "example": "Water is essential for all living things."
+    },
+    {
+      "word": "labor market",
+      "meaning": "thị trường lao động",
+      "ipa": "/ˈleɪbə ˈmɑːkɪt/",
+      "example": "New graduates often find the labor market to be very competitive."
+    },
+    {
+      "word": "recruitment",
+      "meaning": "sự tuyển dụng",
+      "ipa": "/rɪˈkruːtmənt/",
+      "example": "The company has improved its recruitment process to attract top talent."
+    },
+    {
+      "word": "entry-level job",
+      "meaning": "công việc khởi đầu",
+      "ipa": "/ˈentri ˌlevl dʒɒb/",
+      "example": "Starting with an entry-level job is a good way to learn the ropes."
+    },
+    {
+      "word": "promotion",
+      "meaning": "sự thăng chức",
+      "ipa": "/prəˈməʊʃn/",
+      "example": "He's hoping to get a promotion at the end of the year."
+    },
+    {
+      "word": "career path",
+      "meaning": "con đường sự nghiệp",
+      "ipa": "/kəˈrɪə pɑːθ/",
+      "example": "I'm still thinking about which career path to choose."
+    },
+    {
+      "word": "further education",
+      "meaning": "giáo dục cao hơn",
+      "ipa": "/ˌfɜːðər ˌedʒuˈkeɪʃn/",
+      "example": "Many adults return to college for further education."
+    },
+    {
+      "word": "specialization",
+      "meaning": "sự chuyên môn hóa",
+      "ipa": "/ˌspeʃəlaɪˈzeɪʃn/",
+      "example": "Modern medicine requires a high degree of specialization."
+    },
+    {
+      "word": "entrepreneurship",
+      "meaning": "tinh thần khởi nghiệp",
+      "ipa": "/ˌɒntrəprəˈnɜːʃɪp/",
+      "example": "The university provides support for students interested in entrepreneurship."
+    },
+    {
+      "word": "start-up",
+      "meaning": "công ty khởi nghiệp",
+      "ipa": "/ˈstɑːt ʌp/",
+      "example": "They are planning to launch their own tech start-up next year."
+    },
+    {
+      "word": "freelancing",
+      "meaning": "việc làm tự do",
+      "ipa": "/ˈfriːlɑːnsɪŋ/",
+      "example": "Freelancing offers a lot of flexibility but also some uncertainty."
+    },
+    {
+      "word": "work-life balance",
+      "meaning": "sự cân bằng giữa công việc và cuộc sống",
+      "ipa": "/ˌwɜːk laɪf ˈbæləns/",
+      "example": "Maintaining a good work-life balance is important for long-term health."
+    },
+    {
+      "word": "professional development",
+      "meaning": "phát triển chuyên môn",
+      "ipa": "/prəˈfeʃənl dɪˈveləpmənt/",
+      "example": "The company encourages ongoing professional development for all staff."
+    },
+    {
+      "word": "industry standards",
+      "meaning": "tiêu chuẩn ngành",
+      "ipa": "/ˈɪndəstri ˈstændədz/",
+      "example": "Our products meet all current industry standards for safety."
+    },
+    {
+      "word": "job interview",
+      "meaning": "phỏng vấn xin việc",
+      "ipa": "/dʒɒb ˈɪntəvjuː/",
+      "example": "I was very nervous before my first job interview."
+    },
+    {
+      "word": "resume",
+      "meaning": "sơ yếu lý lịch",
+      "ipa": "/ˈrezjuːmeɪ/",
+      "example": "Don't forget to update your resume before applying for the position."
+    },
+    {
+      "word": "cover letter",
+      "meaning": "thư xin việc",
+      "ipa": "/ˈkʌvə letə(r)/",
+      "example": "A well-written cover letter can make a big difference."
+    },
+    {
+      "word": "employment",
+      "meaning": "việc làm",
+      "ipa": "/ɪmˈplɔɪmənt/",
+      "example": "The region has seen a rise in full-time employment."
+    },
+    {
+      "word": "redundancy",
+      "meaning": "sự sa thải kinh tế",
+      "ipa": "/rɪˈdʌndənsi/",
+      "example": "Many workers faced redundancy after the factory closed down."
+    },
+    {
+      "word": "vocation",
+      "meaning": "nghề nghiệp/thiên hướng",
+      "ipa": "/vəʊˈkeɪʃn/",
+      "example": "Nursing is more than just a job; it's a vocation."
+    },
+    {
+      "word": "ambition",
+      "meaning": "tham vọng",
+      "ipa": "/æmˈbɪʃn/",
+      "example": "Her ultimate ambition is to become a world-famous architect."
+    },
+    {
+      "word": "milestone",
+      "meaning": "cột mốc quan trọng",
+      "ipa": "/ˈmaɪlstəʊn/",
+      "example": "Graduating from university is a major milestone in anyone's life."
+    },
+    {
+      "word": "settle down",
+      "meaning": "ổn định cuộc sống",
+      "ipa": "/ˈsetl daʊn/",
+      "example": "They want to travel the world before they settle down and start a family."
+    },
+    {
+      "word": "sabbatical",
+      "meaning": "kỳ nghỉ phép dài hạn để nghiên cứu/nghỉ ngơi",
+      "ipa": "/səˈbætɪkl/",
+      "example": "He's taking a one-year sabbatical to write a book."
+    },
+    {
+      "word": "relocate",
+      "meaning": "chuyển chỗ ở (vì công việc)",
+      "ipa": "/ˌriːləʊˈkeɪt/",
+      "example": "I'm willing to relocate to another city if the job is right."
+    },
+    {
+      "word": "pension scheme",
+      "meaning": "chế độ hưu trí",
+      "ipa": "/ˈpenʃn skiːm/",
+      "example": "It's never too early to start thinking about your pension scheme."
+    },
+    {
+      "word": "retirement",
+      "meaning": "sự nghỉ hưu",
+      "ipa": "/rɪˈtaɪəmənt/",
+      "example": "He's looking forward to his retirement after forty years of work."
+    },
+    {
+      "word": "succession",
+      "meaning": "sự kế thừa",
+      "ipa": "/səkˈseʃn/",
+      "example": "The company is planning for a smooth succession of leadership."
+    },
+    {
+      "word": "vision",
+      "meaning": "tầm nhìn",
+      "ipa": "/ˈvɪʒn/",
+      "example": "The CEO shared her vision for the future of the company."
+    },
+    {
+      "word": "attain",
+      "meaning": "đạt được",
+      "ipa": "/əˈteɪn/",
+      "example": "She worked hard to attain her goals."
+    },
+    {
+      "word": "accomplishment",
+      "meaning": "thành công/thành tựu",
+      "ipa": "/əˈkʌmplɪʃmənt/",
+      "example": "Getting this degree is one of my greatest accomplishments."
+    }
+  ]
+}

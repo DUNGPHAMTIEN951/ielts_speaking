@@ -1,0 +1,50 @@
+{
+  "q": "Describe a healthy lifestyle choice you made.",
+  "cue_card": [
+    "A healthy lifestyle choice you made.",
+    "What the choice was",
+    "When you made this choice",
+    "How you implemented it",
+    "And explain why you think it is a healthy choice"
+  ],
+  "examiner_note": "Khi miêu tả một thói quen lành mạnh, hãy tập trung vào sự cam kết (commitment, consistency) và lợi ích dài hạn (long-term benefits, preventive care). Sử dụng các từ vựng liên quan đến sức khỏe thể chất hoặc tinh thần (well-being, vitality, holistic approach).",
+  "samples": {
+    "band7": "I'd like to talk about a healthy choice I made last year, which was to start drinking more water every day. I realized I was often tired and got headaches because I wasn't hydrated enough. I started carrying a large water bottle with me everywhere I go, and I set reminders on my phone. It's a healthy choice because staying hydrated helps my skin, gives me more energy, and improves my overall health. I feel much better since I started doing this.",
+    "band8": "I’m going to describe a significant lifestyle change I undertook about a year ago: adopting a daily meditation practice. I made this choice when I noticed that my stress levels were negatively impacting my sleep and productivity. To implement it, I committed to sitting quietly for fifteen minutes every morning before starting my day, using a guided app to stay focused. I consider this a profoundly healthy choice because it has fundamentally improved my mental well-being, enhancing my emotional resilience and allowing me to approach daily challenges with a clearer, more balanced mindset.",
+    "band9": "A transformative lifestyle decision I made was shifting towards a primarily whole-food, plant-based diet, a change I initiated roughly two years ago. This conscious decision stemmed from a desire to take a more holistic approach to my health and reduce my environmental footprint. I implemented this gradually by substituting processed foods and heavy meats with nutrient-dense legumes, vegetables, and whole grains. This dietary overhaul is unequivocally a healthy choice; it's practically a form of preventive care that has significantly boosted my vitality, optimized my immune system, and fostered a profound sense of physical and ethical alignment."
+  },
+  "v": [
+    {
+      "word": "Hydrated",
+      "meaning": "Được cung cấp đủ nước (Cause to absorb water)",
+      "example": "Athletes need to stay hydrated during training in hot weather."
+    },
+    {
+      "word": "Emotional resilience",
+      "meaning": "Sự kiên cường về mặt cảm xúc (The ability to adapt to stressful situations or crises)",
+      "example": "Meditation can significantly build your emotional resilience."
+    },
+    {
+      "word": "Holistic approach",
+      "meaning": "Cách tiếp cận toàn diện (Characterized by the treatment of the whole person, taking into account mental and social factors, rather than just the physical symptoms)",
+      "example": "We need a more holistic approach to healthcare that focuses on prevention."
+    },
+    {
+      "word": "Dietary overhaul",
+      "meaning": "Sự thay đổi/cải tổ hoàn toàn về chế độ ăn (A thorough examination of diet with changes made if necessary)",
+      "example": "After his heart attack, a complete dietary overhaul was necessary."
+    },
+    {
+      "word": "Preventive care",
+      "meaning": "Chăm sóc phòng ngừa (Measures taken for disease prevention, as opposed to disease treatment)",
+      "example": "Eating well and exercising are the cornerstones of preventive care."
+    },
+    {
+      "word": "Vitality",
+      "meaning": "Sinh khí, sức sống (The state of being strong and active; energy)",
+      "example": "Despite his age, he is full of vitality and energy."
+    }
+  ],
+  "topic": "Describe a healthy lifestyle choice you made.",
+  "id": "p2_q23"
+}

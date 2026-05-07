@@ -1,0 +1,76 @@
+{
+  "id": "q_10",
+  "vocab": [
+    {
+      "word": "fork out",
+      "ipa": "/fɔːrk aʊt/",
+      "meaning": "miễn cưỡng chi một số tiền lớn cho cái gì",
+      "example": "I'm often willing to fork out a bit extra for a room with a balcony to enjoy the city skyline at night.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, cảnh đẹp)",
+      "example": "There's nothing like waking up early to soak up the sunrise over the ocean right from your bed.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go for",
+      "ipa": "/ɡəʊ fɔːr/",
+      "meaning": "lựa chọn, chọn cái gì đó",
+      "example": "If my budget allows, I always go for the 'scenic view' option because it completely changes the vibe of the trip.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gaze out at",
+      "ipa": "/ɡeɪz aʊt æt/",
+      "meaning": "nhìn chăm chú ra ngoài (thường là một không gian đẹp)",
+      "example": "I love to spend my evenings just gazing out at the rolling hills; it’s incredibly therapeutic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "splash out",
+      "ipa": "/splæʃ aʊt/",
+      "meaning": "vung tiền, chi tiêu hoang phí vào thứ gì xa xỉ",
+      "example": "On special occasions, I don't mind splashing out on a luxury suite that overlooks the harbor.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out over",
+      "ipa": "/lʊk aʊt ˈəʊ.vər/",
+      "meaning": "có hướng nhìn thẳng ra/bao quát (một khu vực)",
+      "example": "The hotel I stayed in last summer looked out over a secluded beach, which was absolutely stunning.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "chiêm ngưỡng, ngắm nhìn cảnh vật",
+      "example": "I prefer high-floor rooms so I can take in the panoramic views of the entire urban landscape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "nghỉ ngơi, thư giãn sau thời gian mệt mỏi",
+      "example": "Having a mountain view helps me wind down after a long day of trekking and exploring.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up to",
+      "ipa": "/ˈəʊ.pən ʌp tuː/",
+      "meaning": "mở ra hướng nhìn về phía nào đó",
+      "example": "I usually request a room that opens up to the garden to feel more connected to nature.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass up",
+      "ipa": "/pæs ʌp/",
+      "meaning": "từ bỏ, bỏ lỡ (một cơ hội tốt)",
+      "example": "If a room with a landmark view is available at a reasonable price, it’s an opportunity I can’t pass up.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

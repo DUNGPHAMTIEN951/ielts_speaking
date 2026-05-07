@@ -1,0 +1,76 @@
+{
+  "id": "q_43",
+  "vocab": [
+    {
+      "word": "look up to",
+      "ipa": "/lʊk ʌp tu/",
+      "meaning": "ngưỡng mộ và kính trọng",
+      "example": "I always looked up to my history teacher because of his vast knowledge and charismatic way of storytelling.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get through to",
+      "ipa": "/ɡet θruː tu/",
+      "meaning": "làm cho ai đó hiểu hoặc chấp nhận điều gì (truyền tải kiến thức hiệu quả)",
+      "example": "She was the only educator who could truly get through to me when I was struggling with complex algebraic equations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "khơi dậy, làm bộc lộ (khả năng hoặc phẩm chất tốt)",
+      "example": "My literature teacher really brought out the best in my writing, encouraging me to enter several national competitions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sink in",
+      "ipa": "/sɪŋk ɪn/",
+      "meaning": "dần dần được hiểu ra, thấm nhuần (kiến thức)",
+      "example": "He had a way of explaining difficult concepts so clearly that they would finally sink in after just one lesson.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, khác biệt (so với những giáo viên khác)",
+      "example": "What made her stand out from other faculty members was her genuine interest in her students' mental well-being.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass on",
+      "ipa": "/pɑːs ɒn/",
+      "meaning": "truyền lại (kiến thức, kinh nghiệm)",
+      "example": "He was passionate about passing on his love for classical music to the younger generation.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "single out",
+      "ipa": "/ˈsɪŋɡl aʊt/",
+      "meaning": "chọn ra, chú ý đặc biệt đến ai đó",
+      "example": "My art teacher singled me out for extra tutoring because she saw a spark of creativity that I hadn't noticed myself.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dựa vào (kiến thức/kỹ năng đã được dạy khi gặp khó khăn)",
+      "example": "Even now, I often fall back on the study techniques my biology teacher taught me back in high school.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drum into",
+      "ipa": "/drʌm ˈɪntə/",
+      "meaning": "dạy đi dạy lại cho đến khi nhớ kỹ (thường là quy tắc hoặc kỷ luật)",
+      "example": "Our English teacher drummed the importance of proper grammar into us until it became second nature.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒə(r) ʌp tu/",
+      "meaning": "đạt tới tiêu chuẩn/kỳ vọng (so sánh các giáo viên sau này với người yêu thích)",
+      "example": "None of my university professors quite measured up to the high standards set by my favorite high school mentor.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

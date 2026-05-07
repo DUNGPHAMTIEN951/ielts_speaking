@@ -1,0 +1,76 @@
+{
+  "id": "q_3",
+  "vocab": [
+    {
+      "word": "a whale of a time",
+      "ipa": "/ə weɪl əv ə taɪm/",
+      "meaning": "có một khoảng thời gian cực kỳ vui vẻ",
+      "example": "I remember having a whale of a time building sandcastles every summer at the beach.",
+      "type": "idiom"
+    },
+    {
+      "word": "be full of beans",
+      "ipa": "/bi fʊl əv biːnz/",
+      "meaning": "tràn đầy năng lượng và nhiệt huyết",
+      "example": "As a kid, I was always full of beans, so my parents enrolled me in gymnastics to channel all that energy.",
+      "type": "idiom"
+    },
+    {
+      "word": "be a dab hand at",
+      "ipa": "/bi ə dæb hænd æt/",
+      "meaning": "rất giỏi hoặc khéo léo trong việc gì đó",
+      "example": "By the age of ten, I was already a dab hand at painting landscapes.",
+      "type": "idiom"
+    },
+    {
+      "word": "go down memory lane",
+      "ipa": "/ɡəʊ daʊn ˈmeməri leɪn/",
+      "meaning": "hồi tưởng lại những kỷ niệm trong quá khứ",
+      "example": "Talking about my old stamp collection really makes me want to go down memory lane and find that old album.",
+      "type": "idiom"
+    },
+    {
+      "word": "have one's head in the clouds",
+      "ipa": "/hæv wʌnz hed ɪn ðə klaʊdz/",
+      "meaning": "mơ mộng viển vông, không thực tế",
+      "example": "I used to have my head in the clouds, spending hours imagining I was an astronaut exploring distant planets.",
+      "type": "idiom"
+    },
+    {
+      "word": "broaden one's horizons",
+      "ipa": "/ˈbrɔːdn wʌnz həˈraɪznz/",
+      "meaning": "mở rộng tầm hiểu biết/kiến thức",
+      "example": "Reading encyclopedias was my favorite hobby because it really helped to broaden my horizons.",
+      "type": "idiom"
+    },
+    {
+      "word": "be second nature to someone",
+      "ipa": "/bi ˈsekənd ˈneɪtʃə(r) tu ˈsʌmwʌn/",
+      "meaning": "trở thành bản năng, kỹ năng thuần thục",
+      "example": "I practiced the piano so much as a child that reading sheet music eventually became second nature to me.",
+      "type": "idiom"
+    },
+    {
+      "word": "give it a whirl",
+      "ipa": "/ɡɪv ɪt ə wɜːl/",
+      "meaning": "thử làm một việc gì đó lần đầu tiên",
+      "example": "When my brother started skateboarding, I decided to give it a whirl, and it quickly became my main hobby.",
+      "type": "idiom"
+    },
+    {
+      "word": "burn the midnight oil",
+      "ipa": "/bɜːn ðə ˈmɪdnaɪt ɔɪl/",
+      "meaning": "thức khuya để học tập hoặc làm việc (với niềm đam mê)",
+      "example": "I was so into coding back then that I’d often burn the midnight oil trying to finish a simple game.",
+      "type": "idiom"
+    },
+    {
+      "word": "through and through",
+      "ipa": "/θruː ənd θruː/",
+      "meaning": "hoàn toàn, từ đầu đến chân (thể hiện bản chất)",
+      "example": "I was an outdoorsy kid through and through; you could never find me inside the house on a sunny day.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

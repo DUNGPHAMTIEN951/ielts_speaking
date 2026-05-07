@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "sedentary lifestyle",
+      "ipa": "/ˈsed.ən.tər.i ˈlaɪf.staɪl/",
+      "meaning": "lối sống ít vận động",
+      "example": "I make a conscious effort to walk more to counteract the effects of a sedentary lifestyle spent behind a desk.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "urban sprawl",
+      "ipa": "/ˈɜː.bən sprɔːl/",
+      "meaning": "sự mở rộng đô thị (khiến việc đi bộ khó khăn hơn)",
+      "example": "Unfortunately, the urban sprawl in my city makes it nearly impossible to reach the office on foot.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "stroll",
+      "ipa": "/strəʊl/",
+      "meaning": "đi dạo một cách thong thả, thư giãn",
+      "example": "After dinner, I usually take a leisurely stroll around the neighborhood to aid digestion and unwind.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "improve cardiovascular health",
+      "ipa": "/ɪmˈpruːv ˌkɑː.di.əʊˈvæs.kjə.lər helθ/",
+      "meaning": "cải thiện sức khỏe tim mạch",
+      "example": "Incorporate daily walks into your routine is a fantastic way to improve cardiovascular health without excessive strain.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "footfall",
+      "ipa": "/ˈfʊt.fɔːl/",
+      "meaning": "tiếng bước chân/lưu lượng người đi bộ",
+      "example": "I prefer walking in the early morning when the footfall is light and the city feels tranquil.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "pavement pounding",
+      "ipa": "/ˈpeɪv.mənt ˈpaʊnd.ɪŋ/",
+      "meaning": "việc đi bộ/chạy bộ trên mặt đường cứng trong thời gian dài",
+      "example": "After a day of pavement pounding while sightseeing in London, my legs were absolutely exhausted.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "navigable",
+      "ipa": "/ˈnæv.ɪ.ɡə.bəl/",
+      "meaning": "có thể đi lại được/dễ dàng định hướng",
+      "example": "The historic district is highly navigable on foot, allowing tourists to discover hidden gems in every alleyway.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "carbon footprint",
+      "ipa": "/ˈkɑː.bən ˈfʊt.prɪnt/",
+      "meaning": "dấu chân carbon (lượng khí thải cá nhân)",
+      "example": "Choosing to walk instead of taking a taxi is a small but meaningful way to reduce my carbon footprint.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "amble",
+      "ipa": "/ˈæm.bəl/",
+      "meaning": "đi bộ nhẹ nhàng, không vội vã",
+      "example": "We spent the afternoon ambling through the botanical gardens, admiring the diverse flora.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "scenic route",
+      "ipa": "/ˈsiː.nɪk ruːt/",
+      "meaning": "tuyến đường có phong cảnh đẹp",
+      "example": "Whenever I have some spare time, I take the scenic route home through the park rather than the main road.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

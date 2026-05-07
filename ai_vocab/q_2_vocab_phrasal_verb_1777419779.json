@@ -1,0 +1,76 @@
+{
+  "id": "q_2",
+  "vocab": [
+    {
+      "word": "stem from",
+      "ipa": "/stem frɒm/",
+      "meaning": "bắt nguồn từ",
+      "example": "My obsession with building model planes actually stems from my father's career as a pilot.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dabble in",
+      "ipa": "/ˈdæbl ɪn/",
+      "meaning": "học chơi/thử sức một cách không quá chuyên sâu",
+      "example": "I started to dabble in oil painting when I was seven, and it has since become a lifelong passion.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep at it",
+      "ipa": "/kiːp æt ɪt/",
+      "meaning": "kiên trì thực hiện, tiếp tục theo đuổi",
+      "example": "Learning the violin was tough initially, but I'm glad I kept at it because it's now my primary way to destress.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry over",
+      "ipa": "/ˈkæri ˈəʊvə(r)/",
+      "meaning": "mang theo, tiếp nối (từ giai đoạn này sang giai đoạn khác)",
+      "example": "My fascination with astronomy carried over from my primary school days right into my adult life.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "muck about with",
+      "ipa": "/mʌk əˈbaʊt wɪð/",
+      "meaning": "nghịch ngợm, mày mò một cách thoải mái",
+      "example": "I used to muck about with old electronics in the garage, which eventually led to my hobby of fixing vintage radios.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out into",
+      "ipa": "/brɑːntʃ aʊt ˈɪntuː/",
+      "meaning": "mở rộng sang (lĩnh vực liên quan)",
+      "example": "I began with simple sketching as a kid, but later branched out into digital illustration and 3D modeling.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "root for",
+      "ipa": "/ruːt fɔː(r)/",
+      "meaning": "ủng hộ, cổ vũ nồng nhiệt (thường nói về sở thích xem thể thao)",
+      "example": "I’ve been rooting for the same football team since I was five; it's a family tradition that has never faded.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "hấp thụ, thu lượm (kiến thức/kỹ năng) một cách say mê",
+      "example": "As a child, I would soak up every bit of information about dinosaurs, and I still collect paleontology books today.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "throw oneself into",
+      "ipa": "/θrəʊ wʌnˈself ˈɪntuː/",
+      "meaning": "dồn hết tâm trí và nhiệt huyết vào việc gì",
+      "example": "I really threw myself into swimming at a young age, and it remains the only hobby that keeps me grounded.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại (với sự hoài niệm)",
+      "example": "I look back on my early coin collection with great fondness; it's a hobby that taught me the value of patience.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

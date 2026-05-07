@@ -1,0 +1,76 @@
+{
+  "id": "q_23",
+  "vocab": [
+    {
+      "word": "snap up",
+      "ipa": "/snæp ʌp/",
+      "meaning": "chụp nhanh một bức ảnh (khi thấy điều gì thú vị)",
+      "example": "Whenever I'm traveling, I try to snap up as many candid moments as possible to remember the trip.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tinker with",
+      "ipa": "/ˈtɪŋkər wɪð/",
+      "meaning": "chỉnh sửa/vọc vạch (cài đặt máy ảnh hoặc hậu kỳ)",
+      "example": "I love to tinker with the ISO and aperture settings to get the perfect exposure for night shots.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "filter out",
+      "ipa": "/ˈfɪltər aʊt/",
+      "meaning": "lọc bỏ (những yếu tố không mong muốn trong khung hình)",
+      "example": "Using a shallow depth of field helps me filter out the cluttered background and focus on the main subject.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "crop out",
+      "ipa": "/krɒp aʊt/",
+      "meaning": "cắt bỏ (một phần của bức ảnh)",
+      "example": "If a stranger accidentally walks into my shot, I usually just crop them out during post-processing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "play around with",
+      "ipa": "/pleɪ əˈraʊnd wɪð/",
+      "meaning": "thử nghiệm/chơi đùa với (các phong cách/góc độ khác nhau)",
+      "example": "I've been playing around with black and white photography lately to emphasize textures and contrast.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm nổi bật (màu sắc, chi tiết hoặc đặc điểm)",
+      "example": "A bit of saturation can really bring out the vibrant colors of a sunset in a landscape photo.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃoʊ ɔːf/",
+      "meaning": "khoe/trưng bày (những bức ảnh đẹp nhất)",
+      "example": "Social media is a great platform for photographers to show off their best work to a wider audience.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zoom in on",
+      "ipa": "/zuːm ɪn ɑːn/",
+      "meaning": "phóng to/tập trung cận cảnh vào cái gì",
+      "example": "I like to zoom in on the intricate patterns of flowers to capture details that are invisible to the naked eye.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mess up",
+      "ipa": "/mes ʌp/",
+      "meaning": "làm hỏng (một bức ảnh do kỹ thuật kém)",
+      "example": "It's so easy to mess up a great shot if you don't hold the camera steady enough in low light.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sift through",
+      "ipa": "/sɪft θruː/",
+      "meaning": "sàng lọc/chọn lựa kỹ lưỡng (giữa hàng trăm bức ảnh)",
+      "example": "After a day of shooting, I have to sift through hundreds of raw files to find the few that are truly worth keeping.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_43",
+  "vocab": [
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒə(r) ʌp tu/",
+      "meaning": "đạt tới tiêu chuẩn, xứng đáng với (kỳ vọng)",
+      "example": "None of my subsequent tutors could quite measure up to the high standards set by my primary school teacher.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spark off",
+      "ipa": "/spɑːk ɒf/",
+      "meaning": "khơi mào, truyền cảm hứng cho (một sự quan tâm hoặc đam mê)",
+      "example": "It was her enthusiastic lectures that sparked off my lifelong fascination with ancient civilizations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "single out",
+      "ipa": "/ˈsɪŋɡl aʊt/",
+      "meaning": "chọn ra, chú ý đặc biệt đến (ai đó trong một nhóm)",
+      "example": "She had a knack for singling out students who were struggling and providing them with tailored support.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "liven up",
+      "ipa": "/ˈlaɪvn ʌp/",
+      "meaning": "làm cho sôi động, bớt nhàm chán",
+      "example": "He used to liven up his literature classes by having us act out scenes from the plays we were reading.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "rub off on",
+      "ipa": "/rʌb ɒf ɒn/",
+      "meaning": "lan truyền, ảnh hưởng (phẩm chất/thái độ) sang người khác",
+      "example": "I’d like to think that his unwavering optimism and work ethic eventually rubbed off on me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear toward",
+      "ipa": "/ɡɪə(r) təˈwɔːd/",
+      "meaning": "hướng tới, thiết kế phù hợp cho (một đối tượng cụ thể)",
+      "example": "Her teaching style was perfectly geared toward visual learners, which helped me grasp difficult concepts instantly.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "chime in",
+      "ipa": "/tʃaɪm ɪn/",
+      "meaning": "can thiệp, góp lời (trong một cuộc thảo luận sôi nổi)",
+      "example": "He always encouraged us to chime in with our own opinions during his seminars, making us feel heard.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "glance over",
+      "ipa": "/ɡlɑːns ˈəʊvə(r)/",
+      "meaning": "xem lướt qua, kiểm tra nhanh (nhưng vẫn nắm được ý chính)",
+      "example": "She could just glance over a piece of writing and immediately identify exactly where the argument needed strengthening.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "foster in",
+      "ipa": "/ˈfɒstə(r) ɪn/",
+      "meaning": "nuôi dưỡng, thúc đẩy (một phẩm chất/tư duy) bên trong ai đó",
+      "example": "My math teacher helped foster in me a sense of confidence that I had previously lacked.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "win over",
+      "ipa": "/wɪn ˈəʊvə(r)/",
+      "meaning": "thuyết phục, chiếm được cảm tình của ai đó",
+      "example": "Although he was strict, his genuine passion for the subject quickly won over even the most rebellious students.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

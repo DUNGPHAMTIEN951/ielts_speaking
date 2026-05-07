@@ -1,0 +1,50 @@
+{
+  "q": "Describe a beautiful park or garden in your city.",
+  "cue_card": [
+    "A beautiful park or garden in your city.",
+    "Where the park/garden is",
+    "How you know about it",
+    "What it looks like",
+    "And explain why you think it is beautiful"
+  ],
+  "examiner_note": "Mô tả một công viên/khu vườn cần nhiều từ vựng về cảnh quan và thiên nhiên (lush flora, manicured lawns, tranquil oasis). Sử dụng ngôn ngữ hình ảnh (picturesque, breathtaking) để làm nổi bật vẻ đẹp thị giác.",
+  "samples": {
+    "band7": "I'd like to talk about Central Park, which is right in the middle of my city. I know about it because I live very close by and go there often. It is a huge green space with a large lake, many tall trees, and colorful flower beds. There are also benches where people can sit and read. I think it is beautiful because it offers a relaxing and natural environment away from the noisy streets and traffic.",
+    "band8": "I’m going to describe the Botanical Gardens, an exquisite green space situated on the outskirts of my city. I first discovered it through a photography workshop a few years ago. The garden features meticulously manicured lawns, vibrant displays of seasonal orchids, and a serene koi pond lined with weeping willows. The reason I find it to be remarkably beautiful is its tranquil atmosphere. It serves as a picturesque sanctuary that provides a perfect escape from the relentless hustle and bustle of urban life.",
+    "band9": "A genuinely breathtaking locale I frequent is the Metropolitan Symphony Garden, nestled inconspicuously amidst the city's towering skyline. My acquaintance with it stems from a profound personal quest for urban solace. The setting is visually spectacular, characterized by an intricately curated collection of indigenous flora, cascading water features, and meandering cobblestone pathways. I'm utterly captivated by its beauty because it acts as a verdant oasis. The harmonious juxtaposition of delicate, blooming horticulture against the backdrop of imposing steel skyscrapers creates a profound visual and spiritual sanctuary."
+  },
+  "v": [
+    {
+      "word": "Meticulously manicured",
+      "meaning": "Được cắt tỉa/chăm sóc cực kỳ tỉ mỉ (Carefully maintained to look neat and tidy, especially a lawn or garden)",
+      "example": "The estate featured meticulously manicured gardens."
+    },
+    {
+      "word": "Tranquil sanctuary",
+      "meaning": "Khu bảo tồn/nơi trú ẩn thanh bình (A peaceful and calm place of refuge or safety)",
+      "example": "The spa is designed to be a tranquil sanctuary for its guests."
+    },
+    {
+      "word": "Hustle and bustle",
+      "meaning": "Sự hối hả và nhộn nhịp (Busy and noisy activity)",
+      "example": "Sometimes I just need to get away from the hustle and bustle of the city."
+    },
+    {
+      "word": "Curated",
+      "meaning": "Được tuyển chọn kỹ lưỡng (Carefully chosen and thoughtfully organized or presented)",
+      "example": "The museum features a curated collection of contemporary art."
+    },
+    {
+      "word": "Verdant oasis",
+      "meaning": "Ốc đảo xanh tươi (A lush, green area in the midst of a barren or heavily built-up environment)",
+      "example": "The courtyard garden was a verdant oasis in the middle of the desert city."
+    },
+    {
+      "word": "Juxtaposition",
+      "meaning": "Sự đặt cạnh nhau (để làm nổi bật sự tương phản) (The fact of two things being seen or placed close together with contrasting effect)",
+      "example": "The juxtaposition of the ancient ruins and the modern highway was striking."
+    }
+  ],
+  "topic": "Describe a beautiful park or garden in your city.",
+  "id": "p2_q27"
+}

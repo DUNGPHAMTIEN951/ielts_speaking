@@ -1,0 +1,52 @@
+{
+  "id": "q_15",
+  "topic": "Arts and Drawing",
+  "q": "Do you want to visit an art gallery or museum?",
+  "examiner_note": "Nói về kế hoạch hoặc mong muốn. Sử dụng 'iconic works', 'travel list', 'immersive experience'.",
+  "samples": {
+    "band7": {
+      "text": "Absolutely. In fact, I have a few specific museums on my travel list, like the Louvre in Paris. I think seeing iconic works of art in person is a completely different experience than seeing them in books or online.",
+      "note": "Sử dụng ví dụ cụ thể (Louvre) và so sánh tốt (in person vs online)."
+    },
+    "band8": {
+      "text": "Definitely. I’m always eager to explore new galleries and museums. I find that seeing the scale and texture of a piece of art in reality provides a much more profound and memorable experience. It’s something I always try to incorporate into my travel itineraries.",
+      "note": "Sử dụng từ vựng hay (eager, scale, texture, profound, incorporate, itineraries)."
+    },
+    "band9": {
+      "text": "I’m constantly seeking out opportunities to visit renowned art institutions. There’s an undeniable power in standing before a masterpiece and experiencing its emotional impact firsthand. For me, visiting a museum is not just a leisure activity, but an essential part of my cultural and intellectual growth.",
+      "note": "Sử dụng từ vựng ở mức độ cao (renowned, masterpiece, firsthand, institutional, intellectual growth)."
+    }
+  },
+  "v": [
+    {
+      "word": "itinerary",
+      "meaning": "lịch trình chuyến đi",
+      "ipa": "/aɪˈtɪnəreri/",
+      "example": "We have a very busy itinerary for our trip."
+    },
+    {
+      "word": "masterpiece",
+      "meaning": "kiệt tác",
+      "ipa": "/ˈmæstərpiːs/",
+      "example": "The Mona Lisa is a world-famous masterpiece."
+    },
+    {
+      "word": "renowned",
+      "meaning": "nổi tiếng/lừng danh",
+      "ipa": "/rɪˈnaʊnd/",
+      "example": "He is a renowned scientist."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "firsthand",
+      "meaning": "trực tiếp",
+      "ipa": "/ˌfɜːrstˈhænd/",
+      "example": "I saw the impact of the storm firsthand."
+    }
+  ],
+  "similar_questions": [
+    "What is the most interesting museum you have ever visited?",
+    "Why do people go to museums?"
+  ]
+}

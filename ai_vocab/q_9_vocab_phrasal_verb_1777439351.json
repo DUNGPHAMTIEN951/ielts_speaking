@@ -1,0 +1,76 @@
+{
+  "id": "q_9",
+  "vocab": [
+    {
+      "word": "soak in",
+      "ipa": "/səʊk ɪn/",
+      "meaning": "thưởng ngoạn, tận hưởng trọn vẹn (không gian, cảnh vật)",
+      "example": "Before taking out my camera, I like to just soak in the scenery for a few minutes to truly appreciate it.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bəl əˈpɒn/",
+      "meaning": "tình cờ bắt gặp (một khung cảnh đẹp)",
+      "example": "The best photos I’ve ever taken were of hidden waterfalls I happened to stumble upon while hiking.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zoom in on",
+      "ipa": "/zuːm ɪn ɒn/",
+      "meaning": "phóng to, tập trung cận cảnh vào một chi tiết",
+      "example": "I often zoom in on the intricate patterns of the leaves rather than capturing the entire forest.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "filter out",
+      "ipa": "/ˈfɪl.tər aʊt/",
+      "meaning": "loại bỏ (những yếu tố gây nhiễu, không đẹp khỏi khung hình)",
+      "example": "A good photographer knows how to use the lens to filter out any distracting power lines or rubbish in a landscape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off",
+      "ipa": "/set ɒf/",
+      "meaning": "làm nổi bật, làm tôn lên vẻ đẹp của cái gì",
+      "example": "The golden light of the sunset really sets off the red hues of the canyon walls.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toy with",
+      "ipa": "/tɔɪ wɪð/",
+      "meaning": "thử nghiệm, cân nhắc các cách (góc chụp, ánh sáng) khác nhau",
+      "example": "I like to toy with different exposure settings to capture the mood of a misty morning more effectively.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blend in",
+      "ipa": "/blend ɪn/",
+      "meaning": "hòa hợp, hòa lẫn vào (cảnh vật xung quanh)",
+      "example": "I prefer taking photos where modern architecture seems to blend in perfectly with the natural environment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wipe away",
+      "ipa": "/waɪp əˈweɪ/",
+      "meaning": "xóa sạch (những vết bẩn, mây mù - mang nghĩa bóng là làm rõ nét khung cảnh)",
+      "example": "Once the fog started to wipe away, a magnificent mountain peak was finally revealed for my shot.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up on",
+      "ipa": "/pɪk ʌp ɒn/",
+      "meaning": "bắt được, nhận ra (những thay đổi nhỏ về ánh sáng hoặc màu sắc)",
+      "example": "High-end cameras are great because they can pick up on subtle gradients in the sky during twilight.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fizzle out",
+      "ipa": "/ˈfɪz.əl aʊt/",
+      "meaning": "mờ dần, biến mất dần (thường nói về ánh sáng cuối ngày)",
+      "example": "I waited for the harsh midday sun to fizzle out before capturing the soft glow of the evening.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

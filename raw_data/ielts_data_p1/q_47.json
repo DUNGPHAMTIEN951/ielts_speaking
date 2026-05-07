@@ -1,0 +1,72 @@
+{
+  "id": "q_47",
+  "topic": "Studying",
+  "q": "Do you prefer studying alone or with others?",
+  "examiner_note": "Câu hỏi này về phong cách học tập. \n- **Hướng dẫn trả lời**: Bạn có thể chọn học một mình (tập trung cao, chủ động thời gian) hoặc học nhóm (trao đổi ý tưởng, hỗ trợ lẫn nhau). Giải thích lý do tại sao. \n- **Mẹo**: Sử dụng các cụm từ như 'solitary study', 'collaborative learning', 'group discussion', 'distraction-free', 'brainstorming', 'peer support', 'individual pace'.",
+  "samples": {
+    "band7": {
+      "text": "I personally prefer studying alone because it helps me to stay focused and not get distracted by other people talking. I can also choose my own time and place to study, which is very convenient and efficient for me.",
+      "note": "Trả lời rõ ràng, nêu ưu điểm của việc học một mình (tự do, tập trung). Ngôn ngữ tự nhiên."
+    },
+    "band8": {
+      "text": "It really depends on the task at hand. For subjects that require deep concentration like Math, I prefer solitary study. However, for more creative projects, I find collaborative learning to be much more effective as it allows for brainstorming and peer feedback.",
+      "note": "Trả lời linh hoạt ('depends on the task'). Sử dụng từ vựng tốt ('solitary study', 'collaborative learning', 'brainstorming')."
+    },
+    "band9": {
+      "text": "I'm generally inclined towards solitary study, as it allows me to progress at my own individual pace without any external interruptions. That said, I do recognize the immense value of group discussions for broadening my perspective and gaining new insights through peer support.",
+      "note": "Từ vựng ở trình độ rất cao ('inclined towards', 'individual pace', 'immense value', 'broadening perspective', 'insights'). Diễn đạt cực kỳ học thuật và gãy gọn."
+    }
+  },
+  "v": [
+    { "word": "solitary study", "meaning": "việc tự học một mình", "ipa": "/ˈsɒlɪtəri ˈstʌdi/", "example": "I find that solitary study is the best way for me to prepare for final exams." },
+    { "word": "collaborative learning", "meaning": "học tập hợp tác/học nhóm", "ipa": "/kəˈlæbərətɪv ˈlɜːnɪŋ/", "example": "Collaborative learning encourages students to share ideas and support each other." },
+    { "word": "group discussion", "meaning": "thảo luận nhóm", "ipa": "/ɡruːp dɪˈskʌʃn/", "example": "Group discussions can help students gain a deeper understanding of complex topics." },
+    { "word": "distraction-free", "meaning": "không bị xao nhãng", "ipa": "/dɪˈstrækʃn friː/", "example": "I need a distraction-free environment to get my best work done." },
+    { "word": "brainstorming", "meaning": "động não/thảo luận ý tưởng", "ipa": "/ˈbreɪnstɔːmɪŋ/", "example": "We had a productive brainstorming session and came up with many new ideas for the project." },
+    { "word": "peer support", "meaning": "sự hỗ trợ từ bạn bè", "ipa": "/pɪə(r) səˈpɔːt/", "example": "Peer support can be a great source of motivation during stressful times." },
+    { "word": "individual pace", "meaning": "tốc độ cá nhân", "ipa": "/ˌɪndɪˈvɪdʒuəl peɪs/", "example": "One of the advantages of online courses is that you can study at your own individual pace." },
+    { "word": "inclined towards", "meaning": "có khuynh hướng/thiên về", "ipa": "/ɪnˈklaɪnd təˈwɔːdz/", "example": "She is more inclined towards artistic subjects than scientific ones." },
+    { "word": "immense value", "meaning": "giá trị to lớn", "ipa": "/ɪˈmens ˈvæljuː/", "example": "Volunteering can be of immense value both to the community and to the volunteer." },
+    { "word": "broaden one's perspective", "meaning": "mở rộng quan điểm/tầm nhìn", "ipa": "/ˈbrɔːdn wʌnz pəˈspektɪv/", "example": "Traveling to different countries is a great way to broaden your perspective." },
+    { "word": "gain insights", "meaning": "có được cái nhìn sâu sắc/hiểu biết", "ipa": "/ɡeɪn ˈɪnsaɪts/", "example": "The researcher gained valuable insights into the behavior of the animals." },
+    { "word": "external interruption", "meaning": "sự gián đoạn từ bên ngoài", "ipa": "/ɪkˈstɜːnl ˌɪntəˈrʌpʃn/", "example": "I try to minimize external interruptions by turning off my phone notifications." },
+    { "word": "task at hand", "meaning": "nhiệm vụ hiện tại", "ipa": "/tɑːsk ət hænd/", "example": "I need to focus on the task at hand and not worry about future deadlines." },
+    { "word": "concentration", "meaning": "sự tập trung", "ipa": "/ˌkɒnsnˈtreɪʃn/", "example": "Noise from the street was breaking my concentration." },
+    { "word": "productivity", "meaning": "năng suất", "ipa": "/ˌprɒdʌkˈtɪvəti/", "example": "I find that my productivity is highest in the early morning." },
+    { "word": "efficient", "meaning": "hiệu quả", "ipa": "/ɪˈfɪʃnt/", "example": "The new system is much more efficient than the old one." },
+    { "word": "convenient", "meaning": "tiện lợi", "ipa": "/kənˈviːniənt/", "example": "The university library is very convenient for me to study in after class." },
+    { "word": "preferences", "meaning": "sở thích/sự thích hơn", "ipa": "/ˈprefrənsɪz/", "example": "Everyone has different study preferences; some like total silence, while others prefer music." },
+    { "word": "interact", "meaning": "tương tác", "ipa": "/ˌɪntərˈækt/", "example": "The teacher encouraged the students to interact more during the lesson." },
+    { "word": "feedback", "meaning": "phản hồi", "ipa": "/ˈfiːdbæk/", "example": "Constructive feedback is essential for improving your performance." },
+    { "word": "motivation", "meaning": "động lực", "ipa": "/ˌməʊtɪˈveɪʃn/", "example": "Lack of motivation can be a major problem for long-term projects." },
+    { "word": "self-discipline", "meaning": "tự kỷ luật", "ipa": "/ˌself ˈdɪsəplɪn/", "example": "Studying at home requires a lot of self-discipline to avoid distractions." },
+    { "word": "autonomous learning", "meaning": "học tập tự chủ", "ipa": "/ɔːˈtɒnəməs ˈlɜːnɪŋ/", "example": "The school promotes autonomous learning to help students become independent thinkers." },
+    { "word": "peer-to-peer", "meaning": "giữa các cá nhân/bạn bè", "ipa": "/ˌpɪə tu ˈpɪə(r)/", "example": "The school has a peer-to-peer mentoring program for new students." },
+    { "word": "social aspect", "meaning": "khía cạnh xã hội", "ipa": "/ˈəʊʃl ˈæspekt/", "example": "The social aspect of university life is just as important as the academic one." },
+    { "word": "teamwork", "meaning": "làm việc nhóm", "ipa": "/ˈtiːmwɜːk/", "example": "The project was a great opportunity to practice our teamwork skills." },
+    { "word": "cooperative", "meaning": "hợp tác", "ipa": "/kəʊˈɒpərətɪv/", "example": "The two countries are in a cooperative agreement to protect the environment." },
+    { "word": "stimulating", "meaning": "kích thích/thú vị", "ipa": "/ˈstɪmjuleɪtɪŋ/", "example": "The discussion was very stimulating and gave me many new ideas." },
+    { "word": "thought-provoking", "meaning": "gợi suy nghĩ", "ipa": "/ˈθɔːt prəvəʊkɪŋ/", "example": "The film on climate change was very thought-provoking." },
+    { "word": "intellectual exchange", "meaning": "sự trao đổi trí tuệ", "ipa": "/ˌɪntəˈlektʃuəl ɪksˈtʃeɪndʒ/", "example": "Conferences are a great place for intellectual exchange between researchers." },
+    { "word": "diversity of thought", "meaning": "sự đa dạng trong tư duy", "ipa": "/daɪˌvɜːsəti əv θɔːt/", "example": "A successful team benefits from a wide diversity of thought and experience." },
+    { "word": "synergy", "meaning": "sự cộng hưởng", "ipa": "/ˈsɪnədʒi/", "example": "The synergy between the two companies led to a very successful partnership." },
+    { "word": "comprehensive", "meaning": "toàn diện", "ipa": "/ˌkɒmprɪˈhensɪv/", "example": "The report provides a comprehensive analysis of the current market trends." },
+    { "word": "multi-perspective", "meaning": "đa góc nhìn", "ipa": "/ˌmʌlti pəˈspektɪv/", "example": "The historical project aims to provide a multi-perspective view of the conflict." },
+    { "word": "analytical", "meaning": "thuộc về phân tích", "ipa": "/ˌænəˈlɪtɪkl/", "example": "She has a very logical and analytical mind." },
+    { "word": "critical", "meaning": "thuộc về phê bình/phản biện", "ipa": "/ˈkrɪtɪkl/", "example": "It's important to develop critical reading skills to avoid being misled by fake news." },
+    { "word": "objective", "meaning": "khách quan", "ipa": "/əbˈdʒektɪv/", "example": "Scientists try to remain objective and unbiased in their research." },
+    { "word": "subjective", "meaning": "chủ quan", "ipa": "/səbˈdʒektɪv/", "example": "Our interpretation of art is often very subjective and personal." },
+    { "word": "independent", "meaning": "độc lập", "ipa": "/ˌɪndɪˈpendənt/", "example": "He's very independent and likes to do things his own way." },
+    { "word": "supportive", "meaning": "có tính hỗ trợ", "ipa": "/səˈpɔːtɪv/", "example": "I'm lucky to have a very supportive group of friends." },
+    { "word": "encouraging", "meaning": "khuyến khích", "ipa": "/ɪnˈkʌrɪdʒɪŋ/", "example": "The positive feedback I received was very encouraging." },
+    { "word": "challenging", "meaning": "đầy thử thách", "ipa": "/ˈtʃælɪndʒɪŋ/", "example": "Learning to play the violin is a challenging but rewarding process." },
+    { "word": "satisfying", "meaning": "thỏa mãn", "ipa": "/ˈsætɪsfaɪɪŋ/", "example": "Finishing the marathon was the most satisfying achievement of my life." },
+    { "word": "fulfillment", "meaning": "sự mãn nguyện", "ipa": "/fʊlˈfɪlmənt/", "example": "Helping others brings her a great sense of personal fulfillment." },
+    { "word": "engagement", "meaning": "sự tham gia/cam kết", "ipa": "/ɪnˈɡeɪdʒmənt/", "example": "High levels of student engagement are linked to better academic outcomes." },
+    { "word": "interaction", "meaning": "sự tương tác", "ipa": "/ˌɪntərˈækʃn/", "example": "Social interaction is essential for human well-being." },
+    { "word": "connection", "meaning": "sự kết nối", "ipa": "/kəˈnekʃn/", "example": "She felt a strong connection with the local community." },
+    { "word": "harmonious", "meaning": "hài hòa", "ipa": "/hɑːˈməʊniəs/", "example": "The team worked well together in a very harmonious way." },
+    { "word": "collaborative", "meaning": "có tính hợp tác", "ipa": "/kəˈlæbərətɪv/", "example": "The software allows for collaborative editing of documents in real-time." },
+    { "word": "individualistic", "meaning": "mang tính cá nhân hóa", "ipa": "/ˌɪndɪˌvɪdʒuəˈlɪstɪk/", "example": "Some cultures are more individualistic, while others are more community-oriented." }
+  ]
+}

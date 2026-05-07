@@ -1,0 +1,76 @@
+{
+  "id": "q_27",
+  "vocab": [
+    {
+      "word": "climb the corporate ladder",
+      "ipa": "/klaɪm ðə ˈkɔːrpərət ˈlædər/",
+      "meaning": "thăng tiến trong sự nghiệp, tiến lên các vị trí cao hơn trong công ty",
+      "example": "I've been working as a junior developer for a year, and my ultimate goal is to climb the corporate ladder.",
+      "type": "idiom"
+    },
+    {
+      "word": "burn the midnight oil",
+      "ipa": "/bɜːrn ðə ˈmɪdnaɪt ɔɪl/",
+      "meaning": "thức khuya để học bài hoặc làm việc",
+      "example": "As a final-year student, I often have to burn the midnight oil to complete my thesis on time.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit the books",
+      "ipa": "/hɪt ðə bʊks/",
+      "meaning": "bắt đầu học tập một cách nghiêm túc",
+      "example": "I'm currently a student, and since the exams are just around the corner, I really need to hit the books.",
+      "type": "idiom"
+    },
+    {
+      "word": "be gainfully employed",
+      "ipa": "/bi ˈɡeɪnfəli ɪmˈplɔɪd/",
+      "meaning": "có một công việc ổn định với mức lương xứng đáng",
+      "example": "After graduating last June, I am now gainfully employed as a marketing executive at a tech firm.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep one's head above water",
+      "ipa": "/kiːp wʌnz hed əˈbʌv ˈwɔːtər/",
+      "meaning": "xoay xở để vượt qua khó khăn (tài chính hoặc khối lượng công việc)",
+      "example": "I'm working and studying simultaneously, so it's quite a struggle to keep my head above water.",
+      "type": "idiom"
+    },
+    {
+      "word": "learn the ropes",
+      "ipa": "/lɜːrn ðə roʊps/",
+      "meaning": "học cách làm một công việc gì đó mới mẻ",
+      "example": "I've just started my first job, so I'm still learning the ropes of the hospitality industry.",
+      "type": "idiom"
+    },
+    {
+      "word": "the best of both worlds",
+      "ipa": "/ðə best əv boʊθ wɜːrldz/",
+      "meaning": "tận dụng được ưu điểm của cả hai hoàn cảnh khác nhau",
+      "example": "Working part-time while studying gives me the best of both worlds: academic knowledge and practical experience.",
+      "type": "idiom"
+    },
+    {
+      "word": "pass with flying colors",
+      "ipa": "/pæs wɪð ˈflaɪɪŋ ˈkʌlərz/",
+      "meaning": "vượt qua kỳ thi với điểm số rất cao",
+      "example": "I'm a medical student, and I'm working hard to pass my upcoming clinical exams with flying colors.",
+      "type": "idiom"
+    },
+    {
+      "word": "a jack of all trades",
+      "ipa": "/ə dʒæk əv ɔːl treɪdz/",
+      "meaning": "người đa năng, cái gì cũng biết làm (nhưng có thể không chuyên sâu)",
+      "example": "In my current startup role, I have to be a jack of all trades, handling everything from design to sales.",
+      "type": "idiom"
+    },
+    {
+      "word": "spread oneself too thin",
+      "ipa": "/spred wʌnˈself tuː θɪn/",
+      "meaning": "ôm đồm quá nhiều việc cùng một lúc đến mức không hiệu quả",
+      "example": "I'm a student who also holds two part-time jobs; sometimes I feel like I'm spreading myself too thin.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

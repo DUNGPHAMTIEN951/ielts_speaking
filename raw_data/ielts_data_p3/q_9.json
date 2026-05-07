@@ -1,0 +1,52 @@
+{
+  "id": "q_9",
+  "topic": "Walking",
+  "q": "Where did you go for a walk lately?",
+  "examiner_note": "Mô tả một sự kiện gần đây. Sử dụng 'leisurely stroll', 'tranquil', 'reflect on the day', 'unwinding'.",
+  "samples": {
+    "band7": {
+      "text": "Just last evening, I took a leisurely stroll around a small lake near my house. It was a beautiful, clear night, and the reflection of the moon on the water was very tranquil. It was exactly what I needed after a busy day.",
+      "note": "Mô tả chi tiết và sử dụng từ vựng tốt (leisurely stroll, reflection, tranquil)."
+    },
+    "band8": {
+      "text": "A few days ago, I decided to wander through the local botanical gardens. The vibrant colors of the flowers and the serene atmosphere provided a much-needed respite from the urban chaos. It was the perfect setting for unwinding and clearing my head.",
+      "note": "Sử dụng từ vựng phong phú (botanical gardens, serene, respite, urban chaos)."
+    },
+    "band9": {
+      "text": "Most recently, I ventured out to a nearby nature reserve during the golden hour. The interplay of light and shadow among the trees was mesmerizing, and the silence was only broken by the occasional birdsong. It was an incredibly grounding experience that allowed me to reflect on my week in total peace.",
+      "note": "Sử dụng ngôn ngữ văn chương và từ vựng tinh tế (ventured, golden hour, interplay, mesmerizing, grounding)."
+    }
+  },
+  "v": [
+    {
+      "word": "respite",
+      "meaning": "sự nghỉ ngơi/tạm nghỉ",
+      "ipa": "/ˈrespɪt/",
+      "example": "The weekend provided a brief respite from work."
+    },
+    {
+      "word": "mesmerizing",
+      "meaning": "mê hoặc/quyến rũ",
+      "ipa": "/ˈmezməraɪzɪŋ/",
+      "example": "The view from the top was mesmerizing."
+    },
+    {
+      "word": "grounding",
+      "meaning": "giúp giữ thăng bằng/thực tế",
+      "ipa": "/ˈɡraʊndɪŋ/",
+      "example": "Gardening is a very grounding activity."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "interplay",
+      "meaning": "sự tác động qua lại",
+      "ipa": "/ˈɪntərpleɪ/",
+      "example": "The film explores the interplay between love and hate."
+    }
+  ],
+  "similar_questions": [
+    "How do you feel after a walk?",
+    "Do you usually walk alone or with others?"
+  ]
+}

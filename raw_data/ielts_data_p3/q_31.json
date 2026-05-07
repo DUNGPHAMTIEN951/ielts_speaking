@@ -1,0 +1,52 @@
+{
+  "id": "q_31",
+  "topic": "Shoes",
+  "q": "How much money do you usually spend on shoes?",
+  "examiner_note": "Nói về ngân sách. Sử dụng 'moderate amount', 'investment', 'foot health', 'budget-conscious'.",
+  "samples": {
+    "band7": {
+      "text": "I usually spend a moderate amount, maybe around 1 to 2 million VND for a good quality pair that I know will last me a long time. I see it more as an investment in my comfort and foot health rather than just an expense.",
+      "note": "Sử dụng từ vựng thực tế và giải thích lý do (moderate amount, investment)."
+    },
+    "band8": {
+      "text": "I’m willing to invest a bit more in footwear, as I believe quality is paramount. I typically budget between 3 to 5 million VND for a durable and stylish pair. I’d rather have one excellent set of shoes that lasts for years than multiple cheap ones that fall apart quickly.",
+      "note": "Sử dụng từ vựng mạnh (paramount, durable, fall apart)."
+    },
+    "band9": {
+      "text": "I tend to be quite discerning with my spending on shoes. While I’m not extravagant, I prioritize long-term value and ergonomic support. I don't mind paying a premium for well-crafted pieces from reputable brands, as I consider them a vital component of my overall well-being and professional image.",
+      "note": "Sử dụng từ vựng ở mức độ cao (discerning, extravagant, reputable, component)."
+    }
+  },
+  "v": [
+    {
+      "word": "discerning",
+      "meaning": "sáng suốt/có óc thẩm mỹ",
+      "ipa": "/dɪˈsɜːrnɪŋ/",
+      "example": "He is a discerning customer."
+    },
+    {
+      "word": "extravagant",
+      "meaning": "phung phí/xa hoa",
+      "ipa": "/ɪkˈstrævəɡənt/",
+      "example": "It was an extravagant wedding."
+    },
+    {
+      "word": "reputable",
+      "meaning": "có uy tín",
+      "ipa": "/ˈrepjətəbl/",
+      "example": "You should always buy from a reputable dealer."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "paramount",
+      "meaning": "tối quan trọng",
+      "ipa": "/ˈpærəmaʊnt/",
+      "example": "The safety of the passengers is paramount."
+    }
+  ],
+  "similar_questions": [
+    "Is it worth spending a lot of money on shoes?",
+    "Where do you usually buy your shoes?"
+  ]
+}

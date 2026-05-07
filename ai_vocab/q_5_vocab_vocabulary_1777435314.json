@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "a brisk pace",
+      "ipa": "/ə brɪsk peɪs/",
+      "meaning": "tốc độ nhanh, dứt khoát",
+      "example": "I try to maintain a brisk pace when walking to the office to get my heart rate up.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "pedestrian-friendly",
+      "ipa": "/pəˈdes.tri.ən ˈfrend.li/",
+      "meaning": "thân thiện với người đi bộ",
+      "example": "My neighborhood is exceptionally pedestrian-friendly, with wide pavements and plenty of greenery.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "sedentary lifestyle",
+      "ipa": "/ˈsed.ən.ter.i ˈlaɪf.staɪl/",
+      "meaning": "lối sống ít vận động",
+      "example": "Walking is my primary way to combat a sedentary lifestyle caused by sitting at a desk all day.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "clear my head",
+      "ipa": "/klɪər maɪ hed/",
+      "meaning": "thanh thản đầu óc, giải tỏa căng thẳng",
+      "example": "Whenever I feel overwhelmed with work, a long stroll in the park helps me clear my head.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "within walking distance",
+      "ipa": "/wɪˈðɪn ˈwɔː.kɪŋ ˈdɪs.təns/",
+      "meaning": "ở khoảng cách có thể đi bộ được",
+      "example": "I'm lucky that most essential amenities like the grocery store are within walking distance of my home.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "clock up",
+      "ipa": "/klɒk ʌp/",
+      "meaning": "đạt được một con số cụ thể (về quãng đường/bước chân)",
+      "example": "On a typical weekend, I can easily clock up over 15,000 steps while exploring the city.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "on foot",
+      "ipa": "/ɒn fʊt/",
+      "meaning": "đi bộ (thay vì dùng phương tiện)",
+      "example": "I prefer traveling on foot because it allows me to discover hidden gems that I’d miss if I were driving.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "low-impact exercise",
+      "ipa": "/ləʊ ˈɪm.pækt ˈek.sə.saɪz/",
+      "meaning": "bài tập cường độ thấp, ít gây áp lực lên khớp",
+      "example": "As a form of low-impact exercise, walking is perfect for staying fit without risking injury.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "meander through",
+      "ipa": "/miˈæn.dər θruː/",
+      "meaning": "đi dạo thong dong, ngoằn ngoèo qua",
+      "example": "I love to meander through the narrow alleys of the old town during my Sunday mornings.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "carbon footprint",
+      "ipa": "/ˈkɑː.bən ˈfʊt.prɪnt/",
+      "meaning": "dấu chân carbon (lượng khí thải cá nhân)",
+      "example": "Choosing to walk instead of taking a taxi is a simple way for me to reduce my carbon footprint.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

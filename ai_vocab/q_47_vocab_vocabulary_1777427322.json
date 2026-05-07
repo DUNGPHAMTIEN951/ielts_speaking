@@ -1,0 +1,76 @@
+{
+  "id": "q_47",
+  "vocab": [
+    {
+      "word": "urban sprawl",
+      "ipa": "/ˈɜːrbən sprɔːl/",
+      "meaning": "sự mở rộng đô thị tràn lan",
+      "example": "Due to rapid urban sprawl, our neighborhood has become a concrete jungle, leaving almost no room for parks.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "communal cohesion",
+      "ipa": "/kəˈmjuːnl koʊˈhiːʒn/",
+      "meaning": "sự gắn kết cộng đồng",
+      "example": "Having more shared spaces would undoubtedly bolster communal cohesion among people from different backgrounds.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "recreational hub",
+      "ipa": "/ˌrekriˈeɪʃənl hʌb/",
+      "meaning": "trung tâm/điểm nóng vui chơi giải trí",
+      "example": "I would love to see a recreational hub nearby where teenagers can engage in sports instead of staying indoors.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "scarcity of",
+      "ipa": "/ˈskersəti əv/",
+      "meaning": "sự khan hiếm/thiếu hụt",
+      "example": "There is a noticeable scarcity of open-air squares in this district, which makes it feel quite suffocating.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "leisure amenities",
+      "ipa": "/ˈleʒər əˈmenətiz/",
+      "meaning": "các tiện ích giải trí",
+      "example": "The government should prioritize the development of leisure amenities to cater to the growing local population.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "greenery-starved",
+      "ipa": "/ˈɡriːnəri stɑːrvd/",
+      "meaning": "khát mảng xanh/thiếu thốn cây xanh",
+      "example": "Living in a greenery-starved environment can have a detrimental effect on one's psychological well-being.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "multipurpose facility",
+      "ipa": "/ˌmʌltiˈpɜːrpəs fəˈsɪləti/",
+      "meaning": "cơ sở đa năng",
+      "example": "A multipurpose facility could serve as both a library during the day and a community center in the evening.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "enhance livability",
+      "ipa": "/ɪnˈhæns ˌlɪvəˈbɪləti/",
+      "meaning": "nâng cao chất lượng sống/khả năng đáng sống",
+      "example": "Adding more benches and fountains would greatly enhance the livability of the downtown area.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "stagnant atmosphere",
+      "ipa": "/ˈstæɡnənt ˈætməsfɪr/",
+      "meaning": "bầu không khí trì trệ/tẻ nhạt",
+      "example": "The current lack of public squares contributes to a somewhat stagnant atmosphere in our residential complex.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "reclaim public space",
+      "ipa": "/rɪˈkleɪm ˈpʌblɪk speɪs/",
+      "meaning": "cải tạo/lấy lại không gian công cộng",
+      "example": "There is a growing movement to reclaim public space from abandoned parking lots and turn them into gardens.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

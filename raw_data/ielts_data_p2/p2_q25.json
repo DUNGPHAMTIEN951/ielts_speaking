@@ -1,0 +1,50 @@
+{
+  "q": "Describe a difficult challenge you faced.",
+  "cue_card": [
+    "A difficult challenge you faced.",
+    "What the challenge was",
+    "When and where you faced it",
+    "How you overcame it",
+    "And explain how you felt about this experience"
+  ],
+  "examiner_note": "Chủ đề về sự thử thách cần sử dụng từ vựng về sự kiên cường (perseverance, resilience) và việc vượt qua chướng ngại vật (overcome obstacles, tackle head-on). Giới thiệu quá trình chuyển đổi từ cảm giác lo âu sang tự hào (apprehensive, sense of accomplishment).",
+  "samples": {
+    "band7": "I would like to describe a time when I had to pass a very difficult math exam in university. It was during my second year. I have always been bad at math, so this was a huge challenge for me. I overcame it by studying with a tutor every weekend and doing lots of practice tests. It was very stressful, but when I finally passed the exam, I felt extremely happy and proud of my hard work.",
+    "band8": "I’m going to talk about a significant challenge I faced during my first year at university: delivering a lengthy presentation in front of a large audience. Public speaking had always triggered intense anxiety for me. To tackle this, I joined a local debate club and practiced my speech relentlessly in front of a mirror and close friends. Although I was incredibly apprehensive beforehand, successfully delivering the presentation gave me an immense sense of accomplishment and significantly boosted my self-confidence.",
+    "band9": "A formidable challenge I confronted was leading a high-stakes, international project during my previous employment. The endeavor was fraught with logistical hurdles, tight deadlines, and complex cross-cultural communication gaps. I tackled these issues head-on by demonstrating unwavering perseverance, fostering transparent communication channels, and delegating tasks strategically based on team members' core competencies. Initially, the pressure was palpably overwhelming. However, navigating this labyrinthine task not only honed my leadership acumen but also instilled a profound sense of resilience and professional efficacy within me."
+  },
+  "v": [
+    {
+      "word": "Formidable challenge",
+      "meaning": "Thử thách cam go/đáng gờm (Inspiring fear or respect through being impressively large, powerful, intense, or capable)",
+      "example": "He faced a formidable challenge in the final match."
+    },
+    {
+      "word": "Fraught with",
+      "meaning": "Đầy rẫy (nguy hiểm/khó khăn) (Filled with or likely to result in something undesirable)",
+      "example": "The journey was fraught with danger and unexpected delays."
+    },
+    {
+      "word": "Tackle head-on",
+      "meaning": "Đối mặt trực tiếp/giải quyết quyết liệt (To confront a problem directly and with determination)",
+      "example": "We need to tackle the issue of climate change head-on."
+    },
+    {
+      "word": "Unwavering perseverance",
+      "meaning": "Sự kiên trì không lay chuyển (Continuous and steady effort to achieve a goal despite difficulties)",
+      "example": "Her unwavering perseverance finally paid off when she got the scholarship."
+    },
+    {
+      "word": "Apprehensive",
+      "meaning": "Lo lắng, e sợ (Anxious or fearful that something bad or unpleasant will happen)",
+      "example": "I felt quite apprehensive about taking the advanced driving test."
+    },
+    {
+      "word": "Acumen",
+      "meaning": "Sự nhạy bén, sắc sảo (The ability to make good judgments and quick decisions, typically in a particular domain)",
+      "example": "His sharp business acumen led the company to massive profits."
+    }
+  ],
+  "topic": "Describe a difficult challenge you faced.",
+  "id": "p2_q25"
+}

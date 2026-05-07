@@ -1,0 +1,72 @@
+{
+  "id": "q_2",
+  "topic": "Hobbies",
+  "q": "Do you have a hobby that you've had since childhood?",
+  "examiner_note": "Trong câu hỏi này, giám khảo muốn nghe về sự bền bỉ (persistence) hoặc sự thay đổi trong sở thích của bạn từ nhỏ đến lớn. Bạn nên sử dụng các thì quá khứ (Past Simple) để kể về khởi đầu và thì hiện tại hoàn thành (Present Perfect) để nói về việc duy trì sở thích đó. Các cụm từ như 'stand the test of time', 'from an early age', 'be a lifelong passion' rất hữu ích.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I’ve been playing the piano since I was about seven years old. It started as a mandatory lesson my parents signed me up for, but over time, I grew to love it. Although I don't practice as much as I used to, it’s still a great way for me to relax.",
+      "note": "Sử dụng tốt thì hiện tại hoàn thành tiếp diễn. Có sự giải thích về quá trình phát triển sở thích."
+    },
+    "band8": {
+      "text": "Absolutely. Reading has been a constant in my life since I was a toddler. My parents used to read me bedtime stories, and that sparked a lifelong passion for literature. Even with the distractions of the digital age, I still find myself getting lost in a good novel whenever I have a spare moment. It’s a hobby that has truly stood the test of time.",
+      "note": "Sử dụng các cụm từ nâng cao như 'a constant in my life', 'sparked a lifelong passion', 'stood the test of time'. Diễn đạt mạch lạc."
+    },
+    "band9": {
+      "text": "Indeed, my fascination with sketching originated in my early childhood. I recall spending countless hours doodling in the margins of my notebooks. What began as a mere pastime has evolved into a sophisticated pursuit of digital illustration. While my techniques have undoubtedly matured, that fundamental sense of joy I derive from creating something from scratch remains unchanged. It’s more than just a hobby; it’s an integral part of my identity.",
+      "note": "Từ vựng ở mức độ C2 (originated, pastime, evolved, matured, derive, integral part). Cách lập luận sâu sắc và thể hiện sự gắn kết chặt chẽ với sở thích."
+    }
+  },
+  "v": [
+    { "word": "stand the test of time", "meaning": "trường tồn với thời gian", "ipa": "/stænd ðə test əv taɪm/", "example": "Classic hobbies like chess have stood the test of time." },
+    { "word": "from an early age", "meaning": "từ khi còn nhỏ", "ipa": "/frəm ən ˈɜːrli eɪdʒ/", "example": "I showed an interest in music from an early age." },
+    { "word": "lifelong passion", "meaning": "đam mê cả đời", "ipa": "/ˈlaɪflɔːŋ ˈpæʃn/", "example": "Swimming has been a lifelong passion of mine." },
+    { "word": "toddler", "meaning": "trẻ mới biết đi (1-3 tuổi)", "ipa": "/ˈtɑːdlər/", "example": "I've loved drawing ever since I was a toddler." },
+    { "word": "spark an interest", "meaning": "khơi dậy sự hứng thú", "ipa": "/spɑːrkt ən ˈɪntrəst/", "example": "The trip to the museum sparked my interest in history." },
+    { "word": "digital age", "meaning": "kỷ nguyên số", "ipa": "/ˈdɪdʒɪtl eɪdʒ/", "example": "In the digital age, many kids prefer video games to traditional toys." },
+    { "word": "get lost in", "meaning": "đắm chìm vào", "ipa": "/ɡet lɔːst ɪn/", "example": "I can easily get lost in a good mystery novel." },
+    { "word": "stuck with", "meaning": "gắn bó với", "ipa": "/stʌk wɪð/", "example": "I've stuck with karate for over ten years now." },
+    { "word": "pastime", "meaning": "trò tiêu khiển/giải trí", "ipa": "/ˈpæstaɪm/", "example": "Collecting stamps used to be a common pastime." },
+    { "word": "evolve into", "meaning": "phát triển thành", "ipa": "/ɪˈvɑːlv ˈɪntuː/", "example": "My photography hobby has evolved into a part-time job." },
+    { "word": "derive joy from", "meaning": "tìm thấy niềm vui từ", "ipa": "/dɪˈraɪv dʒɔɪ frəm/", "example": "I derive a lot of joy from baking for my friends." },
+    { "word": "from scratch", "meaning": "từ con số không", "ipa": "/frəm skrætʃ/", "example": "I love building model planes from scratch." },
+    { "word": "integral part", "meaning": "phần không thể thiếu", "ipa": "/ˈɪntɪɡrəl pɑːrt/", "example": "Music is an integral part of my daily routine." },
+    { "word": "reminisce about", "meaning": "hồi tưởng về", "ipa": "/ˌremɪˈnɪs əˈbaʊt/", "example": "We love to reminisce about our childhood games." },
+    { "word": "nostalgic", "meaning": "hoài niệm", "ipa": "/nəˈstældʒɪk/", "example": "Seeing old toys makes me feel very nostalgic." },
+    { "word": "formative years", "meaning": "những năm tháng hình thành tính cách", "ipa": "/ˈfɔːrmətɪv jɪrz/", "example": "I spent my formative years learning to play violin." },
+    { "word": "upbringing", "meaning": "sự nuôi dưỡng", "ipa": "/ˈʌpˌbrɪŋɪŋ/", "example": "My artistic upbringing influenced my choice of hobbies." },
+    { "word": "nurture", "meaning": "nuôi dưỡng", "ipa": "/ˈnɜːrtʃər/", "example": "My parents nurtured my love for science." },
+    { "word": "gifted", "meaning": "có năng khiếu", "ipa": "/ˈɡɪftɪd/", "example": "He was a gifted pianist even as a child." },
+    { "word": "precious memory", "meaning": "kỷ niệm quý giá", "ipa": "/ˈpreʃəs ˈmeməri/", "example": "Painting with my dad is a precious memory of mine." },
+    { "word": "childhood sweetheart", "meaning": "người yêu thời thơ ấu", "ipa": "/ˈtʃaɪldhʊd ˈswiːthɑːrt/", "example": "We were childhood sweethearts who shared the same hobbies." },
+    { "word": "old-fashioned", "meaning": "lỗi thời/cổ hủ", "ipa": "/ˌoʊld ˈfæʃnd/", "example": "I still enjoy old-fashioned hobbies like wood carving." },
+    { "word": "time-consuming", "meaning": "tốn thời gian", "ipa": "/ˈtaɪm kənˈsuːmɪŋ/", "example": "Knitting can be quite time-consuming but rewarding." },
+    { "word": "stress-reliever", "meaning": "thứ giúp giải tỏa căng thẳng", "ipa": "/stres rɪˈliːvər/", "example": "Exercise is the best stress-reliever for me." },
+    { "word": "hobbyist", "meaning": "người làm vì sở thích", "ipa": "/ˈhɑːbiɪst/", "example": "He's a keen amateur photographer and hobbyist." },
+    { "word": "amateur", "meaning": "nghiệp dư", "ipa": "/ˈæmətər/", "example": "I'm just an amateur painter, not a professional." },
+    { "word": "enthusiasm", "meaning": "sự nhiệt huyết", "ipa": "/ɪnˈθuːziæzəm/", "example": "She approaches every new hobby with great enthusiasm." },
+    { "word": "dedication", "meaning": "sự tận tâm/cống hiến", "ipa": "/ˌdedɪˈkeɪʃn/", "example": "Success in any hobby requires time and dedication." },
+    { "word": "attain", "meaning": "đạt được", "ipa": "/əˈteɪn/", "example": "It takes years to attain mastery in martial arts." },
+    { "word": "mastery", "meaning": "sự thành thục/bậc thầy", "ipa": "/ˈmæstəri/", "example": "He achieved mastery of the language through constant practice." },
+    { "word": "persistent", "meaning": "kiên trì", "ipa": "/pərˈsɪstənt/", "example": "You have to be persistent to learn a new instrument." },
+    { "word": "perseverance", "meaning": "/ˌpɜːrsəˈvɪərəns/", "ipa": "sự kiên trì nhẫn nại", "example": "Learning to code requires a lot of perseverance." },
+    { "word": "hobby horse", "meaning": "chủ đề yêu thích/quen thuộc", "ipa": "/ˈhɑːbi hɔːrs/", "example": "Don't get him started on politics; it's his favorite hobby horse." },
+    { "word": "busy as a bee", "meaning": "bận rộn như một chú ong", "ipa": "/ˈbɪzi əz ə biː/", "example": "I've been busy as a bee with my new gardening project." },
+    { "word": "labor of love", "meaning": "công việc làm vì đam mê (không vì tiền)", "ipa": "/ˈleɪbər əv lʌv/", "example": "Building this website was a true labor of love." },
+    { "word": "all work and no play", "meaning": "chỉ làm mà không chơi (làm mụ mị đầu óc)", "ipa": "/ɔːl wɜːrk ənd noʊ pleɪ/", "example": "You need a hobby; all work and no play makes Jack a dull boy." },
+    { "word": "loose end", "meaning": "thời gian rảnh rỗi (không biết làm gì)", "ipa": "/luːs end/", "example": "If you're at a loose end this weekend, come help me paint." },
+    { "word": "variety is the spice of life", "meaning": "thay đổi là hương vị cuộc sống", "ipa": "/vəˈraɪəti ɪz ðə spaɪs əv laɪf/", "example": "I like trying different hobbies because variety is the spice of life." },
+    { "word": "kill two birds with one stone", "meaning": "một mũi tên trúng hai đích", "ipa": "/kɪl tuː bɜːrdz wɪð wʌn stoʊn/", "example": "Cycling to work kills two birds with one stone: exercise and transport." },
+    { "word": "back to basics", "meaning": "quay lại với những điều cơ bản", "ipa": "/bæk tə ˈbeɪsɪks/", "example": "Sometimes it's good to go back to basics and just enjoy nature." },
+    { "word": "burn the candle at both ends", "meaning": "làm việc quá sức", "ipa": "/bɜːrn ðə ˈkændl æt boʊθ endz/", "example": "Don't burn the candle at both ends with too many hobbies." },
+    { "word": "take a breather", "meaning": "nghỉ xả hơi", "ipa": "/teɪk ə ˈbriːðər/", "example": "I need to take a breather after that long hike." },
+    { "word": "chill out", "meaning": "thư giãn", "ipa": "/tʃɪl aʊt/", "example": "We usually just chill out and watch movies on Sundays." },
+    { "word": "blow off steam", "meaning": "xả hơi/giải tỏa áp lực", "ipa": "/bloʊ ɔːf stiːm/", "example": "I go boxing to blow off steam after a tough week." },
+    { "word": "reinvigorate", "meaning": "tiếp thêm sinh lực", "ipa": "/ˌriːɪnˈvɪɡəreɪt/", "example": "A quick nap can reinvigorate you for your evening hobbies." },
+    { "word": "freetime", "meaning": "thời gian rảnh", "ipa": "/ˈfriː taɪm/", "example": "In my freetime, I enjoy playing chess." },
+    { "word": "spare time", "meaning": "thời gian rảnh rỗi", "ipa": "/sper taɪm/", "example": "What do you usually do in your spare time?" },
+    { "word": "at your leisure", "meaning": "vào lúc bạn rảnh/thong thả", "ipa": "/æt jɔːr ˈliːʒər/", "example": "You can browse the collection at your leisure." },
+    { "word": "recreational", "meaning": "có tính chất giải trí", "ipa": "/ˌrekriˈeɪʃənl/", "example": "The park offers many recreational activities." },
+    { "word": "gratification", "meaning": "sự hài lòng/thỏa mãn", "ipa": "/ˌɡrætɪfɪˈkeɪʃn/", "example": "Hobbies provide a sense of immediate gratification." }
+  ]
+}

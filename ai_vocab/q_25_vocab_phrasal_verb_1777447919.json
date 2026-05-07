@@ -1,0 +1,76 @@
+{
+  "id": "q_25",
+  "vocab": [
+    {
+      "word": "sort through",
+      "ipa": "/sɔːrt θruː/",
+      "meaning": "kiểm tra, phân loại đồ đạc",
+      "example": "Every morning, I have to sort through my bag to ensure I haven't forgotten my charger or office ID.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pack away",
+      "ipa": "/pæk əˈweɪ/",
+      "meaning": "cất đồ đạc vào vị trí cũ (thường sau khi dùng xong)",
+      "example": "When evening comes, I pack away my heavy textbooks and only carry a small pouch for my personal essentials.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toss in",
+      "ipa": "/tɒs ɪn/",
+      "meaning": "bỏ nhanh cái gì đó vào túi",
+      "example": "If I'm heading out for a quick dinner in the evening, I'll just toss in my wallet and phone into a light jacket pocket.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig around for",
+      "ipa": "/dɪɡ əˈraʊnd fər/",
+      "meaning": "lục lọi tìm kiếm thứ gì đó (trong túi)",
+      "example": "My morning backpack is so cluttered with work gear that I often have to dig around for my house keys.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lighten up",
+      "ipa": "/ˈlaɪtn ʌp/",
+      "meaning": "làm cho nhẹ bớt (túi xách/gánh nặng)",
+      "example": "I prefer to lighten up my load in the evening by leaving my bulky laptop at the office.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fumble for",
+      "ipa": "/ˈfʌmbl fər/",
+      "meaning": "loay hoay, tìm kiếm vụng về (thường là tìm chìa khóa trong tối)",
+      "example": "In the evening, I usually keep my keys in an outer pocket so I don't have to fumble for them in the dark.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set aside",
+      "ipa": "/set əˈsaɪd/",
+      "meaning": "để riêng ra, không mang theo nữa",
+      "example": "Once the workday ends, I set aside my professional documents and switch to a much smaller clutch.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bundle up",
+      "ipa": "/ˈbʌndl ʌp/",
+      "meaning": "gom lại, gói ghém lại",
+      "example": "In the morning, I bundle up all my gym clothes and sneakers into a separate compartment of my rucksack.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head out with",
+      "ipa": "/hed aʊt wɪð/",
+      "meaning": "ra ngoài cùng với những thứ gì",
+      "example": "I typically head out with a full survival kit in the morning, including an umbrella and a power bank.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hand off",
+      "ipa": "/hænd ɒf/",
+      "meaning": "bàn giao lại (đồ đạc/trách nhiệm)",
+      "example": "I usually hand off my heavy groceries to my brother in the evening so I can carry just my small handbag.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "q_46",
+  "topic": "Public places",
+  "q": "Have you ever talked with someone you don't know in public places?",
+  "examiner_note": "Nói về giao tiếp xã hội. Sử dụng 'occasionally', 'brief moment', 'human connection', 'spontaneous'.",
+  "samples": {
+    "band7": {
+      "text": "Occasionally, yes. I’ve had some very interesting conversations with strangers while waiting for a bus or sitting in a park. I think it’s a nice way to share a brief moment of human connection and learn something new from someone else.",
+      "note": "Trả lời tự nhiên và tích cực (Occasionally, brief moment, human connection)."
+    },
+    "band8": {
+      "text": "I’ve had quite a few spontaneous interactions with people I don’t know. Whether it’s asking for directions or just making a quick comment about the weather, I find that these small exchanges can be very rewarding and help to make the city feel more friendly and inclusive.",
+      "note": "Sử dụng từ vựng hay (spontaneous, interactions, rewarding, inclusive)."
+    },
+    "band9": {
+      "text": "I find that engaging in brief, lighthearted conversations with strangers can be an incredibly enriching experience. It offers a fresh perspective and a sense of shared humanity that is often lost in our busy daily lives. I value these unexpected moments of connection and find they often leave me feeling more positive and connected to my community.",
+      "note": "Sử dụng từ vựng ở mức độ cao (lighthearted, enriching, shared humanity, unexpected)."
+    }
+  },
+  "v": [
+    {
+      "word": "spontaneous",
+      "meaning": "tự phát/ngẫu hứng",
+      "ipa": "/spɑːnˈteɪniəs/",
+      "example": "The crowd burst into spontaneous applause."
+    },
+    {
+      "word": "human connection",
+      "meaning": "sự kết nối giữa người với người",
+      "ipa": "/ˈhjuːmən kəˈnekʃn/",
+      "example": "Social media can sometimes hinder real human connection."
+    },
+    {
+      "word": "inclusive",
+      "meaning": "bao trùm/toàn diện",
+      "ipa": "/ɪnˈkluːsɪv/",
+      "example": "The company aims to create an inclusive environment for all employees."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "lighthearted",
+      "meaning": "vô tư/vui vẻ",
+      "ipa": "/ˌlaɪtˈhɑːrtɪd/",
+      "example": "It was a lighthearted conversation about movies."
+    }
+  ],
+  "similar_questions": [
+    "Do you like talking to strangers?",
+    "Is it common to talk to strangers in your country?"
+  ]
+}

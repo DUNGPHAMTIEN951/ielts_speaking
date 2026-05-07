@@ -1,0 +1,76 @@
+{
+  "id": "q_32",
+  "vocab": [
+    {
+      "word": "shell out",
+      "ipa": "/ʃel aʊt/",
+      "meaning": "chi một khoản tiền lớn (thường là miễn cưỡng)",
+      "example": "I occasionally shell out for designer boots because I know the craftsmanship justifies the steep price.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "splash out",
+      "ipa": "/splæʃ aʊt/",
+      "meaning": "vung tiền, chi tiêu hoang phí vào một thứ xa xỉ",
+      "example": "On my birthday, I decided to splash out on a pair of high-end running shoes I’d been eyeing for months.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "trở nên nổi bật, gây chú ý",
+      "example": "I gravitate towards big-name brands because their unique designs help me stand out from the crowd.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "try on",
+      "ipa": "/traɪ ɒn/",
+      "meaning": "thử đồ (giày, quần áo) xem có vừa không",
+      "example": "I prefer visiting physical stores to try on branded footwear, as sizes can vary significantly between labels.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hold up",
+      "ipa": "/həʊld ʌp/",
+      "meaning": "vẫn còn tốt, bền bỉ sau một thời gian sử dụng",
+      "example": "I’ve found that premium sneakers really hold up well even after a year of daily use.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass up",
+      "ipa": "/pɑːs ʌp/",
+      "meaning": "từ bỏ, bỏ lỡ (một cơ hội hoặc lời đề nghị)",
+      "example": "When I saw those limited-edition shoes at half price, it was an offer I simply couldn't pass up.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go with",
+      "ipa": "/ɡəʊ wɪð/",
+      "meaning": "phối hợp tốt, hợp với (quần áo/phong cách)",
+      "example": "I usually buy minimalist branded shoes because they go with almost any outfit in my wardrobe.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble across",
+      "ipa": "/ˈstʌmbl əˈkrɒs/",
+      "meaning": "tình cờ tìm thấy",
+      "example": "I happened to stumble across a boutique outlet selling authentic luxury brands at a fraction of the cost.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cater to",
+      "ipa": "/ˈkeɪtə(r) tu/",
+      "meaning": "phục vụ cho, đáp ứng nhu cầu của",
+      "example": "Famous brands often cater to professional athletes, ensuring their shoes provide maximum support.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp (xu hướng thời trang)",
+      "example": "Buying from well-known labels is an easy way for me to keep up with the latest footwear trends.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

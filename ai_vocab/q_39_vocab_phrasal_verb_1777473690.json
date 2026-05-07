@@ -1,0 +1,76 @@
+{
+  "id": "q_39",
+  "vocab": [
+    {
+      "word": "bone up on",
+      "ipa": "/boʊn ʌp ɑːn/",
+      "meaning": "học gạo/ôn tập kỹ lưỡng trong thời gian ngắn",
+      "example": "Before every history exam, I would bone up on all the significant dates and historical figures to ensure a high score.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɑːn/",
+      "meaning": "ôn lại/trau dồi lại kiến thức đã lâu không dùng",
+      "example": "I recently decided to brush up on my French, a subject I absolutely adored during my middle school years.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sink in",
+      "ipa": "/sɪŋk ɪn/",
+      "meaning": "dần hiểu ra/thấm nhuần (kiến thức)",
+      "example": "I loved Physics because once the laws of motion finally began to sink in, the whole world started to make sense.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep at",
+      "ipa": "/kiːp æt/",
+      "meaning": "kiên trì tiếp tục làm/học điều gì đó khó khăn",
+      "example": "Even though Advanced Math was grueling, I kept at it because I found the process of solving complex equations quite rewarding.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get across",
+      "ipa": "/ɡet əˈkrɔːs/",
+      "meaning": "truyền đạt/giải thích rõ ràng",
+      "example": "Our Literature teacher was brilliant at getting the deeper meaning of classic poems across to the students.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "meaning": "học lỏm/học một cách tự nhiên không qua trường lớp",
+      "example": "I enjoyed our IT classes, but I actually picked up most of my coding skills just by tinkering with computers at home.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "read up on",
+      "ipa": "/riːd ʌp ɑːn/",
+      "meaning": "đọc nhiều tài liệu để tìm hiểu về một chủ đề",
+      "example": "Biology was my favorite subject; I used to spend my weekends reading up on marine ecosystems just for fun.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toy with",
+      "ipa": "/tɔɪ wɪð/",
+      "meaning": "cân nhắc/thử nghiệm (một ý tưởng hoặc chủ đề)",
+      "example": "In Art class, I loved to toy with different abstract techniques instead of just following the traditional curriculum.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass for",
+      "ipa": "/pæs fɔːr/",
+      "meaning": "có thể coi là/được chấp nhận như là (một chuyên gia/người giỏi)",
+      "example": "I was so obsessed with Geography that I could almost pass for a local guide when discussing European landmarks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look into",
+      "ipa": "/lʊk ˈɪntuː/",
+      "meaning": "nghiên cứu/xem xét kỹ một vấn đề",
+      "example": "The reason I favored Chemistry was the opportunity to look into the molecular structure of everyday substances.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

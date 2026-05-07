@@ -1,0 +1,52 @@
+{
+  "id": "q_38",
+  "topic": "Noisy & Quiet places",
+  "q": "Do you like quiet or noisy places?",
+  "examiner_note": "Nói về sở thích và lý do. Sử dụng 'conducive to focus', 'overwhelmed', 'peace of mind', 'vibrancy'.",
+  "samples": {
+    "band7": {
+      "text": "I definitely prefer quiet places. I find them much more conducive to focus and relaxation. Noisy environments tend to overwhelm me and make it difficult to think clearly or enjoy a moment of peace. However, a bit of noise can be okay in a social setting.",
+      "note": "Sử dụng từ nối và lý giải rõ ràng (conducive to, overwhelm)."
+    },
+    "band8": {
+      "text": "I’m much more inclined towards quiet settings, as I find them essential for mental clarity and productivity. While I appreciate the energy and vibrancy of a bustling city, I often need to retreat to a peaceful space to recharge my batteries and reflect.",
+      "note": "Sử dụng từ vựng hay (inclined, mental clarity, vibrancy, bustling, retreat, recharge)."
+    },
+    "band9": {
+      "text": "I find quiet environments to be indispensable for my cognitive well-being. The near-constant barrage of noise in urban areas can be quite draining, so I prioritize finding tranquil spaces where I can immerse myself in my thoughts or creative pursuits without any auditory distractions.",
+      "note": "Sử dụng từ vựng ở mức độ cao (indispensable, cognitive well-being, barrage, draining, tranquil, auditory)."
+    }
+  },
+  "v": [
+    {
+      "word": "conducive",
+      "meaning": "có lợi cho/giúp ích cho",
+      "ipa": "/kənˈduːsɪv/",
+      "example": "A quiet environment is conducive to learning."
+    },
+    {
+      "word": "vibrancy",
+      "meaning": "sự sống động/năng lượng",
+      "ipa": "/ˈvaɪbrənsi/",
+      "example": "I love the vibrancy of the city at night."
+    },
+    {
+      "word": "barrage",
+      "meaning": "sự tấn công dồn dập (nghĩa bóng)",
+      "ipa": "/bəˈrɑːʒ/",
+      "example": "The company faced a barrage of criticism."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "indispensable",
+      "meaning": "không thể thiếu",
+      "ipa": "/ˌɪndɪˈspensəbl/",
+      "example": "A good dictionary is indispensable for language learners."
+    }
+  ],
+  "similar_questions": [
+    "What do you do in a noisy place?",
+    "Where is the quietest place you know?"
+  ]
+}

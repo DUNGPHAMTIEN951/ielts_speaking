@@ -1,0 +1,76 @@
+{
+  "id": "q_36",
+  "vocab": [
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn tập lại hoặc cải thiện kiến thức cũ",
+      "example": "I usually use the quiet afternoon hours to brush up on my grammar before the evening classes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "read up on",
+      "ipa": "/riːd ʌp ɒn/",
+      "meaning": "đọc nhiều tài liệu để tìm hiểu kỹ về một chủ đề",
+      "example": "In the morning, when I'm most alert, I prefer to read up on complex economic theories.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sink in",
+      "ipa": "/sɪŋk ɪn/",
+      "meaning": "được hiểu thấu đáo hoặc được ghi nhớ (kiến thức)",
+      "example": "I find that if I study right after waking up, the information really starts to sink in much faster.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒər ʌp tuː/",
+      "meaning": "đạt tới một tiêu chuẩn hoặc kỳ vọng nào đó",
+      "example": "My afternoon productivity rarely measures up to my morning output, so I save easier tasks for later.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig into",
+      "ipa": "/dɪɡ ˈɪntə/",
+      "meaning": "bắt đầu nghiên cứu hoặc tìm hiểu sâu vào cái gì đó",
+      "example": "I love to dig into my research projects early in the day when there are fewer distractions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "jot down",
+      "ipa": "/dʒɒt daʊn/",
+      "meaning": "ghi chú nhanh lại điều gì đó",
+      "example": "I always jot down my most creative ideas in the morning before my brain gets cluttered with daily chores.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep at",
+      "ipa": "/kiːp æt/",
+      "meaning": "tiếp tục kiên trì làm một việc gì đó khó khăn",
+      "example": "Even when a topic is dull, I try to keep at it until noon to stay on schedule.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bone up on",
+      "ipa": "/boʊn ʌp ɒn/",
+      "meaning": "học nhồi nhét hoặc học kỹ trong thời gian ngắn cho một mục đích cụ thể",
+      "example": "I tend to bone up on my vocabulary in the afternoon as a way to wrap up my study day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall behind",
+      "ipa": "/fɔːl bɪˈhaɪnd/",
+      "meaning": "bị tụt lại phía sau (không kịp tiến độ học tập)",
+      "example": "If I don't start my sessions early, I feel like I'm falling behind with my weekly coursework.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fizzle out",
+      "ipa": "/ˈfɪzl aʊt/",
+      "meaning": "yếu dần rồi mất hẳn (năng lượng hoặc sự tập trung)",
+      "example": "My motivation often begins to fizzle out by 3 PM, which is why I prefer being a morning lark.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_34",
+  "vocab": [
+    {
+      "word": "bring on",
+      "ipa": "/brɪŋ ɒn/",
+      "meaning": "giúp cây phát triển nhanh hơn hoặc ra hoa/trái",
+      "example": "Using a greenhouse can really help to bring on the young plants during the colder months of the year.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig over",
+      "ipa": "/dɪɡ ˈəʊ.vər/",
+      "meaning": "đào xới đất kỹ lưỡng (để chuẩn bị gieo trồng)",
+      "example": "Before you even think about sowing seeds, you need to dig over the garden beds to aerate the soil.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shoot up",
+      "ipa": "/ʃuːt ʌp/",
+      "meaning": "lớn nhanh như thổi, phát triển vượt bậc về chiều cao",
+      "example": "With enough sunlight and regular watering, sunflowers will shoot up in a matter of weeks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "water down",
+      "ipa": "/ˈwɔː.tər daʊn/",
+      "meaning": "pha loãng (phân bón hoặc hóa chất) với nước",
+      "example": "It's crucial to water down liquid fertilizers, as concentrated nutrients can actually burn the delicate roots.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut back",
+      "ipa": "/kʌt bæk/",
+      "meaning": "tỉa bớt cành lá (thường là để duy trì hình dáng hoặc loại bỏ phần chết)",
+      "example": "I usually cut back the dead foliage in late autumn to ensure the plant stays healthy for the next season.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick off",
+      "ipa": "/pɪk ɒf/",
+      "meaning": "ngắt bỏ (sâu bọ hoặc lá úa) bằng tay",
+      "example": "Instead of using harsh chemicals, I prefer to manually pick off any pests I find on my rose bushes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ease out",
+      "ipa": "/iːz aʊt/",
+      "meaning": "nhấc cây ra khỏi chậu một cách nhẹ nhàng",
+      "example": "You should carefully ease the plant out of its original container to avoid damaging the root ball during repotting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "firm down",
+      "ipa": "/fɜːm daʊn/",
+      "meaning": "ấn nhẹ đất xung quanh gốc cây để làm chặt",
+      "example": "Once the seedling is in the ground, remember to firm down the soil to eliminate large air pockets.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fend off",
+      "ipa": "/fend ɒf/",
+      "meaning": "ngăn chặn hoặc chống lại (sâu bệnh/côn trùng)",
+      "example": "Companion planting, like putting marigolds near tomatoes, can help fend off common garden pests naturally.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "come up",
+      "ipa": "/kʌm ʌp/",
+      "meaning": "mọc lên khỏi mặt đất (dùng cho hạt giống sau khi gieo)",
+      "example": "I'm always checking the garden every morning to see if the carrots I planted last week have started to come up.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

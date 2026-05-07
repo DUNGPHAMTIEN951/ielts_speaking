@@ -1,0 +1,76 @@
+{
+  "id": "q_36",
+  "vocab": [
+    {
+      "word": "cognitive performance",
+      "ipa": "/ˈkɒɡnətɪv pəˈfɔːməns/",
+      "meaning": "hiệu suất nhận thức",
+      "example": "I find that my cognitive performance reaches its zenith shortly after my first cup of coffee in the morning.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "chronotype",
+      "ipa": "/ˈkrɒnətaɪp/",
+      "meaning": "kiểu thời gian sinh học (xu hướng thức khuya hay dậy sớm)",
+      "example": "Being an 'early bird' chronotype, I naturally gravitate toward intense study sessions before noon.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "peak alertness",
+      "ipa": "/piːk əˈlɜːtnəs/",
+      "meaning": "sự tỉnh táo đỉnh điểm",
+      "example": "Scheduling my most difficult modules during my peak alertness in the morning ensures better retention of information.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "diminishing returns",
+      "ipa": "/dɪˈmɪnɪʃɪŋ rɪˈtɜːnz/",
+      "meaning": "hiệu suất giảm dần (càng làm càng kém hiệu quả)",
+      "example": "Studying late in the afternoon often leads to a point of diminishing returns where I read without absorbing anything.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "optimal window",
+      "ipa": "/ˈɒptɪməl ˈwɪndəʊ/",
+      "meaning": "khung thời gian tối ưu",
+      "example": "The morning provides an optimal window for creative writing because my mind isn't yet cluttered with daily stress.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "circadian rhythm",
+      "ipa": "/sɜːˈkeɪdiən ˈrɪðəm/",
+      "meaning": "nhịp sinh học",
+      "example": "Forcing myself to study in the afternoon feels like I am fighting against my natural circadian rhythm.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "mental fatigue",
+      "ipa": "/ˈmentl fəˈtiːɡ/",
+      "meaning": "sự mệt mỏi về tinh thần",
+      "example": "By the time the afternoon rolls around, mental fatigue starts to set in, making it hard to concentrate on complex tasks.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "well-rested",
+      "ipa": "/ˌwel ˈrestɪd/",
+      "meaning": "được nghỉ ngơi đầy đủ, sảng khoái",
+      "example": "I am most productive when I am well-rested, which is why the early hours are my preferred time for revision.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "distraction-free",
+      "ipa": "/dɪˈstrækʃn friː/",
+      "meaning": "không bị xao nhãng",
+      "example": "The morning offers a distraction-free environment, as most people haven't started their busy schedules yet.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "receptive",
+      "ipa": "/rɪˈseptɪv/",
+      "meaning": "dễ tiếp thu, sẵn sàng đón nhận kiến thức",
+      "example": "My brain is far more receptive to new concepts when I first wake up compared to the sluggish afternoon hours.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

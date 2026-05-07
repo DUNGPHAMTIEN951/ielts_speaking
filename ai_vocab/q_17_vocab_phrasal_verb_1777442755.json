@@ -1,0 +1,76 @@
+{
+  "id": "q_17",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, vẻ đẹp)",
+      "example": "I spent the entire afternoon soaking up the creative atmosphere at the local contemporary art gallery.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gaze at",
+      "ipa": "/ɡeɪz æt/",
+      "meaning": "nhìn chằm chằm một cách ngưỡng mộ",
+      "example": "I found myself gazing at an abstract painting for nearly twenty minutes, trying to decipher its hidden meaning.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ bắt gặp/tìm thấy",
+      "example": "While wandering through the city, I stumbled upon a hidden gallery showcasing local avant-garde photography.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick out",
+      "ipa": "/pɪk aʊt/",
+      "meaning": "nhận ra, chọn ra một chi tiết cụ thể",
+      "example": "The curator helped me pick out the subtle brushwork techniques that made the portrait so lifelike.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại, nhớ lại (kỷ niệm)",
+      "example": "I still look back on my trip to the Louvre as one of the most culturally enriching experiences of my life.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "be blown away",
+      "ipa": "/bi bləʊn əˈweɪ/",
+      "meaning": "thực sự bị ấn tượng, choáng ngợp",
+      "example": "I was completely blown away by the sheer scale and intricacy of the sculptures on display.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass for",
+      "ipa": "/pɑːs fɔː(r)/",
+      "meaning": "có thể được coi là, được chấp nhận là",
+      "example": "In some modern galleries, mundane objects often pass for high art, which I find quite intriguing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "conjure up",
+      "ipa": "/ˈkʌndʒə(r) ʌp/",
+      "meaning": "gợi lên (hình ảnh, cảm xúc)",
+      "example": "The landscape paintings managed to conjure up vivid memories of my childhood in the countryside.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔː(r) ˈəʊvə(r)/",
+      "meaning": "nghiên cứu kỹ lưỡng, xem xét tỉ mỉ",
+      "example": "Art students usually pore over every detail of the masterpieces to understand the historical context.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out",
+      "ipa": "/brɑːntʃ aʊt/",
+      "meaning": "mở rộng sang một lĩnh vực/thể loại mới",
+      "example": "I usually prefer classical art, but recently I've decided to branch out into digital art exhibitions.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "brisk pace",
+      "ipa": "/brɪsk peɪs/",
+      "meaning": "tốc độ nhanh, dứt khoát",
+      "example": "I try to maintain a brisk pace when walking to the office to get my heart rate up.",
+      "type": "collocation"
+    },
+    {
+      "word": "leisurely stroll",
+      "ipa": "/ˈleʒ.ə.li strəʊl/",
+      "meaning": "đi dạo thong thả, chậm rãi",
+      "example": "On Sunday afternoons, I often take a leisurely stroll through the botanical gardens to clear my head.",
+      "type": "collocation"
+    },
+    {
+      "word": "pedestrian-friendly",
+      "ipa": "/pəˈdes.tri.ən ˈfrend.li/",
+      "meaning": "thân thiện với người đi bộ (hạ tầng tốt)",
+      "example": "Living in a pedestrian-friendly neighborhood makes it incredibly easy to reach most amenities on foot.",
+      "type": "collocation"
+    },
+    {
+      "word": "stretch of road",
+      "ipa": "/stretʃ əv rəʊd/",
+      "meaning": "một đoạn đường",
+      "example": "There is a particularly quiet stretch of road near my house that is perfect for an evening walk.",
+      "type": "collocation"
+    },
+    {
+      "word": "within walking distance",
+      "ipa": "/wɪˈðɪn ˈwɔː.kɪŋ ˈdɪs.təns/",
+      "meaning": "trong khoảng cách có thể đi bộ được (rất gần)",
+      "example": "I'm lucky that my favorite grocery store is within walking distance, so I rarely have to drive.",
+      "type": "collocation"
+    },
+    {
+      "word": "urban sprawl",
+      "ipa": "/ˈɜː.bən sprɔːl/",
+      "meaning": "sự mở rộng đô thị (thường gây khó khăn cho việc đi bộ)",
+      "example": "Due to the massive urban sprawl in my city, walking to work is unfortunately not a viable option.",
+      "type": "collocation"
+    },
+    {
+      "word": "invigorating walk",
+      "ipa": "/ɪnˈvɪɡ.ər.eɪ.tɪŋ wɔːk/",
+      "meaning": "một chuyến đi bộ giúp tiếp thêm năng lượng/làm sảng khoái",
+      "example": "An invigorating walk in the crisp morning air is the best way to start my day.",
+      "type": "collocation"
+    },
+    {
+      "word": "clock up",
+      "ipa": "/klɒk ʌp/",
+      "meaning": "đạt được/ghi nhận một con số (thường là số bước chân hoặc quãng đường)",
+      "example": "I usually manage to clock up at least five miles every day just by running errands.",
+      "type": "collocation"
+    },
+    {
+      "word": "daily commute",
+      "ipa": "/ˈdeɪ.li kəˈmjuːt/",
+      "meaning": "quãng đường đi làm/đi học hàng ngày",
+      "example": "I’ve started incorporating a 20-minute walk into my daily commute to improve my cardiovascular health.",
+      "type": "collocation"
+    },
+    {
+      "word": "lose track of time",
+      "ipa": "/luːz træk əv taɪm/",
+      "meaning": "quên mất thời gian (vì quá mải mê)",
+      "example": "I often lose track of time when I'm walking in nature because the scenery is so captivating.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "q_37",
+  "topic": "Plants",
+  "q": "Have you ever had a plant?",
+  "examiner_note": "Nói về trải nghiệm trong quá khứ. Sử dụng 'thrived', 'stay with me', 'patience and care', 'gardening'.",
+  "samples": {
+    "band7": {
+      "text": "I’ve had several plants over the years. Some thrived and grew really well, while others... well, didn't quite make it. But even the ones that didn't stay with me for long taught me something about the patience and care required in gardening.",
+      "note": "Sử dụng từ vựng hay (thrived, didn't make it) và rút ra bài học."
+    },
+    "band8": {
+      "text": "I’ve experimented with various plants in the past, with varying degrees of success. I once had a beautiful orchid that bloomed multiple times, which was very rewarding. On the other hand, I’ve also struggled with more demanding species, which has made me much more mindful of their specific needs.",
+      "note": "Sử dụng từ vựng hay (varying degrees, rewarding, demanding, mindful)."
+    },
+    "band9": {
+      "text": "My history with plants has been a journey of discovery and occasional disappointment. I’ve successfully cultivated everything from delicate ferns to robust cacti. Each experience has deepened my appreciation for the intricacies of plant life and the importance of creating a nurturing environment for them to flourish.",
+      "note": "Sử dụng từ vựng ở mức độ cao (journey, cultivated, robust, intricacies, flourishing)."
+    }
+  },
+  "v": [
+    {
+      "word": "mindful",
+      "meaning": "lưu tâm/chú ý",
+      "ipa": "/ˈmaɪndfl/",
+      "example": "We must be mindful of our impact on the environment."
+    },
+    {
+      "word": "intricacy",
+      "meaning": "sự phức tạp/tỉ mỉ",
+      "ipa": "/ˈɪntrɪkəsi/",
+      "example": "The intricacies of the plot were hard to follow."
+    },
+    {
+      "word": "robust",
+      "meaning": "mạnh mẽ/khỏe khoắn",
+      "ipa": "/rəʊˈbʌst/",
+      "example": "The company has a robust business model."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "thrive",
+      "meaning": "phát triển mạnh/thịnh vượng",
+      "ipa": "/θraɪv/",
+      "example": "The business is thriving."
+    }
+  ],
+  "similar_questions": [
+    "What happened to your first plant?",
+    "Do you think you have a 'green thumb'?"
+  ]
+}

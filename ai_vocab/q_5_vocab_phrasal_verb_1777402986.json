@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "get down",
+      "ipa": "/ɡet daʊn/",
+      "meaning": "viết lại, ghi lại cái gì đó nhanh chóng",
+      "example": "I prefer typing during lectures because it allows me to get down every single point the professor mentions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "jot down",
+      "ipa": "/dʒɒt daʊn/",
+      "meaning": "ghi chú nhanh (thường bằng tay)",
+      "example": "I still like to jot down my creative ideas in a notebook before I start typing them up on my laptop.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "type up",
+      "ipa": "/taɪp ʌp/",
+      "meaning": "đánh máy lại bản thảo (thường là từ bản viết tay)",
+      "example": "Once I've finished my initial brainstorming on paper, I usually type up the final version for work.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "scribble down",
+      "ipa": "/ˈskrɪb.əl daʊn/",
+      "meaning": "viết ngoáy, viết vội vàng",
+      "example": "When I'm in a rush, I often scribble down phone numbers on whatever scrap of paper I can find.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mess up",
+      "ipa": "/mes ʌp/",
+      "meaning": "làm hỏng, làm sai (trong ngữ cảnh này là viết sai)",
+      "example": "The great thing about typing is that if you mess up, you can simply hit backspace instead of using an eraser.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp (về tốc độ)",
+      "example": "My handwriting is far too slow to keep up with my train of thought, so I find typing much more efficient.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cross out",
+      "ipa": "/krɒs aʊt/",
+      "meaning": "gạch bỏ (phần văn bản viết sai)",
+      "example": "I dislike handwriting because I hate having to cross out words, which makes the whole page look untidy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "rely on",
+      "ipa": "/rɪˈlaɪ ɒn/",
+      "meaning": "dựa dẫm vào, phụ thuộc vào",
+      "example": "Most people in my generation rely on digital devices for writing, making pen and paper almost obsolete.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "phải dùng đến phương án dự phòng (khi phương án chính thất bại)",
+      "example": "If my laptop battery dies, I have to fall back on the old-fashioned method of using a pen.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "print out",
+      "ipa": "/prɪnt aʊt/",
+      "meaning": "in ra từ máy tính",
+      "example": "I usually type my essays and then print them out to proofread them more effectively.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_28",
+  "vocab": [
+    {
+      "word": "map out",
+      "ipa": "/mæp aʊt/",
+      "meaning": "lên kế hoạch chi tiết, phác thảo lộ trình",
+      "example": "I am in charge of mapping out the project milestones to ensure the development team stays on schedule.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "iron out",
+      "ipa": "/ˈaɪən aʊt/",
+      "meaning": "giải quyết triệt để những vấn đề nhỏ hoặc khó khăn còn sót lại",
+      "example": "Part of my daily routine is to iron out any technical glitches before the software update goes live.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "liaise with",
+      "ipa": "/liˈeɪz wɪð/",
+      "meaning": "liên lạc và làm việc phối hợp với (bộ phận khác/đối tác)",
+      "example": "A major part of my role is to liaise with the marketing department to align our sales strategies.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "follow through on",
+      "ipa": "/ˈfɒləʊ θruː ɒn/",
+      "meaning": "hoàn thành việc đã hứa hoặc đã bắt đầu",
+      "example": "It’s my responsibility to follow through on client requests to maintain a high level of customer satisfaction.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look into",
+      "ipa": "/lʊk ˈɪntə/",
+      "meaning": "điều tra, nghiên cứu hoặc kiểm tra kỹ lưỡng",
+      "example": "Whenever there is a discrepancy in the accounts, I have to look into the transaction history to find the error.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spearhead",
+      "ipa": "/ˈspɪəhed/",
+      "meaning": "dẫn đầu hoặc tiên phong thực hiện (một chiến dịch, dự án)",
+      "example": "I've been asked to spearhead the new sustainability initiative across all our regional branches.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tackle",
+      "ipa": "/ˈtækl/",
+      "meaning": "giải quyết một vấn đề khó khăn hoặc một công việc lớn",
+      "example": "As a senior analyst, I usually tackle the most complex data sets that require advanced statistical modeling.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "account for",
+      "ipa": "/əˈkaʊnt fɔː(r)/",
+      "meaning": "giải trình, báo cáo hoặc chịu trách nhiệm cho (số liệu/nguồn lực)",
+      "example": "I have to account for every dollar spent in the department's quarterly operational budget.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall under",
+      "ipa": "/fɔːl ˈʌndə(r)/",
+      "meaning": "nằm trong phạm vi trách nhiệm hoặc thuộc về (một danh mục)",
+      "example": "Staff training and professional development fall under my remit as the HR Coordinator.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "vouch for",
+      "ipa": "/vaʊtʃ fɔː(r)/",
+      "meaning": "bảo đảm, khẳng định chất lượng hoặc sự chính xác của cái gì",
+      "example": "I personally review all final designs to vouch for their quality before they are sent to the printers.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

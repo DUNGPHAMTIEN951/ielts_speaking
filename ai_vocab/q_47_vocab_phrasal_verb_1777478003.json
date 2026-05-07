@@ -1,0 +1,76 @@
+{
+  "id": "q_47",
+  "vocab": [
+    {
+      "word": "bounce off",
+      "ipa": "/baʊns ɒf/",
+      "meaning": "trao đổi ý tưởng với ai đó để xem phản ứng hoặc lấy ý kiến",
+      "example": "I love group study sessions because I can bounce ideas off my peers to refine my understanding of a topic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔːr ˈəʊ.vər/",
+      "meaning": "nghiên cứu hoặc xem xét một tài liệu một cách cực kỳ kỹ lưỡng",
+      "example": "When I'm alone, I can pore over complex data for hours without any interruptions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bounce back",
+      "ipa": "/baʊns bæk/",
+      "meaning": "hồi phục lại sự tập trung hoặc hứng khởi (thường nhờ sự khích lệ của nhóm)",
+      "example": "If I hit a wall while studying, having friends around helps me bounce back and stay motivated.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tiếp thu kiến thức hoặc thông tin một cách nhanh chóng và dễ dàng",
+      "example": "I prefer studying in a quiet library environment where I can just soak up all the information from my textbooks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sift through",
+      "ipa": "/sɪft θruː/",
+      "meaning": "sàng lọc, kiểm tra kỹ lưỡng một lượng lớn thông tin để tìm thứ cần thiết",
+      "example": "Studying with others makes it easier to sift through massive amounts of research material by dividing the tasks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spark off",
+      "ipa": "/spɑːrk ɒf/",
+      "meaning": "khơi mào, kích hoạt (một cuộc thảo luận hoặc ý tưởng mới)",
+      "example": "A simple comment from a classmate can often spark off a deep debate that clarifies the whole lecture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig into",
+      "ipa": "/dɪɡ ˈɪn.tuː/",
+      "meaning": "bắt đầu nghiên cứu sâu vào một vấn đề gì đó",
+      "example": "I tend to study alone when I really need to dig into the technical nuances of a subject.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại, cải thiện kiến thức về một thứ gì đó đã lâu không dùng đến",
+      "example": "Group sessions are perfect for brushing up on fundamental concepts before a major exam.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "walk through",
+      "ipa": "/wɔːk θruː/",
+      "meaning": "giải thích một quy trình hoặc vấn đề từng bước một cách cẩn thận",
+      "example": "My study partner often walks me through difficult math problems that I can't solve on my own.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "piece together",
+      "ipa": "/piːs təˈɡeð.ər/",
+      "meaning": "xâu chuỗi, lắp ghép các mẩu thông tin lại để hiểu toàn bộ vấn đề",
+      "example": "By discussing different perspectives, we can often piece together the logic behind complex historical events.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

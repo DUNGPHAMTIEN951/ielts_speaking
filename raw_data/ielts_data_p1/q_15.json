@@ -1,0 +1,72 @@
+{
+  "id": "q_15",
+  "topic": "Building",
+  "q": "Are there tall buildings near your home?",
+  "examiner_note": "Giám khảo muốn nghe mô tả về môi trường sống xung quanh bạn. Bạn có thể nói về mật độ xây dựng (construction density) và cảm giác khi sống gần những tòa nhà cao tầng. Hãy sử dụng các danh từ chỉ loại hình tòa nhà (skyscrapers, high-rises, residential complexes) và các tính từ mô tả sự hiện đại hoặc chật chội. Nếu không có nhà cao tầng, bạn có thể nói về sự yên tĩnh của khu phố mình đang sống.",
+  "samples": {
+    "band7": {
+      "text": "Yes, there are quite a few high-rises in my neighborhood. They are mostly luxury apartment blocks and office buildings. While they look modern and impressive, it sometimes feels a bit crowded and limits the natural light in the area.",
+      "note": "Trả lời trực tiếp và nêu được đặc điểm của các tòa nhà (high-rises, apartment blocks). Có sự nhận xét cá nhân hợp lý."
+    },
+    "band8": {
+      "text": "In recent years, my area has seen a surge in urban development, so we’re now surrounded by several towering skyscrapers. Most of them are residential complexes equipped with modern amenities. I must admit, I appreciate the convenience they bring, but the sheer density of these structures can feel a bit overwhelming at times.",
+      "note": "Sử dụng từ vựng nâng cao và diễn đạt tự nhiên (surge in urban development, towering skyscrapers, residential complexes, amenities, sheer density, overwhelming)."
+    },
+    "band9": {
+      "text": "My local vicinity has undergone a dramatic transformation, and is now dominated by colossal skyscrapers and sprawling high-rise developments. These contemporary structures certainly exemplify the city's rapid economic growth; however, their imposing presence often obscures the skyline and contributes to a sense of urban claustrophobia. While the architectural ingenuity is impressive, I occasionally find myself longing for the more open, traditional layouts of the past.",
+      "note": "Từ vựng cực kỳ phong phú và chính xác (vicinity, dramatic transformation, dominated, colossal, contemporary, exemplify, imposing, obscures, urban claustrophobia, architectural ingenuity). Cách lập luận đa chiều và tinh tế."
+    }
+  },
+  "v": [
+    { "word": "high-rise", "meaning": "nhà cao tầng", "ipa": "/ˈhaɪ raɪz/", "example": "More and more high-rises are being built in the city center." },
+    { "word": "residential complex", "meaning": "khu dân cư/tổ hợp nhà ở", "ipa": "/ˌrezɪˈdenʃl ˈkɑːmpleks/", "example": "The new residential complex includes a gym, a pool, and a park." },
+    { "word": "urban development", "meaning": "phát triển đô thị", "ipa": "/ˈɜːrbən dɪˈveləpmənt/", "example": "Urban development has changed the face of the city over the last decade." },
+    { "word": "towering skyscraper", "meaning": "tòa nhà chọc trời cao ngất", "ipa": "/ˈtaʊərɪŋ ˈskaɪskreɪpər/", "example": "The city is famous for its towering skyscrapers and modern architecture." },
+    { "word": "amenities", "meaning": "/əˈmenətiz/", "ipa": "tiện ích", "example": "The hotel offers a wide range of amenities for its guests." },
+    { "word": "density", "meaning": "mật độ", "ipa": "/ˈdensəti/", "example": "The high population density makes the city very crowded." },
+    { "word": "overwhelming", "meaning": "choáng ngợp/quá mức", "ipa": "/ˌoʊvərˈwelmɪŋ/", "example": "The sheer number of people in the square was overwhelming." },
+    { "word": "vicinity", "meaning": "vùng lân cận", "ipa": "/vəˈsɪnəti/", "example": "There are no good schools in the immediate vicinity of our house." },
+    { "word": "dramatic transformation", "meaning": "sự thay đổi ngoạn mục", "ipa": "/drəˈmætɪk ˌtrænsfərˈmeɪʃn/", "example": "Technology has brought about a dramatic transformation in our lives." },
+    { "word": "colossal", "meaning": "khổng lồ/đồ sộ", "ipa": "/kəˈlɑːsl/", "example": "The statue is a colossal achievement of art and engineering." },
+    { "word": "contemporary", "meaning": "hiện đại/đương đại", "ipa": "/kənˈtempəreri/", "example": "I prefer contemporary furniture to traditional styles." },
+    { "word": "exemplify", "meaning": "minh họa cho/lấy làm ví dụ cho", "ipa": "/ɪɡˈzemplɪfaɪ/", "example": "Her career exemplifies the success that hard work can bring." },
+    { "word": "imposing", "meaning": "uy nghi/ấn tượng (thường do kích thước)", "ipa": "/ɪmˈpoʊzɪŋ/", "example": "The cathedral is a very imposing building." },
+    { "word": "obscure the skyline", "meaning": "che khuất đường chân trời", "ipa": "/əbˈskjʊr ðə ˈskaɪlaɪn/", "example": "New developments often obscure the skyline and block natural light." },
+    { "word": "urban claustrophobia", "meaning": "cảm giác ngột ngạt nơi đô thị", "ipa": "/ˈɜːrbən ˌklɔːstrəˈfoʊbiə/", "example": "Living in a tiny apartment in the city gave him urban claustrophobia." },
+    { "word": "architectural ingenuity", "meaning": "sự khéo léo/sáng tạo trong kiến trúc", "ipa": "/ˌɑːrkɪˈtektʃərəl ˌɪndʒɪˈnuːəti/", "example": "The bridge is a masterpiece of architectural ingenuity." },
+    { "word": "longing for", "meaning": "mong mỏi/khát khao cái gì đó", "ipa": "/ˈlɔːŋɪŋ fɔːr/", "example": "After a year abroad, I was longing for some home-cooked food." },
+    { "word": "apartment block", "meaning": "tòa nhà chung cư", "ipa": "/əˈpɑːrtmənt blɑːk/", "example": "He lives on the tenth floor of a modern apartment block." },
+    { "word": "office building", "meaning": "tòa nhà văn phòng", "ipa": "/ˈɑːfɪs ˈbɪldɪŋ/", "example": "Many old houses were demolished to build office buildings." },
+    { "word": "construction site", "meaning": "công trường xây dựng", "ipa": "/kənˈstrʌkʃn saɪt/", "example": "Keep out of the construction site; it's dangerous." },
+    { "word": "concrete jungle", "meaning": "rừng bê tông (thành phố đầy nhà cao tầng)", "ipa": "/ˌkɑːŋkriːt ˈdʒʌŋɡl/", "example": "Sometimes I just want to escape this concrete jungle and go to a forest." },
+    { "word": "built-up area", "meaning": "khu vực có mật độ xây dựng cao", "ipa": "/ˌbɪlt ʌp ˈeriə/", "example": "Speed limits are lower in built-up areas for safety." },
+    { "word": "infrastructure", "meaning": "cơ sở hạ tầng", "ipa": "/ˈɪnfrəstrʌktʃər/", "example": "The city needs better infrastructure to handle the growing population." },
+    { "word": "facade", "meaning": "mặt tiền (tòa nhà)", "ipa": "/fəˈsɑːd/", "example": "The historic building has a beautiful marble facade." },
+    { "word": "landmark", "meaning": "địa danh/công trình nổi bật", "ipa": "/ˈlændmɑːrk/", "example": "The Eiffel Tower is a global landmark." },
+    { "word": "commercial district", "meaning": "khu thương mại", "ipa": "/kəˈmɜːrʃl ˈdɪstrɪkt/", "example": "The commercial district is very busy during office hours." },
+    { "word": "mixed-use building", "meaning": "tòa nhà đa năng (văn phòng + nhà ở + mua sắm)", "ipa": "/mɪkst juːs ˈbɪldɪŋ/", "example": "Living in a mixed-use building is very convenient." },
+    { "word": "scaffolding", "meaning": "giàn giáo", "ipa": "/ˈskæfoʊldɪŋ/", "example": "The workers were standing on scaffolding to paint the wall." },
+    { "word": "blueprint", "meaning": "bản thiết kế/bản vẽ", "ipa": "/ˈbluːprɪnt/", "example": "The architect is working on the final blueprints for the house." },
+    { "word": "aesthetic appeal", "meaning": "sự lôi cuốn về mặt thẩm mỹ", "ipa": "/esˈθetɪk əˈpiːl/", "example": "Modern architecture often prioritizes function over aesthetic appeal." },
+    { "word": "monumental", "meaning": "đồ sộ/vĩ đại", "ipa": "/ˌmɑːnjuˈmentl/", "example": "Building the pyramids was a monumental task for the ancient Egyptians." },
+    { "word": "sustainable design", "meaning": "thiết kế bền vững", "ipa": "/səˈsteɪnəbl dɪˈzaɪn/", "example": "More architects are now using sustainable design to save energy." },
+    { "word": "structural integrity", "meaning": "sự toàn vẹn/vững chắc của cấu trúc", "ipa": "/ˈstrʌktʃərəl ɪnˈteɡrəti/", "example": "The engineers checked the structural integrity of the bridge after the earthquake." },
+    { "word": "renovation", "meaning": "sự cải tạo/trùng tu", "ipa": "/ˌrenəˈveɪʃn/", "example": "Our house is currently undergoing renovation." },
+    { "word": "dilapidated", "meaning": "đổ nát/xiêu vẹo", "ipa": "/dɪˈlæpɪdeɪtɪd/", "example": "The old factory was left in a dilapidated condition." },
+    { "word": "cosmopolitan", "meaning": "đa văn hóa/khắp thế giới", "ipa": "/ˌkɑːzməˈpɑːlɪtən/", "example": "New York is a very cosmopolitan city." },
+    { "word": "congestion", "meaning": "sự tắc nghẽn", "ipa": "/kənˈdʒestʃən/", "example": "Traffic congestion is a major problem in many large cities." },
+    { "word": "skyline", "meaning": "đường chân trời (hình dáng thành phố)", "ipa": "/ˈskaɪlaɪn/", "example": "The Dubai skyline is famous for the Burj Khalifa." },
+    { "word": "observation deck", "meaning": "đài quan sát", "ipa": "/ˌɑːbzərˈveɪʃn dek/", "example": "From the observation deck, we could see for miles." },
+    { "word": "sprawling", "meaning": "trải dài/mở rộng", "ipa": "/ˈsprɔːlɪŋ/", "example": "The sprawling suburbs continue to grow every year." },
+    { "word": "monolithic", "meaning": "nguyên khối/đồ sộ", "ipa": "/ˌmɑːnəˈlɪθɪk/", "example": "The organization felt like a monolithic and unchanging force." },
+    { "word": "urbanization", "meaning": "sự đô thị hóa", "ipa": "/ˌɜːrbənəˈzeɪʃn/", "example": "Rapid urbanization is leading to many social challenges." },
+    { "word": "eyesore", "meaning": "thứ chướng mắt (toà nhà xấu xí)", "ipa": "/ˈaɪsɔːr/", "example": "That half-finished concrete building is a real eyesore." },
+    { "word": "metropolitan", "meaning": "thuộc đô thị lớn/thủ phủ", "ipa": "/ˌmetrəˈpɑːlɪtən/", "example": "The metropolitan area includes several smaller towns." },
+    { "word": "historic preservation", "meaning": "bảo tồn di tích lịch sử", "ipa": "/hɪˈstɔːrɪk ˌprezərˈveɪʃn/", "example": "The city council is dedicated to historic preservation." },
+    { "word": "utility", "meaning": "tính hữu ích/tiện ích (điện, nước...)", "ipa": "/juːˈtɪləti/", "example": "The cost of utilities is included in the rent." },
+    { "word": "gentrification", "meaning": "sự cải thiện khu phố (đi kèm giá cả tăng)", "ipa": "/ˌdʒentrɪfɪˈkeɪʃn/", "example": "Gentrification often forces local residents to move out." },
+    { "word": "landscape", "meaning": "phong cảnh/quang cảnh", "ipa": "/ˈlændskeɪp/", "example": "We stopped to admire the beautiful mountain landscape." },
+    { "word": "shimmering", "meaning": "lấp lánh", "ipa": "/ˈʃɪmərɪŋ/", "example": "The shimmering glass windows reflected the afternoon sun." },
+    { "word": "uninterrupted view", "meaning": "tầm nhìn không bị cản trở", "ipa": "/ˌʌnɪntəˈrʌptɪd vjuː/", "example": "The hotel room offers an uninterrupted view of the beach." }
+  ]
+}

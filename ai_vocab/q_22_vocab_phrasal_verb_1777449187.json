@@ -1,0 +1,76 @@
+{
+  "id": "q_22",
+  "vocab": [
+    {
+      "word": "luck out",
+      "ipa": "/lʌk aʊt/",
+      "meaning": "may mắn có được điều gì đó (không mong đợi)",
+      "example": "I really lucked out when I found a local basketball club that accepts beginners like me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show up",
+      "ipa": "/ʃoʊ ʌp/",
+      "meaning": "xuất hiện/có mặt (thường để tham gia thi đấu hoặc tập luyện)",
+      "example": "No matter how tired I am, I always try to show up for our weekly football match.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "map out",
+      "ipa": "/mæp aʊt/",
+      "meaning": "lên kế hoạch chi tiết (chiến thuật hoặc lộ trình tập luyện)",
+      "example": "Before every marathon, I carefully map out my running route and hydration stops.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wear down",
+      "ipa": "/wer daʊn/",
+      "meaning": "làm cho ai đó mệt lử hoặc yếu đi (chiến thuật trong thể thao)",
+      "example": "In long-distance cycling, the goal is often to wear down your opponents before the final sprint.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "give up on",
+      "ipa": "/ɡɪv ʌp ɒn/",
+      "meaning": "từ bỏ một môn thể thao hoặc thói quen tập luyện",
+      "example": "I almost gave up on swimming because it was so difficult, but I'm glad I stuck with it.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand in for",
+      "ipa": "/stænd ɪn fɔːr/",
+      "meaning": "thay thế cho ai đó (trong đội hình)",
+      "example": "I occasionally stand in for our goalkeeper when he's unable to make it to the game.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "narrow down",
+      "ipa": "/ˈnæroʊ daʊn/",
+      "meaning": "thu hẹp phạm vi/lựa chọn (chọn môn thể thao yêu thích nhất)",
+      "example": "I enjoy many activities, but if I had to narrow it down, badminton would be my absolute favorite.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fend off",
+      "ipa": "/fend ɔːf/",
+      "meaning": "chống trả, ngăn chặn đối thủ tấn công",
+      "example": "It's exhilarating to fend off defenders and score a goal when you're under pressure.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out",
+      "ipa": "/bræntʃ aʊt/",
+      "meaning": "thử sức ở một lĩnh vực/môn thể thao mới khác với thói quen",
+      "example": "After years of playing team sports, I decided to branch out into solo activities like rock climbing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get across",
+      "ipa": "/ɡet əˈkrɔːs/",
+      "meaning": "vượt qua một khoảng cách hoặc truyền đạt (chiến thuật) hiệu quả",
+      "example": "In rowing, the main challenge is to get across the finish line as a synchronized unit.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

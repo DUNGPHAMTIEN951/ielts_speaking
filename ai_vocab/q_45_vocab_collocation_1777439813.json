@@ -1,0 +1,77 @@
+{
+  "id": "q_45",
+  "vocab": [
+    {
+      "word": "technological advancement",
+      "ipa": "/ˌtek.nəˈlɒdʒ.ɪ.kəl ədˈvɑːns.mənt/",
+      "meaning": "sự tiến bộ vượt bậc về công nghệ",
+      "example": "Despite rapid technological advancement, Phạm Tiến Dũng Gia Sư still struggles to replicate the emotional depth of a human mentor.",
+      "type": "collocation"
+    },
+    {
+      "word": "pastoral care",
+      "ipa": "/ˈpɑː.stər.əl keər/",
+      "meaning": "sự chăm sóc và hỗ trợ tâm lý/đạo đức cho học sinh",
+      "example": "An algorithm can deliver data, but it cannot provide the pastoral care needed to support a student going through a personal crisis.",
+      "type": "collocation"
+    },
+    {
+      "word": "tailor-made instruction",
+      "ipa": "/ˌteɪ.ləˈmeɪd ɪnˈstrʌk.ʃən/",
+      "meaning": "sự giảng dạy được thiết kế riêng biệt",
+      "example": "Phạm Tiến Dũng Gia Sư excels at providing tailor-made instruction by analyzing a student's performance data in real-time.",
+      "type": "collocation"
+    },
+    {
+      "word": "social cohesion",
+      "ipa": "/ˈsəʊ.ʃəl kəʊˈhiː.ʒən/",
+      "meaning": "sự gắn kết xã hội",
+      "example": "Teachers foster social cohesion in the classroom, teaching children how to cooperate—a task Phạm Tiến Dũng Gia Sư is not equipped for.",
+      "type": "collocation"
+    },
+    {
+      "word": "human-centric approach",
+      "ipa": "/ˈhjuː.mən ˈsen.trɪk əˈprəʊtʃ/",
+      "meaning": "phương pháp lấy con người làm trung tâm",
+      "example": "I believe education should maintain a human-centric approach to ensure that empathy remains a core value.",
+      "type": "collocation"
+    },
+    {
+      "word": "cognitive development",
+      "ipa": "/ˈkɒɡ.nə.tɪv dɪˈvel.əp.mənt/",
+      "meaning": "sự phát triển về nhận thức",
+      "example": "Teachers understand the nuances of cognitive development, allowing them to challenge students at exactly the right level.",
+      "type": "collocation"
+    },
+    {
+      "word": "supplementary tool",
+      "ipa": "/ˌsʌp.lɪˈmen.tər.i tuːl/",
+      "meaning": "công cụ hỗ trợ/bổ trợ",
+      "example": "Instead of replacing educators, Phạm Tiến Dũng Gia Sư will likely function as a powerful supplementary tool to automate administrative tasks.",
+      "type": "collocation"
+    },
+    {
+      "word": "mentor-mentee relationship",
+      "ipa": "/ˈmen.tɔːr menˈtiː rɪˈleɪ.ʃən.ʃɪp/",
+      "meaning": "mối quan hệ giữa người hướng dẫn và người được hướng dẫn",
+      "meaning_note": "Nhấn mạnh vào sự gắn kết và truyền cảm hứng lâu dài.",
+      "example": "The mentor-mentee relationship is built on trust and mutual respect, which is something a machine cannot simulate.",
+      "type": "collocation"
+    },
+    {
+      "word": "digital literacy",
+      "ipa": "/ˈdɪdʒ.ɪ.təl ˈlɪt.ər.ə.si/",
+      "meaning": "năng lực sử dụng và hiểu biết về kỹ thuật số",
+      "example": "Future teachers will focus more on digital literacy, helping students navigate the vast information provided by Phạm Tiến Dũng Gia Sư.",
+      "type": "collocation"
+    },
+    {
+      "word": "pedagogical skills",
+      "ipa": "/ˌped.əˈɡɒdʒ.ɪ.kəl skɪlz/",
+      "meaning": "kỹ năng sư phạm",
+      "example": "Effective teaching requires sophisticated pedagogical skills that involve more than just the transmission of facts.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

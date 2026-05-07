@@ -1,0 +1,50 @@
+{
+  "q": "Describe a piece of good advice that you received.",
+  "cue_card": [
+    "A piece of good advice that you received.",
+    "What the advice was",
+    "Who gave you the advice",
+    "Why you received this advice",
+    "And explain how you felt about the advice"
+  ],
+  "examiner_note": "Chủ đề lời khuyên tập trung vào sự phát triển bản thân. Sử dụng các từ vựng về định hướng (guidance, invaluable insight) và sự thay đổi thái độ (paradigm shift, reassess my priorities). Hãy làm rõ tác động tích cực của lời khuyên đó đối với bạn.",
+  "samples": {
+    "band7": "I'm going to talk about a piece of good advice I got from my father. He told me to always save ten percent of my income. He gave me this advice when I got my first job because I was spending too much money on clothes. At first, I felt it was a bit boring and restrictive. But after a year, I had saved a lot of money and could buy a new laptop. I felt very grateful for his advice because it taught me financial responsibility.",
+    "band8": "I’d like to describe a highly impactful piece of advice I received from a university professor regarding time management. During my final year, I was juggling multiple deadlines and feeling completely overwhelmed. My professor advised me to prioritize tasks using the 'Eisenhower Matrix', focusing on what's important rather than just what's urgent. Initially, I felt skeptical that a simple diagram could help. However, once I implemented it, my productivity skyrocketed. I felt immensely relieved and grateful, as this invaluable insight not only helped me graduate but also profoundly shaped my professional habits.",
+    "band9": "A piece of counsel that proved to be a pivotal turning point in my life was given to me by my professional mentor during a period of intense career stagnation. I was contemplating a risky career change, and she advised me to 'embrace discomfort as the primary catalyst for growth.' She recognized that I was playing it safe and limiting my own potential. Receiving this advice was initially jarring; it forced me to confront my complacency. Ultimately, however, it induced a profound paradigm shift. I felt tremendously empowered to reassess my priorities and take calculated risks, which eventually led to a highly fulfilling leadership role. Her guidance was nothing short of transformative."
+  },
+  "v": [
+    {
+      "word": "Invaluable insight",
+      "meaning": "Sự hiểu biết/lời khuyên vô giá (Extremely useful knowledge or advice)",
+      "example": "The book provides invaluable insight into the psychology of success."
+    },
+    {
+      "word": "Paradigm shift",
+      "meaning": "Sự thay đổi mô thức/tư duy (A fundamental change in approach or underlying assumptions)",
+      "example": "The discovery of DNA led to a paradigm shift in biology."
+    },
+    {
+      "word": "Reassess priorities",
+      "meaning": "Đánh giá lại những ưu tiên (To reconsider what is most important)",
+      "example": "After his illness, he had to reassess his priorities in life."
+    },
+    {
+      "word": "Complacency",
+      "meaning": "Sự tự mãn, bằng lòng với hiện tại (A feeling of smug or uncritical satisfaction with oneself or one's achievements)",
+      "example": "Success can often lead to complacency if you are not careful."
+    },
+    {
+      "word": "Catalyst for growth",
+      "meaning": "Chất xúc tác cho sự phát triển (A person or thing that precipitates an event or growth)",
+      "example": "Failure is often the most powerful catalyst for personal growth."
+    },
+    {
+      "word": "Contemplate",
+      "meaning": "Suy ngẫm, dự tính (Look thoughtfully for a long time at; think deeply about)",
+      "example": "She sat quietly, contemplating her future."
+    }
+  ],
+  "topic": "Describe a piece of good advice that you received.",
+  "id": "p2_q21"
+}

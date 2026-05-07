@@ -1,0 +1,76 @@
+{
+  "id": "q_32",
+  "vocab": [
+    {
+      "word": "shell out",
+      "ipa": "/ʃel aʊt/",
+      "meaning": "chi một khoản tiền lớn (thường là miễn cưỡng)",
+      "example": "I'm not always keen to shell out hundreds of dollars just for a designer logo.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fork out",
+      "ipa": "/fɔːk aʊt/",
+      "meaning": "trả tiền cho cái gì đó đắt đỏ",
+      "example": "I had to fork out a fortune for these limited-edition sneakers, but they were worth every penny.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "snap up",
+      "ipa": "/snæp ʌp/",
+      "meaning": "mua nhanh chóng (khi có cơ hội hoặc giá rẻ)",
+      "example": "Whenever Nike has a clearance sale, people flock to the stores to snap up the best deals.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "splash out",
+      "ipa": "/splæʃ aʊt/",
+      "meaning": "vung tiền vào việc mua sắm xa xỉ",
+      "example": "Occasionally, I like to splash out on a pair of high-end running shoes as a reward for my hard work.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go with",
+      "ipa": "/ɡəʊ wɪð/",
+      "meaning": "phù hợp với, đi kèm với",
+      "example": "I usually choose classic Converse because they go with almost any outfit in my wardrobe.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hold off",
+      "ipa": "/həʊld ɒf/",
+      "meaning": "trì hoãn (chờ đợi dịp tốt hơn)",
+      "example": "I'm holding off on buying those Adidas until the Black Friday sales begin.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stock up on",
+      "ipa": "/stɒk ʌp ɒn/",
+      "meaning": "mua dự trữ số lượng lớn",
+      "example": "When I find a brand that fits perfectly, I tend to stock up on a few pairs in different colors.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "try on",
+      "ipa": "/traɪ ɒn/",
+      "meaning": "thử đồ (giày, quần áo)",
+      "example": "I never buy shoes online because I need to try them on to ensure the arch support is adequate.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shop around",
+      "ipa": "/ʃɒp əˈraʊnd/",
+      "meaning": "khảo giá, so sánh nhiều cửa hàng trước khi mua",
+      "example": "It's wise to shop around before buying big brands, as prices can vary significantly between retailers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, khác biệt",
+      "example": "Famous brands often invest in unique designs that help the wearer stand out in a crowd.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

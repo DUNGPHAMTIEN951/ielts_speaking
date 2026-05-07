@@ -1,0 +1,50 @@
+{
+  "q": "Describe an interesting city you know.",
+  "cue_card": [
+    "An interesting city you know.",
+    "Where the city is",
+    "How you know about it",
+    "What it is famous for",
+    "And explain why you think it is interesting"
+  ],
+  "examiner_note": "Khi miêu tả thành phố, hãy dùng các từ vựng về đô thị (metropolis, urban sprawl, cultural hub) và không khí thành phố (vibrant, bustling). Hãy nêu ra những điểm đặc trưng (landmarks, cuisine, lifestyle) làm nên sức hút của thành phố đó.",
+  "samples": {
+    "band7": "I would like to talk about Kyoto, a very famous city in Japan. I know about it from reading travel magazines and watching documentaries. It is located in the central part of Japan. Kyoto is famous for its beautiful temples, traditional wooden houses, and Geishas. I think it is an interesting city because it perfectly mixes the old and the new. You can see ancient shrines right next to modern buildings, which is very unique.",
+    "band8": "I’m going to describe Kyoto, a captivating city located in the Kansai region of Japan. My knowledge of this city comes from a combination of extensive travel research and personal anecdotes from friends who have visited. It is globally renowned for its meticulously preserved temples, enchanting bamboo forests, and its status as the historical heart of traditional Japanese culture. I find Kyoto incredibly interesting because it serves as a living museum where you can experience the profound serenity of ancient traditions seamlessly juxtaposed against the backdrop of modern Japanese urban life.",
+    "band9": "The city that never fails to fascinate me is Kyoto, an ancient metropolis intimately nestled in Japan's Kansai region. My fascination stems from a deep-seated interest in East Asian history and architecture. Kyoto is universally acclaimed as the cultural epicenter of Japan, boasting an unparalleled concentration of UNESCO World Heritage sites, including profound Zen gardens and majestic Shinto shrines. What makes it profoundly interesting is its ability to maintain its rich, historical integrity amidst the relentless tide of modernization. It offers an immersive experience where ancient artisanal heritage and contemporary innovation coexist in a harmonious, vibrant symbiosis."
+  },
+  "v": [
+    {
+      "word": "Captivating",
+      "meaning": "Làm say đắm, quyến rũ (Capable of attracting and holding interest; charming)",
+      "example": "The city has a captivating charm that draws millions of tourists every year."
+    },
+    {
+      "word": "Meticulously preserved",
+      "meaning": "Được bảo tồn tỉ mỉ (Maintained in its original or existing state with great attention to detail)",
+      "example": "The old town features meticulously preserved medieval architecture."
+    },
+    {
+      "word": "Juxtaposed",
+      "meaning": "Đặt cạnh nhau (để đối chiếu) (Placed or dealt with close together for contrasting effect)",
+      "example": "The exhibition juxtaposed modern abstract art with classical paintings."
+    },
+    {
+      "word": "Cultural epicenter",
+      "meaning": "Trung tâm văn hóa (The central point of cultural activity)",
+      "example": "Paris is widely considered the cultural epicenter of Europe."
+    },
+    {
+      "word": "Relentless tide of modernization",
+      "meaning": "Làn sóng hiện đại hóa không ngừng (The unceasing process of adapting something to modern needs or habits)",
+      "example": "Many traditional villages have vanished under the relentless tide of modernization."
+    },
+    {
+      "word": "Symbiosis",
+      "meaning": "Sự cộng sinh, sự chung sống hài hòa (A mutually beneficial relationship between different people or groups)",
+      "example": "There is a perfect symbiosis between the university and the local technology companies."
+    }
+  ],
+  "topic": "Describe an interesting city you know.",
+  "id": "p2_q20"
+}

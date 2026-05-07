@@ -1,0 +1,76 @@
+{
+  "id": "q_19",
+  "vocab": [
+    {
+      "word": "mess around with",
+      "ipa": "/mes əˈraʊnd wɪð/",
+      "meaning": "làm phép thử, nghịch ngợm hoặc thử nghiệm một cách không nghiêm túc",
+      "example": "I used to mess around with watercolors on the weekends, though I never produced anything professional.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take up",
+      "ipa": "/teɪk ʌp/",
+      "meaning": "bắt đầu một thói quen hoặc sở thích mới",
+      "example": "My parents encouraged me to take up oil painting when I was ten to keep me occupied during the summer.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "color in",
+      "ipa": "/ˈkʌl.ər ɪn/",
+      "meaning": "tô màu vào một hình vẽ có sẵn",
+      "example": "I spent countless hours as a toddler meticulously coloring in the intricate patterns of my favorite picture books.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sketch out",
+      "ipa": "/sketʃ aʊt/",
+      "meaning": "phác thảo sơ bộ các ý tưởng chính",
+      "example": "I would usually sketch out the basic shapes of a landscape before committing to the final drawing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "give up",
+      "ipa": "/ɡɪv ʌp/",
+      "meaning": "từ bỏ một thói quen hoặc hoạt động",
+      "example": "I eventually gave up drawing in secondary school because I couldn't find enough time between my studies.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃəʊ ɒf/",
+      "meaning": "khoe khoang tài năng hoặc thành quả",
+      "example": "Whenever I finished a portrait of my cat, I’d proudly show it off to my grandparents.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "hồi tưởng lại một kỷ niệm trong quá khứ",
+      "example": "I often look back on my early sketches with a mix of nostalgia and amusement at how simple they were.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "meaning": "học lỏm hoặc tiếp thu một kỹ năng một cách tự nhiên",
+      "example": "I managed to pick up some basic shading techniques just by watching my older sister work on her assignments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "turn out",
+      "ipa": "/tɜːn aʊt/",
+      "meaning": "thành ra, kết quả là (về một tác phẩm hoàn thiện)",
+      "example": "Even though I was just a beginner, some of my early landscape paintings turned out surprisingly well.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "work on",
+      "ipa": "/wɜːk ɒn/",
+      "meaning": "dành thời gian nỗ lực để cải thiện hoặc hoàn thành cái gì đó",
+      "example": "I would spend my entire Sunday working on a single canvas, trying to get the lighting just right.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

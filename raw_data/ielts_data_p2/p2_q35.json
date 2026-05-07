@@ -1,0 +1,37 @@
+{
+  "q": "Describe a foreign country you would like to stay or work for a short period of time",
+  "cue_card": [
+    "Where it is",
+    "What you would do there",
+    "Why you chose this country",
+    "And explain what you think the experience would be like"
+  ],
+  "examiner_note": "Nêu lý do chọn quốc gia đó (văn hóa, cơ hội, phong cảnh).",
+  "samples": {
+    "band7": "I'd like to stay in Japan for a few months. I'd love to work in a small cafe or a bookstore in Tokyo to experience their daily life. I chose Japan because I love their culture and food. I think the experience would be very interesting and would help me learn Japanese much faster.",
+    "band8": "I've always been drawn to the idea of living and working in Japan for a short stint. Ideally, I'd like to find a role in a creative agency in Tokyo to immerse myself in their unique work culture. Japan's blend of ancient traditions and cutting-edge technology is what fascinates me most. I anticipate that the experience would be incredibly eye-opening, allowing me to gain a fresh perspective on discipline and aesthetics.",
+    "band9": "The destination that tops my list for a temporary residence is Japan. I'm keen to engage in a short-term professional project in Kyoto, perhaps in the field of sustainable design. My fascination with Japan stems from its remarkable ability to harmonize modern innovation with deep-rooted cultural heritage. I believe such an experience would be intellectually enriching and would profoundly broaden my horizons, fostering a deeper appreciation for their meticulous attention to detail and social harmony."
+  },
+  "v": [
+    {
+      "word": "short stint",
+      "ipa": "/ʃɔːrt stɪnt/",
+      "meaning": "một khoảng thời gian ngắn",
+      "example": "He had a short stint as a waiter."
+    },
+    {
+      "word": "eye-opening",
+      "ipa": "/ˈaɪ ˌoʊpənɪŋ/",
+      "meaning": "mở mang tầm mắt",
+      "example": "Travel can be an eye-opening experience."
+    },
+    {
+      "word": "meticulous",
+      "ipa": "/məˈtɪkjələs/",
+      "meaning": "tỉ mỉ",
+      "example": "She is very meticulous in her work."
+    }
+  ],
+  "topic": "Describe a foreign country you would like to stay or work for a short period of time",
+  "id": "p2_q35"
+}

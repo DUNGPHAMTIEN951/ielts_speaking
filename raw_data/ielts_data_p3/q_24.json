@@ -1,0 +1,52 @@
+{
+  "id": "q_24",
+  "topic": "Carrying things",
+  "q": "When you go to different places, do you carry different kinds of things?",
+  "examiner_note": "Nói về sự thích nghi. Sử dụng 'adapt', 'occasion', 'tailor', 'versatile'.",
+  "samples": {
+    "band7": {
+      "text": "Certainly. For a quick trip to the grocery store, I just need my wallet and some reusable bags. But if I'm going on a day trip or a hike, I'll pack more items like snacks, a power bank, and a light jacket to be prepared for anything.",
+      "note": "Sử dụng từ nối tốt (Certainly, But) và ví dụ cụ thể."
+    },
+    "band8": {
+      "text": "Definitely. I tailor what I carry based on the specific occasion and the duration of my outing. For instance, if I’m attending a formal event, I’ll carry as little as possible, whereas a trip to the beach requires a much more extensive list of items like towels and sunblock.",
+      "note": "Sử dụng từ vựng hay (tailor, occasion, duration, whereas, extensive)."
+    },
+    "band9": {
+      "text": "I’m quite meticulous about adapting my daily carry to suit the environment and the tasks at hand. I find that being well-prepared reduces stress and allows for greater flexibility. Whether it’s a business meeting requiring a tablet and documents or a casual social gathering, I always ensure my belongings are appropriate for the setting.",
+      "note": "Sử dụng từ vựng ở mức độ cao (meticulous, adapting, flexibility, appropriate)."
+    }
+  },
+  "v": [
+    {
+      "word": "tailor",
+      "meaning": "điều chỉnh cho phù hợp",
+      "ipa": "/ˈteɪlər/",
+      "example": "We can tailor the course to meet your specific needs."
+    },
+    {
+      "word": "extensive",
+      "meaning": "sâu rộng/đầy đủ",
+      "ipa": "/ɪkˈstensɪv/",
+      "example": "The school has extensive grounds."
+    },
+    {
+      "word": "appropriate",
+      "meaning": "phù hợp",
+      "ipa": "/əˈprəʊpriət/",
+      "example": "Is this film appropriate for children?"
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "duration",
+      "meaning": "thời lượng/khoảng thời gian",
+      "ipa": "/duˈreɪʃn/",
+      "example": "The duration of the flight is about three hours."
+    }
+  ],
+  "similar_questions": [
+    "What do you carry when you go to work/school?",
+    "What do you take with you on a holiday?"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_27",
+  "vocab": [
+    {
+      "word": "fork out",
+      "ipa": "/fɔːrk aʊt/",
+      "meaning": "chi một khoản tiền lớn (thường là miễn cưỡng)",
+      "example": "I had to fork out a significant amount for those limited-edition sneakers, but they were worth every penny.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "snap up",
+      "ipa": "/snæp ʌp/",
+      "meaning": "mua nhanh chóng (thường vì giá rẻ hoặc hàng hiếm)",
+      "example": "When I saw the clearance sale online, I immediately snapped up two pairs of running shoes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "try on",
+      "ipa": "/traɪ ɒn/",
+      "meaning": "thử đồ (để xem có vừa hoặc hợp không)",
+      "example": "The biggest drawback of e-commerce is that you can't try on the shoes to check the fit before purchasing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "send back",
+      "ipa": "/send bæk/",
+      "meaning": "gửi trả lại (hàng hóa không ưng ý)",
+      "example": "The loafers I ordered were a bit too tight, so I had to send them back and request a larger size.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "scour through",
+      "ipa": "/skaʊər θruː/",
+      "meaning": "lục tìm kỹ lưỡng, rà soát",
+      "example": "I spent hours scouring through various retail websites to find a specific pair of vintage boots.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sell out",
+      "ipa": "/sel aʊt/",
+      "meaning": "cháy hàng, bán hết sạch",
+      "example": "By the time I decided to buy the trainers, they had completely sold out in my size.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out for",
+      "ipa": "/lʊk aʊt fɔːr/",
+      "meaning": "chờ đợi, canh chừng (một đợt giảm giá hoặc sản phẩm mới)",
+      "example": "I always look out for discount codes or seasonal vouchers before I finalize any online footwear purchase.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "vouch for",
+      "ipa": "/vaʊtʃ fɔːr/",
+      "meaning": "đảm bảo cho, xác nhận chất lượng cho",
+      "example": "I only shop from websites that my friends can vouch for, especially regarding the accuracy of their size charts.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "track down",
+      "ipa": "/træk daʊn/",
+      "meaning": "tìm thấy sau một quá trình tìm kiếm khó khăn",
+      "example": "It took me weeks, but I finally managed to track down a rare pair of heels on a niche resale platform.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go with",
+      "ipa": "/ɡəʊ wɪð/",
+      "meaning": "phù hợp với, đi kèm với (quần áo/phong cách)",
+      "example": "I bought these white sneakers online specifically because they go with almost everything in my wardrobe.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

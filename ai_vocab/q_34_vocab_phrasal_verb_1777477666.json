@@ -1,0 +1,76 @@
+{
+  "id": "q_34",
+  "vocab": [
+    {
+      "word": "pot up",
+      "ipa": "/pɒt ʌp/",
+      "meaning": "cho cây vào chậu (thường là khi cây đã đủ lớn để chuyển từ khay hạt)",
+      "example": "Once the seedlings have developed their first true leaves, it's time to pot them up into larger containers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "die back",
+      "ipa": "/daɪ bæk/",
+      "meaning": "héo úa hoặc chết dần từ ngọn trở xuống (thường là trạng thái nghỉ của cây)",
+      "example": "Many perennial plants will die back in the winter, but their roots remain alive underground until spring.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "thin out",
+      "ipa": "/θɪn aʊt/",
+      "meaning": "tỉa bớt (cây con mọc quá dày) để những cây còn lại có không gian phát triển",
+      "example": "You need to thin out the carrots if they are growing too close together, or they won't reach a decent size.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tide over",
+      "ipa": "/taɪd ˈəʊ.vər/",
+      "meaning": "giúp (cây) duy trì sự sống qua một giai đoạn khó khăn (như hạn hán)",
+      "example": "A thick layer of mulch helps to retain soil moisture and tide the plants over during a scorching summer heatwave.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dry out",
+      "ipa": "/draɪ aʊt/",
+      "meaning": "khô cạn hoàn toàn (thường nói về đất hoặc rễ cây)",
+      "example": "Succulents are perfect for forgetful gardeners because they don't mind if the soil dries out completely between waterings.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "prune back",
+      "ipa": "/pruːn bæk/",
+      "meaning": "cắt tỉa mạnh (cành, lá) để kích thích sự phát triển mới hoặc kiểm soát kích thước",
+      "example": "I make sure to prune back my rose bushes every February to encourage more vigorous blooming in the summer.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "perk up",
+      "ipa": "/pɜːk ʌp/",
+      "meaning": "tươi tỉnh lại, trở nên đầy sức sống (sau khi được tưới nước hoặc bón phân)",
+      "example": "It's amazing how quickly wilted lilies can perk up after a generous drink of water.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take root",
+      "ipa": "/teɪk ruːt/",
+      "meaning": "bén rễ, bắt đầu bám chắc vào đất để phát triển",
+      "example": "It takes about two weeks for these cuttings to take root and start showing signs of new growth.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "check on",
+      "ipa": "/tʃek ɒn/",
+      "meaning": "theo dõi, kiểm tra tình trạng (của cây) thường xuyên",
+      "example": "Every morning, I go out to the balcony to check on my herbs and see if they need any attention.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "thrive on",
+      "ipa": "/θraɪv ɒn/",
+      "meaning": "phát triển cực kỳ tốt trong một điều kiện cụ thể nào đó",
+      "example": "Ferns typically thrive on high humidity and indirect sunlight, making them ideal for bathrooms.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

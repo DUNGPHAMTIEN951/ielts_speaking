@@ -1,0 +1,52 @@
+{
+  "id": "q_42",
+  "topic": "Noisy & Quiet places",
+  "q": "Would you like to go to quiet or noisy places on weekends?",
+  "examiner_note": "Nói về cách thư giãn. Sử dụng 'hectic week', 'recharge batteries', 'peaceful setting', 'solitude'.",
+  "samples": {
+    "band7": {
+      "text": "I definitely gravitate towards quiet places on weekends. After a hectic week of work or study, I find that spending time in a peaceful setting is essential for recharging my batteries and clearing my mind before the next week starts.",
+      "note": "Sử dụng thành ngữ (recharge my batteries) và từ vựng tốt (gravitate, hectic)."
+    },
+    "band8": {
+      "text": "I usually opt for quieter environments to unwind. I find that a peaceful weekend helps me to decompress and regain my focus. However, I do enjoy the occasional social outing to a vibrant market or a café, as long as it isn't overwhelmingly noisy.",
+      "note": "Sử dụng từ vựng hay (opt for, unwind, decompress, vibrant, overwhelmingly)."
+    },
+    "band9": {
+      "text": "I prioritize finding pockets of solitude and tranquility on my days off. After a demanding week, I find that immersing myself in a quiet, natural setting is vital for my emotional and mental well-being. It allows for a level of self-reflection and peace that is simply unattainable in crowded or noisy places.",
+      "note": "Sử dụng từ vựng ở mức độ cao (pockets of solitude, tranquility, demanding, well-being, unattainable)."
+    }
+  },
+  "v": [
+    {
+      "word": "hectic",
+      "meaning": "hối hả/bận rộn",
+      "ipa": "/ˈhektɪk/",
+      "example": "I've had a very hectic day at work."
+    },
+    {
+      "word": "solitude",
+      "meaning": "sự biệt lập/một mình",
+      "ipa": "/ˈsɑːlətuːd/",
+      "example": "He enjoys the solitude of the mountains."
+    },
+    {
+      "word": "unattainable",
+      "meaning": "không thể đạt tới được",
+      "ipa": "/ˌʌnəˈteɪnəbl/",
+      "example": "The goal proved to be unattainable."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "decompress",
+      "meaning": "giải tỏa áp lực",
+      "ipa": "/ˌdiːkəmˈpres/",
+      "example": "Walking helps me decompress after work."
+    }
+  ],
+  "similar_questions": [
+    "What do you usually do on weekends?",
+    "Do you like going to parties?"
+  ]
+}

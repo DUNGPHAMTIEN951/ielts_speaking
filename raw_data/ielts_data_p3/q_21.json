@@ -1,0 +1,52 @@
+{
+  "id": "q_21",
+  "topic": "Arts and Drawing",
+  "q": "Would you like to learn more about art in the future?",
+  "examiner_note": "Nói về mong muốn học tập. Sử dụng 'advanced art history', 'try my hand at', 'digital art', 'creative horizon'.",
+  "samples": {
+    "band7": {
+      "text": "Definitely. I’d love to take some more advanced art history courses or perhaps even try my hand at a new medium like oil painting or digital art to further explore my creative side. It’s a never-ending journey of learning.",
+      "note": "Trả lời tích cực, sử dụng từ vựng tốt (advanced, try my hand at, digital art)."
+    },
+    "band8": {
+      "text": "I’m very keen on deepening my understanding of art. I’m particularly interested in exploring the evolution of modern art and perhaps taking a workshop on digital illustration. I think it’s essential to keep expanding one’s creative horizons and learning new techniques.",
+      "note": "Sử dụng từ vựng hay (keen on, deepening, evolution, digital illustration, creative horizons)."
+    },
+    "band9": {
+      "text": "Absolutely. I find the intersection of art and technology to be particularly fascinating and would relish the opportunity to delve deeper into digital media. I’m also eager to expand my knowledge of non-Western art traditions to gain a more global and inclusive perspective on artistic expression.",
+      "note": "Sử dụng từ vựng ở mức độ cao (intersection, relish, delve deeper, inclusive perspective)."
+    }
+  },
+  "v": [
+    {
+      "word": "intersection",
+      "meaning": "sự giao thoa",
+      "ipa": "/ˈɪntərsekʃn/",
+      "example": "His work explores the intersection of art and science."
+    },
+    {
+      "word": "delve deeper",
+      "meaning": "đi sâu vào",
+      "ipa": "/delv ˈdiːpər/",
+      "example": "We need to delve deeper into the issue to find a solution."
+    },
+    {
+      "word": "inclusive",
+      "meaning": "bao trùm/toàn diện",
+      "ipa": "/ɪnˈkluːsɪv/",
+      "example": "The company aims to create an inclusive environment for all employees."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "keen",
+      "meaning": "nhiệt tình/hăng hái",
+      "ipa": "/kiːn/",
+      "example": "He is a keen photographer."
+    }
+  ],
+  "similar_questions": [
+    "What is the best way to learn about art?",
+    "Should art be a compulsory subject in school?"
+  ]
+}

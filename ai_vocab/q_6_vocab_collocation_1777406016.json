@@ -1,0 +1,76 @@
+{
+  "id": "q_6",
+  "vocab": [
+    {
+      "word": "tactile feedback",
+      "ipa": "/ˈtæk.taɪl ˈfiːd.bæk/",
+      "meaning": "phản hồi xúc giác (cảm giác phím nảy lại)",
+      "example": "I prefer using a mechanical keyboard because the tactile feedback significantly enhances my typing experience.",
+      "type": "collocation"
+    },
+    {
+      "word": "ergonomic design",
+      "ipa": "/ˌɜː.ɡəˈnɒm.ɪk dɪˈzaɪn/",
+      "meaning": "thiết kế công thái học (tối ưu cho tư thế)",
+      "example": "Since I spend hours at my desk, I invested in a keyboard with an ergonomic design to prevent wrist strain.",
+      "type": "collocation"
+    },
+    {
+      "word": "intensive typing tasks",
+      "ipa": "/ɪnˈten.sɪv ˈtaɪ.pɪŋ tɑːsks/",
+      "meaning": "các tác vụ đánh máy cường độ cao",
+      "example": "For intensive typing tasks like coding or essay writing, a full-sized desktop keyboard is far more efficient.",
+      "type": "collocation"
+    },
+    {
+      "word": "unparalleled portability",
+      "ipa": "/ʌnˈpær.əl.eld ˌpɔː.təˈbɪl.ə.ti/",
+      "meaning": "tính di động vô song",
+      "example": "Laptops offer unparalleled portability, allowing me to stay productive even when I'm working from a local cafe.",
+      "type": "collocation"
+    },
+    {
+      "word": "peripheral device",
+      "ipa": "/pəˈrɪf.ər.əl dɪˈvaɪs/",
+      "meaning": "thiết bị ngoại vi (bàn phím, chuột rời...)",
+      "example": "I usually connect my laptop to a high-quality peripheral device to enhance my comfort during long work sessions.",
+      "type": "collocation"
+    },
+    {
+      "word": "muscle memory",
+      "ipa": "/ˈmʌs.əl ˈmem.ər.i/",
+      "meaning": "trí nhớ cơ bắp",
+      "example": "After years of practice, my muscle memory allows me to type at a rapid pace without even glancing at the keys.",
+      "type": "collocation"
+    },
+    {
+      "word": "cramped layout",
+      "ipa": "/kræmpt ˈleɪ.aʊt/",
+      "meaning": "bố cục chật chội (phím sát nhau)",
+      "example": "I sometimes struggle with the cramped layout of ultra-thin laptops, which often leads to annoying typos.",
+      "type": "collocation"
+    },
+    {
+      "word": "key travel",
+      "ipa": "/kiː ˈtræv.əl/",
+      "meaning": "độ lún của phím (khoảng cách phím di chuyển)",
+      "example": "The deep key travel on my desktop keyboard makes it much more satisfying to use than shallow laptop keys.",
+      "type": "collocation"
+    },
+    {
+      "word": "streamline my workflow",
+      "ipa": "/ˈstriːm.laɪn maɪ ˈwɜːk.fləʊ/",
+      "meaning": "tối ưu hóa quy trình làm việc",
+      "example": "Having a dedicated workstation with a responsive keyboard helps me significantly streamline my workflow.",
+      "type": "collocation"
+    },
+    {
+      "word": "typing accuracy",
+      "ipa": "/ˈtaɪ.pɪŋ ˈæk.jə.rə.si/",
+      "meaning": "độ chính xác khi đánh máy",
+      "example": "A well-spaced desktop keyboard can greatly improve your typing accuracy compared to a small laptop interface.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

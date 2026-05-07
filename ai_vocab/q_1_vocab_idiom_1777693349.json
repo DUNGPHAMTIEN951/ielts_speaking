@@ -1,0 +1,34 @@
+{
+  "id": "q_1",
+  "vocab": [
+    {
+      "word": "a chip off the old block",
+      "ipa": "/ə tʃɪp ɒf ði oʊld blɒk/",
+      "meaning": "người có tính cách hoặc sở thích rất giống bố hoặc mẹ",
+      "example": "My father is a huge football fan and I'm exactly the same; I guess I'm just a chip off the old block.",
+      "type": "idiom"
+    },
+    {
+      "word": "cut from the same cloth",
+      "ipa": "/kʌt frəm ðə seɪm klɒθ/",
+      "meaning": "có bản chất, tính cách hoặc sở thích tương đồng (thường dùng cho các thành viên trong gia đình)",
+      "example": "When it comes to our love for adventurous travel, my sister and I are definitely cut from the same cloth.",
+      "type": "idiom"
+    },
+    {
+      "word": "worlds apart",
+      "ipa": "/wɜːrldz əˈpɑːrt/",
+      "meaning": "hoàn toàn khác biệt (dùng để tạo sự đối lập trong sở thích)",
+      "example": "Although we share the same blood, our hobbies are worlds apart; my brother loves extreme sports while I prefer quiet reading.",
+      "type": "idiom"
+    },
+    {
+      "word": "chalk and cheese",
+      "ipa": "/tʃɔːk ənd tʃiːz/",
+      "meaning": "khác nhau một trời một vực",
+      "example": "Regarding our leisure activities, my mother and I are like chalk and cheese; she enjoys gardening and I'm obsessed with technology.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

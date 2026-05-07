@@ -1,0 +1,76 @@
+{
+  "id": "q_38",
+  "vocab": [
+    {
+      "word": "block out",
+      "ipa": "/blɑːk aʊt/",
+      "meaning": "chặn, ngăn cách (tiếng ồn, ánh sáng, sự xao nhãng)",
+      "example": "A quiet room helps me block out background noise and focus entirely on my assignments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌkl daʊn/",
+      "meaning": "bắt đầu làm việc/học tập một cách nghiêm túc và chăm chỉ",
+      "example": "When I'm in a dedicated study space, it's much easier to knuckle down and get through my reading list.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔːr ˈoʊvər/",
+      "meaning": "nghiên cứu, xem xét kỹ lưỡng (tài liệu, sách vở)",
+      "example": "I need a well-lit desk to pore over complex diagrams for hours without straining my eyes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fizzle out",
+      "ipa": "/ˈfɪzl aʊt/",
+      "meaning": "yếu dần rồi mất hẳn (năng lượng, sự tập trung)",
+      "example": "Without a structured environment, my motivation tends to fizzle out after just half an hour.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/soʊk ʌp/",
+      "meaning": "hấp thụ, tiếp thu (kiến thức, bầu không khí)",
+      "example": "Studying in a library allows me to soak up the academic atmosphere, which keeps me inspired.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈoʊvər/",
+      "meaning": "suy ngẫm, cân nhắc kỹ một vấn đề",
+      "example": "I prefer a peaceful garden setting when I need to mull over abstract theories and concepts.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get bogged down",
+      "ipa": "/ɡet bɑːɡd daʊn/",
+      "meaning": "bị sa lầy, bị làm cho chậm lại vì quá nhiều chi tiết hoặc khó khăn",
+      "example": "A cluttered room makes me get bogged down in trivial matters instead of finishing my thesis.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại, cải thiện nhanh một kỹ năng hoặc kiến thức đã quên",
+      "example": "I usually head to a quiet café to brush up on my French vocabulary before an exam.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "plough through",
+      "ipa": "/plaʊ θruː/",
+      "meaning": "kiên trì hoàn thành một công việc khó khăn hoặc dài dặc",
+      "example": "With a comfortable chair and no distractions, I can plough through a huge pile of paperwork in one sitting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spur on",
+      "ipa": "/spɜːr ɒn/",
+      "meaning": "thúc đẩy, khích lệ (ai đó) tiến tới",
+      "example": "Seeing others working hard in a communal study area really spurs me on to do the same.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

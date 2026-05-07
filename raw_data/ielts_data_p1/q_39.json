@@ -1,0 +1,72 @@
+{
+  "id": "q_39",
+  "topic": "Studying",
+  "q": "What subjects did you like most when you were at school?",
+  "examiner_note": "Câu hỏi này về quá khứ (Kể lại). \n- **Hướng dẫn trả lời**: Sử dụng thì quá khứ đơn (Past Simple). Bạn có thể nói về các môn tự nhiên (Maths, Physics) hoặc xã hội (History, Literature, Geography). Giải thích lý do tại sao thích (do giáo viên dạy hay, do môn học thú vị, hay do bạn có năng khiếu). \n- **Mẹo**: Sử dụng các cụm từ như 'I was particularly fond of', 'I had a natural aptitude for', 'What really fascinated me was...', 'It captured my imagination'.",
+  "samples": {
+    "band7": {
+      "text": "When I was at school, I liked History and Geography the most. I found them very interesting because they helped me learn about different countries and what happened in the past. My History teacher was also very good at telling stories, which made the lessons fun.",
+      "note": "Sử dụng thì quá khứ chính xác. Trình bày lý do đơn giản và rõ ràng. Từ vựng ổn ('Geograhy', 'History')."
+    },
+    "band8": {
+      "text": "I was particularly fond of Mathematics and Physics. I've always had a logical mind, so solving complex equations and understanding the laws of the universe was extremely satisfying for me. I also had a natural aptitude for numbers from a very young age.",
+      "note": "Sử dụng từ vựng nâng cao ('fond of', 'logical mind', 'complex equations', 'laws of the universe', 'aptitude')."
+    },
+    "band9": {
+      "text": "What really fascinated me throughout my school years was English Literature. I was completely captivated by the way authors could use language to create vivid worlds and intricate characters. It really captured my imagination and sparked a lifelong passion for reading and writing.",
+      "note": "Diễn đạt cực kỳ lôi cuốn ('fascinated me', 'completely captivated', 'vivid worlds', 'intricate characters', 'captured my imagination', 'sparked a passion'). Cấu trúc câu rất linh hoạt và tự nhiên."
+    }
+  },
+  "v": [
+    { "word": "particularly fond of", "meaning": "đặc biệt yêu thích", "ipa": "/pəˈtɪkjələli fɒnd əv/", "example": "I was particularly fond of my grandmother's cooking." },
+    { "word": "natural aptitude for", "meaning": "năng khiếu bẩm sinh về", "ipa": "/ˈnætʃrəl ˈæptɪtjuːd fɔː(r)/", "example": "She has a natural aptitude for learning new languages." },
+    { "word": "fascinate", "meaning": "làm mê hoặc/quyến rũ", "ipa": "/ˈfæsɪneɪt/", "example": "Space travel has always fascinated me since I was a child." },
+    { "word": "capture imagination", "meaning": "khơi dậy trí tưởng tượng", "ipa": "/ˈkæptʃə(r) ɪˌmædʒɪˈneɪʃn/", "example": "The story of the lost city captured the imagination of the whole world." },
+    { "word": "vivid", "meaning": "sống động", "ipa": "/ˈvɪvɪd/", "example": "I have very vivid memories of my first day at school." },
+    { "word": "intricate", "meaning": "phức tạp/tinh vi", "ipa": "/ˈɪntrɪkət/", "example": "The watch has an extremely intricate mechanism." },
+    { "word": "spark a passion", "meaning": "khơi dậy niềm đam mê", "ipa": "/spɑːk ə ˈpæʃn/", "example": "A simple science experiment sparked his passion for chemistry." },
+    { "word": "logical mind", "meaning": "đầu óc logic", "ipa": "/ˈlɒdʒɪkl maɪnd/", "example": "Engineering requires a very logical mind and attention to detail." },
+    { "word": "complex equations", "meaning": "phương trình phức tạp", "ipa": "/ˈkɒmpleks ɪˈkweɪʒnz/", "example": "We spent the whole afternoon trying to solve these complex equations." },
+    { "word": "satisfying", "meaning": "đem lại sự thỏa mãn", "ipa": "/ˈsætɪsfaɪɪŋ/", "example": "Finishing a marathon is an incredibly satisfying achievement." },
+    { "word": "captivated", "meaning": "bị làm say đắm", "ipa": "/ˈkæptɪveɪtɪd/", "example": "The audience was completely captivated by the dancer's performance." },
+    { "word": "throughout", "meaning": "xuyên suốt", "ipa": "/θruːˈaʊt/", "example": "It rained heavily throughout the entire football match." },
+    { "word": "intellectual stimulation", "meaning": "sự kích thích trí tuệ", "ipa": "/ˌɪntəˈlektʃuəl ˌstɪmjuˈleɪʃn/", "example": "I love my job because it provides constant intellectual stimulation." },
+    { "word": "lifelong passion", "meaning": "đam mề suốt đời", "ipa": "/ˈlaɪflɒŋ ˈpæʃn/", "example": "His lifelong passion for music began when he was just five years old." },
+    { "word": "curiosity", "meaning": "sự tò mò", "ipa": "/ˌkjʊəriˈɒsəti/", "example": "Children have a natural curiosity about the world around them." },
+    { "word": "academic subject", "meaning": "môn học thuật", "ipa": "/ˌækəˈdemɪk ˈsʌbdʒɪkt/", "example": "History is her favorite academic subject." },
+    { "word": "core subject", "meaning": "môn học chính", "ipa": "/kɔː(r) ˈsʌbdʒɪkt/", "example": "Math and English are core subjects in most school curriculums." },
+    { "word": "elective", "meaning": "môn tự chọn", "ipa": "/ɪˈlektɪv/", "example": "I chose drama as my elective this semester." },
+    { "word": "theoretical", "meaning": "mang tính lý thuyết", "ipa": "/θɪəˈretɪkl/", "example": "The course is quite theoretical and lacks practical application." },
+    { "word": "practical", "meaning": "mang tính thực tế", "ipa": "/ˈpræktɪkl/", "example": "I prefer subjects that have a more practical focus." },
+    { "word": "memorable", "meaning": "đáng nhớ", "ipa": "/ˈmemərəbl/", "example": "The school trip to Paris was a very memorable experience." },
+    { "word": "inspiring teacher", "meaning": "giáo viên truyền cảm hứng", "ipa": "/ɪnˈspaɪərɪŋ ˈtiːtʃə(r)/", "example": "I was lucky to have an inspiring teacher who encouraged me to pursue my dreams." },
+    { "word": "challenging", "meaning": "đầy thử thách", "ipa": "/ˈtʃælɪndʒɪŋ/", "example": "The exam was very challenging, but I think I did well." },
+    { "word": "rewarding", "meaning": "đáng công sức/bổ ích", "ipa": "/rɪˈwɔːdɪŋ/", "example": "Helping others is a very rewarding experience." },
+    { "word": "creative", "meaning": "sáng tạo", "ipa": "/krieɪˈtɪv/", "example": "Art class is a great place to express your creative side." },
+    { "word": "analytical", "meaning": "/ˌænəˈlɪtɪkl/", "ipa": "phân tích", "example": "Solving puzzles helps develop analytical skills." },
+    { "word": "disciplined", "meaning": "có kỷ luật", "ipa": "/ˈdɪsəplɪnd/", "example": "He is very disciplined about his study routine." },
+    { "word": "academic excellence", "meaning": "sự xuất sắc trong học tập", "ipa": "/ˌækəˈdemɪk ˈeksələns/", "example": "The school celebrates academic excellence at the end-of-year ceremony." },
+    { "word": "motivation", "meaning": "động lực", "ipa": "/ˌməʊtɪˈveɪʃn/", "example": "Lack of motivation is one of the main reasons students fail." },
+    { "word": "perseverance", "meaning": "sự kiên trì", "ipa": "/ˌpɜːsɪˈvɪərəns/", "example": "It took a lot of perseverance but I finally finished the project." },
+    { "word": "literacy", "meaning": "khả năng đọc viết", "ipa": "/ˈlɪtərəsi/", "example": "Computer literacy is an essential skill in the modern world." },
+    { "word": "numeracy", "meaning": "khả năng tính toán", "ipa": "/ˈnjuːmərəsi/", "example": "Good numeracy skills are necessary for many everyday tasks." },
+    { "word": "scientific", "meaning": "thuộc về khoa học", "ipa": "/ˌsaɪənˈtɪfɪk/", "example": "She wants to pursue a scientific career in medicine." },
+    { "word": "historical", "meaning": "thuộc về lịch sử", "ipa": "/hɪˈstɒrɪkl/", "example": "The city has many beautiful historical buildings." },
+    { "word": "geographical", "meaning": "thuộc về địa lý", "ipa": "/ˌdʒiːəˈɡræfɪkl/", "example": "The geographical location of the island is very unique." },
+    { "word": "artistic", "meaning": "thuộc về nghệ thuật", "ipa": "/ɑːˈtɪstɪk/", "example": "He comes from a very artistic family." },
+    { "word": "musical", "meaning": "thuộc về âm nhạc", "ipa": "/ˈmjuːzɪkl/", "example": "She has a lot of musical talent and plays three instruments." },
+    { "word": "physical education", "meaning": "giáo dục thể chất", "ipa": "/ˌfɪzɪkl ˌedʒuˈkeɪʃn/", "example": "Physical education is an important part of the school day." },
+    { "word": "humanities", "meaning": "các môn nhân văn", "ipa": "/hjuːˈmænətiz/", "example": "The humanities department offers courses in history, literature, and philosophy." },
+    { "word": "social sciences", "meaning": "các môn khoa học xã hội", "ipa": "/ˌsəʊʃl ˈsaɪənsɪz/", "example": "Sociology and psychology are popular social sciences subjects." },
+    { "word": "exact sciences", "meaning": "các môn khoa học chính xác", "ipa": "/ɪɡˈzækt ˌsaɪənsɪz/", "example": "Maths and physics are considered exact sciences." },
+    { "word": "curriculum", "meaning": "chương trình học", "ipa": "/kəˈrɪkjələm/", "example": "The school is revising its curriculum to include more practical skills." },
+    { "word": "syllabus", "meaning": "đề cương môn học", "ipa": "/ˈsɪləbəs/", "example": "You should check the syllabus for the required reading list." },
+    { "word": "assignment", "meaning": "bài tập/nhiệm vụ", "ipa": "/əˈsaɪnmənt/", "example": "I need to finish this assignment by Friday." },
+    { "word": "lecture", "meaning": "bài giảng", "ipa": "/ˈlektʃə(r)/", "example": "The guest speaker gave a very interesting lecture on climate change." },
+    { "word": "seminar", "meaning": "buổi thảo luận", "ipa": "/ˈsemɪnɑː(r)/", "example": "We had a very stimulating seminar on ancient history today." },
+    { "word": "tutorial", "meaning": "tiết hướng dẫn", "ipa": "/tjuːˈtɔːriəl/", "example": "I found the tutorial very helpful for understanding the difficult concepts." },
+    { "word": "knowledgeable", "meaning": "có kiến thức rộng", "ipa": "/ˈnɒlɪdʒəbl/", "example": "Our history teacher is incredibly knowledgeable and passionate." },
+    { "word": "well-rounded", "meaning": "toàn diện", "ipa": "/ˌwel ˈraʊndɪd/", "example": "The school aims to provide a well-rounded education for all its students." },
+    { "word": "intellectual growth", "meaning": "sự phát triển trí tuệ", "ipa": "/ˌɪntəˈlektʃuəl ɡrəʊθ/", "example": "School is a time for significant intellectual growth and discovery." }
+  ]
+}

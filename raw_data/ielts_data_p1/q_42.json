@@ -1,0 +1,72 @@
+{
+  "id": "q_42",
+  "topic": "Studying",
+  "q": "Do you think teachers are important in the learning process?",
+  "examiner_note": "Đây là câu hỏi yêu cầu sự đánh giá (Evaluation). \n- **Hướng dẫn trả lời**: Khẳng định vai trò không thể thay thế của giáo viên. Giáo viên không chỉ truyền đạt kiến thức mà còn truyền cảm hứng, định hướng và hỗ trợ tinh thần. \n- **Mẹo**: Sử dụng các cụm từ như 'indispensable role', 'provide guidance', 'mentor', 'ignite a passion', 'tailor their teaching', 'beyond just delivering information'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I believe teachers are extremely important. They help students understand difficult concepts and provide them with the right direction. Without a teacher, it would be much harder to stay motivated and know what to study first.",
+      "note": "Khẳng định rõ ràng. Giải thích lý do liên quan đến sự hướng dẫn và động lực. Ngữ pháp chính xác."
+    },
+    "band8": {
+      "text": "Absolutely, teachers play an indispensable role in education. They do far more than just deliver information; they act as mentors who can ignite a passion for a subject and tailor their teaching methods to suit the individual needs of each student.",
+      "note": "Sử dụng từ vựng nâng cao ('indispensable role', 'mentors', 'ignite a passion', 'tailor their teaching'). Diễn đạt gãy gọn."
+    },
+    "band9": {
+      "text": "Undoubtedly, the role of a teacher is pivotal in the learning process. While resources are abundant online, a teacher provides the necessary framework, critical feedback, and emotional support that technology simply cannot replicate. They are the ones who truly foster intellectual curiosity and shape a student's worldview.",
+      "note": "Từ vựng ở trình độ rất cao ('pivotal', 'abundant', 'replicate', 'foster intellectual curiosity', 'shape a worldview'). Cách lập luận rất chặt chẽ và thuyết phục."
+    }
+  },
+  "v": [
+    { "word": "indispensable role", "meaning": "vai trò không thể thiếu", "ipa": "/ˌɪndɪˈspensəbl rəʊl/", "example": "Technology has become an indispensable role in modern business operations." },
+    { "word": "provide guidance", "meaning": "cung cấp sự hướng dẫn", "ipa": "/prəˈvaɪd ˈɡaɪdns/", "example": "Parents should provide guidance to their children about using the internet safely." },
+    { "word": "mentor", "meaning": "người hướng dẫn/cố vấn", "ipa": "/ˈmentɔː(r)/", "example": "A good mentor can help you navigate the challenges of your early career." },
+    { "word": "ignite a passion", "meaning": "khơi dậy niềm đam mê", "ipa": "/ɪɡˈnaɪt ə ˈpæʃn/", "example": "A documentary about space can igniting a lifelong passion for astronomy in a child." },
+    { "word": "tailor teaching methods", "meaning": "điều chỉnh phương pháp giảng dạy", "ipa": "/ˈteɪlər ˈtiːtʃɪŋ ˈmeθədz/", "example": "Effective teachers tailor their teaching methods to suit the diverse needs of their students." },
+    { "word": "deliver information", "meaning": "truyền đạt thông tin", "ipa": "/dɪˈlɪvər ˌɪnfəˈmeɪʃn/", "example": "The internet is a great tool for delivering information quickly to a large audience." },
+    { "word": "pivotal", "meaning": "then chốt/quan trọng nhất", "ipa": "/ˈpɪvətl/", "example": "The invention of the printing press played a pivotal role in the spread of knowledge." },
+    { "word": "abundant", "meaning": "dồi dào/phong phú", "ipa": "/əˈbʌndənt/", "example": "The region is famous for its abundant natural resources." },
+    { "word": "replicate", "meaning": "tái tạo/sao chép", "ipa": "/ˈreplɪkeɪt/", "example": "It's difficult to replicate the exact conditions of the original experiment." },
+    { "word": "foster intellectual curiosity", "meaning": "nuôi dưỡng sự tò mò về trí tuệ", "ipa": "/ˈfɒstər ˌɪntəˈlektʃuəl ˌkjʊəriˈɒsəti/", "example": "One of the goals of higher education is to foster intellectual curiosity." },
+    { "word": "shape a worldview", "meaning": "hình thành thế giới quan", "ipa": "/ʃeɪp ə ˈwɜːldvjuː/", "example": "Our upbringing and culture significantly shape our worldview." },
+    { "word": "undoubtedly", "meaning": "không nghi ngờ gì nữa", "ipa": "/ʌnˈdaʊtɪdli/", "example": "Undoubtedly, exercise is beneficial for both physical and mental health." },
+    { "word": "critical feedback", "meaning": "phản hồi mang tính xây dựng/phê bình", "ipa": "/ˈkrɪtɪkl ˈfiːdbæk/", "example": "Receiving critical feedback is essential for improving your writing skills." },
+    { "word": "emotional support", "meaning": "hỗ trợ tinh thần/cảm xúc", "ipa": "/ɪˈməʊʃənl səˈpɔːt/", "example": "Friends and family provide vital emotional support during difficult times." },
+    { "word": "educational framework", "meaning": "khung giáo dục", "ipa": "/ˌedʒuˈkeɪʃənl ˈfreɪmwɜːk/", "example": "The new policy aims to provide a more flexible educational framework." },
+    { "word": "learning process", "meaning": "quá trình học tập", "ipa": "/ˈlɜːnɪŋ ˈprəʊses/", "example": "Motivation is a key component of the learning process." },
+    { "word": "knowledge acquisition", "meaning": "tiếp thu kiến thức", "ipa": "/ˈnɒlɪdʒ ˌækwɪˈzɪʃn/", "example": "Self-study is an effective method for knowledge acquisition." },
+    { "word": "academic success", "meaning": "thành công học thuật", "ipa": "/ˌækəˈdemɪk səkˈses/", "example": "High levels of attendance are often linked to academic success." },
+    { "word": "inspiring figure", "meaning": "nhân vật truyền cảm hứng", "ipa": "/ɪnˈspaɪərɪŋ ˈfɪɡə(r)/", "example": "Nelson Mandela is an inspiring figure for people all over the world." },
+    { "word": "role model", "meaning": "hình mẫu lý tưởng", "ipa": "/ˈrəʊl ˌmɒdl/", "example": "Teachers should strive to be positive role models for their students." },
+    { "word": "pedagogical skills", "meaning": "kỹ năng sư phạm", "ipa": "/ˌpedəˈɡɒdʒɪkl skɪlz/", "example": "A great teacher combines deep subject knowledge with excellent pedagogical skills." },
+    { "word": "classroom management", "meaning": "quản lý lớp học", "ipa": "/ˈklɑːsruːm ˈmænɪdʒmənt/", "example": "Effective classroom management is essential for a productive learning environment." },
+    { "word": "personalized learning", "meaning": "học tập cá nhân hóa", "ipa": "/ˈpɜːsənəlaɪzd ˈlɜːnɪŋ/", "example": "Technology can help facilitate personalized learning for every student." },
+    { "word": "student-centered", "meaning": "lấy học sinh làm trung tâm", "ipa": "/ˈstjuːdnt ˈsentəd/", "example": "The school promotes a student-centered approach to education." },
+    { "word": "interactive learning", "meaning": "học tập tương tác", "ipa": "/ˌɪntərˈæktɪv ˈlɜːnɪŋ/", "example": "Group discussions are a key part of interactive learning." },
+    { "word": "holistic approach", "meaning": "phương pháp toàn diện", "ipa": "/həʊˈlɪstɪk əˈprəʊtʃ/", "example": "The university takes a holistic approach to student welfare and development." },
+    { "word": "vocation", "meaning": "thiên chức/nghề nghiệp", "ipa": "/vəʊˈkeɪʃn/", "example": "For many, teaching is more than just a job; it's a vocation." },
+    { "word": "commitment", "meaning": "sự tận tâm/cam kết", "ipa": "/kəˈmɪtmənt/", "example": "She has a strong commitment to her medical research." },
+    { "word": "empathy", "meaning": "sự thấu cảm", "ipa": "/ˈempəθi/", "example": "A good teacher needs to show empathy towards their students' struggles." },
+    { "word": "patience", "meaning": "sự kiên nhẫn", "ipa": "/ˈpeɪʃns/", "example": "Working with young children requires a great deal of patience." },
+    { "word": "expertise", "meaning": "chuyên môn", "ipa": "/ˌekspɜːˈtiːz/", "example": "The consultant provided technical expertise for the new project." },
+    { "word": "facilitate", "meaning": "tạo điều kiện thuận lợi", "ipa": "/fəˈsɪlɪteɪt/", "example": "The moderator's role is to facilitate the discussion among the panelists." },
+    { "word": "encourage", "meaning": "khuyến khích", "ipa": "/ɪnˈkʌrɪdʒ/", "example": "My parents always encouraged me to follow my passions." },
+    { "word": "empower", "meaning": "trao quyền/nâng cao năng lực", "ipa": "/ɪmˈpaʊə(r)/", "example": "Education empowers people to make informed decisions about their lives." },
+    { "word": "nurture talent", "meaning": "nuôi dưỡng tài năng", "ipa": "/ˈnɜːtʃə(r) ˈtælənt/", "example": "The academy's mission is to nurture talent in the performing arts." },
+    { "word": "intellectual growth", "meaning": "sự phát triển trí tuệ", "ipa": "/ˌɪntəˈlektʃuəl ɡrəʊθ/", "example": "University study can lead to significant intellectual growth and discovery." },
+    { "word": "critical thinking", "meaning": "tư duy phản biện", "ipa": "/ˈkrɪtɪkl ˈθɪŋkɪŋ/", "example": "The goal of a liberal arts education is to develop critical thinking skills." },
+    { "word": "problem-solving", "meaning": "giải quyết vấn đề", "ipa": "/ˈprɒbləm ˈsɒlvɪŋ/", "example": "Escape rooms are a fun way to practice teamwork and problem-solving." },
+    { "word": "analytical mind", "meaning": "đầu óc phân tích", "ipa": "/ˌænəˈlɪtɪkl maɪnd/", "example": "Successful scientists often have a very logical and analytical mind." },
+    { "word": "academic rigor", "meaning": "sự khắt khe trong học thuật", "ipa": "/ˌækəˈdemɪk ˈrɪɡə(r)/", "example": "The program is known for its academic rigor and high standards." },
+    { "word": "professional standard", "meaning": "tiêu chuẩn chuyên môn", "ipa": "/prəˈfeʃənl ˈstændəd/", "example": "All teachers are expected to adhere to high professional standards." },
+    { "word": "lifelong learning", "meaning": "học tập suốt đời", "ipa": "/ˌlaɪflɒŋ ˈlɜːnɪŋ/", "example": "Continuous training is essential for lifelong learning in a changing world." },
+    { "word": "impact", "meaning": "tác động/ảnh hưởng", "ipa": "/ˈɪmpækt/", "example": "A single word of encouragement can have a huge impact on a child's life." },
+    { "word": "influence", "meaning": "sự ảnh hưởng", "ipa": "/ˈɪnfluəns/", "example": "My high school teacher had a profound influence on my choice of career." },
+    { "word": "foundation", "meaning": "nền tảng", "ipa": "/faʊnˈdeɪʃn/", "example": "This introductory course provides a solid foundation for further study." },
+    { "word": "academic integrity", "meaning": "sự liêm chính học thuật", "ipa": "/ˌækəˈdemɪk ɪnˈteɡrəti/", "example": "Universities take academic integrity and plagiarism very seriously." },
+    { "word": "leadership", "meaning": "khả năng lãnh đạo", "ipa": "/ˈliːdəʃɪp/", "example": "Strong leadership is needed to guide the company through this period of change." },
+    { "word": "collaboration", "meaning": "sự hợp tác", "ipa": "/kəˌlæbəˈreɪʃn/", "example": "Research projects often involve international collaboration between universities." },
+    { "word": "excellence", "meaning": "sự xuất sắc", "ipa": "/ˈeksələns/", "example": "The school is committed to achieving excellence in all areas of education." },
+    { "word": "inspiration", "meaning": "nguồn cảm hứng", "ipa": "/ˌɪnspəˈreɪʃn/", "example": "Nature is a constant source of inspiration for many artists and writers." }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "a thing of the past",
+      "ipa": "/ə θɪŋ əv ðə pɑːst/",
+      "meaning": "một thứ gì đó đã thuộc về quá khứ, lỗi thời",
+      "example": "To be honest, for many people in this digital age, handwriting has almost become a thing of the past.",
+      "type": "idiom"
+    },
+    {
+      "word": "at the touch of a button",
+      "ipa": "/æt ðə tʌtʃ əv ə ˈbʌt.ən/",
+      "meaning": "rất nhanh chóng và dễ dàng (thường dùng cho công nghệ)",
+      "example": "I prefer typing because it allows me to format my documents and correct errors at the touch of a button.",
+      "type": "idiom"
+    },
+    {
+      "word": "get the hang of",
+      "ipa": "/ɡet ðə hæŋ əv/",
+      "meaning": "nắm bắt được cách làm, quen với việc gì",
+      "example": "It took me a while to get the hang of touch-typing, but now I can type much faster than I can write by hand.",
+      "type": "idiom"
+    },
+    {
+      "word": "lose my train of thought",
+      "ipa": "/luːz maɪ treɪn əv θɔːt/",
+      "meaning": "mất mạch suy nghĩ",
+      "example": "I find that if I write too slowly by hand, I often lose my train of thought during a complex essay.",
+      "type": "idiom"
+    },
+    {
+      "word": "a personal touch",
+      "ipa": "/ə ˈpɜː.sən.əl tʌtʃ/",
+      "meaning": "một nét riêng biệt, cá nhân hóa",
+      "example": "Despite the efficiency of computers, a handwritten letter still adds a personal touch that an email simply lacks.",
+      "type": "idiom"
+    },
+    {
+      "word": "second nature",
+      "ipa": "/ˈsek.ənd ˈneɪ.tʃər/",
+      "meaning": "một kỹ năng đã trở thành bản năng",
+      "example": "I’ve used a keyboard for so long that typing has become second nature to me.",
+      "type": "idiom"
+    },
+    {
+      "word": "old-school",
+      "ipa": "/ˌəʊldˈskuːl/",
+      "meaning": "truyền thống, cổ điển",
+      "example": "Call me old-school, but I still prefer using a pen and paper when brainstorming new ideas.",
+      "type": "idiom"
+    },
+    {
+      "word": "save the day",
+      "ipa": "/seɪv ðə deɪ/",
+      "meaning": "giải quyết vấn đề một cách kịp thời",
+      "example": "The auto-correct feature on my laptop really saves the day when I have to finish reports under tight deadlines.",
+      "type": "idiom"
+    },
+    {
+      "word": "the best of both worlds",
+      "ipa": "/ðə best əv bəʊθ wɜːldz/",
+      "meaning": "tận dụng được ưu điểm của cả hai phía",
+      "example": "Using a stylus on a tablet gives me the best of both worlds: the feeling of handwriting with the perks of digital storage.",
+      "type": "idiom"
+    },
+    {
+      "word": "to put pen to paper",
+      "ipa": "/tu pʊt pen tu ˈpeɪ.pər/",
+      "meaning": "bắt đầu viết cái gì đó",
+      "example": "I find it much more therapeutic to put pen to paper when I’m journaling late at night.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

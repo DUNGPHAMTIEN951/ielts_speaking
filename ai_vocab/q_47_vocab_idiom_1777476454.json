@@ -1,0 +1,76 @@
+{
+  "id": "q_47",
+  "vocab": [
+    {
+      "word": "a social butterfly",
+      "ipa": "/ə ˈsəʊʃl ˈbʌtəflaɪ/",
+      "meaning": "một người thích giao du, hướng ngoại",
+      "example": "I'm not exactly a social butterfly when it comes to exams; I need absolute silence to absorb the material.",
+      "type": "idiom"
+    },
+    {
+      "word": "bounce ideas off",
+      "ipa": "/baʊns aɪˈdɪəz ɒf/",
+      "meaning": "trao đổi ý kiến với ai đó để xem nó có hiệu quả không",
+      "example": "I enjoy studying with others because I can bounce ideas off my peers and see different angles of a problem.",
+      "type": "idiom"
+    },
+    {
+      "word": "get into the zone",
+      "ipa": "/ɡet ˈɪntə ðə zəʊn/",
+      "meaning": "tập trung cao độ, đạt đến trạng thái làm việc hiệu quả nhất",
+      "example": "Studying alone helps me get into the zone much faster than being in a noisy library with friends.",
+      "type": "idiom"
+    },
+    {
+      "word": "play second fiddle",
+      "ipa": "/pleɪ ˈsekənd ˈfɪdl/",
+      "meaning": "đóng vai phụ/vị trí ít quan trọng hơn (thường dùng để nói về việc bị lấn lướt trong nhóm)",
+      "example": "In group study, I sometimes feel like I'm playing second fiddle to more dominant personalities, which hinders my learning.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit the books",
+      "ipa": "/hɪt ðə bʊks/",
+      "meaning": "bắt đầu học tập một cách nghiêm túc và chăm chỉ",
+      "example": "When it's time to hit the books for finals, I usually lock myself in my room to avoid any distractions.",
+      "type": "idiom"
+    },
+    {
+      "word": "rack one's brains",
+      "ipa": "/ræk wʌnz breɪnz/",
+      "meaning": "vắt óc suy nghĩ",
+      "example": "Instead of racking my brains alone over a difficult equation, I prefer asking my classmates for a hint.",
+      "type": "idiom"
+    },
+    {
+      "word": "at one's own pace",
+      "ipa": "/æt wʌnz əʊn peɪs/",
+      "meaning": "theo tốc độ/khả năng riêng của bản thân",
+      "example": "Solitary study allows me to work at my own pace without feeling pressured to keep up with faster students.",
+      "type": "idiom"
+    },
+    {
+      "word": "get the ball rolling",
+      "ipa": "/ɡet ðə bɔːl ˈrəʊlɪŋ/",
+      "meaning": "bắt đầu một tiến trình/công việc nào đó",
+      "example": "Sometimes a group session is great to get the ball rolling on a project that feels too overwhelming to start alone.",
+      "type": "idiom"
+    },
+    {
+      "word": "it’s a double-edged sword",
+      "ipa": "/ɪts ə ˈdʌbl edʒd sɔːd/",
+      "meaning": "con dao hai lưỡi (có cả lợi và hại)",
+      "example": "Studying with others is a double-edged sword; it's helpful for motivation but can easily devolve into social chit-chat.",
+      "type": "idiom"
+    },
+    {
+      "word": "read between the lines",
+      "ipa": "/riːd bɪˈtwiːn ðə laɪnz/",
+      "meaning": "hiểu được ý nghĩa sâu xa/ngụ ý",
+      "example": "Discussing literature with friends helps me read between the lines and catch metaphors I might miss on my own.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

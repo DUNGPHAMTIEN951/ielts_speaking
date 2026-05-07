@@ -1,0 +1,52 @@
+{
+  "id": "q_5",
+  "topic": "Walking",
+  "q": "Do you walk a lot?",
+  "examiner_note": "Nói về thói quen hàng ngày. Sử dụng 'sedentary lifestyle', 'incorporate into routine', 'health-conscious'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I do, especially on weekdays. I usually walk to nearby places like cafés or the supermarket, so it’s part of my daily routine rather than a workout. It helps me stay active without going to the gym.",
+      "note": "Sử dụng từ vựng đời thường tốt (daily routine, active)."
+    },
+    "band8": {
+      "text": "To be honest, I try to incorporate as much walking as possible into my schedule to combat a sedentary lifestyle. I often opt for the stairs instead of the elevator and take brisk walks during my lunch break to clear my head and stay refreshed.",
+      "note": "Sử dụng từ vựng hay (incorporate, combat, sedentary, opt for, brisk)."
+    },
+    "band9": {
+      "text": "I’m quite a health-conscious individual, so walking is an integral part of my day. I find it to be a meditative practice that allows me to decompress while remaining physically active. Whether it’s a morning stroll or a longer hike on weekends, I relish the opportunity to be on my feet and experience my surroundings at a slower pace.",
+      "note": "Sử dụng từ vựng linh hoạt (integral, meditative, decompress, relish)."
+    }
+  },
+  "v": [
+    {
+      "word": "sedentary",
+      "meaning": "ít vận động",
+      "ipa": "/ˈsednteri/",
+      "example": "Office jobs can lead to a sedentary lifestyle."
+    },
+    {
+      "word": "brisk",
+      "meaning": "nhanh/mạnh mẽ",
+      "ipa": "/brɪsk/",
+      "example": "A brisk walk is good for the heart."
+    },
+    {
+      "word": "decompress",
+      "meaning": "giải tỏa áp lực",
+      "ipa": "/ˌdiːkəmˈpres/",
+      "example": "Walking helps me decompress after work."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "integral",
+      "meaning": "thiết yếu/không thể thiếu",
+      "ipa": "/ˈɪntɪɡrəl/",
+      "example": "Walking is an integral part of my fitness regime."
+    }
+  ],
+  "similar_questions": [
+    "Do you prefer walking in the city or the countryside?",
+    "What are the benefits of walking?"
+  ]
+}

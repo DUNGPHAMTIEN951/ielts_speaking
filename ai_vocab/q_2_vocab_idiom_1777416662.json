@@ -1,0 +1,76 @@
+{
+  "id": "q_2",
+  "vocab": [
+    {
+      "word": "a walk down memory lane",
+      "ipa": "/ə wɔːk daʊn ˈmem.ər.i leɪn/",
+      "meaning": "hành trình tìm lại những ký ức đẹp trong quá khứ",
+      "example": "Talking about my stamp collection is truly a walk down memory lane, reminding me of my carefree school days.",
+      "type": "idiom"
+    },
+    {
+      "word": "from the word go",
+      "ipa": "/frəm ðə wɜːd ɡəʊ/",
+      "meaning": "ngay từ lúc bắt đầu",
+      "example": "I was hooked on playing the piano from the word go, and I’ve never looked back since.",
+      "type": "idiom"
+    },
+    {
+      "word": "be second nature to someone",
+      "ipa": "/biː ˈsek.ənd ˈneɪ.tʃə/",
+      "meaning": "trở thành bản năng/thói quen ăn sâu vào máu",
+      "example": "Painting has become second nature to me because I’ve been doing it since I could first hold a brush.",
+      "type": "idiom"
+    },
+    {
+      "word": "cut one's teeth on something",
+      "ipa": "/kʌt wʌnz tiːθ ɒn/",
+      "meaning": "bắt đầu học hỏi/tích lũy kinh nghiệm từ khi còn rất nhỏ",
+      "example": "I actually cut my teeth on basic coding when I was just ten years old, thanks to my father's old computer.",
+      "type": "idiom"
+    },
+    {
+      "word": "stand the test of time",
+      "ipa": "/stænd ðə test əv taɪm/",
+      "meaning": "trường tồn với thời gian (vẫn được duy trì/yêu thích)",
+      "example": "My passion for football has stood the test of time, even as my other interests have faded away.",
+      "type": "idiom"
+    },
+    {
+      "word": "at one's mother's/father's knee",
+      "ipa": "/æt wʌnz ˈmʌð.əz niː/",
+      "meaning": "học được điều gì đó từ khi còn tấm bé",
+      "example": "I learned the art of gardening at my mother's knee, and it remains my favorite hobby to this day.",
+      "type": "idiom"
+    },
+    {
+      "word": "take a leaf out of someone’s book",
+      "ipa": "/teɪk ə liːf aʊt əv/",
+      "meaning": "noi gương ai đó (áp dụng cho việc bắt đầu sở thích)",
+      "example": "I took a leaf out of my brother's book and started playing chess when I was six.",
+      "type": "idiom"
+    },
+    {
+      "word": "lose oneself in something",
+      "ipa": "/luːz wʌnˈself ɪn/",
+      "meaning": "đắm chìm/mê mẩn vào điều gì đó",
+      "example": "Since I was a child, I've always loved to lose myself in a good book for hours on end.",
+      "type": "idiom"
+    },
+    {
+      "word": "to be in one's blood",
+      "ipa": "/tuː biː ɪn wʌnz blʌd/",
+      "meaning": "ngấm vào máu/di truyền trong gia đình",
+      "example": "Photography is in my blood; my grandfather was a professional, and I've had a camera in my hand since I was a toddler.",
+      "type": "idiom"
+    },
+    {
+      "word": "rekindle an old flame",
+      "ipa": "/ˌriːˈkɪn.dəl æn əʊld fleɪm/",
+      "meaning": "khơi lại một đam mê cũ (phù hợp nếu bạn bỏ một thời gian rồi quay lại)",
+      "example": "After a long break during university, I’ve recently rekindled my old flame for swimming.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

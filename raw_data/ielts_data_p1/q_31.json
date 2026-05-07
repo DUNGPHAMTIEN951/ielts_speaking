@@ -1,0 +1,71 @@
+{
+  "id": "q_31",
+  "topic": "Studying",
+  "q": "Why did you choose that subject/major?",
+  "examiner_note": "Đây là câu hỏi về động lực (motivation). \n- **Hướng dẫn trả lời**: Bạn có thể nói về sở thích cá nhân, triển vọng nghề nghiệp, sức ảnh hưởng từ gia đình hoặc một sự kiện cụ thể đã truyền cảm hứng cho bạn. \n- **Mẹo**: Sử dụng các cấu trúc như 'It was a combination of...', 'What primarily drew me to...', 'I have always been fascinated by...' để câu trả lời chuyên nghiệp hơn.",
+  "samples": {
+    "band7": {
+      "text": "I chose Graphic Design because I've always loved drawing and being creative since I was a child. Also, I think there are many job opportunities in this field because every company needs a designer to create their visual identity.",
+      "note": "Trả lời rõ ràng, có ý về sở thích và triển vọng việc làm. Ngôn ngữ tự nhiên."
+    },
+    "band8": {
+      "text": "What primarily drew me to Environmental Science was my growing concern about climate change and sustainability. I wanted to gain a deeper understanding of how we can protect our planet, and I believe this major provides the perfect platform to do that.",
+      "note": "Sử dụng cấu trúc nhấn mạnh 'What primarily drew me to...'. Từ vựng tốt ('sustainability', 'platform')."
+    },
+    "band9": {
+      "text": "My decision to pursue Biomedical Engineering was steered by a profound fascination with how technology can revolutionize healthcare. I've always been keen on problem-solving, and the prospect of developing life-saving medical devices was an opportunity I simply couldn't pass up.",
+      "note": "Diễn đạt cực kỳ lôi cuốn ('steered by', 'profound fascination', 'revolutionize'). Sử dụng cụm từ 'keen on', 'prospect of', 'pass up' rất tự nhiên và chính xác."
+    }
+  },
+  "v": [
+    { "word": "primarily", "meaning": "chủ yếu", "ipa": "/ˈpraɪmərəli/", "example": "The course is primarily intended for beginners." },
+    { "word": "draw to", "meaning": "thu hút bởi", "ipa": "/drɔː tuː/", "example": "I was drawn to this university because of its excellent reputation." },
+    { "word": "profound", "meaning": "sâu sắc", "ipa": "/prəˈfaʊnd/", "example": "His speech had a profound impact on the audience." },
+    { "word": "fascination", "meaning": "sự đam mê/quyến rũ", "ipa": "/ˌfæsɪˈneɪʃn/", "example": "I have a lifelong fascination with ancient civilizations." },
+    { "word": "revolutionize", "meaning": "cách mạng hóa", "ipa": "/ˌrevəˈluːʃənaɪz/", "example": "The internet has revolutionized the way we communicate." },
+    { "word": "prospect of", "meaning": "triển vọng/khả năng xảy ra", "ipa": "/ˈprɒspekt əv/", "example": "The prospect of a promotion is very exciting." },
+    { "word": "pass up", "meaning": "bỏ lỡ/từ chối (cơ hội)", "ipa": "/pæs ʌp/", "example": "I couldn't pass up the chance to study abroad." },
+    { "word": "align with", "meaning": "phù hợp với", "ipa": "/əˈlaɪn wɪð/", "example": "My personal values align with the company's mission statement." },
+    { "word": "keen on", "meaning": "thích thú/đam mê", "ipa": "/kiːn ɒn/", "example": "She is very keen on learning new languages." },
+    { "word": "steer by", "meaning": "được định hướng/dẫn dắt bởi", "ipa": "/stɪə(r) baɪ/", "example": "My career choices were steered by my passion for social justice." },
+    { "word": "combination of", "meaning": "sự kết hợp của", "ipa": "/ˌkɒmbɪˈneɪʃn əv/", "example": "Success is usually a combination of hard work and luck." },
+    { "word": "aptitude for", "meaning": "năng khiếu về", "ipa": "/ˈæptɪtjuːd fɔː(r)/", "example": "He showed a natural aptitude for music from a young age." },
+    { "word": "career path", "meaning": "con đường sự nghiệp", "ipa": "/kəˈrɪə pɑːθ/", "example": "Choosing the right major is the first step on your career path." },
+    { "word": "personal interest", "meaning": "sở thích cá nhân", "ipa": "/ˈpɜːsənl ˈɪntrest/", "example": "I chose this subject purely out of personal interest." },
+    { "word": "role model", "meaning": "hình mẫu lý tưởng", "ipa": "/ˈrəʊl ˌmɒdl/", "example": "My father was my role model and inspired me to become an engineer." },
+    { "word": "family tradition", "meaning": "truyền thống gia đình", "ipa": "/ˈfæməli trəˈdɪʃn/", "example": "I followed a family tradition by studying medicine." },
+    { "word": "job security", "meaning": "sự ổn định công việc", "ipa": "/dʒɒb sɪˈkjʊərəti/", "example": "Many students choose nursing for the job security it offers." },
+    { "word": "earning potential", "meaning": "tiềm năng thu nhập", "ipa": "/ˈɜːnɪŋ pəˈtenʃl/", "example": "Finance is a major with high earning potential." },
+    { "word": "social impact", "meaning": "tác động xã hội", "ipa": "/ˈsəʊʃl ˈɪmpækt/", "example": "I want a career that allows me to make a positive social impact." },
+    { "word": "in-depth knowledge", "meaning": "kiến thức chuyên sâu", "ipa": "/ɪn depθ ˈnɒlɪdʒ/", "example": "The program provides in-depth knowledge of international law." },
+    { "word": "inspiration", "meaning": "nguồn cảm hứng", "ipa": "/ˌɪnspəˈreɪʃn/", "example": "Her work is a constant source of inspiration for me." },
+    { "word": "hands-on approach", "meaning": "phương pháp học đi đôi với hành", "ipa": "/hændz ɒn əˈprəʊtʃ/", "example": "This course is perfect for students who prefer a hands-on approach." },
+    { "word": "natural talent", "meaning": "tài năng thiên bẩm", "ipa": "/ˈnætʃrəl ˈtælənt/", "example": "You have a natural talent for making people feel at ease." },
+    { "word": "practicality", "meaning": "tính thực tế", "ipa": "/ˌpræktɪˈkæləti/", "example": "I chose this major because of its practicality in the current job market." },
+    { "word": "global trends", "meaning": "xu hướng toàn cầu", "ipa": "/ˈɡləʊbl trendz/", "example": "Studying data science was a strategic choice based on global trends." },
+    { "word": "innovation", "meaning": "sự đổi mới/sáng tạo", "ipa": "/ˌɪnəˈveɪʃn/", "example": "I want to be at the forefront of technological innovation." },
+    { "word": "academic rigor", "meaning": "sự khắt khe trong học thuật", "ipa": "/ˌækəˈdemɪk ˈrɪɡə(r)/", "example": "I was attracted to the academic rigor of the program." },
+    { "word": "mentality", "meaning": "tư duy/tâm lý", "ipa": "/menˈtæləti/", "example": "Successful students often have a growth mentality." },
+    { "word": "entrepreneurship", "meaning": "tinh thần khởi nghiệp", "ipa": "/ˌɒntrəprəˈnɜːʃɪp/", "example": "The business school has a strong focus on entrepreneurship." },
+    { "word": "versatility", "meaning": "tính linh hoạt/đa năng", "ipa": "/ˌvɜːsəˈtɪləti/", "example": "A degree in communication offers great versatility in career choices." },
+    { "word": "fulfillment", "meaning": "sự mãn nguyện/hoàn thành", "ipa": "/fʊlˈfɪlmənt/", "example": "Helping others brings me a great sense of fulfillment." },
+    { "word": "long-term goal", "meaning": "mục tiêu dài hạn", "ipa": "/ˈlɒŋ tɜːm ɡəʊl/", "example": "Studying abroad is part of my long-term goal to work internationally." },
+    { "word": "self-discovery", "meaning": "tự khám phá bản thân", "ipa": "/ˌself dɪˈskʌvəri/", "example": "The first year of university is a time for self-discovery." },
+    { "word": "passion", "meaning": "niềm đam mê", "ipa": "/ˈpæʃn/", "example": "If you follow your passion, you will never work a day in your life." },
+    { "word": "intellectual curiosity", "meaning": "sự tò mò về trí tuệ", "ipa": "/ˌɪntəˈlektʃuəl ˌkjʊəriˈɒsəti/", "example": "The course is designed to satisfy the students' intellectual curiosity." },
+    { "word": "career advancement", "meaning": "sự thăng tiến trong nghề nghiệp", "ipa": "/kəˈrɪər ədˈvɑːnsmənt/", "example": "Obtaining a master's degree is often necessary for career advancement." },
+    { "word": "market demand", "meaning": "nhu cầu thị trường", "ipa": "/ˈmɑːkɪt dɪˈmɑːnd/", "example": "I chose to study Phạm Tiến Dũng Gia Sư because of the high market demand for tech experts." },
+    { "word": "strategic choice", "meaning": "lựa chọn chiến lược", "ipa": "/strəˈtiːdʒɪk tʃɔɪs/", "example": "Majoring in Mandarin was a strategic choice for my future in trade." },
+    { "word": "influence", "meaning": "sự ảnh hưởng", "ipa": "/ˈɪnfluəns/", "example": "My high school teacher had a big influence on my choice of major." },
+    { "word": "extracurricular interest", "meaning": "sở thích ngoài giờ học", "ipa": "/ˌekstrəkəˈrɪkjələ ˈɪntrest/", "example": "My extracurricular interest in coding eventually became my major." },
+    { "word": "foundation", "meaning": "nền tảng", "ipa": "/faʊnˈdeɪʃn/", "example": "This major provides a strong foundation for a career in law." },
+    { "word": "interact with", "meaning": "tương tác với", "ipa": "/ˌɪntərˈækt wɪð/", "example": "I enjoy studying psychology because I like interacting with people." },
+    { "word": "creativity", "meaning": "sự sáng tạo", "ipa": "/ˌkrieɪˈtɪvəti/", "example": "Design allows me to express my creativity." },
+    { "word": "logic", "meaning": "logic/luận điểm", "ipa": "/ˈlɒdʒɪk/", "example": "I'm drawn to mathematics because of its clear logic." },
+    { "word": "analytical thinking", "meaning": "tư duy phân tích", "ipa": "/ˌænəˈlɪtɪkl ˈθɪŋkɪŋ/", "example": "Science subjects require a lot of analytical thinking." },
+    { "word": "global citizenship", "meaning": "công dân toàn cầu", "ipa": "/ˈɡləʊbl ˈsɪtɪzənʃɪp/", "example": "The course aims to prepare students for global citizenship." },
+    { "word": "leadership skills", "meaning": "kỹ năng lãnh đạo", "ipa": "/ˈliːdəʃɪp skɪlz/", "example": "Participating in student council helps develop leadership skills." },
+    { "word": "networking opportunity", "meaning": "cơ hội kết nối", "ipa": "/ˈnetwɜːkɪŋ ˌɒpəˈtjuːnəti/", "example": "Conferences provide great networking opportunities with industry leaders." },
+    { "word": "self-improvement", "meaning": "tự cải thiện bản thân", "ipa": "/ˌself ɪmˈpruːvmənt/", "example": "I see my studies as a continuous process of self-improvement." }
+  ]
+}

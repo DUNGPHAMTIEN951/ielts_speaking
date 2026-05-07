@@ -1,0 +1,76 @@
+{
+  "id": "q_31",
+  "vocab": [
+    {
+      "word": "shell out",
+      "ipa": "/ʃel aʊt/",
+      "meaning": "chi một khoản tiền lớn cho thứ gì đó (thường là bất ngờ hoặc đắt đỏ)",
+      "example": "I occasionally shell out for premium leather boots because they last so much longer than cheap alternatives.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "run up",
+      "ipa": "/rʌn ʌp/",
+      "meaning": "làm tăng nhanh số tiền nợ hoặc chi phí (thường là nợ thẻ tín dụng)",
+      "example": "I try to be careful not to run up a huge bill on my credit card when I see a new sneaker collection.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tide someone over",
+      "ipa": "/taɪd ˈsʌm.wʌn ˈəʊ.vər/",
+      "meaning": "giúp ai đó xoay sở/đủ dùng trong một khoảng thời gian (về mặt tài chính)",
+      "example": "Buying a mid-range pair of shoes usually tides me over until the major end-of-year sales begin.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lay out",
+      "ipa": "/leɪ aʊt/",
+      "meaning": "chi ra một số tiền lớn (thường với mục đích đầu tư hoặc kỳ vọng chất lượng)",
+      "example": "I’m willing to lay out a substantial amount for orthopedic shoes to ensure my long-term comfort.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hold back",
+      "ipa": "/həʊld bæk/",
+      "meaning": "kiềm chế, giữ lại (không chi tiêu quá mức)",
+      "example": "When it comes to luxury footwear, I usually have to hold back to avoid overspending my monthly budget.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dip into",
+      "ipa": "/dɪp ˈɪn.tuː/",
+      "meaning": "trích một phần tiền từ quỹ tiết kiệm (để mua món đồ gì đó)",
+      "example": "I had to dip into my emergency fund to replace my hiking boots after they fell apart unexpectedly.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut back on",
+      "ipa": "/kʌt bæk ɒn/",
+      "meaning": "cắt giảm chi tiêu cho cái gì",
+      "example": "I’ve had to cut back on buying trendy sneakers lately to prioritize my tuition fees.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go towards",
+      "ipa": "/ɡəʊ təˈwɔːrdz/",
+      "meaning": "được đóng góp/sử dụng vào mục đích cụ thể",
+      "example": "A significant portion of my discretionary income goes towards maintaining a versatile shoe wardrobe.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "come to",
+      "ipa": "/kʌm tuː/",
+      "meaning": "lên tới tổng cộng là (về mặt số tiền)",
+      "example": "By the time I add tax and shipping, a pair of imported trainers can come to quite an eye-watering sum.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "payout",
+      "ipa": "/ˈpeɪ.aʊt/",
+      "meaning": "chi trả một khoản tiền lớn (dạng danh từ của hành động chi trả)",
+      "example": "The initial payout for high-quality running gear is high, but it's worth it to prevent sports injuries.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

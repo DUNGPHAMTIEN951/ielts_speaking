@@ -1,0 +1,332 @@
+{
+  "q": "Describe one of your friends who learned something new (not from a teacher)",
+  "cue_card": [
+    "You should say:",
+    "Who this friend is",
+    "What they learned",
+    "How they learned it",
+    "And explain why they decided to learn it by themselves"
+  ],
+  "examiner_note": "Với chủ đề này, bạn nên tập trung vào việc mô tả quá trình tự học (self-study). Hãy làm nổi bật sự kiên trì và tính sáng tạo của người bạn đó. Cấu trúc bài nói nên đi từ giới thiệu người bạn -> kỹ năng mới -> cách họ vượt qua khó khăn khi không có giáo viên -> cảm nhận của bạn.",
+  "samples": {
+    "band7": "I'd like to talk about my close friend, Nam, who recently taught himself how to play the guitar. He's always been a big fan of indie music, and one day he just decided he wanted to create his own tunes. Since he couldn't afford expensive music lessons, he turned to the internet as his primary resource. He spent countless hours watching YouTube tutorials and practicing chords in his bedroom. At first, it was quite a struggle because his fingers were constantly sore, but he didn't give up. He persisted for months, and now he can play several popular songs and even started writing his own melodies. I really admire his dedication because learning a musical instrument without professional guidance is no small feat. It shows that with enough passion and access to digital resources, anyone can pick up a new skill if they set their mind to it.",
+    "band8": "Actually, I want to describe my best mate, Linh, who has recently mastered the art of digital photography entirely on her own. She's always had a keen eye for aesthetics, but she wanted to take her skills to the next level. Instead of enrolling in a formal course, she deep-dived into various online forums and technical blogs. She spent her weekends exploring the city, experimenting with different lighting conditions and camera settings. What's impressive is that she didn't just learn how to take a 'pretty' picture; she actually grasped the technical nuances of ISO, aperture, and shutter speed. I remember she was initially quite overwhelmed by the complex terminology, but she remained undeterred. She used her intuition and trial-and-error to figure things out. Now, her work is truly professional, and she's even started getting freelance gigs. I think she chose to learn by herself because she values the freedom to explore her own style at her own pace, without being constrained by a rigid curriculum.",
+    "band9": "Without a shadow of a doubt, the person who comes to mind is my childhood friend, Khoa, who remarkably taught himself advanced programming languages like Python and JavaScript. Khoa has an insatiable curiosity for how things work under the hood. He embarked on this journey because he wanted to build a customized app to streamline his daily tasks. He utilized open-source platforms and joined various developer communities to troubleshoot challenges. What struck me most was his ability to synthesize complex abstract concepts without any formal academic background in computer science. He didn't just scratch the surface; he delved into data structures and algorithms, which are notoriously difficult to grasp independently. His approach was incredibly systematic—he'd set daily milestones and hold himself accountable. I believe he opted for the self-taught route because he finds the process of 'learning how to learn' far more rewarding than passive classroom instruction. It was a testament to his autonomy and cognitive flexibility, and seeing him transition from a complete novice to a proficient coder has been truly inspiring."
+  },
+  "v": [
+    {
+      "word": "self-study",
+      "ipa": "/ˌself ˈstʌdi/",
+      "meaning": "tự học",
+      "example": "Self-study requires a high level of discipline."
+    },
+    {
+      "word": "indie music",
+      "ipa": "/ˈɪndi ˈmjuːzɪk/",
+      "meaning": "nhạc độc lập",
+      "example": "He has a massive collection of indie music albums."
+    },
+    {
+      "word": "tunes",
+      "ipa": "/tjuːnz/",
+      "meaning": "giai điệu",
+      "example": "She hummed a catchy tune throughout the day."
+    },
+    {
+      "word": "primary resource",
+      "ipa": "/ˈpraɪməri rɪˈsɔːrs/",
+      "meaning": "nguồn tài liệu chính",
+      "example": "YouTube is a primary resource for many DIY learners."
+    },
+    {
+      "word": "countless hours",
+      "ipa": "/ˈkaʊntləs ˈaʊərz/",
+      "meaning": "hàng giờ vô tận",
+      "example": "They spent countless hours debating the new policy."
+    },
+    {
+      "word": "practice chords",
+      "ipa": "/ˈpræktɪs kɔːrdz/",
+      "meaning": "tập các hợp âm",
+      "example": "You need to practice chords daily to build muscle memory."
+    },
+    {
+      "word": "quite a struggle",
+      "ipa": "/kwaɪt ə ˈstrʌɡl/",
+      "meaning": "khá là vất vả",
+      "example": "Climbing the mountain was quite a struggle in the rain."
+    },
+    {
+      "word": "sore fingers",
+      "ipa": "/sɔːr ˈfɪŋɡərz/",
+      "meaning": "ngón tay bị đau",
+      "example": "After hours of guitar practice, I had very sore fingers."
+    },
+    {
+      "word": "persisted",
+      "ipa": "/pərˈsɪstɪd/",
+      "meaning": "kiên trì",
+      "example": "Despite the setbacks, he persisted with his research."
+    },
+    {
+      "word": "professional guidance",
+      "ipa": "/prəˈfeʃənl ˈɡaɪdns/",
+      "meaning": "sự hướng dẫn chuyên nghiệp",
+      "example": "Without professional guidance, it’s easy to pick up bad habits."
+    },
+    {
+      "word": "no small feat",
+      "ipa": "/noʊ smɔːl fiːt/",
+      "meaning": "không phải là một kỳ tích nhỏ (rất khó)",
+      "example": "Completing the marathon was no small feat for a beginner."
+    },
+    {
+      "word": "pick up a skill",
+      "ipa": "/pɪk ʌp ə skɪl/",
+      "meaning": "học nhanh một kỹ năng",
+      "example": "Children pick up languages much faster than adults."
+    },
+    {
+      "word": "set their mind to it",
+      "ipa": "/set ðer maɪnd tuː ɪt/",
+      "meaning": "quyết tâm làm gì",
+      "example": "You can achieve anything if you truly set your mind to it."
+    },
+    {
+      "word": "best mate",
+      "ipa": "/best meɪt/",
+      "meaning": "bạn thân nhất",
+      "example": "He’s been my best mate since primary school."
+    },
+    {
+      "word": "mastered",
+      "ipa": "/ˈmæstərd/",
+      "meaning": "thành thạo",
+      "example": "She mastered the piano after years of practice."
+    },
+    {
+      "word": "keen eye for aesthetics",
+      "ipa": "/kiːn aɪ fɔːr esˈθetɪks/",
+      "meaning": "có con mắt thẩm mỹ tốt",
+      "example": "As an interior designer, she has a keen eye for aesthetics."
+    },
+    {
+      "word": "take to the next level",
+      "ipa": "/teɪk tuː ðə nekst ˈlevl/",
+      "meaning": "nâng lên một tầm cao mới",
+      "example": "The chef took the traditional dish to the next level with modern techniques."
+    },
+    {
+      "word": "enrolling",
+      "ipa": "/ɪnˈroʊlɪŋ/",
+      "meaning": "đăng ký học",
+      "example": "Are you enrolling in the advanced math course?"
+    },
+    {
+      "word": "deep-dived into",
+      "ipa": "/diːp daɪvd ˈɪntuː/",
+      "meaning": "tìm hiểu sâu vào",
+      "example": "We deep-dived into the data to find the root cause."
+    },
+    {
+      "word": "experimenting",
+      "ipa": "/ɪkˈsperɪˌmentɪŋ/",
+      "meaning": "thử nghiệm",
+      "example": "He's experimenting with new recipes for the bakery."
+    },
+    {
+      "word": "technical nuances",
+      "ipa": "/ˈteknɪkl ˈnuːɑːnsɪz/",
+      "meaning": "những sắc thái kỹ thuật",
+      "example": "Understanding technical nuances is key to becoming an expert."
+    },
+    {
+      "word": "ISO, aperture, and shutter speed",
+      "ipa": "/ˌaɪ ˌes ˈoʊ ˈæpərtʃər ənd ˈʃʌtər spiːd/",
+      "meaning": "các thông số máy ảnh (ISO, khẩu độ, tốc độ màn trập)",
+      "example": "He explained how ISO, aperture, and shutter speed work together."
+    },
+    {
+      "word": "initially overwhelmed",
+      "ipa": "/ɪˈnɪʃəli ˌoʊvərˈwelmd/",
+      "meaning": "ban đầu bị choáng ngợp",
+      "example": "The new staff was initially overwhelmed by the workload."
+    },
+    {
+      "word": "complex terminology",
+      "ipa": "/ˈkɒmpleks ˌtɜːmɪˈnɒlədʒi/",
+      "meaning": "thuật ngữ phức tạp",
+      "example": "Medical books are often full of complex terminology."
+    },
+    {
+      "word": "remained undeterred",
+      "ipa": "/rɪˈmeɪnd ˌʌndɪˈtɜːrd/",
+      "meaning": "vẫn không nản lòng",
+      "example": "She remained undeterred despite several rejections."
+    },
+    {
+      "word": "trial-and-error",
+      "ipa": "/ˌtraɪəl ənd ˈerər/",
+      "meaning": "thử và sai",
+      "example": "The software was developed through many rounds of trial-and-error."
+    },
+    {
+      "word": "freelance gigs",
+      "ipa": "/ˈfriːlæns ɡɪɡz/",
+      "meaning": "công việc tự do",
+      "example": "He’s been taking on freelance gigs as a graphic designer."
+    },
+    {
+      "word": "rigid curriculum",
+      "ipa": "/ˈrɪdʒɪd kəˈrɪkjələm/",
+      "meaning": "chương trình học cứng nhắc",
+      "example": "A rigid curriculum can stifle a student's natural creativity."
+    },
+    {
+      "word": "without a shadow of a doubt",
+      "ipa": "/wɪˈðaʊt ə ˈʃædoʊ əv ə daʊt/",
+      "meaning": "không một chút nghi ngờ",
+      "example": "She is, without a shadow of a doubt, the best candidate."
+    },
+    {
+      "word": "insatiable curiosity",
+      "ipa": "/ɪnˈseɪʃəbl ˌkjʊəriˈɒsəti/",
+      "meaning": "sự tò mò khao khát",
+      "example": "His insatiable curiosity led him to explore every corner of the world."
+    },
+    {
+      "word": "under the hood",
+      "ipa": "/ˈʌndər ðə hʊd/",
+      "meaning": "bản chất bên dưới (hệ thống)",
+      "example": "Let's see what's happening under the hood of this application."
+    },
+    {
+      "word": "embarked on this journey",
+      "ipa": "/ɪmˈbɑːrkt ɑːn ðɪs ˈdʒɜːrni/",
+      "meaning": "bắt đầu hành trình này",
+      "example": "They embarked on this journey with great enthusiasm."
+    },
+    {
+      "word": "streamline",
+      "ipa": "/ˈstriːmlaɪn/",
+      "meaning": "tối ưu hóa",
+      "example": "The new software will help streamline our workflow."
+    },
+    {
+      "word": "open-source platforms",
+      "ipa": "/ˌoʊpən ˈsɔːrs ˈplætfɔːrmz/",
+      "meaning": "nền tảng mã nguồn mở",
+      "example": "Many developers contribute to open-source platforms."
+    },
+    {
+      "word": "troubleshoot challenges",
+      "ipa": "/ˈtrʌblʃuːt ˈtʃælɪndʒɪz/",
+      "meaning": "giải quyết khó khăn",
+      "example": "Engineers are working to troubleshoot challenges in the new system."
+    },
+    {
+      "word": "synthesize",
+      "ipa": "/ˈsɪnθəsaɪz/",
+      "meaning": "tổng hợp",
+      "example": "The report synthesizes data from several different research studies."
+    },
+    {
+      "word": "abstract concepts",
+      "ipa": "/ˈæbstrækt ˈkɒnsept/",
+      "meaning": "khái niệm trừu tượng",
+      "example": "Younger children often struggle with abstract concepts like justice."
+    },
+    {
+      "word": "scratch the surface",
+      "ipa": "/skrætʃ ðə ˈsɜːrfɪs/",
+      "meaning": "biết hời hợt",
+      "example": "The 30-minute documentary could only scratch the surface of the issue."
+    },
+    {
+      "word": "data structures and algorithms",
+      "ipa": "/ˈdeɪtə ˈstrʌktʃərz ənd ˈælɡərɪðəmz/",
+      "meaning": "cấu trúc dữ liệu và thuật toán",
+      "example": "Mastering data structures and algorithms is essential for programmers."
+    },
+    {
+      "word": "notoriously difficult",
+      "ipa": "/noʊˈtɔːriəsli ˈdɪfɪkəlt/",
+      "meaning": "khét tiếng là khó",
+      "example": "The entrance exam is notoriously difficult to pass."
+    },
+    {
+      "word": "systematic",
+      "ipa": "/ˌsɪstəˈmætɪk/",
+      "meaning": "có hệ thống",
+      "example": "She took a systematic approach to cleaning the house."
+    },
+    {
+      "word": "held himself accountable",
+      "ipa": "/held hɪmˈself əˈkaʊntəbl/",
+      "meaning": "tự chịu trách nhiệm với bản thân",
+      "example": "He held himself accountable for meeting the deadline."
+    },
+    {
+      "word": "passive classroom instruction",
+      "ipa": "/ˈpæsɪv ˈklæsruːm ɪnˈstrʌkʃn/",
+      "meaning": "sự giảng dạy thụ động trong lớp",
+      "example": "Interactive learning is often more effective than passive classroom instruction."
+    },
+    {
+      "word": "testament to",
+      "ipa": "/ˈtestəmənt tuː/",
+      "meaning": "minh chứng cho",
+      "example": "The museum's collection is a testament to the city's rich history."
+    },
+    {
+      "word": "autonomy",
+      "ipa": "/ɔːˈtɒnəmi/",
+      "meaning": "sự tự chủ",
+      "example": "Employees were given more autonomy to make decisions."
+    },
+    {
+      "word": "cognitive flexibility",
+      "ipa": "/ˈkɒɡnɪtɪv ˌfleksəˈbɪləti/",
+      "meaning": "sự linh hoạt trong nhận thức",
+      "example": "Cognitive flexibility allows us to adapt to changing situations."
+    },
+    {
+      "word": "transition",
+      "ipa": "/trænˈzɪʃn/",
+      "meaning": "chuyển đổi",
+      "example": "The country is making the transition to renewable energy."
+    },
+    {
+      "word": "complete novice",
+      "ipa": "/kəmˈpliːt ˈnɒvɪs/",
+      "meaning": "người mới hoàn toàn",
+      "example": "I was a complete novice when I started gardening."
+    },
+    {
+      "word": "proficient coder",
+      "ipa": "/prəˈfɪʃnt ˈkoʊdər/",
+      "meaning": "người lập trình thành thạo",
+      "example": "After a year of study, he became a proficient coder."
+    },
+    {
+      "word": "truly inspiring",
+      "ipa": "/ˈtruːli ɪnˈspaɪərɪŋ/",
+      "meaning": "thực sự truyền cảm hứng",
+      "example": "Her survival story was truly inspiring to everyone."
+    },
+    {
+      "word": "dedication",
+      "ipa": "/ˌdedɪˈkeɪʃn/",
+      "meaning": "sự cống hiến/tận tâm",
+      "example": "Success depends on hard work and dedication."
+    },
+    {
+      "word": "musical melodies",
+      "ipa": "/ˈmjuːzɪkl ˈmelədiːz/",
+      "meaning": "giai điệu âm nhạc",
+      "example": "The film score is filled with beautiful musical melodies."
+    }
+  ],
+  "topic": "Describe one of your friends who learned something new (not from a teacher)",
+  "id": "p2_q1"
+}

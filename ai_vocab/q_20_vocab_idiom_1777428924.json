@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "nest egg",
+      "ipa": "/ˈnest eɡ/",
+      "meaning": "khoản tiền tiết kiệm dành dụm cho tương lai",
+      "example": "People use banks to build a substantial nest egg for their retirement or for their children's education.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep something under wraps",
+      "ipa": "/kiːp ˈsʌmθɪŋ ˈʌndər ræps/",
+      "meaning": "giữ bí mật/an toàn (về tài chính)",
+      "example": "Banks allow individuals to keep their financial transactions and wealth under wraps, providing a layer of privacy and security.",
+      "type": "idiom"
+    },
+    {
+      "word": "tide someone over",
+      "ipa": "/taɪd ˈsʌmwʌn ˈoʊvər/",
+      "meaning": "giúp ai đó vượt qua giai đoạn khó khăn (về tiền bạc)",
+      "example": "Many rely on bank credit lines to tide them over during months when their business revenue is lower than expected.",
+      "type": "idiom"
+    },
+    {
+      "word": "for a rainy day",
+      "ipa": "/fər ə ˈreɪni deɪ/",
+      "meaning": "dành dụm cho những lúc túng thiếu/khẩn cấp",
+      "example": "The main reason for opening a savings account is to put aside money for a rainy day.",
+      "type": "idiom"
+    },
+    {
+      "word": "feather one's nest",
+      "ipa": "/ˈfeðər wʌnz nest/",
+      "meaning": "làm giàu cho bản thân (thường bằng cách tích lũy tiền bạc)",
+      "example": "Sophisticated investors use diverse bank portfolios to feather their nests through various compound interest schemes.",
+      "type": "idiom"
+    },
+    {
+      "word": "at one's fingertips",
+      "ipa": "/æt wʌnz ˈfɪŋɡərtɪps/",
+      "meaning": "có sẵn ngay lập tức/trong tầm tay",
+      "example": "With mobile banking, people have their entire financial history right at their fingertips 24/7.",
+      "type": "idiom"
+    },
+    {
+      "word": "balance the books",
+      "ipa": "/ˈbæləns ðə bʊks/",
+      "meaning": "quyết toán thu chi/cân bằng ngân sách",
+      "example": "Businesses use banking services to help them balance the books and ensure their outgoings do not exceed their income.",
+      "type": "idiom"
+    },
+    {
+      "word": "live beyond one's means",
+      "ipa": "/lɪv bɪˈjɒnd wʌnz miːnz/",
+      "meaning": "vung tay quá trán/chi tiêu vượt quá khả năng",
+      "example": "Banks offer financial tracking tools that warn users if they are beginning to live beyond their means.",
+      "type": "idiom"
+    },
+    {
+      "word": "money for old rope",
+      "ipa": "/ˈmʌni fər oʊld roʊp/",
+      "meaning": "cách kiếm tiền rất dễ dàng (ám chỉ lãi suất thụ động)",
+      "example": "For some, earning interest on a large deposit feels like money for old rope as the capital grows without any effort.",
+      "type": "idiom"
+    },
+    {
+      "word": "on the house",
+      "ipa": "/ɒn ðə haʊs/",
+      "meaning": "miễn phí (nói về các dịch vụ bổ trợ của ngân hàng)",
+      "example": "Some premium banks offer travel insurance or concierge services on the house to attract high-net-worth individuals.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

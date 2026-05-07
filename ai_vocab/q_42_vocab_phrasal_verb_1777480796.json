@@ -1,0 +1,76 @@
+{
+  "id": "q_42",
+  "vocab": [
+    {
+      "word": "chill out",
+      "ipa": "/tʃɪl aʊt/",
+      "meaning": "thư giãn, thả lỏng (thường dùng trong văn phong nói tự nhiên)",
+      "example": "I usually look for a secluded park where I can just chill out and forget about my deadlines.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "nằm ở nơi khuất, yên tĩnh, ít người biết đến",
+      "example": "I’m quite fond of a small tea house tucked away in a narrow alley, far from the city noise.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop into",
+      "ipa": "/pɒp ˈɪn.tuː/",
+      "meaning": "ghé vào một nơi nào đó nhanh chóng",
+      "example": "Occasionally, I’ll pop into a lively jazz club if I’m in the mood for some vibrant energy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gather around",
+      "ipa": "/ˈɡæð.ər əˈraʊnd/",
+      "meaning": "tụ tập lại xung quanh một nơi nào đó",
+      "example": "I tend to avoid squares where tourists gather around, as the clamor can be quite overwhelming.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊ.vər/",
+      "meaning": "suy ngẫm, cân nhắc kỹ lưỡng về điều gì đó",
+      "example": "A quiet environment is essential for me to mull over my plans for the upcoming week.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɒf/",
+      "meaning": "thả hồn theo mây gió / ngủ thiếp đi (trong không gian yên tĩnh)",
+      "example": "The serene atmosphere of the lakeside is so peaceful that I often find myself drifting off.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "live it up",
+      "ipa": "/lɪv ɪt ʌp/",
+      "meaning": "tận hưởng cuộc sống một cách sôi động, náo nhiệt (thường là đi chơi đêm)",
+      "example": "Once in a blue moon, I like to live it up at a bustling rooftop bar with my closest friends.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear out",
+      "ipa": "/klɪər aʊt/",
+      "meaning": "rời khỏi một nơi nào đó / làm trống trải không gian",
+      "example": "I wait for the crowd to clear out of the museum before I truly start enjoying the exhibits.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "luck out",
+      "ipa": "/lʌk aʊt/",
+      "meaning": "may mắn tìm được một thứ gì đó tốt",
+      "example": "I really lucked out last Sunday when I found a completely deserted trail in the middle of the woods.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "settle in",
+      "ipa": "/ˈset.əl ɪn/",
+      "meaning": "ổn định chỗ ngồi và cảm thấy thoải mái",
+      "example": "I love to find a cozy corner in a library, settle in with a good book, and ignore the world.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_37",
+  "vocab": [
+    {
+      "word": "tucked away",
+      "ipa": "/tʌkt əˈweɪ/",
+      "meaning": "nằm ở một nơi hẻo lánh, yên tĩnh hoặc khuất",
+      "example": "I usually study at a small cafe tucked away in a quiet alley where tourists rarely go.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌk.əl daʊn/",
+      "meaning": "bắt đầu làm việc hoặc học tập một cách cực kỳ nghiêm túc",
+      "example": "When I need to knuckle down for an exam, I head straight to the university library's silent zone.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shut myself away",
+      "ipa": "/ʃʌt maɪˈself əˈweɪ/",
+      "meaning": "tự nhốt mình vào một nơi cách biệt để không bị làm phiền",
+      "example": "I tend to shut myself away in my bedroom to ensure total concentration during my revision.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "ngăn chặn (tiếng ồn hoặc sự xao nhãng)",
+      "example": "I prefer studying in public spaces as long as I can wear headphones to block out the ambient noise.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "settle in",
+      "ipa": "/ˈset.əl ɪn/",
+      "meaning": "ổn định chỗ ngồi và cảm thấy thoải mái để bắt đầu làm việc lâu dài",
+      "example": "Once I settle in at my favorite desk near the window, I can focus for several hours straight.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔːr ˈəʊ.vər/",
+      "meaning": "nghiên cứu hoặc đọc một cách cực kỳ kỹ lưỡng",
+      "example": "You can often find me in the archives poring over old manuscripts for my history major.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get down to",
+      "ipa": "/ɡet daʊn tuː/",
+      "meaning": "bắt đầu thực sự tập trung vào một công việc khó khăn",
+      "example": "I find it's much easier to get down to my assignments in a minimalist environment with no distractions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "plough through",
+      "ipa": "/plaʊ θruː/",
+      "meaning": "kiên trì hoàn thành một lượng lớn công việc hoặc tài liệu khó",
+      "example": "I usually spend my afternoons in a co-working space to plough through my heavy reading list.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "hấp thụ (kiến thức hoặc không khí) một cách tự nhiên",
+      "example": "I occasionally study in the park because I like to soak up the fresh air while I'm memorizing vocabulary.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear away",
+      "ipa": "/klɪər əˈweɪ/",
+      "meaning": "dọn dẹp sạch sẽ (không gian hoặc sự bừa bộn)",
+      "example": "Before I begin, I always clear away the clutter on my desk to create a more productive atmosphere.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

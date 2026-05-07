@@ -1,0 +1,50 @@
+{
+  "q": "Describe a rule that is important in your school or at work.",
+  "cue_card": [
+    "A rule that is important in your school or at work.",
+    "What the rule is",
+    "Why this rule is important",
+    "What happens if someone breaks the rule",
+    "And explain how you feel about this rule"
+  ],
+  "examiner_note": "Chủ đề quy tắc yêu cầu giải thích nguyên nhân và hệ quả (cause and effect). Hãy sử dụng các cụm từ về tính kỷ luật (discipline, adherence to policy, maintain order). Giải thích cách quy tắc giúp tạo ra môi trường làm việc/học tập tích cực.",
+  "samples": {
+    "band7": "I'm going to talk about the 'no smoking' rule in my office. In my company, it is strictly forbidden to smoke anywhere inside the building. This rule is important because it protects our health and keeps the office clean and pleasant. If someone breaks this rule, they can be fined or given a warning. I think this rule is very good because I don't like the smell of cigarettes and it makes the workplace much more comfortable for everyone.",
+    "band8": "I’d like to describe a pivotal rule at my workplace, which is the strict adherence to the non-smoking policy throughout the entire premises. This regulation is of paramount importance as it ensures a healthy and professional environment for all employees. To enforce this, the company has implemented a zero-tolerance approach; anyone caught violating the rule could face disciplinary action or even dismissal. Personally, I’m a staunch supporter of this policy because it effectively eliminates secondhand smoke and significantly enhances the collective well-being of the staff.",
+    "band9": "The mandate I’ve chosen to discuss is the comprehensive non-smoking policy that is rigorously enforced at my corporate office. This isn’t merely a suggestion but a cornerstone of our company’s health and safety protocols, designed to cultivate a pristine and salubrious working environment. Adherence to this policy is non-negotiable, and any deviation from it is met with stringent penalties, ranging from formal reprimands to termination of employment. In my view, this rule is indispensable; it not only safeguards the physiological health of the workforce but also serves as a testament to the organization's commitment to prioritizing employee welfare over individual convenience. It fosters a culture of mutual respect and professionalism that I find highly commendable."
+  },
+  "v": [
+    {
+      "word": "Adherence",
+      "meaning": "Sự tuân thủ, gắn bó (Attachment or commitment to a person, cause, or belief; following a rule or belief)",
+      "example": "Strict adherence to the safety guidelines is mandatory for everyone."
+    },
+    {
+      "word": "Paramount importance",
+      "meaning": "Tầm quan trọng tối cao (More important than anything else; supreme)",
+      "example": "Customer satisfaction is of paramount importance to our business."
+    },
+    {
+      "word": "Zero-tolerance approach",
+      "meaning": "Cách tiếp cận không khoan nhượng (A policy of not allowing any amount of something bad such as violence, drugs, or rule-breaking)",
+      "example": "The school takes a zero-tolerance approach to bullying."
+    },
+    {
+      "word": "Salubrious",
+      "meaning": "Lành mạnh, tốt cho sức khỏe (Health-giving; healthy)",
+      "example": "The fresh air and quiet surroundings provide a salubrious environment for study."
+    },
+    {
+      "word": "Reprimand",
+      "meaning": "Lời khiển trách (A formal expression of disapproval)",
+      "example": "He received a severe reprimand for his repeated tardiness."
+    },
+    {
+      "word": "Cornerstone",
+      "meaning": "Nền tảng, hòn đá tảng (An important quality or feature on which a particular thing is based or depends)",
+      "example": "Trust is the cornerstone of any successful relationship."
+    }
+  ],
+  "topic": "Describe a rule that is important in your school or at work.",
+  "id": "p2_q7"
+}

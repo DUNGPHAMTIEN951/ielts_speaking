@@ -1,0 +1,52 @@
+{
+  "id": "q_34",
+  "topic": "Plants",
+  "q": "Do you know anything about growing a plant?",
+  "examiner_note": "Nói về kiến thức cơ bản hoặc trải nghiệm. Sử dụng 'fertilizer', 'resilient', 'trial and error', 'horticulture'.",
+  "samples": {
+    "band7": {
+      "text": "I know the basics, like ensuring they have the right amount of sunlight and water, and occasionally using fertilizer. I’ve learned through trial and error that different plants have very specific needs, and some are much more resilient than others.",
+      "note": "Sử dụng từ vựng chuyên ngành cơ bản (fertilizer, resilient) và cụm từ hay (trial and error)."
+    },
+    "band8": {
+      "text": "I’ve picked up a fair bit of knowledge over the years. I understand the importance of soil quality, proper drainage, and the specific light requirements for different species. It’s a hobby that requires a great deal of patience and observation, but seeing a plant thrive under your care is incredibly satisfying.",
+      "note": "Sử dụng từ vựng hay (picked up, drainage, requirements, thrive, satisfying)."
+    },
+    "band9": {
+      "text": "I have a burgeoning interest in horticulture and have invested time in understanding the biological needs of various indoor plants. I’m fascinated by the delicate balance of nutrients, humidity, and light that allows them to flourish. For me, gardening is a continuous learning process that fosters a deep appreciation for the complexities of nature.",
+      "note": "Sử dụng từ vựng ở mức độ cao (burgeoning, horticulture, biological, flourish, complexities)."
+    }
+  },
+  "v": [
+    {
+      "word": "horticulture",
+      "meaning": "nghề làm vườn",
+      "ipa": "/ˈhɔːrtɪkʌltʃər/",
+      "example": "He decided to study horticulture at university."
+    },
+    {
+      "word": "flourish",
+      "meaning": "phát triển rực rỡ/hưng thịnh",
+      "ipa": "/ˈflɜːrɪʃ/",
+      "example": "The plants will flourish in this sunny spot."
+    },
+    {
+      "word": "burgeoning",
+      "meaning": "đang phát triển nhanh chóng",
+      "ipa": "/ˈbɜːrdʒənɪŋ/",
+      "example": "There is a burgeoning market for organic food."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "resilient",
+      "meaning": "kiên cường/có khả năng phục hồi tốt",
+      "ipa": "/rɪˈzɪliənt/",
+      "example": "Children are remarkably resilient."
+    }
+  ],
+  "similar_questions": [
+    "Is it hard to grow plants in a city?",
+    "What do you need to start a garden?"
+  ]
+}

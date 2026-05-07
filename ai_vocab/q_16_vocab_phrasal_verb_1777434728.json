@@ -1,0 +1,76 @@
+{
+  "id": "q_16",
+  "vocab": [
+    {
+      "word": "hark back to",
+      "ipa": "/hɑːrk bæk tuː/",
+      "meaning": "gợi nhắc về, quay trở lại một phong cách hoặc thời kỳ trong quá khứ",
+      "example": "While modern art is often revolutionary, many contemporary pieces still hark back to the Renaissance in their use of lighting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "break away from",
+      "ipa": "/breɪk əˈweɪ frɒm/",
+      "meaning": "thoát khỏi, phá vỡ những quy tắc hoặc truyền thống cũ",
+      "example": "Modern art truly began when creators decided to break away from the rigid realism that dominated the 19th century.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "conjure up",
+      "ipa": "/ˈkʌn.dʒər ʌp/",
+      "meaning": "gợi lên, làm hiện lên (hình ảnh hoặc cảm xúc) trong tâm trí",
+      "example": "Traditional landscape paintings usually conjure up a sense of nostalgia and serenity through their detailed execution.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dabble in",
+      "ipa": "/ˈdæb.əl ɪn/",
+      "meaning": "thử sức, học hỏi một cách không chuyên sâu vào một lĩnh vực/phong cách mới",
+      "example": "Many modern artists like to dabble in digital media and mixed-material installations rather than sticking to oil on canvas.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm nổi bật lên một đặc điểm hoặc phẩm chất nào đó",
+      "example": "The use of bold, clashing colors in modern abstract art is designed to bring out intense emotional responses from the viewer.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại quá khứ (để đánh giá hoặc lấy cảm hứng)",
+      "example": "When we look back on classical art, we can see a clear emphasis on religious themes and anatomical perfection.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "reflect on",
+      "ipa": "/rɪˈflekt ɒn/",
+      "meaning": "suy ngẫm về, phản ánh một vấn đề nào đó",
+      "example": "Contemporary art tends to reflect on current societal issues, such as technology and climate change, in a way that old art rarely did.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand for",
+      "ipa": "/stænd fɔːr/",
+      "meaning": "tượng trưng cho, đại diện cho (một tư tưởng hoặc giá trị)",
+      "example": "Old art often stood for the power and wealth of the monarchy, whereas modern art often symbolizes individual freedom.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set apart",
+      "ipa": "/set əˈpɑːrt/",
+      "meaning": "làm cho khác biệt, tạo nên sự đặc trưng",
+      "example": "The sheer scale and unconventional choice of materials often set modern installations apart from the portable paintings of the past.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "boil down to",
+      "ipa": "/bɔɪl daʊn tuː/",
+      "meaning": "chung quy lại là, cốt lõi là",
+      "example": "The main difference between the two eras often boils down to the shift from technical imitation to conceptual expression.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

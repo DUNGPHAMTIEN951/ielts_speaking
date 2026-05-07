@@ -1,0 +1,76 @@
+{
+  "id": "q_12",
+  "vocab": [
+    {
+      "word": "tide over",
+      "ipa": "/taɪd ˈəʊvə(r)/",
+      "meaning": "giúp vượt qua một giai đoạn khó khăn (ẩn dụ: nạp năng lượng)",
+      "example": "A quick weekend trip to the coast is usually enough to tide me over until my next big holiday.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "map out",
+      "ipa": "/mæp aʊt/",
+      "meaning": "lên kế hoạch chi tiết (lộ trình leo núi)",
+      "example": "I love the preparation phase, especially mapping out the trails I’m going to hike in the highlands.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "chill out",
+      "ipa": "/tʃɪl aʊt/",
+      "meaning": "thư giãn, thả lỏng hoàn toàn",
+      "example": "There's no better place to chill out than on a quiet beach with nothing but the sound of the waves.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up",
+      "ipa": "/ɡɪə(r) ʌp/",
+      "meaning": "chuẩn bị trang thiết bị, đồ đạc",
+      "example": "I prefer the mountains because I actually enjoy the process of gearing up with boots and poles for a climb.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take to",
+      "ipa": "/teɪk tu/",
+      "meaning": "bắt đầu thích hoặc có xu hướng tìm đến cái gì",
+      "example": "I've always taken to the sea, perhaps because I find the vastness of the ocean incredibly humbling.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak in",
+      "ipa": "/səʊk ɪn/",
+      "meaning": "hấp thụ, tận hưởng (cảm giác, bầu không khí)",
+      "example": "I sat on the peak for an hour, just soaking in the silence and the crisp mountain air.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "venture out",
+      "ipa": "/ˈventʃə(r) aʊt/",
+      "meaning": "mạo hiểm đi ra ngoài, khám phá (nơi xa lạ)",
+      "example": "I love venturing out into the deep waters to go snorkeling and explore the marine life.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up",
+      "ipa": "/ˈmeʒə(r) ʌp/",
+      "meaning": "đạt tới tiêu chuẩn, sánh được với (thường dùng so sánh)",
+      "example": "For me, a trip to the forest just doesn't measure up to the thrill of being by the ocean.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hide away",
+      "ipa": "/haɪd əˈweɪ/",
+      "meaning": "ẩn náu, trốn khỏi sự chú ý của mọi người",
+      "example": "The mountains offer the perfect opportunity to hide away in a cabin and disconnect from social media.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out for",
+      "ipa": "/lʊk aʊt fɔː(r)/",
+      "meaning": "quan sát, để mắt tìm kiếm (sinh vật, cảnh đẹp)",
+      "example": "While coastal walking, I’m always looking out for dolphins or rare sea birds on the horizon.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

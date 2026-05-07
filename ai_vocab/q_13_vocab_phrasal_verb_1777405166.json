@@ -1,0 +1,76 @@
+{
+  "id": "q_13",
+  "vocab": [
+    {
+      "word": "lean towards",
+      "ipa": "/liːn təˈwɔːrdz/",
+      "meaning": "nghiêng về phía, có xu hướng ưu tiên cái gì hơn",
+      "example": "I tend to lean towards traditional art as I find the level of detail in oil paintings truly mesmerizing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dip into",
+      "ipa": "/dɪp ˈɪn.tuː/",
+      "meaning": "tìm hiểu qua loa hoặc xem thử một chút cái gì đó",
+      "example": "I occasionally dip into modern art galleries to see how contemporary artists are pushing the boundaries.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw from",
+      "ipa": "/drɔː frəm/",
+      "meaning": "lấy cảm hứng từ, rút ra từ",
+      "example": "Many modern artists draw from traditional techniques while adding their own avant-garde twist.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm nổi bật lên (cảm xúc hoặc đặc điểm)",
+      "example": "Traditional landscapes often bring out a sense of nostalgia that abstract art sometimes fails to capture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại (về quá khứ, lịch sử)",
+      "example": "When we look back on the Renaissance era, we can see the pinnacle of realism in traditional art.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, khác biệt hoàn toàn",
+      "example": "Modern installations often stand out in a museum because they use unconventional materials like light and sound.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig into",
+      "ipa": "/dɪɡ ˈɪn.tuː/",
+      "meaning": "nghiên cứu kỹ, đào sâu tìm hiểu",
+      "example": "I’ve started to dig into the meaning behind abstract expressionism to better appreciate modern art.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "grow on someone",
+      "ipa": "/ɡrəʊ ɒn/",
+      "meaning": "dần dần khiến ai đó thấy thích (ban đầu có thể không thích)",
+      "example": "Modern art didn't appeal to me at first, but it has really grown on me over the years.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass down",
+      "ipa": "/pɑːs daʊn/",
+      "meaning": "truyền lại (qua các thế hệ)",
+      "example": "Traditional art forms are precious because they have been passed down through generations, preserving our heritage.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sum up",
+      "ipa": "/sʌm ʌp/",
+      "meaning": "tóm gọn, khái quát lại bản chất",
+      "example": "To sum up, I enjoy both styles as they each reflect the societal values of their respective times.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

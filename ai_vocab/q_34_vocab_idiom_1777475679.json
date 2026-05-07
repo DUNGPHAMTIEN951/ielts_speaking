@@ -1,0 +1,76 @@
+{
+  "id": "q_34",
+  "vocab": [
+    {
+      "word": "a rolling stone gathers no moss",
+      "ipa": "/ə ˈrəʊlɪŋ stəʊn ˈɡæðərz nəʊ mɒs/",
+      "meaning": "người năng động thì không bao giờ cũ kỹ (hoặc dùng để nói về việc cây cần sự ổn định để bén rễ)",
+      "example": "In gardening, I’ve learned that a rolling stone gathers no moss; you can't keep transplanting a sapling and expect it to thrive.",
+      "type": "idiom"
+    },
+    {
+      "word": "root and branch",
+      "ipa": "/ruːt ənd brɑːntʃ/",
+      "meaning": "triệt để/toàn bộ từ gốc đến ngọn",
+      "example": "To save a dying plant, sometimes you have to examine it root and branch to identify the underlying fungal infection.",
+      "type": "idiom"
+    },
+    {
+      "word": "flowery language",
+      "ipa": "/ˈflaʊəri ˈlæŋɡwɪdʒ/",
+      "meaning": "ngôn ngữ hoa mỹ (có thể dùng để nói về cách mô tả vẻ đẹp của cây)",
+      "example": "I don't need flowery language to describe my love for botany; the simple act of watching a seed sprout is enough.",
+      "type": "idiom"
+    },
+    {
+      "word": "shrinking violet",
+      "ipa": "/ˌʃrɪŋkɪŋ ˈvaɪələt/",
+      "meaning": "người nhút nhát (có thể ví von với những loài cây ưa bóng râm, nhạy cảm)",
+      "example": "Some ferns are like shrinking violets; they'll wither away if you expose them to direct, harsh sunlight.",
+      "type": "idiom"
+    },
+    {
+      "word": "the seed of an idea",
+      "ipa": "/ðə siːd əv ən aɪˈdɪə/",
+      "meaning": "nguồn cơn/mầm mống của một ý tưởng",
+      "example": "The seed of an idea to start a community garden was planted in my mind after I grew my first tomato plant.",
+      "type": "idiom"
+    },
+    {
+      "word": "come up roses",
+      "ipa": "/kʌm ʌp ˈrəʊzɪz/",
+      "meaning": "kết thúc tốt đẹp/mọi việc diễn ra suôn sẻ",
+      "example": "Despite the unexpected frost, my spring garden actually came up roses thanks to the protective mulch I used.",
+      "type": "idiom"
+    },
+    {
+      "word": "hedge your bets",
+      "ipa": "/hedʒ jɔːr bets/",
+      "meaning": "bao vây/chuẩn bị nhiều phương án dự phòng (liên quan đến từ 'hedge' - hàng rào cây)",
+      "example": "I always hedge my bets by planting several varieties of cucumbers, just in case one species is susceptible to blight.",
+      "type": "idiom"
+    },
+    {
+      "word": "not a patch on",
+      "ipa": "/nɒt ə pætʃ ɒn/",
+      "meaning": "không thể sánh bằng (thường dùng so sánh các loại phân bón hoặc giống cây)",
+      "example": "Synthetic fertilizers are good, but they are not a patch on organic compost when it comes to long-term soil health.",
+      "type": "idiom"
+    },
+    {
+      "word": "grass-roots",
+      "ipa": "/ˌɡrɑːs ˈruːts/",
+      "meaning": "từ tầng lớp gốc rễ/phong trào quần chúng (liên quan đến sự phát triển tự nhiên của cỏ)",
+      "example": "I prefer grass-roots gardening methods that rely on local seeds and traditional knowledge rather than expensive store-bought kits.",
+      "type": "idiom"
+    },
+    {
+      "word": "uproot",
+      "ipa": "/ˌʌpˈruːt/",
+      "meaning": "nhổ tận gốc/thay đổi nơi ở (nghĩa đen trong việc làm vườn)",
+      "example": "It is quite a delicate process to uproot an established shrub without damaging its complex vascular system.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

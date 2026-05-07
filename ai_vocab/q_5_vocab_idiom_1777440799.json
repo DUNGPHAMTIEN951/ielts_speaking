@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "wear out shoe leather",
+      "ipa": "/weər aʊt ʃuː ˈleð.ər/",
+      "meaning": "đi bộ rất nhiều (đến mức mòn cả đế giày)",
+      "example": "During my first week in London, I wore out quite a bit of shoe leather trying to see every landmark on foot.",
+      "type": "idiom"
+    },
+    {
+      "word": "give someone itchy feet",
+      "ipa": "/ɡɪv ˈsʌm.wʌn ˈɪtʃ.i fiːt/",
+      "meaning": "làm ai đó muốn đi đi lại lại hoặc đi du lịch (cuồng chân)",
+      "example": "The sunny weather always gives me itchy feet, making it impossible to sit at my desk without going for a long walk.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit the pavement",
+      "ipa": "/hɪt ðə ˈpeɪv.mənt/",
+      "meaning": "xuống đường và bắt đầu đi bộ (thường với mục đích cụ thể)",
+      "example": "Every morning at 6 AM, I hit the pavement for a brisk walk to kickstart my metabolism.",
+      "type": "idiom"
+    },
+    {
+      "word": "stretch one's legs",
+      "ipa": "/stretʃ wʌnz leɡz/",
+      "meaning": "đi dạo để thư giãn gân cốt sau khi ngồi lâu",
+      "example": "After a grueling four-hour meeting, I really needed to go outside and stretch my legs for a while.",
+      "type": "idiom"
+    },
+    {
+      "word": "at a brisk clip",
+      "ipa": "/æt ə brɪsk klɪp/",
+      "meaning": "đi bộ với tốc độ nhanh và hào hứng",
+      "example": "I usually walk to the station at a brisk clip to ensure I don't miss the early train.",
+      "type": "idiom"
+    },
+    {
+      "word": "within walking distance",
+      "ipa": "/wɪˈðɪn ˈwɔː.kɪŋ ˈdɪs.təns/",
+      "meaning": "ở khoảng cách gần, có thể đi bộ đến được",
+      "example": "I’m lucky that most of my favorite cafes are within walking distance of my apartment.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep pace with",
+      "ipa": "/kiːp peɪs wɪð/",
+      "meaning": "duy trì tốc độ đi bộ ngang hàng với ai đó",
+      "example": "My father is a very fast walker, so I often find it quite challenging to keep pace with him.",
+      "type": "idiom"
+    },
+    {
+      "word": "tread a path",
+      "ipa": "/tred ə pɑːθ/",
+      "meaning": "đi bộ dọc theo một con đường (nghĩa đen)",
+      "example": "I love treading the familiar paths of the local botanical garden every Sunday afternoon.",
+      "type": "idiom"
+    },
+    {
+      "word": "march to the beat of one's own drum",
+      "ipa": "/mɑːtʃ tu ðə biːt əv wʌnz əʊn drʌm/",
+      "meaning": "đi bộ/hành động theo cách riêng của mình (không quan tâm người khác)",
+      "example": "While everyone takes the bus, I prefer to march to the beat of my own drum and walk through the quiet backstreets.",
+      "type": "idiom"
+    },
+    {
+      "word": "an uphill battle",
+      "ipa": "/æn ʌpˈhɪl ˈbæt.əl/",
+      "meaning": "một cuộc đi bộ/nỗ lực đầy khó khăn (thường do địa hình dốc)",
+      "example": "Walking back to my house is always an uphill battle because it's located at the top of a very steep ridge.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

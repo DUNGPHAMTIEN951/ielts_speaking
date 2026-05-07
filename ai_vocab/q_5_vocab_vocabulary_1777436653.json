@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "invigorating",
+      "ipa": "/ɪnˈvɪɡ.ər.eɪ.tɪŋ/",
+      "meaning": "tiếp thêm năng lượng, làm cho sảng khoái",
+      "example": "I find a morning trek to be incredibly invigorating, providing me with a mental surge that lasts all day.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "sedentary confinement",
+      "ipa": "/ˈsed.ən.tri kənˈfaɪn.mənt/",
+      "meaning": "việc bị gò bó trong lối sống ít vận động",
+      "example": "Walking is my primary escape from the sedentary confinement of modern office life.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "pavements",
+      "ipa": "/ˈpeɪv.mənts/",
+      "meaning": "vỉa hè/đường đi bộ",
+      "example": "I often hit the pavements in the late evening when the city heat has finally dissipated.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "stamina",
+      "ipa": "/ˈstæm.ɪ.nə/",
+      "meaning": "sức bền, khả năng chịu đựng",
+      "example": "Frequent long-distance walking has significantly bolstered my physical stamina over the years.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "therapeutic",
+      "ipa": "/ˌθer.əˈpjuː.tɪk/",
+      "meaning": "có tính trị liệu, giúp giải tỏa tinh thần",
+      "example": "There is something deeply therapeutic about walking in silence, far away from the cacophony of the city.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "amble",
+      "ipa": "/ˈæm.bəl/",
+      "meaning": "đi dạo nhẹ nhàng, không vội vã",
+      "example": "I occasionally enjoy an aimless amble through the historic quarters to admire the local architecture.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "step count",
+      "ipa": "/step kaʊnt/",
+      "meaning": "số lượng bước chân",
+      "example": "I am quite meticulous about monitoring my daily step count to ensure I meet my fitness goals.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "a change of scenery",
+      "ipa": "/ə tʃeɪndʒ əv ˈsiː.nər.i/",
+      "meaning": "thay đổi không khí/phong cảnh",
+      "example": "When I feel a creative block, I take a walk specifically for a change of scenery to stimulate new ideas.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "pedestrianized zones",
+      "ipa": "/pəˈdes.tri.ə.naɪzd zəʊnz/",
+      "meaning": "các khu vực dành riêng cho người đi bộ",
+      "example": "I tend to frequent pedestrianized zones where I can walk freely without the constant worry of traffic.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "agility",
+      "ipa": "/əˈdʒɪl.ə.ti/",
+      "meaning": "sự nhanh nhẹn, linh hoạt",
+      "example": "Walking on uneven trails during my weekend trips helps me maintain my balance and physical agility.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

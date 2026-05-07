@@ -1,0 +1,52 @@
+{
+  "id": "q_33",
+  "topic": "Plants",
+  "q": "Do Vietnamese people send plants as gifts?",
+  "examiner_note": "Nói về văn hóa tặng quà ở Việt Nam. Sử dụng 'housewarming parties', 'symbolize', 'prosperity', 'longevity'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, Vietnamese people do send plants as gifts, especially for special occasions like housewarming parties or Tet (Lunar New Year). Plants symbolize good luck, health, and prosperity, making them very meaningful and thoughtful gifts.",
+      "note": "Sử dụng ví dụ văn hóa (Tet) và giải thích ý nghĩa (symbolize, prosperity)."
+    },
+    "band8": {
+      "text": "Absolutely. It’s a very common practice in Vietnam. Gifting a plant, like a kumquat tree or a peach blossom during Tet, is a gesture of goodwill and a wish for a prosperous year ahead. It’s also quite popular as a housewarming gift, as it represents growth and a fresh start.",
+      "note": "Sử dụng từ vựng hay (gesture of goodwill, prosperous, represents)."
+    },
+    "band9": {
+      "text": "Plants are deeply symbolic in Vietnamese culture and are frequently exchanged as tokens of respect and prosperity. For instance, during the Lunar New Year, specific flora like apricot blossoms are essential for inviting auspicious energy into the home. They are regarded as living embodiments of hope and longevity, making them an exceptionally cherished gift for any major milestone.",
+      "note": "Sử dụng từ vựng học thuật và biểu cảm (symbolic, tokens, auspicious, embodiments, milestone)."
+    }
+  },
+  "v": [
+    {
+      "word": "prosperity",
+      "meaning": "sự thịnh vượng",
+      "ipa": "/prɑːˈsperəti/",
+      "example": "The country is enjoying a period of prosperity."
+    },
+    {
+      "word": "auspicious",
+      "meaning": "có điềm lành/may mắn",
+      "ipa": "/ɔːˈspɪʃəs/",
+      "example": "It was an auspicious start to the new year."
+    },
+    {
+      "word": "milestone",
+      "meaning": "cột mốc quan trọng",
+      "ipa": "/ˈmaɪlstəʊn/",
+      "example": "Graduating from university is a major milestone."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "embodiment",
+      "meaning": "hiện thân",
+      "ipa": "/ɪmˈbɑːdimənt/",
+      "example": "She is the embodiment of kindness."
+    }
+  ],
+  "similar_questions": [
+    "What is the most popular plant in your country?",
+    "Do you like receiving plants as gifts?"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "q": "Describe a time you needed to use your imagination.",
+  "cue_card": [
+    "A time you needed to use your imagination.",
+    "When it was",
+    "Why you needed to use your imagination",
+    "How you used it",
+    "And explain how you felt about it"
+  ],
+  "examiner_note": "Với chủ đề trừu tượng như trí tưởng tượng, hãy sử dụng các cụm từ vựng về tư duy (cognitive flexibility, outside-the-box thinking, visualize). Hãy miêu tả một tình huống cụ thể (vấn đề trong dự án, viết truyện, giải quyết xung đột) để câu trả lời bớt mơ hồ.",
+  "samples": {
+    "band7": "I'd like to tell you about a time I had to use my imagination at school. It was about two years ago when we had to write a short story for our English class. I decided to write about a future world where robots and humans live together. I had to imagine what the city would look like and how people would travel. I used my imagination to create a flying car and talking houses. I felt very happy when I finished it because I realized that I could be very creative.",
+    "band8": "I’m going to describe a situation where I had to rely heavily on my imagination, which occurred about a year ago during a high-stakes marketing project. We were tasked with rebranding a traditional tea company for a younger, tech-savvy audience. I needed to think outside the box to come up with a campaign that was both nostalgic and futuristic. I visualized a digital interactive garden where users could virtually grow their own tea leaves based on their moods. It was a challenging exercise in cognitive flexibility, but seeing the final concept come to life was incredibly rewarding and boosted my confidence in my creative abilities.",
+    "band9": "A particularly memorable instance when I had to harness the full power of my imagination was during a voluntary workshop for underprivileged children, where I was responsible for an interactive storytelling session. The goal was to transport the kids to an alternate reality without any physical props, solely through the power of narrative. I had to exercise immense imaginative faculty to weave a complex world of floating islands and mythical creatures, encouraging the children to co-create the environment with me. This experience required profound mental agility and a knack for spontaneous visualization. Ultimately, it was an exhilarating experience that underscored the importance of nurturing one’s creative spirit to overcome logistical limitations and connect with others on a deeper, more whimsical level."
+  },
+  "v": [
+    {
+      "word": "Think outside the box",
+      "meaning": "Tư duy sáng tạo, không theo lối mòn (Think creatively, unimpeded by orthodox or conventional constraints)",
+      "example": "To solve this architectural puzzle, we really had to think outside the box."
+    },
+    {
+      "word": "Cognitive flexibility",
+      "meaning": "Sự linh hoạt trong nhận thức (The mental ability to switch between thinking about two different concepts, or to think about multiple concepts simultaneously)",
+      "example": "Using your imagination helps improve your cognitive flexibility."
+    },
+    {
+      "word": "Visualize",
+      "meaning": "Hình dung, mường tượng (Form a mental image of; imagine)",
+      "example": "He tried to visualize the end result before starting the project."
+    },
+    {
+      "word": "Imaginative faculty",
+      "meaning": "Khả năng tưởng tượng (The inherent mental power of forming new ideas or images)",
+      "example": "She possesses an extraordinary imaginative faculty that allows her to write incredible novels."
+    },
+    {
+      "word": "Whimsical",
+      "meaning": "Kỳ dị, hay thay đổi, đầy tưởng tượng (Playfully quaint or fanciful, especially in an appealing and amusing way)",
+      "example": "The story had a whimsical tone that children absolutely loved."
+    },
+    {
+      "word": "Exhilarating",
+      "meaning": "Làm phấn chấn, thú vị (Making one feel very happy, animated, or elated; thrilling)",
+      "example": "It was an exhilarating experience to see my ideas appreciated by others."
+    }
+  ],
+  "topic": "Describe a time you needed to use your imagination.",
+  "id": "p2_q4"
+}

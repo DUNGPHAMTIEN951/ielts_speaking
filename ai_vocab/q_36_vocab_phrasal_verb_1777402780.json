@@ -1,0 +1,76 @@
+{
+  "id": "q_36",
+  "vocab": [
+    {
+      "word": "brighten up",
+      "ipa": "/ˈbraɪ.tən ʌp/",
+      "meaning": "làm rạng rỡ, làm sáng sủa không gian",
+      "example": "I love keeping a few succulents on my desk because they really brighten up my workspace.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spruce up",
+      "ipa": "/spruːs ʌp/",
+      "meaning": "trang hoàng, làm cho đẹp đẽ/gọn gàng hơn",
+      "example": "Adding some indoor plants is a cost-effective way to spruce up a living room without buying new furniture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go with",
+      "ipa": "/ɡəʊ wɪð/",
+      "meaning": "phù hợp, hài hòa với",
+      "example": "The lush green leaves of the Monstera really go with the minimalist aesthetic of my apartment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "care for",
+      "ipa": "/keə fɔːr/",
+      "meaning": "chăm sóc",
+      "example": "To be honest, I find it quite therapeutic to care for my plants after a stressful day at the office.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look after",
+      "ipa": "/lʊk ˈɑːf.tər/",
+      "meaning": "trông nom, chăm sóc",
+      "example": "My mother is the one who mainly looks after the garden, ensuring every plant gets enough sunlight.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take up",
+      "ipa": "/teɪk ʌp/",
+      "meaning": "chiếm (không gian, thời gian)",
+      "example": "I tend to avoid large bushes because they take up too much room in my small studio apartment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "die off",
+      "ipa": "/daɪ ɒf/",
+      "meaning": "chết dần chết mòn",
+      "example": "I used to have a black thumb, and unfortunately, most of my indoor ferns would just die off within weeks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm tôn lên, làm lộ ra",
+      "example": "The natural light in the balcony really brings out the vibrant colors of the blooming flowers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dole out",
+      "ipa": "/dəʊl aʊt/",
+      "meaning": "phân phát, cung cấp (nước, phân bón) một cách cẩn thận",
+      "example": "You have to be careful not to dole out too much water, as overwatering can lead to root rot.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut back",
+      "ipa": "/kʌt bæk/",
+      "meaning": "tỉa bớt, cắt giảm",
+      "example": "Once a month, I have to cut back the overgrown vines to keep the balcony looking neat and tidy.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

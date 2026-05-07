@@ -1,0 +1,76 @@
+{
+  "id": "q_31",
+  "vocab": [
+    {
+      "word": "toss up between",
+      "ipa": "/tɒs ʌp bɪˈtwiːn/",
+      "meaning": "phân vân/lưỡng lự giữa hai lựa chọn",
+      "example": "It was a toss up between Law and Journalism, but I eventually realized my heart was in storytelling.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bəl əˈpɒn/",
+      "meaning": "tình cờ tìm thấy/phát hiện ra",
+      "example": "I actually stumbled upon a documentary about marine biology and was instantly hooked, which led me to change my major.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "embark on",
+      "ipa": "/ɪmˈbɑːrk ɒn/",
+      "meaning": "bắt đầu/dấn thân vào (một lộ trình, sự nghiệp)",
+      "example": "I decided to embark on a career in Finance because I've always been fascinated by how global markets operate.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear towards",
+      "ipa": "/ɡɪər twɔːrdz/",
+      "meaning": "hướng đến/nhắm đến một mục tiêu nhất định",
+      "example": "My studies are geared towards sustainable development, as I want to contribute to environmental protection in the future.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊ.vər/",
+      "meaning": "suy nghĩ kỹ lưỡng/nghiền ngẫm",
+      "example": "I mulled over my options for several months before settling on Graphic Design as my primary field of study.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spark off",
+      "ipa": "/spɑːrk ɒf/",
+      "meaning": "khơi mào/khơi gợi (niềm đam mê hoặc ý tưởng)",
+      "example": "A high school trip to the stock exchange sparked off my interest in Economics and sparked a lifelong passion.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "settle on",
+      "ipa": "/ˈset.əl ɒn/",
+      "meaning": "chốt lại/quyết định chọn (sau khi cân nhắc nhiều thứ)",
+      "example": "After exploring various creative fields, I finally settled on Architecture as it perfectly combines art and logic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bank on",
+      "ipa": "/bæŋk ɒn/",
+      "meaning": "trông cậy vào/hy vọng vào cái gì đó để thành công",
+      "example": "I chose Software Engineering because I was banking on the continued growth of the tech industry for job security.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fathom out",
+      "ipa": "/ˈfæð.əm aʊt/",
+      "meaning": "tìm hiểu kỹ để thấu hiểu một vấn đề phức tạp",
+      "example": "I've always wanted to fathom out how the human brain works, which is why I pursued a degree in Neuroscience.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry through",
+      "ipa": "/ˈkær.i θruː/",
+      "meaning": "duy trì/tiếp nối (một dự định hoặc truyền thống)",
+      "example": "I wanted to carry through my family's legacy in the legal profession, so following in my father's footsteps was a natural choice.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

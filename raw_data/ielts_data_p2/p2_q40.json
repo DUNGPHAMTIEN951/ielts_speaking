@@ -1,0 +1,25 @@
+{
+  "q": "Describe a wild animal that you want to know more about",
+  "cue_card": [
+    "What it is",
+    "Where it lives",
+    "How you know about it",
+    "And explain why you want to know more about it"
+  ],
+  "examiner_note": "Hãy tập trung vào việc mô tả chi tiết wild animal that you want to know more about.",
+  "samples": {
+    "band7": "Well, I'd like to talk about describe a wild animal that you want to know more about. It's something I've been interested in for a while. For example, I think it's very important because it helps people relax and learn new things.",
+    "band8": "Actually, I've always found describe a wild animal that you want to know more about to be quite a fascinating subject. From my perspective, it offers a lot of benefits such as improving our mental health and broadening our horizons. I really enjoy exploring this topic further.",
+    "band9": "Without a doubt, describe a wild animal that you want to know more about is a subject that warrants deep exploration. It is not just a simple concept but rather a multi-faceted phenomenon that reflects our modern values. If we analyze it closely, we can see how it profoundly impacts our daily lives and societal progress."
+  },
+  "v": [
+    {
+      "word": "multi-faceted",
+      "ipa": "/ˌmʌlti ˈfæsɪtɪd/",
+      "meaning": "nhiều mặt/khía cạnh",
+      "example": "The issue is extremely multi-faceted."
+    }
+  ],
+  "topic": "Describe a wild animal that you want to know more about",
+  "id": "p2_q40"
+}

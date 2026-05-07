@@ -1,0 +1,52 @@
+{
+  "id": "q_47",
+  "topic": "Public places",
+  "q": "Would you like to see more public places near where you live?",
+  "examiner_note": "Nói về mong muốn phát triển khu vực lân cận. Sử dụng 'public square', 'within walking distance', 'encourage', 'vibrant'.",
+  "samples": {
+    "band7": {
+      "text": "Absolutely. Having a public square or a small community garden within walking distance would be a wonderful addition to the neighborhood and would encourage more people to spend time outdoors and interact with each other.",
+      "note": "Sử dụng cụm từ hay (within walking distance) và giải thích lợi ích."
+    },
+    "band8": {
+      "text": "I’d definitely support that. I think our local area would greatly benefit from more communal spaces where people could gather and relax. It would help to create a more vibrant and social atmosphere and make the neighborhood a much more attractive place to live.",
+      "note": "Sử dụng từ vựng hay (communal, gather, vibrant, social atmosphere)."
+    },
+    "band9": {
+      "text": "I’m a firm believer in the importance of accessible public spaces for community well-being. Having more well-maintained parks or plazas within my immediate vicinity would not only enhance my quality of life but also foster a stronger sense of social cohesion and community identity among residents.",
+      "note": "Sử dụng từ vựng ở mức độ cao (firm believer, accessible, immediate vicinity, enhance, social cohesion)."
+    }
+  },
+  "v": [
+    {
+      "word": "immediate vicinity",
+      "meaning": "vùng lân cận ngay gần",
+      "ipa": "/ɪˈmiːdiət vəˈsɪnəti/",
+      "example": "There are no shops in the immediate vicinity."
+    },
+    {
+      "word": "social cohesion",
+      "meaning": "sự gắn kết xã hội",
+      "ipa": "/ˌəʊʃl kəʊˈhiːʒn/",
+      "example": "Public spaces play a key role in social cohesion."
+    },
+    {
+      "word": "well-maintained",
+      "meaning": "được bảo trì tốt",
+      "ipa": "/ˌwel meɪnˈteɪnd/",
+      "example": "The park is very well-maintained."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "vicinity",
+      "meaning": "vùng lân cận",
+      "ipa": "/vəˈsɪnəti/",
+      "example": "There is a park in the vicinity of the school."
+    }
+  ],
+  "similar_questions": [
+    "What kind of public places do you have near your house?",
+    "Do you go there often?"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_42",
+  "vocab": [
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "nằm ở nơi khuất, vắng vẻ, yên tĩnh",
+      "example": "I adore visiting tiny tea houses tucked away in narrow alleys where the city noise can't reach.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɒf/",
+      "meaning": "thả hồn vào, dần chìm vào (trạng thái thư giãn hoặc giấc ngủ)",
+      "example": "There is nothing better than finding a quiet park and drifting off while listening to the rustle of leaves.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up for",
+      "ipa": "/ɡɪər ʌp fɔːr/",
+      "meaning": "chuẩn bị sẵn sàng cho cái gì (thường là một tuần mới)",
+      "example": "I prefer tranquil spots on Sundays to gear up for the upcoming work week without feeling overwhelmed.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mix with",
+      "ipa": "/mɪks wɪð/",
+      "meaning": "hòa mình vào, giao lưu với (đám đông)",
+      "example": "On rare occasions, I like to head to the city center to mix with the crowds and feel the local energy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull in",
+      "ipa": "/pʊl ɪn/",
+      "meaning": "thu hút (đám đông, khách hàng) - dùng để mô tả nơi náo nhiệt",
+      "example": "That new night market pulls in hundreds of people every weekend, making it way too noisy for my liking.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drown out",
+      "ipa": "/draʊn aʊt/",
+      "meaning": "tiếng ồn này át đi tiếng ồn khác",
+      "example": "I find noisy bars irritating because the loud music completely drowns out our conversation.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊ.vər/",
+      "meaning": "nghiền ngẫm, suy nghĩ kỹ về điều gì đó",
+      "example": "I often seek out a silent lakeside to mull over my personal projects and future plans.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "live it up",
+      "ipa": "/lɪv ɪt ʌp/",
+      "meaning": "tận hưởng cuộc sống một cách náo nhiệt, tiêu xài thoải mái",
+      "example": "Younger people often go to vibrant clubs to live it up on Friday nights, but I’ve outgrown that phase.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop into",
+      "ipa": "/pɒp ˈɪn.tuː/",
+      "meaning": "ghé nhanh vào đâu đó",
+      "example": "I might pop into a bustling bookstore for a moment, but I quickly retreat to a calmer environment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stay away from",
+      "ipa": "/steɪ əˈweɪ frəm/",
+      "meaning": "tránh xa cái gì đó",
+      "example": "I generally try to stay away from tourist traps on weekends because they are far too hectic.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

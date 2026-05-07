@@ -1,0 +1,76 @@
+{
+  "id": "q_28",
+  "vocab": [
+    {
+      "word": "take on",
+      "ipa": "/teɪk ɒn/",
+      "meaning": "đảm nhận (trách nhiệm, công việc mới)",
+      "example": "I often take on extra projects to broaden my skill set and contribute more to the team's success.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry out",
+      "ipa": "/ˈkæri aʊt/",
+      "meaning": "tiến hành, thực hiện (nhiệm vụ, nghiên cứu)",
+      "example": "My primary role involves carrying out daily market analyses to provide data-driven insights for my manager.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "step in",
+      "ipa": "/step ɪn/",
+      "meaning": "vào cuộc, can thiệp (để giúp đỡ hoặc giải quyết vấn đề)",
+      "example": "Whenever there is a technical crisis, I step in to mediate between the developers and the clients.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "flesh out",
+      "ipa": "/fleʃ aʊt/",
+      "meaning": "triển khai chi tiết, cụ thể hóa (một ý tưởng hoặc kế hoạch)",
+      "example": "I’m responsible for taking rough concepts from the creative director and fleshing them out into full campaign proposals.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "square away",
+      "ipa": "/skweə(r) əˈweɪ/",
+      "meaning": "hoàn tất, giải quyết xong xuôi",
+      "example": "Before I leave the office, I make sure all the administrative paperwork is squared away for the following day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up for",
+      "ipa": "/ɡɪə(r) ʌp fɔː(r)/",
+      "meaning": "chuẩn bị sẵn sàng cho (một sự kiện, giai đoạn quan trọng)",
+      "example": "At the moment, our department is gearing up for the annual audit, which requires meticulous preparation.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "delegate to",
+      "ipa": "/ˈdelɪɡeɪt tu/",
+      "meaning": "giao phó, ủy quyền cho cấp dưới",
+      "example": "As a senior executive, I delegate routine administrative tasks to my assistants to focus on strategic planning.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stay on top of",
+      "ipa": "/steɪ ɒn tɒp əv/",
+      "meaning": "nắm bắt kịp thời, kiểm soát tốt tình hình",
+      "example": "It is vital for me to stay on top of the latest industry trends to ensure our company remains competitive.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "smooth over",
+      "ipa": "/smuːð ˈəʊvə(r)/",
+      "meaning": "xoa dịu, dàn xếp (những tranh chấp, hiểu lầm)",
+      "example": "One of my soft-skill responsibilities is to smooth over any internal frictions within the department.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring about",
+      "ipa": "/brɪŋ əˈbaʊt/",
+      "meaning": "mang lại, gây ra (sự thay đổi tích cực)",
+      "example": "My job is to implement new workflows that will bring about greater efficiency across the entire organization.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

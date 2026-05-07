@@ -1,0 +1,76 @@
+{
+  "id": "q_1",
+  "vocab": [
+    {
+      "word": "a team player",
+      "ipa": "/ə tiːm ˈpleɪə(r)/",
+      "meaning": "người có tinh thần đồng đội/biết hợp tác",
+      "example": "Being part of a basketball squad taught me how to be a genuine team player, prioritizing group success over individual glory.",
+      "type": "idiom"
+    },
+    {
+      "word": "learn the ropes",
+      "ipa": "/lɜːrn ðə rəʊps/",
+      "meaning": "học cách làm một công việc/nắm bắt các quy tắc cơ bản",
+      "example": "When I first joined the football club, it took me a few weeks to learn the ropes of our defensive strategies.",
+      "type": "idiom"
+    },
+    {
+      "word": "the ball is in your court",
+      "ipa": "/ðə bɔːl ɪz ɪn jɔː(r) kɔːrt/",
+      "meaning": "quyền quyết định thuộc về bạn/đến lượt bạn hành động",
+      "example": "In the final minutes of the relay, my teammate passed me the baton, and the ball was in my court to finish strong.",
+      "type": "idiom"
+    },
+    {
+      "word": "give it one's best shot",
+      "ipa": "/ɡɪv ɪt wʌnz best ʃɒt/",
+      "meaning": "cố gắng hết sức mình",
+      "example": "Even though our opponents were much stronger, we decided to give it our best shot and play with pride.",
+      "type": "idiom"
+    },
+    {
+      "word": "win hands down",
+      "ipa": "/wɪn hændz daʊn/",
+      "meaning": "thắng một cách dễ dàng/áp đảo",
+      "example": "Thanks to our rigorous training schedule, we managed to win the regional championship hands down.",
+      "type": "idiom"
+    },
+    {
+      "word": "on the ball",
+      "ipa": "/ɒn ðə bɔːl/",
+      "meaning": "nhanh nhẹn, tinh ý, hiểu rõ vấn đề",
+      "example": "Our captain was always on the ball, making split-second tactical changes that often turned the tide of the match.",
+      "type": "idiom"
+    },
+    {
+      "word": "blow the whistle",
+      "ipa": "/bləʊ ðə ˈwɪsl/",
+      "meaning": "thổi còi kết thúc (nghĩa đen) hoặc tố giác hành vi sai trái (nghĩa bóng)",
+      "example": "I remember the exhilaration I felt every time the referee blew the whistle to signal our victory.",
+      "type": "idiom"
+    },
+    {
+      "word": "a long shot",
+      "ipa": "/ə lɒŋ ʃɒt/",
+      "meaning": "một khả năng rất thấp/một thử thách khó khăn",
+      "example": "Winning against the defending champions was a long shot, but the experience we gained was invaluable.",
+      "type": "idiom"
+    },
+    {
+      "word": "sink or swim",
+      "ipa": "/sɪŋk ɔː(r) swɪm/",
+      "meaning": "tự bơi hay là chìm (tự sinh tự diệt trong môi trường khắc nghiệt)",
+      "example": "Joining a high-level sports team was a sink-or-swim situation that forced me to develop a thick skin.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep one's chin up",
+      "ipa": "/kiːp wʌnz tʃɪn ʌp/",
+      "meaning": "giữ vững tinh thần, không nản chí",
+      "example": "Whenever we lost a game, our coach encouraged us to keep our chins up and focus on the next challenge.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

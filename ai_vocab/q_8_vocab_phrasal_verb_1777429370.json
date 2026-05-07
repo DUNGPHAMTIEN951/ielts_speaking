@@ -1,0 +1,76 @@
+{
+  "id": "q_8",
+  "vocab": [
+    {
+      "word": "stretch out",
+      "ipa": "/stretʃ aʊt/",
+      "meaning": "trải dài ra tận chân trời",
+      "example": "From the summit, I could see the golden coastline stretching out for miles beneath a clear blue sky.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drink in",
+      "ipa": "/drɪŋk ɪn/",
+      "meaning": "thưởng ngoạn/tận hưởng một cách say sưa",
+      "example": "I sat on the balcony for an hour, just drinking in the spectacular mountain scenery and the fresh air.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈoʊpən ʌp/",
+      "meaning": "mở ra (một tầm nhìn rộng lớn sau khi vượt qua vật cản)",
+      "example": "As we rounded the final bend of the trail, a magnificent valley suddenly opened up before our eyes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out over",
+      "ipa": "/lʊk aʊt ˈoʊvər/",
+      "meaning": "nhìn từ trên cao xuống một không gian rộng",
+      "example": "The hotel room was incredible because it looked out over the entire city, especially the sparkling harbor at night.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off",
+      "ipa": "/set ɔːf/",
+      "meaning": "làm nổi bật vẻ đẹp của cái gì đó",
+      "example": "The vibrant autumn leaves were beautifully set off by the dark, dramatic backdrop of the storm clouds.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "peer down at",
+      "ipa": "/pɪr daʊn æt/",
+      "meaning": "nhìn chăm chú từ trên cao xuống",
+      "example": "Peering down at the tiny village from the airplane window made me realize how vast the world truly is.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/soʊk ʌp/",
+      "meaning": "đắm mình trong/tận hưởng (bầu không khí, vẻ đẹp)",
+      "example": "We spent the afternoon on the deck, soaking up the sunset and the tranquil beauty of the countryside.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blend in with",
+      "ipa": "/blend ɪn wɪð/",
+      "meaning": "hòa quyện/hòa lẫn vào với cảnh vật xung quanh",
+      "example": "I loved how the traditional stone cottages seemed to blend in with the rugged hillside perfectly.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "ngắm nhìn và thu nhận mọi chi tiết của cảnh vật",
+      "example": "I stood at the edge of the canyon, trying to take in the sheer scale of the geological formations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "reflect off",
+      "ipa": "/rɪˈflekt ɔːf/",
+      "meaning": "phản chiếu từ (bề mặt nước, kính...)",
+      "example": "The best part was watching the moonlight reflect off the calm surface of the lake, creating a silver path.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

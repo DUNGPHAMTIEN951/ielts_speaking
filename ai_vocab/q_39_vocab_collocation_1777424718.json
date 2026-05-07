@@ -1,0 +1,76 @@
+{
+  "id": "q_39",
+  "vocab": [
+    {
+      "word": "mellow acoustics",
+      "ipa": "/ˈmeləʊ əˈkuːstɪks/",
+      "meaning": "âm thanh êm dịu, ngọt ngào",
+      "example": "I am particularly fond of the mellow acoustics of a nylon-string guitar playing in a quiet room.",
+      "type": "collocation"
+    },
+    {
+      "word": "rhythmic thumping",
+      "ipa": "/ˈrɪðmɪk ˈθʌmpɪŋ/",
+      "meaning": "tiếng thình thịch có nhịp điệu",
+      "example": "The rhythmic thumping of the train on the tracks always puts me into a meditative state during long journeys.",
+      "type": "collocation"
+    },
+    {
+      "word": "distant rumble",
+      "ipa": "/ˈdɪstənt ˈrʌmbl/",
+      "meaning": "tiếng ầm ầm từ xa (thường là sấm sét hoặc xe cộ)",
+      "example": "There is something incredibly cozy about hearing the distant rumble of thunder while being tucked away safely indoors.",
+      "type": "collocation"
+    },
+    {
+      "word": "gentle rustle",
+      "ipa": "/ˈdʒentl ˈrʌsl/",
+      "meaning": "tiếng xào xạc nhẹ nhàng",
+      "example": "The gentle rustle of wind through the pine trees is a sound that instantly grounds me in nature.",
+      "type": "collocation"
+    },
+    {
+      "word": "evocative power",
+      "ipa": "/ɪˈvɒkətɪv ˈpaʊə(r)/",
+      "meaning": "sức mạnh gợi cảm xúc/kỷ niệm (của âm thanh)",
+      "example": "The sound of waves has a strange evocative power, reminding me of childhood holidays by the shore.",
+      "type": "collocation"
+    },
+    {
+      "word": "melodious chirping",
+      "ipa": "/məˈləʊdiəs ˈtʃɜːpɪŋ/",
+      "meaning": "tiếng hót líu lo, du dương",
+      "example": "I wake up every morning to the melodious chirping of birds, which is far better than any artificial alarm.",
+      "type": "collocation"
+    },
+    {
+      "word": "subdued tones",
+      "ipa": "/səbˈdjuːd təʊnz/",
+      "meaning": "những tông giọng/âm thanh khẽ khàng, không phô trương",
+      "example": "I enjoy the subdued tones of a cello; it sounds much more sophisticated and soulful than higher-pitched instruments.",
+      "type": "collocation"
+    },
+    {
+      "word": "reverberate",
+      "ipa": "/rɪˈvɜːbəreɪt/",
+      "meaning": "vang dội, dội lại",
+      "example": "I love how the sound of a large bell reverberates through the valley, creating a sense of timelessness.",
+      "type": "collocation"
+    },
+    {
+      "word": "rushing water",
+      "ipa": "/ˈrʌʃɪŋ ˈwɔːtə(r)/",
+      "meaning": "tiếng nước chảy xiết",
+      "example": "The sound of rushing water from a nearby stream is the perfect white noise for helping me concentrate on my studies.",
+      "type": "collocation"
+    },
+    {
+      "word": "high-fidelity",
+      "ipa": "/ˌhaɪ fɪˈdeləti/",
+      "meaning": "độ trung thực cao (âm thanh sắc nét, chất lượng)",
+      "example": "As an audiophile, I take great pleasure in listening to high-fidelity recordings where you can hear every breath of the performer.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

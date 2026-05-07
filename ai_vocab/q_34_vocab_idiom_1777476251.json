@@ -1,0 +1,76 @@
+{
+  "id": "q_34",
+  "vocab": [
+    {
+      "word": "a bed of roses",
+      "ipa": "/ə bed əv ˈrəʊzɪz/",
+      "meaning": "một cuộc sống/tình huống dễ dàng và thoải mái",
+      "example": "Growing delicate orchids is by no means a bed of roses; it requires constant attention to humidity and light.",
+      "type": "idiom"
+    },
+    {
+      "word": "gild the lily",
+      "ipa": "/ɡɪld ðə ˈlɪli/",
+      "meaning": "tô điểm thừa thãi cho những gì đã đẹp sẵn",
+      "example": "The natural beauty of a wild garden is so stunning that adding artificial ornaments would just be gilding the lily.",
+      "type": "idiom"
+    },
+    {
+      "word": "can't see the wood for the trees",
+      "ipa": "/kɑːnt siː ðə wʊd fɔːr ðə triːz/",
+      "meaning": "quá chú ý vào chi tiết mà không thấy được tổng thể",
+      "example": "New gardeners often obsess over a single yellow leaf and can't see the wood for the trees regarding the overall health of the plant.",
+      "type": "idiom"
+    },
+    {
+      "word": "go to seed",
+      "ipa": "/ɡəʊ tuː siːd/",
+      "meaning": "trở nên tiều tụy/xuống cấp do không được chăm sóc",
+      "example": "If you neglect your vegetable patch for even a month, the lettuce will quickly go to seed and become inedible.",
+      "type": "idiom"
+    },
+    {
+      "word": "knock on wood",
+      "ipa": "/nɒk ɒn wʊd/",
+      "meaning": "trộm vía/cầu may (để một điều tốt đẹp tiếp tục diễn ra)",
+      "example": "My lemon tree hasn't suffered from any pests this season—knock on wood—so I'm expecting a bountiful harvest.",
+      "type": "idiom"
+    },
+    {
+      "word": "pushing up daisies",
+      "ipa": "/ˈpʊʃɪŋ ʌp ˈdeɪzɪz/",
+      "meaning": "đã qua đời/chết (thường dùng hài hước khi nói về cây cối bị héo úa)",
+      "example": "I forgot to water my succulents while I was on vacation, and now they're all pushing up daisies.",
+      "type": "idiom"
+    },
+    {
+      "word": "beat around the bush",
+      "ipa": "/biːt əˈraʊnd ðə bʊʃ/",
+      "meaning": "nói vòng vo Tam Quốc/không đi thẳng vào vấn đề",
+      "example": "Stop beating around the bush and just tell me if I've over-fertilized these seedlings or not.",
+      "type": "idiom"
+    },
+    {
+      "word": "lead someone up the garden path",
+      "ipa": "/liːd ˈsʌmwʌn ʌp ðə ˈɡɑːrdn pæθ/",
+      "meaning": "lừa dối hoặc đánh lạc hướng ai đó",
+      "example": "Some expensive nurseries lead beginners up the garden path by selling them exotic plants that can't survive in the local climate.",
+      "type": "idiom"
+    },
+    {
+      "word": "money doesn't grow on trees",
+      "ipa": "/ˈmʌni ˈdʌznt ɡrəʊ ɒn triːz/",
+      "meaning": "tiền bạc không phải tự nhiên mà có/phải làm lụng vất vầy",
+      "example": "Maintaining a professional greenhouse is pricey; after all, money doesn't grow on trees, even if the plants do.",
+      "type": "idiom"
+    },
+    {
+      "word": "shaking like a leaf",
+      "ipa": "/ˈʃeɪkɪŋ laɪk ə liːf/",
+      "meaning": "run bần bật (do lo lắng hoặc sợ hãi)",
+      "example": "I was shaking like a leaf when I performed my first grafting procedure, fearing I would damage the delicate stem.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

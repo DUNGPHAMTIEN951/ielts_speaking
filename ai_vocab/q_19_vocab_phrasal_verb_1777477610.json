@@ -1,0 +1,76 @@
+{
+  "id": "q_19",
+  "vocab": [
+    {
+      "word": "take up",
+      "ipa": "/teɪk ʌp/",
+      "meaning": "bắt đầu một sở thích hay thói quen mới",
+      "example": "I actually took up painting as a toddler because my parents wanted to encourage my creative side.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mess around with",
+      "ipa": "/mes əˈraʊnd wɪð/",
+      "meaning": "nghịch ngợm, thử nghiệm một cách không nghiêm túc",
+      "example": "In primary school, I used to mess around with watercolours just to see how the different pigments merged on paper.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sketch out",
+      "ipa": "/sketʃ aʊt/",
+      "meaning": "phác thảo nhanh những nét chính",
+      "example": "I remember spending hours in my bedroom trying to sketch out the characters from my favorite comic books.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "meaning": "học kỹ năng mới một cách tự nhiên thông qua luyện tập",
+      "example": "I managed to pick up some basic shading techniques just by watching my older sister work on her art projects.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fill in",
+      "ipa": "/fɪl ɪn/",
+      "meaning": "tô màu vào các khoảng trống",
+      "example": "As a young child, I found it incredibly therapeutic to fill in complex patterns in my coloring books.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wash away",
+      "ipa": "/wɒʃ əˈweɪ/",
+      "meaning": "làm sạch/rửa trôi (nghĩa bóng: giải tỏa căng thẳng)",
+      "example": "Painting was a great way to wash away the stresses of a demanding school day, even when I was quite young.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại quá khứ",
+      "example": "I often look back on those early art classes with a lot of fondness, even though I wasn't particularly talented.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "give up",
+      "ipa": "/ɡɪv ʌp/",
+      "meaning": "từ bỏ một thói quen hay đam mê",
+      "example": "Unfortunately, I had to give up drawing in high school to focus more on my academic subjects.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand back",
+      "ipa": "/stænd bæk/",
+      "meaning": "lùi lại để quan sát kỹ hơn (tổng thể)",
+      "example": "My teacher taught me to stand back from my easel every ten minutes to evaluate the proportions of my work.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass down",
+      "ipa": "/pɑːs daʊn/",
+      "meaning": "truyền lại (kinh nghiệm/đam mê) cho thế hệ sau",
+      "example": "My father is a professional artist, so he passed down his love for oil painting to me at a very tender age.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_39",
+  "vocab": [
+    {
+      "word": "mellow out",
+      "ipa": "/ˈmeloʊ aʊt/",
+      "meaning": "trở nên thư thái, dễ chịu hơn",
+      "example": "I love listening to the soft pitter-patter of rain because it really helps me mellow out after a frantic day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zone out",
+      "ipa": "/zoʊn aʊt/",
+      "meaning": "thả lỏng tâm trí, không chú ý đến xung quanh",
+      "example": "The consistent whirring of a fan is a type of white noise that allows me to zone out and find inner peace.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drown out",
+      "ipa": "/draʊn aʊt/",
+      "meaning": "át đi, làm lu mờ (âm thanh khác)",
+      "example": "I prefer the sound of instrumental jazz as it perfectly drowns out the unpleasant clamor of the construction nearby.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift away",
+      "ipa": "/drɪft əˈweɪ/",
+      "meaning": "thả hồn theo, chìm đắm vào (cảm giác xa xăm)",
+      "example": "When I hear the distant chime of church bells, I tend to drift away into a world of nostalgia.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "perk up",
+      "ipa": "/pɜːrk ʌp/",
+      "meaning": "trở nên phấn chấn, tỉnh táo hơn",
+      "example": "My mood always perks up the moment I hear the morning birdsong outside my bedroom window.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɑːk aʊt/",
+      "meaning": "ngăn chặn, loại bỏ (tạp âm)",
+      "example": "Putting on some ambient forest sounds helps me block out the distracting chatter in the open-plan office.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pipe up",
+      "ipa": "/paɪp ʌp/",
+      "meaning": "cất tiếng, vang lên (thường là âm thanh cao hoặc bất ngờ)",
+      "example": "I find it quite charming when the crickets pipe up in the evening during my walk through the park.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ease off",
+      "ipa": "/iːz ɔːf/",
+      "meaning": "giảm bớt căng thẳng, trở nên nhẹ nhàng hơn",
+      "example": "The sound of rolling thunder as a storm begins to ease off is incredibly soothing to my ears.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hark back",
+      "ipa": "/hɑːrk bæk/",
+      "meaning": "gợi nhắc về (điều gì đó trong quá khứ)",
+      "example": "The crackling of a bonfire harks back to my childhood camping trips and the warmth of the hearth.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "nghỉ ngơi, thư giãn dần dần",
+      "example": "I usually play some lo-fi beats to wind down in the evening before I finally turn in for the night.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

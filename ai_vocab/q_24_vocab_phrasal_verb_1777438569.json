@@ -1,0 +1,76 @@
+{
+  "id": "q_24",
+  "vocab": [
+    {
+      "word": "toss in",
+      "ipa": "/tɒs ɪn/",
+      "meaning": "bỏ nhanh cái gì đó vào (túi, vali) mà không cần chuẩn bị quá kỹ",
+      "example": "If I'm just heading to a friend's house, I'll usually just toss in a portable charger and my Kindle.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sort through",
+      "ipa": "/sɔːt θruː/",
+      "meaning": "kiểm tra, phân loại đồ đạc (để chọn thứ cần thiết)",
+      "example": "Before a long trip, I have to sort through my wardrobe to pick out clothes that suit the destination's climate.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "thin out",
+      "ipa": "/θɪn aʊt/",
+      "meaning": "giảm bớt số lượng đồ đạc (để nhẹ hơn hoặc gọn hơn)",
+      "example": "I try to thin out my belongings when backpacking to ensure my bag isn't excessively heavy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring along",
+      "ipa": "/brɪŋ əˈlɒŋ/",
+      "meaning": "mang theo bên mình (đến một nơi nào đó)",
+      "example": "When visiting coastal areas, I always bring along a high-quality camera to capture the scenery.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "kit out",
+      "ipa": "/kɪt aʊt/",
+      "meaning": "trang bị đầy đủ đồ dùng/quần áo chuyên dụng cho một mục đích",
+      "example": "For a hiking expedition, I really need to kit myself out with sturdy boots and waterproof gear.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "check off",
+      "ipa": "/tʃek ɒf/",
+      "meaning": "đánh dấu hoàn thành trong danh sách (để kiểm tra xem đã mang đủ đồ chưa)",
+      "example": "I always have a travel checklist and check off each item as it goes into my suitcase.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sieve through",
+      "ipa": "/sɪv θruː/",
+      "meaning": "xem xét kỹ lưỡng (để loại bỏ những thứ rườm rà)",
+      "example": "I had to sieve through my documents to make sure I wasn't carrying any unnecessary paperwork abroad.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hand over",
+      "ipa": "/hænd ˈəʊ.vər/",
+      "meaning": "giao nộp/đưa cái gì đó cho ai (thường là tại sân bay hoặc khách sạn)",
+      "example": "I keep my passport in an easy-to-reach pocket so I can hand it over quickly at customs.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "switch around",
+      "ipa": "/swɪtʃ əˈraʊnd/",
+      "meaning": "thay đổi, hoán đổi vị trí hoặc vật dụng",
+      "example": "Depending on the itinerary, I might switch around the items in my carry-on for better accessibility.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pack up",
+      "ipa": "/pæk ʌp/",
+      "meaning": "thu dọn đồ đạc (thường là khi kết thúc chuyến đi)",
+      "example": "It's always a bit bittersweet to pack up my things at the end of a wonderful vacation.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

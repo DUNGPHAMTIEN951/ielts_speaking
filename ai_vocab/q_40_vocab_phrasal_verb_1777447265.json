@@ -1,0 +1,76 @@
+{
+  "id": "q_40",
+  "vocab": [
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "ngăn chặn, át đi âm thanh",
+      "example": "I often wear noise-cancelling headphones to block out the constant hum of the air conditioner.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ring out",
+      "ipa": "/rɪŋ aʊt/",
+      "meaning": "vang lên một cách rõ rệt, đanh thép",
+      "example": "The sound of construction work rings out across the neighborhood starting from early morning.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drown out",
+      "ipa": "/draʊn aʊt/",
+      "meaning": "lấn át, làm cho không nghe thấy âm thanh khác",
+      "example": "The roar of the jet engines usually drowns out any conversation on the street near the airport.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "flare up",
+      "ipa": "/fleər ʌp/",
+      "meaning": "bùng phát, đột ngột trở nên ồn ào",
+      "example": "Traffic noise tends to flare up during rush hour, making it difficult to concentrate on my work.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift in",
+      "ipa": "/drɪft ɪn/",
+      "meaning": "trôi dạt vào, vô tình nghe thấy (âm thanh từ xa)",
+      "example": "The distant sound of a radio often drifts in through my open window in the late afternoon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burst out",
+      "ipa": "/bɜːst aʊt/",
+      "meaning": "bùng nổ, vang lên bất thình lình",
+      "example": "Laughter often bursts out from the playground nearby, which is a quite pleasant sound to hear.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fade away",
+      "ipa": "/feɪd əˈweɪ/",
+      "meaning": "nhạt dần, nhỏ dần rồi biến mất",
+      "example": "I listen to the sirens of ambulances as they slowly fade away into the distance.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut through",
+      "ipa": "/kʌt θruː/",
+      "meaning": "xé tan, xuyên qua (màn đêm/không gian yên tĩnh)",
+      "example": "The sharp honking of a car horn occasionally cuts through the silence of the night.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "boom out",
+      "ipa": "/buːm aʊt/",
+      "meaning": "phát ra âm thanh trầm, vang dội",
+      "example": "Announcements from the local loudspeaker boom out every morning to inform residents of the news.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry over",
+      "ipa": "/ˈkæri ˈəʊvər/",
+      "meaning": "vang xa, truyền đi một khoảng cách dài",
+      "example": "Because the walls are quite thin, the noise from my neighbor's TV often carries over into my bedroom.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

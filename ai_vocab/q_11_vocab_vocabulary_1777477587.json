@@ -1,0 +1,76 @@
+{
+  "id": "q_11",
+  "vocab": [
+    {
+      "word": "curated exhibition",
+      "ipa": "/ˈkjʊə.reɪ.tɪd ˌek.sɪˈbɪʃ.ən/",
+      "meaning": "triển lãm được chọn lọc và sắp xếp kỹ lưỡng",
+      "example": "I am particularly drawn to a well-curated exhibition that tells a cohesive story rather than just displaying random pieces.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "avant-garde",
+      "ipa": "/ˌæv.ɒ̃ˈɡɑːd/",
+      "meaning": "nghệ thuật tiên phong, mới lạ và táo bạo",
+      "example": "I have a soft spot for avant-garde installations that push the boundaries of traditional artistic expression.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "evocative power",
+      "ipa": "/ɪˈvɒk.ə.tɪv ˈpaʊ.ər/",
+      "meaning": "sức mạnh gợi cảm xúc mạnh mẽ",
+      "example": "The evocative power of abstract paintings allows every visitor to have a deeply personal and unique interpretation.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "patron of the arts",
+      "ipa": "/ˈpeɪ.trən əv ðɪ ɑːts/",
+      "meaning": "người ủng hộ/bảo trợ nghệ thuật",
+      "example": "While I’m not a wealthy patron of the arts, I try to support local galleries by attending their opening nights.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "visual literacy",
+      "ipa": "/ˈvɪʒ.u.əl ˈlɪt.ər.ə.si/",
+      "meaning": "khả năng thấu cảm và hiểu các thông điệp hình ảnh",
+      "example": "Visiting galleries frequently has definitely improved my visual literacy, helping me appreciate subtle nuances in composition.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "sanctuary",
+      "ipa": "/ˈsæŋk.tʃu.ə.ri/",
+      "meaning": "nơi trú ẩn, nơi chốn bình yên",
+      "example": "In a frantic city, an art gallery serves as a sanctuary where I can escape the noise and reflect in silence.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "intricate brushwork",
+      "ipa": "/ˈɪn.trɪ.kət ˈbrʌʃ.wɜːk/",
+      "meaning": "kỹ thuật vẽ bằng cọ cực kỳ tinh xảo, chi tiết",
+      "example": "I can spend an entire afternoon marvelling at the intricate brushwork used in 19th-century oil paintings.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "subliminal message",
+      "ipa": "/ˌsʌbˈlɪm.ɪ.nəl ˈmes.ɪdʒ/",
+      "meaning": "thông điệp ngầm, thông điệp dưới ngưỡng ý thức",
+      "example": "Some modern pieces use symbolism to convey a subliminal message about environmental degradation.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "provocative",
+      "ipa": "/prəˈvɒk.ə.tɪv/",
+      "meaning": "gây tranh cãi hoặc kích thích suy nghĩ mạnh mẽ",
+      "example": "I enjoy art that is provocative and forces the audience to confront uncomfortable social realities.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "transcend time",
+      "ipa": "/trænˈsend taɪm/",
+      "meaning": "vượt qua giới hạn thời gian",
+      "example": "Masterpieces in National Galleries often seem to transcend time, remaining relevant to viewers centuries after they were created.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

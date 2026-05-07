@@ -1,0 +1,76 @@
+{
+  "id": "q_15",
+  "vocab": [
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại hoặc cải thiện kiến thức về cái gì đó",
+      "example": "I’m planning to visit the history museum to brush up on my knowledge of ancient civilizations before my exam.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng ngoạn, ngắm nhìn và cảm nhận trọn vẹn",
+      "example": "When I enter an art gallery, I like to take in every brushstroke and color choice of the artist.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ tìm thấy hoặc bắt gặp cái gì đó hay ho",
+      "example": "I love wandering through smaller galleries where you might stumble upon a hidden gem by an unknown local painter.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑːvl æt/",
+      "meaning": "chiêm ngưỡng với thái độ kinh ngạc và ngưỡng mộ",
+      "example": "It is truly humbling to stand in a museum and marvel at the technical precision of sculptures from centuries ago.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop into",
+      "ipa": "/pɒp ˈɪntə/",
+      "meaning": "ghé thăm nhanh một nơi nào đó",
+      "example": "Whenever I have a spare hour in the city, I often pop into the local gallery just to see what’s new.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go back to",
+      "ipa": "/ɡəʊ bæk tu/",
+      "meaning": "quay trở lại (thời gian hoặc một địa điểm cũ)",
+      "example": "Walking through the vintage photography section felt like going back to a completely different era.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔː(r) ˈəʊvə(r)/",
+      "meaning": "nghiên cứu, xem xét cực kỳ kỹ lưỡng",
+      "example": "As a history buff, I can pore over ancient manuscripts in the museum archives for hours on end.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊpən ʌp/",
+      "meaning": "mở ra (một thế giới mới hoặc những góc nhìn mới)",
+      "example": "Modern art exhibitions really open up new ways of thinking about social issues through abstract forms.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drawn to",
+      "ipa": "/drɔːn tu/",
+      "meaning": "bị thu hút bởi cái gì đó",
+      "example": "I’ve always been naturally drawn to impressionist paintings because of their vibrant use of light and shadow.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand back",
+      "ipa": "/stænd bæk/",
+      "meaning": "lùi lại một khoảng (để có cái nhìn bao quát hơn)",
+      "example": "With large-scale installations, you often need to stand back to appreciate the full impact of the work.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

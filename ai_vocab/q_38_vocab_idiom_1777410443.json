@@ -1,0 +1,76 @@
+{
+  "id": "q_38",
+  "vocab": [
+    {
+      "word": "peace and quiet",
+      "ipa": "/piːs ənd ˈkwaɪ.ət/",
+      "meaning": "sự bình yên và tĩnh lặng (không bị làm phiền)",
+      "example": "After a long day at the office, all I really want is a bit of peace and quiet to gather my thoughts.",
+      "type": "idiom"
+    },
+    {
+      "word": "the hustle and bustle",
+      "ipa": "/ðə ˈhʌs.əl ənd ˈbʌs.əl/",
+      "meaning": "sự hối hả và nhộn nhịp (thường nói về đô thị)",
+      "example": "I'm not a fan of the hustle and bustle of city centers; I much prefer the serenity of the countryside.",
+      "type": "idiom"
+    },
+    {
+      "word": "recharge my batteries",
+      "ipa": "/ˌriːˈtʃɑːrdʒ maɪ ˈbæt.ər.iz/",
+      "meaning": "hồi phục năng lượng, nghỉ ngơi lấy sức",
+      "example": "Quiet places like local parks allow me to recharge my batteries after a hectic working week.",
+      "type": "idiom"
+    },
+    {
+      "word": "the life and soul of the party",
+      "ipa": "/ðə laɪf ənd soʊl əv ðə ˈpɑːr.ti/",
+      "meaning": "người là tâm điểm, làm không khí sôi động",
+      "example": "While I occasionally enjoy noisy clubs, I'm certainly not the life and soul of the party.",
+      "type": "idiom"
+    },
+    {
+      "word": "far from the madding crowd",
+      "ipa": "/fɑːr frəm ðə ˈmæd.ɪŋ kraʊd/",
+      "meaning": "cách xa đám đông xô bồ, náo nhiệt",
+      "example": "I love going to my grandparents' cottage because it is truly far from the madding crowd.",
+      "type": "idiom"
+    },
+    {
+      "word": "my cup of tea",
+      "ipa": "/maɪ kʌp əv tiː/",
+      "meaning": "sở thích của tôi (thường dùng ở phủ định)",
+      "example": "Loud, crowded concerts aren't really my cup of tea; I find them quite overwhelming.",
+      "type": "idiom"
+    },
+    {
+      "word": "hear a pin drop",
+      "ipa": "/hɪər ə pɪn drɑːp/",
+      "meaning": "yên tĩnh đến mức nghe thấy cả tiếng kim rơi",
+      "example": "I adore the local library; it’s so silent in there that you could almost hear a pin drop.",
+      "type": "idiom"
+    },
+    {
+      "word": "music to my ears",
+      "ipa": "/ˈmjuː.zɪk tuː maɪ ɪərz/",
+      "meaning": "điều gì đó nghe rất dễ chịu hoặc tin mừng",
+      "example": "The gentle sound of waves at a quiet beach is absolute music to my ears.",
+      "type": "idiom"
+    },
+    {
+      "word": "at the top of one's lungs",
+      "ipa": "/æt ðə tɑːp əv wʌnz lʌŋz/",
+      "meaning": "hét váng lên, nói rất to (gây ồn)",
+      "example": "I dislike places where people are constantly shouting at the top of their lungs.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit the spot",
+      "ipa": "/hɪt ðə spɑːt/",
+      "meaning": "đúng thứ mình cần/thỏa mãn yêu cầu",
+      "example": "When I'm stressed, a quiet afternoon in a secluded café really hits the spot.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

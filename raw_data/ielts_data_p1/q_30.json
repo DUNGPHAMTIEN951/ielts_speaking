@@ -1,0 +1,72 @@
+{
+  "id": "q_30",
+  "topic": "Studying",
+  "q": "What is your major? / What subject are you studying?",
+  "examiner_note": "Câu hỏi này yêu cầu bạn kể tên ngành học hoặc các môn học cụ thể. \n- **Hướng dẫn trả lời**: Không chỉ kể tên, hãy mô tả ngắn gọn về ngành đó (ngành đó nghiên cứu về cái gì/lĩnh vực nào). \n- **Mẹo**: Sử dụng các cụm từ chuyên môn để thể hiện vốn từ vựng phong phú.",
+  "samples": {
+    "band7": {
+      "text": "My major is Graphic Design. It's a field that combines creativity with technology. I learn how to create visual content for websites, advertisements, and magazines using various software programs.",
+      "note": "Trả lời trực tiếp, mô tả súc tích về chuyên ngành. Sử dụng từ vựng phù hợp."
+    },
+    "band8": {
+      "text": "I'm currently majoring in Environmental Science. This discipline focuses on understanding the complex interactions between humans and the natural world, particularly looking into sustainable solutions for modern ecological problems.",
+      "note": "Sử dụng các cụm từ học thuật tốt như 'focuses on understanding', 'complex interactions', 'sustainable solutions'."
+    },
+    "band9": {
+      "text": "I specialize in Biomedical Engineering, an interdisciplinary field that bridges the gap between biology and engineering principles. My studies revolve around developing cutting-edge medical technologies and equipment to improve healthcare outcomes.",
+      "note": "Diễn đạt cực kỳ chuyên nghiệp ('specialize in', 'interdisciplinary field', 'bridges the gap'). Cấu trúc câu linh hoạt."
+    }
+  },
+  "v": [
+    { "word": "specialize in", "meaning": "chuyên về", "ipa": "/ˈspeʃəlaɪz ɪn/", "example": "After graduation, I hope to specialize in digital marketing." },
+    { "word": "interdisciplinary", "meaning": "mang tính liên ngành", "ipa": "/ˌɪntəˈdɪsəplɪnəri/", "example": "Biotechnology is a highly interdisciplinary field of study." },
+    { "word": "bridge the gap", "meaning": "thu hẹp khoảng cách", "ipa": "/brɪdʒ ðə ɡæp/", "example": "New research projects are designed to bridge the gap between theory and practice." },
+    { "word": "cutting-edge", "meaning": "tiên tiến, hiện đại nhất", "ipa": "/ˌkʌtɪŋ ˈedʒ/", "example": "Students have access to cutting-edge technology in our laboratories." },
+    { "word": "revolve around", "meaning": "xoay quanh", "ipa": "/rɪˈvɒlv əˈraʊnd/", "example": "The first year of the course revolves around basic scientific principles." },
+    { "word": "academic discipline", "meaning": "ngành học thuật", "ipa": "/ˌækəˈdemɪk ˈdɪsəplɪn/", "example": "Sociology is a fascinating academic discipline that studies human society." },
+    { "word": "theoretical knowledge", "meaning": "kiến thức lý thuyết", "ipa": "/θɪəˈretɪkl ˈnɒlɪdʒ/", "example": "The course provides a solid foundation of theoretical knowledge." },
+    { "word": "practical application", "meaning": "ứng dụng thực tế", "ipa": "/ˈpræktɪkl ˌæplɪˈkeɪʃn/", "example": "We spend a lot of time in the lab exploring the practical application of the theories." },
+    { "word": "core curriculum", "meaning": "chương trình học chính", "ipa": "/kɔː(r) kəˈrɪkjələm/", "example": "Ethics is an essential part of the core curriculum for law students." },
+    { "word": "hands-on experience", "meaning": "kinh nghiệm thực hành", "ipa": "/hændz ɒn ɪkˈspɪəriəns/", "example": "Internships are vital for gaining hands-on experience in the industry." },
+    { "word": "analytical skills", "meaning": "kỹ năng phân tích", "ipa": "/ˌænəˈlɪtɪkl skɪlz/", "example": "Studying mathematics helps develop strong analytical skills." },
+    { "word": "research-oriented", "meaning": "định hướng nghiên cứu", "ipa": "/rɪˈsɜːtʃ ˈɔːriəntɪd/", "example": "Our university is known for its research-oriented approach to science." },
+    { "word": "specialist subject", "meaning": "môn học chuyên ngành", "ipa": "/ˈspeʃəlɪst ˈsʌbdʒɪkt/", "example": "I'm currently focusing on advanced algorithms as my specialist subject." },
+    { "word": "major", "meaning": "chuyên ngành (N)", "ipa": "/ˈmeɪdʒə(r)/", "example": "Business Administration is a popular major among international students." },
+    { "word": "minor in", "meaning": "học ngành phụ về", "ipa": "/ˈmaɪnər ɪn/", "example": "I'm majoring in History but decided to minor in French." },
+    { "word": "seminar series", "meaning": "chuỗi hội thảo học thuật", "ipa": "/ˈsemɪnɑː(r) ˈsɪəriːz/", "example": "I regularly attend the guest speaker seminar series on campus." },
+    { "word": "dissertation", "meaning": "luận văn (thường là thạc sĩ/tiến sĩ)", "ipa": "/ˌdɪsəˈteɪʃn/", "example": "He is in the process of writing his doctoral dissertation." },
+    { "word": "coursework", "meaning": "bài tập trong khóa học", "ipa": "/ˈkɔːswɜːk/", "example": "Fifty percent of the final grade is based on coursework." },
+    { "word": "lab session", "meaning": "buổi thực hành thí nghiệm", "ipa": "/læb ˈseʃn/", "example": "We have a three-hour lab session every Wednesday afternoon." },
+    { "word": "field work", "meaning": "nghiên cứu thực tế/điền dã", "ipa": "/fiːld wɜːk/", "example": "Geology students spend several weeks each summer doing field work." },
+    { "word": "academic achievement", "meaning": "thành tích học tập", "ipa": "/ˌækəˈdemɪk əˈtʃiːvmənt/", "example": "The university celebrates academic achievement at the annual awards gala." },
+    { "word": "graduation ceremony", "meaning": "lễ tốt nghiệp", "ipa": "/ˌɡrædʒuˈeɪʃn ˈserəməni/", "example": "My parents are flying in to attend my graduation ceremony." },
+    { "word": "postgraduate study", "meaning": "nghiên cứu sau đại học", "ipa": "/ˌpəʊstˈɡrædʒuət ˈstʌdi/", "example": "Many graduates choose to continue with postgraduate study." },
+    { "word": "doctoral candidate", "meaning": "nghiên cứu sinh tiến sĩ", "ipa": "/ˈdɒktərəl ˈkændɪdeɪt/", "example": "She is a doctoral candidate specializing in renewable energy." },
+    { "word": "lecturer", "meaning": "giảng viên", "ipa": "/ˈlektʃərə(r)/", "example": "The lecturer explained the complex concept very clearly." },
+    { "word": "professor", "meaning": "giáo sư", "ipa": "/prəˈfesə(r)/", "example": "Professor Smith is a leading expert in the field of archaeology." },
+    { "word": "syllabus", "meaning": "đề cương môn học", "ipa": "/ˈsɪləbəs/", "example": "Students should check the syllabus for the required reading list." },
+    { "word": "credit hours", "meaning": "số tín chỉ", "ipa": "/ˈkredɪt ˈaʊəz/", "example": "I need to complete 120 credit hours to graduate." },
+    { "word": "tuition", "meaning": "sự giảng dạy/học phí", "ipa": "/tjuˈɪʃn/", "example": "The university provides high-quality tuition in a wide range of subjects." },
+    { "word": "scholar", "meaning": "học giả", "ipa": "/ˈskɒlə(r)/", "example": "The library is a quiet place for scholars to do their research." },
+    { "word": "archive", "meaning": "kho lưu trữ", "ipa": "/ˈɑːkaɪv/", "example": "Historical researchers often spend weeks in the national archives." },
+    { "word": "literary criticism", "meaning": "phê bình văn học", "ipa": "/ˈlɪtərəri ˈkrɪtɪsɪzəm/", "example": "Her thesis was on modern literary criticism." },
+    { "word": "case study", "meaning": "nghiên cứu tình huống", "ipa": "/keɪs ˈstʌdi/", "example": "The business course uses many real-world case studies." },
+    { "word": "peer review", "meaning": "đánh giá ngang hàng", "ipa": "/pɪə rɪˈvjuː/", "example": "Scientific papers undergo a rigorous peer review process before publication." },
+    { "word": "reference material", "meaning": "tài liệu tham khảo", "ipa": "/ˈrefrəns məˈtɪəriəl/", "example": "The library has an extensive collection of reference materials." },
+    { "word": "bibliography", "meaning": "thư mục tài liệu tham khảo", "ipa": "/ˌbɪbliˈɒɡrəfi/", "example": "Your essay must include a full bibliography." },
+    { "word": "plagiarism", "meaning": "đạo văn", "ipa": "/ˈpleɪdʒərɪzəm/", "example": "Universities have strict rules against plagiarism." },
+    { "word": "academic integrity", "meaning": "sự liêm chính trong học thuật", "ipa": "/ˌækəˈdemɪk ɪnˈteɡrəti/", "example": "Maintaining academic integrity is essential for all students." },
+    { "word": "collaborative learning", "meaning": "học tập hợp tác", "ipa": "/kəˈlæbərətɪv ˈlɜːnɪŋ/", "example": "Group projects encourage collaborative learning among students." },
+    { "word": "knowledge base", "meaning": "cơ sở kiến thức", "ipa": "/ˈnɒlɪdʒ beɪs/", "example": "The goal of the course is to build a strong knowledge base for future studies." },
+    { "word": "learning curve", "meaning": "đường cong học tập (mức độ khó của việc học)", "ipa": "/ˈlɜːnɪŋ kɜːv/", "example": "Coding has a steep learning curve for beginners." },
+    { "word": "critical analysis", "meaning": "phân tích phản biện", "ipa": "/ˈkrɪtɪkl əˈnæləsɪs/", "example": "We were asked to provide a critical analysis of the current economic situation." },
+    { "word": "cognitive development", "meaning": "phát triển nhận thức", "ipa": "/ˈkɒɡnətɪv dɪˈveləpmənt/", "example": "Early childhood education is crucial for cognitive development." },
+    { "word": "digital literacy", "meaning": "/ˈdɪdʒɪtl ˈlɪtərəsi/", "ipa": "khả năng sử dụng công nghệ số", "example": "Digital literacy is an essential skill in the modern job market." },
+    { "word": "innovation", "meaning": "sự đổi mới/sáng tạo", "ipa": "/ˌɪnəˈveɪʃn/", "example": "The university encourages innovation through its startup incubator." },
+    { "word": "industry standards", "meaning": "tiêu chuẩn ngành", "ipa": "/ˈɪndəstri ˈstændədz/", "example": "Our engineering program is designed to meet the latest industry standards." },
+    { "word": "professional development", "meaning": "phát triển chuyên môn", "ipa": "/prəˈfeʃənl dɪˈveləpmənt/", "example": "Many graduates pursue further professional development workshops." },
+    { "word": "career path", "meaning": "con đường sự nghiệp", "ipa": "/kəˈrɪə pɑːθ/", "example": "My studies are directly related to my intended career path in law." },
+    { "word": "job prospects", "meaning": "triển vọng việc làm", "ipa": "/dʒɒb ˈprɒspekts/", "example": "Choosing a STEM major often leads to better job prospects." },
+    { "word": "global perspective", "meaning": "tầm nhìn toàn cầu", "ipa": "/ˈɡləʊbl pəˈspektɪv/", "example": "International student exchange programs foster a global perspective." }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_28",
+  "vocab": [
+    {
+      "word": "step in",
+      "ipa": "/step ɪn/",
+      "meaning": "can thiệp hoặc đảm nhận thay công việc của người khác (khi cần thiết)",
+      "example": "Whenever a project hits a deadlock, I have to step in and provide executive guidance to get things moving again.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp, cập nhật (xu hướng, công nghệ, tiến độ)",
+      "example": "A huge part of my job is keeping up with the latest industry regulations to ensure our firm remains compliant.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry out",
+      "ipa": "/ˈkæri aʊt/",
+      "meaning": "tiến hành, thực hiện (nhiệm vụ, khảo sát, kế hoạch)",
+      "example": "I'm responsible for carrying out feasibility studies before we commit any resources to new ventures.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "smooth over",
+      "ipa": "/smuːð ˈəʊvə(r)/",
+      "meaning": "giàn xếp, làm dịu đi (những tranh chấp hoặc rắc rối)",
+      "example": "As a team lead, I often have to smooth over misunderstandings between the creative and technical departments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒə(r) ʌp tu/",
+      "meaning": "đạt tới tiêu chuẩn, đáp ứng được (kỳ vọng, KPI)",
+      "example": "I constantly review our output to make sure it measures up to the rigorous quality standards our clients expect.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fill in for",
+      "ipa": "/fɪl ɪn fɔː(r)/",
+      "meaning": "làm thay công việc cho ai đó (khi họ vắng mặt)",
+      "example": "Because I have a broad skill set, I often fill in for the department head during international conferences.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw up",
+      "ipa": "/drɔː ʌp/",
+      "meaning": "soạn thảo (hợp đồng, văn bản, kế hoạch)",
+      "example": "It is my duty to draw up the formal proposals and service agreements for our premium stakeholders.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out into",
+      "ipa": "/brɑːntʃ aʊt ˈɪntə/",
+      "meaning": "mở rộng hoạt động sang (lĩnh vực mới)",
+      "example": "I’ve recently been tasked with helping the company branch out into the European market.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "weigh up",
+      "ipa": "/weɪ ʌp/",
+      "meaning": "xem xét, cân nhắc kỹ lưỡng (các lựa chọn)",
+      "example": "My role involves weighing up the pros and cons of various investment strategies before presenting them to the board.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring about",
+      "ipa": "/brɪŋ əˈbaʊt/",
+      "meaning": "mang lại, gây ra (sự thay đổi tích cực)",
+      "example": "I am currently trying to bring about a shift in our corporate culture toward more agile working practices.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

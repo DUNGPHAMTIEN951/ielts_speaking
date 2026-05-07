@@ -1,0 +1,76 @@
+{
+  "id": "q_23",
+  "vocab": [
+    {
+      "word": "snap up",
+      "ipa": "/snæp ʌp/",
+      "meaning": "chụp nhanh một bức ảnh (thường là khoảnh khắc bất ngờ)",
+      "example": "Whenever I see a beautiful sunset, I immediately pull out my phone to snap up a quick shot.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tinker with",
+      "ipa": "/ˈtɪŋkər wɪð/",
+      "meaning": "loay hoay chỉnh sửa/thử nghiệm (thường là cài đặt máy ảnh hoặc hậu kỳ)",
+      "example": "I spend hours tinkering with the exposure and saturation settings to get the perfect mood for my photos.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mess around with",
+      "ipa": "/mes əˈraʊnd wɪð/",
+      "meaning": "nghịch ngợm/thử nghiệm một cách ngẫu hứng (với thiết bị hoặc góc chụp)",
+      "example": "I love messing around with different vintage filters to give my digital photos a retro feel.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zoom in on",
+      "ipa": "/zuːm ɪn ɒn/",
+      "meaning": "phóng to/tập trung cận cảnh vào một chi tiết",
+      "example": "Macro photography is fascinating because it allows you to zoom in on tiny details that the naked eye usually misses.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "crop out",
+      "ipa": "/krɒp aʊt/",
+      "meaning": "cắt bỏ (những phần không mong muốn trong ảnh)",
+      "example": "If there's a distracting background element in an otherwise great portrait, I just crop it out during editing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "filter out",
+      "ipa": "/ˈfɪltər aʊt/",
+      "meaning": "loại bỏ (nghĩa bóng: lọc bớt những thứ gây nhiễu để tập trung vào chủ thể)",
+      "example": "Taking photos helps me filter out the noise of everyday life and focus purely on the aesthetic of the moment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring through",
+      "ipa": "/brɪŋ θruː/",
+      "meaning": "làm nổi bật lên (thường là màu sắc hoặc cảm xúc sau khi chỉnh sửa)",
+      "example": "A bit of post-processing really helps to bring through the vibrant blues and greens of the landscape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃəʊ ɒf/",
+      "meaning": "khoe/trưng bày (những bức ảnh đẹp cho người khác xem)",
+      "example": "I don't just take photos for myself; I enjoy showing them off on my social media feed to share my travels.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fumble around with",
+      "ipa": "/ˈfʌmbl əˈraʊnd wɪð/",
+      "meaning": "lóng ngóng/vụng về thao tác (thường là khi mới dùng thiết bị mới)",
+      "example": "When I first bought a DSLR, I spent a lot of time fumbling around with the manual dials before I got the hang of it.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look through",
+      "ipa": "/lʊk θruː/",
+      "meaning": "xem qua/soát lại (một bộ sưu tập ảnh)",
+      "example": "On rainy days, I find it quite therapeutic to look through my old photo albums and relive past memories.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

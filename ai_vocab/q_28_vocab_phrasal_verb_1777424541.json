@@ -1,0 +1,76 @@
+{
+  "id": "q_28",
+  "vocab": [
+    {
+      "word": "map out",
+      "ipa": "/mæp aʊt/",
+      "meaning": "lên kế hoạch chi tiết, phác thảo lộ trình",
+      "example": "Part of my role is to map out the project milestones for the next quarter to ensure everyone is on the same page.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "deal with",
+      "ipa": "/diːl wɪð/",
+      "meaning": "giải quyết, xử lý (vấn đề hoặc khách hàng)",
+      "example": "I predominantly deal with high-profile clients, ensuring their specific requirements are met with precision.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "follow through",
+      "ipa": "/ˈfɒləʊ θruː/",
+      "meaning": "hoàn thành việc đã bắt đầu, làm đến nơi đến chốn",
+      "example": "It’s my responsibility to follow through on all pending inquiries to maintain our high customer satisfaction rating.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "report back to",
+      "ipa": "/rɪˈpɔːt bæk tu/",
+      "meaning": "báo cáo lại kết quả cho ai đó",
+      "example": "After conducting market research, I have to report back to the board of directors with my findings and recommendations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep track of",
+      "ipa": "/kiːp træk əv/",
+      "meaning": "theo dõi, ghi chép lại tiến độ hoặc thông tin",
+      "example": "I use advanced software to keep track of our inventory levels and prevent any supply chain disruptions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "iron out",
+      "ipa": "/ˈaɪən aʊt/",
+      "meaning": "giải quyết các khó khăn hoặc chi tiết nhỏ còn vướng mắc",
+      "example": "Before the product launch, my team and I had to iron out several technical glitches in the user interface.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head up",
+      "ipa": "/hed ʌp/",
+      "meaning": "đứng đầu, lãnh đạo (một nhóm hoặc dự án)",
+      "example": "Currently, I’m heading up a task force aimed at reducing our company’s carbon footprint.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pencil in",
+      "ipa": "/ˈpensl ɪn/",
+      "meaning": "sắp xếp một cuộc hẹn hoặc kế hoạch tạm thời",
+      "example": "I often have to pencil in several consultative meetings a day to align our internal strategy with client needs.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look into",
+      "ipa": "/lʊk ˈɪntə/",
+      "meaning": "điều tra, nghiên cứu, xem xét kỹ một vấn đề",
+      "example": "When discrepancies arise in the financial reports, it's my job to look into the matter and identify the root cause.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hand over",
+      "ipa": "/hænd ˈəʊvə(r)/",
+      "meaning": "bàn giao (công việc, trách nhiệm)",
+      "example": "At the end of my shift, I hand over the outstanding tasks to the evening team to ensure a seamless transition.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

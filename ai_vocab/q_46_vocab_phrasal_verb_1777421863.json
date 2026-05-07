@@ -1,0 +1,76 @@
+{
+  "id": "q_46",
+  "vocab": [
+    {
+      "word": "strike up",
+      "ipa": "/straɪk ʌp/",
+      "meaning": "bắt đầu (một cuộc trò chuyện)",
+      "example": "I often strike up a conversation with fellow commuters to make the long train journey feel shorter.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bump into",
+      "ipa": "/bʌmp ˈɪntə/",
+      "meaning": "tình cờ gặp ai đó",
+      "example": "I recently bumped into a tourist at the museum and we ended up discussing the exhibits for nearly an hour.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "warm up to",
+      "ipa": "/wɔːm ʌp tu/",
+      "meaning": "dần dần trở nên cởi mở/thích ai đó hơn",
+      "example": "It usually takes me a few minutes to warm up to strangers, but once the ice is broken, I'm quite chatty.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊpən ʌp/",
+      "meaning": "mở lòng, chia sẻ nhiều hơn",
+      "example": "It's fascinating how some people will open up about their life stories after just a few minutes of talking at a bus stop.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out",
+      "ipa": "/brɑːntʃ aʊt/",
+      "meaning": "mở rộng phạm vi (giao tiếp), thử làm điều gì đó mới",
+      "example": "I’m trying to branch out and be more social, so I make a conscious effort to talk to people in public more often.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hit it off",
+      "ipa": "/hɪt ɪt ɒf/",
+      "meaning": "tâm đầu ý hợp ngay lập tức",
+      "example": "I met a traveler at a cafe last week and we hit it off immediately because we both shared a passion for photography.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "chime in",
+      "ipa": "/tʃaɪm ɪn/",
+      "meaning": "nói xen vào, góp chuyện (một cách tự nhiên)",
+      "example": "I was sitting at a communal table when I heard someone mention my favorite book, so I couldn't help but chime in.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp (tốc độ hoặc chủ đề của cuộc trò chuyện)",
+      "example": "Sometimes it's a challenge to keep up with locals when they use a lot of slang, but it's a great way to learn.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift away",
+      "ipa": "/drɪft əˈweɪ/",
+      "meaning": "dần dần kết thúc cuộc trò chuyện/rời đi",
+      "example": "After a pleasant exchange of pleasantries, we both just naturally drifted away to catch our respective flights.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bounce ideas off",
+      "ipa": "/baʊns aɪˈdɪəz ɒf/",
+      "meaning": "trao đổi ý tưởng với ai đó để xem họ nghĩ gì",
+      "example": "I love talking to strangers at tech meetups because I can bounce ideas off people who have a completely fresh perspective.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

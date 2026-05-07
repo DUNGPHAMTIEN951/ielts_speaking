@@ -1,0 +1,52 @@
+{
+  "id": "q_30",
+  "topic": "Shoes",
+  "q": "What is your favourite type of shoes?",
+  "examiner_note": "Mô tả đôi giày yêu thích. Sử dụng 'versatile', 'casual', 'semi-formal', 'sneakers'.",
+  "samples": {
+    "band7": {
+      "text": "I’m a big fan of sneakers. They are incredibly versatile, comfortable, and come in so many different styles that you can easily find a pair for almost any casual or semi-formal look. I wear them almost every day.",
+      "note": "Trả lời trực tiếp và lý giải tốt (versatile, semi-formal)."
+    },
+    "band8": {
+      "text": "I’d have to say that classic leather loafers are my favorite. I appreciate their timeless appeal and the way they can effortlessly elevate a simple outfit. They strike the perfect balance between being polished and comfortable enough for all-day wear.",
+      "note": "Sử dụng từ vựng hay (classic, timeless, effortlessly, elevate, polished)."
+    },
+    "band9": {
+      "text": "I’m particularly partial to high-quality athletic footwear, especially those designed for long-distance running. I find the engineering and the superior cushioning to be unparalleled. Beyond their functional benefits, I also enjoy the sleek, modern aesthetic that many contemporary brands offer.",
+      "note": "Sử dụng từ vựng ở mức độ cao (partial to, engineering, cushioning, unparalleled, sleek)."
+    }
+  },
+  "v": [
+    {
+      "word": "versatile",
+      "meaning": "linh hoạt",
+      "ipa": "/ˈvɜːrsətl/",
+      "example": "Sneakers are very versatile shoes."
+    },
+    {
+      "word": "elevate",
+      "meaning": "nâng tầm/nâng cao",
+      "ipa": "/ˈelɪveɪt/",
+      "example": "The right accessories can elevate any outfit."
+    },
+    {
+      "word": "cushioning",
+      "meaning": "lớp đệm",
+      "ipa": "/ˈkʊʃənɪŋ/",
+      "example": "These shoes have great cushioning."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "partial",
+      "meaning": "thích/thiên vị",
+      "ipa": "/ˈpɑːrʃl/",
+      "example": "I'm very partial to chocolate."
+    }
+  ],
+  "similar_questions": [
+    "Do you prefer boots or sandals?",
+    "Do you have a lot of shoes?"
+  ]
+}

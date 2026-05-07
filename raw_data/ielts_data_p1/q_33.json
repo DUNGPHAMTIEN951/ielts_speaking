@@ -1,0 +1,72 @@
+{
+  "id": "q_33",
+  "topic": "Studying",
+  "q": "Is there anything you don't like about your studies?",
+  "examiner_note": "Đây là câu hỏi khai thác quan điểm trái chiều. Đừng lo lắng về việc nói điều tiêu cực, giám khảo quan tâm đến cách bạn diễn đạt nó. \n- **Hướng dẫn trả lời**: Bạn có thể phàn nàn về khối lượng bài tập, lịch học dày đặc, các môn lý thuyết khô khan hoặc áp lực thi cử. \n- **Mẹo**: Sử dụng các cụm từ giảm nhẹ sự tiêu cực như 'To be honest', 'To be perfectly frank', 'If I had to pick one thing', 'One drawback is...'.",
+  "samples": {
+    "band7": {
+      "text": "To be honest, I sometimes feel overwhelmed by the heavy workload. We have the lots of assignments and deadlines every week, so I don't have much time for my hobbies or for hanging out with my friends.",
+      "note": "Trả lời thực tế, sử dụng từ vựng phù hợp ('overwhelmed', 'workload'). Ngữ pháp ổn định."
+    },
+    "band8": {
+      "text": "If I had to pick one thing, it would definitely be the monotonous nature of some of the theoretical modules. I find it quite challenging to stay focused when we're just memorizing facts without any immediate practical application.",
+      "note": "Sử dụng từ vựng nâng cao ('monotonous nature', 'theoretical modules', 'memorizing facts'). Diễn đạt gãy gọn."
+    },
+    "band9": {
+      "text": "To be perfectly frank, the most grueling aspect of my studies is the relentless cycle of examinations and assessments. The constant pressure to excel academically can be quite draining at times, leaving very little room for creative exploration beyond the prescribed syllabus.",
+      "note": "Sử dụng từ vựng cực kỳ ấn tượng ('grueling aspect', 'relentless cycle', 'prescribed syllabus'). Cách diễn đạt 'draining', 'excel academically' rất tự nhiên."
+    }
+  },
+  "v": [
+    { "word": "overwhelmed", "meaning": "bị choáng ngợp", "ipa": "/ˌəʊvəˈwelmd/", "example": "I felt completely overwhelmed by the amount of work I had to do." },
+    { "word": "heavy workload", "meaning": "khối lượng công việc nặng nề", "ipa": "/ˌhevi ˈwɜːkləʊd/", "example": "The students complained about the heavy workload during the exam period." },
+    { "word": "hang out", "meaning": "đi chơi", "ipa": "/hæŋ aʊt/", "example": "In my free time, I like to hang out with my friends at the park." },
+    { "word": "monotonous", "meaning": "đơn điệu/nhàm chán", "ipa": "/məˈnɒtənəs/", "example": "Repeating the same tasks every day can be very monotonous." },
+    { "word": "theoretical module", "meaning": "học phần lý thuyết", "ipa": "/θɪəˈretɪkl ˈmɒdjuːl/", "example": "The course includes several theoretical modules on economic history." },
+    { "word": "memorize", "meaning": "ghi nhớ/học thuộc lòng", "ipa": "/ˈmeməraɪz/", "example": "We were expected to memorize long lists of vocabulary." },
+    { "word": "immediate", "meaning": "ngay lập tức", "ipa": "/ɪˈmiːdiət/", "example": "The surgery brought immediate relief to the patient." },
+    { "word": "practical application", "meaning": "ứng dụng thực tế", "ipa": "/ˈpræktɪkl ˌæplɪˈkeɪʃn/", "example": "The course focuses on the practical application of the theories we've learned." },
+    { "word": "perfectly frank", "meaning": "hoàn toàn thành thực", "ipa": "/ˈpɜːfɪktli fræŋk/", "example": "To be perfectly frank, I didn't enjoy the lecture at all." },
+    { "word": "grueling", "meaning": "khốc liệt/làm kiệt sức", "ipa": "/ˈɡruːəlɪŋ/", "example": "The athletes went through a grueling training program." },
+    { "word": "relentless cycle", "meaning": "vòng lặp không ngừng", "ipa": "/rɪˈlentləs ˈsaɪkl/", "example": "Many young professionals are stuck in a relentless cycle of work and sleep." },
+    { "word": "examination", "meaning": "kỳ thi", "ipa": "/ɪɡˌzæmɪˈneɪʃn/", "example": "Students are currently preparing for their final examinations." },
+    { "word": "assessment", "meaning": "sự đánh giá", "ipa": "/əˈsesmənt/", "example": "Continuous assessment is a fair way to grade student performance." },
+    { "word": "excel academically", "meaning": "xuất sắc trong học tập", "ipa": "/ɪkˈsel ˌækəˈdemɪkli/", "example": "Her parents always encouraged her to excel academically." },
+    { "word": "draining", "meaning": "làm kiệt quệ", "ipa": "/ˈdreɪnɪŋ/", "example": "Having to commute for three hours every day is very draining." },
+    { "word": "creative exploration", "meaning": "khám phá sáng tạo", "ipa": "/krieɪˈtɪv ˌekspləˈreɪʃn/", "example": "The school provides an environment for creative exploration and innovation." },
+    { "word": "prescribed syllabus", "meaning": "chương trình học được định sẵn", "ipa": "/prɪˈskraɪbd ˈsɪləbəs/", "example": "Teachers must follow the prescribed syllabus for the national exam." },
+    { "word": "drawback", "meaning": "hạn chế/nhược điểm", "ipa": "/ˈdrɔːbæk/", "example": "One drawback of living in a big city is the high cost of living." },
+    { "word": "assignment", "meaning": "bài tập về nhà/nhiệm vụ", "ipa": "/əˈsaɪnmənt/", "example": "I stayed up late to finish my history assignment." },
+    { "word": "deadline", "meaning": "hạn chót", "ipa": "/ˈdedlaɪn/", "example": "The deadline for applications is the end of next week." },
+    { "word": "procrastination", "meaning": "sự trì hoãn", "ipa": "/prəˌkræstɪˈneɪʃn/", "example": "Procrastination is a common problem for many students." },
+    { "word": "time-consuming", "meaning": "tốn thời gian", "ipa": "/ˈtaɪm kənˌsjuːmɪŋ/", "example": "Researching for a thesis is an incredibly time-consuming process." },
+    { "word": "stressful", "meaning": "căng thẳng", "ipa": "/ˈstresfl/", "example": "The weeks leading up to finals are always very stressful." },
+    { "word": "burnt out", "meaning": "kiệt sức/cháy túi", "ipa": "/bɜːnt aʊt/", "example": "He felt burnt out after working sixty hours a week for a month." },
+    { "word": "demanding", "meaning": "đòi hỏi cao/khắt khe", "ipa": "/dɪˈmɑːndɪŋ/", "example": "The medicine program is notoriously demanding and rigorous." },
+    { "word": "dry subject", "meaning": "môn học khô khan", "ipa": "/draɪ ˈsʌbdʒɪkt/", "example": "Many students find accounting to be a rather dry subject." },
+    { "word": "outdated methods", "meaning": "phương pháp lỗi thời", "ipa": "/ˌaʊtˈdeɪtɪd ˈmeθədz/", "example": "The school is moving away from outdated methods of teaching." },
+    { "word": "lack of resources", "meaning": "thiếu nguồn lực/tài liệu", "ipa": "/læk əv rɪˈsɔːsɪz/", "example": "The poor performance was blamed on a lack of resources in schools." },
+    { "word": "isolated", "meaning": "bị cô lập", "ipa": "/ˈaɪsəleɪtɪd/", "example": "Distance learning can sometimes make students feel isolated." },
+    { "word": "unstructured", "meaning": "không có cấu trúc/lộn xộn", "ipa": "/ʌnˈstrʌktʃəd/", "example": "The meeting was unstructured and didn't achieve its goals." },
+    { "word": "distraction", "meaning": "sự xao nhãng", "ipa": "/dɪˈstrækʃn/", "example": "I find it hard to study at home because there are too many distractions." },
+    { "word": "high expectations", "meaning": "kỳ vọng cao", "ipa": "/haɪ ˌekspekˈteɪʃnz/", "example": "The teacher has high expectations for all her students." },
+    { "word": "academic pressure", "meaning": "áp lực học tập", "ipa": "/ˌækəˈdemɪk ˈpreʃə(r)/", "example": "The university provides counseling for students dealing with academic pressure." },
+    { "word": "all-nighter", "meaning": "thức trắng đêm (để học/làm việc)", "ipa": "/ˌɔːl ˈnaɪtə(r)/", "example": "I had to pull an all-nighter to finish my project on time." },
+    { "word": "financial burden", "meaning": "gánh nặng tài chính", "ipa": "/faɪˈnænʃl ˈbɜːdn/", "example": "Student loans can be a major financial burden after graduation." },
+    { "word": "cram", "meaning": "học nhồi nhét", "ipa": "/kræm/", "example": "I had to cram for my history exam the night before." },
+    { "word": "rote learning", "meaning": "học vẹt", "ipa": "/rəʊt ˈlɜːnɪŋ/", "example": "Rote learning is not the most effective way to understand complex topics." },
+    { "word": "inflexible", "meaning": "không linh hoạt", "ipa": "/ɪnˈfleksəbl/", "example": "The course schedule is unfortunately quite inflexible." },
+    { "word": "competitive atmosphere", "meaning": "bầu không khí cạnh tranh", "ipa": "/kəmˈpetətɪv ˈætməsfɪə(r)/", "example": "The school has a very competitive atmosphere which can be stressful." },
+    { "word": "lack of guidance", "meaning": "thiếu sự hướng dẫn", "ipa": "/læk əv ˈɡaɪdns/", "example": "Students often struggle because of a lack of guidance from their tutors." },
+    { "word": "imbalance", "meaning": "sự mất cân bằng", "ipa": "/ɪmˈbæləns/", "example": "There is a significant imbalance between theory and practice in the curriculum." },
+    { "word": "tedious", "meaning": "tẻ nhạt/chán ngấy", "ipa": "/ˈtiːdiəs/", "example": "Checking data for errors can be a very tedious task." },
+    { "word": "restrictive", "meaning": "hạn chế/gò bó", "ipa": "/rɪˈstrɪktɪv/", "example": "The rules at the university are quite restrictive for first-year students." },
+    { "word": "underfunded", "meaning": "bị thiếu kinh phí", "ipa": "/ˌʌndəˈfʌndɪd/", "example": "The public school system in many areas is notoriously underfunded." },
+    { "word": "vague instructions", "meaning": "hướng dẫn mơ hồ", "ipa": "/veɪɡ ɪnˈstrʌkʃnz/", "example": "We couldn't finish the assignment because of the vague instructions." },
+    { "word": "overly critical", "meaning": "quá khắt khe/hay chỉ trích", "ipa": "/ˈəʊvəli ˈkrɪtɪkl/", "example": "I find the professor's comments to be overly critical and discouraging." },
+    { "word": "lack of motivation", "meaning": "thiếu động lực", "ipa": "/læk əv ˌməʊtɪˈveɪʃn/", "example": "A boring class can easily lead to a lack of motivation among students." },
+    { "word": "repetitive", "meaning": "lặp đi lặp lại", "ipa": "/rɪˈpetətɪv/", "example": "Doing laboratory reports can become quite repetitive after a while." },
+    { "word": "isolated study", "meaning": "việc học cô lập", "ipa": "/ˈaɪsəleɪtɪd ˈstʌdi/", "example": "Isolated study without any feedback can be very difficult." },
+    { "word": "burnout", "meaning": "sự kiệt sức", "ipa": "/ˈbɜːnaʊt/", "example": "Academic burnout is a serious issue that affects many graduate students." }
+  ]
+}

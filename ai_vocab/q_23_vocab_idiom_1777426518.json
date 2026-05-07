@@ -1,0 +1,76 @@
+{
+  "id": "q_23",
+  "vocab": [
+    {
+      "word": "part and parcel",
+      "ipa": "/pɑːrt ənd ˈpɑːrsl/",
+      "meaning": "phần thiết yếu, không thể thiếu",
+      "example": "Bringing my smartphone is part and parcel of my daily routine whenever I step out.",
+      "type": "idiom"
+    },
+    {
+      "word": "bear the brunt of",
+      "ipa": "/ber ðə brʌnt əv/",
+      "meaning": "chịu đựng gánh nặng/áp lực chính",
+      "example": "My sturdy backpack usually bears the brunt of my heavy laptop and textbooks.",
+      "type": "idiom"
+    },
+    {
+      "word": "a safety net",
+      "ipa": "/ə ˈseɪfti net/",
+      "meaning": "vật bảo hộ, phương án dự phòng",
+      "example": "I always carry a portable charger as a safety net in case my phone battery dies unexpectedly.",
+      "type": "idiom"
+    },
+    {
+      "word": "at one's beck and call",
+      "ipa": "/æt wʌnz bek ənd kɔːl/",
+      "meaning": "luôn sẵn sàng khi cần (nghĩa bóng: luôn có sẵn)",
+      "example": "With my Kindle in my bag, I have an entire library at my beck and call during long commutes.",
+      "type": "idiom"
+    },
+    {
+      "word": "cut a dash",
+      "ipa": "/kʌt ə dæʃ/",
+      "meaning": "gây ấn tượng bằng vẻ ngoài/phụ kiện",
+      "example": "I often wear a stylish watch to cut a dash when attending formal social gatherings.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep a weather eye on",
+      "ipa": "/kiːp ə ˈweðər aɪ ɒn/",
+      "meaning": "quan sát/theo dõi cẩn thận",
+      "example": "I keep a weather eye on my belongings, especially my wallet, when I'm in crowded places.",
+      "type": "idiom"
+    },
+    {
+      "word": "the tools of the trade",
+      "ipa": "/ðə tuːlz əv ðə treɪd/",
+      "meaning": "những đồ vật cần thiết cho công việc/hoạt động",
+      "example": "As a photographer, my camera and lenses are the essential tools of the trade that I never leave behind.",
+      "type": "idiom"
+    },
+    {
+      "word": "odds and ends",
+      "ipa": "/ɒdz ənd endz/",
+      "meaning": "những thứ linh tinh, vụn vặt",
+      "example": "My pockets are usually cluttered with various odds and ends like receipts and loose change.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the palm of one's hand",
+      "ipa": "/ɪn ðə pɑːm əv wʌnz hænd/",
+      "meaning": "nằm trong lòng bàn tay (sự kiểm soát/tiện lợi)",
+      "example": "Having a smartphone means I have the world's information right in the palm of my hand.",
+      "type": "idiom"
+    },
+    {
+      "word": "come in handy",
+      "ipa": "/kʌm ɪn ˈhændi/",
+      "meaning": "trở nên hữu dụng",
+      "example": "I always tuck a small umbrella into my bag because it often comes in handy with this erratic weather.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

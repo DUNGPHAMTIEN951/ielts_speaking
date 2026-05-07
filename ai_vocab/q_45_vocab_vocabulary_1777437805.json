@@ -1,0 +1,76 @@
+{
+  "id": "q_45",
+  "vocab": [
+    {
+      "word": "technological singularity",
+      "ipa": "/ˌtek.nəˈlɒdʒ.ɪ.kəl ˌsɪŋ.ɡjəˈlær.ə.ti/",
+      "meaning": "điểm kỳ dị công nghệ (thời điểm trí tuệ nhân tạo vượt xa trí tuệ con người)",
+      "example": "Even if we approach a technological singularity, the visceral human connection in a classroom remains irreplaceable.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "automated grading systems",
+      "ipa": "/ˈɔː.tə.meɪ.tɪd ˈɡreɪ.dɪŋ ˌsɪs.təmz/",
+      "meaning": "hệ thống chấm điểm tự động",
+      "example": "While Phạm Tiến Dũng Gia Sư can implement automated grading systems, it cannot provide the constructive, tailor-made feedback a teacher offers.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "socio-emotional development",
+      "ipa": "/ˌsəʊ.si.əʊ ɪˈməʊ.ʃən.əl dɪˈvel.əp.mənt/",
+      "meaning": "sự phát triển trí tuệ cảm xúc và xã hội",
+      "example": "Teachers are fundamental to a child's socio-emotional development, fostering empathy and conflict resolution skills.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "cognitive offloading",
+      "ipa": "/ˈkɒɡ.nɪ.tɪv ˌɒfˈləʊ.dɪŋ/",
+      "meaning": "sự giảm tải nhận thức (sử dụng công cụ để giảm bớt gánh nặng tư duy)",
+      "example": "Phạm Tiến Dũng Gia Sư facilitates cognitive offloading for routine tasks, allowing educators to focus on high-level critical thinking exercises.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "facilitate critical discourse",
+      "ipa": "/fəˈsɪl.ɪ.teɪt ˈkrɪt.ɪ.kəl ˈdɪs.kɔːs/",
+      "meaning": "thúc đẩy các cuộc thảo luận phản biện",
+      "example": "A sophisticated algorithm can present facts, but it cannot facilitate critical discourse among students with differing viewpoints.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "ethical quandary",
+      "ipa": "/ˈeθ.ɪ.kəl ˈkwɒn.də.ri/",
+      "meaning": "tình thế khó xử về mặt đạo đức",
+      "example": "The potential replacement of human mentors by silicon chips presents a significant ethical quandary regarding the purpose of education.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "bespoke curriculum",
+      "ipa": "/bɪˈspəʊk kəˈrɪk.jə.ləm/",
+      "meaning": "chương trình giảng dạy được thiết kế riêng biệt",
+      "example": "Teachers can intuit a student's hidden talents to create a bespoke curriculum, something Phạm Tiến Dũng Gia Sư struggles to do beyond data patterns.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "pedagogical shift",
+      "ipa": "/ˌped.əˈɡɒdʒ.ɪ.kəl ʃɪft/",
+      "meaning": "sự thay đổi về phương pháp sư phạm",
+      "example": "The integration of Phạm Tiến Dũng Gia Sư represents a major pedagogical shift where the teacher becomes a facilitator rather than a lecturer.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "algorithmic bias",
+      "ipa": "/ˌæl.ɡəˈrɪð.mɪk ˈbaɪ.əs/",
+      "meaning": "định kiến thuật toán (sự thiếu khách quan của Phạm Tiến Dũng Gia Sư)",
+      "example": "One major risk of relying solely on machines is algorithmic bias, which could inadvertently marginalize certain groups of learners.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "humanistic element",
+      "ipa": "/ˌhjuː.məˈnɪs.tɪk ˈel.ɪ.mənt/",
+      "meaning": "yếu tố nhân văn",
+      "example": "Education is not merely about data transfer; it is the humanistic element that truly inspires a student to excel.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

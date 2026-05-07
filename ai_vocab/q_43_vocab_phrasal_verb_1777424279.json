@@ -1,0 +1,76 @@
+{
+  "id": "q_43",
+  "vocab": [
+    {
+      "word": "warm up to",
+      "ipa": "/wɔːrm ʌp tu/",
+      "meaning": "bắt đầu trở nên yêu thích/cảm mến ai đó",
+      "example": "Although I was intimidated at first, I quickly warmed up to my chemistry teacher because of her witty sense of humor.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring across",
+      "ipa": "/brɪŋ əˈkrɒs/",
+      "meaning": "truyền đạt (ý tưởng/kiến thức) một cách hiệu quả",
+      "example": "He had a remarkable ability to bring across difficult philosophical concepts in a way that teenagers could relate to.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spark off",
+      "ipa": "/spɑːrk ɒf/",
+      "meaning": "khơi mào, tạo ra (nguồn cảm hứng hoặc sự quan tâm)",
+      "example": "A single lecture from my biology teacher sparked off a lifelong passion for genetics and medical research.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "reach out to",
+      "ipa": "/riːtʃ aʊt tu/",
+      "meaning": "tiếp cận để giúp đỡ hoặc kết nối (về mặt tinh thần/học tập)",
+      "example": "She would always reach out to students who were falling behind, offering them extra support after class.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "leaf through",
+      "ipa": "/liːf θruː/",
+      "meaning": "lật giở nhanh (sách/tài liệu) - thường dùng để nói về việc giáo viên cho xem tài liệu hay",
+      "example": "I remember him leafing through his old travel journals to show us real-world examples of the geography we were studying.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "vouch for",
+      "ipa": "/vaʊtʃ fɔːr/",
+      "meaning": "đảm bảo cho, khẳng định năng lực/phẩm chất của ai",
+      "example": "I can certainly vouch for his dedication; he would stay back late every day to ensure everyone understood the lesson.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "rub off on",
+      "ipa": "/rʌb ɒf ɒn/",
+      "meaning": "lan truyền/ảnh hưởng sang ai đó (thói quen, thái độ tốt)",
+      "example": "Her infectious enthusiasm for English literature eventually rubbed off on me, even though I used to find it boring.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ease up on",
+      "ipa": "/iːz ʌp ɒn/",
+      "meaning": "bớt khắt khe, nhẹ tay hơn với ai đó",
+      "example": "He knew when to ease up on us during stressful exam periods, which made us respect him even more.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "point out",
+      "ipa": "/pɔɪnt aʊt/",
+      "meaning": "chỉ ra (lỗi sai hoặc những điều thú vị)",
+      "example": "She was excellent at pointing out the hidden nuances in poetry that most of us would have completely overlooked.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cheer on",
+      "ipa": "/tʃɪər ɒn/",
+      "meaning": "cổ vũ, khuyến khích (thường là trong các nỗ lực cá nhân)",
+      "example": "My math teacher didn't just teach; he was always there to cheer us on during academic competitions.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

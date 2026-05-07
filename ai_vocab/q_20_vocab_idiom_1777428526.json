@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "squirrel away",
+      "ipa": "/ˈskwɜːrəl əˈweɪ/",
+      "meaning": "cất giấu/dự trữ tiền bạc vào nơi an toàn",
+      "example": "Many people use high-interest savings accounts to squirrel away a portion of their salary each month.",
+      "type": "idiom"
+    },
+    {
+      "word": "a safety net",
+      "ipa": "/ə ˈseɪfti net/",
+      "meaning": "lưới an toàn/khoản dự phòng tài chính",
+      "example": "Banks help individuals build a safety net, ensuring they have resources to fall back on during unexpected crises.",
+      "type": "idiom"
+    },
+    {
+      "word": "make ends meet",
+      "ipa": "/meɪk endz miːt/",
+      "meaning": "xoay sở để đủ sống/trang trải chi phí",
+      "example": "During tough economic times, people might rely on bank overdrafts just to make ends meet until their next payday.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit the jackpot",
+      "ipa": "/hɪt ðə ˈdʒækpɒt/",
+      "meaning": "vớ bở/kiếm được khoản lợi nhuận lớn (thông qua đầu tư tại ngân hàng)",
+      "example": "By putting money into long-term fixed deposits, some lucky investors feel like they've hit the jackpot when interest rates soar.",
+      "type": "idiom"
+    },
+    {
+      "word": "pour money down the drain",
+      "ipa": "/pɔːr ˈmʌni daʊn ðə dreɪn/",
+      "meaning": "ném tiền qua cửa sổ/lãng phí tiền bạc (ngược lại với việc gửi ngân hàng)",
+      "example": "Without a proper bank account to manage expenses, it is far too easy to pour money down the drain on impulse purchases.",
+      "type": "idiom"
+    },
+    {
+      "word": "worth one's salt",
+      "ipa": "/wɜːrθ wʌnz sɔːlt/",
+      "meaning": "đáng đồng tiền bát gạo/có năng lực (nói về cố vấn ngân hàng)",
+      "example": "Any financial advisor worth their salt will tell you that keeping money in a regulated bank is essential for wealth protection.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep one's head above water",
+      "ipa": "/kiːp wʌnz hed əˈbʌv ˈwɔːtər/",
+      "meaning": "giữ cho mình không bị phá sản/vượt qua khó khăn tài chính",
+      "example": "Low-interest loans from banks are often the only way for small startups to keep their head above water in the first year.",
+      "type": "idiom"
+    },
+    {
+      "word": "money talks",
+      "ipa": "/ˈmʌni tɔːks/",
+      "meaning": "có tiền là có quyền/sức mạnh của tài chính",
+      "example": "In the business world, money talks, and having a strong banking relationship is key to securing large-scale contracts.",
+      "type": "idiom"
+    },
+    {
+      "word": "turn a profit",
+      "ipa": "/tɜːrn ə ˈprɒfɪt/",
+      "meaning": "thu lợi nhuận/sinh lời",
+      "example": "The primary reason for using merchant bank accounts is to help businesses manage their cash flow and eventually turn a profit.",
+      "type": "idiom"
+    },
+    {
+      "word": "at all costs",
+      "ipa": "/æt ɔːl kɒsts/",
+      "meaning": "bằng mọi giá (phải bảo vệ tiền)",
+      "example": "Security is the main priority; people want to ensure their hard-earned identity and funds are protected at all costs.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

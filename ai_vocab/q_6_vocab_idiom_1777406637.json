@@ -1,0 +1,76 @@
+{
+  "id": "q_6",
+  "vocab": [
+    {
+      "word": "second nature",
+      "ipa": "/ˈsek.ənd ˈneɪ.tʃər/",
+      "meaning": "phản xạ tự nhiên (do làm quá nhiều nên không cần suy nghĩ)",
+      "example": "Typing on a laptop has become second nature to me since I use it for at least eight hours a day.",
+      "type": "idiom"
+    },
+    {
+      "word": "at the touch of a button",
+      "ipa": "/æt ðə tʌtʃ əv ə ˈbʌt.ən/",
+      "meaning": "vô cùng nhanh chóng và dễ dàng (chỉ bằng một nút bấm)",
+      "example": "I love how desktop keyboards allow me to access complex shortcuts at the touch of a button, streamlining my workflow.",
+      "type": "idiom"
+    },
+    {
+      "word": "get the hang of",
+      "ipa": "/ɡet ðə hæŋ əv/",
+      "meaning": "nắm bắt được cách làm/quen với cái gì đó",
+      "example": "It took me a while to get the hang of the mechanical keyboard's sensitivity, but now I can't go back to a membrane one.",
+      "type": "idiom"
+    },
+    {
+      "word": "part and parcel",
+      "ipa": "/pɑːt ənd ˈpɑː.səl/",
+      "meaning": "phần thiết yếu, không thể thiếu",
+      "example": "Using a keyboard is part and parcel of my daily routine as a digital nomad.",
+      "type": "idiom"
+    },
+    {
+      "word": "give something a whirl",
+      "ipa": "/ɡɪv ˈsʌm.θɪŋ ə wɜːl/",
+      "meaning": "thử làm cái gì đó (lần đầu tiên)",
+      "example": "I decided to give an ergonomic split keyboard a whirl to see if it would help with my persistent wrist pain.",
+      "type": "idiom"
+    },
+    {
+      "word": "a piece of cake",
+      "ipa": "/ə piːs əv keɪk/",
+      "meaning": "dễ như ăn bánh",
+      "example": "Thanks to years of practice, typing a 2,000-word essay on my desktop is a piece of cake for me.",
+      "type": "idiom"
+    },
+    {
+      "word": "up to speed",
+      "ipa": "/ʌp tu spiːd/",
+      "meaning": "đạt đến tốc độ tối đa/cập nhật thông tin nhanh",
+      "example": "The responsive keys on my new laptop really help me get up to speed when I have to meet tight deadlines.",
+      "type": "idiom"
+    },
+    {
+      "word": "on the go",
+      "ipa": "/ɒn ðə ɡəʊ/",
+      "meaning": "khi đang di chuyển/bận rộn",
+      "example": "I mostly use my laptop keyboard because I'm constantly on the go and need to work from various locations.",
+      "type": "idiom"
+    },
+    {
+      "word": "practice makes perfect",
+      "ipa": "/ˈpræk.tɪs meɪks ˈpɜː.fekt/",
+      "meaning": "có công mài sắt có ngày nên kim",
+      "example": "I used to be a slow typist, but practice makes perfect, and now I can type without even looking at the keys.",
+      "type": "idiom"
+    },
+    {
+      "word": "break the bank",
+      "ipa": "/breɪk ðə bæŋk/",
+      "meaning": "tốn rất nhiều tiền",
+      "example": "High-end mechanical keyboards can definitely break the bank, but the tactile experience is worth every penny.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

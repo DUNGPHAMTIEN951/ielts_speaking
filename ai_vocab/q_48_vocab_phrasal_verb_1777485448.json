@@ -1,0 +1,76 @@
+{
+  "id": "q_48",
+  "vocab": [
+    {
+      "word": "sign up for",
+      "ipa": "/saɪn ʌp fɔːr/",
+      "meaning": "đăng ký một khóa học hoặc chương trình đào tạo",
+      "example": "I am planning to sign up for an intensive course in digital marketing to stay competitive in the modern job market.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "hấp thụ và tận hưởng (kiến thức, bầu không khí học thuật)",
+      "example": "I'd love to attend a prestigious university abroad just to soak up the academic atmosphere and learn from world-class professors.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look into",
+      "ipa": "/lʊk ˈɪn.tuː/",
+      "meaning": "nghiên cứu, tìm hiểu kỹ về một lĩnh vực nào đó",
+      "example": "If I had the leisure time, I would certainly look into sustainable architecture to help design eco-friendly housing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brushed up on",
+      "ipa": "/brʌʃt ʌp ɒn/",
+      "meaning": "ôn lại, cải thiện một kỹ năng đã lâu không sử dụng",
+      "example": "I've always been interested in French, so I would love the chance to brush up on my language skills through a formal program.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get ahead",
+      "ipa": "/ɡet əˈhed/",
+      "meaning": "tiến bộ, thành công hơn trong sự nghiệp thông qua việc học",
+      "example": "I believe that studying advanced artificial intelligence will help me get ahead in the tech industry over the next decade.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig into",
+      "ipa": "/dɪɡ ˈɪn.tuː/",
+      "meaning": "bắt đầu tìm hiểu sâu, khám phá một chủ đề thú vị",
+      "example": "I’ve always wanted to dig into the history of ancient civilizations to understand how they shaped our current world.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp, cập nhật những kiến thức hoặc công nghệ mới nhất",
+      "example": "The medical field evolves so rapidly that I would like to study genetics to keep up with the latest breakthroughs.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "plough through",
+      "ipa": "/plaʊ θruː/",
+      "meaning": "kiên trì đọc hoặc nghiên cứu một lượng lớn tài liệu khó",
+      "example": "I am ready to plough through complex legal texts if I ever get the chance to pursue a degree in international law.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "read up on",
+      "ipa": "/riːd ʌp ɒn/",
+      "meaning": "đọc nhiều tài liệu để thu thập thông tin về một chủ đề",
+      "example": "I’m quite keen to read up on behavioral economics, as it explains so much about the irrational decisions people make.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "narrow down",
+      "ipa": "/ˈnær.əʊ daʊn/",
+      "meaning": "thu hẹp phạm vi (để chọn ra một chuyên ngành cụ thể)",
+      "example": "There are so many fascinating subjects, but I think I’ve narrowed it down to marine biology for my future research.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

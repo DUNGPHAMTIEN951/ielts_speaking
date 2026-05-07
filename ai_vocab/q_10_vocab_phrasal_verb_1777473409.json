@@ -1,0 +1,76 @@
+{
+  "id": "q_10",
+  "vocab": [
+    {
+      "word": "be drawn to",
+      "ipa": "/bi drɔːn tuː/",
+      "meaning": "bị lôi cuốn/thu hút bởi",
+      "example": "I’ve always been drawn to impressionist paintings because of the way they capture light and movement.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "delve into",
+      "ipa": "/delv ˈɪntuː/",
+      "meaning": "tìm hiểu sâu/nghiên cứu kỹ về",
+      "example": "Lately, I’ve started to delve into the world of digital art to understand how technology influences creativity.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "geek out over",
+      "ipa": "/ɡiːk aʊt ˈəʊvər/",
+      "meaning": "phấn khích/say mê quá mức về một chi tiết nào đó",
+      "example": "I can totally geek out over the choice of color palettes in Wes Anderson's films; they are masterpieces.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lose oneself in",
+      "ipa": "/luːz wʌnˈself ɪn/",
+      "meaning": "đắm chìm/quên hết mọi thứ xung quanh khi làm gì",
+      "example": "There’s nothing I enjoy more than losing myself in a vast art gallery on a quiet Sunday afternoon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "reflect on",
+      "ipa": "/rɪˈflekt ɒn/",
+      "meaning": "suy ngẫm về",
+      "example": "Contemplative art pieces often force me to reflect on my own life experiences and emotions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up on",
+      "ipa": "/pɪk ʌp ɒn/",
+      "meaning": "nhận ra/cảm nhận được (những chi tiết tinh tế)",
+      "example": "An art enthusiast can easily pick up on the subtle symbolism hidden within a surrealist sculpture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out for",
+      "ipa": "/lʊk aʊt fɔːr/",
+      "meaning": "tìm kiếm/để mắt tới",
+      "example": "I always look out for emerging local artists when visiting weekend craft fairs or pop-up galleries.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "vibe with",
+      "ipa": "/vaɪb wɪð/",
+      "meaning": "cảm thấy hợp/thích thú với (phong cách, bầu không khí)",
+      "example": "I don't really vibe with minimalist decor; I much prefer the chaotic energy of maximalist art.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spark off",
+      "ipa": "/spɑːrk ɔːf/",
+      "meaning": "khơi mào/kích thích (ý tưởng hoặc cảm hứng)",
+      "example": "Visiting a contemporary art museum often sparks off new ideas for my own graphic design projects.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng ngoạn/chiêm ngưỡng toàn bộ",
+      "example": "It took me a good hour just to take in the sheer scale and complexity of the mural on the city hall.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

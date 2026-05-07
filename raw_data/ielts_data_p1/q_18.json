@@ -1,0 +1,72 @@
+{
+  "id": "q_18",
+  "topic": "Childhood activities",
+  "q": "Did you feel you preferred doing activities alone or with others when you were a child?",
+  "examiner_note": "Câu hỏi này khai thác khía cạnh tính cách (personality) của bạn khi còn nhỏ. Giám khảo muốn thấy bạn có thể so sánh giữa hai trạng thái: một mình (solitary) và theo nhóm (collective). Bạn có thể nói mình là một người hướng nội (introvert) thích nghiên cứu sách vở, hay một người hướng ngoại (extrovert) thích chơi đùa cùng bạn bè. Các cụm từ như 'companionship', 'a lone wolf', 'thrive in a group' sẽ rất hữu dụng.",
+  "samples": {
+    "band7": {
+      "text": "When I was younger, I think I definitely preferred playing with other children. I was quite social and loved having friends over to play board games or go to the park. I found it a lot more fun than playing by myself, which I sometimes found a bit boring.",
+      "note": "Trả lời trực tiếp, rõ ràng. Có sự so sánh giữa việc chơi một mình và chơi với bạn bè. Sử dụng từ vựng tự nhiên."
+    },
+    "band8": {
+      "text": "Honestly, I was bit of a mix. While I enjoyed the companionship of my friends during recess or after school, I also cherished my solitary time. I was quite an imaginative child, and I often found that I could focus better on my drawings or reading when I was alone. So, I’d say I valued both social interaction and personal space.",
+      "note": "Sử dụng từ vựng tốt (companionship, cherished, solitary, imaginative, valued, social interaction). Cách dẫn đạt trôi chảy và thể hiện tính cách cân bằng."
+    },
+    "band9": {
+      "text": "Looking back, I was predominantly a solitary child who derived immense satisfaction from independent pursuits. While I wasn't entirely averse to group activities, I often felt that they could be somewhat overwhelming and preferred the tranquility of my own company. Being alone allowed me to fully immerse myself in my own creative worlds without any external distractions. However, as I matured, I began to appreciate the unique dynamics and collaborative energy that only a group can provide.",
+      "note": "Sử dụng vốn từ vựng cực kỳ phong phú và chính xác (predominantly, derived, independent pursuits, averse, tranquil, immerse, matured, collaborative energy). Cách lập luận rất sâu sắc và trưởng thành."
+    }
+  },
+  "v": [
+    { "word": "companionship", "meaning": "tình bạn/sự có bạn đồng hành", "ipa": "/kəmˈpænjənʃɪp/", "example": "Pets can provide great companionship for elderly people." },
+    { "word": "solitary", "meaning": "đơn độc/thuộc về một mình", "ipa": "/ˈsɑːləteri/", "example": "He leads a very solitary life in the mountains." },
+    { "word": "introvert", "meaning": "người hướng nội", "ipa": "/ˈɪntrəvɜːrt/", "example": "As an introvert, she prefers small gatherings to large parties." },
+    { "word": "extrovert", "meaning": "người hướng ngoại", "ipa": "/ˈekstrəvɜːrt/", "example": "He’s a natural extrovert who loves being the center of attention." },
+    { "word": "thrive in a group", "meaning": "phát triển mạnh/tỏa sáng trong một nhóm", "ipa": "/θraɪv ɪn ə ɡruːp/", "example": "Some children are shy alone but really thrive in a group setting." },
+    { "word": "derived from", "meaning": "có nguồn gốc từ/thu được từ", "ipa": "/dɪˈraɪvd frəm/", "example": "She derived a lot of pleasure from her gardening hobby." },
+    { "word": "independent pursuits", "meaning": "những đam mê/hoạt động độc lập", "ipa": "/ˌɪndɪˈpendənt pərˈsuːts/", "example": "Reading and painting are excellent independent pursuits." },
+    { "word": "averse to", "meaning": "không thích/ngại cái gì đó", "ipa": "/əˈvɜːrs tuː/", "example": "I'm not averse to hard work if the reward is good." },
+    { "word": "tranquility", "meaning": "sự thanh bình/tĩnh lặng", "ipa": "/træŋˈkwɪləti/", "example": "I love the tranquility of the forest in the morning." },
+    { "word": "immerse oneself", "meaning": "đắm mình vào", "ipa": "/ɪˈmɜːrs wʌnˈself/", "example": "You need to immerse yourself in the language to learn it quickly." },
+    { "word": "collaborative energy", "meaning": "năng lượng cộng tác/làm việc nhóm", "ipa": "/kəˈlæbəreɪtɪv ˈenərdʒi/", "example": "The project was a success thanks to the team's collaborative energy." },
+    { "word": "social interaction", "meaning": "sự tương tác xã hội", "ipa": "/ˈsoʊʃl ˌɪntərˈækʃn/", "example": "Preschool is important for a child's early social interaction." },
+    { "word": "lone wolf", "meaning": "người thích làm việc một mình/con sói cô độc", "ipa": "/ˌloʊn ˈwʊlf/", "example": "In school, he was always a bit of a lone wolf." },
+    { "word": "peer pressure", "meaning": "áp lực đồng trang lứa", "ipa": "/ˈpɪr ˌpreʃər/", "example": "Teens often make bad choices due to peer pressure." },
+    { "word": "group dynamics", "meaning": "động lực học của nhóm (cách nhóm vận hành)", "ipa": "/ɡruːp daɪˈnæmɪks/", "example": "Understanding group dynamics is vital for any manager." },
+    { "word": "belonging", "meaning": "sự thuộc về (một nhóm/tổ chức)", "ipa": "/bɪˈlɔːŋɪŋ/", "example": "Everyone has a basic need for a sense of belonging." },
+    { "word": "cooperation", "meaning": "sự hợp tác", "ipa": "/koʊˌɑːpəˈreɪʃn/", "example": "The project failed due to a lack of cooperation among members." },
+    { "word": "self-reflection", "meaning": "sự tự ngẫm/tự soi xét (bản thân)", "ipa": "/ˌself rɪˈflekʃn/", "example": "Spun alone, he spent much time in self-reflection." },
+    { "word": "overwhelming", "meaning": "choáng ngợp/quá sức", "ipa": "/ˌoʊvərˈwelmɪŋ/", "example": "The noise of the city can be overwhelming for some people." },
+    { "word": "social skills", "meaning": "kỹ năng giao tiếp xã hội", "ipa": "/ˈsoʊʃl skɪlz/", "example": "Playing team sports is a great way to develop social skills." },
+    { "word": "personal space", "meaning": "không gian cá nhân", "ipa": "/ˈpɜːrsənl speɪs/", "example": "I need my personal space after a long day at work." },
+    { "word": "teamwork", "meaning": "làm việc nhóm", "ipa": "/ˈtiːmwɜːrk/", "example": "Teamwork makes the dream work." },
+    { "word": "isolated", "meaning": "bị cô lập", "ipa": "/ˈaɪsəleɪtɪd/", "example": "The house was isolated in the middle of a large field." },
+    { "word": "gregarious", "meaning": "thích giao du/thích ở đám đông", "ipa": "/ɡrɪˈɡeriəs/", "example": "She is a very gregarious person who makes friends easily." },
+    { "word": "reclusive", "meaning": "ẩn dật/khép kín", "ipa": "/rɪˈkluːsɪv/", "example": "The old writer lived a reclusive life away from the city." },
+    { "word": "solidarity", "meaning": "sự đoàn kết", "ipa": "/ˌsɑːlɪˈdærəti/", "example": "The community showed great solidarity during the crisis." },
+    { "word": "shyness", "meaning": "sự nhút nhát", "ipa": "/ˈʃaɪnəs/", "example": "At first, his shyness prevented him from making friends." },
+    { "word": "confidence", "meaning": "sự tự tin", "ipa": "/ˈkɑːnfɪdəns/", "example": "Practice is the key to building confidence in any skill." },
+    { "word": "self-reliant", "meaning": "tự lực/tự dựa vào bản thân", "ipa": "/ˌself rɪˈlaɪənt/", "example": "Her difficult childhood made her very self-reliant." },
+    { "word": "ostracize", "meaning": "tẩy chay/loại trừ khỏi nhóm", "ipa": "/ˈɑːstrəsaɪz/", "example": "He was ostracized by his colleagues for reporting the fraud." },
+    { "word": "fitting in", "meaning": "hòa nhập", "ipa": "/ˈfɪtɪŋ ɪn/", "example": "It took some time for the new student to start fitting in." },
+    { "word": "peer group", "meaning": "nhóm đồng trang lứa", "ipa": "/ˈpɪr ɡruːp/", "example": "Children's behavior is heavily influenced by their peer group." },
+    { "word": "bond together", "meaning": "gắn kết với nhau", "ipa": "/bɑːnd təˈɡeðər/", "example": "The shared experience helped the team members bond together." },
+    { "word": "synergy", "meaning": "sự hiệp lực", "ipa": "/ˈsɪnərdʒi/", "example": "The synergy between the two companies led to great innovations." },
+    { "word": "socialize", "meaning": "giao lưu/hòa nhập xã hội", "ipa": "/ˈsoʊʃəlaɪz/", "example": "Weekends are for relaxing and socializing with friends." },
+    { "word": "alienated", "meaning": "bị cảm thấy xa cách/không thuộc về", "ipa": "/ˈeɪliəneɪtɪd/", "example": "The new regulations made many employees feel alienated." },
+    { "word": "uninhibited", "meaning": "tự nhiên/không bị gò bó", "ipa": "/ˌʌnɪnˈhɪbɪtɪd/", "example": "Children are often very uninhibited in their creative play." },
+    { "word": "self-conscious", "meaning": "tự giác (theo nghĩa hay e thẹn/ngại ngùng)", "ipa": "/ˌself ˈkɑːnʃəs/", "example": "He felt very self-conscious about his accent." },
+    { "word": "outgoing", "meaning": "hướng ngoại/dễ gần", "ipa": "/ˈaʊtɡoʊɪŋ/", "example": "Salespeople usually have very outgoing personalities." },
+    { "word": "introverted", "meaning": "có tính hướng nội", "ipa": "/ˈɪntrəvɜːrtɪd/", "example": "She was an introverted child who found Large groups exhausting." },
+    { "word": "reserved", "meaning": "kín đáo/dè dặt", "ipa": "/rɪˈzɜːrvd/", "example": "He was a quiet, reserved man who rarely spoke about his feelings." },
+    { "word": "playmate", "meaning": "bạn chơi cùng", "ipa": "/ˈpleɪmeɪt/", "example": "The neighbor’s kids were her favorite playmates." },
+    { "word": "inclusive", "meaning": "bao gồm/không loại trừ ai", "ipa": "/ɪnˈkluːsɪv/", "example": "The school aims to create an inclusive environment for all students." },
+    { "word": "mutual support", "meaning": "sự hỗ trợ lẫn nhau", "ipa": "/ˈmjuːtʃuəl səˈpɔːrt/", "example": "The network provides mutual support for people starting their own business." },
+    { "word": "rapport", "meaning": "mối quan hệ tốt/sự đồng cảm", "ipa": "/ræˈpɔːr/", "example": "The teacher had an excellent rapport with her students." },
+    { "word": "empathy", "meaning": "sự thấu cảm", "ipa": "/ˈempəθi/", "example": "Being in a group helps children develop empathy for others." },
+    { "word": "cohesive", "meaning": "gắn kết/chặt chẽ", "ipa": "/koʊˈhiːsɪv/", "example": "A cohesive team is more likely to succeed in difficult tasks." },
+    { "word": "cliques", "meaning": "những nhóm nhỏ/bè phái (tính tiêu cực)", "ipa": "/klɪks/", "example": "The school was full of exclusive cliques that were hard to enter." },
+    { "word": "at ease", "meaning": "thoải mái/không gò bó", "ipa": "/æt iːz/", "example": "He was at ease when playing music with his friends." },
+    { "word": "in one's element", "meaning": "ở trong môi trường sở trường của mình", "ipa": "/ɪn wʌnz ˈelɪmənt/", "example": "She’s really in her element when she’s performing on stage." }
+  ]
+}

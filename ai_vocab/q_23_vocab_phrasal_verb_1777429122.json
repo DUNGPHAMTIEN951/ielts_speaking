@@ -1,0 +1,76 @@
+{
+  "id": "q_23",
+  "vocab": [
+    {
+      "word": "reach for",
+      "ipa": "/riːtʃ fɔːr/",
+      "meaning": "với lấy/tìm kiếm theo bản năng",
+      "example": "Whenever I step out, my phone is the first thing I reach for to ensure I can navigate the city.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sort through",
+      "ipa": "/sɔːrt θruː/",
+      "meaning": "phân loại/lục tìm kỹ lưỡng",
+      "example": "I often have to sort through my bag to find my keys, as they always seem to vanish at the bottom.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "top up",
+      "ipa": "/tɑːp ʌp/",
+      "meaning": "nạp đầy/bổ sung (thường là pin hoặc tiền thẻ)",
+      "example": "I always top up my commute card before leaving so I don't get stranded at the train station.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "meaning": "vơ lấy/mang theo một cách nhanh chóng",
+      "example": "I usually pick up a pair of sunglasses on my way out if the weather looks particularly bright.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get by with",
+      "ipa": "/ɡet baɪ wɪð/",
+      "meaning": "xoay sở/sống ổn chỉ với (một lượng đồ ít ỏi)",
+      "example": "On short errands, I can easily get by with just my digital wallet and a set of house keys.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zip up",
+      "ipa": "/zɪp ʌp/",
+      "meaning": "kéo khóa lại (để bảo vệ đồ đạc)",
+      "example": "I make sure to zip up my crossbody bag tightly to prevent anything from falling out in crowded areas.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mess around with",
+      "ipa": "/mes əˈraʊnd wɪð/",
+      "meaning": "loay hoay/nghịch (thường là thiết bị điện tử)",
+      "example": "I always carry my wireless earbuds so I can mess around with my favorite playlists during the commute.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dùng đến khi cần thiết/phương án dự phòng",
+      "example": "I carry a physical map as something to fall back on in case my phone battery dies in an unfamiliar area.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hold onto",
+      "ipa": "/hoʊld ˈɒntu/",
+      "meaning": "giữ chặt/mang theo bên mình (đồ vật quý giá)",
+      "example": "I tend to hold onto my umbrella even on cloudy days, just to be prepared for a sudden downpour.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig out",
+      "ipa": "/dɪɡ aʊt/",
+      "meaning": "lục lọi để lấy ra (thứ gì đó bị vùi sâu)",
+      "example": "It can be quite embarrassing to dig out my identification card from a cluttered bag while standing in a queue.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

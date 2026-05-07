@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "rack up",
+      "ipa": "/ræk ʌp/",
+      "meaning": "tích lũy được (số lượng, khoảng cách)",
+      "example": "I try to rack up at least ten thousand steps every day to stay in shape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head off",
+      "ipa": "/hed ɒf/",
+      "meaning": "bắt đầu đi đâu đó",
+      "example": "After a long day at the office, I usually head off for a brisk walk in the nearby park.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình vào (không khí, cảnh vật)",
+      "example": "Walking allows me to soak up the vibrant atmosphere of the city at a slower pace.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wear out",
+      "ipa": "/weə(r) aʊt/",
+      "meaning": "làm mòn, làm hỏng (do dùng nhiều)",
+      "example": "I walk so frequently that I tend to wear out my sneakers within just a few months.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "amble along",
+      "ipa": "/ˈæm.bl̩ əˈlɒŋ/",
+      "meaning": "đi dạo thong thả, nhẹ nhàng",
+      "example": "On weekends, I love to amble along the riverbank to clear my head.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stretch out",
+      "ipa": "/stretʃ aʊt/",
+      "meaning": "duỗi chân tay, vận động cho thoải mái",
+      "example": "After sitting in front of a computer for hours, I really need to get outside and stretch out my legs.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bl̩ əˈpɒn/",
+      "meaning": "tình cờ bắt gặp/tìm thấy",
+      "example": "By walking through the backstreets, I often stumble upon charming little cafes I’ve never seen before.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp tốc độ của ai đó",
+      "example": "My father is a very fast walker, so I often struggle to keep up with him during our morning strolls.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut through",
+      "ipa": "/kʌt θruː/",
+      "meaning": "đi tắt qua (để tiết kiệm thời gian)",
+      "example": "I usually cut through the local university campus because it's a much more scenic route.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "thư giãn, thả lỏng sau khi làm việc",
+      "example": "A short walk in the evening is the perfect way for me to wind down before bed.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

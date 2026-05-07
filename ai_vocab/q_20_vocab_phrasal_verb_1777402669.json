@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "be drawn to",
+      "ipa": "/bi drɔːn tuː/",
+      "meaning": "bị thu hút bởi",
+      "example": "I’ve always been drawn to oil paintings because of the sheer depth and richness of the colors used.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔːr ˈəʊ.vər/",
+      "meaning": "nghiền ngẫm, xem kỹ",
+      "example": "I can spend hours in a gallery poring over the intricate details of a classical charcoal drawing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không gian, cảm xúc)",
+      "example": "Whenever I visit a museum, I like to just sit on a bench and soak up the creative atmosphere.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick out",
+      "ipa": "/pɪk aʊt/",
+      "meaning": "nhận ra, soi xét các chi tiết nhỏ",
+      "example": "It's fascinating to try and pick out the hidden symbols that artists often embed within their masterpieces.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑː.vəl æt/",
+      "meaning": "chiêm ngưỡng với sự kinh ngạc",
+      "example": "I truly marvel at the technical skill required to make a simple pencil sketch look so incredibly lifelike.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng ngoạn, quan sát kỹ để cảm nhận",
+      "example": "I prefer quiet galleries where I can really take in the artwork without being distracted by large crowds.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "conjure up",
+      "ipa": "/ˈkʌn.dʒər ʌp/",
+      "meaning": "gợi lên (hình ảnh, ký ức, cảm xúc)",
+      "example": "Certain landscape paintings can conjure up vivid memories of my childhood trips to the countryside.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại (quá khứ, kỷ niệm)",
+      "example": "Looking back on my school days, visiting art exhibitions was always the highlight of my semester.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bəl əˈpɒn/",
+      "meaning": "tình cờ bắt gặp",
+      "example": "Sometimes I stumble upon local street art that is just as moving as the pieces found in prestigious museums.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "grow on",
+      "ipa": "/ɡrəʊ ɒn/",
+      "meaning": "dần dần khiến mình thích hơn",
+      "example": "I didn't care for abstract art at first, but it has definitely started to grow on me over the years.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

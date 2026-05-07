@@ -1,0 +1,76 @@
+{
+  "id": "q_42",
+  "vocab": [
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "nghỉ ngơi, thư giãn sau một thời gian làm việc căng thẳng",
+      "example": "After a grueling week at the office, I prefer to wind down in a peaceful library rather than a hectic mall.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "chặn/ngăn chặn (âm thanh, ánh sáng) để không làm phiền",
+      "example": "I often seek out quiet cafes where I can block out the city's clamor and focus on my personal projects.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, năng lượng)",
+      "example": "On Saturday nights, I occasionally head to the city center to soak up the vibrant, buzzing atmosphere of the night markets.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get away from it all",
+      "ipa": "/ɡet əˈweɪ frəm ɪt ɔːl/",
+      "meaning": "thoát khỏi cuộc sống thường nhật đầy áp lực để nghỉ ngơi",
+      "example": "Going to a remote mountainous area on weekends helps me get away from it all and clear my head.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "live it up",
+      "ipa": "/lɪv ɪt ʌp/",
+      "meaning": "tận hưởng cuộc sống một cách sôi động (thường là đi chơi, tiệc tùng)",
+      "example": "Sometimes my friends want to live it up at a concert, but I usually find those noisy venues quite draining.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tucked away",
+      "ipa": "/tʌkt əˈweɪ/",
+      "meaning": "ẩn mình, nằm ở một nơi khuất/yên tĩnh",
+      "example": "I've discovered a small, charming bookstore tucked away in a quiet alley that is perfect for weekend reading.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head for",
+      "ipa": "/hed fɔːr/",
+      "meaning": "đi thẳng về phía/hướng tới một nơi nào đó",
+      "example": "If I’m feeling overwhelmed, I’ll head for the outskirts of town where the surroundings are much more serene.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "vibe with",
+      "ipa": "/vaɪb wɪð/",
+      "meaning": "cảm thấy hợp/thích thú với bầu không khí hoặc một nhóm người",
+      "example": "I don't really vibe with loud, crowded bars; I much prefer the low-key energy of a botanical garden.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shut oneself away",
+      "ipa": "/ʃʌt wʌnˈself əˈweɪ/",
+      "meaning": "tự nhốt mình/tách biệt mình khỏi thế giới bên ngoài",
+      "example": "On some weekends, I just want to shut myself away from the noisy world and enjoy the silence of my own room.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out onto",
+      "ipa": "/lʊk aʊt ˈɒn.tuː/",
+      "meaning": "có tầm nhìn hướng ra (một không gian nào đó)",
+      "example": "I love sitting in a quiet balcony that looks out onto a calm lake; it's incredibly therapeutic.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_21",
+  "vocab": [
+    {
+      "word": "sedentary lifestyle",
+      "ipa": "/ˈsed.ən.ter.i ˈlaɪf.staɪl/",
+      "meaning": "lối sống ít vận động",
+      "example": "To counteract a sedentary lifestyle, I make a conscious effort to take brisk walks during my lunch breaks.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "holistic approach",
+      "ipa": "/həʊˈlɪs.tɪk əˈprəʊtʃ/",
+      "meaning": "phương pháp tiếp cận toàn diện",
+      "example": "I adopt a holistic approach to health, focusing not just on physical exertion but also on emotional resilience.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "cardiovascular endurance",
+      "ipa": "/ˌkɑː.di.əʊˈvæs.kjə.lər ɪnˈdʒʊə.rəns/",
+      "meaning": "sức bền tim mạch",
+      "example": "Swimming is my preferred method for building cardiovascular endurance without putting too much strain on my joints.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "gut microbiome",
+      "ipa": "/ɡʌt ˈmaɪ.krəʊ.baɪ.əʊm/",
+      "meaning": "hệ vi sinh vật đường ruột",
+      "example": "I consume fermented foods regularly to maintain a diverse gut microbiome, which is essential for a robust immune system.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "intermittent fasting",
+      "ipa": "/ˌɪn.təˈmɪt.ənt ˈfɑː.stɪŋ/",
+      "meaning": "nhịn ăn gián đoạn",
+      "example": "Practicing intermittent fasting has significantly improved my energy levels and mental clarity throughout the day.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "core stability",
+      "ipa": "/kɔːr stəˈbɪl.ə.ti/",
+      "meaning": "sự ổn định của các cơ cốt lõi",
+      "example": "Pilates is an excellent discipline for enhancing core stability and improving overall posture.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "preventative medicine",
+      "ipa": "/prɪˈven.tə.tɪv ˈmed.ɪ.sən/",
+      "meaning": "y học dự phòng/biện pháp phòng bệnh",
+      "example": "Regular health screenings are a form of preventative medicine that I take very seriously as I get older.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "nutrient-dense",
+      "ipa": "/ˈnjuː.tri.ənt dens/",
+      "meaning": "giàu dinh dưỡng",
+      "example": "I try to base my meals on nutrient-dense ingredients like leafy greens and seeds rather than empty calories.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "active recovery",
+      "ipa": "/ˈæk.tɪv rɪˈkʌv.ər.i/",
+      "meaning": "phục hồi tích cực (vận động nhẹ để cơ bắp hồi phục)",
+      "example": "On my rest days, I engage in active recovery, such as light stretching or a gentle stroll, to reduce muscle soreness.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "circadian rhythm",
+      "ipa": "/sɜːˈkeɪ.di.ən ˈrɪð.əm/",
+      "meaning": "nhịp sinh học",
+      "example": "Aligning my sleep schedule with my natural circadian rhythm has done wonders for my productivity and mood.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

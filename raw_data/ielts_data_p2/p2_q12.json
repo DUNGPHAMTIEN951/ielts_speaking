@@ -1,0 +1,50 @@
+{
+  "q": "Describe a tradition that is important in your country.",
+  "cue_card": [
+    "A tradition that is important in your country.",
+    "What the tradition is",
+    "When it happens",
+    "What people do",
+    "And explain why it is important to you"
+  ],
+  "examiner_note": "Chủ đề truyền thống yêu cầu vốn từ về di sản và cộng đồng (heritage, customs, familial bonds). Hãy miêu tả không khí của ngày lễ (festive atmosphere) và ý nghĩa của việc duy trì các giá trị văn hóa (preserve cultural identity).",
+  "samples": {
+    "band7": "I'm going to talk about the Tet holiday, which is the Lunar New Year in Vietnam. It usually happens in late January or early February. During Tet, people clean their houses, visit their relatives, and give lucky money to children. We also have special food like Banh Chung. It is important to me because it's a time for family reunions and it makes me feel connected to my roots and Vietnamese culture.",
+    "band8": "I’d like to describe the Tet holiday, the most significant traditional festival in Vietnam. It marks the arrival of spring based on the lunar calendar and is a time for profound spiritual reflection and family gatherings. People meticulously decorate their homes with peach blossoms and prepare traditional delicacies. Tet is of paramount importance to me because it serves as a powerful reminder of our cultural heritage and reinforces the importance of familial bonds in our modern, fast-paced society.",
+    "band9": "A tradition that holds immense significance in my country is the Tet Festival, or the Lunar New Year. This annual celebration occurs at the inception of spring and is characterized by a festive atmosphere that permeates the entire nation. Beyond the vibrant decorations and traditional feasts, Tet is a time for ancestral worship and the strengthening of community ties. It is exceptionally important to me because it encapsulates our shared history and serves as a vital instrument for preserving our unique cultural identity amidst the pressures of globalization. The spirit of Tet fosters a sense of resilience and renewal that is deeply ingrained in the Vietnamese psyche."
+  },
+  "v": [
+    {
+      "word": "Festive atmosphere",
+      "meaning": "Bầu không khí lễ hội (A cheerful and excited mood associated with a holiday or celebration)",
+      "example": "The city was filled with a festive atmosphere as the New Year approached."
+    },
+    {
+      "word": "Familial bonds",
+      "meaning": "Mối liên kết gia đình (The connections and relationships between family members)",
+      "example": "The holidays are a great time to strengthen familial bonds."
+    },
+    {
+      "word": "Preserve cultural identity",
+      "meaning": "Gìn giữ bản sắc văn hóa (The act of keeping the unique characteristics and traditions of a group of people alive)",
+      "example": "Traditional music plays a key role in preserving a nation's cultural identity."
+    },
+    {
+      "word": "Inception of spring",
+      "meaning": "Sự khởi đầu của mùa xuân (The beginning or start of the spring season)",
+      "example": "The festival marks the inception of spring and the renewal of nature."
+    },
+    {
+      "word": "Ancestral worship",
+      "meaning": "Thờ cúng tổ tiên (The practice of honoring deceased ancestors through rituals and offerings)",
+      "example": "Ancestral worship is a core component of many Southeast Asian traditions."
+    },
+    {
+      "word": "Deeply ingrained",
+      "meaning": "Ăn sâu bám rễ (Firmly established and difficult to change)",
+      "example": "The importance of hospitality is deeply ingrained in our culture."
+    }
+  ],
+  "topic": "Describe a tradition that is important in your country.",
+  "id": "p2_q12"
+}

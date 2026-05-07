@@ -1,0 +1,52 @@
+{
+  "id": "q_6",
+  "topic": "Walking",
+  "q": "Did you often go outside to have a walk when you were a child?",
+  "examiner_note": "Nói về kỷ niệm tuổi thơ. Sử dụng 'cherished memories', 'bond', 'explore the neighborhood'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I remember going for walks in the park with my grandparents almost every weekend. It was a cherished time for us to bond and for me to explore the nature around us. I really miss those carefree days.",
+      "note": "Sử dụng từ vựng tốt (cherished, bond, carefree)."
+    },
+    "band8": {
+      "text": "Absolutely. My parents were big proponents of outdoor activity, so we’d regularly go for evening strolls around the neighborhood. It was a fantastic way to unwind after school and sparked my curiosity about the local flora and fauna.",
+      "note": "Sử dụng từ vựng tự nhiên (proponents, strolls, unwind, sparked curiosity, flora and fauna)."
+    },
+    "band9": {
+      "text": "Looking back, my childhood was characterized by a deep connection with the outdoors. I spent countless hours wandering through nearby fields and woodlands, which fostered a sense of wonder and discovery. Those early experiences were fundamental in shaping my appreciation for the natural world and the simple pleasure of walking.",
+      "note": "Sử dụng cấu trúc câu phức và từ vựng phong phú (characterized by, wandering, fostered, fundamental, shaping appreciation)."
+    }
+  },
+  "v": [
+    {
+      "word": "cherished",
+      "meaning": "được trân trọng",
+      "ipa": "/ˈtʃerɪʃt/",
+      "example": "I have cherished memories of my childhood."
+    },
+    {
+      "word": "unwind",
+      "meaning": "thư giãn",
+      "ipa": "/ˌʌnˈwaɪnd/",
+      "example": "Walking is a great way to unwind."
+    },
+    {
+      "word": "foster",
+      "meaning": "nuôi dưỡng/thúc đẩy",
+      "ipa": "/ˈfɔːstər/",
+      "example": "The environment fostered a sense of community."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "proponent",
+      "meaning": "người ủng hộ",
+      "ipa": "/prəˈpəʊnənt/",
+      "example": "He is a strong proponent of healthy living."
+    }
+  ],
+  "similar_questions": [
+    "What games did you play outside when you were a child?",
+    "Who did you walk with when you were young?"
+  ]
+}

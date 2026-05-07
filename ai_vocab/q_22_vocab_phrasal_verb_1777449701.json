@@ -1,0 +1,76 @@
+{
+  "id": "q_22",
+  "vocab": [
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒər ʌp tu/",
+      "meaning": "đạt tới tiêu chuẩn hoặc kỳ vọng",
+      "example": "I love basketball, but it’s tough to measure up to the skill level of the players at my local club.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull off",
+      "ipa": "/pʊl ɔːf/",
+      "meaning": "thực hiện thành công một việc khó khăn (một kỹ thuật/động tác khó)",
+      "example": "There is no better feeling in football than managed to pull off a perfect long-range goal.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "root for",
+      "ipa": "/ruːt fɔːr/",
+      "meaning": "cổ vũ, ủng hộ (một đội bóng hoặc vận động viên)",
+      "example": "I’m a huge fan of tennis, and I always root for the underdogs in major Grand Slam tournaments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sign up for",
+      "ipa": "/saɪn ʌp fɔːr/",
+      "meaning": "đăng ký tham gia (một khóa học, giải đấu hoặc câu lạc bộ)",
+      "example": "I decided to sign up for a local marathon to push my physical boundaries and stay motivated.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fizzle out",
+      "ipa": "/ˈfɪzl aʊt/",
+      "meaning": "yếu dần rồi kết thúc (mất đi sự hăng hái/năng lượng)",
+      "example": "My interest in golf started to fizzle out when I realized how much patience and precision it actually required.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "luck out",
+      "ipa": "/lʌk aʊt/",
+      "meaning": "may mắn bất ngờ (thắng nhờ may mắn)",
+      "example": "In our last badminton match, we really lucked out when the opponent made a crucial unforced error at the final point.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại, cải thiện nhanh một kỹ năng đã lâu không dùng",
+      "example": "I need to brush up on my backhand technique if I want to stay competitive in the upcoming table tennis season.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall behind",
+      "ipa": "/fɔːl bɪˈhaɪnd/",
+      "meaning": "tụt lại phía sau (trong một cuộc đua hoặc về trình độ)",
+      "example": "If I don't train consistently, I quickly fall behind the rest of the cycling group during mountain climbs.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃoʊ ɔːf/",
+      "meaning": "phô diễn tài năng hoặc kỹ năng",
+      "example": "Skateboarding is quite popular here because it allows youngsters to show off their latest tricks in the park.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "join in",
+      "ipa": "/dʒɔɪn ɪn/",
+      "meaning": "gia nhập, tham gia cùng những người khác đang chơi",
+      "example": "Whenever I see people playing volleyball on the beach, I’m always tempted to ask if I can join in.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

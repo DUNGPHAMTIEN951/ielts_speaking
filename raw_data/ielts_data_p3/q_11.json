@@ -1,0 +1,52 @@
+{
+  "id": "q_11",
+  "topic": "Arts and Drawing",
+  "q": "Do you like visiting art galleries?",
+  "examiner_note": "Nói về cảm hứng và sự học hỏi. Sử dụng 'inspiring', 'artistic expressions', 'intellectual stimulation'.",
+  "samples": {
+    "band7": {
+      "text": "I do. I find it very inspiring to see the creativity and skill of different artists. It’s also a great way to learn about different cultures and historical periods through their artistic expressions.",
+      "note": "Sử dụng từ vựng tốt (inspiring, artistic expressions)."
+    },
+    "band8": {
+      "text": "I certainly do. I find that visiting art galleries provides a unique kind of intellectual stimulation. It allows me to immerse myself in the artist's world and contemplate the messages they're trying to convey. It's always a thought-provoking experience.",
+      "note": "Sử dụng từ vựng hay (intellectual stimulation, immerse, contemplate, thought-provoking)."
+    },
+    "band9": {
+      "text": "Art galleries are, for me, spaces of profound reflection and aesthetic delight. I relish the opportunity to examine works of art in person, as it allows for a much deeper engagement with the texture, scale, and emotional resonance of each piece. It’s a truly enriching experience that consistently broadens my horizons.",
+      "note": "Sử dụng từ vựng ở mức độ cao nhất (profound reflection, aesthetic delight, relish, resonance, enriching)."
+    }
+  },
+  "v": [
+    {
+      "word": "contemplate",
+      "meaning": "suy ngẫm",
+      "ipa": "/ˈkɑːntəmpleɪt/",
+      "example": "He sat for hours contemplating the painting."
+    },
+    {
+      "word": "resonance",
+      "meaning": "sự cộng hưởng/âm vang",
+      "ipa": "/ˈrezənəns/",
+      "example": "The story has a deep emotional resonance."
+    },
+    {
+      "word": "thought-provoking",
+      "meaning": "đáng suy ngẫm",
+      "ipa": "/ˈθɔːt prəvəʊkɪŋ/",
+      "example": "The documentary was very thought-provoking."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "relish",
+      "meaning": "thưởng thức/thích thú",
+      "ipa": "/ˈrelɪʃ/",
+      "example": "I relish the challenge of a new project."
+    }
+  ],
+  "similar_questions": [
+    "What was the last art gallery you visited?",
+    "Should art galleries be free for students?"
+  ]
+}

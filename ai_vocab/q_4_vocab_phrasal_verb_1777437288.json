@@ -1,0 +1,76 @@
+{
+  "id": "q_4",
+  "vocab": [
+    {
+      "word": "lean on",
+      "ipa": "/liːn ɒn/",
+      "meaning": "dựa dẫm, cậy nhờ vào ai đó (hỗ trợ tinh thần/thể chất)",
+      "example": "When you're having an off-day in football, you can lean on your teammates to pick up the slack.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig deep",
+      "ipa": "/dɪɡ diːp/",
+      "meaning": "cố gắng hết sức, khai phá sức mạnh nội tại",
+      "example": "Individual athletes often have to dig deep to find the mental strength to finish a race alone.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull together",
+      "ipa": "/pʊl təˈɡeð.ər/",
+      "meaning": "phối hợp, cùng nhau nỗ lực làm việc",
+      "example": "Success in basketball depends on how well the five players on the court pull together during the final minutes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "face up to",
+      "ipa": "/feɪs ʌp tuː/",
+      "meaning": "chấp nhận và đối mặt với (thực tế/thất bại)",
+      "example": "In solo sports, you have to face up to your own technical flaws without anyone else to share the blame.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry through",
+      "ipa": "/ˈkær.i θruː/",
+      "meaning": "giúp ai đó vượt qua khó khăn",
+      "example": "The collective energy of a team can carry a struggling player through a particularly grueling match.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "factor in",
+      "ipa": "/ˈfæk.tər ɪn/",
+      "meaning": "tính đến, xem xét một yếu tố nào đó",
+      "example": "Individual sports are unique because you don't have to factor in someone else's rhythm or playing style.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, vượt trội",
+      "example": "It is much easier to stand out as a prodigy in swimming than it is in a team where the spotlight is shared.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "iron out",
+      "ipa": "/ˈaɪən aʊt/",
+      "meaning": "giải quyết, khắc phục (những vấn đề nhỏ/mâu thuẫn)",
+      "example": "Team sports require a lot of time to iron out communication issues between players to ensure a smooth performance.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp, duy trì cùng tốc độ với người khác",
+      "example": "In team-based cycling, you have to work twice as hard to keep up with the lead rider's pace.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "triumph over",
+      "ipa": "/ˈtraɪ.ʌmf ˈəʊ.vər/",
+      "meaning": "chiến thắng, vượt qua (nghịch cảnh/đối thủ)",
+      "example": "The feeling of a whole city triumphing over a rival team is vastly different from an individual’s personal victory.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

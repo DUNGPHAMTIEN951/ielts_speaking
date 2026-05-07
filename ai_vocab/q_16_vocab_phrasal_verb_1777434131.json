@@ -1,0 +1,76 @@
+{
+  "id": "q_16",
+  "vocab": [
+    {
+      "word": "hark back to",
+      "ipa": "/hɑːrk bæk tuː/",
+      "meaning": "gợi nhớ về/quay lại (một phong cách hoặc thời kỳ trong quá khứ)",
+      "example": "While some contemporary pieces are experimental, others hark back to the Renaissance with their focus on human anatomy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "break away from",
+      "ipa": "/breɪk əˈweɪ frɒm/",
+      "meaning": "thoát ly khỏi, phá vỡ (truyền thống hoặc quy chuẩn)",
+      "example": "Modern art sought to break away from the stifling constraints of realism that dominated the 19th century.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "conjure up",
+      "ipa": "/ˈkʌn.dʒər ʌp/",
+      "meaning": "gợi lên, làm hiện lên (hình ảnh hoặc cảm xúc)",
+      "example": "Classical landscapes often conjure up a sense of divine order, whereas modern works might evoke chaos or ambiguity.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dwell on",
+      "ipa": "/dwel ɒn/",
+      "meaning": "chăm chút, nhấn mạnh hoặc tập trung quá nhiều vào",
+      "example": "Old masters tended to dwell on the play of light on fabric, showing a level of patience rarely seen in fast-paced modern art.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "emanate from",
+      "ipa": "/ˈem.ə.neɪt frɒm/",
+      "meaning": "phát ra từ, bắt nguồn từ (một cảm giác hoặc phong cách)",
+      "example": "There is a profound sense of serenity that seems to emanate from ancient religious sculptures.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "border on",
+      "ipa": "/ˈbɔː.dər ɒn/",
+      "meaning": "gần như là, tiệm cận với (một trạng thái nào đó)",
+      "example": "Some avant-garde modern installations border on the absurd, challenging the viewer's very definition of art.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm nổi bật lên (phẩm chất hoặc đặc điểm)",
+      "example": "The use of bold, clashing colors in pop art is intended to bring out the vibrancy of consumer culture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off",
+      "ipa": "/set ɒf/",
+      "meaning": "làm tôn lên (vẻ đẹp hoặc sự đặc biệt nhờ sự tương phản)",
+      "example": "In traditional portraiture, dark backgrounds were often used to set off the delicate features of the subject's face.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒ.ər ʌp tuː/",
+      "meaning": "đạt tới tiêu chuẩn, sánh ngang với",
+      "example": "Critics often debate whether digital art can truly measure up to the technical complexity of classical oil painting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "call forth",
+      "ipa": "/kɔːl fɔːrθ/",
+      "meaning": "gợi ra, đòi hỏi (phản ứng hoặc sự chú ý)",
+      "example": "Modern abstract pieces often call forth a subjective interpretation rather than providing a clear, literal narrative.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_34",
+  "vocab": [
+    {
+      "word": "have a green thumb",
+      "ipa": "/hæv ə ɡriːn θʌm/",
+      "meaning": "có khiếu trồng cây/mát tay trồng cây",
+      "example": "My grandmother really has a green thumb; she can make almost any withered plant flourish again.",
+      "type": "idiom"
+    },
+    {
+      "word": "reap the rewards",
+      "ipa": "/riːp ðə rɪˈwɔːrdz/",
+      "meaning": "gặt hái thành quả (sau một thời gian nỗ lực)",
+      "example": "After months of careful pruning and watering, I’m finally starting to reap the rewards with a garden full of blooms.",
+      "type": "idiom"
+    },
+    {
+      "word": "come up roses",
+      "ipa": "/kʌm ʌp ˈrəʊzɪz/",
+      "meaning": "trở nên tốt đẹp/thành công rực rỡ",
+      "example": "I was worried about the soil quality, but everything is coming up roses and the vegetables are growing perfectly.",
+      "type": "idiom"
+    },
+    {
+      "word": "nip something in the bud",
+      "ipa": "/nɪp ˈsʌmθɪŋ ɪn ðə bʌd/",
+      "meaning": "diệt trừ mầm mống từ sớm (nghĩa đen: ngắt nụ để ngăn sâu bệnh/phát triển sai hướng)",
+      "example": "When I noticed the aphids on my succulents, I had to nip the problem in the bud before it spread to other plants.",
+      "type": "idiom"
+    },
+    {
+      "word": "bark up the wrong tree",
+      "ipa": "/bɑːrk ʌp ðə rɔːŋ triː/",
+      "meaning": "nhầm lẫn/sai phương pháp (trong làm vườn có thể là chọn sai loại phân bón/đất)",
+      "example": "If you're trying to grow cacti in waterlogged soil, you're definitely barking up the wrong tree.",
+      "type": "idiom"
+    },
+    {
+      "word": "no rose without a thorn",
+      "ipa": "/nəʊ rəʊz wɪˈðaʊt ə θɔːrn/",
+      "meaning": "hồng nào mà chẳng có gai (mọi thành quả đều có khó khăn đi kèm)",
+      "example": "Gardening is therapeutic but labor-intensive; after all, there is no rose without a thorn.",
+      "type": "idiom"
+    },
+    {
+      "word": "lead someone up the garden path",
+      "ipa": "/liːd ˈsʌmwʌn ʌp ðə ˈɡɑːrdn pæθ/",
+      "meaning": "lừa dối/dẫn dắt ai đó tin vào điều sai lệch",
+      "example": "That fancy fertilizer advertisement led me up the garden path, promising instant growth that never happened.",
+      "type": "idiom"
+    },
+    {
+      "word": "bear fruit",
+      "ipa": "/ber fruːt/",
+      "meaning": "đơm hoa kết trái/đạt được kết quả thực tế",
+      "example": "I've been experimenting with organic pesticides, and it's gratifying to see my efforts finally bearing fruit.",
+      "type": "idiom"
+    },
+    {
+      "word": "fresh as a daisy",
+      "ipa": "/freʃ æz ə ˈdeɪzi/",
+      "meaning": "tươi như hoa/tràn đầy năng lượng",
+      "example": "After a good rain, the indoor ferns look as fresh as a daisy and much more vibrant.",
+      "type": "idiom"
+    },
+    {
+      "word": "late bloomer",
+      "ipa": "/leɪt ˈbluːmər/",
+      "meaning": "người (hoặc cây) nở muộn/phát triển muộn hơn bình thường",
+      "example": "This particular species of orchid is a bit of a late bloomer, so you need plenty of patience.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

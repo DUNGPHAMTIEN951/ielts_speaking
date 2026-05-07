@@ -1,0 +1,52 @@
+{
+  "id": "q_29",
+  "topic": "Shoes",
+  "q": "Do people like to wear shoes that are comfortable or good-looking?",
+  "examiner_note": "Nói về sự khác biệt giữa các đối tượng và dịp. Sử dụng 'varies', 'occasion', 'prioritize style', 'everyday wear'.",
+  "samples": {
+    "band7": {
+      "text": "I think it varies from person to person and also depends on the occasion. For formal events like weddings, many people prioritize style and might wear uncomfortable shoes. but for everyday wear, I think most people value comfort above all else.",
+      "note": "Sử dụng từ nối tốt (it varies, depends on) và phân chia trường hợp."
+    },
+    "band8": {
+      "text": "It’s a bit of a toss-up. Younger generations often seem more inclined to follow trends and might compromise on comfort for the sake of fashion. Conversely, older individuals or those who work on their feet all day typically place a much higher premium on practical, supportive footwear.",
+      "note": "Sử dụng thành ngữ (toss-up) và từ vựng hay (inclined, for the sake of, Conversely, place a high premium)."
+    },
+    "band9": {
+      "text": "I believe societal expectations and personal lifestyle play a significant role in this decision. In professional or formal settings, there’s often a greater emphasis on aesthetic presentation. However, in more casual or athletic contexts, the trend is increasingly leaning towards functional comfort, as evidenced by the rise of 'athleisure' footwear.",
+      "note": "Sử dụng từ vựng ở mức độ cao (societal expectations, emphasis, contexts, evidenced by, athleisure)."
+    }
+  },
+  "v": [
+    {
+      "word": "toss-up",
+      "meaning": "sự lựa chọn khó khăn/cơ hội 50-50",
+      "ipa": "/ˈtɔːs ʌp/",
+      "example": "It's a toss-up between the two candidates."
+    },
+    {
+      "word": "athleisure",
+      "meaning": "phong cách thể thao thoải mái",
+      "ipa": "/ˌæθˈliːʒər/",
+      "example": "Athleisure is a very popular trend right now."
+    },
+    {
+      "word": "place a premium on",
+      "meaning": "coi trọng/ưu tiên",
+      "ipa": "/pleɪs ə ˈpriːmiəm ɑːn/",
+      "example": "The company places a premium on innovation."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "inclined",
+      "meaning": "có khuynh hướng",
+      "ipa": "/ɪnˈklaɪnd/",
+      "example": "I'm inclined to agree with you."
+    }
+  ],
+  "similar_questions": [
+    "Is it important to follow fashion trends?",
+    "Do you think shoes can tell something about a person's personality?"
+  ]
+}

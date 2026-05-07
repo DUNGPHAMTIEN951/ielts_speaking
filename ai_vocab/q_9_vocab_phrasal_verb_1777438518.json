@@ -1,0 +1,76 @@
+{
+  "id": "q_9",
+  "vocab": [
+    {
+      "word": "snap away",
+      "ipa": "/snæp əˈweɪ/",
+      "meaning": "chụp ảnh liên tục (thường là vì hào hứng)",
+      "example": "When I reached the summit and saw the sunrise, I couldn't help but snap away to make sure I didn't miss a single moment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "cất giữ kỹ lưỡng (vào bộ sưu tập hoặc nơi an toàn)",
+      "example": "I love having those scenic shots tucked away in my digital gallery so I can revisit them whenever I feel stressed.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, thu hút sự chú ý",
+      "example": "I only take photos when a particular landscape stands out; I'm not a fan of capturing mundane scenery.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "crop out",
+      "ipa": "/krɒp aʊt/",
+      "meaning": "cắt bỏ (những phần không mong muốn trong ảnh)",
+      "example": "If there are too many tourists ruining a beautiful vista, I usually try to crop them out to keep the focus on nature.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show up",
+      "ipa": "/ʃəʊ ʌp/",
+      "meaning": "hiện lên, xuất hiện (trong ảnh/ống kính)",
+      "example": "The subtle purple hues of the sunset didn't really show up well on my phone camera, which was quite disappointing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass up",
+      "ipa": "/pɑːs ʌp/",
+      "meaning": "bỏ lỡ (một cơ hội tốt)",
+      "example": "Whenever I encounter a panoramic view of the coastline, it's an opportunity I simply cannot pass up.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick out",
+      "ipa": "/pɪk aʊt/",
+      "meaning": "chọn ra, nhận ra (giữa nhiều thứ khác)",
+      "example": "The camera lens allows me to pick out small details in the distance that the naked eye might overlook.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại (quá khứ/kỷ niệm)",
+      "example": "I take photos of great views primarily so I can look back on my travels with a sense of nostalgia years later.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "conjure up",
+      "ipa": "/ˈkʌn.dʒər ʌp/",
+      "meaning": "gợi lại, làm hiện lên (hình ảnh/cảm xúc trong tâm trí)",
+      "example": "A single photo of a mountain range can conjure up the exact feeling of the crisp air I felt at that moment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fiddling around with",
+      "ipa": "/ˈfɪd.lɪŋ əˈraʊnd wɪð/",
+      "meaning": "loay hoay điều chỉnh (thông số/thiết bị)",
+      "example": "I often spend too much time fiddling around with the exposure settings instead of just enjoying the view.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_16",
+  "vocab": [
+    {
+      "word": "aesthetic canons",
+      "ipa": "/esˈθetɪk ˈkænənz/",
+      "meaning": "các chuẩn mực thẩm mỹ",
+      "example": "Old masters strictly adhered to traditional aesthetic canons, whereas modern artists often seek to subvert them.",
+      "type": "collocation"
+    },
+    {
+      "word": "digital manipulation",
+      "ipa": "/ˈdɪdʒɪtl məˌnɪpjuˈleɪʃn/",
+      "meaning": "sự thao túng kỹ thuật số",
+      "example": "Modern art frequently incorporates digital manipulation, a tool that was obviously non-existent during the Renaissance.",
+      "type": "collocation"
+    },
+    {
+      "word": "linear perspective",
+      "ipa": "/ˈlɪniər pərˈspektɪv/",
+      "meaning": "phối cảnh tuyến tính",
+      "example": "Classical paintings are often celebrated for their mastery of linear perspective to create an illusion of depth.",
+      "type": "collocation"
+    },
+    {
+      "word": "abstract expressionism",
+      "ipa": "/ˈæbstrækt ɪkˈspreʃənɪzəm/",
+      "meaning": "chủ nghĩa biểu hiện trừu tượng",
+      "example": "The rise of abstract expressionism marked a significant departure from the representational nature of old arts.",
+      "type": "collocation"
+    },
+    {
+      "word": "religious iconography",
+      "ipa": "/rɪˈlɪdʒəs ˌaɪkəˈnɑːɡrəfi/",
+      "meaning": "hệ thống biểu tượng tôn giáo",
+      "example": "Ancient and medieval artworks were heavily centered around religious iconography to convey spiritual messages.",
+      "type": "collocation"
+    },
+    {
+      "word": "avant-garde movement",
+      "ipa": "/ˌævɑ̃ːnt ˈɡɑːrd ˈmuːvmənt/",
+      "meaning": "phong trào tiên phong",
+      "example": "The avant-garde movement in the 20th century completely redefined what could be considered a 'work of art'.",
+      "type": "collocation"
+    },
+    {
+      "word": "oil on canvas",
+      "ipa": "/ɔɪl ɒn ˈkænvəs/",
+      "meaning": "sơn dầu trên vải toan",
+      "example": "The quintessential medium for traditional Western art was oil on canvas, prized for its texture and longevity.",
+      "type": "collocation"
+    },
+    {
+      "word": "social commentary",
+      "ipa": "/ˈsoʊʃl ˈkɑːmənteri/",
+      "meaning": "bình luận/phê phán xã hội",
+      "example": "Modern art serves as a powerful vehicle for social commentary, addressing contemporary issues like climate change.",
+      "type": "collocation"
+    },
+    {
+      "word": "chiaroscuro technique",
+      "ipa": "/kiˌɑːrəˈskjʊroʊ tekˈniːk/",
+      "meaning": "kỹ thuật tương phản sáng tối",
+      "example": "The chiaroscuro technique was widely used by old masters to create a sense of volume and dramatic atmosphere.",
+      "type": "collocation"
+    },
+    {
+      "word": "ephemeral art",
+      "ipa": "/ɪˈfemərəl ɑːrt/",
+      "meaning": "nghệ thuật phù du (không tồn tại lâu dài)",
+      "example": "Unlike the enduring statues of the past, some modern installations are forms of ephemeral art designed to last only a few days.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

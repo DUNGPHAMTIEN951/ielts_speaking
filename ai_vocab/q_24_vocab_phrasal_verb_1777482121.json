@@ -1,0 +1,76 @@
+{
+  "id": "q_24",
+  "vocab": [
+    {
+      "word": "tinker with",
+      "ipa": "/ˈtɪŋ.kər wɪð/",
+      "meaning": "điều chỉnh hoặc sửa đổi nhỏ để cải thiện kết quả",
+      "example": "I often tinker with the saturation and contrast levels during post-processing to make the colors pop.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "light up",
+      "ipa": "/laɪt ʌp/",
+      "meaning": "chiếu sáng hoặc làm rạng rỡ (khuôn mặt hoặc khung cảnh)",
+      "example": "I love taking portraits right at sunset when the golden hour light-ups my subject's face beautifully.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "crop out",
+      "ipa": "/krɒp aʊt/",
+      "meaning": "cắt bỏ những phần không mong muốn trong một bức ảnh",
+      "example": "If there's a stray trash can in a landscape shot, I usually just crop it out to maintain a clean composition.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "center on",
+      "ipa": "/ˈsen.tər ɒn/",
+      "meaning": "đặt đối tượng vào vị trí trung tâm hoặc lấy làm trọng tâm",
+      "example": "Most of my street photography centers on the raw, candid expressions of people going about their daily lives.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blend in",
+      "ipa": "/blend ɪn/",
+      "meaning": "hòa mình vào môi trường xung quanh (để chụp ảnh tự nhiên hơn)",
+      "example": "As a photographer, I try to blend in with the crowd so that people don't notice the camera and act unnaturally.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring forward",
+      "ipa": "/brɪŋ ˈfɔː.wəd/",
+      "meaning": "làm nổi bật một chi tiết/đối tượng lên phía trước",
+      "example": "Using a shallow depth of field helps to bring the subject forward while blurring out the distracting background.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "opt for",
+      "ipa": "/ɒpt fɔːr/",
+      "meaning": "lựa chọn một phong cách hoặc thiết lập cụ thể",
+      "example": "I usually opt for black and white filters when I want to emphasize the textures and shadows in an image.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head out",
+      "ipa": "/hed aʊt/",
+      "meaning": "rời khỏi nhà để đi đến đâu đó (thường là để săn ảnh)",
+      "example": "I often head out in the early morning to capture the city while it's still shrouded in mist.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zoom in on",
+      "ipa": "/zuːm ɪn ɒn/",
+      "meaning": "phóng to vào một chi tiết cụ thể",
+      "example": "With my macro lens, I can zoom in on the intricate patterns of a butterfly's wing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass off as",
+      "ipa": "/pɑːs ɒf æz/",
+      "meaning": "khiến cái gì đó trông giống như một thứ khác (thể hiện sự sáng tạo)",
+      "example": "Sometimes I take photos of mundane objects at such odd angles that they could pass off as abstract art.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

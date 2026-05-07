@@ -1,0 +1,76 @@
+{
+  "id": "q_17",
+  "vocab": [
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑːrvl æt/",
+      "meaning": "chiêm ngưỡng với sự kinh ngạc, ngưỡng mộ",
+      "example": "I spent a good hour just marveling at the sheer scale of the oil paintings on display.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng ngoạn, quan sát kỹ để cảm thụ",
+      "example": "An art gallery is a place where you should slow down to truly take in every detail of the exhibits.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "reflect on",
+      "ipa": "/rɪˈflekt ɒn/",
+      "meaning": "suy ngẫm về (ý nghĩa hoặc thông điệp)",
+      "example": "The abstract installation forced me to reflect on the relationship between nature and technology.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift through",
+      "ipa": "/drɪft θruː/",
+      "meaning": "thong dong đi dạo qua (một không gian)",
+      "example": "I love to drift through the quiet corridors of a gallery on a weekday afternoon to escape the city noise.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "be steeped in",
+      "ipa": "/bi stiːpt ɪn/",
+      "meaning": "ngập tràn trong, chìm đắm trong (lịch sử, nghệ thuật)",
+      "example": "The national gallery is steeped in history, housing masterpieces that span several centuries.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand back",
+      "ipa": "/stænd bæk/",
+      "meaning": "lùi lại một khoảng (để có cái nhìn tổng thể)",
+      "example": "Sometimes you need to stand back from a contemporary piece to grasp its full visual impact.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "call mind to",
+      "ipa": "/kɔːl maɪnd tu/",
+      "meaning": "gợi nhớ về điều gì đó",
+      "example": "The somber colors used in the portrait called mind to the hardships of the post-war era.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass through",
+      "ipa": "/pɑːs θruː/",
+      "meaning": "ghé qua, đi ngang qua (một khu vực triển lãm)",
+      "example": "I happened to pass through the temporary exhibition wing and was pleasantly surprised by the local talent.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "come across",
+      "ipa": "/kʌm əˈkrɒs/",
+      "meaning": "tình cờ thấy, gặp được",
+      "example": "In a small corner of the gallery, I came across a collection of sketches that were incredibly intimate.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up to",
+      "ipa": "/ˈəʊpən ʌp tu/",
+      "meaning": "mở lòng, đón nhận (trải nghiệm hoặc cảm xúc mới)",
+      "example": "Visiting an art gallery helped me open up to unconventional forms of expression that I previously ignored.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

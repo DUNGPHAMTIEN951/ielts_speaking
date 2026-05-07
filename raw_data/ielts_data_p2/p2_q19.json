@@ -1,0 +1,50 @@
+{
+  "q": "Describe a place you go to relax.",
+  "cue_card": [
+    "A place you go to relax.",
+    "Where this place is",
+    "What it looks like",
+    "How often you go there",
+    "And explain why you feel relaxed there"
+  ],
+  "examiner_note": "Chủ đề thư giãn yêu cầu từ vựng miêu tả không gian yên bình (tranquil, serene, sanctuary) và cảm giác giải tỏa căng thẳng (unwind, blow off steam, rejuvenate). Hãy mô tả các chi tiết cảm quan (sensory details) để bài nói sinh động hơn.",
+  "samples": {
+    "band7": "I would like to talk about a local park near my house. It is a very green and quiet place with a small lake in the middle. I usually go there twice a week, mostly on weekends after a busy week of studying. I like to sit on a bench, read a book, or just watch the birds. It helps me to relax because there is no noise from traffic and the fresh air makes me feel very calm and peaceful.",
+    "band8": "I’m going to describe my favorite spot for unwinding, which is a secluded botanical garden just outside the city center. It’s a beautifully landscaped area featuring a myriad of exotic plants and a meandering stream. I try to visit this serene oasis at least once a month to escape the hustle and bustle of city life. The reason I find it so relaxing is the tranquil atmosphere; being surrounded by nature allows me to clear my mind, decompress, and recharge my batteries for the coming week.",
+    "band9": "The sanctuary I retreat to for relaxation is a remote coastal cliff overlooking the ocean, situated a few hours' drive from my residence. Cultivating a deep sense of tranquility, this location is devoid of urban noise, offering only the rhythmic sound of crashing waves and the expansive view of the horizon. I make it a point to venture there whenever I feel overwhelmed by professional demands. The profound sense of relaxation I experience stems from the sublime beauty of the natural environment, which provides a humbling perspective and allows me to profoundly rejuvenate my mental state."
+  },
+  "v": [
+    {
+      "word": "Unwind",
+      "meaning": "Thư giãn (Relax after a period of work or tension)",
+      "example": "A glass of wine helps me unwind after a long day at the office."
+    },
+    {
+      "word": "Secluded",
+      "meaning": "Hẻo lánh, yên tĩnh (Not seen or visited by many people; sheltered and private)",
+      "example": "We found a secluded beach where we could relax in peace."
+    },
+    {
+      "word": "Sanctuary",
+      "meaning": "Nơi tôn nghiêm, nơi ẩn náu (A place of refuge or safety)",
+      "example": "For him, the library was a sanctuary from the noise of the outside world."
+    },
+    {
+      "word": "Decompress",
+      "meaning": "Giải tỏa căng thẳng (Calm down and relax, typically after a period of stress)",
+      "example": "She needs a few days to decompress after finishing her final exams."
+    },
+    {
+      "word": "Rejuvenate",
+      "meaning": "Làm trẻ lại, phục hồi năng lượng (Make someone or something look or feel younger, fresher, or more lively)",
+      "example": "A weekend spa trip is the perfect way to rejuvenate your mind and body."
+    },
+    {
+      "word": "Sublime",
+      "meaning": "Tuyệt mỹ, siêu phàm (Of such excellence, grandeur, or beauty as to inspire great admiration or awe)",
+      "example": "The sublime beauty of the canyon left us all speechless."
+    }
+  ],
+  "topic": "Describe a place you go to relax.",
+  "id": "p2_q19"
+}

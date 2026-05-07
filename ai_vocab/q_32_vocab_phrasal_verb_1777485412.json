@@ -1,0 +1,76 @@
+{
+  "id": "q_32",
+  "vocab": [
+    {
+      "word": "delve into",
+      "ipa": "/delv ˈɪn.tuː/",
+      "meaning": "nghiên cứu sâu, đào sâu vào một vấn đề",
+      "example": "The most fascinating aspect is getting to delve into the complex socio-economic factors that shape modern history.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "geek out over",
+      "ipa": "/ɡiːk aʊt ˈəʊ.vər/",
+      "meaning": "phấn khích/say mê quá mức về một chi tiết chuyên môn",
+      "example": "I often find myself geeking out over the intricate coding structures we use to build artificial intelligence models.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sift through",
+      "ipa": "/sɪft θruː/",
+      "meaning": "sàng lọc, kiểm tra kỹ lưỡng (dữ liệu, thông tin)",
+      "example": "I love the process of sifting through raw data to find meaningful patterns that others might overlook.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble across",
+      "ipa": "/ˈstʌm.bəl əˈkrɒs/",
+      "meaning": "tình cờ phát hiện ra điều gì đó thú vị",
+      "example": "It's always a thrill when I stumble across a rare primary source in the archives that completely changes my perspective.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spur on",
+      "ipa": "/spɜːr ɒn/",
+      "meaning": "thúc đẩy, khích lệ (niềm đam mê hoặc hành động)",
+      "example": "The breakthrough discoveries in my lab really spur me on to continue my research despite the late hours.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw on",
+      "ipa": "/drɔː ɒn/",
+      "meaning": "tận dụng, khai thác (kiến thức, kinh nghiệm sẵn có)",
+      "example": "My studies are engaging because they allow me to draw on my creative background to solve technical problems.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fathom out",
+      "ipa": "/ˈfæð.əm aʊt/",
+      "meaning": "thấu hiểu, giải mã được một vấn đề hóc búa",
+      "example": "There is a massive sense of achievement when you finally fathom out a mathematical proof that seemed impossible at first.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "hấp thụ, tiếp thu (kiến thức) một cách nhanh chóng và hào hứng",
+      "example": "I try to soak up every bit of information during our guest lectures, as they feature experts from the top of the field.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bounce off",
+      "ipa": "/baʊns ɒf/",
+      "meaning": "trao đổi ý tưởng với người khác để kiểm tra hoặc phát triển chúng",
+      "example": "What I find most stimulating is the ability to bounce innovative ideas off my professors during our weekly seminars.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pave the way for",
+      "ipa": "/peɪv ðə weɪ fɔːr/",
+      "meaning": "mở đường cho, tạo tiền đề cho (sự nghiệp hoặc nghiên cứu tương lai)",
+      "example": "I’m learning advanced surgery techniques that will hopefully pave the way for a career in medical research.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

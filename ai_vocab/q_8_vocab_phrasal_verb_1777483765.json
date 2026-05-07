@@ -1,0 +1,76 @@
+{
+  "id": "q_8",
+  "vocab": [
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "thư giãn, nghỉ ngơi sau một thời gian làm việc căng thẳng",
+      "example": "I’d love to walk along a secluded beach at sunset to wind down after a hectic month of work.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak in",
+      "ipa": "/səʊk ɪn/",
+      "meaning": "thưởng lãm, tận hưởng trọn vẹn (không gian, bầu không khí)",
+      "example": "I would take a slow stroll through the old town to soak in the historical charm of the cobblestone streets.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wander off",
+      "ipa": "/ˈwɒn.dər ɒf/",
+      "meaning": "đi lang thang xa khỏi con đường chính hoặc nhóm",
+      "example": "If I were in the Swiss Alps, I might wander off the beaten track to find a quiet spot with a view.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "nằm ẩn mình ở một nơi kín đáo, yên tĩnh",
+      "example": "I’d like to explore the tiny villages tucked away in the mountains during a long hiking trip.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stroll along",
+      "ipa": "/strəʊl əˈlɒŋ/",
+      "meaning": "đi dạo thong dong dọc theo một nơi nào đó",
+      "example": "There is nothing more refreshing than the chance to stroll along the riverbank on a cool autumn evening.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out over",
+      "ipa": "/lʊk aʊt ˈəʊ.vər/",
+      "meaning": "nhìn ra xa từ một vị trí cao",
+      "example": "I’d walk up to the highest cliff to look out over the vast expanse of the ocean.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep on",
+      "ipa": "/kiːp ɒn/",
+      "meaning": "tiếp tục đi tới (mặc dù mệt mỏi hoặc khó khăn)",
+      "example": "Even if the trail gets steep, I’d keep on walking just to see what lies behind the next ridge.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get away from it all",
+      "ipa": "/ɡet əˈweɪ frəm ɪt ɔːl/",
+      "meaning": "thoát khỏi cuộc sống thường nhật để đi nghỉ ngơi",
+      "example": "A long walk in a national park would be the ideal way to get away from it all and reconnect with nature.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "feast on",
+      "ipa": "/fiːst ɒn/",
+      "meaning": "say sưa ngắm nhìn cái gì đó đẹp đẽ",
+      "example": "I would love to walk through the cherry blossom orchards in Japan and simply feast my eyes on the pink canopy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "map out",
+      "ipa": "/mæp aʊt/",
+      "meaning": "lên kế hoạch chi tiết cho lộ trình di chuyển",
+      "example": "I’d spend hours mapping out an ambitious route across the Lake District for a week-long walking holiday.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

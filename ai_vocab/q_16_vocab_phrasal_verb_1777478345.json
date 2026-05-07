@@ -1,0 +1,76 @@
+{
+  "id": "q_16",
+  "vocab": [
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑː.vəl æt/",
+      "meaning": "chiêm ngưỡng với sự kinh ngạc/ngưỡng mộ",
+      "example": "I often stop to marvel at the intricate stonework of old cathedrals before taking a few snapshots.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zoom in on",
+      "ipa": "/zuːm ɪn ɒn/",
+      "meaning": "phóng to vào một chi tiết cụ thể",
+      "example": "I like to zoom in on the ornate gargoyles or unique window frames to capture details that most people miss.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out against",
+      "ipa": "/stænd aʊt əˈɡeɪnst/",
+      "meaning": "nổi bật trên nền của cái gì đó",
+      "example": "Modern glass skyscrapers really stand out against a clear blue sky, making for a perfect photographic composition.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bəl əˈpɒn/",
+      "meaning": "tình cờ bắt gặp/tìm thấy",
+      "example": "While wandering through the old quarter, I occasionally stumble upon hidden architectural gems that are incredibly photogenic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "play around with",
+      "ipa": "/pleɪ əˈraʊnd wɪð/",
+      "meaning": "thử nghiệm nhiều cách khác nhau",
+      "example": "I enjoy playing around with different angles and lighting to give a mundane building a more dramatic look.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blend in with",
+      "ipa": "/blend ɪn wɪð/",
+      "meaning": "hòa hợp với môi trường xung quanh",
+      "example": "I love capturing how contemporary structures manage to blend in with their historical surroundings.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off",
+      "ipa": "/set ɒf/",
+      "meaning": "làm nổi bật vẻ đẹp của cái gì đó",
+      "example": "The golden hour sunlight really sets off the red brickwork of the colonial buildings in my city.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look up to",
+      "ipa": "/lʊk ʌp tuː/",
+      "meaning": "ngước nhìn lên (nghĩa đen trong nhiếp ảnh kiến trúc)",
+      "example": "Sometimes I just look up to the tip of a skyscraper to find a dizzying perspective for my next shot.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo dõi/cập nhật (xu hướng kiến trúc mới)",
+      "example": "I try to keep up with the latest urban developments so I can be the first to photograph new landmarks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass by",
+      "ipa": "/pɑːs baɪ/",
+      "meaning": "đi ngang qua",
+      "example": "Every time I pass by the opera house, I can't resist the urge to take another photo of its iconic roof.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

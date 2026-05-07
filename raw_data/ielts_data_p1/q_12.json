@@ -1,0 +1,72 @@
+{
+  "id": "q_12",
+  "topic": "Scenery",
+  "q": "Do you prefer the mountains or the sea?",
+  "examiner_note": "Đây là câu hỏi yêu cầu sự lựa chọn và giải thích lý do (Preferences & Reasons). Bạn nên so sánh đặc điểm của cả hai địa danh. Ví dụ: Biển mang lại cảm giác phóng khoáng, sôi động (vibrant, expansive); Ngọn núi mang lại sự tĩnh lặng, hùng vĩ (majestic, serene). Hãy sử dụng các cụm từ như 'I’m more of a mountain/sea person', 'the vastness of the ocean', 'the crisp mountain air'.",
+  "samples": {
+    "band7": {
+      "text": "I’d definitely say I prefer the sea. I love the feeling of the sand between my toes and the sound of the waves. It’s so relaxing to just sit on the beach and watch the sunset. The mountains are beautiful too, but I find the ocean more rejuvenating.",
+      "note": "Trả lời trực tiếp, có lý do rõ ràng. Sử dụng tốt các từ vựng mô tả cảm giác (sand between my toes, sound of waves, rejuvenating)."
+    },
+    "band8": {
+      "text": "I’m firmly in the 'mountain person' camp. I find the crisp mountain air and the sense of solitude you get at high altitudes far more appealing than a crowded beach. There’s something incredibly humbling about being surrounded by such majestic peaks. To me, the mountains offer a perfect escape from the hustle and bustle of city life.",
+      "note": "Sử dụng từ vựng nâng cao và tự nhiên (firmly in the camp, crisp air, solitude, high altitudes, humbling, majestic peaks). Cách lập luận rõ ràng và sâu sắc."
+    },
+    "band9": {
+      "text": "That’s a difficult choice, as both environments offer unique forms of serenity. However, if I had to choose, I’d gravitate towards the sea. I’m perpetually drawn to the sheer expansiveness of the ocean and the rhythmic, almost hypnotic cadence of the waves. While the mountains provide a majestic sense of permanence, the ocean represents a dynamic, ever-changing landscape that I find profoundly inspiring and revitalizing.",
+      "note": "Từ vựng ở mức độ chuyên gia (gravitate towards, perpetually drawn, expansiveness, hypnotic cadence, permanence, dynamic, revitalizing). Cấu trúc câu phức tạp và mang tính triết lý cao."
+    }
+  },
+  "v": [
+    { "word": "mountain person", "meaning": "người yêu thích núi non", "ipa": "/ˈmaʊntn ˈpɜːrsn/", "example": "I've always been more of a mountain person than a sea person." },
+    { "word": "sea person", "meaning": "người yêu thích biển cả", "ipa": "/siː ˈpɜːrsn/", "example": "As a sea person, I spend every summer at the coast." },
+    { "word": "crisp air", "meaning": "không khí trong lành/se lạnh (thường ở vùng núi)", "ipa": "/krɪsp er/", "example": "The crisp mountain air is so refreshing in the morning." },
+    { "word": "solitude", "meaning": "sự tĩnh lặng/đơn độc (một cách tích cực)", "ipa": "/ˈsɑːlətuːd/", "example": "He went to the forest seeking solitude." },
+    { "word": "high altitude", "meaning": "độ cao lớn (so với mực nước biển)", "ipa": "/haɪ ˈæltɪtuːd/", "example": "Cooking takes longer at high altitude because water boils at a lower temperature." },
+    { "word": "humbling", "meaning": "khiến mình cảm thấy nhỏ bé/khiêm tốn", "ipa": "/ˈhʌmblɪŋ/", "example": "Looking at the stars is a truly humbling experience." },
+    { "word": "majestic peaks", "meaning": "những đỉnh núi hùng vĩ", "ipa": "/məˈdʒestɪk piːks/", "example": "The majestic peaks of the Alps were covered in snow." },
+    { "word": "hustle and bustle", "meaning": "sự hối hả và nhộn nhịp", "ipa": "/ˈhʌsl ənd ˈbʌsl/", "example": "I want to escape the hustle and bustle of London for a bit." },
+    { "word": "expansiveness", "meaning": "sự bao la/rộng lớn", "ipa": "/ɪkˈspænsɪvnəs/", "example": "The sheer expansiveness of the desert was overwhelming." },
+    { "word": "hypnotic cadence", "meaning": "nhịp điệu gây mê hoặc/thôi miên", "ipa": "/hɪpˈnɑːtɪk ˈkeɪdns/", "example": "The hypnotic cadence of the raindrops on the roof helped me sleep." },
+    { "word": "permanence", "meaning": "sự vĩnh cửu/lâu dài", "ipa": "/ˈpɜːrmənəns/", "example": "Mountains give me a sense of permanence in an ever-changing world." },
+    { "word": "revitalizing", "meaning": "làm hồi sinh/tiếp thêm sinh lực", "ipa": "/ˌriːˈvaɪtəlaɪzɪŋ/", "example": "A week by the sea was very revitalizing after months of hard work." },
+    { "word": "rejuvenating", "meaning": "làm trẻ lại/hồi phục", "ipa": "/rɪˈdʒuːvəneɪtɪŋ/", "example": "The spa treatment was incredibly rejuvenating." },
+    { "word": "coastal", "meaning": "thuộc về vùng biển/duyên hải", "ipa": "/ˈkoʊstl/", "example": "We stayed in a charming coastal village." },
+    { "word": "highlands", "meaning": "vùng cao nguyên/vùng núi", "ipa": "/ˈhaɪləndz/", "example": "The Scottish Highlands are famous for their beautiful scenery." },
+    { "word": "lowlands", "meaning": "vùng đồng bằng/vùng thấp", "ipa": "/ˈloʊləndz/", "example": "Rice is mostly grown in the fertile lowlands." },
+    { "word": "marine life", "meaning": "sinh vật biển", "ipa": "/məˈriːn laɪf/", "example": "Pollution is a huge threat to marine life." },
+    { "word": "fauna and flora", "meaning": "hệ động thực vật", "ipa": "/ˈfɔːnə ənd ˈflɔːrə/", "example": "The rainforest boasts a diverse range of fauna and flora." },
+    { "word": "emerald", "meaning": "màu xanh ngọc lục bảo", "ipa": "/ˈemərəld/", "example": "The ocean was a brilliant emerald color." },
+    { "word": "azure", "meaning": "màu xanh da trời trong vắt", "ipa": "/ˈæʒər/", "example": "The azure sky was without a single cloud." },
+    { "word": "rugged terrain", "meaning": "địa hình hiểm trở/gồ ghề", "ipa": "/ˈrʌɡɪd təˈreɪn/", "example": "Jeeps are necessary to navigate this rugged terrain." },
+    { "word": "sandy shores", "meaning": "bờ cát", "ipa": "/ˈsændi ʃɔːrz/", "example": "I love walking along the sandy shores at sunset." },
+    { "word": "crashing waves", "meaning": "những con sóng vỗ mạnh", "ipa": "/ˈkræʃɪŋ weɪvz/", "example": "The sound of crashing waves is incredibly relaxing." },
+    { "word": "towering cliffs", "meaning": "vách đá cao ngất ngưỡng", "ipa": "/ˈtaʊərɪŋ klɪfs/", "example": "The castle was built on top of towering cliffs." },
+    { "word": "rolling hills", "meaning": "những ngọn đồi nhấp nhô", "ipa": "/ˈroʊlɪŋ hɪlz/", "example": "The countryside was full of green rolling hills." },
+    { "word": "snow-capped", "meaning": "phủ đầy tuyết trên đỉnh", "ipa": "/ˈsnoʊ kæpt/", "example": "We saw the snow-capped mountains from the window." },
+    { "word": "panoramic view", "meaning": "tầm nhìn toàn cảnh", "ipa": "/ˌpænəˈræmɪk vjuː/", "example": "The penthouse provides a panoramic view of the whole city." },
+    { "word": "scenic beauty", "meaning": "vẻ đẹp huyền ảo/thơ mộng", "ipa": "/ˈsiːnɪk ˈbjuːti/", "example": "New Zealand is world-famous for its scenic beauty." },
+    { "word": "secluded", "meaning": "hẻo lánh/yên tĩnh", "ipa": "/sɪˈkluːdɪd/", "example": "We found a secluded spot for our picnic." },
+    { "word": "boundless", "meaning": "vô hạn/không biên giới", "ipa": "/ˈbaʊndləs/", "example": "The sky looked boundless from the cockpit." },
+    { "word": "spectacular", "meaning": "ngoạn mục", "ipa": "/spekˈtækjələr/", "example": "The fireworks were spectacular." },
+    { "word": "awe-inspiring", "meaning": "khiến người khác nể phục/choáng ngợp", "ipa": "/ˈɔː ɪnˌspaɪərɪŋ/", "example": "The scale of the project is truly awe-inspiring." },
+    { "word": "breathtaking", "meaning": "đẹp đến nín thở", "ipa": "/ˈbreθˌteɪkɪŋ/", "example": "The view from the top was breathtaking." },
+    { "word": "monumental", "meaning": "vĩ đại/đồ sộ", "ipa": "/ˌmɑːnjuˈmentl/", "example": "The pyramids are a monumental achievement of ancient engineering." },
+    { "word": "tranquil", "meaning": "yên tĩnh/thanh tịnh", "ipa": "/ˈtræŋkwɪl/", "example": "The village is a tranquil haven away from the city." },
+    { "word": "serene", "meaning": "thanh bình/phẳng lặng", "ipa": "/səˈriːn/", "example": "She has a very serene attitude towards life." },
+    { "word": "invigorating", "meaning": "làm cho hưng phấn/khỏe khoắn", "ipa": "/ɪnˈvɪɡəreɪtɪŋ/", "example": "A morning swim is very invigorating." },
+    { "word": "refreshing", "meaning": "sảng khoái", "ipa": "/rɪˈfreʃɪŋ/", "example": "The cold lemonade was very refreshing on such a hot day." },
+    { "word": "magnificent", "meaning": "nguy nga/lộng lẫy", "ipa": "/mæɡˈnɪfɪsnt/", "example": "The cathedral is truly magnificent inside." },
+    { "word": "vastness", "meaning": "sự bao la/rộng lớn", "ipa": "/ˈvæstnəs/", "example": "The vastness of space is hard to comprehend." },
+    { "word": "pristine", "meaning": "nguyên sơ/trong ngần", "ipa": "/ˈprɪstiːn/", "example": "The lake is famous for its pristine waters." },
+    { "word": "uncharted", "meaning": "chưa được khám phá", "ipa": "/ˌʌnˈtʃɑːrtɪd/", "example": "They sailed across uncharted oceans for months." },
+    { "word": "abyss", "meaning": "vực sâu/hố sâu", "ipa": "/əˈbɪs/", "example": "She looked down into the dark abyss of the canyon." },
+    { "word": "horizon", "meaning": "đường chân trời", "ipa": "/həˈraɪzn/", "example": "The sun disappeared below the horizon." },
+    { "word": "tide", "meaning": "thủy triều", "ipa": "/taɪd/", "example": "The tide is coming in, so we should move our things." },
+    { "word": "reef", "meaning": "rặng san hô", "ipa": "/riːf/", "example": "The coral reef is home to thousands of fish species." },
+    { "word": "valley", "meaning": "thung lũng", "ipa": "/ˈvæli/", "example": "The small town is nestled in a deep valley." },
+    { "word": "trail", "meaning": "đường mòn", "ipa": "/treɪl/", "example": "We followed the forest trail for two miles." },
+    { "word": "peak", "meaning": "đỉnh núi", "ipa": "/piːk/", "example": "He finally reached the mountain peak after a long climb." },
+    { "word": "foothills", "meaning": "vùng đồi dưới chân núi", "ipa": "/ˈfʊthɪlz/", "example": "We live in the foothills of the Rockies." }
+  ]
+}

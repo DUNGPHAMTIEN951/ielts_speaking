@@ -1,0 +1,52 @@
+{
+  "id": "q_40",
+  "topic": "Noisy & Quiet places",
+  "q": "What kinds of noise do you hear in your daily life?",
+  "examiner_note": "Mô tả môi trường sống. Sử dụng 'hum of traffic', 'chatter', 'background noise', 'near-constant'.",
+  "samples": {
+    "band7": {
+      "text": "Living in a busy city, I’m constantly surrounded by the hum of traffic, the occasional siren, and the general chatter of people. At home, it’s mostly just the background noise of household appliances and the distant sounds of the neighborhood.",
+      "note": "Mô tả chi tiết và sử dụng từ vựng tốt (hum, siren, chatter)."
+    },
+    "band8": {
+      "text": "My daily life is soundtracked by a near-constant cacophony of urban sounds. During my commute, it’s the roar of engines and the honking of horns. Even in my apartment, there’s always a faint undercurrent of noise from the street below or the muffled voices of neighbors.",
+      "note": "Sử dụng từ vựng mạnh (soundtracked, cacophony, roar, undercurrent, muffled)."
+    },
+    "band9": {
+      "text": "I’m subject to a persistent auditory landscape that is typical of a high-density urban environment. This includes the mechanical whirring of air conditioners, the rhythmic clatter of construction, and the ever-present drone of distant traffic. It’s a sensory experience that requires a conscious effort to filter out.",
+      "note": "Sử dụng từ vựng ở mức độ cao (persistent, auditory landscape, whirring, drone, filter out)."
+    }
+  },
+  "v": [
+    {
+      "word": "cacophony",
+      "meaning": "âm thanh hỗn tạp/chói tai",
+      "ipa": "/kəˈkɑːfəni/",
+      "example": "The kitchen was a cacophony of clattering pans."
+    },
+    {
+      "word": "muffled",
+      "meaning": "bị nghẹt/không rõ tiếng",
+      "ipa": "/ˈmʌfld/",
+      "example": "I heard muffled voices in the next room."
+    },
+    {
+      "word": "drone",
+      "meaning": "tiếng kêu rầm rầm/vo ve kéo dài",
+      "ipa": "/drəʊn/",
+      "example": "The drone of the engine was very annoying."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "auditory",
+      "meaning": "thuộc thính giác",
+      "ipa": "/ˈɔːdɪtɔːri/",
+      "example": "The exhibition provides an auditory experience."
+    }
+  ],
+  "similar_questions": [
+    "Is your school/workplace noisy?",
+    "How do you cope with noise at home?"
+  ]
+}

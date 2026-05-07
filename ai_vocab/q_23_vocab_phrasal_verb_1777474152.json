@@ -1,0 +1,76 @@
+{
+  "id": "q_23",
+  "vocab": [
+    {
+      "word": "freeze-frame",
+      "ipa": "/ˌfriːzˈfreɪm/",
+      "meaning": "dừng lại một khoảnh khắc (để ghi hình)",
+      "example": "Photography allows me to freeze-frame precious memories that would otherwise fade away over time.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "obsess over",
+      "ipa": "/əbˈses ˈoʊvər/",
+      "meaning": "ám ảnh/chăm chút quá mức vào điều gì đó",
+      "example": "I tend to obsess over the lighting conditions before I even consider pressing the shutter button.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lighten up",
+      "ipa": "/ˈlaɪtn ʌp/",
+      "meaning": "làm sáng lên (nghĩa đen: chỉnh sáng ảnh; nghĩa bóng: làm tâm trạng vui vẻ hơn)",
+      "example": "I often use editing software to lighten up underexposed shots taken in poorly lit environments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand back",
+      "ipa": "/stænd bæk/",
+      "meaning": "lùi lại (để lấy góc rộng hoặc nhìn tổng thể)",
+      "example": "Sometimes you need to stand back to capture the full scale of a magnificent landscape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fizzle out",
+      "ipa": "/ˈfɪzl aʊt/",
+      "meaning": "nhạt dần/mất đi hứng thú (về một xu hướng hoặc sở thích)",
+      "example": "My interest in portrait photography started to fizzle out as I became more drawn to street life.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out into",
+      "ipa": "/bræntʃ aʊt ˈɪntuː/",
+      "meaning": "mở rộng sang một lĩnh vực/thể loại mới",
+      "example": "After mastering landscape shots, I decided to branch out into macro photography to explore the world of insects.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "conjure up",
+      "ipa": "/ˈkʌndʒər ʌp/",
+      "meaning": "gợi lên/tái hiện lại (cảm xúc, ký ức thông qua hình ảnh)",
+      "example": "Looking at old family travel photos always manages to conjure up a sense of bittersweet nostalgia.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up",
+      "ipa": "/ɡɪr ʌp/",
+      "meaning": "chuẩn bị đồ đạc/thiết bị (trước một buổi chụp)",
+      "example": "I usually gear up with multiple lenses and a sturdy tripod whenever I head out for a professional shoot.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "touch up",
+      "ipa": "/tʌtʃ ʌp/",
+      "meaning": "chỉnh sửa sơ qua/tút tát lại (để hoàn thiện ảnh)",
+      "example": "I just need to touch up these portraits slightly to remove a few minor blemishes on the skin.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zero in on",
+      "ipa": "/ˈzɪroʊ ɪn ɑːn/",
+      "meaning": "tập trung hoàn toàn vào một chủ thể duy nhất",
+      "example": "The lens allows me to zero in on the subject's eyes, capturing their raw emotions perfectly.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

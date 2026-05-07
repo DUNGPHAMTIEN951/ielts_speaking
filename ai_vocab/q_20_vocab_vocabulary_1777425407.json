@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "mitigate financial risk",
+      "ipa": "/ˈmɪtɪɡeɪt faɪˈnænʃl rɪsk/",
+      "meaning": "giảm thiểu rủi ro tài chính",
+      "example": "By depositing money into regulated institutions, individuals can mitigate financial risk associated with theft or loss.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "creditworthiness",
+      "ipa": "/ˈkredɪtˌwɜːðɪnəs/",
+      "meaning": "mức độ uy tín tín dụng",
+      "example": "Consistently using a bank account helps people build their creditworthiness, which is essential for securing future mortgages.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "interest-bearing account",
+      "ipa": "/ˈɪntrəst ˌbeərɪŋ əˈkaʊnt/",
+      "meaning": "tài khoản hưởng lãi suất",
+      "example": "Many savers opt for an interest-bearing account to ensure their idle cash generates a modest return over time.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "wealth management",
+      "ipa": "/welθ ˈmænɪdʒmənt/",
+      "meaning": "quản lý tài sản (dịch vụ tài chính cao cấp)",
+      "example": "High-net-worth individuals often turn to banks for professional wealth management to diversify their investment portfolios.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "facilitate global trade",
+      "ipa": "/fəˈsɪlɪteɪt ˈɡləʊbl treɪd/",
+      "meaning": "thúc đẩy/tạo điều kiện cho thương mại toàn cầu",
+      "example": "Banks play a crucial role as they facilitate global trade through letters of credit and international wire transfers.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "financial literacy",
+      "ipa": "/faɪˈnænʃl ˈlɪtərəsi/",
+      "meaning": "kiến thức/hiểu biết về tài chính",
+      "example": "Modern banking apps often include tools to improve financial literacy, helping users track their spending habits effectively.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "fraud detection",
+      "ipa": "/frɔːd dɪˈtekʃn/",
+      "meaning": "phát hiện gian lận",
+      "example": "One of the primary reasons people trust banks is their sophisticated fraud detection systems that flag suspicious transactions.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "curb impulse spending",
+      "ipa": "/kɜːb ˈɪmpʌls ˈspendɪŋ/",
+      "meaning": "kiềm chế việc chi tiêu bốc đồng",
+      "example": "Putting money into a fixed-term deposit can help individuals curb impulse spending and save for long-term goals.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "automated clearing house",
+      "ipa": "/ˈɔːtəmeɪtɪd ˈklɪərɪŋ haʊs/",
+      "meaning": "hệ thống thanh toán bù trừ tự động",
+      "example": "Businesses rely on banks to process payroll through an automated clearing house, ensuring employees are paid on time.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "monetary sovereignty",
+      "ipa": "/ˈmʌnɪtri ˈsɒvrənti/",
+      "meaning": "chủ quyền tiền tệ (ngữ cảnh hệ thống tài chính quốc gia)",
+      "example": "At a macro level, banks are the backbone of a nation's monetary sovereignty, regulating the flow of currency within the economy.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

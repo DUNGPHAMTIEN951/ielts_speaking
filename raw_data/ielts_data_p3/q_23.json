@@ -1,0 +1,52 @@
+{
+  "id": "q_23",
+  "topic": "Carrying things",
+  "q": "When you go out, what do you carry with you?",
+  "examiner_note": "Nói về vật dụng thiết yếu. Sử dụng 'essentials', 'reusable', 'compact', 'indispensable'.",
+  "samples": {
+    "band7": {
+      "text": "I usually carry the essentials: my phone, wallet, keys, and a reusable water bottle. If I'm heading to work or university, I'll also have my laptop and some notebooks in a backpack to stay organized.",
+      "note": "Liệt kê rõ ràng và sử dụng từ vựng tốt (essentials, reusable)."
+    },
+    "band8": {
+      "text": "I tend to travel quite light, typically just carrying my smartphone, which serves as my wallet and navigator, and my house keys. If I’m out for the entire day, I’ll bring a compact bag with some basic necessities like a portable charger and a light jacket just in case the weather changes.",
+      "note": "Sử dụng từ vựng tự nhiên (travel light, compact, necessities, portable)."
+    },
+    "band9": {
+      "text": "My daily carry is quite streamlined, consisting of only the most indispensable items. My phone is paramount, as it manages my schedule and communications. I also prioritize a reusable water bottle and a small e-reader, as I value being both environmentally conscious and mentally stimulated during my commute.",
+      "note": "Sử dụng từ vựng ở mức độ cao (streamlined, indispensable, paramount, conscious, stimulated)."
+    }
+  },
+  "v": [
+    {
+      "word": "streamlined",
+      "meaning": "tối giản/tinh gọn",
+      "ipa": "/ˈstriːmlaɪnd/",
+      "example": "The company has a streamlined management structure."
+    },
+    {
+      "word": "indispensable",
+      "meaning": "không thể thiếu",
+      "ipa": "/ˌɪndɪˈspensəbl/",
+      "example": "A good dictionary is indispensable for language learners."
+    },
+    {
+      "word": "paramount",
+      "meaning": "tối quan trọng",
+      "ipa": "/ˈpærəmaʊnt/",
+      "example": "The safety of the passengers is paramount."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "necessity",
+      "meaning": "vật dụng thiết yếu",
+      "ipa": "/nəˈsesəti/",
+      "example": "A car is a necessity in this rural area."
+    }
+  ],
+  "similar_questions": [
+    "What is the most important thing you carry?",
+    "Do you ever forget to bring something when you go out?"
+  ]
+}

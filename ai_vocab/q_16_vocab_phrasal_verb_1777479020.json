@@ -1,0 +1,76 @@
+{
+  "id": "q_16",
+  "vocab": [
+    {
+      "word": "gaze up at",
+      "ipa": "/ɡeɪz ʌp æt/",
+      "meaning": "ngước nhìn một cách ngưỡng mộ hoặc say mê",
+      "example": "Whenever I visit a new city, I love to gaze up at the dizzying heights of the skyscrapers before taking a photo.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "được giấu kỹ/nằm ở nơi khuất nẻo",
+      "example": "I particularly enjoy photographing small, ancient shrines that are tucked away in narrow side streets.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out for",
+      "ipa": "/lʊk aʊt fɔːr/",
+      "meaning": "để mắt tìm kiếm một chi tiết cụ thể",
+      "example": "As an amateur photographer, I always look out for unique textures on the facades of brutalist buildings.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clutter up",
+      "ipa": "/ˈklʌt.ər ʌp/",
+      "meaning": "làm bừa bộn/làm rối (khung hình)",
+      "example": "I try to find angles where power lines don't clutter up the shot of a historical monument.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dwell on",
+      "ipa": "/dwel ɒn/",
+      "meaning": "nhìn lâu hoặc chú ý kỹ vào một điều gì đó",
+      "example": "My camera lens tends to dwell on the intricate carvings of gothic arches because they tell such a rich story.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand back",
+      "ipa": "/stænd bæk/",
+      "meaning": "lùi lại phía sau (để lấy góc nhìn rộng hơn)",
+      "example": "Sometimes you have to stand back quite a distance to truly capture the full scale of a cathedral.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop against",
+      "ipa": "/pɒp əˈɡenst/",
+      "meaning": "nổi bật hẳn lên trên một nền nào đó",
+      "example": "I love the way colorful colonial houses pop against a clear blue sky in my holiday photos.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃəʊ ɒf/",
+      "meaning": "phô diễn/làm nổi bật vẻ đẹp hoặc đặc điểm",
+      "example": "The nighttime lighting is specifically designed to show off the sleek lines of the bridge's modern architecture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hark back to",
+      "ipa": "/hɑːk bæk tuː/",
+      "meaning": "gợi nhắc về một thời kỳ quá khứ",
+      "example": "I enjoy taking photos of buildings that hark back to the neoclassical era because of their timeless elegance.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "narrow down",
+      "ipa": "/ˈnær.əʊ daʊn/",
+      "meaning": "thu hẹp sự lựa chọn (để lấy trọng tâm)",
+      "example": "When there's too much going on in the street, I narrow down my focus to just a single ornate window frame.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

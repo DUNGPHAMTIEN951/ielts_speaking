@@ -1,0 +1,76 @@
+{
+  "id": "q_35",
+  "vocab": [
+    {
+      "word": "a green thumb",
+      "ipa": "/ə ɡriːn θʌm/",
+      "meaning": "có khiếu trồng cây/mát tay chăm sóc cây cối",
+      "example": "My grandmother had a real green thumb, and she taught me how to keep our backyard hydrangeas blooming all summer.",
+      "type": "idiom"
+    },
+    {
+      "word": "bear fruit",
+      "ipa": "/beər fruːt/",
+      "meaning": "đơm hoa kết trái/đạt được kết quả tốt sau nỗ lực",
+      "example": "It took months of patient watering, but eventually, my little tomato plant began to bear fruit, which was incredibly rewarding.",
+      "type": "idiom"
+    },
+    {
+      "word": "late bloomer",
+      "ipa": "/leɪt ˈbluː.mər/",
+      "meaning": "người (hoặc cây) phát triển muộn hơn so với bình thường",
+      "example": "I remember my sunflowers were a bit of a late bloomer compared to the neighbors', but when they finally opened, they were magnificent.",
+      "type": "idiom"
+    },
+    {
+      "word": "nip something in the bud",
+      "ipa": "/nɪp ˈsʌm.θɪŋ ɪn ðə bʌd/",
+      "meaning": "diệt trừ mầm mống từ sớm/ngăn chặn vấn đề ngay khi mới bắt đầu",
+      "example": "I had to nip the pest problem in the bud by using organic soap, otherwise, the aphids would have destroyed my rosebushes.",
+      "type": "idiom"
+    },
+    {
+      "word": "fresh as a daisy",
+      "ipa": "/freʃ æz ə ˈdeɪ.zi/",
+      "meaning": "tươi tắn, đầy năng lượng",
+      "example": "After a morning spent tending to my seedlings in the garden, I actually felt as fresh as a daisy despite the hard work.",
+      "type": "idiom"
+    },
+    {
+      "word": "shrinking violet",
+      "ipa": "/ˌʃrɪŋ.kɪŋ ˈvaɪə.lət/",
+      "meaning": "người rất nhút nhát, hay xấu hổ",
+      "example": "As a child, I was a bit of a shrinking violet, so I preferred spending time alone in the garden growing lilies rather than playing team sports.",
+      "type": "idiom"
+    },
+    {
+      "word": "no bed of roses",
+      "ipa": "/nəʊ bed əv ˈrəʊ.zɪz/",
+      "meaning": "không phải là một trải nghiệm dễ dàng hay thoải mái",
+      "example": "Trying to grow exotic plants in a tropical climate was no bed of roses; I had to deal with constant humidity and insects.",
+      "type": "idiom"
+    },
+    {
+      "word": "come up roses",
+      "ipa": "/kʌm ʌp ˈrəʊ.zɪz/",
+      "meaning": "mọi việc diễn ra suôn sẻ và thành công rực rỡ",
+      "example": "Despite my initial lack of experience, my first vegetable garden ended up coming up roses, and we had a huge harvest.",
+      "type": "idiom"
+    },
+    {
+      "word": "the grass is always greener",
+      "ipa": "/ðə ɡrɑːs ɪz ˈɔːl.weɪz ˈɡriː.nər/",
+      "meaning": "đứng ngồi này trông nọ (nghĩ rằng hoàn cảnh của người khác tốt hơn mình)",
+      "example": "I used to look at my friend's exotic orchids and think the grass is always greener, until I realized how much effort they required.",
+      "type": "idiom"
+    },
+    {
+      "word": "reap the rewards",
+      "ipa": "/riːp ðə rɪˈwɔːdz/",
+      "meaning": "gặt hái thành quả/hưởng thành quả từ công sức bỏ ra",
+      "example": "I spent the whole spring planting seeds, and by autumn, I was able to reap the rewards with a basket full of organic produce.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

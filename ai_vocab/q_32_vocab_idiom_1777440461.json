@@ -1,0 +1,76 @@
+{
+  "id": "q_32",
+  "vocab": [
+    {
+      "word": "a whale of a time",
+      "ipa": "/ə weɪl əv ə taɪm/",
+      "meaning": "có một khoảng thời gian cực kỳ vui vẻ (khi đi mua sắm)",
+      "example": "I always have a whale of a time browsing through the flagship stores of major footwear brands.",
+      "type": "idiom"
+    },
+    {
+      "word": "burn a hole in one's pocket",
+      "ipa": "/bɜːn ə həʊl ɪn wʌnz ˈpɒk.ɪt/",
+      "meaning": "tiền bạc làm ngứa ngáy tay chân (muốn tiêu xài ngay lập tức)",
+      "example": "Whenever a new limited-edition sneaker drops, the money in my account starts to burn a hole in my pocket.",
+      "type": "idiom"
+    },
+    {
+      "word": "the cream of the crop",
+      "ipa": "/ðə kriːm əv ðə krɒp/",
+      "meaning": "những gì tốt nhất, tinh túy nhất",
+      "example": "When it comes to durability and design, famous brands are often considered the cream of the crop.",
+      "type": "idiom"
+    },
+    {
+      "word": "look like a million dollars",
+      "ipa": "/lʊk laɪk ə ˈmɪl.jən ˈdɒl.əz/",
+      "meaning": "trông rất sang trọng, lộng lẫy và đắt tiền",
+      "example": "A pair of well-crafted designer heels can truly make you look like a million dollars at a formal event.",
+      "type": "idiom"
+    },
+    {
+      "word": "down-to-earth",
+      "ipa": "/ˌdaʊn.tuːˈɜːθ/",
+      "meaning": "thực tế, bình dân (để nói về việc không thích dùng hàng hiệu)",
+      "example": "Despite the hype, I prefer a more down-to-earth style and usually opt for unbranded, comfortable shoes.",
+      "type": "idiom"
+    },
+    {
+      "word": "put one's best foot forward",
+      "ipa": "/pʊt wʌnz best fʊt ˈfɔː.wəd/",
+      "meaning": "tạo ấn tượng tốt đẹp nhất ngay từ đầu",
+      "example": "Investing in premium brand shoes helps me put my best foot forward during important client meetings.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep a level head",
+      "ipa": "/kiːp ə ˈlev.əl hed/",
+      "meaning": "giữ cái đầu lạnh, tỉnh táo (trước các chiến dịch marketing)",
+      "example": "I try to keep a level head and avoid impulse buying just because a brand is endorsed by a celebrity.",
+      "type": "idiom"
+    },
+    {
+      "word": "at the drop of a hat",
+      "ipa": "/æt ðə drɒp əv ə hæt/",
+      "meaning": "ngay lập tức, không do dự (khi có đợt giảm giá)",
+      "example": "If Nike announces a flash sale, I'll head to the mall at the drop of a hat.",
+      "type": "idiom"
+    },
+    {
+      "word": "spare no expense",
+      "ipa": "/speə nəʊ ɪkˈspens/",
+      "meaning": "không tiếc tiền, sẵn sàng chi đậm",
+      "example": "My brother spares no expense when it comes to his collection of high-end basketball shoes.",
+      "type": "idiom"
+    },
+    {
+      "word": "off the beaten track",
+      "ipa": "/ɒf ðə ˈbiː.tən træk/",
+      "meaning": "độc lạ, không theo số đông (chọn thương hiệu ít người biết)",
+      "example": "I occasionally look for niche brands that are off the beaten track rather than sticking to mainstream labels.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

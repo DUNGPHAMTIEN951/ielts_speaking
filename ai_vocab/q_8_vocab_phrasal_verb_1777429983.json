@@ -1,0 +1,76 @@
+{
+  "id": "q_8",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/soʊk ʌp/",
+      "meaning": "tận hưởng/thưởng ngoạn hoàn toàn (bầu không khí, cảnh đẹp)",
+      "example": "I sat on the balcony for hours just to soak up the breathtaking scenery of the Mediterranean coast.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stretch out",
+      "ipa": "/stretʃ aʊt/",
+      "meaning": "trải dài ra (thường nói về cánh đồng, biển cả hoặc thung lũng)",
+      "example": "From the peak of the mountain, the lush green valley seemed to stretch out for miles into the horizon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "ngắm nhìn/thưởng lãm (một cách trọn vẹn)",
+      "example": "It took me a moment to fully take in the sheer scale of the Grand Canyon when I first stood at its rim.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈoʊ.pən ʌp/",
+      "meaning": "mở ra (một tầm nhìn rộng lớn sau một khúc quanh hoặc chướng ngại vật)",
+      "example": "As we cleared the final ridge, a magnificent view of the hidden lake suddenly opened up before us.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out over",
+      "ipa": "/lʊk aʊt ˈoʊ.vər/",
+      "meaning": "nhìn ra phía trên/bao quát một khu vực từ trên cao",
+      "example": "The hotel room was incredible because it looked out over the vibrant city lights of Tokyo.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blend into",
+      "ipa": "/blend ˈɪn.tuː/",
+      "meaning": "hòa quyện vào (thường nói về màu sắc giữa bầu trời và mặt đất/biển)",
+      "example": "The turquoise water seemed to perfectly blend into the clear blue sky, creating a seamless view.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật hẳn lên (giữa một khung cảnh)",
+      "example": "The red-tiled roofs of the ancient town really stood out against the deep green of the surrounding hills.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "peer through",
+      "ipa": "/pɪr θruː/",
+      "meaning": "nhìn xuyên qua (mây, sương mù hoặc kẽ lá để thấy cảnh vật)",
+      "example": "Peering through the early morning mist, I could just make out the silhouette of the castle in the distance.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sweep across",
+      "ipa": "/swiːp əˈkrɔːs/",
+      "meaning": "quét qua/bao trùm lên (thường nói về ánh sáng hoặc tầm mắt lướt qua cảnh vật)",
+      "example": "As my gaze swept across the shoreline, I realized it was the most pristine beach I had ever encountered.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drink in",
+      "ipa": "/drɪŋk ɪn/",
+      "meaning": "mải mê ngắm nhìn/hút hồn bởi vẻ đẹp của cái gì đó",
+      "example": "I stood there in silence, drinking in the sublime beauty of the aurora borealis dancing across the sky.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

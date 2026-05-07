@@ -1,0 +1,76 @@
+{
+  "id": "q_30",
+  "vocab": [
+    {
+      "word": "kick off",
+      "ipa": "/kɪk ɒf/",
+      "meaning": "đá (giày) ra, cởi giày một cách nhanh chóng",
+      "example": "The best part of my day is when I can finally kick off my heavy work boots and relax on the sofa.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lace up",
+      "ipa": "/leɪs ʌp/",
+      "meaning": "thắt dây giày",
+      "example": "Every morning, I lace up my high-performance trainers and head out for a brisk run around the park.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "break in",
+      "ipa": "/breɪk ɪn/",
+      "meaning": "đi giày mới cho đến khi nó mềm và thoải mái",
+      "example": "It took me nearly two weeks to break in these leather oxfords, but now they fit like a second skin.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "opt for",
+      "ipa": "/ɒpt fɔː(r)/",
+      "meaning": "lựa chọn (thay vì những thứ khác)",
+      "example": "Given the choice between heels and flats, I almost always opt for the latter to ensure maximum comfort.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "scuff up",
+      "ipa": "/skʌf ʌp/",
+      "meaning": "làm trầy xước bề mặt giày",
+      "example": "I'm always careful not to scuff up my suede shoes, as they are notoriously difficult to clean.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clunk around",
+      "ipa": "/klʌŋk əˈraʊnd/",
+      "meaning": "đi lại tạo ra tiếng động nặng nề (thường là do giày to/nặng)",
+      "example": "I try not to clunk around the house in my heavy winter boots because the noise tends to wake everyone up.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up",
+      "ipa": "/ɡɪə(r) ʌp/",
+      "meaning": "chuẩn bị/mặc đồ vào (thường dùng cho giày chuyên dụng)",
+      "example": "When the weekend comes, I gear up in my specialized hiking boots to tackle the local mountain trails.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "smarten up",
+      "ipa": "/ˈsmɑːtn ʌp/",
+      "meaning": "làm cho vẻ ngoài trở nên trang trọng/gọn gàng hơn",
+      "example": "A polished pair of Chelsea boots can instantly smarten up a casual outfit for a dinner date.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set aside",
+      "ipa": "/set əˈsaɪd/",
+      "meaning": "để dành, cất sang một bên (chờ dịp đặc biệt)",
+      "example": "I have set aside a pair of designer pumps specifically for my graduation ceremony next month.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "faff about with",
+      "ipa": "/fæf əˈbaʊt wɪð/",
+      "meaning": "tốn thời gian làm những việc lặt vặt (như buộc dây giày phức tạp)",
+      "example": "I dislike sandals with too many buckles because I don't want to faff about with them when I'm in a hurry.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

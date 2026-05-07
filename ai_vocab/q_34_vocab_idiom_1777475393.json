@@ -1,0 +1,76 @@
+{
+  "id": "q_34",
+  "vocab": [
+    {
+      "word": "green fingers",
+      "ipa": "/ɡriːn ˈfɪŋ.ɡərz/",
+      "meaning": "có khiếu trồng cây/mát tay chăm sóc cây cối",
+      "example": "My grandmother definitely has green fingers; she can make even the most withered shrub bloom again.",
+      "type": "idiom"
+    },
+    {
+      "word": "bear fruit",
+      "ipa": "/ber fruːt/",
+      "meaning": "đơm hoa kết trái/đạt được kết quả tốt sau thời gian nỗ lực",
+      "example": "After months of meticulous watering and fertilizing, my efforts finally started to bear fruit when the lilies opened.",
+      "type": "idiom"
+    },
+    {
+      "word": "nip something in the bud",
+      "ipa": "/nɪp ˈsʌm.θɪŋ ɪn ðə bʌd/",
+      "meaning": "diệt trừ từ trong trứng nước/ngăn chặn vấn đề ngay từ đầu",
+      "example": "When growing roses, you have to nip any sign of pest infestation in the bud before it spreads to the entire garden.",
+      "type": "idiom"
+    },
+    {
+      "word": "barking up the wrong tree",
+      "ipa": "/ˈbɑːr.kɪŋ ʌp ðə rɔːŋ triː/",
+      "meaning": "nhầm lẫn/tìm kiếm giải pháp sai chỗ",
+      "example": "If you think adding more water will save a plant with root rot, you're barking up the wrong tree; it actually needs better drainage.",
+      "type": "idiom"
+    },
+    {
+      "word": "no rose without a thorn",
+      "ipa": "/nəʊ rəʊz wɪˈðaʊt ə θɔːrn/",
+      "meaning": "hồng nào mà chẳng có gai/cái gì cũng có mặt trái của nó",
+      "example": "Gardening is immensely rewarding, but there is no rose without a thorn, as it requires a lot of back-breaking labor.",
+      "type": "idiom"
+    },
+    {
+      "word": "late bloomer",
+      "ipa": "/leɪt ˈbluː.mər/",
+      "meaning": "người (hoặc cây) nở muộn/thành công muộn hơn bình thường",
+      "example": "This particular species of jasmine is a bit of a late bloomer, only showing its true colors well into the autumn.",
+      "type": "idiom"
+    },
+    {
+      "word": "reap what you sow",
+      "ipa": "/riːp wɒt ju səʊ/",
+      "meaning": "gieo nhân nào gặt quả nấy",
+      "example": "In horticulture, you truly reap what you sow; if you neglect the soil quality, the harvest will inevitably be poor.",
+      "type": "idiom"
+    },
+    {
+      "word": "shrub up",
+      "ipa": "/ʃrʌb ʌp/",
+      "meaning": "ăn diện/tân trang lại (thường dùng để nói về việc làm đẹp khu vườn)",
+      "example": "We decided to shrub up the backyard with some ornamental bushes to increase the property's curb appeal.",
+      "type": "idiom"
+    },
+    {
+      "word": "fresh as a daisy",
+      "ipa": "/freʃ æz ə ˈdeɪ.zi/",
+      "meaning": "tươi như hoa/tràn đầy năng lượng",
+      "example": "After a morning spent repotting my indoor plants, I actually felt as fresh as a daisy despite the hard work.",
+      "type": "idiom"
+    },
+    {
+      "word": "the olive branch",
+      "ipa": "/ði ˈɒl.ɪv brɑːntʃ/",
+      "meaning": "cành ô liu (biểu tượng của sự hòa giải/làm hòa)",
+      "example": "Whenever I have a spat with my neighbor, I usually offer a small potted herb as an olive branch to restore peace.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

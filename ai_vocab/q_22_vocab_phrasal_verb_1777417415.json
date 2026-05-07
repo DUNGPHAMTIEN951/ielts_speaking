@@ -1,0 +1,76 @@
+{
+  "id": "q_22",
+  "vocab": [
+    {
+      "word": "lug around",
+      "ipa": "/lʌɡ əˈraʊnd/",
+      "meaning": "mang vác một cách nặng nề/vất vả",
+      "example": "If the suitcase is too bulky, I'd rather not lug it around the city all day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "rope in",
+      "ipa": "/rəʊp ɪn/",
+      "meaning": "nhờ vả/thuyết phục ai đó giúp mình",
+      "example": "When I moved my sofa, I had to rope in a few friends to help with the heavy lifting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "heave up",
+      "ipa": "/hiːv ʌp/",
+      "meaning": "nhấc bổng hoặc kéo một vật nặng lên với nhiều nỗ lực",
+      "example": "I managed to heave the box up onto the top shelf, but it certainly wasn't easy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "parcel out",
+      "ipa": "/ˈpɑːsl aʊt/",
+      "meaning": "chia nhỏ một vật/khối lượng lớn ra thành nhiều phần",
+      "example": "To make it manageable, I usually parcel out the contents into several smaller bags.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drag along",
+      "ipa": "/dræɡ əˈlɒŋ/",
+      "meaning": "kéo lê một vật nặng trên mặt đất",
+      "example": "Since the crate was too heavy to lift, I had to drag it along the hallway.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "muddle through",
+      "ipa": "/ˈmʌdl θruː/",
+      "meaning": "xoay xở vượt qua khó khăn (dù không có đủ kỹ năng/công cụ)",
+      "example": "I didn't have a trolley, so I just had to muddle through and carry the groceries one by one.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "phải nhờ đến/dùng đến sự trợ giúp (khi không còn cách nào khác)",
+      "example": "If the package is truly immovable, I fall back on a professional delivery service.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "haul away",
+      "ipa": "/hɔːl əˈweɪ/",
+      "meaning": "vận chuyển hoặc kéo cái gì đó đi một quãng đường dài",
+      "example": "We hired a specialized truck to haul away the heavy construction debris from the backyard.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get around",
+      "ipa": "/ɡet əˈraʊnd/",
+      "meaning": "tìm cách lách qua/giải quyết một vấn đề (như vật nặng)",
+      "example": "To get around the problem of the heavy desk, I took it apart and moved the pieces individually.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hand over",
+      "ipa": "/hænd ˈəʊvə/",
+      "meaning": "giao lại/nhượng lại (việc mang vác) cho người khác",
+      "example": "If an item is beyond my strength, I simply hand over the responsibility to someone more capable.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

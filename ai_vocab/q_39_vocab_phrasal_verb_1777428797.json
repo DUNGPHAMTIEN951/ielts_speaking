@@ -1,0 +1,76 @@
+{
+  "id": "q_39",
+  "vocab": [
+    {
+      "word": "wash over",
+      "ipa": "/wɒʃ ˈoʊvər/",
+      "meaning": "tràn ngập, bao phủ lấy (cảm giác khi nghe âm thanh)",
+      "example": "I love letting the sound of ambient lo-fi music wash over me while I'm working; it creates such a productive headspace.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "chặn, ngăn cách (âm thanh ồn ào bên ngoài)",
+      "example": "The rhythmic sound of a fan helps me block out the distracting chatter of my neighbors.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "muffle up",
+      "ipa": "/ˈmʌfl ʌp/",
+      "meaning": "làm cho âm thanh trở nên êm dịu, trầm đục hơn",
+      "example": "There's something incredibly cozy about hearing the city noise muffled up by a thick layer of falling snow.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "vibrate through",
+      "ipa": "/ˈvaɪbreɪt θruː/",
+      "meaning": "rung động qua, cảm nhận được độ rung (của âm thanh trầm)",
+      "example": "I enjoy the deep bass of a cello as it seems to vibrate through the entire room, not just reach my ears.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry across",
+      "ipa": "/ˈkæri əˈkrɒs/",
+      "meaning": "truyền đi xa (âm thanh vang xa qua một không gian)",
+      "example": "On a quiet night, the sound of a distant train whistle carries across the fields, creating a very peaceful atmosphere.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "chime in",
+      "ipa": "/tʃaɪm ɪn/",
+      "meaning": "hòa âm, bắt đầu phát ra tiếng (thường là tiếng chuông hoặc tiếng chim)",
+      "example": "I find it quite charming when the smaller birds chime in with their high-pitched songs during the dawn chorus.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lull to",
+      "ipa": "/lʌl tuː/",
+      "meaning": "ru ngủ, làm cho ai đó bình tĩnh lại bằng âm thanh",
+      "example": "The gentle hum of the aircraft engine usually lulls me to sleep during long-haul flights.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tune into",
+      "ipa": "/tuːn ˈɪntuː/",
+      "meaning": "tập trung lắng nghe, điều chỉnh để nghe rõ",
+      "example": "In a forest, I love to tune into the subtle rustle of leaves that most people usually ignore.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up on",
+      "ipa": "/pɪk ʌp ɒn/",
+      "meaning": "nhận ra, bắt được (một âm thanh nhỏ hoặc tinh tế)",
+      "example": "I have a keen ear for music, so I often pick up on subtle harmonies that others might miss in a song.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burst out",
+      "ipa": "/bɜːrst aʊt/",
+      "meaning": "bùng phát, vang lên đột ngột (như tiếng cười hoặc tiếng vỗ tay)",
+      "example": "The sound of a crowd bursting out in applause is truly exhilarating and always lifts my spirits.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

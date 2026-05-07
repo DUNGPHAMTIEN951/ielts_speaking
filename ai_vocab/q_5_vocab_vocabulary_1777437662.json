@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "brisk pace",
+      "ipa": "/brɪsk peɪs/",
+      "meaning": "tốc độ nhanh, hoạt bát",
+      "example": "I try to maintain a brisk pace during my morning walks to get my heart rate up and improve my fitness.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "pedestrian-friendly",
+      "ipa": "/pəˈdes.tri.ən ˈfrend.li/",
+      "meaning": "thân thiện với người đi bộ (về hạ tầng)",
+      "example": "Living in a pedestrian-friendly neighborhood encourages me to walk to the grocery store instead of driving.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "mental clarity",
+      "ipa": "/ˈmen.təl ˈklær.ə.ti/",
+      "meaning": "sự minh mẫn trong tâm trí",
+      "example": "Walking long distances helps me achieve a sense of mental clarity that is hard to find in the hustle and bustle of city life.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "uninhibited",
+      "ipa": "/ˌʌn.ɪnˈhɪb.ɪ.tɪd/",
+      "meaning": "tự do, không bị kiềm chế (cảm giác khi đi bộ một mình)",
+      "example": "There is something very uninhibited about walking through an empty park late at night.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "joint mobility",
+      "ipa": "/dʒɔɪnt məʊˈbɪl.ə.ti/",
+      "meaning": "sự linh hoạt của các khớp",
+      "example": "Walking is a low-impact exercise that is excellent for maintaining joint mobility as one gets older.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "traverse",
+      "ipa": "/trəˈvɜːs/",
+      "meaning": "đi băng qua, đi ngang qua một khu vực",
+      "example": "I spent the entire afternoon traversing the city center to get a better feel for the local architecture.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "therapeutic",
+      "ipa": "/ˌθer.əˈpjuː.tɪk/",
+      "meaning": "có tính trị liệu/giúp thư giãn tinh thần",
+      "example": "I find the rhythmic nature of walking to be quite therapeutic after a high-stress day at work.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "ramble",
+      "ipa": "/ˈræm.bəl/",
+      "meaning": "đi dạo chơi (thường ở vùng nông thôn/đồi núi)",
+      "example": "Every Sunday, we go for a long ramble across the countryside to enjoy the fresh air and greenery.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "metabolic rate",
+      "ipa": "/ˌmet.əˈbɒl.ɪk reɪt/",
+      "meaning": "tốc độ trao đổi chất",
+      "example": "Regular walking can help boost your metabolic rate, making it easier to manage your weight effectively.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "recharge my batteries",
+      "ipa": "/riːˈtʃɑːdʒ maɪ ˈbæt.ər.iz/",
+      "meaning": "hồi phục năng lượng/tái tạo sức lao động",
+      "example": "A twenty-minute walk in the park is usually all I need to recharge my batteries during a grueling study session.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

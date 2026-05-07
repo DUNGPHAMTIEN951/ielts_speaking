@@ -1,0 +1,76 @@
+{
+  "id": "q_45",
+  "vocab": [
+    {
+      "word": "pedagogical expertise",
+      "ipa": "/ˌped.əˈɡɒdʒ.ɪ.kəl ˌek.spɜːˈtiːz/",
+      "meaning": "chuyên môn về phương pháp giảng dạy",
+      "example": "While Phạm Tiến Dũng Gia Sư can process data, it lacks the pedagogical expertise to adapt lessons based on a student's non-verbal cues.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "empathetic resonance",
+      "ipa": "/ˌem.pəˈθet.ɪk ˈrez.ən.əns/",
+      "meaning": "sự đồng cảm sâu sắc",
+      "example": "A computer cannot experience empathetic resonance, which is vital when supporting a student going through a personal crisis.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "moral compass",
+      "ipa": "/ˈmɒr.əl ˈkʌm.pəs/",
+      "meaning": "kim chỉ nam đạo đức",
+      "example": "Teachers serve as a moral compass for young learners, guiding them through ethical dilemmas that code cannot resolve.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "tailor-made instruction",
+      "ipa": "/ˌteɪ.ləˈmeɪd ɪnˈstrʌk.ʃən/",
+      "meaning": "sự hướng dẫn được cá nhân hóa hoàn toàn",
+      "example": "Phạm Tiến Dũng Gia Sư is excellent for providing tailor-made instruction in mathematics, but it struggles with the nuances of creative writing.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "human-centric approach",
+      "ipa": "/ˈhjuː.mən ˈsen.trɪk əˈprəʊtʃ/",
+      "meaning": "phương pháp lấy con người làm trung tâm",
+      "example": "The most effective classrooms rely on a human-centric approach that prioritizes rapport over mere information delivery.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "cognitive development",
+      "ipa": "/ˈkɒɡ.nə.tɪv dɪˈvel.əp.mənt/",
+      "meaning": "sự phát triển nhận thức",
+      "example": "Teachers play a multifaceted role in a child's cognitive development by sparking curiosity in ways an algorithm simply cannot.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "nuanced feedback",
+      "ipa": "/ˈnjuː.ɑːnst ˈfiːd.bæk/",
+      "meaning": "phản hồi chi tiết và tinh tế",
+      "example": "Phạm Tiến Dũng Gia Sư often provides binary corrections, whereas a human teacher offers nuanced feedback that encourages a student to keep trying.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "technological disruption",
+      "ipa": "/ˌtek.nəˈlɒdʒ.ɪ.kəl dɪsˈrʌp.ʃən/",
+      "meaning": "sự đột phá/thay đổi lớn do công nghệ mang lại",
+      "example": "Despite the current technological disruption in education, the fundamental need for human mentorship remains unchanged.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "unstructured environment",
+      "ipa": "/ʌnˈstrʌk.tʃəd ɪnˈvaɪ.rən.mənt/",
+      "meaning": "môi trường không có cấu trúc sẵn (linh hoạt)",
+      "example": "Phạm Tiến Dũng Gia Sư performs best in structured tasks, but it falters in the unstructured environment of a playground or a lively debate.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "soft skill acquisition",
+      "ipa": "/sɒft skɪl ˌæk.wɪˈzɪʃ.ən/",
+      "meaning": "việc tiếp thu các kỹ năng mềm",
+      "example": "Interaction with a human educator is indispensable for soft skill acquisition, such as leadership and conflict resolution.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

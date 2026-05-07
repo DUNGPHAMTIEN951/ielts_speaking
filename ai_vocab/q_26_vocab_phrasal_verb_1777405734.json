@@ -1,0 +1,76 @@
+{
+  "id": "q_26",
+  "vocab": [
+    {
+      "word": "spring up",
+      "ipa": "/sprɪŋ ʌp/",
+      "meaning": "mọc lên nhanh chóng (với số lượng lớn)",
+      "example": "In recent years, high-rise apartments and trendy cafes have been springing up like mushrooms all over the district.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull down",
+      "ipa": "/pʊl daʊn/",
+      "meaning": "phá dỡ (một tòa nhà hoặc cấu trúc)",
+      "example": "Many of the old, dilapidated houses were pulled down to make way for a state-of-the-art shopping mall.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "transform into",
+      "ipa": "/trænsˈfɔːrm ˈɪntə/",
+      "meaning": "biến đổi hoàn toàn thành",
+      "example": "What used to be a quiet, suburban area has completely transformed into a vibrant commercial hub.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pave over",
+      "ipa": "/peɪv ˈəʊvər/",
+      "meaning": "san lấp/lát nền (thường làm mất đi không gian xanh)",
+      "example": "It's a bit of a shame that they've paved over the local park to create more parking spaces for the new office blocks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring about",
+      "ipa": "/brɪŋ əˈbaʊt/",
+      "meaning": "gây ra, dẫn đến (sự thay đổi)",
+      "example": "The construction of the new metro line has brought about significant changes to the way people commute in this area.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clean up",
+      "ipa": "/kliːn ʌp/",
+      "meaning": "cải thiện, làm sạch đẹp hơn (môi trường, khu vực)",
+      "example": "The local council has put in a lot of effort to clean up the riverside, turning it into a popular spot for evening strolls.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "push up",
+      "ipa": "/pʊʃ ʌp/",
+      "meaning": "làm tăng (giá cả, giá trị)",
+      "example": "The influx of new businesses has pushed up property prices, making it quite difficult for young families to buy a home here.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "phase out",
+      "ipa": "/feɪz aʊt/",
+      "meaning": "dần dần loại bỏ",
+      "example": "Old, polluting factories are being phased out in favor of eco-friendly tech parks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cater to",
+      "ipa": "/ˈkeɪtər tuː/",
+      "meaning": "phục vụ cho (nhu cầu/đối tượng cụ thể)",
+      "example": "A plethora of high-end restaurants have opened to cater to the growing number of young professionals moving to the area.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out",
+      "ipa": "/bræntʃ aʊt/",
+      "meaning": "mở rộng hoạt động/phát triển thêm các lĩnh vực mới",
+      "example": "The local economy used to rely solely on agriculture, but it has now branched out into tourism and services.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

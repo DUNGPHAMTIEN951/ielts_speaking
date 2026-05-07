@@ -1,0 +1,76 @@
+{
+  "id": "q_46",
+  "vocab": [
+    {
+      "word": "daunting prospect",
+      "ipa": "/ˈdɔːntɪŋ ˈprɑːspekt/",
+      "meaning": "một viễn cảnh đáng sợ/làm nản chí",
+      "example": "Facing a three-hour advanced calculus exam was always a daunting prospect for me during university.",
+      "type": "collocation"
+    },
+    {
+      "word": "dense jargon",
+      "ipa": "/dens ˈdʒɑːrɡən/",
+      "meaning": "thuật ngữ chuyên ngành dày đặc/khó hiểu",
+      "example": "I found Legal Studies nearly impossible to master because of the dense jargon used in every textbook.",
+      "type": "collocation"
+    },
+    {
+      "word": "cognitive demand",
+      "ipa": "/ˈkɑːɡnətɪv dɪˈmænd/",
+      "meaning": "yêu cầu về khả năng nhận thức/tư duy",
+      "example": "The high cognitive demand of Quantum Physics often left me feeling completely drained after lectures.",
+      "type": "collocation"
+    },
+    {
+      "word": "highly abstract concepts",
+      "ipa": "/ˈhaɪli ˈæbstrækt ˈkɑːnsepts/",
+      "meaning": "những khái niệm cực kỳ trừu tượng",
+      "example": "Philosophy was a struggle because it deals with highly abstract concepts that have no tangible form.",
+      "type": "collocation"
+    },
+    {
+      "word": "analytical bottleneck",
+      "ipa": "/ˌænəˈlɪtɪkl ˈbɑːtlnek/",
+      "meaning": "điểm nghẽn trong khả năng phân tích",
+      "example": "Data science is my weakest point; I always hit an analytical bottleneck when dealing with multi-layered algorithms.",
+      "type": "collocation"
+    },
+    {
+      "word": "sheer complexity",
+      "ipa": "/ʃɪr kəmˈpleksəti/",
+      "meaning": "sự phức tạp thuần túy/tột độ",
+      "example": "The sheer complexity of organic chemistry reactions makes it the most grueling subject I’ve ever encountered.",
+      "type": "collocation"
+    },
+    {
+      "word": "mental block",
+      "ipa": "/ˈmentl blɑːk/",
+      "meaning": "rào cản tâm lý/sự tắc nghẽn tư duy",
+      "example": "I have a total mental block when it comes to numbers, which is why Accounting is such a nightmare for me.",
+      "type": "collocation"
+    },
+    {
+      "word": "steeped in theory",
+      "ipa": "/stiːpt ɪn ˈθɪəri/",
+      "meaning": "ngập tràn lý thuyết/nặng về lý thuyết",
+      "example": "I prefer practical subjects, so Macroeconomics felt far too steeped in theory for my liking.",
+      "type": "collocation"
+    },
+    {
+      "word": "fathom the logic",
+      "ipa": "/ˈfæðəm ðə ˈlɑːdʒɪk/",
+      "meaning": "thấu hiểu được logic/bản chất",
+      "example": "No matter how much I practiced, I could never quite fathom the logic behind complex coding languages.",
+      "type": "collocation"
+    },
+    {
+      "word": "attain proficiency",
+      "ipa": "/əˈteɪn prəˈfɪʃnsi/",
+      "meaning": "đạt được sự thành thạo",
+      "example": "It took me years of extra tuition just to attain a basic level of proficiency in Mandarin.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

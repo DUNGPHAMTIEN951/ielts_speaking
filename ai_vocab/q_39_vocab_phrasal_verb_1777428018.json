@@ -1,0 +1,76 @@
+{
+  "id": "q_39",
+  "vocab": [
+    {
+      "word": "wash over",
+      "ipa": "/wɒʃ ˈoʊvər/",
+      "meaning": "tràn ngập, bao phủ (cảm giác do âm thanh mang lại)",
+      "example": "I love the sound of the ocean waves; I just sit on the sand and let the rhythmic noise wash over me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "vibe with",
+      "ipa": "/vaɪb wɪð/",
+      "meaning": "cảm thấy hòa hợp, thích thú với (nhịp điệu/âm hưởng)",
+      "example": "There’s a certain frequency in lo-fi hip hop that I really vibe with when I’m trying to focus on my studies.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/soʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không gian âm thanh)",
+      "example": "On Sunday mornings, I head to the park just to soak up the tranquil sounds of nature and distant laughter.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring back",
+      "ipa": "/brɪŋ bæk/",
+      "meaning": "gợi nhớ lại (kỷ niệm cũ)",
+      "example": "The crackling of a vinyl record always brings back fond memories of my grandfather’s old living room.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "liven up",
+      "ipa": "/ˈlaɪvn ʌp/",
+      "meaning": "làm cho sôi động, vui vẻ hơn",
+      "example": "I find that the upbeat sound of a saxophone can really liven up a dull and gloomy afternoon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tune out",
+      "ipa": "/tuːn aʊt/",
+      "meaning": "ngó lơ, không chú ý đến (nhờ một âm thanh khác)",
+      "example": "I use the sound of falling rain to tune out the chaotic noise of the city traffic outside my apartment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "meaning": "nghe thấy, bắt được (âm thanh nhỏ hoặc từ xa)",
+      "example": "I enjoy the stillness of the night when you can pick up the faint whistling of the wind through the trees.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cheer up",
+      "ipa": "/tʃɪər ʌp/",
+      "meaning": "làm cho tâm trạng phấn chấn, vui vẻ hơn",
+      "example": "The sound of my favorite acoustic guitar riff never fails to cheer me up when I’m feeling a bit blue.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "chặn đứng, ngăn không cho nghe thấy",
+      "example": "White noise is essential for me to block out the distracting chatter of people in a busy coffee shop.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "chill out",
+      "ipa": "/tʃɪl aʊt/",
+      "meaning": "thư giãn, thả lỏng",
+      "example": "Listening to the gentle bubbling of a stream is the perfect way for me to chill out after a long week of work.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

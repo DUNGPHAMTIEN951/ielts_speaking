@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "put aside",
+      "ipa": "/pʊt əˈsaɪd/",
+      "meaning": "tiết kiệm/dành dụm tiền cho một mục đích cụ thể",
+      "example": "Most people use banks to put aside a portion of their monthly income for long-term goals like buying a house.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tide over",
+      "ipa": "/taɪd ˈoʊvər/",
+      "meaning": "giúp ai đó vượt qua giai đoạn khó khăn (thường là về tài chính)",
+      "example": "Banks provide personal loans or overdrafts that can tide individuals over during unexpected financial crises.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pay off",
+      "ipa": "/peɪ ɔːf/",
+      "meaning": "thanh toán hết nợ nần",
+      "example": "Many consumers rely on banking facilities to systematically pay off their credit card debts or mortgages.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "squirrel away",
+      "ipa": "/ˈskwɜːrəl əˈweɪ/",
+      "meaning": "cất giấu/tích trữ tiền bạc ở nơi an toàn",
+      "example": "It is much safer to squirrel away your inheritance in a high-security bank vault than to keep it at home.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw on",
+      "ipa": "/drɔː ɒn/",
+      "meaning": "sử dụng đến nguồn tiền tiết kiệm/dự trữ",
+      "example": "Having a bank account allows retirees to easily draw on their pensions or savings whenever necessary.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set up",
+      "ipa": "/set ʌp/",
+      "meaning": "thiết lập/cài đặt (ví dụ: lệnh thanh toán tự động)",
+      "example": "Modern banking apps enable users to set up standing orders for recurring bills, ensuring they never miss a payment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dựa vào nguồn hỗ trợ dự phòng khi các nguồn khác thất bại",
+      "example": "People maintain savings accounts so they have a reliable financial cushion to fall back on in case of unemployment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "rake in",
+      "ipa": "/reɪk ɪn/",
+      "meaning": "thu về/kiếm được rất nhiều tiền (thường là lợi nhuận hoặc lãi suất)",
+      "example": "Investors often use fixed-deposit accounts to rake in interest over a set period without any risk.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wire over",
+      "ipa": "/ˈwaɪər ˈoʊvər/",
+      "meaning": "chuyển tiền điện tử (thường là xuyên quốc gia)",
+      "example": "Banks are indispensable for expatriates who need to wire over money to support their families back in their home countries.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stashed away",
+      "ipa": "/stæʃt əˈweɪ/",
+      "meaning": "cất giữ tiền ở một nơi kín đáo và an toàn",
+      "example": "The main reason for using banks is to keep large sums of cash stashed away from potential theft or loss.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

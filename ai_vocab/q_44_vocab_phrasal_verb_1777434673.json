@@ -1,0 +1,76 @@
+{
+  "id": "q_44",
+  "vocab": [
+    {
+      "word": "phase out",
+      "ipa": "/feɪz aʊt/",
+      "meaning": "dần dần loại bỏ hoặc thay thế",
+      "example": "The school has started to phase out traditional textbooks in favor of interactive e-books and tablets.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "kitted out with",
+      "ipa": "/ˌkɪt.ɪd ˈaʊt wɪð/",
+      "meaning": "được trang bị đầy đủ bộ đồ dùng/thiết bị",
+      "example": "The science labs are now kitted out with high-end microscopes that we could only dream of back then.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fenced off",
+      "ipa": "/fenst ɒf/",
+      "meaning": "được rào lại (để phân chia khu vực hoặc đảm bảo an ninh)",
+      "example": "The old playground has been fenced off to create a safer, more secure environment for the primary students.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "freshen up",
+      "ipa": "/ˈfreʃ.ən ʌp/",
+      "meaning": "làm mới lại, sơn sửa lại cho sạch sẽ",
+      "example": "They recently freshened up the corridors with a lick of paint and better lighting, making it feel much less gloomy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brick up",
+      "ipa": "/brɪk ʌp/",
+      "meaning": "xây tường gạch bít lại (cửa sổ, lối đi cũ)",
+      "example": "To optimize space, they decided to brick up the old side entrance and convert that hallway into a small gallery.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "partition off",
+      "ipa": "/pɑːˈtɪʃ.ən ɒf/",
+      "meaning": "ngăn cách không gian bằng vách ngăn",
+      "example": "The massive study hall has been partitioned off into smaller, private cubicles to encourage individual focus.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "weed out",
+      "ipa": "/wiːd aʊt/",
+      "meaning": "loại bỏ những thứ không còn phù hợp hoặc kém chất lượng",
+      "example": "The administration has worked hard to weed out obsolete teaching methods that were no longer effective for Gen Alpha.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "beef up",
+      "ipa": "/biːf ʌp/",
+      "meaning": "tăng cường, củng cố (thường là về an ninh hoặc hệ thống)",
+      "example": "They have significantly beefed up the campus security with digital ID scanners and more surveillance cameras.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tack on",
+      "ipa": "/tæk ɒn/",
+      "meaning": "thêm vào một cách phụ trợ (ví dụ xây thêm phòng nhỏ)",
+      "example": "A modern glass annex was tacked on to the side of the main building to house the new cafeteria.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "do away with",
+      "ipa": "/duː əˈweɪ wɪð/",
+      "meaning": "xóa bỏ hoàn toàn (một quy định hoặc thói quen cũ)",
+      "example": "Many departments have done away with handwritten exams, moving entirely toward computer-based assessments.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

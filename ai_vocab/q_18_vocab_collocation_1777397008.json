@@ -1,0 +1,356 @@
+{
+  "id": "q_18",
+  "vocab": [
+    {
+      "word": "unbridled creativity",
+      "ipa": "/ʌnˈbraɪdəld kriːeɪˈtɪvəti/",
+      "meaning": "sự sáng tạo không giới hạn",
+      "example": "Being an artist allows for unbridled creativity, where one can express thoughts without constraints.",
+      "type": "collocation"
+    },
+    {
+      "word": "aesthetic appeal",
+      "ipa": "/esˈθetɪk əˈpiːl/",
+      "meaning": "sức hút về mặt thẩm mỹ",
+      "example": "I’ve always been drawn to the aesthetic appeal of abstract paintings.",
+      "type": "collocation"
+    },
+    {
+      "word": "cathartic experience",
+      "ipa": "/kəˈθɑːrtɪk ɪkˈspɪriəns/",
+      "meaning": "trải nghiệm giải tỏa tâm lý",
+      "example": "For many, the process of sculpting is a deeply cathartic experience.",
+      "type": "collocation"
+    },
+    {
+      "word": "evocative power",
+      "ipa": "/ɪˈvɑːkətɪv ˈpaʊər/",
+      "meaning": "khả năng khơi gợi (cảm xúc/ký ức)",
+      "example": "Art has an incredible evocative power that can transport you to a different time.",
+      "type": "collocation"
+    },
+    {
+      "word": "avant-garde",
+      "ipa": "/ˌævɑ̃ːˈɡɑːrd/",
+      "meaning": "tiên phong/phá cách",
+      "example": "I find avant-garde installations particularly intriguing because they challenge traditional norms.",
+      "type": "collocation"
+    },
+    {
+      "word": "visual storytelling",
+      "ipa": "/ˈvɪʒuəl ˈstɔːritelɪŋ/",
+      "meaning": "kể chuyện thông qua hình ảnh",
+      "example": "Photography is a unique form of visual storytelling that captures fleeting moments.",
+      "type": "collocation"
+    },
+    {
+      "word": "technical prowess",
+      "ipa": "/ˈteknɪkl ˈpraʊəs/",
+      "meaning": "kỹ năng chuyên môn bậc thầy",
+      "example": "To be a professional painter, one must possess immense technical prowess.",
+      "type": "collocation"
+    },
+    {
+      "word": "a feast for the eyes",
+      "ipa": "/ə fiːst fɔːr ði aɪz/",
+      "meaning": "một bữa tiệc thị giác (rất đẹp)",
+      "example": "Visiting a high-end art gallery is always a feast for the eyes.",
+      "type": "collocation"
+    },
+    {
+      "word": "stifle creativity",
+      "ipa": "/ˈstaɪfl kriːeɪˈtɪvəti/",
+      "meaning": "kìm hãm sự sáng tạo",
+      "example": "Rigid academic structures can sometimes stifle the creativity of young artists.",
+      "type": "collocation"
+    },
+    {
+      "word": "profound impact",
+      "ipa": "/prəˈfaʊnd ˈɪmpækt/",
+      "meaning": "tác động sâu sắc",
+      "example": "Artistic masterpieces often leave a profound impact on the viewer's soul.",
+      "type": "collocation"
+    },
+    {
+      "word": "medium of expression",
+      "ipa": "/ˈmiːdiəm əv ɪkˈspreʃn/",
+      "meaning": "phương tiện biểu đạt",
+      "example": "Oil painting is a versatile medium of expression used for centuries.",
+      "type": "collocation"
+    },
+    {
+      "word": "vibrant palette",
+      "ipa": "/ˈvaɪbrənt ˈpælət/",
+      "meaning": "bảng màu rực rỡ",
+      "example": "I love the vibrant palette used in Impressionist works.",
+      "type": "collocation"
+    },
+    {
+      "word": "commercial success",
+      "ipa": "/kəˈmɜːrʃl səkˈses/",
+      "meaning": "thành công về mặt thương mại",
+      "example": "Balancing artistic integrity with commercial success is a common struggle.",
+      "type": "collocation"
+    },
+    {
+      "word": "artistic integrity",
+      "ipa": "/ɑːrˈtɪstɪk ɪnˈteɡrəti/",
+      "meaning": "sự liêm chính/bản sắc nghệ thuật",
+      "example": "He refused to change his style, prioritizing artistic integrity over profit.",
+      "type": "collocation"
+    },
+    {
+      "word": "meticulous attention to detail",
+      "ipa": "/məˈtɪkjələs əˈtenʃn tu ˈdiːteɪl/",
+      "meaning": "sự tỉ mỉ đến từng chi tiết",
+      "example": "Hyper-realistic art requires meticulous attention to detail.",
+      "type": "collocation"
+    },
+    {
+      "word": "to push the boundaries",
+      "ipa": "/tu pʊʃ ðə ˈbaʊndriz/",
+      "meaning": "vượt qua những giới hạn",
+      "example": "True artists always strive to push the boundaries of conventional art.",
+      "type": "collocation"
+    },
+    {
+      "word": "intricate patterns",
+      "ipa": "/ˈɪntrɪkət ˈpætərnz/",
+      "meaning": "họa tiết phức tạp",
+      "example": "The mural was filled with intricate patterns that mesmerized every passerby.",
+      "type": "collocation"
+    },
+    {
+      "word": "subtle nuances",
+      "ipa": "/ˈsʌtl ˈnuːɑːnsɪz/",
+      "meaning": "những sắc thái tinh tế",
+      "example": "A skilled artist can capture the subtle nuances of human emotion.",
+      "type": "collocation"
+    },
+    {
+      "word": "to ignite inspiration",
+      "ipa": "/tu ɪɡˈnaɪt ˌɪnspəˈreɪʃn/",
+      "meaning": "khơi nguồn cảm hứng",
+      "example": "Nature has always served as a primary source to ignite inspiration.",
+      "type": "collocation"
+    },
+    {
+      "word": "monetary value",
+      "ipa": "/ˈmʌnɪteri ˈvæljuː/",
+      "meaning": "giá trị tiền tệ",
+      "example": "The artistic worth of a piece is often separate from its monetary value.",
+      "type": "collocation"
+    },
+    {
+      "word": "to convey a message",
+      "ipa": "/tu kənˈveɪ ə ˈmesɪdʒ/",
+      "meaning": "truyền tải một thông điệp",
+      "example": "Modern art often seeks to convey a socio-political message.",
+      "type": "collocation"
+    },
+    {
+      "word": "spatial awareness",
+      "ipa": "/ˈspeɪʃl əˈwernəs/",
+      "meaning": "khả năng nhận thức không gian",
+      "example": "Sculptors need excellent spatial awareness to create 3D works.",
+      "type": "collocation"
+    },
+    {
+      "word": "a sense of fulfillment",
+      "ipa": "/ə sens əv fʊlˈfɪlmənt/",
+      "meaning": "cảm giác mãn nguyện",
+      "example": "Completing a project gives an artist a deep sense of fulfillment.",
+      "type": "collocation"
+    },
+    {
+      "word": "to hone one's craft",
+      "ipa": "/tu hoʊn wʌnz kræft/",
+      "meaning": "mài giũa tay nghề",
+      "example": "Artists spend years in the studio to hone their craft.",
+      "type": "collocation"
+    },
+    {
+      "word": "daunting prospect",
+      "ipa": "/ˈdɔːntɪŋ ˈprɑːspekt/",
+      "meaning": "viễn cảnh đáng sợ/gian nan",
+      "example": "Making a living solely from art can be a daunting prospect.",
+      "type": "collocation"
+    },
+    {
+      "word": "to be endowed with",
+      "ipa": "/tu bi ɪnˈdaʊd wɪð/",
+      "meaning": "được trời phú cho",
+      "example": "Only a few are endowed with a natural talent for painting.",
+      "type": "collocation"
+    },
+    {
+      "word": "artistic medium",
+      "ipa": "/ɑːrˈtɪstɪk ˈmiːdiəm/",
+      "meaning": "chất liệu/phương tiện nghệ thuật",
+      "example": "Digital software has become a popular artistic medium in recent years.",
+      "type": "collocation"
+    },
+    {
+      "word": "vivid imagination",
+      "ipa": "/ˈvɪvɪd ɪˌmædʒɪˈneɪʃn/",
+      "meaning": "trí tưởng tượng sống động",
+      "example": "An artist must possess a vivid imagination to create original works.",
+      "type": "collocation"
+    },
+    {
+      "word": "to broaden one's horizons",
+      "ipa": "/tu ˈbrɔːdn wʌnz həˈraɪznz/",
+      "meaning": "mở rộng tầm mắt",
+      "example": "Exploring different art styles can significantly broaden one's horizons.",
+      "type": "collocation"
+    },
+    {
+      "word": "abstract concept",
+      "ipa": "/ˈæbstrækt ˈkɑːnsept/",
+      "meaning": "khái niệm trừu tượng",
+      "example": "The artist tried to depict the abstract concept of time.",
+      "type": "collocation"
+    },
+    {
+      "word": "visual stimulation",
+      "ipa": "/ˈvɪʒuəl ˌstɪmjuˈleɪʃn/",
+      "meaning": "sự kích thích thị giác",
+      "example": "Museums provide the necessary visual stimulation for creative minds.",
+      "type": "collocation"
+    },
+    {
+      "word": "captivating",
+      "ipa": "/ˈkæptɪveɪtɪŋ/",
+      "meaning": "quyến rũ, say đắm",
+      "example": "The use of light in the painting was truly captivating.",
+      "type": "collocation"
+    },
+    {
+      "word": "cultural heritage",
+      "ipa": "/ˈkʌltʃərəl ˈherɪtɪdʒ/",
+      "meaning": "di sản văn hóa",
+      "example": "Traditional art is a vital part of our cultural heritage.",
+      "type": "collocation"
+    },
+    {
+      "word": "to evoke emotions",
+      "ipa": "/tu ɪˈvoʊk ɪˈmoʊʃnz/",
+      "meaning": "khơi gợi cảm xúc",
+      "example": "The goal of his music is to evoke emotions of nostalgia.",
+      "type": "collocation"
+    },
+    {
+      "word": "commissioned work",
+      "ipa": "/kəˈmɪʃnd wɜːrk/",
+      "meaning": "tác phẩm được đặt hàng",
+      "example": "Many artists rely on commissioned work to sustain their income.",
+      "type": "collocation"
+    },
+    {
+      "word": "stunning masterpiece",
+      "ipa": "/ˈstʌnɪŋ ˈmæstərpiːs/",
+      "meaning": "kiệt tác tuyệt đẹp",
+      "example": "The 'Starry Night' is considered a stunning masterpiece.",
+      "type": "collocation"
+    },
+    {
+      "word": "to find solace in",
+      "ipa": "/tu faɪnd ˈsɑːləs ɪn/",
+      "meaning": "tìm thấy sự an ủi trong",
+      "example": "I often find solace in drawing after a long day at work.",
+      "type": "collocation"
+    },
+    {
+      "word": "subjective interpretation",
+      "ipa": "/səbˈdʒektɪv ɪnˌtɜːrprəˈteɪʃn/",
+      "meaning": "cách hiểu chủ quan",
+      "example": "Art is open to subjective interpretation, meaning everyone sees it differently.",
+      "type": "collocation"
+    },
+    {
+      "word": "fluidity of movement",
+      "ipa": "/fluˈɪdəti əv ˈmuːvmənt/",
+      "meaning": "sự uyển chuyển của chuyển động",
+      "example": "The sketch captured the fluidity of movement of the dancer.",
+      "type": "collocation"
+    },
+    {
+      "word": "unconventional approach",
+      "ipa": "/ˌʌnkənˈvenʃənl əˈproʊtʃ/",
+      "meaning": "cách tiếp cận độc lạ",
+      "example": "She is known for her unconventional approach to sculpture.",
+      "type": "collocation"
+    },
+    {
+      "word": "the pursuit of beauty",
+      "ipa": "/ðə pərˈsuːt əv ˈbjuːti/",
+      "meaning": "sự theo đuổi vẻ đẹp",
+      "example": "Art is essentially the pursuit of beauty in its various forms.",
+      "type": "collocation"
+    },
+    {
+      "word": "therapeutic benefits",
+      "ipa": "/ˌθerəˈpjuːtɪk ˈbenɪfɪts/",
+      "meaning": "lợi ích mang tính trị liệu",
+      "example": "Art therapy offers numerous therapeutic benefits for mental health.",
+      "type": "collocation"
+    },
+    {
+      "word": "innate talent",
+      "ipa": "/ɪˈneɪt ˈtælənt/",
+      "meaning": "tài năng bẩm sinh",
+      "example": "While some have innate talent, most must work hard to succeed.",
+      "type": "collocation"
+    },
+    {
+      "word": "expressive freedom",
+      "ipa": "/ɪkˈspresɪv ˈfriːdəm/",
+      "meaning": "tự do biểu đạt",
+      "example": "Artists value expressive freedom above all else.",
+      "type": "collocation"
+    },
+    {
+      "word": "to mirror reality",
+      "ipa": "/tu ˈmɪrər riˈæləti/",
+      "meaning": "phản ánh hiện thực",
+      "example": "Some art forms aim to mirror reality as accurately as possible.",
+      "type": "collocation"
+    },
+    {
+      "word": "thought-provoking",
+      "ipa": "/ˈθɔːt prəˈvoʊkɪŋ/",
+      "meaning": "gợi suy nghĩ",
+      "example": "The exhibition was incredibly thought-provoking and somewhat controversial.",
+      "type": "collocation"
+    },
+    {
+      "word": "to leave a lasting impression",
+      "ipa": "/tu liːv ə ˈlæstɪŋ ɪmˈpreʃn/",
+      "meaning": "để lại ấn tượng khó phai",
+      "example": "The colors in that gallery left a lasting impression on me.",
+      "type": "collocation"
+    },
+    {
+      "word": "harmonious blend",
+      "ipa": "/hɑːrˈmoʊniəs blend/",
+      "meaning": "sự pha trộn hài hòa",
+      "example": "The painting featured a harmonious blend of traditional and modern elements.",
+      "type": "collocation"
+    },
+    {
+      "word": "to resonate with",
+      "ipa": "/tu ˈrezəneɪt wɪð/",
+      "meaning": "tương thích/kết nối với (cảm xúc)",
+      "example": "This particular style of art doesn't really resonate with me.",
+      "type": "collocation"
+    },
+    {
+      "word": "solitary endeavor",
+      "ipa": "/ˈsɑːləteri ɪnˈdevər/",
+      "meaning": "sự nỗ lực đơn độc",
+      "example": "Painting is often a solitary endeavor that requires long hours alone.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_12",
+  "vocab": [
+    {
+      "word": "craggy peaks",
+      "ipa": "/ˈkræɡi piːks/",
+      "meaning": "những đỉnh núi hiểm trở, nhô cao",
+      "example": "The sight of the craggy peaks shrouded in mist is far more compelling to me than any tropical beach.",
+      "type": "collocation"
+    },
+    {
+      "word": "shimmering coastline",
+      "ipa": "/ˈʃɪmərɪŋ ˈkəʊstlaɪn/",
+      "meaning": "đường bờ biển lấp lánh",
+      "example": "I am particularly fond of driving along a shimmering coastline where the light reflects off the water at dusk.",
+      "type": "collocation"
+    },
+    {
+      "word": "alpine air",
+      "ipa": "/ˈælpaɪn eə(r)/",
+      "meaning": "không khí vùng núi cao",
+      "example": "There's nothing quite as invigorating as breathing in the crisp, clean alpine air during a morning hike.",
+      "type": "collocation"
+    },
+    {
+      "word": "maritime climate",
+      "ipa": "/ˈmærɪtaɪm ˈklaɪmət/",
+      "meaning": "khí hậu miền biển",
+      "example": "I prefer the sea because the mild maritime climate is much more agreeable to me than the harsh mountain cold.",
+      "type": "collocation"
+    },
+    {
+      "word": "snow-capped summits",
+      "ipa": "/snəʊ kæpt ˈsʌmɪts/",
+      "meaning": "những đỉnh núi phủ tuyết trắng",
+      "example": "I’ve always dreamed of witnessing the majesty of snow-capped summits in the Himalayas firsthand.",
+      "type": "collocation"
+    },
+    {
+      "word": "tranquil cove",
+      "ipa": "/ˈtræŋkwɪl kəʊv/",
+      "meaning": "vịnh nhỏ yên tĩnh",
+      "example": "Spending an afternoon in a tranquil cove away from the tourist crowds is my idea of a perfect getaway.",
+      "type": "collocation"
+    },
+    {
+      "word": "dense coniferous forest",
+      "ipa": "/dens kəˈnɪfərəs ˈfɒrɪst/",
+      "meaning": "rừng lá kim rậm rạp",
+      "example": "I find wandering through a dense coniferous forest on a mountainside to be an incredibly grounding experience.",
+      "type": "collocation"
+    },
+    {
+      "word": "undulating waves",
+      "ipa": "/ˈʌndjuleɪtɪŋ weɪvz/",
+      "meaning": "những con sóng nhấp nhô",
+      "example": "Mesmerized by the undulating waves, I can sit on the shore for hours without feeling a hint of boredom.",
+      "type": "collocation"
+    },
+    {
+      "word": "sheer cliffs",
+      "ipa": "/ʃɪə(r) klɪfs/",
+      "meaning": "vách đá thẳng đứng",
+      "example": "The dramatic landscape of sheer cliffs dropping into the ocean is a spectacle that never fails to amaze me.",
+      "type": "collocation"
+    },
+    {
+      "word": "thrive in the solitude",
+      "ipa": "/θraɪv ɪn ðə ˈsɒlətjuːd/",
+      "meaning": "thích thú/phát triển tốt trong sự biệt lập",
+      "example": "I tend to favor the mountains because I thrive in the solitude that high-altitude environments provide.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_12",
+  "vocab": [
+    {
+      "word": "a breath of fresh air",
+      "ipa": "/ə breθ əv freʃ eə(r)/",
+      "meaning": "một luồng gió mới (nghĩa bóng là sự thay đổi tích cực, sảng khoái)",
+      "example": "Escaping the city to the misty mountains is a breath of fresh air for my mental health.",
+      "type": "idiom"
+    },
+    {
+      "word": "plain sailing",
+      "ipa": "/pleɪn ˈseɪlɪŋ/",
+      "meaning": "thuận buồm xuôi gió (dễ dàng, không gặp trở ngại)",
+      "example": "I love the sea because life there feels like plain sailing, far away from the complexities of work.",
+      "type": "idiom"
+    },
+    {
+      "word": "on top of the world",
+      "ipa": "/ɒn tɒp əv ðə wɜːld/",
+      "meaning": "vô cùng hạnh phúc và tự hào (như đang đứng trên đỉnh thế giới)",
+      "example": "Whenever I reach a mountain summit, I literally and figuratively feel on top of the world.",
+      "type": "idiom"
+    },
+    {
+      "word": "a drop in the ocean",
+      "ipa": "/ə drɒp ɪn ðə ˈəʊʃn/",
+      "meaning": "muối bỏ bể (thứ gì đó quá nhỏ bé so với tổng thể vĩ đại)",
+      "example": "Gazing at the vast horizon of the sea makes me realize that my daily worries are just a drop in the ocean.",
+      "type": "idiom"
+    },
+    {
+      "word": "recharge one's batteries",
+      "ipa": "/ˌriːˈtʃɑːdʒ wʌnz ˈbætəriz/",
+      "meaning": "hồi phục năng lượng, nghỉ ngơi lấy sức",
+      "example": "I prefer the coastline as the sound of the waves is the ultimate way for me to recharge my batteries.",
+      "type": "idiom"
+    },
+    {
+      "word": "the best of both worlds",
+      "ipa": "/ðə best əv bəʊθ wɜːldz/",
+      "meaning": "vẹn cả đôi đường (hưởng lợi từ cả hai lựa chọn)",
+      "example": "I enjoy coastal mountains because you get the best of both worlds: the trekking and the beach.",
+      "type": "idiom"
+    },
+    {
+      "word": "make a splash",
+      "ipa": "/meɪk ə splæʃ/",
+      "meaning": "gây ấn tượng mạnh, tạo tiếng vang",
+      "example": "A holiday at a luxury sea resort really makes a splash when you're looking for a memorable celebration.",
+      "type": "idiom"
+    },
+    {
+      "word": "steep learning curve",
+      "ipa": "/stiːp ˈlɜːnɪŋ kɜːv/",
+      "meaning": "thử thách khó khăn ban đầu (dùng khi nói về việc tập leo núi/hiking)",
+      "example": "Mountain climbing had a steep learning curve for me, but the sense of achievement was worth it.",
+      "type": "idiom"
+    },
+    {
+      "word": "get away from it all",
+      "ipa": "/ɡet əˈweɪ frəm ɪt ɔːl/",
+      "meaning": "thoát khỏi cuộc sống xô bồ, thường nhật",
+      "example": "The secluded mountain trails are the perfect place to get away from it all and find inner peace.",
+      "type": "idiom"
+    },
+    {
+      "word": "sink or swim",
+      "ipa": "/sɪŋk ɔː(r) swɪm/",
+      "meaning": "tự bơi hay là chìm (tự sinh tự diệt trong môi trường khắc nghiệt)",
+      "example": "Out in the wild mountains, it's often a case of sink or swim, which really tests your survival instincts.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

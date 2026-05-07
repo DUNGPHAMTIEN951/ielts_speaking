@@ -1,0 +1,76 @@
+{
+  "id": "q_12",
+  "vocab": [
+    {
+      "word": "towering peaks",
+      "ipa": "/ˈtaʊərɪŋ piːks/",
+      "meaning": "những đỉnh núi cao chót vót",
+      "example": "I am captivated by the sight of towering peaks that seem to pierce the clouds.",
+      "type": "collocation"
+    },
+    {
+      "word": "coastal getaway",
+      "ipa": "/ˈkəʊstl ˈɡetəweɪ/",
+      "meaning": "chuyến nghỉ dưỡng vùng duyên hải",
+      "example": "Whenever I feel overwhelmed, a quick coastal getaway helps me reset and find my balance.",
+      "type": "collocation"
+    },
+    {
+      "word": "breathtaking topography",
+      "ipa": "/ˈbreθteɪkɪŋ təˈpɒɡrəfi/",
+      "meaning": "địa hình đẹp đến nghẹt thở",
+      "example": "The mountainous regions of Vietnam offer some of the most breathtaking topography I've ever witnessed.",
+      "type": "collocation"
+    },
+    {
+      "word": "soothing rhythm of the tides",
+      "ipa": "/ˈsuːðɪŋ ˈrɪðəm əv ðə taɪdz/",
+      "meaning": "nhịp điệu êm dịu của thủy triều",
+      "example": "I find the soothing rhythm of the tides to be far more meditative than the silence of a forest.",
+      "type": "collocation"
+    },
+    {
+      "word": "jagged ridges",
+      "ipa": "/ˈdʒæɡɪd ˈrɪdʒɪz/",
+      "meaning": "những dãy núi lởm chởm, răng cưa",
+      "example": "Hiking along the jagged ridges requires a lot of physical stamina but the reward is immense.",
+      "type": "collocation"
+    },
+    {
+      "word": "crystal-clear waters",
+      "ipa": "/ˈkrɪstl klɪə(r) ˈwɔːtəz/",
+      "meaning": "làn nước trong vắt như pha lê",
+      "example": "The allure of crystal-clear waters for snorkeling is why I consistently choose the sea over the highlands.",
+      "type": "collocation"
+    },
+    {
+      "word": "rugged terrain",
+      "ipa": "/ˈrʌɡɪd təˈreɪn/",
+      "meaning": "địa hình gồ ghề, hiểm trở",
+      "example": "I have a soft spot for the rugged terrain of the north, despite the challenges it poses for travelers.",
+      "type": "collocation"
+    },
+    {
+      "word": "sun-drenched beaches",
+      "ipa": "/sʌn drentʃt ˈbiːtʃɪz/",
+      "meaning": "những bãi biển ngập tràn ánh nắng",
+      "example": "There is nothing quite like lounging on sun-drenched beaches to soak up some vitamin D.",
+      "type": "collocation"
+    },
+    {
+      "word": "panoramic views",
+      "ipa": "/ˌpænəˈræmɪk vjuːz/",
+      "meaning": "tầm nhìn toàn cảnh bao quát",
+      "example": "The mountains provide panoramic views that make all the arduous climbing worthwhile.",
+      "type": "collocation"
+    },
+    {
+      "word": "marine life",
+      "ipa": "/məˈriːn laɪf/",
+      "meaning": "hệ sinh thái/sinh vật biển",
+      "example": "My fascination with diverse marine life is the primary reason I am drawn to the ocean.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

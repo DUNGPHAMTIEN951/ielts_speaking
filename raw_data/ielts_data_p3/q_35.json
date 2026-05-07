@@ -1,0 +1,52 @@
+{
+  "id": "q_35",
+  "topic": "Plants",
+  "q": "What plant did you grow when you were young?",
+  "examiner_note": "Nói về kỷ niệm trường học hoặc ở nhà. Sử dụng 'bean sprouts', 'sparked my interest', 'natural world', 'nurture'.",
+  "samples": {
+    "band7": {
+      "text": "I remember growing some simple bean sprouts in a jar for a school science project. It was fascinating to see them grow so quickly from just a small seed, and it really sparked my interest in the natural world. I felt very proud when they started to sprout.",
+      "note": "Sử dụng ví dụ thực tế và giải thích cảm xúc (sparked my interest, sprout)."
+    },
+    "band8": {
+      "text": "When I was a child, I helped my grandmother tend to her small herb garden. I remember successfully growing some basil from a seedling. It was my first real experience of nurturing something and seeing it flourish, which was incredibly rewarding and taught me a lot about patience.",
+      "note": "Sử dụng từ vựng hay (tend to, seedling, nurturing, flourish, rewarding)."
+    },
+    "band9": {
+      "text": "I recall a school project where we were tasked with cultivating sunflowers. The process of monitoring their daily growth and eventually seeing their vibrant yellow blooms was truly captivating. It was a formative experience that instilled in me a lifelong fascination with the cycle of life and the resilience of nature.",
+      "note": "Sử dụng từ vựng ở mức độ cao (cultivating, monitoring, captivating, formative, instilled)."
+    }
+  },
+  "v": [
+    {
+      "word": "cultivate",
+      "meaning": "trau dồi/trồng trọt",
+      "ipa": "/ˈkʌltɪveɪt/",
+      "example": "He tries to cultivate a positive attitude."
+    },
+    {
+      "word": "formative",
+      "meaning": "để hình thành/có tính quyết định",
+      "ipa": "/ˈfɔːrmətɪv/",
+      "example": "These are the formative years of a child's life."
+    },
+    {
+      "word": "instill",
+      "meaning": "thấm nhuần/vun đắp",
+      "ipa": "/ɪnˈstɪl/",
+      "example": "Parents should instill good values in their children."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "captivating",
+      "meaning": "quyến rũ/thu hút",
+      "ipa": "/ˈkæptɪveɪtɪŋ/",
+      "example": "The view was absolutely captivating."
+    }
+  ],
+  "similar_questions": [
+    "Do you think it's important for children to learn about plants?",
+    "What other things did you grow?"
+  ]
+}

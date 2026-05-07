@@ -1,0 +1,37 @@
+{
+  "q": "Describe a book you read that you found useful",
+  "cue_card": [
+    "What the book is",
+    "When you read it",
+    "What it is about",
+    "And explain why you found it useful"
+  ],
+  "examiner_note": "Tập trung vào giá trị thực tế của cuốn sách (kiến thức, kỹ năng, thay đổi tư duy).",
+  "samples": {
+    "band7": "I recently read 'Atomic Habits' by James Clear. It's about small changes that lead to remarkable results. I found it useful because it gave me a simple framework to build better habits and break bad ones. For example, I started reading for 15 minutes every night, and it's really improved my focus.",
+    "band8": "I'd like to talk about a book titled 'Atomic Habits' which I delved into a few months ago. It's essentially a guide on how tiny changes in our daily routines can compound into significant personal growth. The reason I found it so beneficial is its practical approach to habit formation. It doesn't just provide theory but offers actionable strategies like 'habit stacking', which has drastically improved my productivity and overall well-being.",
+    "band9": "Without a doubt, the most impactful book I've encountered recently is 'Atomic Habits' by James Clear. It's a profound exploration of human behavior and the cognitive mechanics behind habit formation. What makes it exceptionally useful is the way it deconstructs complex psychological concepts into manageable steps. By implementing Clear's 'Four Laws of Behavior Change', I've managed to overhaul my lifestyle, fostering a much more disciplined and goal-oriented mindset. It's a testament to the power of incremental progress."
+  },
+  "v": [
+    {
+      "word": "impactful",
+      "ipa": "/ɪmˈpæktfl/",
+      "meaning": "có ảnh hưởng mạnh mẽ",
+      "example": "It was an impactful speech."
+    },
+    {
+      "word": "habit formation",
+      "ipa": "/ˈhæbɪt fɔːrˈmeɪʃn/",
+      "meaning": "sự hình thành thói quen",
+      "example": "Understanding habit formation is key to success."
+    },
+    {
+      "word": "actionable",
+      "ipa": "/ˈækʃənəbl/",
+      "meaning": "có thể thực hiện được",
+      "example": "The book provides actionable advice."
+    }
+  ],
+  "topic": "Describe a book you read that you found useful",
+  "id": "p2_q29"
+}

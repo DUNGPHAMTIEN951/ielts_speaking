@@ -1,0 +1,76 @@
+{
+  "id": "q_4",
+  "vocab": [
+    {
+      "word": "wile away",
+      "ipa": "/waɪl əˈweɪ/",
+      "meaning": "thong thả dành thời gian làm gì đó cho khuây khỏa",
+      "example": "On rainy Sundays, I love to wile away the hours sketching in my notebook while listening to lo-fi beats.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take up with",
+      "ipa": "/teɪk ʌp wɪð/",
+      "meaning": "trở nên cực kỳ bận rộn hoặc bị cuốn hút vào một hoạt động mới",
+      "example": "Recently, I've been completely taken up with learning how to produce electronic music on my laptop.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spark off",
+      "ipa": "/spɑːk ɒf/",
+      "meaning": "khơi mào hoặc tạo ra một sự hứng khởi/sáng tạo",
+      "example": "Visiting a local craft fair really sparked off my interest in traditional pottery as a potential hobby.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down to",
+      "ipa": "/ˈnʌk.əl daʊn tuː/",
+      "meaning": "bắt đầu làm việc gì đó một cách nghiêm túc và quyết tâm",
+      "example": "When I have a free weekend, I like to knuckle down to some serious coding projects just for fun.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dip into",
+      "ipa": "/dɪp ˈɪn.tuː/",
+      "meaning": "đọc hoặc thực hiện điều gì đó một cách ngẫu hứng, không theo trình tự",
+      "example": "I enjoy dipping into various historical biographies whenever I need a break from my professional studies.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lash out on",
+      "ipa": "/læʃ aʊt ɒn/",
+      "meaning": "chi một số tiền lớn vào thứ gì đó (thường là thiết bị cho sở thích)",
+      "example": "I finally decided to lash out on a high-end carbon fiber bike to take my cycling hobby to the next level.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒ.ər ʌp tuː/",
+      "meaning": "đạt được tiêu chuẩn hoặc kỳ vọng mà mình tự đặt ra",
+      "example": "It took months of practice before my baking skills finally started to measure up to the recipes in my favorite cookbook.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toy with",
+      "ipa": "/tɔɪ wɪð/",
+      "meaning": "cân nhắc một ý tưởng hoặc sở thích một cách không quá nghiêm túc",
+      "example": "I've been toying with the idea of joining a local theater group to improve my public speaking and meet new people.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "thư giãn dần dần sau một thời gian làm việc căng thẳng",
+      "example": "Gardening is my preferred way to wind down after a long day at the office; it's incredibly therapeutic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set apart",
+      "ipa": "/set əˈpɑːt/",
+      "meaning": "dành riêng (thời gian hoặc không gian) cho một mục đích cụ thể",
+      "example": "I always try to set apart at least thirty minutes every evening for meditation to keep my mind sharp.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

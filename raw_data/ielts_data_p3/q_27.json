@@ -1,0 +1,52 @@
+{
+  "id": "q_27",
+  "topic": "Shoes",
+  "q": "Have you ever bought shoes online?",
+  "examiner_note": "Nói về ưu và nhược điểm (fit vs convenience). Sử dụng 'risky', 'sizing guide', 'return policy', 'convenience'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I have. While it can be a bit risky in terms of fit, the wider selection and often better prices make it a tempting option. I always make sure to check the sizing guide and return policy before purchasing anything.",
+      "note": "Sử dụng cấu trúc câu phức (While...) và từ vựng tốt (risky, selection, tempting)."
+    },
+    "band8": {
+      "text": "I’ve bought shoes online a few times, primarily for the convenience and the ability to compare prices easily. However, I’m always a bit apprehensive about the sizing, as different brands can vary significantly. I’ve had to return a couple of pairs in the past due to an improper fit.",
+      "note": "Sử dụng từ vựng hay (primarily, apprehensive, vary significantly, improper)."
+    },
+    "band9": {
+      "text": "I frequently utilize online platforms for shoe shopping, as they offer an unparalleled variety of styles and sizes that are often unavailable in local stores. While the risk of an incorrect fit is always present, I find that thorough research into customer reviews and a clear understanding of the brand's sizing typically mitigates this concern. The ease of home delivery is a significant advantage.",
+      "note": "Sử dụng từ vựng ở mức độ cao (unparalleled, unavailable, present, mitigates)."
+    }
+  },
+  "v": [
+    {
+      "word": "apprehensive",
+      "meaning": "lo lắng/e ngại",
+      "ipa": "/ˌæprɪˈhensɪv/",
+      "example": "I'm a bit apprehensive about the interview."
+    },
+    {
+      "word": "mitigate",
+      "meaning": "giảm nhẹ/giảm thiểu",
+      "ipa": "/ˈmɪtɪɡeɪt/",
+      "example": "The government is trying to mitigate the effects of the crisis."
+    },
+    {
+      "word": "unparalleled",
+      "meaning": "không gì sánh bằng/vô song",
+      "ipa": "/ʌnˈpærəleld/",
+      "example": "The museum has an unparalleled collection of ancient art."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "significant",
+      "meaning": "đáng kể/quan trọng",
+      "ipa": "/sɪɡˈnɪfɪkənt/",
+      "example": "There has been a significant increase in sales."
+    }
+  ],
+  "similar_questions": [
+    "What are the risks of online shopping?",
+    "Do you prefer shopping in-store or online?"
+  ]
+}

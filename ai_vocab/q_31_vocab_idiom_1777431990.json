@@ -1,0 +1,76 @@
+{
+  "id": "q_31",
+  "vocab": [
+    {
+      "word": "splash out on",
+      "ipa": "/splæʃ aʊt ɒn/",
+      "meaning": "chi tiền mạnh tay vào thứ gì đó (thường là xa xỉ)",
+      "example": "I'm usually frugal, but I decided to splash out on a pair of designer leather boots last month.",
+      "type": "idiom"
+    },
+    {
+      "word": "a king's ransom",
+      "ipa": "/ə kɪŋz ˈrænsəm/",
+      "meaning": "một số tiền cực kỳ lớn",
+      "example": "While some limited-edition sneakers cost a king's ransom, I prefer keeping my spending within a reasonable limit.",
+      "type": "idiom"
+    },
+    {
+      "word": "tighten one's belt",
+      "ipa": "/ˈtaɪtn wʌnz belt/",
+      "meaning": "thắt lưng buộc bụng, tiết kiệm chi tiêu",
+      "example": "I’ve had to tighten my belt recently, so I haven't bought any new footwear for over six months.",
+      "type": "idiom"
+    },
+    {
+      "word": "break the bank",
+      "ipa": "/breɪk ðə bæŋk/",
+      "meaning": "tốn quá nhiều tiền, làm khánh kiệt tài chính",
+      "example": "I look for high-quality shoes that are durable but won't necessarily break the bank.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep track of",
+      "ipa": "/kiːp træk əv/",
+      "meaning": "theo dõi sát sao (chi tiêu)",
+      "example": "I try to keep track of my monthly expenses, so I rarely overspend on impulsive shoe purchases.",
+      "type": "idiom"
+    },
+    {
+      "word": "to the tune of",
+      "ipa": "/tə ðə tjuːn əv/",
+      "meaning": "lên tới con số (thường là một số tiền lớn)",
+      "example": "Every year, I probably invest in footwear to the tune of five hundred dollars.",
+      "type": "idiom"
+    },
+    {
+      "word": "pay through the nose",
+      "ipa": "/peɪ θruː ðə nəʊz/",
+      "meaning": "trả một giá quá đắt, bị chém giá",
+      "example": "If you buy shoes at the airport, you’ll likely pay through the nose compared to high street prices.",
+      "type": "idiom"
+    },
+    {
+      "word": "be rolling in it",
+      "ipa": "/bi ˈrəʊlɪŋ ɪn ɪt/",
+      "meaning": "rất giàu có, tiền tiêu không hết",
+      "example": "I’m not exactly rolling in it, so I wait for the end-of-season sales to grab a bargain.",
+      "type": "idiom"
+    },
+    {
+      "word": "worth every penny",
+      "ipa": "/wɜːθ ˈevri ˈpeni/",
+      "meaning": "đáng đồng tiền bát gạo",
+      "example": "These running shoes were expensive, but given their comfort and support, they were worth every penny.",
+      "type": "idiom"
+    },
+    {
+      "word": "save for a rainy day",
+      "ipa": "/seɪv fər ə ˈreɪni deɪ/",
+      "meaning": "tiết kiệm cho những lúc khó khăn/cần kíp",
+      "example": "Instead of buying a new pair every month, I prefer to save for a rainy day and only shop when necessary.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

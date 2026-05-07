@@ -1,0 +1,76 @@
+{
+  "id": "q_12",
+  "vocab": [
+    {
+      "word": "get away from it all",
+      "ipa": "/ɡet əˈweɪ frəm ɪt ɔːl/",
+      "meaning": "thoát khỏi mọi sự xô bồ, áp lực cuộc sống",
+      "example": "I gravitate towards the mountains because they offer a perfect chance to get away from it all and clear my head.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out onto",
+      "ipa": "/lʊk aʊt ˈɒntə/",
+      "meaning": "có tầm nhìn hướng ra (biển, thung lũng...)",
+      "example": "There is nothing more soul-soothing than staying in a cabin that looks out onto a vast, emerald ocean.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊvə(r)/",
+      "meaning": "ngẫm nghĩ, suy ngẫm về điều gì đó",
+      "example": "The rhythmic sound of the waves provides the ideal backdrop for me to mull over my future plans.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off",
+      "ipa": "/set ɒf/",
+      "meaning": "khởi hành, bắt đầu một chuyến đi",
+      "example": "I love the anticipation of setting off for a coastal drive just as the sun begins to rise.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "perch on",
+      "ipa": "/pɜːtʃ ɒn/",
+      "meaning": "đứng ở trên cao, nằm chênh vênh trên (vách đá, đỉnh núi)",
+      "example": "I’m quite fond of trekking up to a high peak and perching on a rock to watch the world below.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "thư giãn sau một thời gian làm việc mệt mỏi",
+      "example": "Whenever I feel burnt out, a trip to the seaside helps me wind down and regain my inner peace.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift along",
+      "ipa": "/drɪft əˈlɒŋ/",
+      "meaning": "trôi dạt, đi thong dong (thường chỉ sự thư thái)",
+      "example": "I enjoy drifting along the shoreline, picking up seashells and letting my mind wander.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tower over",
+      "ipa": "/ˈtaʊə(r) ˈəʊvə(r)/",
+      "meaning": "cao sừng sững, vượt lên trên hẳn những thứ khác",
+      "example": "I find the way the massive cliffs tower over the sea to be an incredibly humbling sight.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "slope down",
+      "ipa": "/sləʊp daʊn/",
+      "meaning": "nghiêng xuống, dốc xuống",
+      "example": "I prefer landscapes where the pine forests slope down gently to meet the edge of a crystal-clear lake.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spring up",
+      "ipa": "/sprɪŋ ʌp/",
+      "meaning": "xuất hiện bất ngờ, mọc lên",
+      "example": "I love how quaint little villages often spring up in the most unexpected corners of a mountain range.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

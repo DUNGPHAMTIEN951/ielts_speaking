@@ -1,0 +1,76 @@
+{
+  "id": "q_4",
+  "vocab": [
+    {
+      "word": "bounce off",
+      "ipa": "/baʊns ɒf/",
+      "meaning": "trao đổi ý tưởng hoặc năng lượng với người khác",
+      "example": "In team sports, you can bounce ideas off your teammates to refine your strategy, whereas in solo sports, you are in your own head.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cheer on",
+      "ipa": "/tʃɪər ɒn/",
+      "meaning": "cổ vũ, khích lệ",
+      "example": "There is a unique sense of camaraderie when you are cheering on a fellow player who is struggling during a match.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒ.ər ʌp tuː/",
+      "meaning": "đạt tới tiêu chuẩn hoặc kỳ vọng của ai đó",
+      "example": "In individual sports, you only have to measure up to your own benchmarks rather than worrying about letting a whole team down.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "single out",
+      "ipa": "/ˈsɪŋ.ɡəl aʊt/",
+      "meaning": "chọn ra một người để khen ngợi hoặc phê bình",
+      "example": "Individual athletes are often singled out for their brilliance, while in team sports, the glory is shared among everyone.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dựa vào cái gì đó khi các phương án khác thất bại",
+      "example": "When a tennis player's serve isn't working, they have no teammates to fall back on; they must solve the problem solo.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gel with",
+      "ipa": "/dʒel wɪð/",
+      "meaning": "phối hợp ăn ý, hòa nhập tốt với một nhóm",
+      "example": "It takes months of practice for a new signing to truly gel with the rest of the squad on the pitch.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "step up",
+      "ipa": "/step ʌp/",
+      "meaning": "nâng cao nỗ lực hoặc tinh thần trách nhiệm",
+      "example": "When a star player is injured, someone else in the team has to step up and fill that void.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drive at",
+      "ipa": "/draɪv æt/",
+      "meaning": "nhắm đến, hướng tới một mục tiêu cụ thể",
+      "example": "What individual sports drive at is total self-mastery and peak personal performance.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "weed out",
+      "ipa": "/wiːd aʊt/",
+      "meaning": "loại bỏ những thứ không phù hợp hoặc yếu kém",
+      "example": "The intense pressure of individual competition often weeds out those who lack the psychological stamina to stand alone.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bank on",
+      "ipa": "/bæŋk ɒn/",
+      "meaning": "trông cậy vào, kỳ vọng vào điều gì",
+      "example": "You can't always bank on a teammate to save the day; eventually, you have to take responsibility for your own play.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

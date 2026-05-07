@@ -1,0 +1,72 @@
+{
+  "id": "q_1",
+  "topic": "Hobbies",
+  "q": "Do you have the same hobbies as your family members?",
+  "examiner_note": "Đối với câu hỏi này, giám khảo muốn kiểm tra khả năng so sánh và đối chiếu (Comparison & Contrast) của bạn. Bạn không nhất thiết phải trả lời 'Yes'. Hãy tập trung vào việc mô tả sự tương đồng hoặc khác biệt về sở thích giữa các thành viên. Sử dụng các cấu trúc như 'share a common interest', 'drift apart', hoặc 'take after someone' để nâng điểm Lexical Resource.",
+  "samples": {
+    "band7": {
+      "text": "Actually, we have quite different interests. My father is really into gardening and building things, whereas I prefer more sedentary activities like reading or gaming. However, we do all enjoy traveling together during the holidays, which is a common hobby for the whole family.",
+      "note": "Trả lời trực tiếp, có sự đối chiếu rõ ràng giữa sở thích của bản thân và gia đình. Sử dụng tốt các từ nối như 'whereas' và 'however'."
+    },
+    "band8": {
+      "text": "I’d say there's a bit of a mix. I definitely take after my mother when it comes to a love for literature and art. We can spend hours discussing books. On the other hand, my brother and father are total sports enthusiasts, which is something I’ve never really connected with. So, while there are some overlaps, we mostly have our own distinct ways of unwinding.",
+      "note": "Sử dụng các cụm từ tự nhiên như 'take after', 'sports enthusiasts', 'overlaps'. Cấu trúc câu phức tạp và mạch lạc."
+    },
+    "band9": {
+      "text": "In all honesty, our family's leisure pursuits are quite polarized. While I've inherited a penchant for creative arts and solitary hobbies from my maternal side, the rest of my family tends to gravitate towards high-energy, outdoor activities. That being said, we do share a collective passion for culinary exploration, so we often bond over trying out exotic recipes during the weekends. It's a nice way to bridge the gap between our otherwise disparate interests.",
+      "note": "Vốn từ vựng cực kỳ phong phú và học thuật (penchant, maternal side, gravitate towards, culinary exploration, disparate). Cách diễn đạt hết sức tự nhiên và uyển chuyển."
+    }
+  },
+  "v": [
+    { "word": "take after someone", "meaning": "giống ai đó (về tính cách/sở thích)", "ipa": "/teɪk ˈæftər/", "example": "I take after my mother; we both love painting." },
+    { "word": "share a common interest", "meaning": "có chung sở thích", "ipa": "/ʃer ə ˈkɑːmən ˈɪntrəst/", "example": "My brother and I share a common interest in football." },
+    { "word": "sedentary activities", "meaning": "các hoạt động ít vận động", "ipa": "/ˈsednteri ækˈtɪvətiz/", "example": "I prefer sedentary activities like reading over playing sports." },
+    { "word": "sports enthusiast", "meaning": "người đam mê thể thao", "ipa": "/spɔːrts ɪnˈθuːziæst/", "example": "My father is a total sports enthusiast." },
+    { "word": "unwind", "meaning": "thư giãn", "ipa": "/ˌʌnˈwaɪnd/", "example": "Music helps me unwind after a long day at work." },
+    { "word": "leisure pursuits", "meaning": "các hoạt động giải trí", "ipa": "/ˈliːʒər pərˈsuːts/", "example": "Our family has very different leisure pursuits." },
+    { "word": "polarized", "meaning": "trái ngược nhau", "ipa": "/ˈpoʊləraɪzd/", "example": "The hobbies in my family are quite polarized." },
+    { "word": "penchant for", "meaning": "sở thích đặc biệt cho cái gì", "ipa": "/ˈpentʃənt fɔːr/", "example": "I have a penchant for classical music." },
+    { "word": "gravitate towards", "meaning": "có xu hướng thiên về", "ipa": "/ˈɡrævɪteɪt təˈwɔːrdz/", "example": "Young people tend to gravitate towards digital hobbies." },
+    { "word": "culinary exploration", "meaning": "khám phá ẩm thực", "ipa": "/ˈkʌlɪneri ˌekspləˈreɪʃn/", "example": "We bond over our shared love for culinary exploration." },
+    { "word": "bridge the gap", "meaning": "thu hẹp khoảng cách", "ipa": "/brɪdʒ ðə ɡæp/", "example": "Cooking together helps bridge the gap between generations." },
+    { "word": "disparate interests", "meaning": "sở thích khác biệt hẳn nhau", "ipa": "/ˈdɪspərət ˈɪntrəsts/", "example": "Despite our disparate interests, we are a close family." },
+    { "word": "be into something", "meaning": "thích/đam mê cái gì", "ipa": "/bi ˈɪntuː/", "example": "My dad is really into vintage cars." },
+    { "word": "pass down", "meaning": "truyền lại", "ipa": "/pæs daʊn/", "example": "The love for embroidery was passed down from my grandmother." },
+    { "word": "bond over", "meaning": "kết nối thông qua cái gì", "ipa": "/bɑːnd ˈoʊvər/", "example": "We often bond over watching old movies." },
+    { "word": "get a kick out of", "meaning": "cực kỳ thích thú với cái gì", "ipa": "/ɡet ə kɪk aʊt əv/", "example": "I get a kick out of solving complex puzzles." },
+    { "word": "have a whale of a time", "meaning": "có một khoảng thời gian tuyệt vời", "ipa": "/hæv ə weɪl əv ə taɪm/", "example": "We had a whale of a time at the family reunion." },
+    { "word": "be a fan of", "meaning": "là người hâm mộ của", "ipa": "/bi ə fæn əv/", "example": "I've never been a big fan of outdoor activities." },
+    { "word": "keep fit", "meaning": "giữ dáng/giữ sức khỏe", "ipa": "/kiːp fɪt/", "example": "Swimming is a great way to keep fit." },
+    { "word": "pick up a hobby", "meaning": "bắt đầu một sở thích mới", "ipa": "/pɪk ʌp ə ˈhɑːbi/", "example": "I decided to pick up photography last summer." },
+    { "word": "lose oneself in", "meaning": "đắm chìm vào", "ipa": "/luːz wʌnˈself ɪn/", "example": "I can lose myself in a good book for hours." },
+    { "word": "do something for fun", "meaning": "làm gì đó để giải trí", "ipa": "/du ˈsʌmθɪŋ fɔːr fʌn/", "example": "I just play the guitar for fun, not professionally." },
+    { "word": "find something relaxing", "meaning": "thấy cái gì đó thư giãn", "ipa": "/faɪnd ˈsʌmθɪŋ rɪˈlæksɪŋ/", "example": "Many people find gardening incredibly relaxing." },
+    { "word": "creative outlet", "meaning": "nơi để giải tỏa sự sáng tạo", "ipa": "/kriˈeɪtɪv ˈaʊtlet/", "example": "Painting serves as a great creative outlet for me." },
+    { "word": "kill time", "meaning": "giết thời gian", "ipa": "/kɪl taɪm/", "example": "I play games on my phone just to kill time." },
+    { "word": "worthwhile activity", "meaning": "hoạt động đáng giá", "ipa": "/ˌwɜːrθˈwaɪl ækˈtɪvəti/", "example": "Volunteering is a very worthwhile activity." },
+    { "word": "flick through", "meaning": "đọc lướt qua", "ipa": "/flɪk θruː/", "example": "I like to flick through fashion magazines in my spare time." },
+    { "word": "go for a stroll", "meaning": "đi dạo", "ipa": "/ɡoʊ fɔːr ə stroʊl/", "example": "My grandparents love to go for a stroll in the park." },
+    { "word": "catch a movie", "meaning": "đi xem phim", "ipa": "/kætʃ ə ˈmuːvi/", "example": "We often catch a movie on Friday nights." },
+    { "word": "hang out with friends", "meaning": "đi chơi với bạn bè", "ipa": "/hæŋ aʊt wɪð frendz/", "example": "Most teens prefer hanging out with friends over staying home." },
+    { "word": "be fond of", "meaning": "thích cái gì đó", "ipa": "/bi fɑːnd əv/", "example": "My sister is very fond of animals." },
+    { "word": "keen on", "meaning": "đam mê/thích", "ipa": "/kiːn ɑːn/", "example": "I'm not particularly keen on team sports." },
+    { "word": "broaden one's horizon", "meaning": "mở rộng tầm hiểu biết", "ipa": "/ˈbrɔːdn wʌnz həˈraɪzn/", "example": "Traveling helps broaden your horizons." },
+    { "word": "take up", "meaning": "bắt đầu (một môn thể thao/sở thích)", "ipa": "/teɪk ʌp/", "example": "I'm thinking of taking up yoga." },
+    { "word": "couch potato", "meaning": "người lười biếng chỉ thích dán mắt vào TV", "ipa": "/ˈkaʊtʃ pəˌteɪtoʊ/", "example": "My brother used to be a couch potato before he started gymming." },
+    { "word": "all the rage", "meaning": "rất phổ biến/thịnh hành", "ipa": "/ɔːl ðə reɪdʒ/", "example": "Vintage clothing is all the rage these days." },
+    { "word": "once in a blue moon", "meaning": "rất hiếm khi", "ipa": "/wʌns ɪn ə bluː muːn/", "example": "We go to the theater once in a blue moon." },
+    { "word": "piece of cake", "meaning": "dễ như ăn bánh", "ipa": "/piːs əv keɪk/", "example": "For him, fixing computers is a piece of cake." },
+    { "word": "cup of tea", "meaning": "sở thích/thứ mình thích", "ipa": "/kʌp əv tiː/", "example": "Horror movies are not really my cup of tea." },
+    { "word": "over the moon", "meaning": "cực kỳ hạnh phúc", "ipa": "/ˈoʊvər ðə muːn/", "example": "I was over the moon when I won the competition." },
+    { "word": "burn the midnight oil", "meaning": "thức khuya làm việc/học tập", "ipa": "/bɜːrn ðə ˈmɪdnaɪt ɔɪl/", "example": "I had to burn the midnight oil to finish my painting." },
+    { "word": "ball is in your court", "meaning": "quyết định nằm trong tay bạn", "ipa": "/bɔːl ɪz ɪn jɔːr kɔːrt/", "example": "I've suggested some hobbies, now the ball is in your court." },
+    { "word": "break the ice", "meaning": "phá vỡ sự ngại ngùng ban đầu", "ipa": "/breɪk ðə aɪs/", "example": "Playing a board game is a good way to break the ice." },
+    { "word": "hit the gym", "meaning": "đi tập gym", "ipa": "/hɪt ðə dʒɪm/", "example": "I try to hit the gym at least three times a week." },
+    { "word": "go extreme", "meaning": "thử các trò mạo hiểm", "ipa": "/ɡoʊ ɪkˈstriːm/", "example": "My cousin loves to go extreme with skydiving." },
+    { "word": "social butterfly", "meaning": "người giao thiệp rộng", "ipa": "/ˈsoʊʃl ˈbʌtərflaɪ/", "example": "Being a social butterfly, she attends every party." },
+    { "word": "recharge one's batteries", "meaning": "nạp lại năng lượng", "ipa": "/ˌriːˈtʃɑːrdʒ wʌnz ˈbætəriz/", "example": "Weekend trips are essential to recharge my batteries." },
+    { "word": "in the blink of an eye", "meaning": "trong chớp mắt", "ipa": "/ɪn ðə blɪŋk əv ən aɪ/", "example": "The holidays passed in the blink of an eye." },
+    { "word": "cost an arm and a leg", "meaning": "rất đắt đỏ", "ipa": "/kɔːst ən ɑːrm ənd ə leɡ/", "example": "Photography gear can cost an arm and a leg." },
+    { "word": "give it a shot", "meaning": "thử làm cái gì đó", "ipa": "/ɡɪv ɪt ə ʃɑːt/", "example": "I don't know if I'll like surfing, but I'll give it a shot." }
+  ]
+}

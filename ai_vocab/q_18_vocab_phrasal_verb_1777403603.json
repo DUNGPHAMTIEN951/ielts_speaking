@@ -1,0 +1,76 @@
+{
+  "id": "q_18",
+  "vocab": [
+    {
+      "word": "keep to oneself",
+      "ipa": "/kiːp tuː wʌnˈself/",
+      "meaning": "sống khép kín, ít giao tiếp với người khác",
+      "example": "As a child, I tended to keep to myself and spend hours reading in my room rather than playing outside.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get on with",
+      "ipa": "/ɡet ɒn wɪð/",
+      "meaning": "hòa hợp với ai đó",
+      "example": "I generally got on with my peers, but I still valued my alone time to explore my own hobbies.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "come out of one's shell",
+      "ipa": "/kʌm aʊt əv wʌnz ʃel/",
+      "meaning": "trở nên dạn dĩ, cởi mở hơn",
+      "example": "It took me a few years of primary school to finally come out of my shell and start enjoying group activities.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fit in",
+      "ipa": "/fɪt ɪn/",
+      "meaning": "hòa nhập vào một nhóm",
+      "example": "I often found it difficult to fit in with the more athletic kids, so I preferred playing solo games.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mix with",
+      "ipa": "/mɪks wɪð/",
+      "meaning": "giao lưu, tiếp xúc với nhiều người",
+      "example": "My parents always encouraged me to mix with other children at the park to improve my social skills.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hang out with",
+      "ipa": "/hæŋ aʊt wɪð/",
+      "meaning": "đi chơi, dành thời gian cùng ai đó",
+      "example": "I used to hang out with a small group of close friends instead of being part of a large crowd.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "be bogged down in",
+      "ipa": "/biː bɒɡd daʊn ɪn/",
+      "meaning": "bị sa lầy/đắm chìm quá mức vào cái gì",
+      "example": "I would often get bogged down in my own imaginative world, completely oblivious to the other kids around me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "join in",
+      "ipa": "/dʒɔɪn ɪn/",
+      "meaning": "tham gia vào (một hoạt động đang diễn ra)",
+      "example": "Whenever there was a football match, I was always the last one to join in because I was quite shy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại (quá khứ)",
+      "example": "Looking back on my childhood, I realize that I was much more of a lone wolf than a social butterfly.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shied away from",
+      "ipa": "/ʃaɪd əˈweɪ frɒm/",
+      "meaning": "né tránh (vì thiếu tự tin hoặc sợ hãi)",
+      "example": "I often shied away from team sports because I was afraid of making mistakes in front of others.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

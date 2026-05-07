@@ -1,0 +1,52 @@
+{
+  "id": "q_20",
+  "topic": "Arts and Drawing",
+  "q": "Do you like looking at drawings or paintings?",
+  "examiner_note": "Nói về cảm xúc khi xem tranh. Sử dụng 'rewarding', 'analyze techniques', 'silent conversation', 'transported'.",
+  "samples": {
+    "band7": {
+      "text": "I do. I find it very rewarding to analyze the techniques and emotions that an artist has put into their work. It’s like having a silent conversation with the creator across time and space. It makes me feel more connected to human history.",
+      "note": "Sử dụng ẩn dụ tốt (silent conversation) và giải thích ý nghĩa."
+    },
+    "band8": {
+      "text": "Definitely. I find that a well-executed painting has the power to transport me to a different place or time. I appreciate the way artists use light and color to evoke specific moods and tell stories without using any words. It’s a very evocative and enriching experience.",
+      "note": "Sử dụng từ vựng hay (well-executed, transport, evoke, evocative, enriching)."
+    },
+    "band9": {
+      "text": "I find immense pleasure in the contemplation of visual art. There’s something deeply satisfying about deciphering the layers of meaning and the technical prowess behind a compelling painting. It’s an intellectual and emotional journey that often provides a fresh perspective on the complexities of the human experience.",
+      "note": "Sử dụng từ vựng ở mức độ cao nhất (contemplation, deciphering, technical prowess, complexities)."
+    }
+  },
+  "v": [
+    {
+      "word": "evocative",
+      "meaning": "gợi lên/gợi nhớ",
+      "ipa": "/ɪˈvɑːkətɪv/",
+      "example": "The music was very evocative of the seaside."
+    },
+    {
+      "word": "decipher",
+      "meaning": "giải mã",
+      "ipa": "/dɪˈsaɪfər/",
+      "example": "I'm trying to decipher his handwriting."
+    },
+    {
+      "word": "contemplation",
+      "meaning": "sự trầm ngâm/suy ngẫm",
+      "ipa": "/ˌkɑːntəmˈpleɪʃn/",
+      "example": "He spent the day in quiet contemplation."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "prowess",
+      "meaning": "sự dũng mãnh/kỹ năng điêu luyện",
+      "ipa": "/ˈpraʊəs/",
+      "example": "He is famous for his physical prowess."
+    }
+  ],
+  "similar_questions": [
+    "What is your favorite painting?",
+    "Why do people buy paintings to hang in their homes?"
+  ]
+}

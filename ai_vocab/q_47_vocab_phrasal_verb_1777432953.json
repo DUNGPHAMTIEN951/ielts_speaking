@@ -1,0 +1,76 @@
+{
+  "id": "q_47",
+  "vocab": [
+    {
+      "word": "spruce up",
+      "ipa": "/spruːs ʌp/",
+      "meaning": "làm cho sạch đẹp, chỉnh trang lại",
+      "example": "The local council really needs to spruce up the abandoned lot downtown and turn it into a vibrant community garden.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊ.pən ʌp/",
+      "meaning": "mở rộng không gian, tạo thêm cơ hội tiếp cận",
+      "example": "Opening up more green belts near residential areas would significantly improve the air quality and aesthetic of our neighborhood.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spring up",
+      "ipa": "/sprɪŋ ʌp/",
+      "meaning": "mọc lên nhanh chóng",
+      "example": "I've noticed several small pocket parks springing up lately, which provides a lovely escape from the concrete jungle.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cater to",
+      "ipa": "/ˈkeɪ.tər tuː/",
+      "meaning": "phục vụ cho nhu cầu của một nhóm đối tượng cụ thể",
+      "example": "I’d love to see more public squares that cater to the elderly, providing them with safe spaces to socialize and exercise.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set aside",
+      "ipa": "/set əˈsaɪd/",
+      "meaning": "dành riêng ra (đất đai, ngân sách) cho một mục đích",
+      "example": "The government should set aside more land for communal recreation instead of constantly approving high-rise developments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cluster around",
+      "ipa": "/ˈklʌs.tər əˈraʊnd/",
+      "meaning": "tập trung lại xung quanh một khu vực",
+      "example": "Public amenities tend to cluster around the city center, leaving those of us in the outskirts feeling a bit neglected.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "freshen up",
+      "ipa": "/ˈfreʃ.ən ʌp/",
+      "meaning": "làm mới, thay đổi diện mạo cho bớt nhàm chán",
+      "example": "Adding some modern art installations would definitely freshen up the dull pedestrian walkways in my area.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear away",
+      "ipa": "/klɪər əˈweɪ/",
+      "meaning": "dọn dẹp sạch sẽ (những thứ không cần thiết)",
+      "example": "If they cleared away the debris from the old factory site, it could be repurposed as a fantastic public sports complex.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blend in",
+      "ipa": "/blend ɪn/",
+      "meaning": "hòa hợp với môi trường xung quanh",
+      "example": "New public benches and shelters should blend in with the natural landscape rather than looking like eyesores.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring together",
+      "ipa": "/brɪŋ təˈɡeð.ər/",
+      "meaning": "kết nối mọi người, tạo sự gắn kết",
+      "example": "Well-maintained public spaces are essential because they bring together people from all walks of life.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

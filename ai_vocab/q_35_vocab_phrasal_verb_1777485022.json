@@ -1,0 +1,76 @@
+{
+  "id": "q_35",
+  "vocab": [
+    {
+      "word": "sprout up",
+      "ipa": "/spraʊt ʌp/",
+      "meaning": "nảy mầm, mọc lên nhanh chóng",
+      "example": "I remember the pure excitement of seeing the first tiny green shoots sprout up from the soil after weeks of waiting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "die off",
+      "ipa": "/daɪ ɒf/",
+      "meaning": "chết dần chết mòn (thường nói về cả một nhóm cây hoặc cành)",
+      "example": "Unfortunately, during a particularly harsh heatwave, most of my delicate seedlings began to die off.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "thrive on",
+      "ipa": "/θraɪv ɒn/",
+      "meaning": "phát triển mạnh mẽ nhờ vào cái gì đó",
+      "example": "The ferns we planted in the shaded corner of the garden seemed to thrive on the damp and cool conditions there.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shoot up",
+      "ipa": "/ʃuːt ʌp/",
+      "meaning": "lớn nhanh như thổi, tăng vọt về chiều cao",
+      "example": "Once we added some organic compost, the sunflowers started to shoot up, eventually reaching higher than the fence.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dry out",
+      "ipa": "/draɪ aʊt/",
+      "meaning": "khô cạn, bị héo do thiếu nước",
+      "example": "I had to be very careful not to let the potting mix dry out completely during the peak of summer.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring in",
+      "ipa": "/brɪŋ ɪn/",
+      "meaning": "mang vào trong nhà (để bảo vệ khỏi thời tiết)",
+      "example": "When the storm clouds gathered, I’d quickly bring in my small pots of herbs to keep them safe from the heavy downpour.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut off",
+      "ipa": "/kʌt ɒf/",
+      "meaning": "cắt bỏ, ngắt bỏ (những phần không cần thiết)",
+      "example": "My grandmother taught me to cut off the withered blooms to encourage the plant to produce more flowers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "help along",
+      "ipa": "/help əˈlɒŋ/",
+      "meaning": "giúp sức, hỗ trợ quá trình phát triển",
+      "example": "I used small wooden stakes to help the climbing beans along as they began to spiral upward.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear away",
+      "ipa": "/klɪər əˈweɪ/",
+      "meaning": "dọn dẹp sạch sẽ (rác, lá rụng, cỏ dại)",
+      "example": "Every weekend, I would clear away the fallen leaves and debris to keep my little garden patch looking tidy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig up",
+      "ipa": "/dɪɡ ʌp/",
+      "meaning": "đào lên, xới lên",
+      "example": "The best part of growing potatoes was the harvest day when I got to dig up the tubers hidden beneath the earth.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_37",
+  "vocab": [
+    {
+      "word": "take up",
+      "ipa": "/teɪk ʌp/",
+      "meaning": "bắt đầu một sở thích mới",
+      "example": "I decided to take up gardening during the lockdown to bring some greenery into my living space.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spruce up",
+      "ipa": "/sprus ʌp/",
+      "meaning": "trang hoàng, làm cho đẹp đẽ/tươi mới hơn",
+      "example": "I bought a few succulent plants to spruce up my study desk and make it feel more inviting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "die off",
+      "ipa": "/daɪ ɔf/",
+      "meaning": "chết dần chết mòn (lần lượt từng cái một)",
+      "example": "To be honest, I'm not very good with flora; most of the herbs I tried to grow ended up dying off due to lack of sunlight.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look after",
+      "ipa": "/lʊk ˈæftər/",
+      "meaning": "chăm sóc",
+      "example": "Having a plant requires a lot of commitment because you have to look after it daily and ensure it’s properly watered.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brighten up",
+      "ipa": "/ˈbraɪtn ʌp/",
+      "meaning": "làm cho rạng rỡ, sáng sủa hơn",
+      "example": "My mother gave me a peace lily, and it really brightens up the dull corner of my living room.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shoot up",
+      "ipa": "/ʃut ʌp/",
+      "meaning": "lớn nhanh như thổi, phát triển nhanh chóng",
+      "example": "I was surprised at how quickly the sunflower seeds I planted began to shoot up after just a week of rain.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "read up on",
+      "ipa": "/rid ʌp ɑn/",
+      "meaning": "tìm hiểu kỹ bằng cách đọc nhiều tài liệu",
+      "example": "Before buying an orchid, I had to read up on its specific care instructions as they are notoriously difficult to keep alive.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stem from",
+      "ipa": "/stem frʌm/",
+      "meaning": "bắt nguồn từ",
+      "example": "My fascination with indoor plants stems from my childhood memories of my grandmother's lush garden.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut back",
+      "ipa": "/kʌt bæk/",
+      "meaning": "tỉa bớt, cắt bớt (cành, lá)",
+      "example": "Every spring, I have to cut back the overgrown ivy on my balcony to keep it looking tidy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toss out",
+      "ipa": "/tɔs aʊt/",
+      "meaning": "vứt bỏ",
+      "example": "It was heartbreaking when I had to toss out my favorite fern because it had become completely withered.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

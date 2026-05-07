@@ -1,0 +1,76 @@
+{
+  "id": "q_32",
+  "vocab": [
+    {
+      "word": "broaden one's horizons",
+      "ipa": "/ˈbrɔː.dən wʌnz həˈraɪ.zənz/",
+      "meaning": "mở rộng tầm hiểu biết/tầm nhìn",
+      "example": "The most captivating aspect of my major is how it constantly broadens my horizons regarding global economic shifts.",
+      "type": "idiom"
+    },
+    {
+      "word": "a mine of information",
+      "ipa": "/ə maɪn əv ˌɪn.fəˈmeɪ.ʃən/",
+      "meaning": "một kho tàng kiến thức",
+      "example": "My professor is a real mine of information, and every lecture feels like discovering a hidden treasure of insights.",
+      "type": "idiom"
+    },
+    {
+      "word": "food for thought",
+      "ipa": "/fuːd fɔːr θɔːt/",
+      "meaning": "điều gì đó gợi suy nghĩ, đáng để suy ngẫm",
+      "example": "The case studies we analyze in class always provide plenty of food for thought about ethical business practices.",
+      "type": "idiom"
+    },
+    {
+      "word": "pick someone's brains",
+      "ipa": "/pɪk ˈsʌm.wʌnz breɪnz/",
+      "meaning": "hỏi ý kiến ai đó (người có kinh nghiệm) để thu thập thông tin",
+      "example": "I love the fact that I can pick the brains of industry experts during our weekly seminars.",
+      "type": "idiom"
+    },
+    {
+      "word": "the best of both worlds",
+      "ipa": "/ðə best əv bəʊθ wɜːldz/",
+      "meaning": "vẹn cả đôi đường/tận dụng được ưu điểm của cả hai thứ",
+      "example": "My course combines theory with hands-on practice, giving me the best of both worlds in terms of learning.",
+      "type": "idiom"
+    },
+    {
+      "word": "get into the swing of things",
+      "ipa": "/ɡet ˈɪn.tuː ðə swɪŋ əv θɪŋz/",
+      "meaning": "bắt đầu quen với nhịp độ công việc/việc học",
+      "example": "Once I got into the swing of things, I found that conducting independent research was the highlight of my studies.",
+      "type": "idiom"
+    },
+    {
+      "word": "come to light",
+      "ipa": "/kʌm tuː laɪt/",
+      "meaning": "được đưa ra ánh sáng/được phát hiện ra",
+      "example": "It is fascinating when new historical evidence comes to light, completely changing our interpretation of the past.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep a level head",
+      "ipa": "/kiːp ə ˈlev.əl hed/",
+      "meaning": "giữ được sự bình tĩnh và tỉnh táo",
+      "example": "Studying psychology has taught me how to keep a level head when dealing with high-pressure situations.",
+      "type": "idiom"
+    },
+    {
+      "word": "a steep learning curve",
+      "ipa": "/ə stiːp ˈlɜː.nɪŋ kɜːv/",
+      "meaning": "một khoảng thời gian học hỏi đầy khó khăn nhưng tiến bộ nhanh",
+      "example": "There was a steep learning curve at the beginning, but mastering those complex algorithms was incredibly satisfying.",
+      "type": "idiom"
+    },
+    {
+      "word": "burn the candle at both ends",
+      "ipa": "/bɜːn ðə ˈkæn.dəl æt bəʊθ endz/",
+      "meaning": "làm việc/học tập cật lực (từ sáng sớm đến đêm khuya)",
+      "example": "Even though I sometimes have to burn the candle at both ends to meet deadlines, the thrill of the breakthrough is worth it.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

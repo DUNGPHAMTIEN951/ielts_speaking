@@ -1,0 +1,76 @@
+{
+  "id": "q_31",
+  "vocab": [
+    {
+      "word": "settle on",
+      "ipa": "/ˈset.əl ɒn/",
+      "meaning": "quyết định chọn cái gì sau khi đã cân nhắc nhiều lựa chọn",
+      "example": "After exploring various fields in social sciences, I finally settled on Psychology as my major.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "có cái gì đó để dựa dẫm vào (kế hoạch dự phòng hoặc kỹ năng nền tảng)",
+      "example": "I chose Computer Science because it's a solid skill set to fall back on in an increasingly digital job market.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear towards",
+      "ipa": "/ɡɪər twɔːdz/",
+      "meaning": "hướng tới một mục tiêu hoặc đối tượng cụ thể",
+      "example": "The curriculum is heavily geared towards practical application, which is exactly what I was looking for in a Business degree.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble across",
+      "ipa": "/ˈstʌm.bəl əˈkrɒs/",
+      "meaning": "tình cờ tìm thấy/biết đến",
+      "example": "I actually stumbled across an article on renewable energy in high school, and it sparked my interest in Environmental Engineering.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "end up",
+      "ipa": "/end ʌp/",
+      "meaning": "cuối cùng thì chọn/ở vào một tình huống nào đó (thường không định trước)",
+      "example": "I originally wanted to study Art, but I ended up in Architecture because it combines creativity with technical precision.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "embark on",
+      "ipa": "/ɪmˈbɑːrk ɒn/",
+      "meaning": "bắt đầu một hành trình mới, một chương mới (thường là học tập hoặc sự nghiệp)",
+      "example": "I felt ready to embark on a challenging journey in Law to fight for social justice.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "delve into",
+      "ipa": "/delv ˈɪn.tuː/",
+      "meaning": "nghiên cứu sâu, tìm hiểu kỹ lưỡng về một vấn đề",
+      "example": "History has always fascinated me because it allows me to delve into the complexities of past civilizations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "narrow down",
+      "ipa": "/ˈnær.əʊ daʊn/",
+      "meaning": "thu hẹp phạm vi lựa chọn",
+      "example": "It took me a long time to narrow down my options, but I eventually realized that Finance was my true calling.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out",
+      "ipa": "/brɑːntʃ aʊt/",
+      "meaning": "mở rộng sang một lĩnh vực mới từ nền tảng sẵn có",
+      "example": "Having a background in Biology, I decided to branch out into Biotechnology to explore the latest medical innovations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒ.ər ʌp tuː/",
+      "meaning": "đạt được kỳ vọng hoặc tiêu chuẩn mong muốn",
+      "example": "I chose this prestigious university because I wanted a program that would measure up to my academic ambitions.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_47",
+  "vocab": [
+    {
+      "word": "bounce ideas off",
+      "ipa": "/baʊns aɪˈdɪəz ɒf/",
+      "meaning": "trao đổi ý tưởng với ai đó để xem chúng có hiệu quả không",
+      "example": "I prefer group study sessions because they allow me to bounce ideas off my peers and gain fresh perspectives.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌk.əl daʊn/",
+      "meaning": "bắt đầu học tập hoặc làm việc một cách nghiêm túc và chăm chỉ",
+      "example": "When exams are looming, I find it much easier to knuckle down if I'm in a quiet library by myself.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "hấp thụ hoặc tiếp thu (kiến thức, thông tin) một cách nhanh chóng",
+      "example": "Studying alone helps me soak up complex information without the constant interruptions of a social setting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "muddle through",
+      "ipa": "/ˈmʌd.əl θruː/",
+      "meaning": "xoay xở để hoàn thành việc gì đó dù gặp khó khăn hoặc thiếu kỹ năng",
+      "example": "If I'm studying a particularly dry subject with friends, we can usually muddle through the difficult chapters together.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sift through",
+      "ipa": "/sɪft θruː/",
+      "meaning": "kiểm tra, xem xét kỹ lưỡng một lượng lớn thông tin để tìm thứ cần thiết",
+      "example": "I need total solitude when I have to sift through dozens of research papers for my final dissertation.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn tập lại để cải thiện kiến thức hoặc kỹ năng đã bị mai một",
+      "example": "Meeting up with a study partner is a fantastic way to brush up on my speaking skills before a language exam.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔːr ˈəʊ.vər/",
+      "meaning": "nghiền ngẫm, đọc hoặc kiểm tra cái gì đó cực kỳ cẩn thận",
+      "example": "I spend hours poring over intricate diagrams in my biology textbook, which is best done in complete silence.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up",
+      "ipa": "/ˈmeʒ.ər ʌp/",
+      "meaning": "đạt được tiêu chuẩn mong muốn hoặc so sánh năng lực với người khác",
+      "example": "Studying with high-achieving classmates pushes me to see if my own knowledge truly measures up to the required level.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spur on",
+      "ipa": "/spɜːr ɒn/",
+      "meaning": "khuyến khích, thúc đẩy ai đó cố gắng hơn",
+      "example": "Having a study buddy really spurs me on to stay focused when my motivation starts to wane in the afternoon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "glance over",
+      "ipa": "/ɡlɑːns ˈəʊ.vər/",
+      "meaning": "đọc lướt qua nhanh chóng",
+      "example": "Before a group discussion, I usually glance over my notes so that I can contribute meaningfully to the conversation.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_23",
+  "vocab": [
+    {
+      "word": "load up on",
+      "ipa": "/loʊd ʌp ɒn/",
+      "meaning": "mang theo thật nhiều (thứ gì đó)",
+      "example": "If I know I'll be out all day, I load up on snacks and a heavy-duty power bank to ensure I stay connected.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "cất kỹ, giấu gọn vào một góc an toàn",
+      "example": "I usually have a spare emergency note tucked away in a hidden compartment of my wallet, just in case.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stock up with",
+      "ipa": "/stɒk ʌp wɪð/",
+      "meaning": "trang bị đầy đủ, chuẩn bị sẵn (đồ dùng)",
+      "example": "My backpack is always stocked up with essentials like wet wipes and a basic first-aid kit.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "travel light",
+      "ipa": "/ˈtrævl laɪt/",
+      "meaning": "mang đồ đạc nhẹ nhàng, không cồng kềnh",
+      "example": "I generally prefer to travel light, so I only carry my phone and a slim cardholder when meeting friends.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "strap on",
+      "ipa": "/stræp ɒn/",
+      "meaning": "đeo vào bằng dây đai (như đồng hồ, ba lô, máy ảnh)",
+      "example": "Before heading out for a hike, I strap on my fitness tracker to keep a close eye on my heart rate and steps.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring along",
+      "ipa": "/brɪŋ əˈlɒŋ/",
+      "meaning": "mang theo bên mình (thường là để dùng cùng người khác hoặc cho dịp cụ thể)",
+      "example": "I often bring along a portable speaker if I’m going to the park for a picnic with my colleagues.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fumble around for",
+      "ipa": "/ˈfʌmbl əˈraʊnd fər/",
+      "meaning": "lúng túng lục tìm (thứ gì đó trong túi)",
+      "example": "I hate having a messy bag because I always end up fumbling around for my lip balm at the most inconvenient times.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clutter up",
+      "ipa": "/ˈklʌtər ʌp/",
+      "meaning": "làm bừa bãi, làm đầy (túi) bằng những thứ linh tinh",
+      "example": "I try to clean out my pockets every night so that old receipts don't clutter up my jacket.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "leave behind",
+      "ipa": "/liːv bɪˈhaɪnd/",
+      "meaning": "bỏ quên hoặc chủ động để lại không mang theo",
+      "example": "One thing I can never afford to leave behind is my pair of noise-canceling earbuds for the commute.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bundle up",
+      "ipa": "/ˈbʌndl ʌp/",
+      "meaning": "gói ghém, bọc kỹ (đồ dễ vỡ hoặc quan trọng trong túi)",
+      "example": "I always bundle up my tablet in a padded sleeve before sliding it into my messenger bag to prevent scratches.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,37 @@
+{
+  "q": "Describe a successful sportsperson you admire",
+  "cue_card": [
+    "Who they are",
+    "What sport they play",
+    "Why they are successful",
+    "And explain why you admire them"
+  ],
+  "examiner_note": "Tập trung vào nỗ lực và tinh thần thể thao của họ.",
+  "samples": {
+    "band7": "I admire Lionel Messi, the famous football player. He is successful because he has incredible natural talent and has worked hard since he was a child. I admire him because he is very humble despite being one of the greatest athletes in history. He's a great role model for young people.",
+    "band8": "I have immense admiration for Lionel Messi, who is widely regarded as one of the greatest footballers of all time. His success is a result of a rare combination of innate genius and relentless hard work. What I truly admire about him is his humility and his sportsmanship on and off the pitch. Despite his global fame, he remains incredibly grounded, which I find very inspiring.",
+    "band9": "The sportsperson I most admire is Lionel Messi. His career is a testament to the heights that can be reached through a synthesis of extraordinary talent and unwavering dedication. Beyond his technical prowess and his numerous accolades, it is his understated character and his resilience in the face of pressure that I find most compelling. He embodies a level of grace and professional integrity that transcends the world of sports, making him a global icon of excellence."
+  },
+  "v": [
+    {
+      "word": "innate genius",
+      "ipa": "/ɪˈneɪt ˈdʒiːniəs/",
+      "meaning": "thiên tài bẩm sinh",
+      "example": "He has an innate genius for music."
+    },
+    {
+      "word": "technical prowess",
+      "ipa": "/ˈteknɪkl ˈpraʊəs/",
+      "meaning": "năng lực kỹ thuật tuyệt vời",
+      "example": "She showed great technical prowess on the piano."
+    },
+    {
+      "word": "sportsmanship",
+      "ipa": "/ˈspɔːrtsmənʃɪp/",
+      "meaning": "tinh thần thể thao",
+      "example": "The fans appreciated his sportsmanship."
+    }
+  ],
+  "topic": "Describe a successful sportsperson you admire",
+  "id": "p2_q36"
+}

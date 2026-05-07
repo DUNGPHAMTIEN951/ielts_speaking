@@ -1,0 +1,72 @@
+{
+  "id": "q_10",
+  "topic": "Scenery",
+  "q": "Do you book rooms that have good views when you go travelling?",
+  "examiner_note": "Giám khảo muốn biết về thói quen du lịch và ưu tiên về chi phí của bạn. Bạn có thể nói rằng mình sẵn sàng chi thêm tiền (extra cost) để có một 'view xịn', hoặc bạn là người thích tiết kiệm vì dành phần lớn thời gian ở ngoài. Hãy sử dụng các thuật ngữ chuyên ngành khách sạn như 'ocean-facing', 'balcony', 'premium' để tăng điểm Lexical Resource.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I usually do. Even if it costs a bit more, having a room with a view—like overlooking the ocean or a city skyline—makes the whole travel experience much more enjoyable and relaxing for me. It’s worth the extra money.",
+      "note": "Trả lời trực tiếp, giải thích được lý do tại sao lại chọn phòng có view (enjoyable, relaxing). Sử dụng tốt cụm từ 'worth the extra money'."
+    },
+    "band8": {
+      "text": "It depends on the nature of the trip, but generally, I’m willing to splurge on a room with a scenic vista. Waking up to a breathtaking view of the mountains or the sea can significantly enhance the holiday vibe. However, if I’m on a budget trip where I’ll be out all day, then a good view becomes less of a priority for me.",
+      "note": "Cấu trúc câu phức hợp, sử dụng từ vựng linh hoạt (splurge, scenic vista, significantly enhance, budget trip, priority). Thể hiện được sự cân nhắc giữa các yếu tố."
+    },
+    "band9": {
+      "text": "Whenever my budget permits, I prioritize booking accommodations that boast an impressive outlook. I find that a well-positioned room with a balcony overlooking a landmark or a natural wonder adds a layer of tranquility to the entire excursion. That being said, I’m also a pragmatist; if the premium for a 'room with a view' is exorbitant, I’d rather allocate those funds towards experiential activities or local culinary explorations.",
+      "note": "Từ vựng cực kỳ học thuật và chính xác (prioritize, boast, impressive outlook, tranquility, excursion, pragmatist, premium, exorbitant, allocate). Cách lập luận rất thực tế và tinh tế."
+    }
+  },
+  "v": [
+    { "word": "splurge on", "meaning": "vung tiền vào cái gì đó", "ipa": "/splɜːrdʒ ɑːn/", "example": "I decided to splurge on a luxury hotel for my anniversary." },
+    { "word": "scenic vista", "meaning": "quang cảnh đẹp/tầm nhìn đẹp", "ipa": "/ˈsiːnɪk ˈvɪstə/", "example": "The resort offers a scenic vista of the emerald bay." },
+    { "word": "enhance the vibe", "meaning": "nâng cao bầu không khí/cảm giác", "ipa": "/ɪnˈhæns ðə vaɪb/", "example": "Live music really helps to enhance the vibe of the restaurant." },
+    { "word": "on a budget", "meaning": "với ngân sách hạn hẹp", "ipa": "/ɑːn ə ˈbʌdʒɪt/", "example": "Traveling on a budget requires careful planning and research." },
+    { "word": "priority", "meaning": "ưu tiên", "ipa": "/praɪˈɔːrəti/", "example": "Safety is always our number one priority." },
+    { "word": "accommodation", "meaning": "chỗ ở/nơi lưu trú", "ipa": "/əˌkɑːməˈdeɪʃn/", "example": "We need to find cheap accommodation for our trip to London." },
+    { "word": "boast", "meaning": "sở hữu cái gì đó đáng tự hào", "ipa": "/boʊst/", "example": "The hotel boasts two swimming pools and a world-class spa." },
+    { "word": "impressive outlook", "meaning": "tầm nhìn đầy ấn tượng", "ipa": "/ɪmˈpresɪv ˈaʊtlʊk/", "example": "The office on the 40th floor has an impressive outlook over the harbor." },
+    { "word": "tranquility", "meaning": "sự yên tĩnh/thanh bình", "ipa": "/træŋˈkwɪləti/", "example": "I love the tranquility of the mountains in winter." },
+    { "word": "excursion", "meaning": "chuyến tham quan/dã ngoại", "ipa": "/ɪkˈskɜːrʒn/", "example": "We went on a day excursion to a nearby island." },
+    { "word": "pragmatist", "meaning": "người thực dụng", "ipa": "/ˈpræɡmətɪst/", "example": "As a pragmatist, she doesn't like to spend money on things she doesn't need." },
+    { "word": "premium", "meaning": "phí đóng thêm/giá cao cấp", "ipa": "/ˈpriːmiəm/", "example": "You have to pay a premium for a room facing the sea." },
+    { "word": "exorbitant", "meaning": "đắt cắt cổ/quá cao", "ipa": "/ɪɡˈzɔːrbɪtənt/", "example": "The prices at that restaurant are absolutely exorbitant." },
+    { "word": "allocate funds", "meaning": "phân bổ ngân sách/tiền bạc", "ipa": "/ˈæləkeɪt fʌndz/", "example": "The government needs to allocate more funds to education." },
+    { "word": "ocean-facing", "meaning": "hướng ra biển", "ipa": "/ˈoʊʃn ˈfeɪsɪŋ/", "example": "I always try to get an ocean-facing room when at the beach." },
+    { "word": "city-view", "meaning": "tầm nhìn hướng ra thành phố", "ipa": "/ˈsɪti vjuː/", "example": "A city-view room is spectacular at night with all the lights." },
+    { "word": "balcony", "meaning": "ban công", "ipa": "/ˈbælkəni/", "example": "I enjoy having my coffee on the hotel balcony." },
+    { "word": "floor-to-ceiling windows", "meaning": "cửa sổ sát đất (rất lớn)", "ipa": "/flɔːr tə ˈsiːlɪŋ ˈwɪndoʊz/", "example": "The suite has floor-to-ceiling windows with amazing views." },
+    { "word": "amenities", "meaning": "tiện nghi", "ipa": "/əˈmenətiz/", "example": "The hotel offers many amenities including a gym and a rooftop bar." },
+    { "word": "check-in", "meaning": "nhận phòng/thủ tục vào", "ipa": "/tʃek ɪn/", "example": "Standard check-in time is usually after 2 PM." },
+    { "word": "upgrade", "meaning": "nâng cấp (phòng/dịch vụ)", "ipa": "/ˈʌpɡreɪd/", "example": "They offered us a free upgrade to a suite because it was our honeymoon." },
+    { "word": "vacancy", "meaning": "phòng trống", "ipa": "/ˈveɪkənsi/", "example": "I'm sorry, we have no vacancy for tonight." },
+    { "word": "fully booked", "meaning": "đã hết phòng/đã kín lịch", "ipa": "/ˈfʊli bʊkt/", "example": "Most hotels in the city are fully booked during the festival." },
+    { "word": "scenery", "meaning": "phong cảnh", "ipa": "/ˈsiːnəri/", "example": "The scenery in Switzerland is absolutely stunning." },
+    { "word": "landmark", "meaning": "địa danh nổi tiếng", "ipa": "/ˈlændmɑːrk/", "example": "The Eiffel Tower is the most famous landmark in France." },
+    { "word": "natural wonder", "meaning": "kỳ quan thiên nhiên", "ipa": "/ˈnætʃrəl ˈwʌndər/", "example": "The Great Barrier Reef is a magnificent natural wonder." },
+    { "word": "itinerary", "meaning": "lịch trình chuyến đi", "ipa": "/aɪˈtɪnəreri/", "example": "We have a very tight itinerary for our trip to Japan." },
+    { "word": "wanderlust", "meaning": "niềm đam mê du lịch", "ipa": "/ˈwɑːndərlʌst/", "example": "Her wanderlust has taken her to over fifty countries." },
+    { "word": "hospitality", "meaning": "lòng hiếu khách/ngành dịch vụ khách sạn", "ipa": "/ˌhɑːspɪˈtæləti/", "example": "The hotel is famous for its warm hospitality." },
+    { "word": "rejuvenate", "meaning": "làm trẻ lại/hồi phục sức khỏe", "ipa": "/rɪˈdʒuːvəneɪt/", "example": "A relaxing holiday is the best way to rejuvenate your mind." },
+    { "word": "escape the rat race", "meaning": "trốn khỏi cuộc sống xô bồ", "ipa": "/ɪˈskeɪp ðə ræt reɪs/", "example": "I go to the countryside to escape the rat race for a few days." },
+    { "word": "off the beaten track", "meaning": "nơi hẻo lánh/ít người biết", "ipa": "/ɔːf ðə ˈbiːtn træk/", "example": "I prefer traveling to places that are off the beaten track." },
+    { "word": "cultural immersion", "meaning": "sự hòa nhập văn hóa", "ipa": "/ˈkʌltʃərəl ɪˈmɜːrʒn/", "example": "Homestays provide a great opportunity for cultural immersion." },
+    { "word": "make the most of", "meaning": "tận dụng tối đa cái gì đó", "ipa": "/meɪk ðə moʊst əv/", "example": "We want to make the most of our limited time in Paris." },
+    { "word": "value for money", "meaning": "đáng đồng tiền bát gạo", "ipa": "/ˈvæljuː fər ˈmʌni/", "example": "This hotel offers excellent value for money." },
+    { "word": "scrimp and save", "meaning": "tiết kiệm từng đồng một", "ipa": "/skrɪmp ənd seɪv/", "example": "She had to scrimp and save for a whole year to afford the trip." },
+    { "word": "travel light", "meaning": "du lịch gọn nhẹ", "ipa": "/ˈtrævl laɪt/", "example": "It's much easier to move around if you travel light." },
+    { "word": "sightseeing", "meaning": "đi ngắm cảnh/tham quan", "ipa": "/ˈsaɪtsiːɪŋ/", "example": "We spent the whole day sightseeing in Rome." },
+    { "word": "hidden gem", "meaning": "viên ngọc ẩn (nơi đẹp mà ít người biết)", "ipa": "/ˈhɪdn dʒem/", "example": "This small village is a real hidden gem." },
+    { "word": "souvenir", "meaning": "quà lưu niệm", "ipa": "/ˌsuːvəˈnɪr/", "example": "I bought a small model of the statue as a souvenir." },
+    { "word": "tourist trap", "meaning": "nơi bẫy khách du lịch (giá cao, không đặc sắc)", "ipa": "/ˈtʊrɪst træp/", "example": "Don't buy anything in that area; it's a typical tourist trap." },
+    { "word": "layover", "meaning": "điểm dừng chân (trong chuyến bay dài)", "ipa": "/ˈleɪoʊvər/", "example": "We had a six-hour layover in Singapore." },
+    { "word": "homesick", "meaning": "nhớ nhà", "ipa": "/ˈhoʊmsɪk/", "example": "I started feeling homesick after two weeks abroad." },
+    { "word": "globetrotter", "meaning": "người đi du lịch khắp thế giới", "ipa": "/ˈɡloʊbˌtrɑːtər/", "example": "He's a famous globetrotter who documents his life online." },
+    { "word": "jet lag", "meaning": "sự mệt mỏi sau chuyến bay dài (lệch múi giờ)", "ipa": "/ˈdʒet læɡ/", "example": "It took me a few days to get over my jet lag." },
+    { "word": "high season", "meaning": "mùa cao điểm du lịch", "ipa": "/haɪ ˈsiːzn/", "example": "Hotel prices are much higher during the high season." },
+    { "word": "low season", "meaning": "mùa thấp điểm du lịch", "ipa": "/loʊ ˈsiːzn/", "example": "You can find great deals if you travel during the low season." },
+    { "word": "hospitality industry", "meaning": "ngành công nghiệp dịch vụ khách sạn", "ipa": "/ˌhɑːspɪˈtæləti ˈɪndəstri/", "example": "She wants to build a career in the hospitality industry." },
+    { "word": "backpacker", "meaning": "người du lịch bụi/ba lô", "ipa": "/ˈbækpækər/", "example": "The island is very popular with young backpackers." },
+    { "word": "local culinary explorations", "meaning": "khám phá ẩm thực địa phương", "ipa": "/ˈloʊkl ˈkʌlɪneri ˌekspləˈreɪʃnz/", "example": "I love going on local culinary explorations when I visit a new city." }
+  ]
+}

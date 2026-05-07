@@ -1,0 +1,72 @@
+{
+  "id": "q_4",
+  "topic": "Hobbies",
+  "q": "Do you have any hobbies?",
+  "examiner_note": "Đây là câu hỏi mở đầu kinh điển trong Part 1. Giám khảo không chỉ muốn biết bạn thích gì, mà còn muốn nghe về tần suất, lý do và cảm xúc của bạn. Hãy cố gắng phân loại sở thích của mình (ví dụ: indoor vs outdoor, active vs relaxing). Tránh chỉ trả lời 'Yes, I like...'. Thay vào đó, hãy dùng 'I'm passionate about...', 'I'm a keen...', hoặc 'I tend to spend my downtime on...'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I have several hobbies that I enjoy in my free time. I'm really into photography, and I often go out on weekends to capture some landscapes. Besides that, I’m quite a fan of cooking; I find it very therapeutic to try out new recipes for my family.",
+      "note": "Trả lời mạch lạc, có ví dụ cụ thể. Sử dụng tốt các từ vựng như 'really into', 'capture landscapes', 'therapeutic'."
+    },
+    "band8": {
+      "text": "Certainly. I’d describe myself as a bit of an outdoor enthusiast. Whenever I have some downtime, I head to the mountains for some trekking. It’s an incredible way to disconnect from the digital world. In addition to that, I’m an avid reader of historical fiction. I find that it’s a brilliant way to broaden my horizons while relaxing at home.",
+      "note": "Vốn từ vựng phong phú và tự nhiên (downtime, trekking, disconnect, avid reader). Sử dụng các trạng từ linh hoạt."
+    },
+    "band9": {
+      "text": "Absolutely. I cultivate a wide array of interests to maintain a healthy work-life balance. Primarily, I’m a dedicated practitioner of yoga, which I find indispensable for my mental well-being. Furthermore, I’ve recently delved into the world of pottery. There’s something profoundly satisfying about working with clay and creating functional art. These pursuits provide a much-needed creative outlet and allow me to decompress after a demanding week.",
+      "note": "Sử dụng từ vựng cực kỳ học thuật và chính xác (cultivate, array of interests, indispensable, delved into, profoundly satisfying, decompress). Cách diễn đạt rất tinh tế."
+    }
+  },
+  "v": [
+    { "word": "cultivate an interest", "meaning": "nuôi dưỡng một sở thích", "ipa": "/ˈkʌltɪveɪt ən ˈɪntrəst/", "example": "It's important to cultivate an interest outside of work." },
+    { "word": "work-life balance", "meaning": "sự cân bằng giữa công việc và cuộc sống", "ipa": "/wɜːrk laɪf ˈbæləns/", "example": "Having a hobby is crucial for maintaining a healthy work-life balance." },
+    { "word": "keen practitioner", "meaning": "người thực hành hăng say", "ipa": "/kiːn prækˈtɪʃənər/", "example": "She is a keen practitioner of mindfulness and meditation." },
+    { "word": "indispensable", "meaning": "không thể thiếu", "ipa": "/ˌɪndɪˈspensəbl/", "example": "Books have become indispensable to my daily life." },
+    { "word": "mental well-being", "meaning": "sức khỏe tinh thần", "ipa": "/ˈmentl wel ˈbiːɪŋ/", "example": "Yoga is excellent for improving your mental well-being." },
+    { "word": "delve into", "meaning": "tìm hiểu sâu về cái gì đó", "ipa": "/delv ˈɪntuː/", "example": "I've started to delve into the history of ancient Rome." },
+    { "word": "functional art", "meaning": "nghệ thuật mang tính ứng dụng", "ipa": "/ˈfʌŋkʃənl ɑːrt/", "example": "Pottery is a beautiful form of functional art." },
+    { "word": "decompress", "meaning": "giải tỏa áp lực", "ipa": "/ˌdiːkəmˈpres/", "example": "I go running after work to decompress." },
+    { "word": "demanding week", "meaning": "một tuần đầy áp lực/đòi hỏi cao", "ipa": "/dɪˈmændɪŋ wiːk/", "example": "I really need this weekend to recover after such a demanding week." },
+    { "word": "downtime", "meaning": "thời gian nghỉ ngơi", "ipa": "/ˈdaʊntaɪm/", "example": "We like to watch documentaries in our downtime." },
+    { "word": "avid reader", "meaning": "người ham đọc sách", "ipa": "/ˈævɪd ˈriːdər/", "example": "As an avid reader, he has over a thousand books in his library." },
+    { "word": "outdoor enthusiast", "meaning": "người yêu thích hoạt động ngoài trời", "ipa": "/ˈaʊtdɔːr ɪnˈθuːziæst/", "example": "The park is a paradise for any outdoor enthusiast." },
+    { "word": "disconnect", "meaning": "ngắt kết nối (khỏi công việc/mạng xã hội)", "ipa": "/ˌdɪskəˈnekt/", "example": "Hiking is the perfect way to disconnect and enjoy nature." },
+    { "word": "landscape photography", "meaning": "chụp ảnh phong cảnh", "ipa": "/ˈlændskeɪp fəˈtɑːɡrəfi/", "example": "He travels often to pursue his interest in landscape photography." },
+    { "word": "therapeutic", "meaning": "/ˌθerəˈpjuːtɪk/", "ipa": "có tính trị liệu/thư giãn", "example": "Gardening is widely known for its therapeutic effects." },
+    { "word": "passionate about", "meaning": "đam mê về cái gì", "ipa": "/ˈpæʃənət əˈbaʊt/", "example": "I've always been passionate about animal welfare." },
+    { "word": "take great pleasure in", "meaning": "tìm thấy niềm vui lớn trong việc gì", "ipa": "/teɪk ɡreɪt ˈpleʒər ɪn/", "example": "I take great pleasure in watching my garden grow." },
+    { "word": "get immense satisfaction from", "meaning": "có được sự hài lòng to lớn từ", "ipa": "/ɡet ɪˈmens ˌsætɪsˈfækʃn frəm/", "example": "I get immense satisfaction from finishing a difficult task." },
+    { "word": "be hooked on", "meaning": "bị nghiện/cuốn vào cái gì", "ipa": "/bi hʊkt ɑːn/", "example": "I've been hooked on this new TV series lately." },
+    { "word": "have a flair for", "meaning": "có khiếu về cái gì", "ipa": "/hæv ə fler fɔːr/", "example": "She has a natural flair for interior design." },
+    { "word": "master the art of", "meaning": "thành thạo nghệ thuật của cái gì", "ipa": "/ˈmæstər ðə ɑːrt əv/", "example": "It takes time to master the art of public speaking." },
+    { "word": "strive for", "meaning": "nỗ lực vì cái gì", "ipa": "/straɪv fɔːr/", "example": "In my hobbies, I always strive for perfection." },
+    { "word": "solitary hobby", "meaning": "sở thích đơn độc", "ipa": "/ˈsɑːləteri ˈhɑːbi/", "example": "Writing is often a very solitary hobby." },
+    { "word": "social activity", "meaning": "hoạt động mang tính xã hội", "ipa": "/ˈsoʊʃl ækˈtɪvəti/", "example": "Dancing is a great social activity to meet new people." },
+    { "word": "competitive sport", "meaning": "thể thao mang tính cạnh tranh", "ipa": "/kəmˈpetətɪv spɔːrt/", "example": "I’ve never really enjoyed competitive sports much." },
+    { "word": "intellectual challenge", "meaning": "thử thách về trí tuệ", "ipa": "/ˌɪntəˈlektʃuəl ˈtʃælɪndʒ/", "example": "Chess provides an excellent intellectual challenge." },
+    { "word": "artistic expression", "meaning": "sự thể hiện nghệ thuật", "ipa": "/ɑːrˈtɪstɪk ɪkˈspreʃn/", "example": "Music is a powerful tool for artistic expression." },
+    { "word": "full of zest", "meaning": "đầy nhiệt huyết/hứng khởi", "ipa": "/fʊl əv zest/", "example": "He approaches every project with a spirit full of zest." },
+    { "word": "be on the go", "meaning": "luôn bận rộn/luôn chuyển động", "ipa": "/bi ɑːn ðə ɡoʊ/", "example": "I’m always on the go with my various hobbies." },
+    { "word": "kill time", "meaning": "giết thời gian", "ipa": "/kɪl taɪm/", "example": "I usually play mobile games to kill time at the airport." },
+    { "word": "broaden one's knowledge", "meaning": "mở rộng kiến thức", "ipa": "/ˈbrɔːdn wʌnz ˈnɑːlɪdʒ/", "example": "Reading non-fiction is a good way to broaden your knowledge." },
+    { "word": "sharpen one's skills", "meaning": "rèn luyện kỹ năng", "ipa": "/ˈʃɑːrpən wʌnz skɪlz/", "example": "Hobbies are a great way to sharpen your professional skills." },
+    { "word": "unwind", "meaning": "thư giãn", "ipa": "/ˌʌnˈwaɪnd/", "example": "Listening to jazz is how I unwind in the evening." },
+    { "word": "find solace in", "meaning": "tìm thấy sự an ủi trong", "ipa": "/faɪnd ˈsɑːləs ɪn/", "example": "Many people find solace in nature during difficult times." },
+    { "word": "take one's mind off", "meaning": "giúp quên đi (lo lắng/muộn phiền)", "ipa": "/teɪk wʌnz maɪnd ɔːf/", "example": "Painting helps take my mind off the stress of work." },
+    { "word": "immerse oneself in", "meaning": "đắm mình vào", "ipa": "/ɪˈmɜːrs wʌnˈself ɪn/", "example": "It's easy to immerse oneself in the world of movies." },
+    { "word": "up to my ears in", "meaning": "rất bận rộn với cái gì", "ipa": "/ʌp tə maɪ ɪrz ɪn/", "example": "I'm up to my ears in my new DIY project." },
+    { "word": "get the hang of", "meaning": "nắm bắt được cách làm cái gì đó", "ipa": "/ɡet ðə hæŋ əv/", "example": "At first, it was hard, but I finally got the hang of knitting." },
+    { "word": "keep in shape", "meaning": "giữ dáng", "ipa": "/kiːp ɪn ʃeɪp/", "example": "I go jogging every morning to keep in shape." },
+    { "word": "take up room", "meaning": "chiếm diện tích", "ipa": "/teɪk ʌp ruːm/", "example": "Collecting old furniture can take up a lot of room." },
+    { "word": "set aside time", "meaning": "dành riêng thời gian (cho việc gì)", "ipa": "/set əˈsaɪd taɪm/", "example": "I try to set aside time for reading every night." },
+    { "word": "try one's hand at", "meaning": "thử sức với cái gì đó", "ipa": "/traɪ wʌnz hænd æt/", "example": "I want to try my hand at gardening this spring." },
+    { "word": "be a natural at", "meaning": "là người bẩm sinh đã giỏi cái gì", "ipa": "/bi ə ˈnætʃrəl æt/", "example": "He proved to be a natural at playing the drums." },
+    { "word": "lose track of time", "meaning": "quên mất thời gian", "ipa": "/luːz træk əv taɪm/", "example": "I often lose track of time when I'm drawing." },
+    { "word": "stumble upon", "meaning": "tình cờ tìm thấy", "ipa": "/ˈstʌmbl əˈpɔːn/", "example": "I stumbled upon a beautiful trail while hiking." },
+    { "word": "get a move on", "meaning": "nhanh chân lên", "ipa": "/ɡet ə muːv ɑːn/", "example": "We need to get a move on if we want to finish before dark." },
+    { "word": "at once", "meaning": "ngay lập tức / đồng thời", "ipa": "/æt wʌns/", "example": "The hobby is both relaxing and challenging at once." },
+    { "word": "come to think of it", "meaning": "ngẫm lại thì", "ipa": "/kʌm tə θɪŋk əv ɪt/", "example": "Come to think of it, I've had this hobby for ages." },
+    { "word": "put your feet up", "meaning": "nghỉ ngơi thư giãn", "ipa": "/pʊt jɔːr fiːt ʌp/", "example": "After a long day, it's nice to just put your feet up and read." },
+    { "word": "let your hair down", "meaning": "xõa/thư giãn thoải mái", "ipa": "/let jɔːr her daʊn/", "example": "Going out with friends is a great way to let your hair down." }
+  ]
+}

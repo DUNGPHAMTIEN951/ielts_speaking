@@ -1,0 +1,76 @@
+{
+  "id": "q_29",
+  "vocab": [
+    {
+      "word": "embark on",
+      "ipa": "/ɪmˈbɑːrk ɒn/",
+      "meaning": "bắt đầu một hành trình hoặc giai đoạn mới (ví dụ: việc học, sự nghiệp)",
+      "example": "I've recently decided to embark on a Master's degree in Data Science to broaden my career horizons.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌk.əl daʊn/",
+      "meaning": "bắt đầu làm việc hoặc học tập một cách nghiêm túc và chăm chỉ",
+      "example": "With the final exams approaching, I really need to knuckle down and focus on my research paper.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "major in",
+      "ipa": "/ˈmeɪ.dʒər ɪn/",
+      "meaning": "theo học chuyên ngành chính tại trường đại học",
+      "example": "I am currently a sophomore at university, and I major in International Relations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "slave away",
+      "ipa": "/sleɪv əˈweɪ/",
+      "meaning": "làm việc cực khổ, đầu tắt mặt tối",
+      "example": "I've been slaving away at my desk for weeks to meet the project deadline set by my manager.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get ahead",
+      "ipa": "/ɡet əˈhed/",
+      "meaning": "tiến bộ hoặc đạt được thành công trong sự nghiệp",
+      "example": "I believe that gaining extra certifications will help me get ahead in the highly competitive tech industry.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out into",
+      "ipa": "/brɑːntʃ aʊt ˈɪn.tuː/",
+      "meaning": "mở rộng sang một lĩnh vực mới (trong học tập hoặc công việc)",
+      "example": "Although I work as a designer, I'm trying to branch out into digital marketing to diversify my skill set.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall behind",
+      "ipa": "/fɔːl bɪˈhaɪnd/",
+      "meaning": "tụt hậu hoặc chậm trễ hơn so với tiến độ (học tập/công việc)",
+      "example": "Working full-time while studying is tough, and I often worry that I might fall behind with my assignments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fill in for",
+      "ipa": "/fɪl ɪn fɔːr/",
+      "meaning": "làm thay công việc cho ai đó (thường là tạm thời)",
+      "example": "At the office, I frequently have to fill in for my supervisor when she is away on business trips.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "breeze through",
+      "ipa": "/briːz θruː/",
+      "meaning": "vượt qua một việc gì đó (bài thi, công việc) một cách dễ dàng",
+      "example": "Thanks to my practical experience, I was able to breeze through the technical interview for my current position.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wrap up",
+      "ipa": "/ræp ʌp/",
+      "meaning": "hoàn tất, hoàn thành xong một công việc hoặc khóa học",
+      "example": "I’m hoping to wrap up my current internship by the end of this month before returning to university.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

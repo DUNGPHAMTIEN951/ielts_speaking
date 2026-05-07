@@ -1,0 +1,76 @@
+{
+  "id": "q_15",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, văn hóa)",
+      "example": "I love to spend my weekends at the national gallery just to soak up the creative atmosphere.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig into",
+      "ipa": "/dɪɡ ˈɪntə/",
+      "meaning": "tìm hiểu sâu, nghiên cứu kỹ lưỡng",
+      "example": "Visiting a history museum allows me to dig into the fascinating stories behind ancient artifacts.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "feast on",
+      "ipa": "/fiːst ɒn/",
+      "meaning": "thưởng thức một cách say mê (thường là bằng mắt)",
+      "example": "Art enthusiasts will have the chance to feast on a wide range of contemporary masterpieces this summer.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gawk at",
+      "ipa": "/ɡɔːk æt/",
+      "meaning": "nhìn chằm chằm một cách ngạc nhiên (thường là vì quá ấn tượng)",
+      "example": "I could gawk at the intricate details of those giant dinosaur skeletons for hours.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "flick through",
+      "ipa": "/flɪk θruː/",
+      "meaning": "xem qua nhanh (thường là catalogue hoặc sách hướng dẫn tại bảo tàng)",
+      "example": "I usually flick through the exhibition brochure before deciding which gallery room to visit first.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "hoài niệm, nhìn lại quá khứ",
+      "example": "Museums are essential because they encourage us to look back on our heritage and learn from it.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "come across",
+      "ipa": "/kʌm əˈkrɒs/",
+      "meaning": "tình cờ thấy hoặc bắt gặp",
+      "example": "It is always a thrill when you come across an obscure painting that resonates with you personally.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring to life",
+      "ipa": "/brɪŋ tu laɪf/",
+      "meaning": "làm cho sống động, tái hiện chân thực",
+      "example": "The interactive displays in the science museum really bring complex theories to life for visitors.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get lost in",
+      "ipa": "/ɡet lɒst ɪn/",
+      "meaning": "mải mê, chìm đắm hoàn toàn vào cái gì đó",
+      "example": "Whenever I visit an art gallery, I tend to get lost in the beauty of the impressionist landscapes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush away",
+      "ipa": "/brʌʃ əˈweɪ/",
+      "meaning": "gạt bỏ (định kiến hoặc sự nhàm chán để tận hưởng nghệ thuật)",
+      "example": "A good exhibition can help you brush away any misconceptions you had about modern art.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

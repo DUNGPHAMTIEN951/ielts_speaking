@@ -1,0 +1,72 @@
+{
+  "id": "q_41",
+  "topic": "Studying",
+  "q": "What was your favorite subject in primary school?",
+  "examiner_note": "Giám khảo muốn nghe bạn kể về sở thích thuở nhỏ. \n- **Hướng dẫn trả lời**: Chọn một môn học (Toán, Tiếng Việt, Vẽ, Nhạc, Thể dục). Giải thích lý do (do môn đó vui, do bạn học giỏi, hay do thầy cô giáo). \n- **Mẹo**: Sử dụng các cụm từ như 'Back in my primary school days', 'I had a soft spot for', 'The reason why it appealed to me was...', 'It came naturally to me'.",
+  "samples": {
+    "band7": {
+      "text": "My favorite subject in primary school was Art. I loved drawing and painting different things, like animals and landscapes. It was the only subject where I could be creative and express my feelings without any stress.",
+      "note": "Trả lời trực tiếp, giải thích lý do đơn giản và rõ ràng. Sử dụng từ vựng ổn ('Art', 'creative')."
+    },
+    "band8": {
+      "text": "As far as I can recall, I had a soft spot for Mathematics. Even at a young age, I was fascinated by numbers and logic. What really appealed to me was the fact that there was always a clear and precise answer to every problem.",
+      "note": "Sử dụng các cụm từ hay như 'soft spot for', 'fascinated by', 'appealed to me', 'precise answer'."
+    },
+    "band9": {
+      "text": "Back in my primary school days, I was absolutely enamored with Music. I found the process of learning different instruments and understanding melodies to be incredibly rewarding. It came naturally to me, and it provided a wonderful creative outlet amidst the more academic subjects.",
+      "note": "Diễn đạt cực kỳ lôi cuốn ('enamored with', 'incredibly rewarding', 'came naturally', 'creative outlet', 'amidst'). Sử dụng cấu trúc câu linh hoạt."
+    }
+  },
+  "v": [
+    { "word": "soft spot for", "meaning": "sự yêu thích/yếu lòng đối với", "ipa": "/sɒft spɒt fɔː(r)/", "example": "I've always had a soft spot for stray animals." },
+    { "word": "appealed to me", "meaning": "cuốn hút tôi", "ipa": "/əˈpiːld tuː miː/", "example": "The idea of traveling around the world really appealed to me." },
+    { "word": "came naturally to me", "meaning": "đến tự nhiên/dễ dàng đối với tôi", "ipa": "/keɪm ˈnætʃrəli/", "example": "Public speaking has always come naturally to her." },
+    { "word": "enamored with", "meaning": "say mê/phải lòng", "ipa": "/ɪˈnæməd wɪð/", "example": "He became completely enamored with the local culture." },
+    { "word": "creative outlet", "meaning": "nơi để giải tỏa sức sáng tạo", "ipa": "/krieɪˈtɪv ˈaʊtlet/", "example": "Writing poetry is a great creative outlet for many people." },
+    { "word": "amidst", "meaning": "giữa/trong khi (đang xảy ra cái gì đó)", "ipa": "/əˈmɪdst/", "example": "He managed to stay calm amidst all the chaos." },
+    { "word": "primary school days", "meaning": "những ngày học tiểu học", "ipa": "/ˈpraɪməri skuːl deɪz/", "example": "I still remember my best friend from my primary school days." },
+    { "word": "Mathematics", "meaning": "Môn Toán", "ipa": "/ˌmæθəˈmætɪks/", "example": "Mathematics is considered a core subject in the national curriculum." },
+    { "word": "Art", "meaning": "Môn Mỹ thuật/Nghệ thuật", "ipa": "/ɑːt/", "example": "She won an award for her outstanding work in Art class." },
+    { "word": "Music", "meaning": "Môn Âm nhạc", "ipa": "/ˈmjuːzɪk/", "example": "We learned to play the recorder in our Music lessons." },
+    { "word": "Physical Education (PE)", "meaning": "Môn Thể dục", "ipa": "/ˌfɪzɪkl ˌedʒuˈkeɪʃn/", "example": "PE is a great way for students to stay active during the school day." },
+    { "word": "Science", "meaning": "Môn Khoa học", "ipa": "/ˈsaɪəns/", "example": "In Science class, we learned about the different parts of a flower." },
+    { "word": "Social Studies", "meaning": "Môn Tự nhiên xã hội", "ipa": "/ˌsəʊʃl ˈstʌdiz/", "example": "Social Studies helps children understand their place in the community." },
+    { "word": "mother tongue", "meaning": "tiếng mẹ đẻ", "ipa": "/ˌmʌðə ˈtʌŋ/", "example": "It's important for children to have a strong foundation in their mother tongue." },
+    { "word": "fundamental skills", "meaning": "kỹ năng cơ bản", "ipa": "/ˌfʌndəˈmentl skɪlz/", "example": "Primary school is where children learn fundamental skills like reading and writing." },
+    { "word": "foundation", "meaning": "nền tảng", "ipa": "/faʊnˈdeɪʃn/", "example": "The course provides a solid foundation for further studies in physics." },
+    { "word": "elementary", "meaning": "thuộc về tiểu học/cơ bản", "ipa": "/ˌelɪˈmentri/", "example": "She is an elementary school teacher in a small town." },
+    { "word": "nurture", "meaning": "nuôi dưỡng", "ipa": "/ˈnɜːtʃə(r)/", "example": "The school aims to nurture the unique talents of every child." },
+    { "word": "diverse", "meaning": "đa dạng", "ipa": "/daɪˈvɜːs/", "example": "The city has a very diverse and multi-cultural population." },
+    { "word": "engaging", "meaning": "thú vị/cuốn hút", "ipa": "/ɪnˈɡeɪdʒɪŋ/", "example": "The teacher used engaging games to help the children learn math." },
+    { "word": "inspiring", "meaning": "truyền cảm hứng", "ipa": "/ɪnˈspaɪərɪŋ/", "example": "His story of survival is truly inspiring." },
+    { "word": "memorable", "meaning": "đáng nhớ", "ipa": "/ˈmemərəbl/", "example": "The school play was a very memorable event for everyone involved." },
+    { "word": "rewarding", "meaning": "bổ ích/đáng bõ công", "ipa": "/rɪˈwɔːdɪŋ/", "example": "Helping children to read is a very rewarding experience." },
+    { "word": "challenging", "meaning": "đầy thử thách", "ipa": "/ˈtʃælɪndʒɪŋ/", "example": "Learning to play a musical instrument is a challenging but fun experience." },
+    { "word": "playful", "meaning": "vui tươi", "ipa": "/ˈpleɪfl/", "example": "The kittens were having a playful fight in the garden." },
+    { "word": "curiosity", "meaning": "sự tò mò", "ipa": "/ˌkjʊəriˈɒsəti/", "example": "Children's natural curiosity leads them to explore their surroundings." },
+    { "word": "imagination", "meaning": "trí tưởng tượng", "ipa": "/ɪˌmædʒɪˈneɪʃn/", "example": "Reading helps children develop their imagination." },
+    { "word": "exploration", "meaning": "sự khám phá", "ipa": "/ˌekspləˈreɪʃn/", "example": "Space exploration has led to many technological breakthroughs." },
+    { "word": "discovery", "meaning": "sự phát hiện/khám phá", "ipa": "/dɪˈskʌvəri/", "example": "The discovery of gravity changed our understanding of the universe." },
+    { "word": "basic principles", "meaning": "nguyên lý cơ bản", "ipa": "/ˈbeɪsɪk ˈprɪnsəplz/", "example": "We were taught the basic principles of healthy eating." },
+    { "word": "problem-solving", "meaning": "giải quyết vấn đề", "ipa": "/ˈprɒbləm ˈsɒlvɪŋ/", "example": "Critical thinking and problem-solving are essential skills for the future." },
+    { "word": "collaboration", "meaning": "sự hợp tác", "ipa": "/kəˌlæbəˈreɪʃn/", "example": "The two companies are in collaboration on a new project." },
+    { "word": "social skills", "meaning": "kỹ năng xã hội", "ipa": "/ˈsəʊʃl skɪlz/", "example": "School is a great place for children to develop their social skills." },
+    { "word": "friendships", "meaning": "tình bạn", "ipa": "/ˈfrendʃɪps/", "example": "I've made many lasting friendships through my work." },
+    { "word": "school activities", "meaning": "hoạt động trường lớp", "ipa": "/skuːl ækˈtɪvətiz/", "example": "I used to participate in many school activities, like the debating club." },
+    { "word": "field trips", "meaning": "chuyến đi thực tế", "ipa": "/fiːld trɪps/", "example": "We went on several field trips to the science museum." },
+    { "word": "school assemblies", "meaning": "buổi chào cờ/tập trung trường", "ipa": "/skuːl əˈsembliz/", "example": "The principal gave a speech during the weekly school assembly." },
+    { "word": "classroom environment", "meaning": "môi trường lớp học", "ipa": "/ˈklɑːsruːm ɪnˈvaɪrənmənt/", "example": "A positive classroom environment is conducive to learning." },
+    { "word": "learning materials", "meaning": "tài liệu học tập", "ipa": "/ˈlɜːnɪŋ məˈtɪəriəlz/", "example": "The school provides all the necessary learning materials for the students." },
+    { "word": "creative expression", "meaning": "biểu đạt sáng tạo", "ipa": "/krieɪˈtɪv ɪkˈspreʃn/", "example": "Art and music allow children for creative expression." },
+    { "word": "holistic development", "meaning": "phát triển toàn diện", "ipa": "/həʊˈlɪstɪk dɪˈveləpmənt/", "example": "The extracurricular programs are aimed at the holistic development of students." },
+    { "word": "educational standards", "meaning": "tiêu chuẩn giáo dục", "ipa": "/ˌedʒuˈkeɪʃənl ˈstændədz/", "example": "The school is committed to maintaining high educational standards." },
+    { "word": "pedagogical approach", "meaning": "phương pháp sư phạm", "ipa": "/ˌpedəˈɡɒdʒɪkl əˈprəʊtʃ/", "example": "The new pedagogical approach focuses on student-centered learning." },
+    { "word": "academic foundation", "meaning": "nền tảng học thuật", "ipa": "/ˌækəˈdemɪk faʊnˈdeɪʃn/", "example": "Early literacy skills provide a strong academic foundation for children." },
+    { "word": "cognitive ability", "meaning": "khả năng nhận thức", "ipa": "/ˈkɒɡnətɪv əˈbɪləti/", "example": "Puzzles and games can help improve a child's cognitive ability." },
+    { "word": "intellectual curiosity", "meaning": "sự tò mò về trí tuệ", "ipa": "/ˌɪntəˈlektʃuəl ˌkjʊəriˈɒsəti/", "example": "We aim to foster intellectual curiosity and a love of learning." },
+    { "word": "well-rounded", "meaning": "toàn diện", "ipa": "/ˌwel ˈraʊndɪd/", "example": "The university values applicants who have a well-rounded academic background." },
+    { "word": "academic excellence", "meaning": "sự xuất sắc trong học tập", "ipa": "/ˌækəˈdemɪk ˈeksələns/", "example": "The school rewards students for their academic excellence and hard work." },
+    { "word": "lifelong learning", "meaning": "học tập suốt đời", "ipa": "/ˌlaɪflɒŋ ˈlɜːnɪŋ/", "example": "Education should instill a commitment to lifelong learning." },
+    { "word": "inspiration", "meaning": "nguồn cảm hứng", "ipa": "/ˌɪnspəˈreɪʃn/", "example": "Her passion for teaching is an inspiration to all her colleagues." }
+  ]
+}

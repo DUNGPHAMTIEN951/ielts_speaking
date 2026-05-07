@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "put one foot before the other",
+      "ipa": "/pʊt wʌn fʊt bɪˈfɔːr ðə ˈʌð.ər/",
+      "meaning": "kiên trì đi bộ hoặc tiến bước (thường khi mệt mỏi)",
+      "example": "By the end of the day, I was so exhausted that I just had to focus on putting one foot before the other to get home.",
+      "type": "idiom"
+    },
+    {
+      "word": "at a snail's pace",
+      "ipa": "/æt ə sneɪlz peɪs/",
+      "meaning": "đi bộ cực kỳ chậm chạp",
+      "example": "I enjoy walking through the park at a snail's pace just to soak in the scenery and clear my mind.",
+      "type": "idiom"
+    },
+    {
+      "word": "a hop, skip and a jump",
+      "ipa": "/ə hɒp skɪp ənd ə dʒʌmp/",
+      "meaning": "khoảng cách rất gần (chỉ vài bước chân)",
+      "example": "I walk to work every day since my office is just a hop, skip and a jump away from my apartment.",
+      "type": "idiom"
+    },
+    {
+      "word": "take a stroll down memory lane",
+      "ipa": "/teɪk ə strəʊl daʊn ˈmem.ər.i leɪn/",
+      "meaning": "đi dạo để ôn lại kỷ niệm (nghĩa bóng lẫn nghĩa đen)",
+      "example": "Sometimes I walk through my old neighborhood just to take a stroll down memory lane and see how things have changed.",
+      "type": "idiom"
+    },
+    {
+      "word": "walk the chalk line",
+      "ipa": "/wɔːk ðə tʃɔːk laɪn/",
+      "meaning": "đi đứng/hành xử một cách nghiêm túc, cẩn trọng",
+      "example": "When I'm walking in busy traffic areas, I really have to walk the chalk line to ensure I stay safe on the narrow pavements.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit one's stride",
+      "ipa": "/hɪt wʌnz straɪd/",
+      "meaning": "bắt đầu đi bộ một cách ổn định và thoải mái (vào guồng)",
+      "example": "It usually takes me about ten minutes to hit my stride during my morning power walk.",
+      "type": "idiom"
+    },
+    {
+      "word": "foot the bill",
+      "ipa": "/fʊt ðə bɪl/",
+      "meaning": "thanh toán hóa đơn (dùng ẩn dụ cho việc chọn đi bộ thay vì trả tiền taxi)",
+      "example": "I’d rather walk for thirty minutes than foot the bill for an expensive Uber ride during rush hour.",
+      "type": "idiom"
+    },
+    {
+      "word": "tread on eggshells",
+      "ipa": "/tred ɒn ˈeɡ.ʃelz/",
+      "meaning": "đi đứng rón rén/cẩn trọng (thường dùng khi đi bộ ở nơi yên tĩnh/trơn trượt)",
+      "example": "The museum was so quiet that I felt like I was treading on eggshells as I walked through the galleries.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep one's feet on the ground",
+      "ipa": "/kiːp wʌnz fiːt ɒn ðə ɡraʊnd/",
+      "meaning": "giữ đôi chân trên mặt đất (vừa nghĩa đen đi bộ, vừa nghĩa bóng là thực tế)",
+      "example": "Walking to work instead of taking a luxury car helps me keep my feet on the ground and stay connected to my community.",
+      "type": "idiom"
+    },
+    {
+      "word": "every step of the way",
+      "ipa": "/ˈev.ri step əv ðə weɪ/",
+      "meaning": "mọi lúc, mọi nơi trong suốt quãng đường đi",
+      "example": "My dog accompanies me on my evening walks, staying right by my side every step of the way.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_46",
+  "vocab": [
+    {
+      "word": "strike up",
+      "ipa": "/straɪk ʌp/",
+      "meaning": "bắt đầu (một cuộc trò chuyện) một cách tự nhiên",
+      "example": "I find it quite easy to strike up a conversation with fellow travelers while waiting in a long queue at the airport.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hit it off",
+      "ipa": "/hɪt ɪt ɒf/",
+      "meaning": "tâm đầu ý hợp, nhanh chóng trở nên thân thiết ngay lần đầu gặp",
+      "example": "I once met a stranger at a bookstore, and we hit it off immediately because we both shared an obsession with historical fiction.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊpən ʌp/",
+      "meaning": "cởi mở hơn, bắt đầu chia sẻ nhiều hơn",
+      "example": "It’s surprising how much people are willing to open up about their lives when you meet them in a neutral public setting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "chime in",
+      "ipa": "/tʃaɪm ɪn/",
+      "meaning": "nói xen vào, góp chuyện (khi thấy chủ đề thú vị)",
+      "example": "Occasionally, if I overhear a group discussing a topic I'm passionate about, I might politely chime in with my own thoughts.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "warm up to",
+      "ipa": "/wɔːm ʌp tu/",
+      "meaning": "dần trở nên thân thiện hoặc thích giao tiếp với ai đó",
+      "example": "Even though I’m a bit reserved, I usually warm up to strangers once the initial awkwardness of the first few minutes passes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "reel off",
+      "ipa": "/riːl ɒf/",
+      "meaning": "nói một tràng dài (thông tin, câu chuyện) một cách trôi chảy",
+      "example": "The person sitting next to me on the bus started to reel off a list of hidden gems in the city that I had never heard of.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up",
+      "ipa": "/kiːp ʌp/",
+      "meaning": "duy trì (một cuộc đối thoại hoặc nhịp độ giao tiếp)",
+      "example": "It can be exhausting to keep up a conversation with a very talkative stranger if you are just trying to have a quiet commute.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift apart",
+      "ipa": "/drɪft əˈpɑːt/",
+      "meaning": "nhạt dần hoặc kết thúc cuộc trò chuyện khi mỗi người đi một hướng",
+      "example": "We chatted for a good hour during the festival, but eventually, we drifted apart as the crowd moved toward the main stage.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "come across",
+      "ipa": "/kʌm əˈkrɒs/",
+      "meaning": "tạo ấn tượng là người như thế nào (khi giao tiếp)",
+      "example": "When talking to people I don't know, I try to come across as approachable and friendly rather than overbearing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wrap up",
+      "ipa": "/ræp ʌp/",
+      "meaning": "kết thúc, tóm gọn lại (cuộc trò chuyện)",
+      "example": "I usually try to wrap up the conversation politely once I notice the other person looking at their watch or phone.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

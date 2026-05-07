@@ -1,0 +1,76 @@
+{
+  "id": "q_4",
+  "vocab": [
+    {
+      "word": "bounce ideas off",
+      "ipa": "/baʊns aɪˈdɪəz ɒf/",
+      "meaning": "trao đổi ý tưởng với ai đó để xem nó có hiệu quả không",
+      "example": "In team sports, you can bounce ideas off your teammates to adjust the game plan in real-time.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒ.ər ʌp tuː/",
+      "meaning": "đạt được tiêu chuẩn hoặc kỳ vọng",
+      "example": "In solo competitions, you only have yourself to blame if you don't measure up to the required standard.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spur on",
+      "ipa": "/spɜːr ɒn/",
+      "meaning": "khuyến khích, thúc đẩy ai đó tiến lên",
+      "example": "The roar of the crowd and the support of teammates can really spur you on when you're feeling exhausted.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dựa dẫm vào cái gì khi gặp khó khăn",
+      "example": "Individual athletes have no teammates to fall back on if they have an off-day or make a critical mistake.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get ahead of",
+      "ipa": "/ɡet əˈhed əv/",
+      "meaning": "vượt qua hoặc tiến xa hơn đối thủ",
+      "example": "To get ahead of the pack in a marathon, an athlete must rely purely on their own pacing and grit.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gel with",
+      "ipa": "/dʒel wɪð/",
+      "meaning": "phối hợp ăn ý, hòa nhập tốt với một nhóm",
+      "example": "A team might have superstars, but they won't win unless they truly gel with one another on the field.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm lộ ra, làm nổi bật (một phẩm chất nào đó)",
+      "example": "Team sports often bring out a person's leadership qualities and ability to cooperate under pressure.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌk.əl daʊn/",
+      "meaning": "bắt đầu làm việc/tập luyện cực kỳ nghiêm túc",
+      "example": "Individual sports require you to knuckle down and stay disciplined without anyone else pushing you.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "play off",
+      "ipa": "/pleɪ ɒf/",
+      "meaning": "tận dụng sự hỗ trợ/phản ứng của người khác để thi đấu",
+      "example": "In doubles tennis, players often play off each other's strengths to dominate the net.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "single out",
+      "ipa": "/ˈsɪŋ.ɡəl aʊt/",
+      "meaning": "chọn ra một người để đối xử đặc biệt hoặc chỉ trích",
+      "example": "In team sports, you aren't usually singled out for a loss, whereas in solo sports, the burden is entirely yours.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

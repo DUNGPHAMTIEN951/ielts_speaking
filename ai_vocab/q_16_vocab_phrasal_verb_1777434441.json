@@ -1,0 +1,75 @@
+{
+  "id": "q_16",
+  "vocab": [
+    {
+      "word": "stem from",
+      "ipa": "/stem frɒm/",
+      "meaning": "bắt nguồn từ (nguồn cảm hứng hoặc bối cảnh lịch sử)",
+      "example": "Much of the religious symbolism in old art stems from the dominant role of the Church in society at that time.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "push back against",
+      "ipa": "/pʊʃ bæk əˈɡenst/",
+      "meaning": "phản kháng, chống lại (các quy tắc hoặc tiêu chuẩn cũ)",
+      "example": "Modern art often seeks to push back against the rigid academic standards of classical painting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stick to",
+      "ipa": "/stɪk tuː/",
+      "meaning": "tuân thủ nghiêm ngặt (nguyên tắc, tỉ lệ hoặc phong cách truyền thống)",
+      "example": "Traditional artists tended to stick to the 'rule of thirds' and realistic proportions to achieve aesthetic harmony.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "play around with",
+      "ipa": "/pleɪ əˈraʊnd wɪð/",
+      "meaning": "thử nghiệm, thay đổi linh hoạt (khái niệm hoặc chất liệu mới)",
+      "example": "Contemporary creators love to play around with unconventional materials like recycled plastic or digital light.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go beyond",
+      "ipa": "/ɡəʊ bɪˈjɒnd/",
+      "meaning": "vượt ra ngoài giới hạn (về mặt ý tưởng hoặc thị giác)",
+      "example": "Modern abstract pieces go beyond mere representation, focusing instead on pure emotion and form.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shrug off",
+      "ipa": "/ʃrʌɡ ɒf/",
+      "meaning": "loại bỏ, rũ bỏ (những kỳ vọng hoặc định kiến cũ)",
+      "example": "Conceptual art often shrugs off the idea that a masterpiece must be visually beautiful or technically complex.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blend in",
+      "ipa": "/blend ɪn/",
+      "meaning": "hòa nhập, pha trộn (màu sắc hoặc phong cách để tạo sự mượt mà)",
+      "example": "In Renaissance art, painters meticulously blended in colors to create a soft, lifelike transition called sfumato.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out from",
+      "ipa": "/stænd aʊt frɒm/",
+      "meaning": "nổi bật, khác biệt hoàn toàn so với (những gì đã tồn tại trước đó)",
+      "example": "The shocking colors of Fauvism really stood out from the muted, earthy tones used in traditional portraits.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "strip away",
+      "ipa": "/strɪp əˈweɪ/",
+      "meaning": "Minimalist modern art aims to strip away unnecessary ornamentation to reveal the core essence of the subject.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "point towards",
+      "ipa": "/pɔɪnt təˈwɔːrdz/",
+      "meaning": "hướng tới, chỉ ra (một xu hướng hoặc tương lai mới)",
+      "example": "The rise of Phạm Tiến Dũng Gia Sư-generated art points towards a future where the definition of 'the artist' is completely redefined.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

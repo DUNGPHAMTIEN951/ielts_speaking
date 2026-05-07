@@ -1,0 +1,76 @@
+{
+  "id": "q_48",
+  "vocab": [
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn tập lại, cải thiện một kỹ năng đã lâu không dùng",
+      "example": "I’d love to brush up on my French so I can eventually study European literature in its original language.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "delve into",
+      "ipa": "/delv ˈɪn.tuː/",
+      "meaning": "nghiên cứu sâu, đào sâu tìm hiểu một vấn đề",
+      "example": "If given the opportunity, I would like to delve into the complexities of artificial intelligence and ethics.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sign up for",
+      "ipa": "/saɪn ʌp fɔːr/",
+      "meaning": "đăng ký một khóa học hoặc chương trình học",
+      "example": "I’ve been planning to sign up for a professional photography course to refine my technical skills.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "major in",
+      "ipa": "/ˈmeɪ.dʒər ɪn/",
+      "meaning": "theo học chuyên ngành chính",
+      "example": "I would consider going back to university to major in marine biology because of my fascination with ocean life.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "read up on",
+      "ipa": "/riːd ʌp ɒn/",
+      "meaning": "đọc nhiều tài liệu để tìm hiểu về một chủ đề cụ thể",
+      "example": "Lately, I’ve been starting to read up on sustainable architecture as it’s a field I’d love to pursue formally.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "hấp thụ, tiếp thu (kiến thức, thông tin) một cách nhanh chóng",
+      "example": "I want to attend international seminars where I can soak up knowledge from the world's leading experts.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp, cập nhật những xu hướng hoặc kiến thức mới",
+      "example": "Studying data science would help me keep up with the rapid advancements in the tech industry.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go for",
+      "ipa": "/ɡəʊ fɔːr/",
+      "meaning": "quyết định chọn hoặc nỗ lực đạt được điều gì đó",
+      "example": "I think I’ll go for a master's degree in psychology once I have enough work experience.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "narrow down",
+      "ipa": "/ˈnær.əʊ daʊn/",
+      "meaning": "thu hẹp phạm vi chọn lựa",
+      "example": "I have many interests, but I need to narrow down my options to either digital marketing or public relations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look into",
+      "ipa": "/lʊk ˈɪn.tuː/",
+      "meaning": "tìm hiểu, xem xét khả năng thực hiện điều gì đó",
+      "example": "I’m currently looking into scholarship programs that would allow me to study fine arts abroad.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

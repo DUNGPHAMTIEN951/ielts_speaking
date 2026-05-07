@@ -1,0 +1,76 @@
+{
+  "id": "q_8",
+  "vocab": [
+    {
+      "word": "set off",
+      "ipa": "/set ɒf/",
+      "meaning": "khởi hành, bắt đầu một chuyến đi",
+      "example": "I would love to set off on a journey across the Scottish Highlands at the crack of dawn.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head for",
+      "ipa": "/hed fɔːr/",
+      "meaning": "đi về phía, hướng về một nơi nào đó",
+      "example": "If I had the chance, I would head for the coastal paths of Cornwall to enjoy the sea breeze.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, ánh nắng)",
+      "example": "Walking through Kyoto in spring would be a dream, allowing me to soak up the serene atmosphere of the temples.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bəl əˈpɒn/",
+      "meaning": "tình cờ phát hiện ra",
+      "example": "I enjoy long walks in old European cities because you often stumble upon hidden gems like tiny bookstores or cafes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng ngoạn, ngắm nhìn (phong cảnh)",
+      "example": "I’d spend hours walking along the Seine in Paris to take in the breathtaking architecture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "double back",
+      "ipa": "/ˈdʌb.əl bæk/",
+      "meaning": "quay trở lại đường cũ",
+      "example": "The trail was so beautiful that I decided to double back just to see the waterfall from a different angle.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass through",
+      "ipa": "/pɑːs θruː/",
+      "meaning": "đi ngang qua, đi xuyên qua",
+      "example": "I would love a route that passes through dense forests and opens up into vast, rolling hills.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep on",
+      "ipa": "/kiːp ɒn/",
+      "meaning": "tiếp tục đi tới",
+      "example": "Even if my legs were tired, the stunning views would encourage me to keep on until I reached the summit.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "end up",
+      "ipa": "/end ʌp/",
+      "meaning": "kết thúc ở, dừng chân tại (thường là ngoài dự tính)",
+      "example": "I’d start walking without a map and see where I end up, perhaps at a secluded beach.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get away from",
+      "ipa": "/ɡet əˈweɪ frəm/",
+      "meaning": "thoát khỏi, rời xa (sự ồn ào, áp lực)",
+      "example": "A long walk in the countryside is the perfect way to get away from the frantic pace of city life.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_40",
+  "vocab": [
+    {
+      "word": "dead of night",
+      "ipa": "/ded əv naɪt/",
+      "meaning": "lúc nửa đêm tĩnh mịch",
+      "example": "Even in the dead of night, you can still hear the distant rumble of heavy trucks passing through the bypass.",
+      "type": "idiom"
+    },
+    {
+      "word": "a cacophony of sound",
+      "ipa": "/ə kəˈkɒfəni əv saʊnd/",
+      "meaning": "một mớ âm thanh hỗn tạp, chói tai",
+      "example": "The local wet market is a cacophony of sound, with vendors hawking their wares and motorbikes weaving through the crowd.",
+      "type": "idiom"
+    },
+    {
+      "word": "not a soul in sight",
+      "ipa": "/nɒt ə səʊl ɪn saɪt/",
+      "meaning": "không một bóng người (dùng để nhấn mạnh sự im lặng tuyệt đối trước khi có tiếng ồn)",
+      "example": "Early in the morning, there’s not a soul in sight, yet the blaring speakers from the public announcement system start to fill the air.",
+      "type": "idiom"
+    },
+    {
+      "word": "ring a bell",
+      "ipa": "/rɪŋ ə bel/",
+      "meaning": "nghe quen thuộc (dùng để chỉ các âm thanh thông báo quen thuộc hàng ngày)",
+      "example": "The distinctive chime of the ice cream truck always rings a bell and brings back childhood memories every afternoon.",
+      "type": "idiom"
+    },
+    {
+      "word": "at full blast",
+      "ipa": "/æt fʊl blɑːst/",
+      "meaning": "hết công suất, âm lượng tối đa",
+      "example": "My neighbors often play their techno music at full blast during the weekends, which can be quite intrusive.",
+      "type": "idiom"
+    },
+    {
+      "word": "thin walls",
+      "ipa": "/θɪn wɔːlz/",
+      "meaning": "tường mỏng (thành ngữ chỉ việc dễ dàng nghe thấy tiếng ồn từ phòng bên cạnh)",
+      "example": "Living in an old apartment block with thin walls means I’m privy to every muffled conversation from next door.",
+      "type": "idiom"
+    },
+    {
+      "word": "go like clockwork",
+      "ipa": "/ɡəʊ laɪk ˈklɒkwɜːk/",
+      "meaning": "diễn ra đều đặn như một cỗ máy (chỉ những tiếng ồn định kỳ)",
+      "example": "The construction noise across the street starts at 7 AM and goes like clockwork every single day.",
+      "type": "idiom"
+    },
+    {
+      "word": "ear-splitting",
+      "ipa": "/ɪə(r) ˈsplɪtɪŋ/",
+      "meaning": "chói tai, đinh tai nhức óc",
+      "example": "The ear-splitting whistle of the old train passing through the crossing is enough to wake the entire neighborhood.",
+      "type": "idiom"
+    },
+    {
+      "word": "get on someone's nerves",
+      "ipa": "/ɡet ɒn ˈsʌmwʌnz nɜːvz/",
+      "meaning": "làm ai đó bực mình, khó chịu",
+      "example": "The constant dripping of a leaky faucet in the middle of the night really gets on my nerves.",
+      "type": "idiom"
+    },
+    {
+      "word": "as quiet as a mouse",
+      "ipa": "/əz ˈkwaɪət əz ə maʊs/",
+      "meaning": "im phăng phắc như chuột (dùng để so sánh tương phản)",
+      "example": "My office is usually as quiet as a mouse, until the janitor starts the heavy-duty vacuum cleaner.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

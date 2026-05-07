@@ -1,0 +1,76 @@
+{
+  "id": "q_38",
+  "vocab": [
+    {
+      "word": "shut out",
+      "ipa": "/ʃʌt aʊt/",
+      "meaning": "ngăn chặn (âm thanh, tiếng ồn) bên ngoài",
+      "example": "I prefer quiet libraries because they allow me to shut out the world and focus entirely on my studies.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí)",
+      "example": "Whenever I visit the countryside, I love to just sit and soak up the tranquil atmosphere.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "chặn/không nghe thấy (tiếng ồn)",
+      "example": "I find it nearly impossible to block out the constant honking of horns in this city.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "thư giãn sau một thời gian căng thẳng",
+      "example": "A peaceful park is the perfect place for me to wind down after a hectic day at the office.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get away from",
+      "ipa": "/ɡet əˈweɪ frɒm/",
+      "meaning": "trốn khỏi, thoát khỏi (nơi nào đó)",
+      "example": "Sometimes I just need to get away from the hustle and bustle of the city center.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head for",
+      "ipa": "/hed fɔː(r)/",
+      "meaning": "đi thẳng đến (một nơi nào đó)",
+      "example": "If I'm feeling overwhelmed by noise, I usually head for the local botanical garden.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drown out",
+      "ipa": "/draʊn aʊt/",
+      "meaning": "át đi (tiếng ồn khác lớn hơn)",
+      "example": "The loud music in the cafe completely drowned out our conversation.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "perk up",
+      "ipa": "/pɜːk ʌp/",
+      "meaning": "trở nên hăng hái, phấn chấn hơn",
+      "example": "I actually perk up in lively, noisy environments because the energy of the crowd is infectious.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "chill out",
+      "ipa": "/tʃɪl aʊt/",
+      "meaning": "thư giãn, thả lỏng",
+      "example": "I’m not a fan of noisy clubs; I’d much rather chill out in a quiet lounge with a few friends.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "steer clear of",
+      "ipa": "/stɪə(r) klɪə(r) əv/",
+      "meaning": "tránh xa (cái gì đó không thích)",
+      "example": "I tend to steer clear of busy shopping malls during the weekends because the noise levels are deafening.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

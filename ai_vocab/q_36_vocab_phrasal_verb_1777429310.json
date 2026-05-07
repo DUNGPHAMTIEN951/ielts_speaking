@@ -1,0 +1,76 @@
+{
+  "id": "q_36",
+  "vocab": [
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌkl daʊn/",
+      "meaning": "bắt đầu học tập/làm việc một cách nghiêm túc và quyết tâm",
+      "example": "I find it much easier to knuckle down to my assignments in the morning when my mind is completely clear.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "slack off",
+      "ipa": "/slæk ɔːf/",
+      "meaning": "làm việc ít nhiệt tình hơn, trở nên lười biếng hoặc uể oải",
+      "example": "By the late afternoon, I tend to slack off because my concentration levels start to dip significantly.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/soʊk ʌp/",
+      "meaning": "hấp thụ/tiếp thu kiến thức một cách nhanh chóng và dễ dàng",
+      "example": "I prefer the morning hours as I feel like a sponge, ready to soak up complex theories without much effort.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get through",
+      "ipa": "/ɡet θruː/",
+      "meaning": "hoàn thành một lượng lớn công việc hoặc bài tập",
+      "example": "If I start early, I can get through a mountain of reading before lunch even rolls around.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ease into",
+      "ipa": "/iːz ˈɪntuː/",
+      "meaning": "bắt đầu một việc gì đó một cách từ từ và nhẹ nhàng",
+      "example": "I'm not a morning person, so I like to ease into my studies in the afternoon after a long, relaxing lunch.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burn out",
+      "ipa": "/bɜːrn aʊt/",
+      "meaning": "kiệt sức hoặc quá tải do làm việc quá độ",
+      "example": "I avoid heavy studying in the morning because I don't want to burn out before the day has even really begun.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "muddle through",
+      "ipa": "/ˈmʌdl θruː/",
+      "meaning": "xoay sở để hoàn thành việc gì đó dù không có kế hoạch rõ ràng hoặc đang mệt mỏi",
+      "example": "If I have to study in the afternoon, I usually just muddle through the easier tasks since my brain is quite foggy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "perk up",
+      "ipa": "/pɜːrk ʌp/",
+      "meaning": "trở nên tỉnh táo, vui vẻ hoặc tràn đầy năng lượng hơn",
+      "example": "I usually perk up after my afternoon tea, which makes it the most productive time for me to tackle hard subjects.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "plow through",
+      "ipa": "/plaʊ θruː/",
+      "meaning": "làm một việc gì đó (như đọc sách, làm bài) một cách kiên trì dù nó khó khăn hay nhàm chán",
+      "example": "The quiet of the early morning allows me to plow through dense textbooks that would normally take me twice as long.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "taper off",
+      "ipa": "/ˈteɪpər ɔːf/",
+      "meaning": "giảm dần về cường độ hoặc mức độ",
+      "example": "My energy levels are peak in the morning but they quickly taper off as soon as the afternoon heat sets in.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

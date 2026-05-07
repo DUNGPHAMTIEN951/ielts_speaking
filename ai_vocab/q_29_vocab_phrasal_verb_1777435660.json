@@ -1,0 +1,76 @@
+{
+  "id": "q_29",
+  "vocab": [
+    {
+      "word": "major in",
+      "ipa": "/ˈmeɪ.dʒər ɪn/",
+      "meaning": "học chuyên ngành chính về một lĩnh vực nào đó",
+      "example": "I am currently a sophomore at university where I major in International Relations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out into",
+      "ipa": "/brɑːntʃ aʊt ˈɪn.tuː/",
+      "meaning": "mở rộng sang một lĩnh vực mới hoặc thử làm điều gì đó khác biệt",
+      "example": "Although I started as a graphic designer, I’ve recently decided to branch out into UI/UX design to stay competitive.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌk.əl daʊn/",
+      "meaning": "bắt đầu làm việc hoặc học tập một cách nghiêm túc và chăm chỉ",
+      "example": "With the final exams approaching, I've had to knuckle down and spend most of my evenings in the library.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall behind with",
+      "ipa": "/fɔːl bɪˈhaɪnd wɪð/",
+      "meaning": "chậm trễ, không theo kịp tiến độ (công việc hoặc bài vở)",
+      "example": "If I miss even one lecture, I find it incredibly easy to fall behind with the coursework.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "scrape through",
+      "ipa": "/skreɪp θruː/",
+      "meaning": "vừa đủ điểm đỗ hoặc vượt qua một thử thách một cách sát sao",
+      "example": "I didn't prepare well for my statistics module, so I only managed to scrape through with a passing grade.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "climb up",
+      "ipa": "/klaɪm ʌp/",
+      "meaning": "thăng tiến, leo lên (thường nói về nấc thang sự nghiệp)",
+      "example": "I am working long hours at the firm because I am determined to climb up the corporate ladder quickly.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hand in",
+      "ipa": "/hænd ɪn/",
+      "meaning": "nộp (bài tập, báo cáo hoặc đơn từ)",
+      "example": "I’ve been staying up late all week to finish my dissertation so I can hand it in before the deadline.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get ahead",
+      "ipa": "/ɡet əˈhed/",
+      "meaning": "thành công hoặc tiến xa hơn những người khác",
+      "example": "In such a saturated job market, gaining extra certifications is the only way to truly get ahead.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry out",
+      "ipa": "/ˈkær.i aʊt/",
+      "meaning": "tiến hành, thực hiện (nghiên cứu, nhiệm vụ)",
+      "example": "As part of my final year project, I have to carry out extensive field research in rural areas.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "embark on",
+      "ipa": "/ɪmˈbɑːrk ɒn/",
+      "meaning": "bắt đầu thực hiện (một hành trình, dự án hoặc sự nghiệp)",
+      "example": "After four years of intense study, I am about to embark on a career in digital marketing.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "q_25",
+  "topic": "Carrying things",
+  "q": "What is the difference between the things you carry in the evening and in the morning?",
+  "examiner_note": "So sánh nhu cầu công việc vs xã hội. Sử dụng 'functional items', 'academic materials', 'social events', 'bare necessities'.",
+  "samples": {
+    "band7": {
+      "text": "In the morning, I'm usually carrying more functional items like my lunch and academic materials for school. In the evening, if I'm going out for dinner or social events, I tend to carry much lighter, just the bare necessities like my phone and keys.",
+      "note": "So sánh rõ ràng và sử dụng từ vựng tốt (functional, bare necessities)."
+    },
+    "band8": {
+      "text": "There’s a marked difference. My morning bag is typically packed with essentials for the workday, like my laptop and various documents. Conversely, my evening carry is much more streamlined, as I’m usually focused on social interaction and don’t need the heavy equipment from earlier in the day.",
+      "note": "Sử dụng từ vựng hay (marked difference, Conversely, streamlined)."
+    },
+    "band9": {
+      "text": "The disparity is significant. My morning routine necessitates a more comprehensive array of items to navigate a productive day. In contrast, my evening outings are characterized by a minimalist approach, where I prioritize mobility and ease, carrying only what is absolutely essential for the social context.",
+      "note": "Sử dụng từ vựng ở mức độ cao (disparity, necessitates, comprehensive array, minimalist, mobility)."
+    }
+  },
+  "v": [
+    {
+      "word": "disparity",
+      "meaning": "sự khác biệt/chênh lệch",
+      "ipa": "/dɪˈspærəti/",
+      "example": "There is a significant disparity between the two groups."
+    },
+    {
+      "word": "minimalist",
+      "meaning": "tối giản",
+      "ipa": "/ˈmɪnɪməlɪst/",
+      "example": "He has a very minimalist style of decorating."
+    },
+    {
+      "word": "mobility",
+      "meaning": "sự di động/linh hoạt",
+      "ipa": "/məʊˈbɪləti/",
+      "example": "The exercises are designed to improve your mobility."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "array",
+      "meaning": "một loạt/dãy",
+      "ipa": "/əˈreɪ/",
+      "example": "The shop offers a wide array of products."
+    }
+  ],
+  "similar_questions": [
+    "Do you prefer carrying a bag or just putting things in your pocket?",
+    "What is the most useless thing you carry?"
+  ]
+}

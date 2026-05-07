@@ -1,0 +1,50 @@
+{
+  "q": "Describe a person you know who is from a different culture.",
+  "cue_card": [
+    "A person you know who is from a different culture.",
+    "Who this person is",
+    "Where he/she is from",
+    "How you know this person",
+    "And explain what you have learned from this person"
+  ],
+  "examiner_note": "Chủ đề văn hóa yêu cầu vốn từ về sự đa dạng (diversity, cultural exchange, heritage). Hãy tập trung vào những khác biệt tích cực và cách mà sự khác biệt đó làm phong phú thêm thế giới quan của bạn (broaden horizons).",
+  "samples": {
+    "band7": "I'm going to talk about my friend, Alex. He is from Germany but he has been living in Vietnam for two years. I met him at a language exchange club. We often talk about our countries and tradition. From Alex, I have learned a lot about German culture, like how they value punctuality and their love for bread. He is very open and always happy to answer my questions. Knowing him has made me more curious about the world.",
+    "band8": "I’d like to describe a good friend of mine named Alex, who hails from Germany. We became acquainted about two years ago through a local community project. Interacting with someone from such a distinct cultural background has been an incredibly eye-opening experience for me. Alex is a staunch believer in punctuality and efficiency, which are core traits of German culture. Through our countless conversations, I’ve gained a deeper appreciation for their historical heritage and social norms. I’ve essentially learned to look at the world through a different lens, realizing that there are many ways to approach life's challenges.",
+    "band9": "The person I’ve chosen to highlight is Alex, a German national whom I’ve had the pleasure of knowing for several years. Our paths crossed during a collaborative research project, and since then, our friendship has been a continuous journey of cultural exchange. Alex is a personification of the disciplined yet intellectually curious spirit often associated with his homeland. What I’ve found most enriching is our dialogue on the nuances of communal values versus individualism. He has taught me the importance of structural integrity in both work and personal life, while also sharing the rich tapestry of German folklore and philosophy. Ultimately, my relationship with Alex has been instrumental in broadening my horizons and fostering a more profound sense of global citizenship."
+  },
+  "v": [
+    {
+      "word": "Stanch believer",
+      "meaning": "Người tin tưởng mạnh mẽ (A person who is very loyal and committed in their attitude or belief)",
+      "example": "He is a staunch believer in the power of education to change lives."
+    },
+    {
+      "word": "Punctuality",
+      "meaning": "Sự đúng giờ (The fact or quality of being on time)",
+      "example": "In many cultures, punctuality is seen as a sign of respect."
+    },
+    {
+      "word": "Broaden horizons",
+      "meaning": "Mở rộng tầm mắt/kiến thức (To expand one's range of interests, experiences, and knowledge)",
+      "example": "Traveling is one of the best ways to broaden your horizons."
+    },
+    {
+      "word": "Cultural exchange",
+      "meaning": "Trao đổi văn hóa (The sharing of ideas, traditions, and knowledge between people of different backgrounds)",
+      "example": "The program encourages cultural exchange between students from different countries."
+    },
+    {
+      "word": "Global citizenship",
+      "meaning": "Công dân toàn cầu (The idea that one's identity transcends geography or political borders and that responsibilities are derived from membership in a broader class)",
+      "example": "Education should foster a sense of global citizenship and mutual respect."
+    },
+    {
+      "word": "Rich tapestry",
+      "meaning": "Sự đan xen phong phú (Used to describe something that is complex and full of variety)",
+      "example": "The city's history is a rich tapestry of different influences and events."
+    }
+  ],
+  "topic": "Describe a person you know who is from a different culture.",
+  "id": "p2_q6"
+}

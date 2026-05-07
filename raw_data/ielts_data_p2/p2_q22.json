@@ -1,0 +1,50 @@
+{
+  "q": "Describe an experience when you had very bad weather.",
+  "cue_card": [
+    "An experience when you had very bad weather.",
+    "When it was",
+    "Where you were",
+    "What the weather was like",
+    "And explain how you felt about this experience"
+  ],
+  "examiner_note": "Chủ đề thời tiết đòi hỏi từ vựng phong phú về các hiện tượng tự nhiên (torrential rain, harsh blizzard, unpredictable). Để miêu tả cảm xúc, hãy sử dụng các từ thể hiện sự bất tiện hoặc lo lắng, sau đó là sự nhẹ nhõm (anxious, stranded, relieved).",
+  "samples": {
+    "band7": "I'm going to talk about a time I experienced a huge storm. It happened last year when I was visiting my grandparents in the countryside. The sky suddenly turned dark, and there was a heavy downpour with strong winds. I was inside the house, but we lost electricity. It was very loud and scary. I felt quite anxious because I had never seen such a strong storm before, but I was also relieved that we were safe inside.",
+    "band8": "I’d like to describe an unforgettable experience with severe weather, which occurred about two years ago during a hiking trip in the mountains. We were halfway up the trail when an unexpected thunderstorm rolled in. The weather shifted from sunny to a torrential downpour accompanied by fierce gale-force winds in a matter of minutes. We had to seek shelter in a small cave to wait it out. I felt incredibly vulnerable and stranded during the ordeal, but it also instilled in me a deep respect for the unpredictable and overpowering nature of the elements.",
+    "band9": "A particularly harrowing weather-related incident I encountered took place during a road trip across the country. I was navigating through a notoriously desolate region when we were unexpectedly engulfed by a severe blizzard. The visibility dropped to near-zero, creating whiteout conditions, and the temperature plummeted drastically. We were forced to pull over and wait out the storm inside the vehicle for several hours. The sheer ferocity of the blizzard left me feeling acutely vulnerable and isolated. However, surviving the ordeal ultimately gave me a profound sense of relief and a newfound reverence for the formidable power of Mother Nature."
+  },
+  "v": [
+    {
+      "word": "Torrential downpour",
+      "meaning": "Mưa xối xả (Heavy, rapid, and pouring rain)",
+      "example": "The baseball game was canceled due to a torrential downpour."
+    },
+    {
+      "word": "Gale-force winds",
+      "meaning": "Gió giật mạnh (Winds that are very strong, typically between 34 and 47 knots)",
+      "example": "The ferry service was suspended because of gale-force winds."
+    },
+    {
+      "word": "Vulnerable",
+      "meaning": "Dễ bị tổn thương, yếu ớt (Susceptible to physical or emotional attack or harm)",
+      "example": "Small children are particularly vulnerable to this disease."
+    },
+    {
+      "word": "Unpredictable",
+      "meaning": "Không thể đoán trước (Not able to be foreseen or known beforehand; changeable)",
+      "example": "The weather in this mountainous region is highly unpredictable."
+    },
+    {
+      "word": "Whiteout conditions",
+      "meaning": "Tình trạng trắng xóa, không thể nhìn thấy gì do bão tuyết (A weather condition in which visibility and contrast are severely reduced by snow)",
+      "example": "Driving in whiteout conditions is extremely dangerous."
+    },
+    {
+      "word": "Formidable power",
+      "meaning": "Sức mạnh ghê gớm/đáng nể (Inspiring fear or respect through being impressively large, powerful, intense, or capable)",
+      "example": "The ocean has a formidable power that should never be underestimated."
+    }
+  ],
+  "topic": "Describe an experience when you had very bad weather.",
+  "id": "p2_q22"
+}

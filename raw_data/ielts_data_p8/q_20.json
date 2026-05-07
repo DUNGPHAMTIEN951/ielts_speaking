@@ -1,0 +1,49 @@
+{
+  "topic": "Describe a book you read that you found useful",
+  "q": "Some people say that it is easier for children who start reading from a young age to succeed. Do you agree?",
+  "examiner_note": "Với chủ đề 'Describe a book you read that you found useful', hãy chú ý đến cấu trúc bài nói. Đảm bảo bạn trả lời đầy đủ các ý trong câu hỏi và sử dụng từ vựng phong phú.",
+  "samples": {
+    "band7": "Well, regarding describe a book you read that you found useful, I would say that it's quite an interesting subject. Personally, I think that some people say that it is easier for children who start reading from a young age to succeed. do you agree? is something many people find relevant. For instance, when I was younger, I used to think differently, but now I realize its importance.",
+    "band8": "That's a compelling topic to discuss. To be perfectly honest, describe a book you read that you found useful has always been something I've found quite fascinating. From a broader perspective, some people say that it is easier for children who start reading from a young age to succeed. do you agree? allows us to understand the underlying motivations behind our actions. I'm of the opinion that a more sophisticated approach is needed.",
+    "band9": "Indubitably, the intricacies of describe a book you read that you found useful offer a wealth of analytical possibilities. It is not merely a superficial phenomenon but rather a deep-seated reflection of our cultural values. If we delve into the nuances of some people say that it is easier for children who start reading from a young age to succeed. do you agree?, we can discern a clear paradigm shift in how we perceive this issue."
+  },
+  "v": [
+    {
+      "word": "relevant",
+      "ipa": "/ˈreləvənt/",
+      "meaning": "liên quan",
+      "example": "That's a very relevant point."
+    },
+    {
+      "word": "fascinating",
+      "ipa": "/ˈfæsɪneɪtɪŋ/",
+      "meaning": "hấp dẫn",
+      "example": "I found the book absolutely fascinating."
+    },
+    {
+      "word": "sophisticated",
+      "ipa": "/səˈfɪstɪkeɪtɪd/",
+      "meaning": "tinh vi/phức tạp",
+      "example": "The software uses highly sophisticated algorithms."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "indubitably",
+      "ipa": "/ɪnˈduːbɪtəbli/",
+      "meaning": "không nghi ngờ gì nữa",
+      "example": "He is indubitably the best candidate."
+    },
+    {
+      "word": "paradigm shift",
+      "ipa": "/ˈpærədaɪm ʃɪft/",
+      "meaning": "sự thay đổi hệ tư tưởng",
+      "example": "The internet caused a major paradigm shift in communication."
+    }
+  ],
+  "similar_questions": [
+    "Have you ever experienced Describe a book you read that you found useful?",
+    "Why is {topic} important in modern society?"
+  ],
+  "id": "q_20"
+}

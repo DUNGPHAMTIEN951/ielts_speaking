@@ -1,0 +1,76 @@
+{
+  "id": "q_4",
+  "vocab": [
+    {
+      "word": "play off each other",
+      "ipa": "/pleɪ ɒf iːtʃ ˈʌð.ər/",
+      "meaning": "phối hợp, tận dụng thế mạnh của nhau để cùng tiến bộ",
+      "example": "In basketball, teammates play off each other to create scoring opportunities, which is impossible in solo events.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spur on",
+      "ipa": "/spɜːr ɒn/",
+      "meaning": "khuyến khích, thúc đẩy ai đó nỗ lực hơn",
+      "example": "Being part of a relay team really spurs you on because you don't want to let your partners down.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig deep",
+      "ipa": "/dɪɡ diːp/",
+      "meaning": "cố gắng hết sức, dùng đến những nguồn lực cuối cùng (thường là tinh thần)",
+      "example": "Individual sports force you to dig deep and find internal motivation when you hit a wall physically.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pan out",
+      "ipa": "/pæn aʊt/",
+      "meaning": "diễn ra theo một cách cụ thể (thường là kết quả tốt đẹp)",
+      "example": "In team sports, even if your personal strategy doesn't pan out, a teammate might save the game with a brilliant move.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "face up to",
+      "ipa": "/feɪs ʌp tuː/",
+      "meaning": "chấp nhận và đối mặt với một sự thật khó khăn",
+      "example": "Solo athletes have to face up to their shortcomings alone, without the buffer of a team's collective responsibility.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull together",
+      "ipa": "/pʊl təˈɡeð.ər/",
+      "meaning": "hợp sức, đồng lòng làm việc cùng nhau",
+      "example": "A match is won when the whole squad pulls together during the final minutes of a high-pressure game.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊ.vər/",
+      "meaning": "suy ngẫm, cân nhắc kỹ lưỡng (về chiến thuật/lỗi sai)",
+      "example": "In sports like golf, players often mull over every single shot, whereas team sports move too fast for such introspection.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out from",
+      "ipa": "/stænd aʊt frəm/",
+      "meaning": "nổi bật, khác biệt hoàn toàn so với những người khác",
+      "example": "It is much easier to stand out from the crowd in an individual sport where all eyes are exclusively on you.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "work through",
+      "ipa": "/wɜːk θruː/",
+      "meaning": "vượt qua, giải quyết một vấn đề dần dần",
+      "example": "Team members must work through their interpersonal conflicts to ensure the group remains cohesive on the field.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp, duy trì cùng tốc độ/trình độ với người khác",
+      "example": "In team sports, there is a constant pressure to keep up with the physical fitness of the elite players in your squad.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

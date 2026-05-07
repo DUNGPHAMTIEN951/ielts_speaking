@@ -1,0 +1,76 @@
+{
+  "id": "q_47",
+  "vocab": [
+    {
+      "word": "two heads are better than one",
+      "ipa": "/tuː hedz ɑːr ˈbetər ðæn wʌn/",
+      "meaning": "hai đầu thì tốt hơn một (ý nói làm việc nhóm hiệu quả hơn)",
+      "example": "When tackling complex calculus problems, I firmly believe that two heads are better than one.",
+      "type": "idiom"
+    },
+    {
+      "word": "a lone wolf",
+      "ipa": "/ə ləʊn wʊlf/",
+      "meaning": "người thích làm việc/hoạt động độc lập",
+      "example": "In terms of academic revision, I've always been a bit of a lone wolf because I find groups quite distracting.",
+      "type": "idiom"
+    },
+    {
+      "word": "pick someone's brains",
+      "ipa": "/pɪk ˈsʌmwʌnz breɪnz/",
+      "meaning": "hỏi ý kiến ai đó để học hỏi từ kiến thức của họ",
+      "example": "I enjoy group sessions as they provide a golden opportunity to pick my classmates' brains on difficult topics.",
+      "type": "idiom"
+    },
+    {
+      "word": "get your head down",
+      "ipa": "/ɡet jɔːr hed daʊn/",
+      "meaning": "tập trung cao độ để làm việc/học tập",
+      "example": "If I really need to get my head down and memorize vocabulary, I have to be in a silent room by myself.",
+      "type": "idiom"
+    },
+    {
+      "word": "be in the same boat",
+      "ipa": "/bi ɪn ðə seɪm bəʊt/",
+      "meaning": "cùng chung cảnh ngộ (thường là cùng gặp khó khăn)",
+      "example": "Studying with others makes me feel less stressed because I realize we are all in the same boat regarding the exam pressure.",
+      "type": "idiom"
+    },
+    {
+      "word": "the best of both worlds",
+      "ipa": "/ðə best əv bəʊθ wɜːrldz/",
+      "meaning": "có được lợi thế của cả hai lựa chọn",
+      "example": "I try to have the best of both worlds by studying solo during the week and joining a study circle on weekends.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep your nose to the grindstone",
+      "ipa": "/kiːp jɔːr nəʊz tə ðə ˈɡraɪndstəʊn/",
+      "meaning": "làm việc/học tập cực kỳ chăm chỉ trong một thời gian dài",
+      "example": "When finals approach, I prefer to keep my nose to the grindstone alone in the library to ensure maximum productivity.",
+      "type": "idiom"
+    },
+    {
+      "word": "play second fiddle",
+      "ipa": "/pleɪ ˈsekənd ˈfɪdl/",
+      "meaning": "đóng vai phụ/bị lép vế (lý do tại sao một số người ghét học nhóm)",
+      "example": "In group settings, I sometimes feel like I'm playing second fiddle to more dominant personalities, which hinders my learning.",
+      "type": "idiom"
+    },
+    {
+      "word": "at your own pace",
+      "ipa": "/æt jɔːr əʊn peɪs/",
+      "meaning": "theo tốc độ/nhịp độ riêng của bản thân",
+      "example": "Studying alone is superior for me because I can digest the material at my own pace without feeling rushed.",
+      "type": "idiom"
+    },
+    {
+      "word": "sink or swim",
+      "ipa": "/sɪŋk ɔːr swɪm/",
+      "meaning": "tự bơi hoặc chìm (ý nói phải tự lực cánh sinh)",
+      "example": "I prefer solo study because it’s a sink or swim situation that forces me to take full responsibility for my grades.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

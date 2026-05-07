@@ -1,0 +1,76 @@
+{
+  "id": "q_7",
+  "vocab": [
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "nằm ẩn mình/biệt lập ở một nơi yên tĩnh",
+      "example": "Many people enjoy parks because they provide small benches tucked away from the main paths, offering a sense of privacy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔːr ˈəʊvər/",
+      "meaning": "nghiền ngẫm/quan sát kỹ lưỡng",
+      "example": "It's common to see nature lovers poring over the diverse flora and fauna found within the park's boundaries.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "freshen up",
+      "ipa": "/ˈfreʃn ʌp/",
+      "meaning": "làm cho sảng khoái/tươi mới lại",
+      "example": "A quick walk through a green space is an excellent way to freshen up your mind after spending hours in a stuffy office.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊvər/",
+      "meaning": "suy ngẫm/cân nhắc kỹ về một vấn đề",
+      "example": "The rhythmic pace of walking in a park allows individuals to mull over life's challenges in a peaceful environment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fend off",
+      "ipa": "/fend ɒf/",
+      "meaning": "ngăn chặn/đẩy lùi (cảm giác tiêu cực, bệnh tật)",
+      "example": "Regular strolls in nature can help fend off feelings of anxiety and sedentary-related health issues.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "map out",
+      "ipa": "/mæp aʊt/",
+      "meaning": "lên kế hoạch/vạch ra (ý tưởng, hành trình)",
+      "example": "I find that walking in the park helps me map out my schedule for the week ahead without any distractions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bottle up",
+      "ipa": "/ˈbɒtl ʌp/",
+      "meaning": "dồn nén (cảm xúc)",
+      "example": "Being in an open, green space encourages people to release the stress they've been bottling up during work.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep to",
+      "ipa": "/kiːp tuː/",
+      "meaning": "duy trì/tuân thủ (một thói quen)",
+      "example": "A park provides a safe and pleasant environment that helps locals keep to their daily exercise routines.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɒf/",
+      "meaning": "thả hồn theo/mơ màng (hoặc ngủ quên)",
+      "example": "The tranquil atmosphere of the park makes it easy to drift off into a daydream and forget about one's worries.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tide someone over",
+      "ipa": "/taɪd ˈsʌmwʌn ˈəʊvər/",
+      "meaning": "giúp ai đó vượt qua một giai đoạn khó khăn",
+      "example": "For those living in cramped apartments, a weekend visit to the park is often enough to tide them over until their next vacation.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

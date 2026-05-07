@@ -1,0 +1,76 @@
+{
+  "id": "q_2",
+  "vocab": [
+    {
+      "word": "draw in",
+      "ipa": "/drɔː ɪn/",
+      "meaning": "thu hút (đám đông/sự chú ý)",
+      "example": "Major football tournaments always manage to draw in massive crowds of enthusiastic supporters.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "rally around",
+      "ipa": "/ˈræli əˈraʊnd/",
+      "meaning": "tập hợp lại để ủng hộ (ai đó/đội nào đó)",
+      "example": "When the national team plays, the entire country seems to rally around them in a show of unity.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "catch on",
+      "ipa": "/kætʃ ɒn/",
+      "meaning": "trở nên phổ biến/thịnh hành",
+      "example": "Basketball has really started to catch on among the youth in recent years due to international influence.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm bộc lộ (phẩm chất/tính cách)",
+      "example": "Team sports are great because they often bring out the competitive spirit in even the quietest individuals.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull together",
+      "ipa": "/pʊl təˈɡeðər/",
+      "meaning": "cùng nhau nỗ lực, đoàn kết làm việc",
+      "example": "In our culture, we value how players pull together to overcome a stronger opponent.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cheer on",
+      "ipa": "/tʃɪər ɒn/",
+      "meaning": "cổ vũ nhiệt tình",
+      "example": "Thousands of fans flocked to the stadium just to cheer on their favorite local club.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒər ʌp tuː/",
+      "meaning": "đạt tới tiêu chuẩn/kỳ vọng của ai đó",
+      "example": "Young athletes often feel pressured to measure up to the legends who came before them.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry off",
+      "ipa": "/ˈkæri ɒf/",
+      "meaning": "giành được (giải thưởng/chiến thắng) một cách thuyết phục",
+      "example": "The underdogs managed to carry off the trophy, which was a huge surprise to the entire nation.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stem from",
+      "ipa": "/stem frəm/",
+      "meaning": "bắt nguồn từ",
+      "example": "The popularity of volleyball in my country stems from its long history in the school curriculum.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look up to",
+      "ipa": "/lʊk ʌp tuː/",
+      "meaning": "ngưỡng mộ và tôn trọng",
+      "example": "Many children look up to professional athletes as role models for hard work and discipline.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

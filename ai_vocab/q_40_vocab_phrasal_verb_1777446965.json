@@ -1,0 +1,76 @@
+{
+  "id": "q_40",
+  "vocab": [
+    {
+      "word": "pipe up",
+      "ipa": "/paɪp ʌp/",
+      "meaning": "bắt đầu nói hoặc tạo ra âm thanh (thường là giọng cao hoặc bất ngờ)",
+      "example": "Just when the street goes quiet, a neighbor's dog will pipe up and start barking at nothing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blare out",
+      "ipa": "/bleər aʊt/",
+      "meaning": "phát ra âm thanh rất to và chói tai (thường là loa đài)",
+      "example": "I can often hear pop music blaring out from the local shops as I walk down the main road.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "die down",
+      "ipa": "/daɪ daʊn/",
+      "meaning": "giảm dần âm lượng hoặc cường độ cho đến khi im hẳn",
+      "example": "The roar of the evening traffic finally starts to die down around midnight, allowing me to sleep.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "echo back",
+      "ipa": "/ˈekəʊ bæk/",
+      "meaning": "vọng lại, dội lại âm thanh",
+      "example": "The sound of footsteps tends to echo back in the narrow alleyway behind my apartment building.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drone on",
+      "ipa": "/drəʊn ɒn/",
+      "meaning": "kêu rì rì hoặc nói lầm bầm một cách đơn điệu, nhàm chán",
+      "example": "The old ceiling fan in my classroom just drones on and on, which can be quite distracting during exams.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "filter through",
+      "ipa": "/ˈfɪltər θruː/",
+      "meaning": "lọt qua, truyền qua (một vật cản để đến tai người nghe)",
+      "example": "Even with the windows shut, the muffled sounds of the busy market still filter through into my living room.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "startle out of",
+      "ipa": "/ˈstɑːrtl aʊt əv/",
+      "meaning": "làm giật mình tỉnh giấc hoặc rời khỏi một trạng thái nào đó",
+      "example": "Sudden thunderclaps often startle me out of my concentration when I'm working from home.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "perk up",
+      "ipa": "/pɜːrk ʌp/",
+      "meaning": "trở nên sôi nổi, to rõ hơn hoặc chú ý hơn",
+      "example": "The chatter in the cafe usually perks up during the lunch hour when the office workers arrive.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "emanate from",
+      "ipa": "/ˈeməneɪt frəm/",
+      "meaning": "phát ra từ, tỏa ra từ (một nguồn cụ thể)",
+      "example": "A constant humming noise emanates from the large power generator located across the street.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "chime in",
+      "ipa": "/tʃaɪm ɪn/",
+      "meaning": "hòa vào, xen vào (âm thanh của chuông hoặc nhiều người cùng nói)",
+      "example": "Every morning at 6 AM, the local temple bells chime in, marking the start of a new day.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

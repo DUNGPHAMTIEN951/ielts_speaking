@@ -1,0 +1,76 @@
+{
+  "id": "q_34",
+  "vocab": [
+    {
+      "word": "embark on",
+      "ipa": "/ɪmˈbɑːrk ɒn/",
+      "meaning": "bắt đầu một hành trình, sự nghiệp hoặc dự án mới",
+      "example": "After graduation, I’m planning to embark on a career in digital marketing to apply my creative skills.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carve out",
+      "ipa": "/kɑːrv aʊt/",
+      "meaning": "nỗ lực để tạo ra/xây dựng (danh tiếng, sự nghiệp)",
+      "example": "I hope to carve out a niche for myself in the sustainable energy sector once I have my degree.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look into",
+      "ipa": "/lʊk ˈɪntuː/",
+      "meaning": "nghiên cứu, xem xét hoặc tìm hiểu khả năng làm gì",
+      "example": "I'm currently looking into several internship programs abroad to broaden my horizons.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "map out",
+      "ipa": "/mæp aʊt/",
+      "meaning": "lên kế hoạch chi tiết cho tương lai",
+      "example": "I’ve already started to map out my long-term goals to ensure I stay on track after leaving university.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up for",
+      "ipa": "/ɡɪər ʌp fɔːr/",
+      "meaning": "chuẩn bị sẵn sàng cho một sự kiện hoặc giai đoạn mới",
+      "example": "Right now, I’m gearing up for a series of rigorous interviews with top-tier tech firms.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "có cái gì đó để dựa dẫm vào (kế hoạch dự phòng)",
+      "example": "If my startup idea doesn't take off, I can always fall back on my teaching certification.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "follow through with",
+      "ipa": "/ˈfɒloʊ θruː wɪð/",
+      "meaning": "hoàn thành hoặc thực hiện đến cùng một kế hoạch đã định",
+      "example": "It’s important for me to follow through with my plan to volunteer in Africa before settling into a corporate job.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "end up",
+      "ipa": "/end ʌp/",
+      "meaning": "cuối cùng thì (đạt được kết quả hoặc ở một vị trí nào đó)",
+      "example": "I’m not entirely sure yet, but I might end up pursuing a Master’s degree if the job market remains sluggish.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌkl daʊn/",
+      "meaning": "bắt đầu làm việc một cách nghiêm túc và cật lực",
+      "example": "After a short break, I’ll need to knuckle down and focus on building my professional portfolio.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off for",
+      "ipa": "/set ɒf fɔːr/",
+      "meaning": "khởi hành hoặc bắt đầu một chuyến đi (thường là để học tập/làm việc ở xa)",
+      "example": "In September, I’ll be setting off for Japan to participate in a cultural exchange program.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

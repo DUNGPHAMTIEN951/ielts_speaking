@@ -1,0 +1,72 @@
+{
+  "id": "q_16",
+  "topic": "Building",
+  "q": "Do you take photos of buildings?",
+  "examiner_note": "Câu hỏi này kết hợp giữa chủ đề kiến trúc và thói quen cá nhân. Giám khảo muốn nghe bạn mô tả bạn thích gì ở việc chụp ảnh các tòa nhà (ví dụ: vẻ đẹp cổ kính, sự đối xứng, hay sự độc đáo của thiết kế hiện đại). Hãy sử dụng các cụm từ như 'architectural photography', 'stunning facades', 'geometric patterns' để nâng tầm câu trả lời. Bạn cũng có thể nhắc đến các thiết bị bạn dùng (phone camera, DSLR).",
+  "samples": {
+    "band7": {
+      "text": "Yes, I occasionally take photos of buildings, especially when I visit a new city. I'm really attracted to old buildings with unique designs and beautiful decorations. I usually just use my phone to snap a few shots for my social media.",
+      "note": "Trả lời trực tiếp, rõ ràng. Có ví dụ về loại tòa nhà yêu thích (old buildings). Sử dụng từ vựng tự nhiên."
+    },
+    "band8": {
+      "text": "Actually, I’m quite a fan of architectural photography. I find the geometric patterns and the symmetry of modern skyscrapers to be incredibly fascinating. Whenever I’m out exploring, I make it a point to capture the stunning facades of buildings that stand out to me. It’s a great way to appreciate the art within the urban landscape.",
+      "note": "Sử dụng từ vựng chuyên môn tốt (architectural photography, geometric patterns, symmetry, facades, urban landscape). Cách diễn đạt trôi chảy và có chiều sâu."
+    },
+    "band9": {
+      "text": "Absolutely. I’ve developed a keen interest in documenting the diverse architectural styles I encounter world-wide. For me, it’s about capturing the interplay between light and structure, and highlighting the intricate details of a building's facade. Whether it’s the timeless elegance of classic monuments or the bold, unconventional designs of contemporary architecture, I find that each structure tells a unique visual story that is well worth preserving through a lens.",
+      "note": "Sử dụng vốn từ vựng cực kỳ phong phú và học thuật (documenting, interplay, intricate details, timeless elegance, unconventional, contemporary, visual story, lens). Cách lập luận mang tính nghệ thuật và triết lý cao."
+    }
+  },
+  "v": [
+    { "word": "architectural photography", "meaning": "nhiếp ảnh kiến trúc", "ipa": "/ˌɑːrkɪˈtektʃərəl fəˈtɑːɡrəfi/", "example": "Architectural photography focuses on the design and aesthetics of buildings." },
+    { "word": "geometric patterns", "meaning": "các họa tiết hình học", "ipa": "/ˌdʒiːəˈmetrɪk ˈpætərnz/", "example": "The building is decorated with many intricate geometric patterns." },
+    { "word": "symmetry", "meaning": "sự đối xứng", "ipa": "/ˈsɪmətri/", "example": "The architect used symmetry to create a sense of balance and harmony." },
+    { "word": "stunning facade", "meaning": "mặt tiền tuyệt đẹp", "ipa": "/ˈstʌnɪŋ fəˈsɑːd/", "example": "The historic cathedral features a stunning marble facade." },
+    { "word": "urban landscape", "meaning": "phong cảnh đô thị", "ipa": "/ˈɜːrbən ˈlændskeɪp/", "example": "Skyscrapers are the dominant feature of the modern urban landscape." },
+    { "word": "interplay", "meaning": "sự tương tác/kết hợp", "ipa": "/ˈɪntərpleɪ/", "example": "The interplay of light and shadow on the walls was beautiful." },
+    { "word": "intricate details", "meaning": "các chi tiết phức tạp/tỉ mỉ", "ipa": "/ˈɪntrɪkət ˈdiːteɪlz/", "example": "The wood carvings show a lot of intricate details." },
+    { "word": "timeless elegance", "meaning": "vẻ thanh lịch trường tồn với thời gian", "ipa": "/ˈtaɪmləs ˈelɪɡəns/", "example": "The old palace has an air of timeless elegance." },
+    { "word": "unconventional design", "meaning": "thiết kế phá cách/không theo lối mòn", "ipa": "/ˌʌnkənˈvenʃənl dɪˈzaɪn/", "example": "The museum's circular shape is a very unconventional design." },
+    { "word": "visual story", "meaning": "câu chuyện bằng hình ảnh", "ipa": "/ˈvɪʒuəl ˈstɔːri/", "example": "Every building tells a visual story about its time and people." },
+    { "word": "monument", "meaning": "đài kỷ niệm/công trình vĩ đại", "ipa": "/ˈmɑːnju mənt/", "example": "The Lincoln Memorial is a famous monument in Washington D.C." },
+    { "word": "aesthetic", "meaning": "thuộc về thẩm mỹ", "ipa": "/esˈθetɪk/", "example": "The building's aesthetic is influenced by industrial design." },
+    { "word": "perspective", "meaning": "góc nhìn/phối cảnh", "ipa": "/pərˈspektɪv/", "example": "Looking up from the bottom of the tower gives a different perspective." },
+    { "word": "landmark", "meaning": "địa danh/công trình nổi bật", "ipa": "/ˈlændmɑːrk/", "example": "The Opera House is a major landmark in Sydney." },
+    { "word": "structure", "meaning": "cấu trúc/công trình", "ipa": "/ˈstrʌktʃər/", "example": "The bridge is a massive steel structure." },
+    { "word": "preservation", "meaning": "sự bảo tồn", "ipa": "/ˌprezərˈveɪʃn/", "example": "The city is committed to the preservation of its historical buildings." },
+    { "word": "heritage", "meaning": "di sản", "ipa": "/ˈherɪtɪdʒ/", "example": "The old quarter is part of our national cultural heritage." },
+    { "word": "metropolitan", "meaning": "thuộc đô thị lớn/thủ phủ", "ipa": "/ˌmetrəˈpɑːlɪtən/", "example": "Building tall is necessary in such a metropolitan area." },
+    { "word": "high-rise", "meaning": "nhà cao tầng", "ipa": "/ˈhaɪ raɪz/", "example": "She lives in a modern high-rise in the city center." },
+    { "word": "skyscraper", "meaning": "tòa nhà chọc trời", "ipa": "/ˈskaɪskreɪpər/", "example": "The New York skyline is full of famous skyscrapers." },
+    { "word": "brutalism", "meaning": "chủ nghĩa thô mộc (phong cách kiến trúc)", "ipa": "/ˈbruːtəlɪzəm/", "example": "The national theater is a classic example of brutalism." },
+    { "word": "gothic", "meaning": "phong cách Gô-tích", "ipa": "/ˈɡɑːθɪk/", "example": "The university was built in a beautiful neo-gothic style." },
+    { "word": "renovation", "meaning": "sự cải tạo/đại tu", "ipa": "/ˌrenəˈveɪʃn/", "example": "The old factory is undergoing renovation to become an art gallery." },
+    { "word": "interior design", "meaning": "thiết kế nội thất", "ipa": "/ɪnˈtɪriər dɪˈzaɪn/", "example": "She is studying interior design at the art academy." },
+    { "word": "lighting conditions", "meaning": "điều kiện ánh sáng", "ipa": "/ˈlaɪtɪŋ kənˈdɪʃnz/", "example": "Good lighting conditions are essential for great photos." },
+    { "word": "wide-angle", "meaning": "góc rộng (ống kính)", "ipa": "/ˌwaɪd ˈæŋɡl/", "example": "You need a wide-angle lens to get the whole building in the photo." },
+    { "word": "edit", "meaning": "chỉnh sửa", "ipa": "/ˈedɪt/", "example": "I like to edit my photos to enhance the colors." },
+    { "word": "composition", "meaning": "bố cục", "ipa": "/ˌkɑːmpəˈzɪʃn/", "example": "The composition of the photograph was very balanced." },
+    { "word": "focal point", "meaning": "điểm nhấn/điểm tập trung", "ipa": "/ˈfoʊkl pɔɪnt/", "example": "The red door is the focal point of the whole facade." },
+    { "word": "scaffolding", "meaning": "giàn giáo", "ipa": "/ˈskæfoʊldɪŋ/", "example": "Scaffolding often covers buildings that are under repair." },
+    { "word": "blueprint", "meaning": "bản thiết kế/bản vẽ", "ipa": "/ˈbluːprɪnt/", "example": "The architect is checking the blueprints before the meeting." },
+    { "word": "concrete", "meaning": "bê tông", "ipa": "/ˈkɑːŋkriːt/", "example": "The house is built from reinforced concrete." },
+    { "word": "monolithic", "meaning": "nguyên khối/đồ sộ", "ipa": "/ˌmɑːnəˈlɪθɪk/", "example": "The headquarters is a massive, monolithic building." },
+    { "word": "functional", "meaning": "mang tính chức năng", "ipa": "/ˈfʌŋkʃənl/", "example": "The design of the school is simple and very functional." },
+    { "word": "ornate", "meaning": "trang trí lộng lẫy/cầu kỳ", "ipa": "/ɔːrˈneɪt/", "example": "The palace is filled with ornate mirrors and furniture." },
+    { "word": "cluttered", "meaning": "lộn xộn/bừa bãi", "ipa": "/ˈklʌtərd/", "example": "The old architect's desk was always cluttered with drawings." },
+    { "word": "spacious", "meaning": "rộng rãi", "ipa": "/ˈspeɪʃəs/", "example": "The new living room is much more spacious than our old one." },
+    { "word": "urbanization", "meaning": "sự đô thị hóa", "ipa": "/ˌɜːrbənəˈzeɪʃn/", "example": "Rapid urbanization is changing the landscape of the country." },
+    { "word": "eyesore", "meaning": "thứ chướng mắt (toà nhà xấu)", "ipa": "/ˈaɪsɔːr/", "example": "The locals think the new office block is an eyesore." },
+    { "word": "magnify", "meaning": "phóng to/làm lớn", "ipa": "/ˈmæɡnɪfaɪ/", "example": "The camera lens can magnify the tiny details on the statue." },
+    { "word": "depth", "meaning": "độ sâu", "ipa": "/depθ/", "example": "The light adds a lot of depth and character to the building." },
+    { "word": "shadow", "meaning": "bóng sáng", "ipa": "/ˈʃædoʊ/", "example": "The shadows grew longer as the sun went down." },
+    { "word": "reflection", "meaning": "sự phản chiếu", "ipa": "/rɪˈflekʃn/", "example": "The reflection of the skyscrapers in the lake was crystal clear." },
+    { "word": "exposure", "meaning": "độ phơi sáng", "ipa": "/ɪkˈspoʊʒər/", "example": "Getting the right exposure is tricky when shooting at night." },
+    { "word": "vivid", "meaning": "sống động/rực rỡ", "ipa": "/ˈvɪvɪd/", "example": "The colors in the mosaic were incredibly vivid." },
+    { "word": "monotone", "meaning": "đơn sắc/một màu", "ipa": "/ˈmɑːnətoʊn/", "example": "The apartment was decorated in a monochrome palette of greys." },
+    { "word": "vantage point", "meaning": "điểm thuận lợi (để ngắm/chụp)", "ipa": "/ˈvæntɪdʒ pɔɪnt/", "example": "The hill provides a great vantage point to see the whole city." },
+    { "word": "bird's eye view", "meaning": "tầm nhìn từ trên cao xuống", "ipa": "/bɜːrdz aɪ vjuː/", "example": "From the airplane, we had a bird's eye view of the town." },
+    { "word": "post-processing", "meaning": "hậu kỳ/xử lý ảnh", "ipa": "/poʊst ˈprɑːsesɪŋ/", "example": "Many professional photographers spend hours on post-processing." },
+    { "word": "texture", "meaning": "kết cấu/độ nhám bề mặt", "ipa": "/ˈtekstʃər/", "example": "The rough texture of the stone walls added to its rustic charm." }
+  ]
+}

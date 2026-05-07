@@ -1,0 +1,76 @@
+{
+  "id": "q_32",
+  "vocab": [
+    {
+      "word": "look out for",
+      "ipa": "/lʊk aʊt fɔː(r)/",
+      "meaning": "chờ đợi, canh chừng (dịp giảm giá hoặc mẫu mới)",
+      "example": "I always look out for seasonal sales to grab branded sneakers at a more reasonable price.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "vouch for",
+      "ipa": "/vaʊtʃ fɔː(r)/",
+      "meaning": "đảm bảo, khẳng định chất lượng của cái gì",
+      "example": "I can certainly vouch for the durability of Nike shoes, as my last pair lasted for over three years.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "rip off",
+      "ipa": "/rɪp ɒf/",
+      "meaning": "lừa đảo, bán giá quá đắt (thường dùng để nói về hàng giả hoặc giá thương hiệu quá cao)",
+      "example": "I feel like some high-end luxury brands really rip you off by charging ten times the actual production cost.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "save up",
+      "ipa": "/seɪv ʌp/",
+      "meaning": "tiết kiệm tiền (để mua một món đồ cụ thể)",
+      "example": "It took me three months to save up for these limited-edition Jordans, but I don't regret it.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "tung ra thị trường, giới thiệu sản phẩm mới",
+      "example": "Whenever high-street brands bring out a new collection, there are usually long queues outside the malls.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "narrow down",
+      "ipa": "/ˈnærəʊ daʊn/",
+      "meaning": "thu hẹp (sự lựa chọn)",
+      "example": "With so many famous brands available, it’s often hard to narrow down my choice to just one pair.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "do away with",
+      "ipa": "/duː əˈweɪ wɪð/",
+      "meaning": "loại bỏ, vứt bỏ (giày cũ)",
+      "example": "I find it hard to do away with my old Adidas because they are still so incredibly comfortable.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep an eye on",
+      "ipa": "/kiːp ən aɪ ɒn/",
+      "meaning": "theo dõi, để mắt tới",
+      "example": "I’ve been keeping an eye on the latest Yeezy drop, hoping to secure a pair before they sell out.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pay through the nose",
+      "ipa": "/peɪ θruː ðə nəʊz/",
+      "meaning": "trả một cái giá cắt cổ",
+      "example": "If you want the latest designer collaborations, you often have to pay through the nose.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go for",
+      "ipa": "/ɡəʊ fɔː(r)/",
+      "meaning": "chọn mua, ưa chuộng cái gì",
+      "example": "When I need professional footwear, I usually go for reputable brands known for their craftsmanship.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

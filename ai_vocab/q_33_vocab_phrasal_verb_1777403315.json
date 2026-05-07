@@ -1,0 +1,76 @@
+{
+  "id": "q_33",
+  "vocab": [
+    {
+      "word": "be bogged down with",
+      "ipa": "/biː bɒɡd daʊn wɪð/",
+      "meaning": "bị sa lầy, bị ngập trong (quá nhiều việc/chi tiết)",
+      "example": "I often find myself getting bogged down with tedious administrative tasks instead of focusing on actual research.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "struggle with",
+      "ipa": "/ˈstrʌɡl wɪð/",
+      "meaning": "vật lộn với, gặp khó khăn với",
+      "example": "To be honest, I really struggle with the sheer volume of technical jargon we are expected to memorize.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall behind with",
+      "ipa": "/fɔːl bɪˈhaɪnd wɪð/",
+      "meaning": "tụt lại phía sau, không theo kịp tiến độ",
+      "example": "If I miss just one lecture, it's incredibly easy to fall behind with the coursework due to its fast pace.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒə ʌp tuː/",
+      "meaning": "đáp ứng được (mong đợi/tiêu chuẩn)",
+      "example": "Sometimes I worry that my academic performance doesn't quite measure up to the high expectations of my professors.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wear someone out",
+      "ipa": "/weə ˈsʌmwʌn aʊt/",
+      "meaning": "làm ai đó kiệt sức",
+      "example": "The constant pressure of back-to-back exams really wears me out by the end of the semester.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look down on",
+      "ipa": "/lʊk daʊn ɒn/",
+      "meaning": "coi thường, xem nhẹ (một môn học/phương pháp)",
+      "example": "I dislike how some academic circles look down on practical experience in favor of purely theoretical knowledge.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "put someone off",
+      "ipa": "/pʊt ˈsʌmwʌn ɒf/",
+      "meaning": "làm ai đó nản lòng/mất hứng thú",
+      "example": "The monotonous way some subjects are taught really puts me off and kills my natural curiosity.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "plow through",
+      "ipa": "/plaʊ θruː/",
+      "meaning": "vật lộn để đọc xong/làm xong (thứ gì đó dài và khó)",
+      "example": "It is quite a chore to plow through hundreds of pages of dense academic literature every single week.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp, bắt kịp (kiến thức/khối lượng bài tập)",
+      "example": "One aspect I loathe is the struggle to keep up with the ever-changing trends and updates in my field of study.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get through",
+      "ipa": "/ɡet θruː/",
+      "meaning": "vượt qua, hoàn thành (một giai đoạn khó khăn)",
+      "example": "I sometimes find it hard to get through the final month of the year without feeling completely burnt out.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_2",
+  "vocab": [
+    {
+      "word": "take up",
+      "ipa": "/teɪk ʌp/",
+      "meaning": "bắt đầu một thói quen hoặc sở thích",
+      "example": "I actually took up stamp collecting when I was only seven years old after my grandfather gave me his old album.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dabble in",
+      "ipa": "/ˈdæbl ɪn/",
+      "meaning": "học hỏi hoặc làm một việc gì đó ở mức độ làm quen, không quá chuyên sâu",
+      "example": "I used to dabble in watercolor painting as a child, and it has since evolved into a serious passion of mine.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stem from",
+      "ipa": "/stem frəm/",
+      "meaning": "bắt nguồn từ, xuất phát từ",
+      "example": "My love for gardening stems from the weekends I spent helping my mother in our backyard during my primary school years.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stick with",
+      "ipa": "/stɪk wɪð/",
+      "meaning": "tiếp tục kiên trì, gắn bó với một việc gì đó",
+      "example": "Although many of my friends changed their interests, I've stuck with playing the piano for over fifteen years.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "immerse oneself in",
+      "ipa": "/ɪˈmɜːs wʌnˈself ɪn/",
+      "meaning": "đắm chìm, hoàn toàn tập trung vào việc gì",
+      "example": "Even as a young kid, I could immerse myself in a book for hours, which developed into my lifelong habit of speed reading.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mess around with",
+      "ipa": "/mes əˈraʊnd wɪð/",
+      "meaning": "nghịch ngợm, tìm tòi một cách thoải mái (với máy móc, công cụ)",
+      "example": "I started messing around with basic computer coding when I was ten, and that hobby eventually dictated my career path.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "tìm về, dựa vào (một sở thích cũ) như một nguồn an ủi",
+      "example": "Whenever life gets stressful, I fall back on sketching, a hobby that has provided me comfort since my early childhood.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại (một kỷ niệm hoặc quá trình)",
+      "example": "I often look back on my early football training sessions with a lot of fondness; they shaped my competitive spirit.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "be into",
+      "ipa": "/bi ˈɪntuː/",
+      "meaning": "rất say mê, thích thú điều gì",
+      "example": "I’ve been really into astronomy since I first looked through a telescope at a summer camp in middle school.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass down",
+      "ipa": "/pɑːs daʊn/",
+      "meaning": "truyền lại (từ thế hệ này sang thế hệ khác)",
+      "example": "The hobby of knitting was passed down to me by my grandmother, and I still find it incredibly therapeutic today.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

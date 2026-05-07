@@ -1,0 +1,50 @@
+{
+  "q": "Describe a person who has strongly influenced your life.",
+  "cue_card": [
+    "A person who has strongly influenced your life.",
+    "Who this person is",
+    "How you know this person",
+    "What this person has done to influence you",
+    "And explain why this person's influence is significant"
+  ],
+  "examiner_note": "Khi nói về ảnh hưởng cá nhân, hãy sử dụng các cụm từ về sự phát triển (personal growth, role model, mentor). Hãy miêu tả sự thay đổi trong tư duy hoặc hành động của bạn nhờ người đó (shifted my perspective, instilled values).",
+  "samples": {
+    "band7": "I'm going to talk about my high school teacher, Mr. Nam. He taught me Mathematics for three years. He influenced me because he was always very patient and encouraged me to work hard, even when I found the subjects difficult. Because of him, I became more confident and started to enjoy solving problems. He showed me that with persistence, I can achieve anything. His influence is significant because it helped me choose my career path in engineering.",
+    "band8": "I’d like to describe my grandfather, who has been a profound influence on my life and personal development. I’ve known him since my earliest childhood, of course, and he has always been a pillar of wisdom in our family. He influenced me by instilling a strong work ethic and a deep sense of integrity through his own actions. I particularly admire his resilience during difficult times. His influence is significant because it has shaped my core values and provided me with a moral compass that guides my decisions today.",
+    "band9": "The individual who has exerted the most significant influence on my life is undoubtedly my mentor, Dr. Elena, whom I met during my undergraduate studies. She has been a guiding light, not just in my academic pursuits but also in my broader understanding of social responsibility. Her influence was transformative; she challenged my preconceived notions and encouraged me to embrace intellectual curiosity. The significance of her influence lies in the way she empowered the development of my critical thinking skills and fostered a resilient mindset. She taught me that true leadership is founded on empathy and evidence-based decision-making, which has fundamentally reshaped my life’s trajectory."
+  },
+  "v": [
+    {
+      "word": "Profound influence",
+      "meaning": "Ảnh hưởng sâu sắc (A very great or intense influence)",
+      "example": "His grandfather had a profound influence on his career choice."
+    },
+    {
+      "word": "Instill values",
+      "meaning": "Thấm nhuần các giá trị (To gradually but firmly establish an idea or attitude in a person's mind)",
+      "example": "Parents try to instill strong moral values in their children."
+    },
+    {
+      "word": "Pillar of wisdom",
+      "meaning": "Cột trụ của sự khôn ngoan (A person or thing that provides great knowledge and sound judgment)",
+      "example": "The elderly professor was seen as a pillar of wisdom in the university."
+    },
+    {
+      "word": "Shifted my perspective",
+      "meaning": "Thay đổi quan điểm của tôi (To change the way one looks at something or someone)",
+      "example": "Traveling to different countries shifted my perspective on global issues."
+    },
+    {
+      "word": "Moral compass",
+      "meaning": "Kim chỉ nam đạo đức (A person's ability to judge what is right and wrong and act accordingly)",
+      "example": "He relies on his moral compass to make difficult decisions at work."
+    },
+    {
+      "word": "Transformative",
+      "meaning": "Mang tính biến đổi (Causing a marked change in someone or something)",
+      "example": "The experience of living abroad was truly transformative for her."
+    }
+  ],
+  "topic": "Describe a person who has strongly influenced your life.",
+  "id": "p2_q9"
+}

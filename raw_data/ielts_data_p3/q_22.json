@@ -1,0 +1,52 @@
+{
+  "id": "q_22",
+  "topic": "Carrying things",
+  "q": "What do you do if your item is heavy?",
+  "examiner_note": "Nói về giải pháp thực tế. Sử dụng 'give me a hand', 'trolley', 'smaller loads', 'injure oneself'.",
+  "samples": {
+    "band7": {
+      "text": "I usually ask a friend or someone nearby to give me a hand. If it’s really too heavy, I’ll try to use a trolley or divide it into smaller loads so that I don’t injure myself or strain my back.",
+      "note": "Sử dụng thành ngữ (give me a hand) và giải thích lý do thực tế."
+    },
+    "band8": {
+      "text": "When faced with a heavy load, I tend to be quite cautious. I’ll typically look for assistance or utilize a cart if one is available. It’s far better to take multiple trips or wait for help than to risk a physical injury by overexerting myself.",
+      "note": "Sử dụng từ vựng hay (cautious, assistance, utilize, overexerting)."
+    },
+    "band9": {
+      "text": "I prioritize safety and efficiency when dealing with heavy items. I’ll either seek professional help or employ mechanical aids like a dolly or a forklift if necessary. I’m acutely aware of the potential for long-term physical strain, so I never hesitate to delegate the task or use the appropriate equipment.",
+      "note": "Sử dụng từ vựng ở mức độ cao (efficiency, mechanical aids, acutely aware, delegate)."
+    }
+  },
+  "v": [
+    {
+      "word": "overexert",
+      "meaning": "gắng sức quá mức",
+      "ipa": "/ˌəʊvərɪɡˈzɜːrt/",
+      "example": "Don't overexert yourself during the workout."
+    },
+    {
+      "word": "acutely aware",
+      "meaning": "nhận thức sâu sắc",
+      "ipa": "/əˈkjuːtli əˈwer/",
+      "example": "She was acutely aware of the danger."
+    },
+    {
+      "word": "delegate",
+      "meaning": "giao phó/ủy thác",
+      "ipa": "/ˈdelɪɡeɪt/",
+      "example": "A good manager knows how to delegate tasks."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "assistance",
+      "meaning": "sự hỗ trợ",
+      "ipa": "/əˈsɪstəns/",
+      "example": "If you need any assistance, please don't hesitate to ask."
+    }
+  ],
+  "similar_questions": [
+    "Have you ever helped someone carry something heavy?",
+    "Is it common to see people carrying heavy loads in your city?"
+  ]
+}

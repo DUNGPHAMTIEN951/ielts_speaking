@@ -1,0 +1,76 @@
+{
+  "id": "q_36",
+  "vocab": [
+    {
+      "word": "cognitive function",
+      "ipa": "/ˈkɒɡnətɪv ˈfʌŋkʃn/",
+      "meaning": "chức năng nhận thức",
+      "example": "I find that my cognitive function is at its zenith shortly after breakfast, making it the ideal time for deep study.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "optimal window",
+      "ipa": "/ˈɒptɪməl ˈwɪndəʊ/",
+      "meaning": "khung thời gian tối ưu",
+      "example": "There is a specific optimal window in the late afternoon when I feel a second wind of energy and focus.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "chronotype",
+      "ipa": "/ˈkrɒnətaɪp/",
+      "meaning": "kiểu thời gian sinh học (nhóm người thuộc cú đêm hay sơn ca)",
+      "example": "Understanding my chronotype has helped me realize that I am far more productive in the quietude of the morning.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "diminished concentration",
+      "ipa": "/dɪˈmɪnɪʃt ˌkɒnsnˈtreɪʃn/",
+      "meaning": "sự tập trung bị giảm sút",
+      "example": "By 3 PM, I often suffer from diminished concentration, so I avoid tackling complex subjects during that period.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "mental fatigue",
+      "ipa": "/ˈmentl fəˈtiːɡ/",
+      "meaning": "sự mệt mỏi về tinh thần",
+      "example": "I prefer morning sessions to forestall the mental fatigue that inevitably sets in after a long day of lectures.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "vigilant",
+      "ipa": "/ˈvɪdʒɪlənt/",
+      "meaning": "tỉnh táo, cảnh giác (trạng thái đầu óc nhạy bén)",
+      "example": "I feel most vigilant and alert before noon, whereas the afternoon sun tends to make me feel rather drowsy.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "absorb information",
+      "ipa": "/əbˈzɔːb ˌɪnfəˈmeɪʃn/",
+      "meaning": "tiếp thu thông tin",
+      "example": "My capacity to absorb information is significantly higher when the house is still and the world is just waking up.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "peak alertness",
+      "ipa": "/piːk əˈlɜːtnəs/",
+      "meaning": "sự tỉnh táo đỉnh cao",
+      "example": "I usually schedule my mock exams for the morning to capitalize on my period of peak alertness.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "sedentary",
+      "ipa": "/ˈsedntri/",
+      "meaning": "thụ động, ít vận động (trạng thái khi ngồi học quá lâu)",
+      "example": "After a sedentary morning of reading, I find the afternoon more suitable for interactive or group study sessions.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "harness",
+      "ipa": "/ˈhɑːrnɪs/",
+      "meaning": "khai thác, tận dụng (năng lượng, thời gian)",
+      "example": "I try to harness the natural stillness of the early hours to get through my most daunting assignments.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_4",
+  "vocab": [
+    {
+      "word": "dip into",
+      "ipa": "/dɪp ˈɪn.tuː/",
+      "meaning": "đọc lướt qua hoặc thực hiện một hoạt động một cách không thường xuyên",
+      "example": "I like to dip into various philosophy books whenever I have a spare moment at the weekend.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌk.əl daʊn/",
+      "meaning": "bắt đầu làm việc gì đó một cách nghiêm túc và quyết tâm",
+      "example": "I've decided to knuckle down and finally master the advanced chords on my guitar.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "map out",
+      "ipa": "/mæp aʊt/",
+      "meaning": "lên kế hoạch chi tiết cho một hoạt động hoặc dự án",
+      "example": "I spend hours mapping out new hiking routes on my tablet before heading out into the mountains.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toy with",
+      "ipa": "/tɔɪ wɪð/",
+      "meaning": "cân nhắc hoặc thử nghiệm một ý tưởng/sở thích một cách không quá nghiêm túc",
+      "example": "I’ve been toying with the idea of starting a podcast about local history as a side project.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "throw oneself into",
+      "ipa": "/θrəʊ wʌnˈself ˈɪn.tuː/",
+      "meaning": "bắt đầu làm việc gì đó với rất nhiều năng lượng và sự nhiệt huyết",
+      "example": "After a stressful day at work, I love to throw myself into cooking complex Mediterranean dishes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "chill out to",
+      "ipa": "/tʃɪl aʊt tuː/",
+      "meaning": "thư giãn bằng cách nghe hoặc xem một thứ gì đó",
+      "example": "There's nothing better than chilling out to some lo-fi beats while sketching in my notebook.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒ.ər ʌp tuː/",
+      "meaning": "đạt được tiêu chuẩn hoặc kỳ vọng (thường nói về kỹ năng trong sở thích)",
+      "example": "My early attempts at pottery didn't really measure up to my expectations, but I'm improving.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up on",
+      "ipa": "/pɪk ʌp ɒn/",
+      "meaning": "trở nên nhận thức được hoặc bắt đầu hiểu rõ các chi tiết nhỏ của một sở thích",
+      "example": "As I watched more films, I began to pick up on the subtle techniques directors use to create tension.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up for",
+      "ipa": "/ɡɪər ʌp fɔːr/",
+      "meaning": "chuẩn bị sẵn sàng (quần áo, dụng cụ) cho một hoạt động",
+      "example": "Every Sunday morning, I gear up for a long cycling session through the countryside.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take mind off",
+      "ipa": "/teɪk maɪnd ɒf/",
+      "meaning": "giúp ai đó tạm quên đi những lo lắng hoặc căng thẳng",
+      "example": "Playing competitive chess really helps to take my mind off the pressures of my daily job.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,50 @@
+{
+  "q": "Describe a movie you watched and enjoyed recently.",
+  "cue_card": [
+    "A movie you watched and enjoyed recently.",
+    "What and where the movie was",
+    "What it was about",
+    "Who you watched it with",
+    "And explain why you enjoyed it"
+  ],
+  "examiner_note": "Khi nói về phim ảnh, hãy tập trung vào cốt truyện (plot), nhân vật (character development) và thông điệp (underlying message). Sử dụng các tính từ mạnh (thought-provoking, gripping, visually stunning) thay vì chỉ nói 'it was good'.",
+  "samples": {
+    "band7": "I'd like to talk about a movie called 'Interstellar'. I watched it last month at home with my younger brother. It is a science fiction movie about a group of astronauts who travel through a wormhole in space to find a new home for humans. I enjoyed it because the special effects were amazing and the story was very emotional. It made me think about the future of our planet and how important family is.",
+    "band8": "I’m going to describe a cinematic masterpiece I recently watched titled 'Interstellar'. I viewed it on a massive IMAX screen with a couple of close friends, which made the experience even more immersive. The film revolves around a team of explorers who embark on a perilous mission through an interstellar wormhole to discover a habitable planet for humanity. What truly captivated me was the gripping plot combined with visually stunning cinematography. Moreover, the underlying theme of paternal love was profoundly moving, leaving a lasting impression on me long after the credits rolled.",
+    "band9": "The film that has recently left an indelible mark on me is 'Interstellar', a sci-fi epic directed by Christopher Nolan. I had the privilege of experiencing it in a state-of-the-art cinema, accompanied by fellow film enthusiasts. The narrative is an intricate blend of complex scientific theories and raw human emotion, detailing a desperate voyage across the cosmos to secure the survival of our species. I was particularly struck by the film's thought-provoking nature and its seamless integration of high-stakes drama with breathtaking visual effects. It is a profoundly existential piece that brilliantly explores the concept of time and the transcendency of love, making it an intellectually stimulating and emotionally resonant piece of art."
+  },
+  "v": [
+    {
+      "word": "Cinematic masterpiece",
+      "meaning": "Kiệt tác điện ảnh (A film that is exceptionally good and likely to be considered one of the best examples of its kind)",
+      "example": "'The Godfather' is widely considered a cinematic masterpiece."
+    },
+    {
+      "word": "Immersive",
+      "meaning": "Đắm chìm, cuốn hút (Providing a sense of being completely surrounded by or involved in an activity)",
+      "example": "The 3D technology provided a truly immersive viewing experience."
+    },
+    {
+      "word": "Habitable",
+      "meaning": "Có thể sinh sống được (Suitable or good enough to live in)",
+      "example": "Scientists are searching for other habitable planets in our galaxy."
+    },
+    {
+      "word": "Thought-provoking",
+      "meaning": "Kích thích tư duy (Making you think a lot about a particular subject)",
+      "example": "The documentary was very thought-provoking and raised several important issues."
+    },
+    {
+      "word": "Emotionally resonant",
+      "meaning": "Có sức gợi cảm xúc (Affecting people in a deep and personal way; evoking strong feelings)",
+      "example": "The story's ending was emotionally resonant for everyone who has lost a loved one."
+    },
+    {
+      "word": "Transcendency",
+      "meaning": "Sự siêu việt, vượt lên trên giới hạn (The quality of being able to go beyond the usual limits of something)",
+      "example": "The film explores the transcendency of human connection across time."
+    }
+  ],
+  "topic": "Describe a movie you watched and enjoyed recently.",
+  "id": "p2_q5"
+}

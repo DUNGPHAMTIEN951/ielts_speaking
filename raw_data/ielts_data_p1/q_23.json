@@ -1,0 +1,322 @@
+{
+  "id": "q_23",
+  "topic": "Taking photos",
+  "q": "Do you like taking photos?",
+  "examiner_note": "Đây là câu hỏi mở đầu về sở thích cá nhân. Bạn hãy thể hiện sự hào hứng (enthusiasm) và giải thích tại sao bạn lại thích hoặc không thích chụp ảnh. Đề cập đến việc lưu giữ kỷ niệm (preserving memories) hoặc niềm đam mê nghệ thuật (artistic passion) sẽ rất ghi điểm. Hãy sử dụng các từ như 'shutterbug', 'high-resolution', 'unfiltered' để câu chuyện thêm sinh động.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I really like taking photos. It's a great way for me to keep track of my life and remember all the fun times I've had with my friends and family. I usually use my smartphone because it's very convenient and the quality is quite good these days.",
+      "note": "Trả lời trực tiếp, rõ ràng. Nêu được mục đích (keep track of life, remember fun times) và phương tiện (smartphone). Sử dụng từ vựng tự nhiên."
+    },
+    "band8": {
+      "text": "Absolutely, I’m quite the shutterbug! I find photography to be a wonderful creative outlet. There's something incredibly satisfying about capturing a beautiful moment or a unique perspective. I love playing around with different editing apps to enhance the aesthetic of my shots before sharing them on social media.",
+      "note": "Sử dụng từ vựng linh hoạt và thú vị (shutterbug, creative outlet, capturing a moment, unique perspective, enhance, aesthetic). Cách dẫn đạt trôi chảy."
+    },
+    "band9": {
+      "text": "I’m an avid photography enthusiast, as I believe that a single image has the power to encapsulate an entire narrative. For me, taking photos is a form of visual journaling that allows me to document the fleeting beauty of everyday life. I’m particularly drawn to the technical aspects like composition and lighting, as well as the emotional resonance that a well-composed photograph can evoke. It’s a truly rewarding hobby that encourages me to observe the world more closely.",
+      "note": "Sử dụng vốn từ vựng cực kỳ phong phú và học thuật (avid, encapsulate, narrative, visual journaling, fleeting beauty, emotional resonance, well-composed, evoke). Cách lập luận vô cùng sâu sắc và triết lý."
+    }
+  },
+  "v": [
+    {
+      "word": "shutterbug",
+      "meaning": "người thích chụp ảnh/người mê máy ảnh",
+      "ipa": "/ˈʃʌtərbʌɡ/",
+      "example": "Ever since he got a camera for his birthday, he’s become a total shutterbug."
+    },
+    {
+      "word": "creative outlet",
+      "meaning": "nơi giải tỏa sự sáng tạo",
+      "ipa": "/kriˈeɪtɪv ˈaʊtlet/",
+      "example": "Painting provides a great creative outlet for her during stressful times."
+    },
+    {
+      "word": "encapsulate",
+      "meaning": "tóm gọn/gói gọn",
+      "ipa": "/ɪnˈkæpsjuleɪt/",
+      "example": "The poem perfectly encapsulates the feeling of winter."
+    },
+    {
+      "word": "visual journaling",
+      "meaning": "ghi nhật ký bằng hình ảnh",
+      "ipa": "/ˈvɪʒuəl ˈdʒɜːrnəlɪŋ/",
+      "example": "Instagram has become a popular platform for visual journaling."
+    },
+    {
+      "word": "fleeting beauty",
+      "meaning": "vẻ đẹp thoáng qua/ngắn ngủi",
+      "ipa": "/ˈfliːtɪŋ ˈbjuːti/",
+      "example": "Photography is about capturing the fleeting beauty of a sunset."
+    },
+    {
+      "word": "emotional resonance",
+      "meaning": "sự cộng hưởng cảm xúc",
+      "ipa": "/ɪˈmoʊʃənl ˈrezənəns/",
+      "example": "The movie's sad ending had a lot of emotional resonance for the audience."
+    },
+    {
+      "word": "well-composed",
+      "meaning": "có bố cục tốt (trong ảnh/nhạc/văn)",
+      "ipa": "/wel kəmˈpoʊzd/",
+      "example": "A well-composed photograph can tell a thousand words."
+    },
+    {
+      "word": "evoke",
+      "meaning": "gợi lên (cảm xúc/kỷ niệm)",
+      "ipa": "/ɪˈvoʊk/",
+      "example": "The smell of fresh bread always evokes memories of my grandmother."
+    },
+    {
+      "word": "shutter speed",
+      "meaning": "tốc độ màn trập",
+      "ipa": "/ˈʃʌtər spiːd/",
+      "example": "You need a fast shutter speed to capture moving objects clearly."
+    },
+    {
+      "word": "aperture",
+      "meaning": "khẩu độ",
+      "ipa": "/ˈæpərtʃər/",
+      "example": "Adjusting the aperture helps control the amount of light entering the camera."
+    },
+    {
+      "word": "exposure",
+      "meaning": "độ phơi sáng",
+      "ipa": "/ɪkˈspoʊʒər/",
+      "example": "The photo came out dark because the exposure was too low."
+    },
+    {
+      "word": "focal point",
+      "meaning": "điểm nhấn/điểm hội tụ",
+      "ipa": "/ˈfoʊkl pɔɪnt/",
+      "example": "The red dress serves as the focal point of the entire image."
+    },
+    {
+      "word": "high-resolution",
+      "meaning": "độ phân giải cao",
+      "ipa": "/haɪ ˌrezəˈluːʃn/",
+      "example": "Modern sensors can take high-resolution photos with incredible detail."
+    },
+    {
+      "word": "unfiltered",
+      "meaning": "không qua bộ lọc/chân thực",
+      "ipa": "/ʌnˈfɪltərd/",
+      "example": "I prefer the raw, unfiltered look of natural light."
+    },
+    {
+      "word": "aesthetic",
+      "meaning": "có tính thẩm mỹ",
+      "ipa": "/esˈθetɪk/",
+      "example": "The minimalist design of the apartment is very aesthetic."
+    },
+    {
+      "word": "candid shot",
+      "meaning": "ảnh chụp tự nhiên (không diễn)",
+      "ipa": "/ˈkændɪd ʃɑːt/",
+      "example": "Candid shots often capture the most genuine emotions."
+    },
+    {
+      "word": "portrait",
+      "meaning": "ảnh chân dung",
+      "ipa": "/ˈpɔːrtrət/",
+      "example": "She specializes in taking beautiful black and white portraits."
+    },
+    {
+      "word": "landscape",
+      "meaning": "phong cảnh",
+      "ipa": "/ˈlændskeɪp/",
+      "example": "The wide-angle lens is perfect for capturing large landscapes."
+    },
+    {
+      "word": "macros",
+      "meaning": "chụp cận cảnh (vật nhỏ)",
+      "ipa": "/ˈmækˌroʊz/",
+      "example": "Macro photography allows you to see the tiny details on an insect's wing."
+    },
+    {
+      "word": "depth of field",
+      "meaning": "độ sâu trường ảnh/độ mờ hậu cảnh",
+      "ipa": "/depθ əv fiːld/",
+      "example": "A shallow depth of field makes the subject stand out against a blurred background."
+    },
+    {
+      "word": "tripod",
+      "meaning": "chân máy ảnh",
+      "ipa": "/ˈtraɪpɑːd/",
+      "example": "I use a tripod when taking long exposure shots of the night sky."
+    },
+    {
+      "word": "lighting conditions",
+      "meaning": "điều kiện ánh sáng",
+      "ipa": "/ˈlaɪtɪŋ kənˈdɪʃnz/",
+      "example": "Photography is all about understanding and using lighting conditions."
+    },
+    {
+      "word": "golden hour",
+      "meaning": "giờ vàng (lúc bình minh/hoàng hôn)",
+      "ipa": "/ˈɡoʊldən ˈaʊər/",
+      "example": "Photographers love the soft, warm light during the golden hour."
+    },
+    {
+      "word": "post-processing",
+      "meaning": "hậu kỳ/xỉnh sửa sau khi chụp",
+      "ipa": "/poʊst ˈprɑːsesɪŋ/",
+      "example": "Post-processing is a vital step in professional digital photography."
+    },
+    {
+      "word": "edit",
+      "meaning": "chỉnh sửa",
+      "ipa": "/ˈedɪt/",
+      "example": "I need to edit this video before I can upload it to YouTube."
+    },
+    {
+      "word": "filter",
+      "meaning": "bộ lọc (màu sắc)",
+      "ipa": "/ˈfɪltər/",
+      "example": "This retro filter makes everything look like it was taken in the 70s."
+    },
+    {
+      "word": "crop",
+      "meaning": "cắt xén (ảnh)",
+      "ipa": "/krɑːp/",
+      "example": "I had to crop the photo to remove a person from the background."
+    },
+    {
+      "word": "saturation",
+      "meaning": "độ bão hòa màu",
+      "ipa": "/ˌsætʃəˈreɪʃn/",
+      "example": "Increasing the saturation makes the colors look more vivid."
+    },
+    {
+      "word": "contrast",
+      "meaning": "độ tương phản",
+      "ipa": "/ˈkɑːntræst/",
+      "example": "High contrast photos have very bright highlights and dark shadows."
+    },
+    {
+      "word": "grainy",
+      "meaning": "bị nhiễu/có hạt (ảnh chất lượng thấp)",
+      "ipa": "/ˈɡreɪni/",
+      "example": "Photos taken in low light often look grainy."
+    },
+    {
+      "word": "sharpness",
+      "meaning": "độ sắc nét",
+      "ipa": "/ˈʃɑːrpnəs/",
+      "example": "The sharpness of this lens is absolutely incredible."
+    },
+    {
+      "word": "blurry",
+      "meaning": "bị mờ",
+      "ipa": "/ˈblɜːri/",
+      "example": "The photo was blurry because my hand was shaking."
+    },
+    {
+      "word": "out of focus",
+      "meaning": "không được lấy nét/mờ",
+      "ipa": "/aʊt əv ˈfoʊkəs/",
+      "example": "The background remains out of focus to emphasize the main subject."
+    },
+    {
+      "word": "autofocus",
+      "meaning": "tự động lấy nét",
+      "ipa": "/ˈɔːtoʊˌfoʊkəs/",
+      "example": "Modern cameras have very fast and accurate autofocus systems."
+    },
+    {
+      "word": "viewfinder",
+      "meaning": "kính ngắm",
+      "ipa": "/ˈvjuːfaɪndər/",
+      "example": "I prefer using the viewfinder rather than the LCD screen."
+    },
+    {
+      "word": "memory card",
+      "meaning": "thẻ nhớ",
+      "ipa": "/ˈmeməri kɑːrd/",
+      "example": "Make sure you have a fast memory card for recording 4K video."
+    },
+    {
+      "word": "digital gallery",
+      "meaning": "bộ sưu tập ảnh kỹ thuật số",
+      "ipa": "/ˈdɪdʒɪtl ˈɡæləri/",
+      "example": "I keep all my favorite vacation photos in a special digital gallery."
+    },
+    {
+      "word": "social media sharing",
+      "meaning": "chia sẻ trên mạng xã hội",
+      "ipa": "/ˈsoʊʃl ˈmiːdiə ˈʃerɪŋ/",
+      "example": "Social media sharing has changed how we consume photography."
+    },
+    {
+      "word": "viral",
+      "meaning": "lan truyền nhanh",
+      "ipa": "/ˈvaɪrəl/",
+      "example": "The photo of the cat became viral overnight."
+    },
+    {
+      "word": "composition",
+      "meaning": "bố cục",
+      "ipa": "/ˌkɑːmpəˈzɪʃn/",
+      "example": "Rule of thirds is a basic principle of good composition."
+    },
+    {
+      "word": "symmetry",
+      "meaning": "sự đối xứng",
+      "ipa": "/ˈsɪmətri/",
+      "example": "Architectural photography often relies on symmetry for a clean look."
+    },
+    {
+      "word": "shadows and highlights",
+      "meaning": "vùng tối và vùng sáng",
+      "ipa": "/ˈʃædoʊz ənd ˈhaɪlaɪts/",
+      "example": "Managing shadows and highlights is key to a balanced exposure."
+    },
+    {
+      "word": "underexposed",
+      "meaning": "thiếu sáng",
+      "ipa": "/ˌʌndərɪkˈspoʊzd/",
+      "example": "If a photo is underexposed, you lose a lot of detail in the dark areas."
+    },
+    {
+      "word": "overexposed",
+      "meaning": "cháy sáng/quá sáng",
+      "ipa": "/ˌoʊvərɪkˈspoʊzd/",
+      "example": "The sky in the photo is overexposed and looks completely white."
+    },
+    {
+      "word": "wide-angle lens",
+      "meaning": "ống kính góc rộng",
+      "ipa": "/ˌwaɪd ˈæŋɡl lenz/",
+      "example": "A wide-angle lens is great for capturing tight spaces or vast horizons."
+    },
+    {
+      "word": "telephoto lens",
+      "meaning": "ống kính tầm xa (zoom)",
+      "ipa": "/ˌteləˈfoʊtoʊ lenz/",
+      "example": "Wildlife photographers use telephoto lenses to capture animals from a distance."
+    },
+    {
+      "word": "subject",
+      "meaning": "chủ thể (trong ảnh)",
+      "ipa": "/ˈsʌbdʒɪkt/",
+      "example": "The main subject of the portrait is a young girl with flowers."
+    },
+    {
+      "word": "framing",
+      "meaning": "cách đóng khung",
+      "ipa": "/ˈfreɪmɪŋ/",
+      "example": "Natural elements like tree branches are perfect for framing a landscape."
+    },
+    {
+      "word": "perspective",
+      "meaning": "phối cảnh/góc nhìn",
+      "ipa": "/pərˈspektɪv/",
+      "example": "Changing your perspective can make a familiar place look entirely different."
+    },
+    {
+      "word": "vivid colors",
+      "meaning": "màu sắc sống động",
+      "ipa": "/ˈvɪvɪd ˈkʌlərz/",
+      "example": "The market was a riot of vivid colors and loud noises."
+    }
+  ]
+}

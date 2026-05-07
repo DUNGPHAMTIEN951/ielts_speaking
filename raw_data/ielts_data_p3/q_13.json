@@ -1,0 +1,52 @@
+{
+  "id": "q_13",
+  "topic": "Arts and Drawing",
+  "q": "Do you like modern art or traditional art?",
+  "examiner_note": "So sánh hai phong cách. Sử dụng 'realistic representation', 'experimentation', 'abstraction', 'conventional'.",
+  "samples": {
+    "band7": {
+      "text": "I appreciate both, but I tend to gravitate more towards traditional art, especially classical paintings. I find the level of detail and the historical context behind them very fascinating and easier to understand.",
+      "note": "Sử dụng từ nối và so sánh tốt (gravitate towards, fascinating)."
+    },
+    "band8": {
+      "text": "I have a soft spot for both, but I’m particularly intrigued by the bold experimentation of modern art. I find the way it challenges conventional ideas and uses abstraction to convey meaning very stimulating. That said, I still deeply admire the technical mastery found in traditional works.",
+      "note": "Sử dụng từ vựng hay (soft spot, intrigued, bold experimentation, conventional, stimulating)."
+    },
+    "band9": {
+      "text": "I find both genres compelling for different reasons. Traditional art’s emphasis on realistic representation and meticulous technique is undeniably impressive. However, modern art’s penchant for breaking boundaries and its focus on conceptual depth often resonate with me more profoundly. Ultimately, I value the diverse ways in which both styles reflect the human condition.",
+      "note": "Sử dụng từ vựng học thuật (genres, meticulous, penchant, resonate profoundly, human condition)."
+    }
+  },
+  "v": [
+    {
+      "word": "gravitate towards",
+      "meaning": "hướng về/bị thu hút bởi",
+      "ipa": "/ˈɡrævɪteɪt təˈwɔːrdz/",
+      "example": "Many young people gravitate towards urban areas."
+    },
+    {
+      "word": "meticulous",
+      "meaning": "tỉ mỉ/kỹ lưỡng",
+      "ipa": "/məˈtɪkjələs/",
+      "example": "He is meticulous in his work."
+    },
+    {
+      "word": "penchant",
+      "meaning": "sở thích/thiên hướng",
+      "ipa": "/ˈpentʃənt/",
+      "example": "She has a penchant for expensive jewelry."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "compelling",
+      "meaning": "hấp dẫn/thuyết phục",
+      "ipa": "/kəmˈpelɪŋ/",
+      "example": "The evidence was compelling."
+    }
+  ],
+  "similar_questions": [
+    "Why do some people find modern art difficult to understand?",
+    "Do you think traditional art is still relevant today?"
+  ]
+}

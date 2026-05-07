@@ -1,0 +1,76 @@
+{
+  "id": "q_3",
+  "vocab": [
+    {
+      "word": "mess around with",
+      "ipa": "/mes əˈraʊnd wɪð/",
+      "meaning": "nghịch ngợm, vọc vạch (đồ vật/thiết bị) một cách ngẫu hứng",
+      "example": "I used to love messing around with my father's old radio, trying to understand how the internal components worked.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dabble in",
+      "ipa": "/ˈdæbl ɪn/",
+      "meaning": "học hỏi/thử làm một việc gì đó ở mức độ sơ sài, không chuyên sâu",
+      "example": "I dabbled in oil painting for a summer, though I never quite mastered the technique of blending colors.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get into",
+      "ipa": "/ɡet ˈɪntuː/",
+      "meaning": "bắt đầu trở nên vô cùng hứng thú hoặc tham gia vào một hoạt động",
+      "example": "I really got into collecting comic books after my uncle gave me a vintage Marvel issue for my birthday.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tinker with",
+      "ipa": "/ˈtɪŋkə(r) wɪð/",
+      "meaning": "loay hoay sửa chữa hoặc thay đổi các chi tiết nhỏ (thường là máy móc)",
+      "example": "Spending my weekends tinkering with broken clocks became a favorite pastime that taught me a lot about mechanics.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go after",
+      "ipa": "/ɡəʊ ˈɑːftə(r)/",
+      "meaning": "theo đuổi, cố gắng đạt được (thường là một danh hiệu hoặc mục tiêu trong sở thích)",
+      "example": "As a kid, I would go after every local chess trophy, practicing for hours each night to sharpen my strategy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "meaning": "học một kỹ năng mới một cách tự nhiên hoặc không qua trường lớp bài bản",
+      "example": "I managed to pick up a few chords on the guitar just by watching my older brother practice in the garage.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lose oneself in",
+      "ipa": "/luːz wʌnˈself ɪn/",
+      "meaning": "đắm chìm hoàn toàn vào việc gì đó đến mức quên cả thời gian",
+      "example": "I could easily lose myself in a thick fantasy novel for an entire afternoon, completely oblivious to the world around me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stick with",
+      "ipa": "/stɪk wɪð/",
+      "meaning": "kiên trì, tiếp tục duy trì một thói quen hoặc sở thích lâu dài",
+      "example": "Swimming was the only childhood hobby I actually stuck with until I reached university.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toy with",
+      "ipa": "/tɔɪ wɪð/",
+      "meaning": "cân nhắc hoặc thử nghiệm một ý tưởng/sở thích một cách không quá nghiêm túc",
+      "example": "I toyed with the idea of joining the school choir, but I eventually decided that sports were more my speed.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại hoặc cải thiện một kỹ năng đã từng học nhưng bị mai một",
+      "example": "Every summer, I would brush up on my French vocabulary through interactive games before the new school term started.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

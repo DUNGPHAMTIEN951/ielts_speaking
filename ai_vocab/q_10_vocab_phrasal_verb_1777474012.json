@@ -1,0 +1,76 @@
+{
+  "id": "q_10",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/soʊk ʌp/",
+      "meaning": "tận hưởng/đắm mình trong (không khí, vẻ đẹp)",
+      "example": "I can spend hours in the national gallery just soaking up the creative atmosphere.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw on",
+      "ipa": "/drɔː ɒn/",
+      "meaning": "tận dụng/dựa vào (nguồn cảm hứng, kinh nghiệm)",
+      "example": "Many contemporary artists draw on their cultural heritage to create unique installations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick out",
+      "ipa": "/pɪk aʊt/",
+      "meaning": "nhận ra/phân biệt được (chi tiết, chủ thể)",
+      "example": "In Impressionist paintings, it's fascinating to pick out the individual brushstrokes that form a larger image.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "vibe with",
+      "ipa": "/vaɪb wɪð/",
+      "meaning": "cảm thấy hợp/thích thú với (phong cách, năng lượng)",
+      "example": "I don't really vibe with minimalist art; I prefer pieces that are much more vibrant and chaotic.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sink into",
+      "ipa": "/sɪŋk ˈɪntuː/",
+      "meaning": "chìm đắm vào (trạng thái suy tư, cảm xúc)",
+      "example": "Looking at a profound sculpture helps me sink into a state of deep reflection.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring about",
+      "ipa": "/brɪŋ əˈbaʊt/",
+      "meaning": "gây ra/mang lại (sự thay đổi, cảm xúc)",
+      "example": "Revolutionary art movements often bring about significant shifts in how society views beauty.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dabble in",
+      "ipa": "/ˈdæbl ɪn/",
+      "meaning": "học hỏi/làm thử một cách không chuyên",
+      "example": "I'm not a professional, but I like to dabble in watercolor painting during my spare time.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set apart",
+      "ipa": "/set əˈpɑːrt/",
+      "meaning": "làm cho trở nên khác biệt/nổi bật",
+      "example": "What sets this artist apart is their ability to use recycled materials in a highly sophisticated way.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toy around with",
+      "ipa": "/tɔɪ əˈraʊnd wɪð/",
+      "meaning": "thử nghiệm/nghịch với (ý tưởng, chất liệu)",
+      "example": "Digital art allows me to toy around with lighting effects that would be impossible to achieve on paper.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sketch out",
+      "ipa": "/sketʃ aʊt/",
+      "meaning": "phác thảo (ý tưởng, hình dáng)",
+      "example": "Whenever I have a sudden spark of inspiration, I quickly sketch out the concept in my notebook.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_13",
+  "vocab": [
+    {
+      "word": "zoom in on",
+      "ipa": "/zuːm ɪn ɒn/",
+      "meaning": "phóng to, tập trung cận cảnh vào một chi tiết",
+      "example": "While I love wide vistas, I often zoom in on intricate patterns in nature, like the veins of a leaf.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "scope out",
+      "ipa": "/skəʊp aʊt/",
+      "meaning": "quan sát, thăm dò để tìm vị trí đẹp",
+      "example": "I usually arrive at a location early to scope out the best vantage point before the sun starts to set.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, vẻ đẹp)",
+      "example": "Before taking the shot, I like to just sit for a moment and soak up the tranquil atmosphere of the lakeside.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fumble around",
+      "ipa": "/ˈfʌm.bəl əˈraʊnd/",
+      "meaning": "lóng ngóng, dò dẫm (thường là với thiết bị)",
+      "example": "I occasionally fumble around with my tripod in the dark when I’m trying to capture the star-filled sky.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off",
+      "ipa": "/set ɒf/",
+      "meaning": "làm nổi bật (vẻ đẹp/màu sắc)",
+      "example": "The dark, moody clouds really set off the vibrant autumn leaves, creating a very dramatic photograph.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wrap up",
+      "ipa": "/ræp ʌp/",
+      "meaning": "kết thúc, hoàn thành (một buổi chụp hình)",
+      "example": "Once the golden hour is over, I usually wrap up my session and head home to review the footage.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stock up on",
+      "ipa": "/stɒk ʌp ɒn/",
+      "meaning": "dự trữ, chuẩn bị đầy đủ (pin, thẻ nhớ)",
+      "example": "Whenever I go on a hiking trip, I always stock up on extra memory cards because I tend to take hundreds of photos.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass for",
+      "ipa": "/pɑːs fɔːr/",
+      "meaning": "có thể được coi là, trông giống như",
+      "example": "The clarity of the water was so perfect that my photo could almost pass for a professional postcard.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blot out",
+      "ipa": "/blɒt aʊt/",
+      "meaning": "che khuất hoàn toàn",
+      "example": "It was frustrating when a thick layer of fog suddenly moved in and blotted out the entire mountain range.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out over",
+      "ipa": "/lʊk aʊt ˈəʊ.vər/",
+      "meaning": "nhìn ra từ trên cao",
+      "example": "There is a small hidden trail that looks out over the entire city, which is my favorite spot for night photography.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

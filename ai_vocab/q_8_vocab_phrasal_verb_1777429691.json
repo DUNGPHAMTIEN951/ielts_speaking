@@ -1,0 +1,76 @@
+{
+  "id": "q_8",
+  "vocab": [
+    {
+      "word": "gaze out at",
+      "ipa": "/ɡeɪz aʊt æt/",
+      "meaning": "nhìn chăm chú ra xa (một cách say mê hoặc trầm tư)",
+      "example": "I spent hours simply gazing out at the emerald waters of the bay from the cliff's edge.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take back to",
+      "ipa": "/teɪk bæk tuː/",
+      "meaning": "gợi nhớ lại/đưa ai đó trở về ký ức nào đó",
+      "example": "Whenever I look at the photos, that stunning mountain view takes me back to the feeling of absolute freedom I had.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ phát hiện ra",
+      "example": "We were lost in the highlands when we stumbled upon a hidden waterfall with the most incredible view I've ever seen.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "light up",
+      "ipa": "/laɪt ʌp/",
+      "meaning": "chiếu sáng/làm bừng sáng (cảnh vật)",
+      "example": "The way the sunrise lit up the snow-capped peaks was a sight that I’ll cherish forever.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tower over",
+      "ipa": "/ˈtaʊər ˈoʊvər/",
+      "meaning": "vượt lên cao hẳn/sừng sững phía trên",
+      "example": "The skyscrapers in Manhattan towered over us, creating a breathtaking urban landscape at dusk.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fade away",
+      "ipa": "/feɪd əˈweɪ/",
+      "meaning": "mờ dần/tan biến vào không trung",
+      "example": "Watching the city lights fade away into the morning mist from the hilltop was a deeply serene experience.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look down on",
+      "ipa": "/lʊk daʊn ɒn/",
+      "meaning": "nhìn xuống từ một vị trí rất cao",
+      "example": "Standing on the observation deck, you can look down on the clouds, which is a truly surreal perspective.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burst into",
+      "ipa": "/bɜːrst ˈɪntuː/",
+      "meaning": "bùng lên (thường nói về màu sắc hoặc ánh sáng)",
+      "example": "The sky suddenly burst into shades of violet and orange as the sun dipped below the horizon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shut out",
+      "ipa": "/ʃʌt aʊt/",
+      "meaning": "ngăn chặn/che khuất (ánh sáng hoặc tầm nhìn)",
+      "example": "The dense canopy of the rainforest occasionally shut out the sky, making the brief glimpses of the valley even more precious.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑːrvl æt/",
+      "meaning": "chiêm ngưỡng với sự kinh ngạc và ngưỡng mộ",
+      "example": "It was impossible not to marvel at the sheer scale of the desert dunes stretching into the distance.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

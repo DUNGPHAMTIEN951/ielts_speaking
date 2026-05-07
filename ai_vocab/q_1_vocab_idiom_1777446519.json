@@ -1,0 +1,76 @@
+{
+  "id": "q_1",
+  "vocab": [
+    {
+      "word": "a level playing field",
+      "ipa": "/ə ˈlevl ˈpleɪɪŋ fiːld/",
+      "meaning": "một môi trường cạnh tranh công bằng",
+      "example": "Sports taught me that success is achievable as long as there is a level playing field for every competitor.",
+      "type": "idiom"
+    },
+    {
+      "word": "get off to a flying start",
+      "ipa": "/ɡet ɔːf tu ə ˈflaɪɪŋ stɑːrt/",
+      "meaning": "có một khởi đầu vô cùng thuận lợi và thành công",
+      "example": "Our football team got off to a flying start by winning the first three matches of the season convincingly.",
+      "type": "idiom"
+    },
+    {
+      "word": "the front runner",
+      "ipa": "/ðə frʌnt ˈrʌnər/",
+      "meaning": "người/đội dẫn đầu (có khả năng thắng cao nhất)",
+      "example": "In my school days, our relay team was always considered the front runner in the city championships.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep one's eye on the ball",
+      "ipa": "/kiːp wʌnz aɪ ɒn ðə bɔːl/",
+      "meaning": "tập trung cao độ vào mục tiêu quan trọng",
+      "example": "The coach always reminded us to keep our eyes on the ball, even when the crowd was incredibly rowdy.",
+      "type": "idiom"
+    },
+    {
+      "word": "blow the competition away",
+      "ipa": "/bləʊ ðə ˌkɒmpəˈtɪʃn əˈweɪ/",
+      "meaning": "đánh bại đối thủ một cách dễ dàng và áp đảo",
+      "example": "During the finals, we managed to blow the competition away with our superior tactical coordination.",
+      "type": "idiom"
+    },
+    {
+      "word": "be out of one's league",
+      "ipa": "/bi aʊt əv wʌnz liːɡ/",
+      "meaning": "vượt quá khả năng/trình độ của ai đó",
+      "example": "I once joined a professional tennis club, but I quickly realized the other players were completely out of my league.",
+      "type": "idiom"
+    },
+    {
+      "word": "neck and neck",
+      "ipa": "/nek ənd nek/",
+      "meaning": "ngang tài ngang sức, bám sát nút nhau",
+      "example": "The race was neck and neck until the very last second when our team finally pulled ahead.",
+      "type": "idiom"
+    },
+    {
+      "word": "a safe bet",
+      "ipa": "/ə seɪf bet/",
+      "meaning": "một lựa chọn chắc chắn, ít rủi ro",
+      "example": "Choosing him as the captain was a safe bet, given his extensive experience and leadership skills.",
+      "type": "idiom"
+    },
+    {
+      "word": "jump the gun",
+      "ipa": "/dʒʌmp ðə ɡʌn/",
+      "meaning": "hành động quá sớm (trước thời điểm đúng/quy định)",
+      "example": "I lost the race because I jumped the gun, resulting in a false start that got me disqualified.",
+      "type": "idiom"
+    },
+    {
+      "word": "rise to the occasion",
+      "ipa": "/raɪz tə ði əˈkeɪʒn/",
+      "meaning": "vượt lên chính mình để xử lý tốt tình huống khó khăn",
+      "example": "When our star player was injured, the rest of the team really rose to the occasion to secure the trophy.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

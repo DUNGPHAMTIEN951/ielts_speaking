@@ -1,0 +1,76 @@
+{
+  "id": "q_21",
+  "vocab": [
+    {
+      "word": "tiring out",
+      "ipa": "/ˈtaɪə.rɪŋ aʊt/",
+      "meaning": "làm cho cơ thể mệt lử (theo cách tích cực của việc tập luyện)",
+      "example": "I find that tiring myself out with a heavy lifting session actually helps me sleep much better at night.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bulk up",
+      "ipa": "/bʌlk ʌp/",
+      "meaning": "tăng cơ, làm cho cơ thể to lớn và khỏe mạnh hơn",
+      "example": "Lately, I’ve been hitting the gym more frequently because I'm trying to bulk up a bit.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cut out",
+      "ipa": "/kʌt aʊt/",
+      "meaning": "loại bỏ hoàn toàn (một loại thực phẩm không tốt) khỏi chế độ ăn",
+      "example": "To boost my energy levels, I decided to cut out processed sugars entirely from my diet.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burn off",
+      "ipa": "/bɜːn ɒf/",
+      "meaning": "đốt cháy năng lượng/calo (thông qua vận động)",
+      "example": "I usually go for a brisk walk after dinner to help burn off some of the calories I've consumed.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "warm up",
+      "ipa": "/wɔːm ʌp/",
+      "meaning": "khởi động cơ thể trước khi tập luyện",
+      "example": "It is essential to warm up properly to avoid any muscle injuries during intense physical activity.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cool down",
+      "ipa": "/kuːl daʊn/",
+      "meaning": "thực hiện các bài tập nhẹ nhàng để thả lỏng sau khi tập nặng",
+      "example": "After my run, I always take ten minutes to cool down and stretch my hamstrings.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "build up",
+      "ipa": "/bɪld ʌp/",
+      "meaning": "tích lũy hoặc gia tăng (sức bền, thể lực) theo thời gian",
+      "example": "I’m slowly building up my stamina so that I can eventually run a full marathon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fill up on",
+      "ipa": "/fɪl ʌp ɒn/",
+      "meaning": "ăn no bằng một loại thực phẩm cụ thể (thường là đồ ăn lành mạnh)",
+      "example": "I try to fill up on fiber-rich vegetables so that I don't feel the urge to snack on junk food.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ease into",
+      "ipa": "/iːz ˈɪn.tuː/",
+      "meaning": "bắt đầu một thói quen mới một cách từ từ để cơ thể thích nghi",
+      "example": "When I first started yoga, I had to ease into the more complex poses to prevent straining myself.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep off",
+      "ipa": "/kiːp ɒf/",
+      "meaning": "ngăn chặn cái gì đó (thường là cân nặng) tăng lên",
+      "example": "Consistent cardio exercises help me keep off the extra weight that I tend to put on during winter.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

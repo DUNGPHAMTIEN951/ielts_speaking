@@ -1,0 +1,76 @@
+{
+  "id": "q_47",
+  "vocab": [
+    {
+      "word": "a stone's throw away",
+      "ipa": "/ə stoʊnz θroʊ əˈweɪ/",
+      "meaning": "rất gần, chỉ cách một quãng ngắn",
+      "example": "I'd love to have a library just a stone's throw away from my apartment so I could go there every weekend.",
+      "type": "idiom"
+    },
+    {
+      "word": "breath of fresh air",
+      "ipa": "/breθ əv freʃ er/",
+      "meaning": "một luồng gió mới (điều gì đó mới mẻ và tích cực)",
+      "example": "Adding a new park in this congested neighborhood would be a real breath of fresh air for all the residents.",
+      "type": "idiom"
+    },
+    {
+      "word": "concrete jungle",
+      "ipa": "/ˈkɑːŋkriːt ˈdʒʌŋɡl/",
+      "meaning": "khu rừng bê tông (nơi đô thị hóa quá mức, thiếu cây xanh)",
+      "example": "Living in a concrete jungle can be draining, so we desperately need more green spaces to escape the grayness.",
+      "type": "idiom"
+    },
+    {
+      "word": "at one's doorstep",
+      "ipa": "/æt wʌnz ˈdɔːrstep/",
+      "meaning": "ngay gần sát nhà, rất tiện lợi",
+      "example": "Having a community center right at my doorstep would make it so much easier to participate in local events.",
+      "type": "idiom"
+    },
+    {
+      "word": "recharge one's batteries",
+      "ipa": "/ˌriːˈtʃɑːrdʒ wʌnz ˈbætəriz/",
+      "meaning": "hồi phục năng lượng, nghỉ ngơi",
+      "example": "I believe more public squares would provide a place for people to recharge their batteries after a stressful workday.",
+      "type": "idiom"
+    },
+    {
+      "word": "the life and soul of",
+      "ipa": "/ðə laɪf ənd soʊl əv/",
+      "meaning": "linh hồn của (nơi nhộn nhịp, đầy sức sống nhất)",
+      "example": "The local park is the life and soul of our area; it's where everyone gathers to socialize and have fun.",
+      "type": "idiom"
+    },
+    {
+      "word": "few and far between",
+      "ipa": "/fjuː ənd fɑːr bɪˈtwiːn/",
+      "meaning": "hiếm gặp, không phổ biến",
+      "example": "Open spaces in my district are few and far between, which is why I’m strongly in favor of building more.",
+      "type": "idiom"
+    },
+    {
+      "word": "part and parcel",
+      "ipa": "/pɑːrt ənd ˈpɑːrsl/",
+      "meaning": "phần thiết yếu, không thể tách rời",
+      "example": "Public amenities should be part and parcel of any modern residential development plan.",
+      "type": "idiom"
+    },
+    {
+      "word": "feast for the eyes",
+      "ipa": "/fiːst fər ðə aɪz/",
+      "meaning": "một bữa tiệc cho đôi mắt (thứ gì đó rất đẹp)",
+      "example": "A well-designed botanical garden would be a feast for the eyes and a great spot for weekend walks.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit the spot",
+      "ipa": "/hɪt ðə spɑːt/",
+      "meaning": "đúng thứ mình cần, làm thỏa mãn hoàn toàn",
+      "example": "A quiet, modern co-working space in my neighborhood would really hit the spot for someone like me who works remotely.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

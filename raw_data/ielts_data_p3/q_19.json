@@ -1,0 +1,52 @@
+{
+  "id": "q_19",
+  "topic": "Arts and Drawing",
+  "q": "Did you learn to draw or paint when you were younger?",
+  "examiner_note": "Nói về trải nghiệm học tập thời thơ ấu. Sử dụng 'still-life', 'landscapes', 'perspective and shading', 'nurture'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I took some basic drawing classes in primary school. We mostly focused on simple still-life drawings and landscapes, which helped me develop a basic understanding of perspective and shading. It was a fun way to spend my time.",
+      "note": "Sử dụng thuật ngữ nghệ thuật cơ bản (still-life, perspective, shading)."
+    },
+    "band8": {
+      "text": "I did. My parents encouraged me to take painting classes as a creative outlet. I vividly remember experimenting with watercolors and learning how to blend colors to create different moods. It was a wonderful way to nurture my imagination and develop a fine eye for detail.",
+      "note": "Sử dụng từ vựng tự nhiên (creative outlet, vividly, watercolors, blend, nurture, fine eye for detail)."
+    },
+    "band9": {
+      "text": "My childhood was punctuated by various artistic pursuits. I attended an after-school art club where I was introduced to a range of mediums, from charcoal to oil paints. Those early lessons were instrumental in fostering my aesthetic appreciation and taught me to observe the world with much greater precision.",
+      "note": "Sử dụng từ vựng ở mức độ cao (punctuated, pursuits, mediums, charcoal, instrumental, fostering, aesthetic appreciation, precision)."
+    }
+  },
+  "v": [
+    {
+      "word": "vividly",
+      "meaning": "một cách sống động",
+      "ipa": "/ˈvɪvɪdli/",
+      "example": "I vividly remember the first time I went to the beach."
+    },
+    {
+      "word": "medium",
+      "meaning": "loại hình/chất liệu nghệ thuật",
+      "ipa": "/ˈmiːdiəm/",
+      "example": "Oil is a difficult medium to work with."
+    },
+    {
+      "word": "precision",
+      "meaning": "sự chính xác",
+      "ipa": "/prɪˈsɪʒn/",
+      "example": "The work was done with great precision."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "instrumental",
+      "meaning": "góp phần quan trọng",
+      "ipa": "/ˌɪnstrəˈmentl/",
+      "example": "She was instrumental in the project's success."
+    }
+  ],
+  "similar_questions": [
+    "Do you think drawing is important for children?",
+    "What was your favorite subject in primary school?"
+  ]
+}

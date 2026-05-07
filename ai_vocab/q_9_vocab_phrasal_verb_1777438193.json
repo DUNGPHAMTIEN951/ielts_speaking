@@ -1,0 +1,76 @@
+{
+  "id": "q_9",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, cảnh đẹp)",
+      "example": "Sometimes I prefer to just soak up the atmosphere of a stunning landscape before I even think about taking my phone out.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "capture on",
+      "ipa": "/ˈkæp.tʃər ɒn/",
+      "meaning": "ghi lại, thu lại trên (thiết bị, phim)",
+      "example": "I try to capture the essence of the mountains on camera, but often the lens doesn't do the reality justice.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bəl əˈpɒn/",
+      "meaning": "tình cờ bắt gặp, vô tình tìm thấy",
+      "example": "The best views I've ever photographed were those I stumbled upon by accident while wandering off the main trails.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zoom in on",
+      "ipa": "/zuːm ɪn ɒn/",
+      "meaning": "phóng to, tập trung cận cảnh vào",
+      "example": "When I see a particularly intricate detail in a vista, I like to zoom in on it to create a more abstract composition.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃəʊ ɒf/",
+      "meaning": "khoe, phô diễn vẻ đẹp",
+      "example": "Social media provides a great platform to show off the breathtaking views I encounter during my travels.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "frame up",
+      "ipa": "/freɪm ʌp/",
+      "meaning": "căn chỉnh khung hình, sắp xếp bố cục",
+      "example": "I take my time to frame up the shot properly, ensuring the horizon is perfectly level.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "filter out",
+      "ipa": "/ˈfɪl.tər aʊt/",
+      "meaning": "loại bỏ (những yếu tố không mong muốn)",
+      "example": "A good photographer knows how to filter out distracting elements like power lines to focus solely on the natural beauty.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm nổi bật, làm hiện rõ (màu sắc, chi tiết)",
+      "example": "The golden hour light really helps to bring out the vibrant textures of the cliffs and the sea.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out over",
+      "ipa": "/lʊk aʊt ˈəʊ.vər/",
+      "meaning": "nhìn ra xa, bao quát một không gian",
+      "example": "My favorite photos are usually taken from high vantage points that look out over the entire city skyline.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hold onto",
+      "ipa": "/həʊld ˈɒn.tuː/",
+      "meaning": "giữ lại (kỷ niệm, khoảnh khắc)",
+      "example": "Taking photos of spectacular scenery is my way of holding onto those fleeting moments of awe forever.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

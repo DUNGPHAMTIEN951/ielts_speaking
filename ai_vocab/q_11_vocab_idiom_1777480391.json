@@ -1,0 +1,76 @@
+{
+  "id": "q_11",
+  "vocab": [
+    {
+      "word": "a change of pace",
+      "ipa": "/ə tʃeɪndʒ əv peɪs/",
+      "meaning": "một sự thay đổi nhịp độ (giúp giải tỏa sự đơn điệu)",
+      "example": "After a hectic week at the office, wandering through a quiet gallery provides a much-needed change of pace.",
+      "type": "idiom"
+    },
+    {
+      "word": "get the picture",
+      "ipa": "/ɡet ðə ˈpɪk.tʃər/",
+      "meaning": "hiểu rõ hoàn cảnh/thông điệp (thường dùng ẩn dụ cho việc hiểu ý nghĩa bức tranh)",
+      "example": "Even without reading the description, you quickly get the picture of the artist's struggle through those somber colors.",
+      "type": "idiom"
+    },
+    {
+      "word": "paint a vivid picture",
+      "ipa": "/peɪnt ə ˈvɪv.ɪd ˈpɪk.tʃər/",
+      "meaning": "mô tả một cách sinh động (thường nói về cách tác phẩm gợi hình ảnh)",
+      "example": "The realism in that exhibition really paints a vivid picture of life in the rural countryside during the 18th century.",
+      "type": "idiom"
+    },
+    {
+      "word": "broaden one's outlook",
+      "ipa": "/ˈbrɔː.dən wʌnz ˈaʊt.lʊk/",
+      "meaning": "mở rộng quan điểm/cách nhìn nhận thế giới",
+      "example": "Exposing myself to abstract art has helped broaden my outlook on what can be considered beautiful.",
+      "type": "idiom"
+    },
+    {
+      "word": "a notch above",
+      "ipa": "/ə nɒtʃ əˈbʌv/",
+      "meaning": "cao hơn một bậc (về chất lượng, đẳng cấp)",
+      "example": "The curated selection at the Louvre is definitely a notch above any other gallery I've ever visited.",
+      "type": "idiom"
+    },
+    {
+      "word": "strike a chord",
+      "ipa": "/straɪk ə kɔːrd/",
+      "meaning": "chạm đúng nỗi lòng/tạo sự đồng cảm sâu sắc",
+      "example": "The minimalist sculptures really struck a chord with me due to their sheer simplicity and elegance.",
+      "type": "idiom"
+    },
+    {
+      "word": "be lost in thought",
+      "ipa": "/bi lɒst ɪn θɔːt/",
+      "meaning": "trầm ngâm, mải mê suy nghĩ",
+      "example": "I love how you can just stand in front of a masterpiece and be completely lost in thought for half an hour.",
+      "type": "idiom"
+    },
+    {
+      "word": "tick all the boxes",
+      "ipa": "/tɪk ɔːl ðə ˈbɒk.sɪz/",
+      "meaning": "đáp ứng mọi tiêu chuẩn/yêu cầu",
+      "example": "This exhibition ticks all the boxes for me; it's educational, visually stunning, and very well-organized.",
+      "type": "idiom"
+    },
+    {
+      "word": "the real McCoy",
+      "ipa": "/ðə rɪəl məˈkɔɪ/",
+      "meaning": "hàng thật, không phải đồ giả/đồ mô phỏng",
+      "example": "Seeing the real McCoy in a gallery is a totally different experience compared to looking at a digital reproduction.",
+      "type": "idiom"
+    },
+    {
+      "word": "leave no stone unturned",
+      "ipa": "/liːv nəʊ stəʊn ʌnˈtɜːnd/",
+      "meaning": "không bỏ sót bất cứ điều gì (thường dùng khi nói về việc khám phá mọi ngóc ngách phòng tranh)",
+      "example": "When I visit a new museum, I like to leave no stone unturned and explore every single hall from top to bottom.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

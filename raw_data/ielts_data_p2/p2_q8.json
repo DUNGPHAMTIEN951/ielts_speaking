@@ -1,0 +1,50 @@
+{
+  "q": "Describe an interesting person you would like to meet.",
+  "cue_card": [
+    "An interesting person you would like to meet.",
+    "Who this person is",
+    "What this person is famous for",
+    "Why you think this person is interesting",
+    "And explain what you would like to discuss with this person"
+  ],
+  "examiner_note": "Khi nói về người nổi tiếng hoặc hình mẫu lý tưởng, hãy sử dụng từ vựng về thành tựu (milestone, groundbreaking, legacy). Miêu tả sự ngưỡng mộ của bạn qua các trải nghiệm cá nhân (inspired me, changed my perspective).",
+  "samples": {
+    "band7": "I'd like to meet Elon Musk, the CEO of Tesla and SpaceX. He is very famous for his projects to go to Mars and building electric cars. I think he is interesting because he is a visionary and he is not afraid of taking risks. If I met him, I would like to discuss the future of technology and how we can protect our environment using clean energy. His ideas are very creative and I would love to learn from him.",
+    "band8": "I’m going to describe a person who has always fascinated me, and that is Elon Musk, the pioneering entrepreneur behind companies like SpaceX and Tesla. He is renowned globally for his groundbreaking work in aerospace engineering and sustainable energy. I find him incredibly interesting because of his visionary mindset and his relentless pursuit of goals that many consider impossible. Should I have the chance to meet him, I would love to delve into a conversation about the ethical implications of artificial intelligence and the potential for a multi-planetary future for humanity.",
+    "band9": "The individual I would be most honored to meeting is Elon Musk, a figure whose intellectual prowess and entrepreneurial spirit have left an indelible legacy in the modern world. Musk is celebrated for his revolutionary contributions to the fields of electric vehicles and space exploration, which have fundamentally altered our trajectory as a species. What makes him so compelling is his ability to envision a future that transcends current technological constraints and his unyielding courage to strive for it. If granted an audience with him, I would be eager to engage in a rigorous discussion regarding the convergence of neurotechnology and human consciousness, as well as the strategic necessities for ensuring a sustainable and technologically advanced civilization."
+  },
+  "v": [
+    {
+      "word": "Visionary",
+      "meaning": "Người có tầm nhìn xa trông rộng (A person with original ideas about what the future will or could be like)",
+      "example": "He was a visionary leader who could see the potential of the internet long before others."
+    },
+    {
+      "word": "Groundbreaking",
+      "meaning": "Đột phá (Innovative; pioneering; being a new development or showing a new way of doing something)",
+      "example": "His groundbreaking research into renewable energy won several awards."
+    },
+    {
+      "word": "Relentless pursuit",
+      "meaning": "Sự theo đuổi không ngừng nghỉ (The constant and determined effort to achieve a goal)",
+      "example": "His relentless pursuit of excellence has made the company a global leader."
+    },
+    {
+      "word": "Indelible legacy",
+      "meaning": "Di sản không thể xóa nhòa (A lasting impact or reputation that cannot be forgotten or erased)",
+      "example": "Einstein left an indelible legacy in the field of theoretical physics."
+    },
+    {
+      "word": "Convergence",
+      "meaning": "Sự hội tụ (The coming together of different things or ideas)",
+      "example": "The convergence of technology and art has created entirely new forms of expression."
+    },
+    {
+      "word": "Trajectory",
+      "meaning": "Quỹ đạo, hướng phát triển (The path followed by a projectile or a developing process)",
+      "example": "The country's economic trajectory has been positive for the last decade."
+    }
+  ],
+  "topic": "Describe an interesting person you would like to meet.",
+  "id": "p2_q8"
+}

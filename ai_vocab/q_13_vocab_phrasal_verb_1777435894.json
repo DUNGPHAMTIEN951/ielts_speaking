@@ -1,0 +1,76 @@
+{
+  "id": "q_13",
+  "vocab": [
+    {
+      "word": "map out",
+      "ipa": "/mæp aʊt/",
+      "meaning": "lên kế hoạch chi tiết (lộ trình/vị trí chụp)",
+      "example": "I usually map out my hiking route in advance to ensure I hit all the best spots for landscape photography.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wait out",
+      "ipa": "/weɪt aʊt/",
+      "meaning": "kiên nhẫn chờ đợi cho đến khi điều gì đó kết thúc (thời tiết xấu)",
+      "example": "We had to wait out the storm in a small cabin, but the clear skies afterward made for some incredible shots.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑː.vəl æt/",
+      "meaning": "chiêm ngưỡng với sự kinh ngạc",
+      "example": "I could spend hours just marvelling at the complex colors of the canyon through my camera lens.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick out",
+      "ipa": "/pɪk aʊt/",
+      "meaning": "nhận ra/chọn ra một chi tiết nổi bật giữa đám đông/khung cảnh",
+      "example": "A good photographer can pick out a single red tree in a vast green forest to create a focal point.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "light up",
+      "ipa": "/laɪt ʌp/",
+      "meaning": "làm rực sáng, chiếu sáng",
+      "example": "The way the sunrise lights up the mountain peaks is a sight I never get tired of capturing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tinker with",
+      "ipa": "/ˈtɪŋ.kər wɪð/",
+      "meaning": "điều chỉnh, thay đổi nhỏ (thông số máy/hậu kỳ) để cải thiện",
+      "example": "I love to tinker with the exposure settings to get the perfect balance between the sky and the foreground.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃəʊ ɒf/",
+      "meaning": "khoe ra, phô diễn (vẻ đẹp của cảnh vật)",
+      "example": "Wide-angle lenses are perfect when you want to show off the sheer scale of a panoramic vista.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw in",
+      "ipa": "/drɔː ɪn/",
+      "meaning": "thu hút (sự chú ý/người xem) vào khung hình",
+      "example": "Using leading lines like a winding road can really draw the viewer in to the heart of the landscape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blend in",
+      "ipa": "/blend ɪn/",
+      "meaning": "hòa nhập/ẩn mình vào môi trường",
+      "example": "When photographing wildlife within a landscape, I try to blend in with my surroundings to avoid disturbing the animals.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look back on",
+      "ipa": "/lʊk bæk ɒn/",
+      "meaning": "nhìn lại (kỷ niệm/ảnh cũ)",
+      "example": "It’s wonderful to look back on these scenery pictures years later and remember exactly how I felt in that moment.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

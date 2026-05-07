@@ -1,0 +1,76 @@
+{
+  "id": "q_40",
+  "vocab": [
+    {
+      "word": "pipe down",
+      "ipa": "/paɪp daʊn/",
+      "meaning": "trở nên yên tĩnh hơn, bớt ồn ào đi",
+      "example": "Late at night, the street noise finally starts to pipe down, allowing me to get some much-needed rest.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blare out",
+      "ipa": "/bler aʊt/",
+      "meaning": "phát ra âm thanh cực lớn và gây khó chịu",
+      "example": "Every Sunday morning, pop music blares out from the local market's speakers, waking up the entire block.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "filter through",
+      "ipa": "/ˈfɪltər θruː/",
+      "meaning": "lọt qua, len lỏi qua (vách ngăn, cửa sổ)",
+      "example": "Even with the windows closed, the muffled sound of heavy traffic tends to filter through into my study.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "startle out of",
+      "ipa": "/ˈstɑːrtl aʊt əv/",
+      "meaning": "làm giật mình tỉnh giấc/thoát khỏi trạng thái gì",
+      "example": "The sudden shriek of a car alarm often startles me out of my deep concentration when I'm reading.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tune out",
+      "ipa": "/tuːn aʊt/",
+      "meaning": "lờ đi, không chú ý đến âm thanh xung quanh",
+      "example": "Living near a train station, I've eventually learned to tune out the rhythmic clatter of the tracks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "echo back",
+      "ipa": "/ˈekəʊ bæk/",
+      "meaning": "vang vọng lại",
+      "example": "In the narrow alleyways near my house, the sound of footsteps seems to echo back against the brick walls.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up on",
+      "ipa": "/pɪk ʌp ɒn/",
+      "meaning": "nhận ra/nghe thấy một âm thanh nhỏ hoặc mờ nhạt",
+      "example": "When everything is still, I can pick up on the faint rustling of leaves in the park across the street.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shout over",
+      "ipa": "/ʃaʊt ˈəʊvər/",
+      "meaning": "nói át đi tiếng ồn khác",
+      "example": "The construction site is so loud that we literally have to shout over the drilling to hear each other.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "die down",
+      "ipa": "/daɪ daʊn/",
+      "meaning": "giảm dần cường độ rồi tắt hẳn",
+      "example": "I usually wait for the commuter rush to die down before I start my morning meditation.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "emanate from",
+      "ipa": "/ˈeməneɪt frəm/",
+      "meaning": "phát ra từ (một nguồn cụ thể)",
+      "example": "A low, mechanical hum constantly emanates from the industrial refrigerator in the convenience store downstairs.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

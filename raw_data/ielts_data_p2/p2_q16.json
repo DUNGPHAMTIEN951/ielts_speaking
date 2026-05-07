@@ -1,0 +1,50 @@
+{
+  "q": "Describe a successful small business you know.",
+  "cue_card": [
+    "A successful small business you know.",
+    "What the business is",
+    "How you know about it",
+    "What it sells/does",
+    "And explain why you think it is successful"
+  ],
+  "examiner_note": "Khi nói về kinh doanh, hãy sử dụng các thuật ngữ về thị trường và khách hàng (niche market, customer loyalty, entrepreneurial spirit). Hãy phân tích các yếu tố dẫn đến thành công như chất lượng dịch vụ hoặc chiến lược marketing độc đáo.",
+  "samples": {
+    "band7": "I'm going to talk about a small coffee shop near my house called 'The Green Hub'. I found out about it when I was looking for a quiet place to study. It sells organic coffee and handmade pastries. I think it is successful because the owner is very friendly and the atmosphere is very cozy. Many local people come here every day, so it's always busy despite being a small shop.",
+    "band8": "I’d like to describe a flourishing small business in my neighborhood, a boutique bakery known as 'Crust & Crumb'. I discovered it through word-of-mouth recommendations within my community. The bakery specializes in artisanal sourdough and unique pastries made with locally sourced ingredients. I believe its success stems from a combination of top-tier product quality and an unwavering commitment to customer satisfaction, which has built a strong sense of customer loyalty.",
+    "band9": "A standout example of a thriving small enterprise is a specialty vegan restaurant named 'Green Serenity' located in the city center. I became aware of this establishment through its highly engaging social media presence. The restaurant offers a sophisticated plant-based menu that caters to a growing niche market of health-conscious diners. What truly sets them apart and ensures their sustained success is their innovative approach to culinary excellence and their authentic entrepreneurial spirit. They haven't just created a eatery; they've cultivated a community around sustainable living, resulting in exceptional brand equity and steady growth."
+  },
+  "v": [
+    {
+      "word": "Boutique bakery",
+      "meaning": "Tiệm bánh nhỏ, cao cấp (A small, specialized bakery that typically offers high-quality, artisanal products)",
+      "example": "The small town is home to a charming boutique bakery that draws crowds every weekend."
+    },
+    {
+      "word": "Artisanal",
+      "meaning": "Thủ công, làm theo mẻ nhỏ (Made in a traditional or non-mechanized way using high-quality ingredients)",
+      "example": "They sell a variety of artisanal cheeses and handmade breads."
+    },
+    {
+      "word": "Word-of-mouth",
+      "meaning": "Truyền miệng (Information passed from person to person by oral communication)",
+      "example": "The restaurant's success is largely due to positive word-of-mouth among locals."
+    },
+    {
+      "word": "Niche market",
+      "meaning": "Thị trường ngách (A small, specialized area of the market for a particular product or service)",
+      "example": "The company has found success by focusing on a niche market of eco-friendly athletes."
+    },
+    {
+      "word": "Customer loyalty",
+      "meaning": "Sự trung thành của khách hàng (The likelihood that a customer will continue to buy products or services from a business)",
+      "example": "High product quality and excellent service are essential for building customer loyalty."
+    },
+    {
+      "word": "Entrepreneurial spirit",
+      "meaning": "Tinh thần khởi nghiệp (An individual's ability to turn ideas into action, including creativity, innovation, and risk-taking)",
+      "example": "Her entrepreneurial spirit led her to start three successful businesses before she was thirty."
+    }
+  ],
+  "topic": "Describe a successful small business you know.",
+  "id": "p2_q16"
+}

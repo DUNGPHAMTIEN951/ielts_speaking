@@ -1,0 +1,76 @@
+{
+  "id": "q_47",
+  "vocab": [
+    {
+      "word": "hammer out",
+      "ipa": "/ˈhæm.ər aʊt/",
+      "meaning": "thảo luận kỹ lưỡng để đạt được sự thống nhất hoặc giải quyết vấn đề",
+      "example": "In a group, we can hammer out the details of a complex theory until everyone truly understands it.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "slack off",
+      "ipa": "/slæk ɒf/",
+      "meaning": "làm việc hời hợt, bớt nỗ lực (thường xảy ra khi học nhóm không hiệu quả)",
+      "example": "I tend to study alone because I’m less likely to slack off when there’s no one around to distract me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "read up on",
+      "ipa": "/riːd ʌp ɒn/",
+      "meaning": "đọc nhiều tài liệu để tìm hiểu kỹ về một chủ đề",
+      "example": "I prefer to spend a few hours by myself to read up on a subject before joining a group discussion.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear up",
+      "ipa": "/klɪər ʌp/",
+      "meaning": "giải đáp thắc mắc hoặc làm sáng tỏ một hiểu lầm",
+      "example": "Studying with others is great because they can often help clear up any points I find confusing in the textbook.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall behind",
+      "ipa": "/fɔːl bɪˈhaɪnd/",
+      "meaning": "tụt hậu, không theo kịp tiến độ (bài học/công việc)",
+      "example": "If I study alone, I can go at my own pace without worrying about falling behind the rest of the group.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "jot down",
+      "ipa": "/dʒɒt daʊn/",
+      "meaning": "ghi chú nhanh những ý tưởng hoặc thông tin quan trọng",
+      "example": "When studying with others, I’m constantly jotting down interesting perspectives that I hadn't considered before.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊ.vər/",
+      "meaning": "suy ngẫm, cân nhắc kỹ lưỡng một vấn đề trong thời gian dài",
+      "example": "I need solitude to really mull over abstract concepts; otherwise, I feel too rushed in a group setting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp, giữ vững tốc độ hoặc trình độ với người khác",
+      "example": "Studying with high achievers motivates me to keep up with their rigorous schedule and deep level of insight.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get across",
+      "ipa": "/ɡet əˈkrɒs/",
+      "meaning": "truyền đạt ý tưởng một cách hiệu quả để người khác hiểu",
+      "example": "Group study sessions are a brilliant way to practice getting your arguments across clearly and persuasively.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "vô hiệu hóa, ngăn chặn (tiếng ồn hoặc sự xao nhãng)",
+      "example": "I use noise-canceling headphones to block out the world when I need to focus on a difficult assignment by myself.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

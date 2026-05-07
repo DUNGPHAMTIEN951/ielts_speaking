@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "capital accumulation",
+      "ipa": "/ˈkæpɪtl əˌkjuːmjuˈleɪʃn/",
+      "meaning": "sự tích lũy vốn",
+      "example": "Banks serve as a primary vehicle for capital accumulation, allowing individuals to pool their savings for future investments.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "mitigate financial risks",
+      "ipa": "/ˈmɪtɪɡeɪt faɪˈnænʃl rɪsks/",
+      "meaning": "giảm thiểu các rủi ro tài chính",
+      "example": "By diversifying where their money is held, people use banks to mitigate financial risks associated with keeping large sums of cash at home.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "creditworthiness",
+      "ipa": "/ˈkredɪtˌwɜːðinəs/",
+      "meaning": "khả năng vay vốn/độ tin cậy tín dụng",
+      "example": "Maintaining a steady bank account is essential for building creditworthiness when applying for a mortgage or a car loan.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "automated clearing",
+      "ipa": "/ˈɔːtəmeɪtɪd ˈklɪərɪŋ/",
+      "meaning": "hệ thống thanh toán/bù trừ tự động",
+      "example": "The efficiency of automated clearing systems in modern banks ensures that salaries are deposited without any manual delay.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "interest-bearing account",
+      "ipa": "/ˈɪntrəst ˈbeərɪŋ əˈkaʊnt/",
+      "meaning": "tài khoản có hưởng lãi suất",
+      "example": "Many people opt for an interest-bearing account to prevent their purchasing power from being eroded by inflation.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "direct debit",
+      "ipa": "/dəˌrekt ˈdebɪt/",
+      "meaning": "ghi nợ trực tiếp (thanh toán tự động)",
+      "example": "I find the direct debit feature incredibly useful for settling utility bills automatically every month.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "liquidity management",
+      "ipa": "/lɪˈkwɪdəti ˈmænɪdʒmənt/",
+      "meaning": "quản lý tính thanh khoản",
+      "example": "For business owners, banks are vital for liquidity management, ensuring they have enough cash flow to cover daily expenses.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "safekeeping",
+      "ipa": "/ˈseɪfkiːpɪŋ/",
+      "meaning": "việc bảo quản an toàn (thường là tài sản quý giá)",
+      "example": "Beyond digital digits, many people use safety deposit boxes at banks for the safekeeping of physical valuables like jewelry or deeds.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "facilitate transactions",
+      "ipa": "/fəˈsɪlɪteɪt trænˈzækʃnz/",
+      "meaning": "tạo điều kiện thuận lợi cho các giao dịch",
+      "example": "Online banking apps facilitate transactions at the touch of a button, eliminating the need to visit a physical branch.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "fiscal oversight",
+      "ipa": "/ˈfɪskl ˈəʊvəsaɪt/",
+      "meaning": "sự giám sát tài chính (giúp kiểm soát chi tiêu)",
+      "example": "Having a digital record of every penny spent provides excellent fiscal oversight for anyone trying to stick to a strict budget.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

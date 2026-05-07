@@ -1,0 +1,76 @@
+{
+  "id": "q_15",
+  "vocab": [
+    {
+      "word": "feast on",
+      "ipa": "/fiːst ɒn/",
+      "meaning": "thưởng thức một cách say mê (bằng mắt)",
+      "example": "I would love to visit the Louvre just to feast on the sheer variety of Renaissance masterpieces.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "delve into",
+      "ipa": "/delv ˈɪntə/",
+      "meaning": "khám phá sâu, tìm hiểu kỹ lưỡng",
+      "example": "I’m keen to visit the national museum to delve into the ancient history of my country through its artifacts.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak in",
+      "ipa": "/səʊk ɪn/",
+      "meaning": "hấp thụ, tận hưởng hoàn toàn (không gian, cảm xúc)",
+      "example": "There is nothing more relaxing than spending a rainy afternoon soaking in the creative energy of an art gallery.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gaze at",
+      "ipa": "/ɡeɪz æt/",
+      "meaning": "nhìn chằm chằm một cách ngưỡng mộ",
+      "example": "I could easily spend an entire morning just gazing at the intricate sculptures displayed in the courtyard.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wander around",
+      "ipa": "/ˈwɒndə(r) əˈraʊnd/",
+      "meaning": "đi dạo quanh, đi thong dong",
+      "example": "I prefer to wander around the museum at my own pace rather than following a strict guided tour.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stare at",
+      "ipa": "/steə(r) æt/",
+      "meaning": "nhìn chăm chú (thường do bị thu hút mạnh)",
+      "example": "Some abstract paintings are so thought-provoking that I find myself staring at them for ages, trying to decode their meaning.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look through",
+      "ipa": "/lʊk θruː/",
+      "meaning": "xem lướt qua hoặc xem lần lượt các món đồ",
+      "example": "I enjoy looking through the museum gift shop after an exhibition to find unique souvenirs.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass by",
+      "ipa": "/pɑːs baɪ/",
+      "meaning": "đi ngang qua (thường dùng để nói về việc không thể bỏ lỡ)",
+      "example": "Whenever I’m in the city center, I find it hard to just pass by the gallery without stepping inside for a look.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up on",
+      "ipa": "/pɪk ʌp ɒn/",
+      "meaning": "nhận ra, nắm bắt được (chi tiết nhỏ hoặc ý nghĩa ẩn giấu)",
+      "example": "Visiting a gallery with a curator helps me pick up on subtle details in the paintings that I would otherwise miss.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head over to",
+      "ipa": "/hed ˈəʊvə(r) tu/",
+      "meaning": "đi đến một địa điểm nào đó",
+      "example": "If I have some free time this weekend, I’ll definitely head over to the contemporary art exhibition.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_21",
+  "vocab": [
+    {
+      "word": "taper off",
+      "ipa": "/ˈteɪ.pər ɒf/",
+      "meaning": "giảm dần cường độ (tập luyện hoặc tiêu thụ thứ gì đó)",
+      "example": "I've been trying to taper off my caffeine intake in the evenings to improve my sleep quality.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ward off",
+      "ipa": "/wɔːd ɒf/",
+      "meaning": "ngăn chặn, phòng ngừa (bệnh tật, vi khuẩn)",
+      "example": "I consume a lot of vitamin C and ginger tea to help ward off any potential seasonal flu.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "whip up",
+      "ipa": "/wɪp ʌp/",
+      "meaning": "nấu nhanh một món ăn (thường là đồ ăn tươi, lành mạnh)",
+      "example": "Instead of ordering takeout, I usually whip up a nutritious salad with grilled chicken for dinner.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "limber up",
+      "ipa": "/ˈlɪm.bər ʌp/",
+      "meaning": "làm mềm người, làm giãn cơ (trước khi vận động mạnh)",
+      "example": "I spend about fifteen minutes every morning doing yoga to limber up my joints before a long day at the desk.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "slack off",
+      "ipa": "/slæk ɒf/",
+      "meaning": "trở nên lười biếng, giảm bớt sự nỗ lực (thường dùng để nhắc nhở bản thân)",
+      "example": "I try my best not to slack off on my workout routine, even when I'm feeling a bit under the weather.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tuck into",
+      "ipa": "/tʌk ˈɪn.tuː/",
+      "meaning": "ăn một cách ngon lành và hào hứng (thường là đồ ăn bổ dưỡng)",
+      "example": "After a grueling session at the gym, I love to tuck into a hearty, protein-rich meal.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bounce back",
+      "ipa": "/baʊns bæk/",
+      "meaning": "hồi phục nhanh chóng (sau khi ốm hoặc chấn thương)",
+      "example": "Maintaining a healthy lifestyle helps my body bounce back much faster whenever I feel exhausted.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fend off",
+      "ipa": "/fend ɒf/",
+      "meaning": "chống lại/đẩy lùi (sự mệt mỏi, cơn thèm ăn đồ ngọt)",
+      "example": "Drinking plenty of water throughout the day helps me fend off those mid-afternoon sugar cravings.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "build into",
+      "ipa": "/bɪld ˈɪn.tuː/",
+      "meaning": "lồng ghép/tích hợp vào (thói quen hàng ngày)",
+      "example": "I've managed to build short walking breaks into my work schedule to avoid being sedentary for too long.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up",
+      "ipa": "/ˈmeʒ.ər ʌp/",
+      "meaning": "đạt được tiêu chuẩn/mục tiêu (về sức khỏe, cân nặng, thể lực)",
+      "example": "I track my daily steps on a smartwatch to see if my activity levels measure up to my fitness goals.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

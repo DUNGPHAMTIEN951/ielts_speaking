@@ -1,0 +1,52 @@
+{
+  "id": "q_26",
+  "topic": "Shoes",
+  "q": "How often do you buy shoes?",
+  "examiner_note": "Nói về tần suất và lý do. Sử dụng 'wear out', 'tempted', 'investment', 'longevity'.",
+  "samples": {
+    "band7": {
+      "text": "I don’t buy shoes very often. Normally, I only get a new pair once or twice a year unless my old ones wear out quickly or there’s a really good sale that I can’t resist. I prefer to have a few good pairs rather than many cheap ones.",
+      "note": "Trả lời thực tế, sử dụng từ vựng tốt (wear out, resist)."
+    },
+    "band8": {
+      "text": "I’m not a frequent shoe shopper. I usually only purchase a new pair when my current ones are showing signs of wear and tear or if I need a specific type of footwear for an upcoming occasion. I prioritize quality over quantity and look for shoes that offer both comfort and longevity.",
+      "note": "Sử dụng từ vựng hay (frequent, wear and tear, upcoming, longevity)."
+    },
+    "band9": {
+      "text": "My shoe purchases are quite infrequent and purposeful. I view footwear as a long-term investment, so I’m willing to spend more on high-quality pairs that will last for several years. I only buy when absolutely necessary, often waiting for specific releases or high-end brands that I know align with my style and comfort requirements.",
+      "note": "Sử dụng từ vựng ở mức độ cao (infrequent, purposeful, investment, align with)."
+    }
+  },
+  "v": [
+    {
+      "word": "wear and tear",
+      "meaning": "hao mòn tự nhiên",
+      "ipa": "/wer ænd ter/",
+      "example": "The car shows some signs of wear and tear."
+    },
+    {
+      "word": "longevity",
+      "meaning": "tuổi thọ/sự bền lâu",
+      "ipa": "/lɔːnˈdʒevəti/",
+      "example": "The longevity of the battery is impressive."
+    },
+    {
+      "word": "infrequent",
+      "meaning": "không thường xuyên",
+      "ipa": "/ɪnˈfriːkwənt/",
+      "example": "His visits were infrequent."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "purposeful",
+      "meaning": "có mục đích",
+      "ipa": "/ˈpɜːrpəsfl/",
+      "example": "She took a purposeful step towards the door."
+    }
+  ],
+  "similar_questions": [
+    "What was the last pair of shoes you bought?",
+    "Do you like shopping for shoes?"
+  ]
+}

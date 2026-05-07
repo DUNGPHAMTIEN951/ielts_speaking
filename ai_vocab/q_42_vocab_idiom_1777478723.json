@@ -1,0 +1,76 @@
+{
+  "id": "q_42",
+  "vocab": [
+    {
+      "word": "a home bird",
+      "ipa": "/ə həʊm bɜːd/",
+      "meaning": "người thích ở nhà (hơn là đi ra ngoài những nơi ồn ào)",
+      "example": "I’m a bit of a home bird on weekends, so I’d much rather stay in a quiet environment than head to a rowdy club.",
+      "type": "idiom"
+    },
+    {
+      "word": "let off steam",
+      "ipa": "/let ɒf stiːm/",
+      "meaning": "xả hơi, giải tỏa căng thẳng (thường ở những nơi sôi động)",
+      "example": "After a grueling week at work, sometimes I need to go to a concert just to let off steam and enjoy the music.",
+      "type": "idiom"
+    },
+    {
+      "word": "far from the madding crowd",
+      "ipa": "/fɑːr frəm ðə ˈmæd.ɪŋ kraʊd/",
+      "meaning": "lánh xa đám đông xô bồ, náo nhiệt",
+      "example": "I prefer hiking in the mountains on Sundays because it’s far from the madding crowd of the city center.",
+      "type": "idiom"
+    },
+    {
+      "word": "hear a pin drop",
+      "ipa": "/hɪər ə pɪn drɒp/",
+      "meaning": "im lặng đến mức có thể nghe thấy tiếng kim rơi",
+      "example": "I love visiting the central library; it’s so quiet in there that you could hear a pin drop.",
+      "type": "idiom"
+    },
+    {
+      "word": "paint the town red",
+      "ipa": "/peɪnt ðə taʊn red/",
+      "meaning": "đi chơi đêm cực kỳ sôi động, quậy tưng bừng",
+      "example": "Every now and then, my friends and I like to paint the town red by visiting the most vibrant bars in the district.",
+      "type": "idiom"
+    },
+    {
+      "word": "peace and quiet",
+      "ipa": "/piːs ənd ˈkwaɪ.ət/",
+      "meaning": "sự bình yên và tĩnh lặng",
+      "example": "All I really want on a Saturday afternoon is a bit of peace and quiet in my backyard with a good book.",
+      "type": "idiom"
+    },
+    {
+      "word": "at the top of one's lungs",
+      "ipa": "/æt ðə tɒp əv wʌnz lʌŋz/",
+      "meaning": "hết mức (thường nói về việc la hét/hát hò ở nơi ồn ào)",
+      "example": "I avoid karaoke bars because I can't stand people singing at the top of their lungs all night.",
+      "type": "idiom"
+    },
+    {
+      "word": "recharge one's batteries",
+      "ipa": "/ˌriːˈtʃɑːdʒ wʌnz ˈbæt.ər.iz/",
+      "meaning": "nạp lại năng lượng",
+      "example": "Quiet places are essential for me to recharge my batteries before the new work week begins on Monday.",
+      "type": "idiom"
+    },
+    {
+      "word": "the life and soul of the party",
+      "ipa": "/ðə laɪf ənd səʊl əv ðə ˈpɑː.ti/",
+      "meaning": "người là linh hồn của bữa tiệc (thích nơi náo nhiệt)",
+      "example": "My brother is the life and soul of the party, so he always drags me to the noisiest spots in town.",
+      "type": "idiom"
+    },
+    {
+      "word": "get away from it all",
+      "ipa": "/ɡet əˈweɪ frəm ɪt ɔːl/",
+      "meaning": "thoát khỏi mọi áp lực, mệt mỏi thường nhật",
+      "example": "I choose secluded coastal areas on weekends just to get away from it all and clear my mind.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

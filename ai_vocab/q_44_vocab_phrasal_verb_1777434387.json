@@ -1,0 +1,76 @@
+{
+  "id": "q_44",
+  "vocab": [
+    {
+      "word": "spruce up",
+      "ipa": "/sprus ʌp/",
+      "meaning": "tân trang, làm cho sạch đẹp và hiện đại hơn",
+      "example": "The school authorities have recently spruced up the common areas with vibrant murals and ergonomic furniture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tear down",
+      "ipa": "/ter daʊn/",
+      "meaning": "phá dỡ (một tòa nhà hoặc công trình cũ)",
+      "example": "They decided to tear down the dilapidated gym to make way for a state-of-the-art multi-purpose sports complex.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pour into",
+      "ipa": "/pɔːr ˈɪn.tuː/",
+      "meaning": "đầu tư mạnh tay (tiền bạc, nguồn lực) vào thứ gì đó",
+      "example": "Massive funding has been poured into the STEM department to provide students with high-end robotics kits.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring in",
+      "ipa": "/brɪŋ ɪn/",
+      "meaning": "áp dụng, đưa vào sử dụng (luật lệ, hệ thống hoặc công nghệ mới)",
+      "example": "The faculty has brought in a sophisticated online portal to streamline the submission of assignments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "scale up",
+      "ipa": "/skeɪl ʌp/",
+      "meaning": "mở rộng quy mô (để phục vụ nhiều người hơn hoặc chuyên nghiệp hơn)",
+      "example": "The institution has scaled up its intake of international students, leading to a much more diverse campus culture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clutter up",
+      "ipa": "/ˈklʌt.ər ʌp/",
+      "meaning": "làm cho bừa bộn (thường nói về việc có quá nhiều công trình mới làm mất không gian cũ)",
+      "example": "Some alumni feel that new annexes have cluttered up the once-spacious playground I used to love.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "turn into",
+      "ipa": "/tɜːn ˈɪn.tuː/",
+      "meaning": "biến đổi hoàn toàn thành một thứ gì đó khác",
+      "example": "What used to be a dusty old storage room has been turned into a cozy, soundproofed recording studio for students.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊ.pən ʌp/",
+      "meaning": "mở ra (cơ hội, khả năng hoặc không gian mới)",
+      "example": "The introduction of elective vocational subjects has opened up many new career paths for graduating students.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring about",
+      "ipa": "/brɪŋ əˈbaʊt/",
+      "meaning": "gây ra, dẫn đến sự thay đổi",
+      "example": "The change in leadership brought about a complete overhaul of the school’s disciplinary system.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull ahead",
+      "ipa": "/pʊl əˈhed/",
+      "meaning": "vươn lên dẫn trước (về chất lượng hoặc thành tích so với các trường khác)",
+      "example": "By integrating Phạm Tiến Dũng Gia Sư into the classroom, my old school has really pulled ahead of other local institutions.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

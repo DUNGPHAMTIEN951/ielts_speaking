@@ -1,0 +1,76 @@
+{
+  "id": "q_12",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, ánh nắng)",
+      "example": "I love nothing more than sitting on the shore to soak up the sun and the salty sea breeze.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑːvl æt/",
+      "meaning": "chiêm ngưỡng, kinh ngạc trước vẻ đẹp của cái gì",
+      "example": "From the peak, you can really marvel at the breathtaking scale of the valley below.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "nằm ẩn mình, hẻo lánh (nơi chốn)",
+      "example": "I prefer the mountains because you can find tiny cabins tucked away in the forest, far from the crowds.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ bắt gặp, khám phá ra",
+      "example": "One of the joys of hiking is when you stumble upon a hidden waterfall deep in the woods.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gaze out",
+      "ipa": "/ɡeɪz aʊt/",
+      "meaning": "nhìn đăm đắm ra xa",
+      "example": "I could spend hours just gazing out at the endless blue horizon of the ocean.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head for",
+      "ipa": "/hed fɔː(r)/",
+      "meaning": "đi về phía, chọn hướng đi",
+      "example": "During the summer holidays, I usually head for the coast to escape the sweltering heat of the city.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cool off",
+      "ipa": "/kuːl ɒf/",
+      "meaning": "làm mát cơ thể, giải nhiệt",
+      "example": "There's no better way to cool off than taking a dip in the refreshing turquoise waters of the sea.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng ngoạn, ngắm nhìn (phong cảnh)",
+      "example": "I paused for a moment on the cliffside to take in the spectacular scenery of the rugged coastline.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "vibe with",
+      "ipa": "/vaɪb wɪð/",
+      "meaning": "cảm thấy hợp, hòa hợp với (không gian, cảm xúc)",
+      "example": "I really vibe with the tranquil and majestic energy that only high altitudes can provide.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "freshen up",
+      "ipa": "/ˈfreʃn ʌp/",
+      "meaning": "làm cho tỉnh táo, sảng khoái lại",
+      "example": "The crisp mountain air always helps to freshen up my mind after a stressful week at work.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

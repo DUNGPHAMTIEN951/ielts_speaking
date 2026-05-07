@@ -1,0 +1,72 @@
+{
+  "id": "q_9",
+  "topic": "Scenery",
+  "q": "Do you take photos of good views?",
+  "examiner_note": "Câu hỏi này liên kết giữa sở thích ngắm cảnh và thói quen sử dụng công nghệ (nhiếp ảnh). Bạn có thể nói về việc lưu giữ kỷ niệm (preserving memories) hay chia sẻ lên mạng xã hội (social media). Hãy thể hiện quan điểm cá nhân: Bạn là người thích 'chụp mọi lúc mọi nơi' hay là người thích 'sống trọn khoảnh khắc' hơn. Sử dụng các thuật ngữ nhiếp ảnh như 'composition', 'framing' sẽ giúp câu trả lời chuyên nghiệp hơn.",
+  "samples": {
+    "band7": {
+      "text": "Definitely! I’m a big fan of photography, so whenever I see a beautiful view, I'll take a few photos with my phone. It’s a great way to keep those memories and share them with my friends on Facebook or Instagram.",
+      "note": "Trả lời trực tiếp, có mục đích rõ ràng (kỷ niệm, chia sẻ). Sử dụng từ vựng tự nhiên."
+    },
+    "band8": {
+      "text": "Yes, I practically can't resist. Whenever I encounter a stunning landscape, I feel compelled to capture it. I think photography adds another layer of appreciation to the view because you have to think about composition and framing. Plus, looking back at those photos later always brings back that sense of wonder.",
+      "note": "Sử dụng các cụm từ tốt như 'can't resist', 'feel compelled', 'adds another layer of appreciation', 'composition and framing'. Cách diễn đạt mạch lạc."
+    },
+    "band9": {
+      "text": "Absolutely, I’m quite a photography enthusiast, so I often strive to document the scenic beauty I encounter. However, I try to strike a balance between capturing the perfect shot and actually immersing myself in the moment. While I appreciate the technical aspects like lighting and perspective, I believe the raw emotional connection to a landscape is something that a camera lens can sometimes fail to replicate entirely.",
+      "note": "Sử dụng từ vựng ở trình độ cao (enthusiast, document, strike a balance, immersing, technical aspects, replicate entirely). Thể hiện quan điểm triết lý và sự tinh tế."
+    }
+  },
+  "v": [
+    { "word": "can't resist", "meaning": "không thể cưỡng lại", "ipa": "/kænt rɪˈzɪst/", "example": "I can't resist taking a photo when the sunset is that beautiful." },
+    { "word": "feel compelled to", "meaning": "cảm thấy bị thôi thúc phải làm gì", "ipa": "/fiːl kəmˈpeld tuː/", "example": "I feel compelled to share my travel photos with my family." },
+    { "word": "composition", "meaning": "bố cục (trong ảnh/tranh)", "ipa": "/ˌkɑːmpəˈzɪʃn/", "example": "Good composition is the key to a great photograph." },
+    { "word": "framing", "meaning": "cách đóng khung/căn chỉnh khung hình", "ipa": "/ˈfreɪmɪŋ/", "example": "The trees provided a natural framing for the mountain in the photo." },
+    { "word": "photography enthusiast", "meaning": "người đam mê nhiếp ảnh", "ipa": "/fəˈtɑːɡrəfi ɪnˈθuːziæst/", "example": "As a photography enthusiast, she carries her camera everywhere." },
+    { "word": "document", "meaning": "ghi lại (dưới dạng phim/ảnh/văn bản)", "ipa": "/ˈdɑːkjument/", "example": "I love to document my travels through my blog." },
+    { "word": "strike a balance", "meaning": "tìm sự cân bằng", "ipa": "/straɪk ə ˈbæləns/", "example": "It's important to strike a balance between work and play." },
+    { "word": "immerse oneself in", "meaning": "đắm chìm vào", "ipa": "/ɪˈmɜːrs wʌnˈself ɪn/", "example": "You should immerse yourself in the local culture when traveling." },
+    { "word": "camera lens", "meaning": "ống kính máy ảnh", "ipa": "/ˈkæmərə lenz/", "example": "A wide-angle camera lens is perfect for landscapes." },
+    { "word": "replicate", "meaning": "sao chép/mô phỏng lại", "ipa": "/ˈreplɪkeɪt/", "example": "No photo can truly replicate the feeling of being there in person." },
+    { "word": "preserve memories", "meaning": "lưu giữ kỷ niệm", "ipa": "/prɪˈzɜːrv ˈmeməriz/", "example": "Photos are the best way to preserve memories of our holiday." },
+    { "word": "visual aesthetics", "meaning": "/ˈvɪʒuəl esˈθetɪks/", "ipa": "thẩm mỹ về mặt thị giác", "example": "The visual aesthetics of the movie were absolutely stunning." },
+    { "word": "high resolution", "meaning": "độ phân giải cao", "ipa": "/haɪ ˌrezəˈluːʃn/", "example": "Modern smartphones can take high resolution photos." },
+    { "word": "editing app", "meaning": "ứng dụng chỉnh sửa (ảnh/video)", "ipa": "/ˈedɪtɪŋ æp/", "example": "I use a professional editing app to enhance my photos." },
+    { "word": "enhance", "meaning": "nâng cao/làm đẹp thêm", "ipa": "/ɪnˈhæns/", "example": "Filters can enhance the colors of a sunset photo." },
+    { "word": "post on social media", "meaning": "đăng lên mạng xã hội", "ipa": "/poʊst ɑːn ˈsoʊʃl ˈmiːdiə/", "example": "I always post my best vacation shots on social media." },
+    { "word": "candid shot", "meaning": "ảnh chụp tự nhiên (không diễn)", "ipa": "/ˈkændɪd ʃɑːt/", "example": "Candid shots often capture the true emotion of a moment." },
+    { "word": "landscape orientation", "meaning": "khung hình nằm ngang", "ipa": "/ˈlændskeɪp ˌɔːriənˈteɪʃn/", "example": "Most scenic views look better in landscape orientation." },
+    { "word": "portrait mode", "meaning": "chế độ chụp chân dung", "ipa": "/ˈpɔːrtrət moʊd/", "example": "Portrait mode creates a beautiful blurred background." },
+    { "word": "depth of field", "meaning": "độ sâu trường ảnh", "ipa": "/depθ əv fiːld/", "example": "A shallow depth of field is great for focusing on a single flower." },
+    { "word": "lighting conditions", "meaning": "điều kiện ánh sáng", "ipa": "/ˈlaɪtɪŋ kənˈdɪʃnz/", "example": "The lighting conditions were perfect for an outdoor photoshoot." },
+    { "word": "overexposed", "meaning": "bị cháy sáng (quá sáng)", "ipa": "/ˌoʊvərɪkˈspoʊzd/", "example": "The sky in the photo is overexposed and looks completely white." },
+    { "word": "underexposed", "meaning": "bị thiếu sáng (quá tối)", "ipa": "/ˌʌndərɪkˈspoʊzd/", "example": "The forest was too dark, so the photos came out underexposed." },
+    { "word": "shutter speed", "meaning": "tốc độ màn trập", "ipa": "/ˈʃʌtər spiːd/", "example": "You need a fast shutter speed to capture moving water." },
+    { "word": "aperture", "meaning": "khẩu độ", "ipa": "/ˈæpərtʃər/", "example": "Adjusting the aperture changes how much light enters the camera." },
+    { "word": "ISO settings", "meaning": "thông số ISO (độ nhạy sáng)", "ipa": "/ˌaɪ es ˈoʊ ˈsetɪŋz/", "example": "In low light, you might need to increase the ISO settings." },
+    { "word": "tripod", "meaning": "chân máy ảnh", "ipa": "/ˈtraɪpɑːd/", "example": "I use a tripod for long exposure shots of the night sky." },
+    { "word": "viewfinder", "meaning": "kính ngắm", "ipa": "/ˈvjuːfaɪndər/", "example": "I prefer looking through the viewfinder rather than the screen." },
+    { "word": "autofocus", "meaning": "tự động lấy nét", "ipa": "/ˈɔːtoʊˌfoʊkəs/", "example": "The autofocus on this camera is incredibly fast." },
+    { "word": "focal point", "meaning": "điểm hội tụ/điểm nhấn", "ipa": "/ˈfoʊkl pɔɪnt/", "example": "The bright red barn is the focal point of the landscape." },
+    { "word": "panoramic shot", "meaning": "ảnh chụp toàn cảnh", "ipa": "/ˌpænəˈræmɪk ʃɑːt/", "example": "I took a panoramic shot to capture the whole mountain range." },
+    { "word": "time-lapse", "meaning": "video tua nhanh thời gian", "ipa": "/ˈtaɪm læps/", "example": "We made a time-lapse of the clouds moving over the valley." },
+    { "word": "selfie", "meaning": "ảnh tự sướng", "ipa": "/ˈselfi/", "example": "Everyone was taking selfies in front of the Eiffel Tower." },
+    { "word": "photo album", "meaning": "quyển album ảnh", "ipa": "/ˈfoʊtoʊ ˈælbəm/", "example": "My grandmother still keeps all her photos in a physical photo album." },
+    { "word": "digital gallery", "meaning": "bộ sưu tập ảnh kỹ thuật số", "ipa": "/ˈdɪdʒɪtl ˈɡæləri/", "example": "My phone's digital gallery is full of pictures of my cat." },
+    { "word": "memory card", "meaning": "thẻ nhớ", "ipa": "/ˈmeməri kɑːrd/", "example": "Make sure you have enough space on your memory card." },
+    { "word": "cloud backup", "meaning": "sao lưu trên đám mây", "ipa": "/klaʊd ˈbækʌp/", "example": "I use cloud backup so I never lose my precious photos." },
+    { "word": "worth a thousand words", "meaning": "đáng giá ngàn lời nói (hình ảnh có sức mạnh)", "ipa": "/wɜːrθ ə ˈθaʊznd wɜːrdz/", "example": "They say a picture is worth a thousand words." },
+    { "word": "capture the essence", "meaning": "ghi lại được cái hồn/bản chất", "ipa": "/ˈkæptʃər ðə ˈesns/", "example": "The photographer really captured the essence of the city." },
+    { "word": "frozen in time", "meaning": "đóng băng trong thời gian", "ipa": "/ˈfroʊzn ɪn taɪm/", "example": "A good photograph makes a moment feel frozen in time." },
+    { "word": "snap a photo", "meaning": "chụp nhanh một tấm ảnh", "ipa": "/snæp ə ˈfoʊtoʊ/", "example": "Wait! Let me snap a photo of this sunset before it's gone." },
+    { "word": "photogenic", "meaning": "ăn ảnh", "ipa": "/ˌfoʊtəˈdʒenɪk/", "example": "Some people are just naturally very photogenic." },
+    { "word": "filter", "meaning": "bộ lọc (chỉnh ảnh)", "ipa": "/ˈfɪltər/", "example": "I like using a black and white filter for a dramatic look." },
+    { "word": "zoomed in", "meaning": "phóng to/thu gần", "ipa": "/zuːmd ɪn/", "example": "The bird was too far away, so I had to be zoomed in." },
+    { "word": "out of focus", "meaning": "bị mờ/không nét", "ipa": "/aʊt əv ˈfoʊkəs/", "example": "The background is out of focus, which makes the subject stand out." },
+    { "word": "sharp", "meaning": "rõ nét", "ipa": "/ʃɑːrp/", "example": "The details in this high-quality print are incredibly sharp." },
+    { "word": "grainy", "meaning": "bị nhiễu/hạt (ảnh chất lượng thấp)", "ipa": "/ˈɡreɪni/", "example": "Photos taken in very low light often look grainy." },
+    { "word": "vivid", "meaning": "sống động/rực rỡ", "ipa": "/ˈvɪvɪd/", "example": "The colors in her paintings are always so vivid." },
+    { "word": "unforgettable", "meaning": "không thể quên", "ipa": "/ˌʌnfərˈɡetəbl/", "example": "The view from the summit was an unforgettable experience." },
+    { "word": "live in the moment", "meaning": "sống trọn khoảnh khắc", "ipa": "/lɪv ɪn ðə ˈmoʊmənt/", "example": "Sometimes it's better to put down the phone and just live in the moment." }
+  ]
+}

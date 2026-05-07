@@ -1,0 +1,76 @@
+{
+  "id": "q_9",
+  "vocab": [
+    {
+      "word": "drink in",
+      "ipa": "/drɪŋk ɪn/",
+      "meaning": "thưởng ngoạn, tận hưởng trọn vẹn (vẻ đẹp hoặc bầu không khí)",
+      "example": "Before reaching for my camera, I like to just stand there and drink in the scenery for a few moments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off",
+      "ipa": "/set ɒf/",
+      "meaning": "làm nổi bật lên, tôn vẻ đẹp của cái gì đó",
+      "example": "The golden hour light really sets off the vibrant colors of the autumn leaves in my photographs.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zoom in on",
+      "ipa": "/zuːm ɪn ɒn/",
+      "meaning": "phóng to, tập trung vào một chi tiết cụ thể",
+      "example": "I often zoom in on the intricate patterns of the rock formations to capture the texture of the landscape.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble across",
+      "ipa": "/ˈstʌm.bəl əˈkrɒs/",
+      "meaning": "tình cờ bắt gặp",
+      "example": "Some of my best shots were taken when I stumbled across a hidden waterfall while hiking off the main path.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "che khuất, ngăn chặn tầm nhìn",
+      "example": "It's a shame when modern skyscrapers block out the view of the historic sunset over the horizon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "filter out",
+      "ipa": "/ˈfɪl.tər aʊt/",
+      "meaning": "loại bỏ (những yếu tố gây nhiễu hoặc không mong muốn)",
+      "example": "Using a polarizing lens helps to filter out the glare from the water, making the colors pop more in the photo.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tide over",
+      "ipa": "/taɪd ˈəʊ.vər/",
+      "meaning": "giúp duy trì cảm xúc/trạng thái (trong lúc chờ đợi thứ gì đó)",
+      "example": "Looking at photos of majestic mountains helps tide me over until my next vacation to the countryside.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm lộ ra, làm nổi rõ (đặc điểm hoặc vẻ đẹp tiềm ẩn)",
+      "example": "High-contrast editing can really bring out the dramatic shadows in a black-and-white landscape shot.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mess around with",
+      "ipa": "/mes əˈraʊnd wɪð/",
+      "meaning": "thử nghiệm, nghịch (các cài đặt hoặc góc chụp)",
+      "example": "I enjoy messing around with different shutter speeds to capture the blurred motion of the waves.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "thư giãn, thả lỏng (sau khi hoàn thành việc gì đó)",
+      "example": "Taking photos of the serene lake at dusk is my favorite way to wind down after a long day of traveling.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

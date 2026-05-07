@@ -1,0 +1,76 @@
+{
+  "id": "q_44",
+  "vocab": [
+    {
+      "word": "tear down",
+      "ipa": "/teər daʊn/",
+      "meaning": "phá dỡ hoàn toàn (một tòa nhà hoặc cấu trúc)",
+      "example": "They decided to tear down the old, crumbling gymnasium to make way for a state-of-the-art sports complex.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spruce up",
+      "ipa": "/spruːs ʌp/",
+      "meaning": "tân trang, làm cho sạch đẹp và hiện đại hơn",
+      "example": "The school has recently spruced up the common areas with vibrant murals and ergonomic furniture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cater to",
+      "ipa": "/ˈkeɪ.tər tuː/",
+      "meaning": "phục vụ cho nhu cầu cụ thể của một nhóm đối tượng",
+      "example": "The curriculum has evolved to cater to students with diverse learning styles, including more vocational training options.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "do over",
+      "ipa": "/duː ˈəʊ.vər/",
+      "meaning": "làm lại, trang trí lại hoàn toàn",
+      "example": "The main auditorium was completely done over, improving both the acoustics and the seating capacity.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "close off",
+      "ipa": "/kləʊz ɒf/",
+      "meaning": "chặn, đóng lối đi (để tạo không gian riêng biệt)",
+      "example": "They have closed off the street in front of the school to traffic to create a pedestrian-friendly entrance for the kids.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "scale up",
+      "ipa": "/skeɪl ʌp/",
+      "meaning": "mở rộng quy mô (về số lượng hoặc kích thước)",
+      "example": "The school has scaled up its extracurricular programs, offering everything from coding to competitive robotics.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fit out",
+      "ipa": "/fɪt aʊt/",
+      "meaning": "trang bị nội thất hoặc thiết bị chuyên dụng",
+      "example": "All the classrooms have been fitted out with high-speed Wi-Fi and interactive whiteboards.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look into",
+      "ipa": "/lʊk ˈɪn.tuː/",
+      "meaning": "nghiên cứu, xem xét (một hướng đi hoặc chính sách mới)",
+      "example": "The board is looking into sustainable energy solutions, such as installing solar panels on the roof.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mix in",
+      "ipa": "/mɪks ɪn/",
+      "meaning": "kết hợp, lồng ghép thêm vào",
+      "example": "Modern teaching methods now mix in a lot of soft-skills training along with traditional academic subjects.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pull down",
+      "ipa": "/pʊl daʊn/",
+      "meaning": "phá bỏ (tương tự tear down nhưng thường dùng cho tường hoặc rào)",
+      "example": "They pulled down the old iron fences to make the campus feel more inviting and integrated with the local community.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_22",
+  "vocab": [
+    {
+      "word": "lug around",
+      "ipa": "/lʌɡ əˈraʊnd/",
+      "meaning": "mang vác cái gì đó nặng nề một cách mệt nhọc",
+      "example": "I hate having to lug around a heavy suitcase when there's no elevator available.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "heave up",
+      "ipa": "/hiːv ʌp/",
+      "meaning": "nhấc bổng cái gì đó nặng bằng rất nhiều sức lực",
+      "example": "I had to heave the box up onto the top shelf, which was quite a workout.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "help out",
+      "ipa": "/help aʊt/",
+      "meaning": "giúp đỡ (thường là giúp ai đó làm việc gì khó khăn)",
+      "example": "If an item is far too heavy, I usually ask a friend to help me out with the lifting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "load up",
+      "ipa": "/ləʊd ʌp/",
+      "meaning": "chất đồ lên (xe, kệ, giỏ hàng...)",
+      "example": "Instead of carrying everything, I'll load up a trolley to transport the heavy goods more easily.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "put down",
+      "ipa": "/pʊt daʊn/",
+      "meaning": "đặt xuống (để nghỉ ngơi khi quá nặng)",
+      "example": "I have to put the grocery bags down every few minutes because they are incredibly heavy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "back out of",
+      "ipa": "/bæk aʊt əv/",
+      "meaning": "rút lui/không làm nữa (vì thấy quá sức)",
+      "example": "If I realize the furniture is too heavy to move alone, I might back out of doing it until I have help.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "prop up",
+      "ipa": "/prɒp ʌp/",
+      "meaning": "chống đỡ cái gì đó (nặng) bằng vật gì khác",
+      "example": "I used a sturdy wooden block to prop up the heavy cabinet while I was fixing the base.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drag along",
+      "ipa": "/dræɡ əˈlɒŋ/",
+      "meaning": "kéo lê vật gì đó nặng trên mặt đất",
+      "example": "Since I couldn't lift the sack of rice, I had to drag it along the floor to the kitchen.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "give up on",
+      "ipa": "/ɡɪv ʌp ɒn/",
+      "meaning": "từ bỏ việc gì đó (vì quá nặng hoặc quá khó)",
+      "example": "I almost gave up on moving the piano myself before realizing it was an impossible task.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get someone in",
+      "ipa": "/ɡet ˈsʌm.wʌn ɪn/",
+      "meaning": "thuê hoặc mời ai đó đến để giải quyết việc gì",
+      "example": "For very heavy appliances, I'd rather get the professionals in to handle the delivery.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

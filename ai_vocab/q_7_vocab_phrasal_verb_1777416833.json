@@ -1,0 +1,76 @@
+{
+  "id": "q_7",
+  "vocab": [
+    {
+      "word": "look out over",
+      "ipa": "/lʊk aʊt ˈəʊ.vər/",
+      "meaning": "có tầm nhìn hướng ra (từ trên cao)",
+      "example": "There's a quaint little cafe on the hilltop that looks out over the entire valley.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, cảnh đẹp)",
+      "example": "I love heading to the rooftop garden just to soak up the stunning sunset after a long day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "be tucked away",
+      "ipa": "/bi tʌkt əˈweɪ/",
+      "meaning": "nằm ẩn mình ở một nơi yên tĩnh, hẻo lánh",
+      "example": "There is a hidden waterfall tucked away in the forest that offers some truly breathtaking views.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stroll along",
+      "ipa": "/strəʊl əˈlɒŋ/",
+      "meaning": "đi dạo thong thả dọc theo",
+      "example": "Residents often stroll along the promenade to enjoy the refreshing sea breeze and the coastal scenery.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head for",
+      "ipa": "/hed fɔːr/",
+      "meaning": "đi về phía, hướng về phía",
+      "example": "If you're looking for a panoramic view of the skyline, you should head for the observation deck downtown.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dot around",
+      "ipa": "/dɒt əˈraʊnd/",
+      "meaning": "rải rác khắp nơi",
+      "example": "There are several scenic viewpoints dotted around the outskirts of the city that are perfect for photography.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "feast one's eyes on",
+      "ipa": "/fiːst wʌnz aɪz ɒn/",
+      "meaning": "thưởng ngoạn, say sưa ngắm nhìn cái gì đó đẹp đẽ",
+      "example": "You can go to the botanical gardens to feast your eyes on the vibrant colors of the seasonal flowers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng lãm, nhìn ngắm (phong cảnh)",
+      "example": "We spent the whole afternoon sitting on the cliffs, just taking in the spectacular view of the ocean.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "be cut off from",
+      "ipa": "/bi kʌt ɒf frəm/",
+      "meaning": "tách biệt khỏi (sự ồn ào, náo nhiệt)",
+      "example": "I prefer visiting the lakeside because it's completely cut off from the hustle and bustle of city life.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊ.pən ʌp/",
+      "meaning": "mở ra (một tầm nhìn rộng lớn)",
+      "example": "As you reach the top of the trail, the landscape suddenly opens up into a magnificent plateau.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

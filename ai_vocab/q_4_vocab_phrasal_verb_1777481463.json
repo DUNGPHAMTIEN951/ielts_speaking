@@ -1,0 +1,76 @@
+{
+  "id": "q_4",
+  "vocab": [
+    {
+      "word": "dabble in",
+      "ipa": "/ˈdæb.əl ɪn/",
+      "meaning": "học thử hoặc làm một việc gì đó chỉ ở mức độ biết chút ít, không quá sâu",
+      "example": "I like to dabble in watercolor painting during my spare time, though I wouldn't call myself a professional.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get into",
+      "ipa": "/ɡet ˈɪn.tuː/",
+      "meaning": "bắt đầu trở nên hứng thú hoặc tham gia vào một hoạt động nào đó",
+      "example": "I recently got into urban gardening to create a small green space in my apartment.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "while away",
+      "ipa": "/waɪl əˈweɪ/",
+      "meaning": "dành thời gian một cách thư thả, nhàn nhã",
+      "example": "On rainy afternoons, I love to while away the hours by getting lost in a good historical novel.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại hoặc cải thiện một kỹ năng đã lâu không sử dụng",
+      "example": "I've started taking weekend classes to brush up on my French, which I haven't spoken since high school.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "lose oneself in",
+      "ipa": "/luːz wʌnˈself ɪn/",
+      "meaning": "mải mê, đắm chìm hoàn toàn vào cái gì đó đến mức quên hết xung quanh",
+      "example": "Whenever I put on my headphones, I completely lose myself in the rhythm and lyrics of jazz music.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take to",
+      "ipa": "/teɪk tuː/",
+      "meaning": "bắt đầu yêu thích hoặc có thói quen làm gì đó một cách tự nhiên",
+      "example": "I took to bouldering almost immediately because it challenges both my physical strength and problem-solving skills.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "chill out",
+      "ipa": "/tʃɪl aʊt/",
+      "meaning": "thư giãn hoàn toàn, không lo nghĩ",
+      "example": "Photography is my favorite way to chill out after a high-pressure week at the office.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up",
+      "ipa": "/kiːp ʌp/",
+      "meaning": "duy trì một thói quen hoặc hoạt động thường xuyên",
+      "example": "It's quite a challenge to keep up my daily running routine during the winter months, but I try my best.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "geek out on",
+      "ipa": "/ɡiːk aʊt ɒn/",
+      "meaning": "trở nên cực kỳ hào hứng và nói chi tiết về một chủ đề kỹ thuật hoặc chuyên biệt",
+      "example": "My friends and I often geek out on the latest advancements in artificial intelligence and space exploration.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɒf/",
+      "meaning": "thả hồn theo mộng tưởng (thường dùng khi nói về các sở thích nhẹ nhàng như nghe nhạc, ngắm cảnh)",
+      "example": "I often find myself drifting off while listening to ambient music; it's incredibly therapeutic for my mental health.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

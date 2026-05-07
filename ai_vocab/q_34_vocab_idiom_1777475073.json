@@ -1,0 +1,76 @@
+{
+  "id": "q_34",
+  "vocab": [
+    {
+      "word": "a hard nut to crack",
+      "ipa": "/ə hɑːrd nʌt tu kræk/",
+      "meaning": "một vấn đề nan giải (áp dụng cho các loại cây khó chăm sóc)",
+      "example": "Growing orchids in a dry climate is definitely a hard nut to crack for most amateur gardeners.",
+      "type": "idiom"
+    },
+    {
+      "word": "gild the lily",
+      "ipa": "/ɡɪld ðə ˈlɪli/",
+      "meaning": "khéo quá hóa vụng (thêm thắt vô ích vào thứ đã đẹp sẵn)",
+      "example": "The natural beauty of the garden is already stunning, so adding plastic ornaments would just be gilding the lily.",
+      "type": "idiom"
+    },
+    {
+      "word": "shaking like a leaf",
+      "ipa": "/ˈʃeɪkɪŋ laɪk ə liːf/",
+      "meaning": "run lẩy bẩy (có thể dùng miêu tả phản ứng khi thấy cây quý bị héo)",
+      "example": "I was shaking like a leaf when I realized I had left my prize-winning bonsai out in the frost.",
+      "type": "idiom"
+    },
+    {
+      "word": "the grass is always greener on the other side",
+      "ipa": "/ðə ɡrɑːs ɪz ˈɔːlweɪz ˈɡriːnər ɒn ði ˈʌðər saɪd/",
+      "meaning": "đứng núi này trông núi nọ",
+      "example": "I used to envy my neighbor's lush lawn, but I realized the grass is always greener on the other side until you see the water bill.",
+      "type": "idiom"
+    },
+    {
+      "word": "beat around the bush",
+      "ipa": "/biːt əˈraʊnd ðə bʊʃ/",
+      "meaning": "nói vòng vo (liên quan đến hình ảnh bụi cây)",
+      "example": "Let’s not beat around the bush; if you don't prune those hydrangeas now, they won't bloom next year.",
+      "type": "idiom"
+    },
+    {
+      "word": "can’t see the wood for the trees",
+      "ipa": "/kɑːnt siː ðə wʊd fɔːr ðə triːz/",
+      "meaning": "không thấy được bức tranh tổng thể vì quá chú trọng chi tiết",
+      "example": "He’s so worried about a few yellow leaves that he can't see the wood for the trees—the rest of the garden is thriving.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit the hay",
+      "ipa": "/hɪt ðə heɪ/",
+      "meaning": "đi ngủ (gốc từ cỏ khô dùng trong trồng trọt)",
+      "example": "After a grueling day of tilling the soil and planting seeds, I was ready to hit the hay by 8 PM.",
+      "type": "idiom"
+    },
+    {
+      "word": "not a bed of roses",
+      "ipa": "/nɒt ə bed əv ˈrəʊzɪz/",
+      "meaning": "không phải là chuyện dễ dàng/không chỉ toàn màu hồng",
+      "example": "Starting a vegetable patch from scratch is certainly not a bed of roses; it requires back-breaking work.",
+      "type": "idiom"
+    },
+    {
+      "word": "as busy as a bee",
+      "ipa": "/æz ˈbɪzi æz ə biː/",
+      "meaning": "rất bận rộn (liên quan đến thụ phấn trong làm vườn)",
+      "example": "During the harvest season, my mother is as busy as a bee, preserving all the fruits from our backyard.",
+      "type": "idiom"
+    },
+    {
+      "word": "pushing up daisies",
+      "ipa": "/ˈpʊʃɪŋ ʌp ˈdeɪziz/",
+      "meaning": "đã qua đời (cách nói hài hước/ẩn dụ về việc cây chết)",
+      "example": "I’m afraid my rosemary plant is pushing up daisies because I forgot to water it while I was on vacation.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

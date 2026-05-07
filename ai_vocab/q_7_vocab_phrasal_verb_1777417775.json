@@ -1,0 +1,76 @@
+{
+  "id": "q_7",
+  "vocab": [
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng ngoạn, ngắm nhìn (cảnh đẹp)",
+      "example": "I often go to the observation deck to take in the sprawling cityscape at night.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "perch on",
+      "ipa": "/pɜːtʃ ɒn/",
+      "meaning": "nằm ở trên cao (như chim đậu), tọa lạc ở vị trí cao",
+      "example": "There's a quaint little pagoda perched on the hillside that offers a bird's-eye view of the valley.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out onto",
+      "ipa": "/lʊk aʊt ˈɒntu/",
+      "meaning": "hướng tầm nhìn ra (thường là từ một cửa sổ hoặc ban công)",
+      "example": "My favorite library has large glass windows that look out onto a lush, botanical garden.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃəʊ ɒf/",
+      "meaning": "phô diễn, khoe ra (vẻ đẹp tự nhiên)",
+      "example": "The riverside promenade really shows off the city's architectural blend of old and new.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "jut out",
+      "ipa": "/dʒʌt aʊt/",
+      "meaning": "nhô ra (khỏi một bề mặt hoặc đường bờ biển)",
+      "example": "There are several rocky piers that jut out into the sea, providing a perfect spot to watch the sunrise.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sweep across",
+      "ipa": "/swiːp əˈkrɒs/",
+      "meaning": "trải dài băng qua (một khu vực rộng lớn)",
+      "example": "From the lighthouse, you can see the white sandy beaches sweep across the entire coastline.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "nestle among",
+      "ipa": "/ˈnesl əˈmʌŋ/",
+      "meaning": "nằm gọn gàng, ẩn mình giữa (cây cối, đồi núi)",
+      "example": "The ancient temples are nestled among the pine trees, creating a very picturesque and spiritual atmosphere.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "face towards",
+      "ipa": "/feɪs təˈwɔːdz/",
+      "meaning": "hướng về phía",
+      "example": "The public benches are all positioned to face towards the lake so people can enjoy the reflection of the sunset.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "light up",
+      "ipa": "/laɪt ʌp/",
+      "meaning": "làm rực sáng, bừng sáng",
+      "example": "The city skyline truly lights up after dark, turning the mundane concrete into a shimmering masterpiece.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "back onto",
+      "ipa": "/bæk ˈɒntu/",
+      "meaning": "nằm dựa lưng vào, có phía sau giáp với",
+      "example": "My neighborhood backs onto a nature reserve, so we are treated to stunning forest views right from our backyards.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

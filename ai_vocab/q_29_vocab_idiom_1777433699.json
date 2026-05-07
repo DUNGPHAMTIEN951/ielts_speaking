@@ -1,0 +1,76 @@
+{
+  "id": "q_29",
+  "vocab": [
+    {
+      "word": "a steep learning curve",
+      "ipa": "/ə stiːp ˈlɜː.nɪŋ kɜːv/",
+      "meaning": "một quá trình học hỏi khó khăn trong thời gian ngắn",
+      "example": "As a freshman, I'm facing a steep learning curve trying to master advanced calculus and academic research.",
+      "type": "idiom"
+    },
+    {
+      "word": "earn one's salt",
+      "ipa": "/ɜːrn wʌnz sɔːlt/",
+      "meaning": "làm việc xứng đáng với đồng lương/vị trí của mình",
+      "example": "I've been at the firm for six months now, and I finally feel like I'm earning my salt by leading my own projects.",
+      "type": "idiom"
+    },
+    {
+      "word": "burn the candle at both ends",
+      "ipa": "/bɜːn ðə ˈkæn.dəl æt bəʊθ endz/",
+      "meaning": "làm việc kiệt sức (thức khuya dậy sớm)",
+      "example": "Since I'm working full-time and studying for my CPA on the side, I've been burning the candle at both ends.",
+      "type": "idiom"
+    },
+    {
+      "word": "pick someone's brains",
+      "ipa": "/pɪk ˈsʌm.wʌnz breɪnz/",
+      "meaning": "hỏi ý kiến chuyên gia/người có kinh nghiệm để học hỏi",
+      "example": "Being a junior developer, I love to pick my senior colleagues' brains to understand complex coding architectures.",
+      "type": "idiom"
+    },
+    {
+      "word": "the tricks of the trade",
+      "ipa": "/ðə trɪks əv ðə treɪd/",
+      "meaning": "những mẹo nhỏ/kỹ năng đặc thù trong nghề",
+      "example": "My internship at the marketing agency really taught me the tricks of the trade regarding consumer psychology.",
+      "type": "idiom"
+    },
+    {
+      "word": "go the extra mile",
+      "ipa": "/ɡəʊ ði ˈek.strə maɪl/",
+      "meaning": "nỗ lực nhiều hơn mức được yêu cầu",
+      "example": "Whether it's for a term paper or a work assignment, I always strive to go the extra mile to ensure top-notch quality.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit the ground running",
+      "ipa": "/hɪt ðə ɡraʊnd ˈrʌn.ɪŋ/",
+      "meaning": "bắt đầu công việc/việc học một cách tràn đầy năng lượng và hiệu quả ngay lập tức",
+      "example": "After graduation, I hope to hit the ground running in the tech industry and contribute to innovative software solutions.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep one's head above water",
+      "ipa": "/kiːp wʌnz hed əˈbʌv ˈwɔː.tər/",
+      "meaning": "vừa đủ khả năng để đối phó với khó khăn (tài chính hoặc khối lượng công việc)",
+      "example": "With so many assignments due this week, I'm just trying to keep my head above water and avoid falling behind.",
+      "type": "idiom"
+    },
+    {
+      "word": "burn the midnight oil",
+      "ipa": "/bɜːn ðə ˈmɪd.naɪt ɔɪl/",
+      "meaning": "thức khuya để học bài hoặc làm việc",
+      "example": "I had to burn the midnight oil all last week to finish my thesis before the final deadline.",
+      "type": "idiom"
+    },
+    {
+      "word": "a jack of all trades",
+      "ipa": "/ə dʒæk əv ɔːl treɪdz/",
+      "meaning": "người đa năng, biết nhiều việc (dù có thể không quá sâu sắc)",
+      "example": "In my current role at a startup, I have to be a jack of all trades, handling everything from accounting to social media.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

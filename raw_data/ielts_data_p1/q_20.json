@@ -1,0 +1,72 @@
+{
+  "id": "q_20",
+  "topic": "Cash",
+  "q": "Why do people use banks?",
+  "examiner_note": "Đây là một câu hỏi mang tính giải thích lý do (Reasons). Bạn nên đưa ra 2-3 lợi ích cốt lõi của ngân hàng như: tính bảo mật (security), tích lũy tài sản (accumulating wealth), và các dịch vụ đi kèm (loans, mortgage). Sử dụng các cụm từ như 'financial safe haven', 'manage their finances', 'long-term investment' để nâng cao chất lượng câu trả lời.",
+  "samples": {
+    "band7": {
+      "text": "I think the main reason people use banks is for security. It's much safer than keeping a large amount of cash at home. Also, banks allow us to save money for the future and provide us with loans when we want to buy something big like a car or a house.",
+      "note": "Trả lời trực tiếp, bao quát được các ý chính (security, saving, loans). Sử dụng từ vựng ở mức khá."
+    },
+    "band8": {
+      "text": "People utilize banks primarily for their unparalleled security and financial management tools. Banks serve as a reliable institution where individuals can safeguard their hard-earned money. Furthermore, they offer essential financial products like mortgages and high-interest savings accounts, which are crucial for long-term wealth accumulation.",
+      "note": "Sử dụng từ vựng chuyên nghiệp (utilize, unparalleled, safeguard, mortgages, wealth accumulation). Cách dẫn đạt mạch lạc và thuyết phục."
+    },
+    "band9": {
+      "text": "Banks essentially function as the backbone of modern financial stability for most people. Beyond the obvious security advantages of a regulated safe haven for one's capital, they provide the necessary infrastructure for seamless domestic and international transactions. Additionally, the availability of credit and complex investment instruments allows individuals to amplify their financial potential and achieve significant milestones like home ownership or entrepreneurial ventures. In short, they are indispensable for both individual prosperity and global economic fluidity.",
+      "note": "Từ vựng cực kỳ học thuật và chính xác (backbone, safe haven, capital, infrastructure, seamless, investment instruments, amplify, entrepreneurial ventures, prosperity, fluidity). Cách lập luận ở tầm vĩ mô và rất sâu sắc."
+    }
+  },
+  "v": [
+    { "word": "financial stability", "meaning": "sự ổn định tài chính", "ipa": "/faɪˈnænʃl stəˈbɪləti/", "example": "Building an emergency fund is key to your financial stability." },
+    { "word": "backbone", "meaning": "xương sống/phần cốt lõi", "ipa": "/ˈbækboʊn/", "example": "Agriculture is the backbone of the country’s economy." },
+    { "word": "safe haven", "meaning": "nơi trú ẩn an toàn", "ipa": "/seɪf ˈheɪvn/", "example": "Gold is often considered a safe haven for investors during a crisis." },
+    { "word": "capital", "meaning": "vốn (tiền/tài sản)", "ipa": "/ˈkæpɪtl/", "example": "We need more capital to expand our business abroad." },
+    { "word": "infrastructure", "meaning": "cơ sở hạ tầng", "ipa": "/ˈɪnfrəstrʌktʃər/", "example": "Investment in transport infrastructure helps boost economic growth." },
+    { "word": "investment instruments", "meaning": "các công cụ đầu tư", "ipa": "/ɪnˈvestmənt ˈɪnstrəmənts/", "example": "Stocks, bonds, and mutual funds are common investment instruments." },
+    { "word": "amplify", "meaning": "khuếch đại/tăng cường", "ipa": "/ˈæmplɪfaɪ/", "example": "This strategy will amplify our chances of success." },
+    { "word": "entrepreneurial ventures", "meaning": "các dự án khởi nghiệp/kinh doanh", "ipa": "/ˌɑːntrəprəˈnɜːriəl ˈventʃərz/", "example": "The bank provides funding for promising entrepreneurial ventures." },
+    { "word": "prosperity", "meaning": "sự thịnh vượng", "ipa": "/prɑːˈsperəti/", "example": "The country is enjoying a period of peace and prosperity." },
+    { "word": "economic fluidity", "meaning": "sự lưu thông kinh tế", "ipa": "/ˌekəˈnɑːmɪk fluːˈɪdəti/", "example": "Digital payments contribute to greater global economic fluidity." },
+    { "word": "long-term investment", "meaning": "đầu tư dài hạn", "ipa": "/lɔːŋ tɜːrm ɪnˈvestmənt/", "example": "Buying property is generally a good long-term investment." },
+    { "word": "safeguard", "meaning": "bảo vệ/che chắn", "ipa": "/ˈseɪfɡɑːrd/", "example": "Rules are in place to safeguard the rights of the children." },
+    { "word": "accumulating wealth", "meaning": "tích lũy tài sản/sự giàu có", "ipa": "/əˈkjuːmjəleɪtɪŋ welθ/", "example": "Patience is essential when it comes to accumulating wealth over time." },
+    { "word": "mortgage", "meaning": "khoản vay thế chấp mua nhà", "ipa": "/ˈmɔːrɡɪdʒ/", "example": "They took out a thirty-year mortgage to buy the villa." },
+    { "word": "reliable institution", "meaning": "tổ chức đáng tin cậy", "ipa": "/rɪˈlaɪəbl ˌɪnstɪˈtuːʃn/", "example": "The central bank is seen as a reliable institution by the public." },
+    { "word": "interest-bearing account", "meaning": "tài khoản có hưởng lãi suất", "ipa": "/ˈɪntrəst ˈberɪŋ əˈkaʊnt/", "example": "I keep most of my money in an interest-bearing account." },
+    { "word": "currency", "meaning": "tiền tệ", "ipa": "/ˈkɜːrənsi/", "example": "The euro is the official currency of many European countries." },
+    { "word": "financial assets", "meaning": "tài sản tài chính", "ipa": "/faɪˈnænʃl ˈæsets/", "example": "The wealthy family holds a vast amount of financial assets." },
+    { "word": "loan application", "meaning": "đơn xin vay vốn", "ipa": "/loʊn ˌæplɪˈkeɪʃn/", "example": "The bank is currently reviewing your loan application." },
+    { "word": "collateral", "meaning": "tài sản thế chấp", "ipa": "/kəˈlætərəl/", "example": "He used his house as collateral for the business loan." },
+    { "word": "overdraft facility", "meaning": "hạn mức thấu chi", "ipa": "/ˈoʊvərdræft fəˈsɪləti/", "example": "The business has an overdraft facility to help with cash flow." },
+    { "word": "transfer money", "meaning": "chuyển tiền", "ipa": "/trænsˈfɜːr ˈmʌni/", "example": "You can transfer money internationally using our banking app." },
+    { "word": "transaction history", "meaning": "lịch sử giao dịch", "ipa": "/trænˈzækʃn ˈhɪstəri/", "example": "Always check your transaction history for any unauthorized changes." },
+    { "word": "creditworthiness", "meaning": "khả năng trả nợ/tín nhiệm tín dụng", "ipa": "/ˈkredɪtˌwɜːrðinəs/", "example": "The bank checks your creditworthiness before approving a card." },
+    { "word": "deposit", "meaning": "tiền gửi/khoản đặt cọc", "ipa": "/dɪˈpɑːzɪt/", "example": "I made a large deposit into my savings account today." },
+    { "word": "withdraw", "meaning": "rút tiền", "ipa": "/wɪðˈdrɔː/", "example": "I need to withdraw some cash from the ATM." },
+    { "word": "bankruptcy", "meaning": "sự phá sản", "ipa": "/ˈbæŋkrʌptsi/", "example": "The company was forced into bankruptcy due to its massive debts." },
+    { "word": "financial advice", "meaning": "lời khuyên về tài chính", "ipa": "/faɪˈnænʃl ədˈvaɪs/", "example": "It's worth paying for professional financial advice when investing." },
+    { "word": "mutual fund", "meaning": "quỹ đầu tư chung", "ipa": "/ˈmjuːtʃuəl fʌnd/", "example": "A mutual fund allows small investors to diversify their portfolio." },
+    { "word": "stockbroker", "meaning": "nhân viên môi giới chứng khoán", "ipa": "/ˈstɑːkˌbroʊkər/", "example": "The stockbroker advised her to sell the shares now." },
+    { "word": "bondmarket", "meaning": "thị trường trái phiếu", "ipa": "/bɑːnd ˈmɑːrkɪt/", "example": "The bond market is often seen as safer than the stock market." },
+    { "word": "liquidity", "meaning": "tính thanh khoản", "ipa": "/lɪˈkwɪdəti/", "example": "Cash is the most liquid asset, providing immediate liquidity." },
+    { "word": "risk assessment", "meaning": "đánh giá rủi ro", "ipa": "/rɪsk əˈsesmənt/", "example": "The bank performs a thorough risk assessment on every loan." },
+    { "word": "inflationary pressure", "meaning": "áp lực lạm phát", "ipa": "/ɪnˈfleɪʃəneri ˈpreʃər/", "example": "Higher oil prices are increasing inflationary pressure globally." },
+    { "word": "monetary policy", "meaning": "chính sách tiền tệ", "ipa": "/ˈmɑːnɪteri ˈpɑːləsi/", "example": "The central bank uses monetary policy to control inflation." },
+    { "word": "economic cycle", "meaning": "chu kỳ kinh tế", "ipa": "/ˌekəˈnɑːmɪk ˈsaɪkl/", "example": "The bank is preparing for the next downturn in the economic cycle." },
+    { "word": "secure transaction", "meaning": "giao dịch an toàn", "ipa": "/sɪˈkjʊr trænˈzækʃn/", "example": "Our website uses encryption to ensure every secure transaction." },
+    { "word": "authorized", "meaning": "được ủy quyền/được cho phép", "ipa": "/ˈɔːθəraɪzd/", "example": "Only authorized personnel have access to these files." },
+    { "word": "audit", "meaning": "kiểm toán", "ipa": "/ˈɔːdɪt/", "example": "The company’s accounts are subject to an annual independent audit." },
+    { "word": "keep track of", "meaning": "theo dõi", "ipa": "/kiːp træk əv/", "example": "I use a spreadsheet to keep track of all my expenses." },
+    { "word": "pay off a debt", "meaning": "trả hết nợ", "ipa": "/peɪ ɔːf ə det/", "example": "It took him five years to pay off his student debt." },
+    { "word": "financial hurdle", "meaning": "rào cản tài chính", "ipa": "/faɪˈnænʃl ˈhɜːrdl/", "example": "Saving for a down payment is a major financial hurdle for many." },
+    { "word": "nest egg", "meaning": "khoản tiền tiết kiệm cho tương lai", "ipa": "/nest eɡ/", "example": "They've built a nice nest egg for their children's education." },
+    { "word": "live from hand to mouth", "meaning": "kiếm đồng nào xào đồng nấy/sống tằn tiện", "ipa": "/lɪv frəm hænd tə maʊθ/", "example": "Many families are struggling and living from hand to mouth." },
+    { "word": "make ends meet", "meaning": "xoay xở để đủ sống", "ipa": "/meɪk endz miːt/", "example": "He has to work two jobs just to make ends meet." },
+    { "word": "rolling in money", "meaning": "rất giàu có/ngập trong tiền", "ipa": "/ˈroʊlɪŋ ɪn ˈmʌni/", "example": "After winning the lottery, they were rolling in money." },
+    { "word": "time is money", "meaning": "thời gian là vàng bạc/tiền bạc", "ipa": "/taɪm ɪz ˈmʌni/", "example": "Let's get started immediately; remember that time is money." },
+    { "word": "put your money where your mouth is", "meaning": "hãy hành động thay vì chỉ nói suông", "ipa": "/pʊt jɔːr ˈmʌni wer jɔːr maʊθ ɪz/", "example": "You say you care about the environment, so put your money where your mouth is and donate." },
+    { "word": "worth every penny", "meaning": "đáng từng đồng một", "ipa": "/wɜːrθ ˈevri ˈpeni/", "example": "The expensive camera was worth every penny for its quality." },
+    { "word": "indispensable", "meaning": "không thể thiếu/thiết yếu", "ipa": "/ˌɪndɪˈspensəbl/", "example": "A reliable internet connection is indispensable for remote work." }
+  ]
+}

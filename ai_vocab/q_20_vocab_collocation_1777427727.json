@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "mitigate financial risk",
+      "ipa": "/ˈmɪtɪɡeɪt faɪˈnænʃl rɪsk/",
+      "meaning": "giảm thiểu rủi ro tài chính",
+      "example": "By keeping funds in a regulated institution, individuals can effectively mitigate financial risk compared to holding large sums of cash.",
+      "type": "collocation"
+    },
+    {
+      "word": "accrue interest",
+      "ipa": "/əˈkruː ˈɪntrəst/",
+      "meaning": "tích lũy tiền lãi",
+      "example": "Savings accounts allow depositors to accrue interest over time, ensuring their wealth grows steadily through compound gains.",
+      "type": "collocation"
+    },
+    {
+      "word": "foster fiscal responsibility",
+      "ipa": "/ˈfɔːstər ˈfɪskl rɪˌspɒnsəˈbɪləti/",
+      "meaning": "thúc đẩy trách nhiệm quản lý tài chính",
+      "example": "Using banking apps helps young adults monitor their outgoings and fosters fiscal responsibility through automated budgeting tools.",
+      "type": "collocation"
+    },
+    {
+      "word": "collateral-backed loan",
+      "ipa": "/kəˈlætərəl bækt loʊn/",
+      "meaning": "khoản vay có tài sản đảm bảo",
+      "example": "Entrepreneurs often turn to banks to secure a collateral-backed loan, providing the necessary liquidity to expand their ventures.",
+      "type": "collocation"
+    },
+    {
+      "word": "safeguard assets",
+      "ipa": "/ˈseɪfɡɑːrd ˈæsets/",
+      "meaning": "bảo vệ tài sản",
+      "example": "One of the primary reasons people utilize banking services is to safeguard assets from physical theft or unforeseen domestic disasters.",
+      "type": "collocation"
+    },
+    {
+      "word": "seamless transactions",
+      "ipa": "/ˈsiːmləs trænˈzækʃnz/",
+      "meaning": "giao dịch liền mạch/trôi chảy",
+      "example": "The modern banking infrastructure enables seamless transactions across borders, which is essential for the global gig economy.",
+      "type": "collocation"
+    },
+    {
+      "word": "creditworthiness profile",
+      "ipa": "/ˈkredɪtˌwɜːrðinəs ˈproʊfaɪl/",
+      "meaning": "hồ sơ năng lực tín dụng",
+      "example": "Maintaining a long-term relationship with a bank helps individuals build a strong creditworthiness profile for future mortgage applications.",
+      "type": "collocation"
+    },
+    {
+      "word": "hedge against inflation",
+      "ipa": "/hedʒ əˈɡenst ɪnˈfleɪʃn/",
+      "meaning": "phòng vệ trước lạm phát",
+      "example": "Banks offer sophisticated investment vehicles that act as a hedge against inflation, preserving the purchasing power of one's capital.",
+      "type": "collocation"
+    },
+    {
+      "word": "financial literacy",
+      "ipa": "/faɪˈnænʃl ˈlɪtərəsi/",
+      "meaning": "kiến thức/hiểu biết về tài chính",
+      "example": "Many people visit banks to consult with advisors, seeking to improve their financial literacy regarding pension schemes and tax efficiency.",
+      "type": "collocation"
+    },
+    {
+      "word": "verify solvency",
+      "ipa": "/ˈverɪfaɪ ˈsɒlvənsi/",
+      "meaning": "xác minh khả năng thanh toán",
+      "example": "Official bank statements are frequently required by authorities to verify solvency when individuals apply for international visas.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

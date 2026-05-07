@@ -1,0 +1,76 @@
+{
+  "id": "q_41",
+  "vocab": [
+    {
+      "word": "acoustic environment",
+      "ipa": "/əˈkuːstɪk ɪnˈvaɪrənmənt/",
+      "meaning": "môi trường âm thanh",
+      "example": "The acoustic environment of a bustling metropolis is markedly different from the serene atmosphere of a rural village.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "cacophony",
+      "ipa": "/kəˈkɑːfəni/",
+      "meaning": "âm thanh hỗn tạp, chói tai",
+      "example": "In the city center, one is constantly bombarded by a cacophony of blaring horns and construction work.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "pervasive",
+      "ipa": "/pərˈveɪsɪv/",
+      "meaning": "lan tỏa khắp nơi, tràn ngập",
+      "example": "Noise in urban areas is pervasive, making it difficult to find a moment of absolute silence.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "pastoral tranquility",
+      "ipa": "/ˈpæstərəl træŋˈkwɪləti/",
+      "meaning": "sự yên bình của vùng nông thôn",
+      "example": "Many people retreat to the countryside to exchange urban clamor for pastoral tranquility.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "auditory onslaught",
+      "ipa": "/ˈɔːdɪtɔːri ˈɒnslɔːt/",
+      "meaning": "sự tấn công dồn dập vào thính giác",
+      "example": "Living near a main road presents a daily auditory onslaught that can be quite mentally taxing.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "ambient noise",
+      "ipa": "/ˈæmbiənt nɔɪz/",
+      "meaning": "tiếng ồn xung quanh/nền",
+      "example": "The ambient noise in the countryside usually consists of rustling leaves rather than the hum of air conditioners.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "reverberate",
+      "ipa": "/rɪˈvɜːrbəreɪt/",
+      "meaning": "vang vọng/dội lại",
+      "example": "Sound tends to reverberate off the glass facades of skyscrapers, amplifying the perceived volume in city streets.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "sonic landscape",
+      "ipa": "/ˈsɒnɪk ˈlændskeɪp/",
+      "meaning": "bối cảnh âm thanh (không gian âm thanh)",
+      "example": "Rapid urbanization has drastically altered the sonic landscape of previously quiet suburban areas.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "pin-drop silence",
+      "ipa": "/pɪn drɒp ˈsaɪləns/",
+      "meaning": "sự yên tĩnh đến mức nghe được cả tiếng kim rơi",
+      "example": "At night, the countryside often settles into a pin-drop silence that is virtually impossible to find in a city.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "low-frequency hum",
+      "ipa": "/loʊ ˈfriːkwənsi hʌm/",
+      "meaning": "tiếng ù ù tần số thấp",
+      "example": "Cities are characterized by a constant low-frequency hum from heavy machinery and distant traffic.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

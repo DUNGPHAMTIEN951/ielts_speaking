@@ -1,0 +1,76 @@
+{
+  "id": "q_1",
+  "vocab": [
+    {
+      "word": "get into the swing of things",
+      "ipa": "/ɡet ˈɪntə ðə swɪŋ əv θɪŋz/",
+      "meaning": "bắt đầu quen với nhịp độ công việc/hoạt động",
+      "example": "It took a few practices, but I eventually got into the swing of things and started scoring goals for the team.",
+      "type": "idiom"
+    },
+    {
+      "word": "pull one's weight",
+      "ipa": "/pʊl wʌnz weɪt/",
+      "meaning": "làm tròn phần việc của mình, không để người khác gánh hộ",
+      "example": "In a volleyball team, everyone has to pull their weight; otherwise, the entire defensive line collapses.",
+      "type": "idiom"
+    },
+    {
+      "word": "level the playing field",
+      "ipa": "/ˈlevl ðə ˈpleɪɪŋ fiːld/",
+      "meaning": "tạo ra một môi trường cạnh tranh công bằng",
+      "example": "Joining a professional club really leveled the playing field for me, as I finally had access to the same coaching as my peers.",
+      "type": "idiom"
+    },
+    {
+      "word": "know the ropes",
+      "ipa": "/nəʊ ðə rəʊps/",
+      "meaning": "nắm rõ cách thức hoạt động/kỹ năng cơ bản",
+      "example": "As the captain, I had to help the newcomers who didn't quite know the ropes yet regarding our match strategies.",
+      "type": "idiom"
+    },
+    {
+      "word": "blow the competition away",
+      "ipa": "/bləʊ ðə ˌkɒmpəˈtɪʃn əˈweɪ/",
+      "meaning": "đánh bại đối thủ một cách dễ dàng/áp đảo",
+      "example": "During my senior year, our relay team was so well-coordinated that we blew the competition away at the finals.",
+      "type": "idiom"
+    },
+    {
+      "word": "rise to the occasion",
+      "ipa": "/raɪz tə ði əˈkeɪʒn/",
+      "meaning": "vượt lên chính mình để xử lý tốt một tình huống khó khăn",
+      "example": "When our star player got injured, the rest of us had to rise to the occasion to secure the win.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep one's eye on the ball",
+      "ipa": "/kiːp wʌnz aɪ ɒn ðə bɔːl/",
+      "meaning": "tập trung cao độ vào mục tiêu chính",
+      "example": "Our coach always reminded us to keep our eyes on the ball and not get distracted by the crowd's shouting.",
+      "type": "idiom"
+    },
+    {
+      "word": "a safe bet",
+      "ipa": "/ə seɪf bet/",
+      "meaning": "một lựa chọn chắc chắn, ít rủi ro",
+      "example": "Putting me in as a goalkeeper was usually a safe bet because of my quick reflexes.",
+      "type": "idiom"
+    },
+    {
+      "word": "front runner",
+      "ipa": "/ˌfrʌnt ˈrʌnə(r)/",
+      "meaning": "người/đội dẫn đầu, có khả năng thắng cao nhất",
+      "example": "Although we weren't the front runners at the start of the season, we managed to climb to the top of the league.",
+      "type": "idiom"
+    },
+    {
+      "word": "take the bull by the horns",
+      "ipa": "/teɪk ðə bʊl baɪ ðə hɔːnz/",
+      "meaning": "trực diện đối mặt và giải quyết vấn đề khó khăn",
+      "example": "I decided to take the bull by the horns and volunteer for the penalty shootout, even though I was incredibly nervous.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

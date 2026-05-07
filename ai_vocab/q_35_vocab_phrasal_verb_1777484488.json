@@ -1,0 +1,76 @@
+{
+  "id": "q_35",
+  "vocab": [
+    {
+      "word": "sprout up",
+      "ipa": "/spraʊt ʌp/",
+      "meaning": "bắt đầu nhú lên, nảy mầm",
+      "example": "I remember the excitement of seeing the first tiny green leaves sprout up from the soil after weeks of waiting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig up",
+      "ipa": "/dɪɡ ʌp/",
+      "meaning": "đào lên, bới đất",
+      "example": "When I was little, I used to love to dig up a small patch of the garden to plant potatoes with my father.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "water down",
+      "ipa": "/ˈwɔː.tər daʊn/",
+      "meaning": "tưới đẫm nước (vào đất/cây)",
+      "example": "In the height of summer, we had to water down the flower beds every evening to keep the lilies from wilting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "thrive on",
+      "ipa": "/θraɪv ɒn/",
+      "meaning": "phát triển mạnh mẽ nhờ vào (điều kiện cụ thể)",
+      "example": "The ferns I kept in the shade seemed to thrive on the damp atmosphere of our back porch.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toss out",
+      "ipa": "/tɒs aʊt/",
+      "meaning": "vứt bỏ, loại bỏ (những cây đã chết hoặc hỏng)",
+      "example": "It was always a bit sad when we had to toss out the withered marigolds at the end of the autumn season.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring in",
+      "ipa": "/brɪŋ ɪn/",
+      "meaning": "mang vào trong nhà (để tránh thời tiết xấu)",
+      "example": "My mother would remind me to bring in the potted herbs whenever a storm was brewing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dry out",
+      "ipa": "/draɪ aʊt/",
+      "meaning": "khô cạn, mất nước hoàn toàn",
+      "example": "I quickly learned that if the soil were to dry out completely, the delicate seedlings wouldn't survive the night.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop up",
+      "ipa": "/pɒp ʌp/",
+      "meaning": "xuất hiện bất ngờ (thường là cỏ dại hoặc hoa dại)",
+      "example": "Wildflowers would often pop up in the middle of our vegetable patch, adding a splash of unexpected color.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tie up",
+      "ipa": "/taɪ ʌp/",
+      "meaning": "buộc cố định (thân cây vào cọc)",
+      "example": "We had to tie up the beanstalks to bamboo poles to help them climb as they grew taller.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look after",
+      "ipa": "/lʊk ˈɑːf.tər/",
+      "meaning": "chăm nom, săn sóc",
+      "example": "It was my daily responsibility to look after the jasmine bush near our front gate.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

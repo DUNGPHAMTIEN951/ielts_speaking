@@ -1,0 +1,76 @@
+{
+  "id": "q_2",
+  "vocab": [
+    {
+      "word": "long-standing hobby",
+      "ipa": "/ˌlɑːŋˈstæn.dɪŋ ˈhɑː.bi/",
+      "meaning": "sở thích đã có từ lâu đời",
+      "example": "Reading has been a long-standing hobby of mine, spanning over two decades since I first picked up a comic book.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "nurture a passion for",
+      "ipa": "/ˈnɜːr.tʃər ə ˈpæʃ.ən fɔːr/",
+      "meaning": "nuôi dưỡng niềm đam mê với cái gì",
+      "example": "My parents helped me nurture a passion for playing the piano from a very tender age.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "formative years",
+      "ipa": "/ˈfɔːr.mə.tɪv jɪərz/",
+      "meaning": "những năm tháng hình thành nhân cách (thời thơ ấu)",
+      "example": "I took up drawing during my formative years, and it has remained my primary creative outlet ever since.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "evoke a sense of nostalgia",
+      "ipa": "/ɪˈvoʊk ə sens əv nɑːˈstæl.dʒə/",
+      "meaning": "gợi lại cảm giác hoài niệm",
+      "example": "Collecting stamps always evokes a strong sense of nostalgia, reminding me of the afternoons spent with my grandfather.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "stay with someone",
+      "ipa": "/steɪ wɪð ˈsʌm.wʌn/",
+      "meaning": "gắn bó, đi cùng ai đó (suốt thời gian dài)",
+      "example": "My love for swimming has stayed with me through thick and thin, from primary school all the way to adulthood.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "stood the test of time",
+      "ipa": "/stʊd ðə test əv taɪm/",
+      "meaning": "trường tồn qua thời gian/không bị mai một",
+      "example": "Although I've tried many new activities, my interest in chess is the only one that has truly stood the test of time.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "rekindle an interest in",
+      "ipa": "/ˌriːˈkɪn.dəl ən ˈɪn.trɪst ɪn/",
+      "meaning": "khơi dậy lại niềm yêu thích cái gì",
+      "example": "After a brief hiatus in high school, I managed to rekindle my interest in photography recently.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "an integral part of one's life",
+      "ipa": "/ən ˈɪn.t̬ə.ɡrəl pɑːrt əv wʌnz laɪf/",
+      "meaning": "một phần thiết yếu/không thể thiếu trong cuộc sống",
+      "example": "Gardening has become such an integral part of my life that I can't imagine a weekend without tending to my plants.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "pass the time",
+      "ipa": "/pæs ðə taɪm/",
+      "meaning": "giết thời gian/giải trí",
+      "example": "What started as a simple way to pass the time as a kid has evolved into a sophisticated skill in woodworking.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "unwavering enthusiasm",
+      "ipa": "/ʌnˈweɪ.vər.ɪŋ ɪnˈθuː.zi.æz.əm/",
+      "meaning": "sự nhiệt huyết không hề lay chuyển/thay đổi",
+      "example": "I still pursue model building with the same unwavering enthusiasm I had when I was eight years old.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

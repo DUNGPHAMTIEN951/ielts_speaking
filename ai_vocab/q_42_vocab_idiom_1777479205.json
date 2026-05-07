@@ -1,0 +1,76 @@
+{
+  "id": "q_42",
+  "vocab": [
+    {
+      "word": "hustle and bustle",
+      "ipa": "/ˈhʌs.əl ənd ˈbʌs.əl/",
+      "meaning": "sự hối hả và nhộn nhịp",
+      "example": "I generally avoid the hustle and bustle of the city center on Saturdays, opting instead for a secluded spot in the park.",
+      "type": "idiom"
+    },
+    {
+      "word": "peace and quiet",
+      "ipa": "/piːs ənd ˈkwaɪ.ət/",
+      "meaning": "sự bình yên và tĩnh lặng",
+      "example": "After a grueling week at the office, all I really crave is some peace and quiet to gather my thoughts.",
+      "type": "idiom"
+    },
+    {
+      "word": "let one's hair down",
+      "ipa": "/let wʌnz heər daʊn/",
+      "meaning": "thư giãn và xả hơi (thường là ở nơi náo nhiệt)",
+      "example": "Occasionally, I do enjoy going to a lively jazz club to let my hair down and soak up the vibrant atmosphere.",
+      "type": "idiom"
+    },
+    {
+      "word": "off the beaten track",
+      "ipa": "/ɒf ðə ˈbiː.tən træk/",
+      "meaning": "ở nơi hẻo lánh, ít người biết đến",
+      "example": "I prefer hiking to locations that are slightly off the beaten track to ensure I won't be disturbed by large crowds.",
+      "type": "idiom"
+    },
+    {
+      "word": "far from the madding crowd",
+      "ipa": "/fɑːr frəm ðə ˈmæd.ɪŋ kraʊd/",
+      "meaning": "cách xa đám đông điên loạn/ồn ào",
+      "example": "My ideal weekend involves staying at a small cottage, far from the madding crowd, where the only sound is the wind.",
+      "type": "idiom"
+    },
+    {
+      "word": "a home from home",
+      "ipa": "/ə həʊm frəm həʊm/",
+      "meaning": "một nơi thoải mái như ở nhà mình",
+      "example": "There is a quiet little tea house nearby that has become a home from home for me on Sunday afternoons.",
+      "type": "idiom"
+    },
+    {
+      "word": "paint the town red",
+      "ipa": "/peɪnt ðə taʊn red/",
+      "meaning": "đi chơi tưng bừng (ăn mừng, nhậu nhẹt, nhảy múa)",
+      "example": "I'm not the type of person who wants to paint the town red every weekend; I find high-energy environments quite draining.",
+      "type": "idiom"
+    },
+    {
+      "word": "recharge one's soul",
+      "ipa": "/ˌriːˈtʃɑːdʒ wʌnz səʊl/",
+      "meaning": "hồi phục tinh thần/tâm hồn",
+      "example": "I find that spending time in a tranquil library really helps to recharge my soul before Monday rolls around.",
+      "type": "idiom"
+    },
+    {
+      "word": "at peace with oneself",
+      "ipa": "/æt piːs wɪð wʌnˈself/",
+      "meaning": "cảm thấy thanh thản trong lòng",
+      "example": "Being in a silent, natural environment makes me feel at peace with myself, far away from urban distractions.",
+      "type": "idiom"
+    },
+    {
+      "word": "the life and soul of the party",
+      "ipa": "/ðə laɪf ənd səʊl əv ðə ˈpɑː.ti/",
+      "meaning": "trung tâm của sự chú ý/người hoạt bát nhất hội nhóm",
+      "example": "While I’m occasionally the life and soul of the party, I usually need a quiet Sunday to recover from the noise.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

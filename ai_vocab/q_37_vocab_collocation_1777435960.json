@@ -1,0 +1,76 @@
+{
+  "id": "q_37",
+  "vocab": [
+    {
+      "word": "conducive to deep work",
+      "ipa": "/kənˈdʒuː.sɪv tuː diːp wɜːk/",
+      "meaning": "có lợi/tạo điều kiện cho việc làm việc sâu",
+      "example": "I find that a minimalist room is highly conducive to deep work as there are fewer visual triggers to distract me.",
+      "type": "collocation"
+    },
+    {
+      "word": "academic rigor",
+      "ipa": "/ˌæk.əˈdem.ɪk ˈrɪɡ.ər/",
+      "meaning": "sự khắt khe/nghiêm túc trong học tập",
+      "example": "Being surrounded by upperclassmen in the silent wing of the library encourages a sense of academic rigor.",
+      "type": "collocation"
+    },
+    {
+      "word": "cloistered environment",
+      "ipa": "/ˈklɔɪ.stəd ɪnˈvaɪ.rən.mənt/",
+      "meaning": "môi trường biệt lập/khép kín",
+      "example": "I sometimes seek out a cloistered environment, like an old archive room, to escape the noise of the modern world.",
+      "type": "collocation"
+    },
+    {
+      "word": "mental fatigue",
+      "ipa": "/ˈmen.təl fəˈtiːɡ/",
+      "meaning": "sự mệt mỏi về trí não",
+      "example": "When I start to feel the onset of mental fatigue, I switch my study location to a balcony to get some fresh air.",
+      "type": "collocation"
+    },
+    {
+      "word": "curated workspace",
+      "ipa": "/kjʊəˈreɪ.tɪd ˈwɜːk.speɪs/",
+      "meaning": "không gian làm việc được sắp xếp tỉ mỉ",
+      "example": "I've spent years developing a curated workspace at home, complete with an adjustable desk and plants.",
+      "type": "collocation"
+    },
+    {
+      "word": "intellectual stimulation",
+      "ipa": "/ˌɪn.təlˈek.tʃu.əl ˌstɪm.jəˈleɪ.ʃən/",
+      "meaning": "sự kích thích về mặt trí tuệ",
+      "example": "I enjoy studying in university common rooms because the atmosphere of intellectual stimulation is quite palpable.",
+      "type": "collocation"
+    },
+    {
+      "word": "uninterrupted focus",
+      "ipa": "/ˌʌn.ɪn.təˈrʌp.tɪd ˈfəʊ.kəs/",
+      "meaning": "sự tập trung không bị gián đoạn",
+      "example": "The main reason I go to a study pod is to guarantee at least three hours of uninterrupted focus.",
+      "type": "collocation"
+    },
+    {
+      "word": "a change of scenery",
+      "ipa": "/ə tʃeɪndʒ əv ˈsiː.nər.i/",
+      "meaning": "một sự thay đổi về khung cảnh/môi trường",
+      "example": "Every few days I need a change of scenery, so I migrate from my bedroom to a quiet neighborhood bistro.",
+      "type": "collocation"
+    },
+    {
+      "word": "optimal productivity",
+      "ipa": "/ˈɒp.tɪ.məl ˌprɒd.ʌkˈtɪv.ə.ti/",
+      "meaning": "năng suất tối ưu",
+      "example": "Identifying the time and place for optimal productivity has been crucial for my exam preparation.",
+      "type": "collocation"
+    },
+    {
+      "word": "solitary pursuit",
+      "ipa": "/ˈsɒl.ɪ.tər.i pəˈsjuːt/",
+      "meaning": "một hoạt động mang tính đơn độc",
+      "example": "For me, studying is a solitary pursuit, so I avoid group areas where social chatting is likely to occur.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

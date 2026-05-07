@@ -1,0 +1,76 @@
+{
+  "id": "q_24",
+  "vocab": [
+    {
+      "word": "zero in on",
+      "ipa": "/ˈzɪə.rəʊ ɪn ɒn/",
+      "meaning": "tập trung hoàn toàn vào một đối tượng hoặc chi tiết cụ thể",
+      "example": "I love to zero in on the delicate patterns of frost on a windowpane during the winter months.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "filter out",
+      "ipa": "/ˈfɪl.tər aʊt/",
+      "meaning": "loại bỏ những yếu tố gây nhiễu hoặc không mong muốn",
+      "example": "When I shoot in busy markets, I use a wide aperture to filter out the distracting background noise.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃəʊ ɒf/",
+      "meaning": "phô diễn hoặc làm nổi bật những đặc điểm tốt nhất",
+      "example": "Architectural photography is great because it allows you to show off the grand scale of modern skyscrapers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "touch up",
+      "ipa": "/tʌtʃ ʌp/",
+      "meaning": "chỉnh sửa nhẹ để cải thiện vẻ ngoài của bức ảnh",
+      "example": "I usually spend a few minutes to touch up the skin tones in my portraits to give them a more polished look.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bəl əˈpɒn/",
+      "meaning": "vô tình tìm thấy hoặc bắt gặp (một khung cảnh đẹp)",
+      "example": "The best street photos are often the ones where you stumble upon a completely unexpected moment of human connection.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring to life",
+      "ipa": "/brɪŋ tə laɪf/",
+      "meaning": "làm cho cái gì đó trở nên sống động và chân thực",
+      "example": "Careful editing can really bring a dull landscape to life by enhancing the natural contrast and shadows.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set up",
+      "ipa": "/set ʌp/",
+      "meaning": "chuẩn bị và sắp xếp thiết bị hoặc bố cục",
+      "example": "I often arrive at the beach an hour before dawn to set up my tripod for the perfect sunrise shot.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mess around with",
+      "ipa": "/mes əˈraʊnd wɪð/",
+      "meaning": "nghịch ngợm hoặc thử nghiệm một cách thoải mái",
+      "example": "In my spare time, I like to mess around with vintage lenses to see what kind of unique bokeh effects they produce.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fade away",
+      "ipa": "/feɪd əˈweɪ/",
+      "meaning": "mờ dần hoặc biến mất (thường dùng cho hậu cảnh hoặc ánh sáng)",
+      "example": "I prefer shots where the horizon seems to fade away into a soft mist, creating a sense of mystery.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "capture away",
+      "ipa": "/ˈkæp.tʃər əˈweɪ/",
+      "meaning": "chụp liên tục hoặc chụp một cách say mê",
+      "example": "When I'm at a wedding, I just capture away to make sure I don't miss any of the raw emotional moments.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

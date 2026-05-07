@@ -1,0 +1,76 @@
+{
+  "id": "q_27",
+  "vocab": [
+    {
+      "word": "major in",
+      "ipa": "/ˈmeɪ.dʒər ɪn/",
+      "meaning": "học chuyên ngành về",
+      "example": "I'm currently a university student majoring in International Business, which I find incredibly fascinating.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "embark on",
+      "ipa": "/ɪmˈbɑːrk ɒn/",
+      "meaning": "bắt đầu một hành trình hoặc sự nghiệp mới",
+      "example": "After graduating last year, I've just embarked on a career in digital marketing at a local startup.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "deal with",
+      "ipa": "/diːl wɪð/",
+      "meaning": "giải quyết, xử lý (công việc hoặc áp lực)",
+      "example": "My job involves dealing with high-profile clients, so it can be quite high-pressure at times.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get through",
+      "ipa": "/ɡet θruː/",
+      "meaning": "vượt qua (một kỳ thi hoặc khối lượng công việc lớn)",
+      "example": "It's a struggle to get through all the required readings before the semester ends.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "end up",
+      "ipa": "/end ʌp/",
+      "meaning": "cuối cùng thì, kết cục là (làm việc gì đó)",
+      "example": "I studied law, but I ended up working in the creative industry because that's where my passion lies.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "work towards",
+      "ipa": "/wɜːrk təˈwɔːrdz/",
+      "meaning": "nỗ lực hướng tới (một mục tiêu/bằng cấp)",
+      "example": "As a sophomore, I'm working towards my Bachelor's degree while also doing a part-time internship.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall behind",
+      "ipa": "/fɔːl bɪˈhaɪnd/",
+      "meaning": "tụt hậu, không theo kịp (tiến độ học tập/công việc)",
+      "example": "If I miss even one lecture, it's very easy to fall behind with the coursework.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take on",
+      "ipa": "/teɪk ɒn/",
+      "meaning": "đảm nhận (trách nhiệm, công việc mới)",
+      "example": "I've recently taken on more responsibilities at the office, which has been a steep learning curve.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp, cập nhật (kiến thức/xu hướng công việc)",
+      "example": "In the tech industry, you constantly have to keep up with the latest software developments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại, trau dồi lại (kỹ năng/kiến thức cũ)",
+      "example": "I'm a student again because I decided to go back to university to brush up on my analytical skills.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

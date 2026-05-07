@@ -1,0 +1,76 @@
+{
+  "id": "q_46",
+  "vocab": [
+    {
+      "word": "intellectually demanding",
+      "ipa": "/ˌɪntəˈlektʃuəli dɪˈmɑːndɪŋ/",
+      "meaning": "đòi hỏi cao về trí tuệ",
+      "example": "Theoretical physics is incredibly intellectually demanding, as it requires a high level of abstract reasoning.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "a steep mountain to climb",
+      "ipa": "/ə stiːp ˈmaʊntən tə klaɪm/",
+      "meaning": "một thử thách cực kỳ khó khăn",
+      "example": "Mastering organic chemistry felt like a steep mountain to climb because of the endless reactions to memorize.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "abstract concept",
+      "ipa": "/ˈæbstrækt ˈkɒnsept/",
+      "meaning": "khái niệm trừu tượng",
+      "example": "I find subjects like Philosophy difficult because they are built upon one abstract concept after another.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "cognitive overload",
+      "ipa": "/ˈkɒɡnətɪv ˌəʊvəˈləʊd/",
+      "meaning": "quá tải nhận thức",
+      "example": "The sheer volume of data in Advanced Statistics often leads to cognitive overload for me.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "get to grips with",
+      "ipa": "/ɡet tə ɡrɪps wɪð/",
+      "meaning": "bắt đầu hiểu hoặc đối phó với một vấn đề khó",
+      "example": "I’ve struggled to get to grips with the fundamental principles of quantum mechanics.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "be out of one's depth",
+      "ipa": "/bi aʊt əv wʌnz depθ/",
+      "meaning": "vượt quá khả năng hiểu biết của ai đó",
+      "example": "Whenever the professor starts discussing complex algorithms, I feel completely out of my depth.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "mental block",
+      "ipa": "/ˈmentl blɒk/",
+      "meaning": "sự bế tắc về tâm trí (không thể suy nghĩ hay ghi nhớ)",
+      "example": "I have a total mental block when it comes to mental arithmetic; my mind just goes blank.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "daunting prospect",
+      "ipa": "/ˈdɔːntɪŋ ˈprɒspekt/",
+      "meaning": "một viễn cảnh gây nản lòng/lo sợ",
+      "example": "The idea of having to write a twenty-page dissertation on Macroeconomics was a daunting prospect.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "be plagued by",
+      "ipa": "/bi pleɪɡd baɪ/",
+      "meaning": "bị làm phiền/đau đầu bởi thứ gì đó liên tục",
+      "example": "My academic career was plagued by my inability to understand complex algebraic equations.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "not one's forte",
+      "ipa": "/nɒt wʌnz ˈfɔːrteɪ/",
+      "meaning": "không phải sở trường/điểm mạnh của ai đó",
+      "example": "Analytical chemistry is certainly not my forte, as I prefer more creative and less rigid subjects.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

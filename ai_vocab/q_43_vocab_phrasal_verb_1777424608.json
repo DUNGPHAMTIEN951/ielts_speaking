@@ -1,0 +1,76 @@
+{
+  "id": "q_43",
+  "vocab": [
+    {
+      "word": "look up to",
+      "ipa": "/lʊk ʌp tu/",
+      "meaning": "ngưỡng mộ và kính trọng ai đó",
+      "example": "I’ve always looked up to my history teacher because of his vast knowledge and integrity.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sink in",
+      "ipa": "/sɪŋk ɪn/",
+      "meaning": "dần hiểu ra hoặc thấm nhuần (kiến thức/bài học)",
+      "example": "He had a way of explaining complex physics laws until they finally started to sink in.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "khơi dậy hoặc làm lộ diện (tiềm năng/phẩm chất tốt)",
+      "example": "A great teacher knows how to bring out the best in their students, even the quiet ones.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get through to",
+      "ipa": "/ɡet θruː tu/",
+      "meaning": "kết nối thành công hoặc làm cho ai đó hiểu mình",
+      "example": "She was the only educator who could truly get through to me when I was struggling with calculus.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, khác biệt (vì sự xuất sắc)",
+      "example": "Among all my tutors, Mr. Harrison stood out due to his unconventional yet effective teaching methods.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "meaning": "tiếp thu (kiến thức/kỹ năng) một cách tự nhiên",
+      "example": "I managed to pick up a lot of useful life skills just by observing how my homeroom teacher handled conflicts.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dựa vào (nguồn hỗ trợ/kiến thức khi gặp khó khăn)",
+      "example": "Even now, I still fall back on the essay-writing techniques my English teacher taught me years ago.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp (tốc độ bài giảng hoặc kỳ vọng của giáo viên)",
+      "example": "She was demanding, but she always ensured everyone in the class could keep up with the curriculum.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw on",
+      "ipa": "/drɔː ɒn/",
+      "meaning": "tận dụng hoặc khai thác (kinh nghiệm/kiến thức)",
+      "example": "My art teacher often drew on her own professional experience to give us practical career advice.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go over",
+      "ipa": "/ɡəʊ ˈəʊvə(r)/",
+      "meaning": "kiểm tra lại hoặc giải thích lại một cách kỹ lưỡng",
+      "example": "She would patiently go over our mistakes until we completely grasped the grammatical rules.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

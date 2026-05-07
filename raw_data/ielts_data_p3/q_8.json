@@ -1,0 +1,52 @@
+{
+  "id": "q_8",
+  "topic": "Walking",
+  "q": "Where would you like to take a long walk if you had the chance?",
+  "examiner_note": "Sử dụng câu điều kiện loại 2. Mô tả cảnh đẹp. Sử dụng 'scenic', 'panoramic views', 'immerse oneself', 'spectacular'.",
+  "samples": {
+    "band7": {
+      "text": "I’d love to go for a long walk along a scenic coastal path, perhaps somewhere like the Great Ocean Road in Australia. The combination of ocean views and fresh sea air would be incredibly refreshing and peaceful.",
+      "note": "Sử dụng câu điều kiện đúng ngữ pháp và từ vựng gợi cảm (scenic, refreshing)."
+    },
+    "band8": {
+      "text": "If I were given the opportunity, I’d relish a trek through the Scottish Highlands. The rugged terrain and panoramic views would be absolutely spectacular. I find the idea of being completely immersed in such a wild and untouched landscape very appealing.",
+      "note": "Sử dụng từ vựng mạnh (relish, trek, rugged, panoramic, spectacular, immersed)."
+    },
+    "band9": {
+      "text": "I’ve always fantasized about embarking on a pilgrimage along the Camino de Santiago in Spain. The historical significance combined with the diverse landscapes would offer a unique spiritual and physical challenge. It would be a profound journey of self-reflection and a chance to disconnect from the modern world entirely.",
+      "note": "Sử dụng từ vựng ở mức độ C2 (fantasized, embarking, pilgrimage, significance, self-reflection)."
+    }
+  },
+  "v": [
+    {
+      "word": "panoramic",
+      "meaning": "toàn cảnh",
+      "ipa": "/ˌpænəˈræmɪk/",
+      "example": "The tower offers a panoramic view of the city."
+    },
+    {
+      "word": "trek",
+      "meaning": "chuyến đi bộ dài ngày",
+      "ipa": "/trek/",
+      "example": "We went on a three-day trek through the mountains."
+    },
+    {
+      "word": "pilgrimage",
+      "meaning": "cuộc hành hương",
+      "ipa": "/ˈpɪlɡrɪmɪdʒ/",
+      "example": "Every year, thousands of people make the pilgrimage to Mecca."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "embark",
+      "meaning": "bắt đầu (một hành trình/dự án)",
+      "ipa": "/ɪmˈbɑːrk/",
+      "example": "She is about to embark on a new career."
+    }
+  ],
+  "similar_questions": [
+    "Have you ever been on a long walk?",
+    "What do you need to prepare for a long walk?"
+  ]
+}

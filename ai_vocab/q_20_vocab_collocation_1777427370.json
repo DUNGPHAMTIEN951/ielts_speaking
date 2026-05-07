@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "capital preservation",
+      "ipa": "/ˈkæpɪtl ˌprezərˈveɪʃn/",
+      "meaning": "bảo toàn vốn",
+      "example": "Risk-averse investors often rely on banks for capital preservation rather than seeking high-risk returns elsewhere.",
+      "type": "collocation"
+    },
+    {
+      "word": "facilitate international trade",
+      "ipa": "/fəˈsɪlɪteɪt ˌɪntərˈnæʃnəl treɪd/",
+      "meaning": "tạo điều kiện cho thương mại quốc tế",
+      "example": "Banks play a pivotal role as they facilitate international trade through mechanisms like letters of credit.",
+      "type": "collocation"
+    },
+    {
+      "word": "automatic clearing",
+      "ipa": "/ˌɔːtəˈmætɪk ˈklɪərɪŋ/",
+      "meaning": "thanh toán bù trừ tự động",
+      "example": "The efficiency of automatic clearing systems in modern banks ensures that utility bills are paid without manual intervention.",
+      "type": "collocation"
+    },
+    {
+      "word": "diversify one's portfolio",
+      "ipa": "/daɪˈvɜːrsɪfaɪ wʌnz pɔːrtˈfoʊlioʊ/",
+      "meaning": "đa dạng hóa danh mục đầu tư",
+      "example": "Financial advisors in banks help clients diversify their portfolios by offering access to bonds, stocks, and mutual funds.",
+      "type": "collocation"
+    },
+    {
+      "word": "streamline financial management",
+      "ipa": "/ˈstriːmlaɪn faɪˈnænʃl ˈmænɪdʒmənt/",
+      "meaning": "tối ưu hóa việc quản lý tài chính",
+      "example": "Mobile banking apps allow users to streamline financial management by categorizing their monthly spending automatically.",
+      "type": "collocation"
+    },
+    {
+      "word": "overdraft protection",
+      "ipa": "/ˈoʊvərdræft prəˈtekʃn/",
+      "meaning": "bảo vệ chi vượt mức",
+      "example": "Many customers appreciate overdraft protection, which prevents their checks from bouncing during temporary cash flow shortages.",
+      "type": "collocation"
+    },
+    {
+      "word": "monetary transparency",
+      "ipa": "/ˈmʌnɪteri trænsˈpærənsi/",
+      "meaning": "sự minh bạch về tiền tệ",
+      "example": "Digital bank statements provide a level of monetary transparency that is impossible to achieve with cash-under-the-mattress saving.",
+      "type": "collocation"
+    },
+    {
+      "word": "curb inflationary pressure",
+      "ipa": "/kɜːrb ɪnˈfleɪʃənəri ˈpreʃər/",
+      "meaning": "kiềm chế áp lực lạm phát",
+      "example": "On a macro level, people use banks because centralized systems help the government curb inflationary pressure through interest rate adjustments.",
+      "type": "collocation"
+    },
+    {
+      "word": "secure a credit line",
+      "ipa": "/sɪˈkjʊər ə ˈkredɪt laɪn/",
+      "meaning": "đảm bảo một hạn mức tín dụng",
+      "example": "Established businesses often need to secure a credit line from a bank to bridge the gap between production and sales.",
+      "type": "collocation"
+    },
+    {
+      "word": "long-term wealth creation",
+      "ipa": "/lɔːŋ tɜːrm welθ kriˈeɪʃn/",
+      "meaning": "tạo ra sự thịnh vượng/tài sản dài hạn",
+      "example": "Banks offer compound interest instruments that are fundamental to long-term wealth creation for the average worker.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

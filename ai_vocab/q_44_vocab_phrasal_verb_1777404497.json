@@ -1,0 +1,76 @@
+{
+  "id": "q_44",
+  "vocab": [
+    {
+      "word": "spruce up",
+      "ipa": "/spruːs ʌp/",
+      "meaning": "tân trang, làm cho đẹp đẽ/sạch sẽ hơn",
+      "example": "The local council should spruce up the abandoned lots by turning them into community gardens.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cater to",
+      "ipa": "/ˈkeɪtər tuː/",
+      "meaning": "phục vụ cho, đáp ứng nhu cầu của",
+      "example": "We need more parks that cater to the elderly, providing them with a safe space for morning exercises.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spring up",
+      "ipa": "/sprɪŋ ʌp/",
+      "meaning": "mọc lên như nấm, xuất hiện nhanh chóng",
+      "example": "New high-rises are springing up everywhere, so we desperately need public squares to balance the urban density.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring about",
+      "ipa": "/brɪŋ əˈbaʊt/",
+      "meaning": "dẫn đến, làm nảy sinh (sự thay đổi)",
+      "example": "Building a new library would bring about a significant improvement in the neighborhood's reading culture.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊpən ʌp/",
+      "meaning": "mở ra (không gian, cơ hội)",
+      "example": "By opening up more pedestrian zones, the city would become much more vibrant and breathable.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw in",
+      "ipa": "/drɔː ɪn/",
+      "meaning": "thu hút (người, sự chú ý)",
+      "example": "A well-designed waterfront could draw in both locals and tourists, boosting the local economy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear away",
+      "ipa": "/klɪər əˈweɪ/",
+      "meaning": "dọn dẹp sạch sẽ (những thứ không cần thiết)",
+      "example": "The government should clear away the industrial ruins and repurpose the land for public use.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "foster a sense of",
+      "ipa": "/ˈfɒstər ə sens əv/",
+      "meaning": "nuôi dưỡng/thúc đẩy cảm giác (cộng đồng/thuộc về)",
+      "example": "Creating shared spaces helps foster a sense of belonging among residents who rarely interact otherwise.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set aside",
+      "ipa": "/set əˈsaɪd/",
+      "meaning": "dành riêng ra (quỹ, đất đai, thời gian)",
+      "example": "Urban planners must set aside more land for greenery to mitigate the effects of the concrete jungle.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blend in with",
+      "ipa": "/blend ɪn wɪð/",
+      "meaning": "hòa hợp với (cảnh quan xung quanh)",
+      "example": "New public facilities should blend in with the traditional architecture to maintain the area's aesthetic.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

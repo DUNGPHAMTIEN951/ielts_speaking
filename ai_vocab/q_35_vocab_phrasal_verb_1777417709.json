@@ -1,0 +1,76 @@
+{
+  "id": "q_35",
+  "vocab": [
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌkl daʊn/",
+      "meaning": "bắt đầu học tập/làm việc một cách nghiêm túc và quyết tâm",
+      "example": "I usually knuckle down to my revision for about four hours right after lunch.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "plow through",
+      "ipa": "/plaʊ θruː/",
+      "meaning": "kiên trì đọc hoặc hoàn thành một lượng lớn tài liệu khó",
+      "example": "Every evening, I have to plow through a mountain of research papers for my thesis.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "hấp thụ kiến thức một cách nhanh chóng và dễ dàng",
+      "example": "I spend time in the library where the quiet atmosphere helps me soak up new information.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại hoặc cải thiện một kỹ năng đã lâu không dùng",
+      "example": "I dedicate at least 30 minutes a day to brush up on my specialized vocabulary.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "dành riêng một khoảng thời gian cố định cho việc gì đó",
+      "example": "I try to block out two hours every morning specifically for intensive IELTS practice.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "squeeze in",
+      "ipa": "/skwiːz ɪn/",
+      "meaning": "cố gắng sắp xếp thời gian cho việc học dù lịch trình bận rộn",
+      "example": "Even on weekends, I manage to squeeze in a bit of self-study between my social commitments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "read up on",
+      "ipa": "/riːd ʌp ɒn/",
+      "meaning": "đọc nhiều tài liệu để tìm hiểu kỹ về một chủ đề nào đó",
+      "example": "I spend quite a lot of time reading up on international law as it's my major.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊvə/",
+      "meaning": "suy ngẫm, cân nhắc kỹ lưỡng về một vấn đề/lý thuyết",
+      "example": "I often take long walks to mull over the complex concepts I learned during the day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get through",
+      "ipa": "/ɡet θruː/",
+      "meaning": "hoàn thành một lượng bài tập hoặc chương trình học nhất định",
+      "example": "It takes me a significant amount of effort to get through all the weekly assignments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall behind",
+      "ipa": "/fɔːl bɪˈhaɪnd/",
+      "meaning": "bị tụt lại phía sau so với chương trình học",
+      "example": "I make sure to study at least five hours daily so that I don't fall behind with my coursework.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

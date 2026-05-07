@@ -1,0 +1,76 @@
+{
+  "id": "q_4",
+  "vocab": [
+    {
+      "word": "a lone wolf",
+      "ipa": "/ə ləʊn wʊlf/",
+      "meaning": "người làm việc độc lập (không cần sự giúp đỡ của người khác)",
+      "example": "Individual sports cater perfectly to the lone wolf who prefers to take full responsibility for their own success or failure.",
+      "type": "idiom"
+    },
+    {
+      "word": "sink or swim",
+      "ipa": "/sɪŋk ɔːr swɪm/",
+      "meaning": "tự bơi hay là chìm (thể hiện sự tự lực cánh sinh, không có sự hỗ trợ)",
+      "example": "In solo competitions, it is a sink or swim situation because there are no teammates to bail you out when things go south.",
+      "type": "idiom"
+    },
+    {
+      "word": "shoulder the burden",
+      "ipa": "/ˈʃəʊl.dər ðə ˈbɜː.dən/",
+      "meaning": "gánh vác trọng trách/áp lực",
+      "example": "In a team environment, players share the pressure, whereas a solo athlete must shoulder the entire burden of expectations alone.",
+      "type": "idiom"
+    },
+    {
+      "word": "pull one's weight",
+      "ipa": "/pʊl wʌnz weɪt/",
+      "meaning": "làm tròn phần việc của mình (đóng góp công sức công bằng)",
+      "example": "The core of team sports is ensuring that every member pulls their weight to achieve a collective victory.",
+      "type": "idiom"
+    },
+    {
+      "word": "the weak link in the chain",
+      "ipa": "/ðə wiːk lɪŋk ɪn ðə tʃeɪn/",
+      "meaning": "mắt xích yếu nhất (điểm yếu trong một tập thể)",
+      "example": "In relay races, even a superstar can be let down if there is a weak link in the chain during the baton exchange.",
+      "type": "idiom"
+    },
+    {
+      "word": "pass the torch",
+      "ipa": "/pɑːs ðə tɔːrtʃ/",
+      "meaning": "bàn giao lại trọng trách/vị trí (thường thấy trong sự kế thừa của đội bóng)",
+      "example": "Team sports allow veteran players to pass the torch to younger ones, maintaining the club's legacy over decades.",
+      "type": "idiom"
+    },
+    {
+      "word": "all eyes on",
+      "ipa": "/ɔːl aɪz ɒn/",
+      "meaning": "mọi ánh nhìn đều đổ dồn vào (áp lực cực lớn cho cá nhân)",
+      "example": "During a tennis final, there are all eyes on you, which demands a level of mental fortitude that team players might not experience in the same way.",
+      "type": "idiom"
+    },
+    {
+      "word": "reinvent the wheel",
+      "ipa": "/ˌriː.ɪnˈvent ðə wiːl/",
+      "meaning": "lãng phí công sức làm lại những thứ đã có (trong thể thao là việc tự tìm tòi thay vì có hệ thống hỗ trợ)",
+      "example": "Solo athletes often have to reinvent the wheel regarding their training regimes unless they have a dedicated personal coach.",
+      "type": "idiom"
+    },
+    {
+      "word": "at odds with",
+      "ipa": "/æt ɒdz wɪð/",
+      "meaning": "mâu thuẫn, không hòa hợp (vấn đề thường gặp trong nội bộ đội bóng)",
+      "example": "If a star player is at odds with the manager, it can derail the entire team’s performance, regardless of their individual talent.",
+      "type": "idiom"
+    },
+    {
+      "word": "take the wind out of one's sails",
+      "ipa": "/teɪk ðə wɪnd aʊt əv wʌnz seɪlz/",
+      "meaning": "làm ai đó mất đi sự tự tin hoặc hứng thú",
+      "example": "A single unforced error in a solo sport can take the wind out of your sails much faster than in a team game where others can motivate you.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

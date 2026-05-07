@@ -1,0 +1,76 @@
+{
+  "id": "q_12",
+  "vocab": [
+    {
+      "word": "a whale of a time",
+      "ipa": "/ə weɪl əv ə taɪm/",
+      "meaning": "có một khoảng thời gian cực kỳ vui vẻ, thú vị",
+      "example": "I always have a whale of a time whenever I go jet-skiing or surfing at the beach.",
+      "type": "idiom"
+    },
+    {
+      "word": "reach the pinnacle",
+      "ipa": "/riːtʃ ðə ˈpɪnəkl/",
+      "meaning": "chạm tới đỉnh cao (nghĩa đen là đỉnh núi, nghĩa bóng là thành công rực rỡ)",
+      "example": "The feeling of reaching the pinnacle of a mountain after a grueling climb is truly unparalleled.",
+      "type": "idiom"
+    },
+    {
+      "word": "plain as day",
+      "ipa": "/pleɪn əz deɪ/",
+      "meaning": "rõ như ban ngày (dùng để nói về tầm nhìn cực rõ từ trên đỉnh núi)",
+      "example": "From the summit, the entire valley was plain as day, stretching out for miles beneath us.",
+      "type": "idiom"
+    },
+    {
+      "word": "make waves",
+      "ipa": "/meɪk weɪvz/",
+      "meaning": "tạo ra sự thay đổi, gây ấn tượng mạnh (liên tưởng đến những con sóng biển)",
+      "example": "I prefer the sea because it inspires me to be bold and make waves in my professional life.",
+      "type": "idiom"
+    },
+    {
+      "word": "up in the air",
+      "ipa": "/ʌp ɪn ðə eə(r)//",
+      "meaning": "chưa chắc chắn, còn bỏ ngỏ (thường dùng khi nói về kế hoạch đi núi hay biển)",
+      "example": "My holiday plans are still up in the air, but I’m leaning towards a coastal retreat this year.",
+      "type": "idiom"
+    },
+    {
+      "word": "between a rock and a hard place",
+      "ipa": "/bɪˈtwiːn ə rɒk ənd ə hɑːd pleɪs/",
+      "meaning": "tiến thoái lưỡng nan (liên tưởng đến địa hình núi đá hiểm trở)",
+      "example": "Choosing between the serenity of the peaks and the vastness of the ocean puts me between a rock and a hard place.",
+      "type": "idiom"
+    },
+    {
+      "word": "stem the tide",
+      "ipa": "/stem ðə taɪd/",
+      "meaning": "ngăn chặn một xu hướng/sự việc tiêu cực (liên tưởng đến thủy triều)",
+      "example": "Escaping to the mountains helps me stem the tide of stress that usually builds up during the work week.",
+      "type": "idiom"
+    },
+    {
+      "word": "as steady as a rock",
+      "ipa": "/əz ˈstedi əz ə rɒk/",
+      "meaning": "vững như bàn thạch, rất ổn định và đáng tin cậy",
+      "example": "I love the mountains because they feel as steady as a rock, providing a sense of permanence in a fast-paced world.",
+      "type": "idiom"
+    },
+    {
+      "word": "the tip of the iceberg",
+      "ipa": "/ðə tɪp əv ðə ˈaɪsbɜːɡ/",
+      "meaning": "chỉ là phần nổi của tảng băng chìm (thường dùng khi nói về sự kỳ vĩ của đại dương)",
+      "example": "What we see from the shore is just the tip of the iceberg; the sheer depth and mystery of the sea are what fascinate me.",
+      "type": "idiom"
+    },
+    {
+      "word": "smooth the path",
+      "ipa": "/smuːð ðə pɑːθ/",
+      "meaning": "mở đường, tạo điều kiện thuận lợi (nghĩa bóng từ việc san phẳng đường mòn trên núi)",
+      "example": "Taking a break by the water always helps to smooth the path for new ideas when I return to work.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_37",
+  "vocab": [
+    {
+      "word": "get down to",
+      "ipa": "/ɡet daʊn tuː/",
+      "meaning": "bắt đầu thực sự tập trung và nỗ lực làm việc gì đó",
+      "example": "I find it much easier to get down to my assignments in a minimalist environment like a co-working space.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌk.əl daʊn/",
+      "meaning": "bắt đầu làm việc một cách cực kỳ nghiêm túc và quyết tâm",
+      "example": "When finals week approaches, I usually knuckle down in a secluded study cubicle to avoid any interruptions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shut away",
+      "ipa": "/ʃʌt əˈweɪ/",
+      "meaning": "tự nhốt mình vào một nơi yên tĩnh để không bị làm phiền",
+      "example": "I like to shut myself away in the attic where it's dead silent and I can think clearly.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "plough through",
+      "ipa": "/plaʊ θruː/",
+      "meaning": "kiên trì hoàn thành một lượng công việc lớn hoặc khó khăn",
+      "example": "The local library is the only place where I can truly plough through my heavy reading list without getting distracted.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig into",
+      "ipa": "/dɪɡ ˈɪn.tuː/",
+      "meaning": "bắt đầu nghiên cứu hoặc tìm hiểu sâu vào một vấn đề",
+      "example": "I love heading to the archives to dig into historical documents for my research project.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "flick through",
+      "ipa": "/flɪk θruː/",
+      "meaning": "đọc lướt qua nhanh các trang sách hoặc tài liệu",
+      "example": "I often sit in a bookstore cafe to flick through various reference books before deciding which ones to borrow.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep away from",
+      "ipa": "/kiːp əˈweɪ frɒm/",
+      "meaning": "tránh xa (nơi nào đó hoặc sự xao nhãng)",
+      "example": "I try to keep away from the communal lounge because it’s far too noisy for any productive revision.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tuck away",
+      "ipa": "/tʌk əˈweɪ/",
+      "meaning": "nằm ở một góc khuất, yên tĩnh hoặc hẻo lánh",
+      "example": "There’s a small desk tucked away in the corner of the campus gardens that is perfect for creative writing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "read up on",
+      "ipa": "/riːd ʌp ɒn/",
+      "meaning": "đọc nhiều tài liệu để tìm hiểu kỹ về một chủ đề cụ thể",
+      "example": "I usually spend my afternoons in the science lab to read up on the latest journals and experiments.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊ.vər/",
+      "meaning": "suy ngẫm, cân nhắc kỹ lưỡng về một ý tưởng hoặc vấn đề",
+      "example": "I prefer walking through the university park while I mull over complex theories I've just learned in class.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

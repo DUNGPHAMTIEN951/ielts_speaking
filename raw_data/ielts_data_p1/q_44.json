@@ -1,0 +1,72 @@
+{
+  "id": "q_44",
+  "topic": "Studying",
+  "q": "How has your school changed since you were a child?",
+  "examiner_note": "Câu hỏi này về sự so sánh (Comparison). \n- **Hướng dẫn trả lời**: Bạn có thể nói về sự thay đổi của cơ sở vật chất (hiện đại hơn), công nghệ (nhiều thiết bị thông minh hơn), hay phương pháp giảng dạy (linh hoạt hơn). \n- **Mẹo**: Sử dụng các cấu trúc so sánh như 'dramatic transformation', 'completely revamped', 'integrated with technology', 'state-of-the-art facilities', 'shift in teaching styles'.",
+  "samples": {
+    "band7": {
+      "text": "My school has changed quite a lot since I was a child. The buildings are much newer now, and every classroom is equipped with a projector and a computer. Before, we only had simple blackboards and chalk, so it's a big improvement.",
+      "note": "So sánh rõ ràng giữa quá khứ và hiện tại. Sử dụng từ vựng ổn ('equipped', 'improvement'). Ngữ pháp chính xác."
+    },
+    "band8": {
+      "text": "There has been a dramatic transformation in terms of infrastructure. The school campus has been completely revamped with state-of-the-art facilities, such as a modern science lab and an extensive library. Also, technology has been integrated into almost every aspect of the lessons.",
+      "note": "Sử dụng từ vựng nâng cao ('dramatic transformation', 'revamped', 'state-of-the-art', 'integrated'). Diễn đạt gãy gọn."
+    },
+    "band9": {
+      "text": "The school has undergone a profound evolution, not just physically but also in its pedagogical approach. While the facilities have certainly become more sophisticated, what's even more striking is the shift towards a more student-centered learning environment that emphasizes critical thinking over rote memorization.",
+      "note": "Từ vựng ở trình độ rất cao ('profound evolution', 'pedagogical approach', 'sophisticated', 'striking', 'student-centered', 'rote memorization'). Cách lập luận rất sâu sắc và mạch lạc."
+    }
+  },
+  "v": [
+    { "word": "dramatic transformation", "meaning": "sự thay đổi ngoạn mục", "ipa": "/drəˈmætɪk ˌtrænsfəˈmeɪʃn/", "example": "The city has undergone a dramatic transformation over the last decade." },
+    { "word": "completely revamped", "meaning": "được tân trang/thay đổi hoàn toàn", "ipa": "/kəmˈpliːtli ˌriːˈvæmpt/", "example": "The website has been completely revamped to improve user experience." },
+    { "word": "state-of-the-art facilities", "meaning": "cơ sở vật chất hiện đại nhất", "ipa": "/steɪt əv ði ɑːt fəˈsɪlətiz/", "example": "The research center is equipped with state-of-the-art facilities." },
+    { "word": "integrate with technology", "meaning": "tích hợp với công nghệ", "ipa": "/ˈɪntɪɡreɪt wɪð tekˈnɒlədʒ/", "example": "Modern classrooms are fully integrated with technology to enhance learning." },
+    { "word": "profound evolution", "meaning": "sự tiến hóa/phát triển sâu sắc", "ipa": "/prəˈfaʊnd ˌiːvəˈluːʃn/", "example": "The company has undergone a profound evolution since its founding." },
+    { "word": "pedagogical approach", "meaning": "phương pháp sư phạm", "ipa": "/ˌpedəˈɡɒdʒɪkl əˈprəʊtʃ/", "example": "The school adopted a more interactive pedagogical approach." },
+    { "word": "student-centered", "meaning": "lấy học sinh làm trung tâm", "ipa": "/ˈstjuːdnt ˈsentəd/", "example": "A student-centered learning environment encourages active participation." },
+    { "word": "critical thinking", "meaning": "tư duy phản biện", "ipa": "/ˈkrɪtɪkl ˈθɪŋkɪŋ/", "example": "University education aims to develop students' critical thinking skills." },
+    { "word": "rote memorization", "meaning": "học vẹt/học thuộc lòng máy móc", "ipa": "/rəʊt ˌmeməraɪˈzeɪʃn/", "example": "Many educators argue that rote memorization is an ineffective way to learn." },
+    { "word": "striking", "meaning": "đáng kinh ngạc/nổi bật", "ipa": "/ˈstraɪkɪŋ/", "example": "There is a striking resemblance between the two sisters." },
+    { "word": "infrastructure", "meaning": "cơ sở hạ tầng", "ipa": "/ˈɪnfrəstrʌktʃə(r)/", "example": "The government is investing heavily in the country's infrastructure." },
+    { "word": "undergone", "meaning": "trải qua", "ipa": "/ˌʌndəˈɡɒn/", "example": "The building has undergone major renovations over the summer." },
+    { "word": "sophisticated", "meaning": "tinh vi/phức tạp", "ipa": "/səˈfɪstɪkeɪtɪd/", "example": "Modern medical equipment is becoming increasingly sophisticated." },
+    { "word": "extensive library", "meaning": "thư viện lớn/phong phú", "ipa": "/ɪkˈstensɪv ˈlaɪbrəri/", "example": "The university has an extensive library with over a million books." },
+    { "word": "equipped with", "meaning": "được trang bị với", "ipa": "/ɪˈkwɪpt wɪð/", "example": "The new kitchen is fully equipped with modern appliances." },
+    { "word": "projector", "meaning": "máy chiếu", "ipa": "/prəˈdʒektə(r)/", "example": "The teacher used a projector to show the students a documentary." },
+    { "word": "blackboard", "meaning": "bảng đen", "ipa": "/ˈblækbɔːd/", "example": "Traditional classrooms usually have a blackboard and chalk." },
+    { "word": "improvement", "meaning": "sự cải thiện", "ipa": "/ɪmˈpruːvmənt/", "example": "There has been a significant improvement in her test scores." },
+    { "word": "modernization", "meaning": "sự hiện đại hóa", "ipa": "/ˌmɒdənaɪˈzeɪʃn/", "example": "The modernization of the factory will lead to increased efficiency." },
+    { "word": "renovation", "meaning": "sự sửa sang/tân trang", "ipa": "/ˌrenəˈveɪʃn/", "example": "The old hotel is currently closed for renovation." },
+    { "word": "expansion", "meaning": "sự mở rộng", "ipa": "/ɪkˈspænʃn/", "example": "The company's expansion into international markets has been very successful." },
+    { "word": "interactive whiteboard", "meaning": "bảng tương tác", "ipa": "/ˌɪntərˈæktɪv ˈwaɪtbɔːd/", "example": "Many schools now use interactive whiteboards instead of traditional ones." },
+    { "word": "digital resources", "meaning": "nguồn lực kỹ thuật số", "ipa": "/ˈdɪdʒɪtl rɪˈsɔːsɪz/", "example": "Students have access to a wide range of digital resources for their research." },
+    { "word": "shift towards", "meaning": "sự chuyển dịch sang", "ipa": "/ʃɪft təˈwɔːdz/", "example": "There has been a global shift towards renewable energy sources." },
+    { "word": "personalized learning", "meaning": "học tập cá nhân hóa", "ipa": "/ˈpɜːsənəlaɪzd ˈlɜːnɪŋ/", "example": "Online platforms allow for more personalized learning experiences." },
+    { "word": "collaborative space", "meaning": "không gian cộng tác", "ipa": "/kəˈlæbərətɪv speɪs/", "example": "The library has been redesigned to include more collaborative spaces for groups." },
+    { "word": "sustainability", "meaning": "sự bền vững", "ipa": "/səˌsteɪnəˈbɪləti/", "example": "The new building was designed with sustainability in mind." },
+    { "word": "accessibility", "meaning": "khả năng tiếp cận", "ipa": "/əkˌsesəˈbɪləti/", "example": "The university is working to improve accessibility for students with disabilities." },
+    { "word": "global perspective", "meaning": "tầm nhìn toàn cầu", "ipa": "/ˈɡləʊbl pəˈspektɪv/", "example": "The curriculum has been updated to include a more global perspective." },
+    { "word": "extracurricular", "meaning": "ngoại khóa", "ipa": "/ˌekstrəkəˈrɪkjələ(r)/", "example": "Participating in extracurricular activities helps students develop soft skills." },
+    { "word": "diverse needs", "meaning": "nhu cầu đa dạng", "ipa": "/daɪˈvɜːs niːdz/", "example": "The school aims to meet the diverse needs of its student population." },
+    { "word": "learning environment", "meaning": "môi trường học tập", "ipa": "/ˈlɜːnɪŋ ɪnˈvaɪrənmənt/", "example": "A positive learning environment is crucial for academic success." },
+    { "word": "innovation", "meaning": "sự đổi mới/sáng tạo", "ipa": "/ˌɪnəˈveɪʃn/", "example": "The university is a hub for research and innovation." },
+    { "word": "technology-driven", "meaning": "định hướng bởi công nghệ", "ipa": "/tekˈnɒlədʒi ˈdrɪvn/", "example": "The modern economy is becoming increasingly technology-driven." },
+    { "word": "resourceful", "meaning": "tháo vát/nhiều tài lẻ", "ipa": "/rɪˈsɔːsfl/", "example": "She is a very resourceful teacher who always finds new ways to engage her students." },
+    { "word": "adaptable", "meaning": "dễ thích nghi", "ipa": "/əˈdæptəbl/", "example": "In a changing academic world, it's important to be adaptable and open to new ideas." },
+    { "word": "flexible", "meaning": "linh hoạt", "ipa": "/ˈfleksəbl/", "example": "We have a flexible work schedule that allows us to manage our time better." },
+    { "word": "visionary", "meaning": "có tầm nhìn", "ipa": "/ˈvɪʒnəri/", "example": "The principal's visionary leadership has transformed the school." },
+    { "word": "milestone", "meaning": "cột mốc", "ipa": "/ˈmaɪlstəʊn/", "example": "The school celebrated its 50th anniversary, a major milestone in its history." },
+    { "word": "legacy", "meaning": "di sản", "ipa": "/ˈleɡəsi/", "example": "The former teacher left a lasting legacy of inspiration at the school." },
+    { "word": "tradition", "meaning": "truyền thống", "ipa": "/trəˈdɪʃn/", "example": "The school has a long and proud tradition of academic excellence." },
+    { "word": "modernization", "meaning": "sự hiện đại hóa", "ipa": "/ˌmɒdənaɪˈzeɪʃn/", "example": "Modernization of the facilities has significantly improved student life." },
+    { "word": "impact", "meaning": "tác động/ảnh hưởng", "ipa": "/ˈɪmpækt/", "example": "The new teaching methods have had a positive impact on student grades." },
+    { "word": "outcome", "meaning": "kết quả", "ipa": "/ˈaʊtkʌm/", "example": "The final outcome of the project was better than we expected." },
+    { "word": "standard", "meaning": "tiêu chuẩn", "ipa": "/ˈstændəd/", "example": "The university maintains high academic standards for all its programs." },
+    { "word": "quality", "meaning": "chất lượng", "ipa": "/ˈkwɒləti/", "example": "The quality of education at this school is very high." },
+    { "word": "commitment", "meaning": "sự tận tâm/cam kết", "ipa": "/kəˈmɪtmənt/", "example": "The staff show a strong commitment to their students' well-being." },
+    { "word": "dedication", "meaning": "sự tận tụy", "ipa": "/ˌdedɪˈkeɪʃn/", "example": "Her dedication to her work is an inspiration to us all." },
+    { "word": "achievement", "meaning": "thành tích/thành tựu", "ipa": "/əˈtʃiːvmənt/", "example": "Winning the science fair was a great achievement for the class." },
+    { "word": "recognition", "meaning": "sự công nhận", "ipa": "/ˌrekəɡˈnɪʃn/", "example": "The school received recognition for its innovative teaching methods." }
+  ]
+}

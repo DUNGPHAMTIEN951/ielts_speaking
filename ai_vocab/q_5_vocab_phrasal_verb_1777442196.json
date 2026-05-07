@@ -1,0 +1,76 @@
+{
+  "id": "q_5",
+  "vocab": [
+    {
+      "word": "get about",
+      "ipa": "/ɡet əˈbaʊt/",
+      "meaning": "đi lại, di chuyển từ nơi này đến nơi khác",
+      "example": "Walking is actually the most efficient way to get about in this city during rush hour.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stroll around",
+      "ipa": "/strəʊl əˈraʊnd/",
+      "meaning": "đi dạo quanh một cách thư thả",
+      "example": "I love to stroll around the local neighborhood in the evening to digest my dinner.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "trek across",
+      "ipa": "/trek əˈkrɒs/",
+      "meaning": "đi bộ vất vả hoặc đi quãng đường dài qua một khu vực",
+      "example": "I used to trek across the entire campus just to reach the main library every morning.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep on top of",
+      "ipa": "/kiːp ɒn tɒp əv/",
+      "meaning": "duy trì kiểm soát hoặc thực hiện đều đặn (ở đây là việc đi bộ/vận động)",
+      "example": "I use a fitness tracker to help me keep on top of my daily step goals.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop out",
+      "ipa": "/pɒp aʊt/",
+      "meaning": "chạy ra ngoài một lát (thường là đi bộ quãng ngắn)",
+      "example": "Whenever I feel sluggish, I pop out for a quick ten-minute walk to refresh my mind.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off",
+      "ipa": "/set ɒf/",
+      "meaning": "khởi hành, bắt đầu một chuyến đi bộ",
+      "example": "I usually set off on my morning walk just as the sun is beginning to rise.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tag along",
+      "ipa": "/tæɡ əˈlɒŋ/",
+      "meaning": "đi theo, đi cùng ai đó (khi họ đi bộ)",
+      "example": "If my roommate is going to the park, I often tag along just to get some fresh air.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng ngoạn, quan sát kỹ cảnh vật khi đang đi",
+      "example": "Walking slowly allows me to really take in the beautiful colonial architecture of the old quarter.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burn off",
+      "ipa": "/bɜːn ɒf/",
+      "meaning": "đốt cháy năng lượng/calo (thông qua đi bộ)",
+      "example": "I find that a long brisk walk is an excellent way to burn off some extra energy after work.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "step up",
+      "ipa": "/step ʌp/",
+      "meaning": "tăng cường, đẩy mạnh (mức độ hoặc tần suất đi bộ)",
+      "example": "I’ve recently decided to step up my physical activity by walking to work instead of taking the bus.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

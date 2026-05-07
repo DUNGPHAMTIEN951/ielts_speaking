@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "mitigate financial risks",
+      "ipa": "/ˈmɪtɪɡeɪt faɪˈnænʃl rɪsks/",
+      "meaning": "giảm thiểu các rủi ro tài chính",
+      "example": "By diversifying their investments through bank-led portfolios, individuals can effectively mitigate financial risks.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "credit facilities",
+      "ipa": "/ˈkredɪt fəˈsɪlətiz/",
+      "meaning": "các công cụ/dịch vụ cho vay tín dụng",
+      "example": "Many entrepreneurs rely on banks to provide essential credit facilities that allow them to scale their businesses.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "fiduciary duty",
+      "ipa": "/fɪˈdjuːʃieri ˈdjuːti/",
+      "meaning": "trách nhiệm ủy thác (trách nhiệm pháp lý bảo vệ tiền cho khách hàng)",
+      "example": "Banks have a fiduciary duty to act in the best interest of their clients when managing their life savings.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "liquidity management",
+      "ipa": "/lɪˈkwɪdəti ˈmænɪdʒmənt/",
+      "meaning": "quản lý khả năng thanh khoản (tiền mặt sẵn có)",
+      "example": "Banks are indispensable for effective liquidity management, ensuring that cash is available whenever a sudden need arises.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "wealth management services",
+      "ipa": "/welθ ˈmænɪdʒmənt ˈsɜːvɪsɪz/",
+      "meaning": "dịch vụ quản lý tài sản/thịnh vượng",
+      "example": "High-net-worth individuals often utilize banks for their bespoke wealth management services to optimize their long-term returns.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "stringent security protocols",
+      "ipa": "/ˈstrɪndʒənt sɪˈkjʊərəti ˈprəʊtəkɒlz/",
+      "meaning": "các giao thức bảo mật nghiêm ngặt",
+      "example": "The shift to digital banking has forced institutions to implement stringent security protocols to thwart cybercriminals.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "fiscal transparency",
+      "ipa": "/ˈfɪskl trænsˈpærənsi/",
+      "meaning": "sự minh bạch về tài chính",
+      "example": "Using a bank account promotes fiscal transparency, as every single transaction is recorded and can be audited if necessary.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "streamline payroll",
+      "ipa": "/ˈstriːmlaɪn ˈpeɪrəʊl/",
+      "meaning": "tối ưu hóa/hợp lý hóa việc chi trả lương",
+      "example": "Most corporations use banking networks to streamline payroll, ensuring employees receive their wages accurately and on time.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "collateral",
+      "ipa": "/kəˈlætərəl/",
+      "meaning": "tài sản thế chấp",
+      "example": "People use banks to leverage their existing assets, such as a house, as collateral for obtaining significant personal loans.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "curb inflation",
+      "ipa": "/kɜːb ɪnˈfleɪʃn/",
+      "meaning": "kiềm chế lạm phát (thông qua các chính sách của ngân hàng trung ương)",
+      "example": "From a macro perspective, banks are the tools through which central authorities raise interest rates to curb inflation.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

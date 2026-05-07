@@ -1,0 +1,76 @@
+{
+  "id": "q_37",
+  "vocab": [
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "ngăn chặn (âm thanh, sự xao nhãng) để tập trung",
+      "example": "I usually wear noise-canceling headphones to block out the background chatter in busy coffee shops.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "settle in",
+      "ipa": "/ˈset.əl ɪn/",
+      "meaning": "ổn định chỗ ngồi và bắt đầu cảm thấy thoải mái để làm việc",
+      "example": "Once I settle in at my favorite corner desk in the library, I can stay productive for hours.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng hoặc hấp thụ (không khí, kiến thức) một cách tự nhiên",
+      "example": "I like studying in the park to soak up the fresh air while I memorize my lecture notes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head for",
+      "ipa": "/hed fɔːr/",
+      "meaning": "đi đến đâu đó (thường là một nơi cụ thể để làm việc)",
+      "example": "When I have a major deadline, I usually head for a quiet study hall where the atmosphere is more formal.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zone out",
+      "ipa": "/zəʊn aʊt/",
+      "meaning": "mất tập trung/thẫn thờ (thường dùng để giải thích tại sao cần nơi yên tĩnh)",
+      "example": "I avoid studying in my bedroom because I tend to zone out or feel tempted to nap.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brighten up",
+      "ipa": "/ˈbraɪ.tən ʌp/",
+      "meaning": "làm sáng sủa hoặc rạng rỡ hơn (không gian học tập)",
+      "example": "I’ve added a few desk lamps to brighten up my study nook, as good lighting is crucial for my concentration.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔːr ˈəʊ.vər/",
+      "meaning": "nghiên cứu kỹ lưỡng, mải miết đọc cái gì đó",
+      "example": "You’ll often find me in the reference section, poring over thick textbooks for my research paper.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clear away",
+      "ipa": "/klɪər əˈweɪ/",
+      "meaning": "dọn dẹp sạch sẽ (không gian) để lấy chỗ làm việc",
+      "example": "Before I start my revision, I always clear away the clutter on my dining table to create a functional workspace.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drill down into",
+      "ipa": "/drɪl daʊn ˈɪn.tuː/",
+      "meaning": "xoáy sâu, tìm hiểu chi tiết một vấn đề phức tạp",
+      "example": "The laboratory is the best place for me to drill down into the data and understand the experimental results.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hunker down",
+      "ipa": "/ˈhʌŋ.kər daʊn/",
+      "meaning": "núp mình/tập trung cao độ ở một nơi để hoàn thành công việc",
+      "example": "During exam season, I hunker down in the basement of the university library where nobody can bother me.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

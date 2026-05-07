@@ -1,0 +1,76 @@
+{
+  "id": "q_11",
+  "vocab": [
+    {
+      "word": "pore over",
+      "ipa": "/pɔːr ˈəʊ.vər/",
+      "meaning": "nghiên cứu hoặc xem xét kỹ lưỡng điều gì đó",
+      "example": "I can spend hours in a gallery just poring over the intricate brushstrokes of a single oil painting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng hoặc hấp thụ (không khí, kiến thức, trải nghiệm)",
+      "example": "Whenever I visit the national gallery, I love to just sit on a bench and soak up the creative atmosphere.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng ngoạn, quan sát kỹ để cảm nhận vẻ đẹp",
+      "example": "It takes a lot of time to fully take in all the details of a large-scale contemporary installation.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "conjure up",
+      "ipa": "/ˈkʌn.dʒər ʌp/",
+      "meaning": "gợi lên (hình ảnh, ký ức hoặc ý tưởng) trong tâm trí",
+      "example": "Abstract art is fascinating because it can conjure up different emotions for every person who views it.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, dễ nhận thấy hơn so với những thứ khác",
+      "example": "In a crowded exhibition, the minimalist sculptures really stand out due to their stark simplicity.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick out",
+      "ipa": "/pɪk aʊt/",
+      "meaning": "nhận ra hoặc chọn ra một chi tiết cụ thể",
+      "example": "I enjoy trying to pick out the hidden symbols that artists often embed within their surrealist works.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑː.vəl æt/",
+      "meaning": "chiêm ngưỡng với sự ngạc nhiên và ngưỡng mộ",
+      "example": "It’s hard not to marvel at the sheer level of craftsmanship required to produce such lifelike statues.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "reflect on",
+      "ipa": "/rɪˈflekt ɒn/",
+      "meaning": "suy ngẫm sâu sắc về một điều gì đó",
+      "example": "Visiting an art gallery gives me a rare chance to reflect on cultural heritage and social history.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble across",
+      "ipa": "/ˈstʌm.bəl əˈkrɒs/",
+      "meaning": "tình cờ bắt gặp/tìm thấy",
+      "example": "The best part of visiting local galleries is when you stumble across an emerging artist with a truly unique style.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go into",
+      "ipa": "/ɡəʊ ˈɪn.tuː/",
+      "meaning": "thảo luận hoặc kiểm tra chi tiết",
+      "example": "The audio guide was brilliant because it really went into the political context behind each masterpiece.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

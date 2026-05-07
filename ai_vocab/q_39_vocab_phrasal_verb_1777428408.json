@@ -1,0 +1,76 @@
+{
+  "id": "q_39",
+  "vocab": [
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɔːf/",
+      "meaning": "thả mình vào giấc ngủ (nhờ âm thanh)",
+      "example": "I find the sound of a steady downpour incredibly soothing; it helps me drift off in no time.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ring out",
+      "ipa": "/rɪŋ aʊt/",
+      "meaning": "vang lên mạnh mẽ, rõ ràng",
+      "example": "There is something magical about hearing church bells ring out across a quiet valley on a Sunday morning.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drown out",
+      "ipa": "/draʊn aʊt/",
+      "meaning": "át đi, lấn át (âm thanh khó chịu)",
+      "example": "I love playing white noise to drown out the relentless hum of the city traffic outside my window.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "filter through",
+      "ipa": "/ˈfɪltər θruː/",
+      "meaning": "len lỏi, truyền qua (âm thanh từ xa hoặc qua vật cản)",
+      "example": "The faint sound of birdsong filtering through the morning mist is my favorite way to start the day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set off",
+      "ipa": "/set ɔːf/",
+      "meaning": "kích hoạt, gợi lên (một cảm xúc hoặc phản ứng)",
+      "example": "The crisp sound of autumn leaves crunching underfoot always sets off a feeling of nostalgia for my childhood.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "die down",
+      "ipa": "/daɪ daʊn/",
+      "meaning": "nhỏ dần rồi tắt hẳn, lắng xuống",
+      "example": "I enjoy the stillness of the countryside once the evening breeze begins to die down and everything goes quiet.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zone out",
+      "ipa": "/zoʊn aʊt/",
+      "meaning": "thả hồn theo mây gió, không chú ý xung quanh (do âm thanh thư giãn)",
+      "example": "Listening to the rhythmic bubbling of a brook allows me to completely zone out and forget my daily stressors.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pipe up",
+      "ipa": "/paɪp ʌp/",
+      "meaning": "bắt đầu phát ra âm thanh (thường là tiếng chim hoặc nhạc công)",
+      "example": "It’s delightful when the morning chorus of birds starts to pipe up just as the sun begins to rise.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "perk up",
+      "ipa": "/pɜːrk ʌp/",
+      "meaning": "trở nên tươi tỉnh, phấn chấn (khi nghe thấy âm thanh ưa thích)",
+      "example": "My ears always perk up when I hear the distant melody of a street performer playing the violin.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "echo back",
+      "ipa": "/ˈekoʊ bæk/",
+      "meaning": "vang vọng lại",
+      "example": "I’ve always been fascinated by the way a shout can echo back from the walls of a deep canyon.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

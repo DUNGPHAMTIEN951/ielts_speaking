@@ -1,0 +1,72 @@
+{
+  "id": "q_36",
+  "topic": "Studying",
+  "q": "Do you prefer to study in the morning or in the afternoon?",
+  "examiner_note": "Câu hỏi này về sở thích cá nhân và nhịp sinh học (circadian rhythm). \n- **Hướng dẫn trả lời**: Bạn có thể chọn một trong hai hoặc cả hai, giải thích tại sao (tỉnh táo nhất lúc nào, yên tĩnh nhất lúc nào). \n- **Mẹo**: Sử dụng các cụm từ như 'early bird', 'night owl', 'peak concentration', 'fresh mind', 'afternoon slump' để câu trả lời tự nhiên và hay hơn.",
+  "samples": {
+    "band7": {
+      "text": "I definitely prefer studying in the morning. That's when my mind is freshest and I can concentrate much better. In the afternoon, I often feel a bit tired after lunch, so it's harder for me to focus on difficult tasks.",
+      "note": "Trả lời rõ ràng, giải thích lý do liên quan đến sự tỉnh táo. Từ vựng ổn ('freshest', 'concentrate')."
+    },
+    "band8": {
+      "text": "I'm definitely an early bird, so I find that my peak concentration levels are usually between 8 AM and 11 AM. I try to tackle the most demanding subjects during this time, whereas the afternoon is better suited for more routine tasks like organizing my notes.",
+      "note": "Sử dụng các cụm từ hay như 'early bird', 'peak concentration levels', 'tackle', 'demanding subjects'."
+    },
+    "band9": {
+      "text": "I'm firmly in the camp of early morning studiers. There's a certain stillness at dawn that really aids my focus. I find that I'm far more productive before the hustle and bustle of the day begins, as it allows me to engage in deep work without any external distractions.",
+      "note": "Diễn đạt cực kỳ tinh tế ('firmly in the camp', 'stillness at dawn', 'aids my focus', 'hustle and bustle', 'deep work'). Sử dụng từ vựng ở trình độ C2."
+    }
+  },
+  "v": [
+    { "word": "early bird", "meaning": "người dậy sớm", "ipa": "/ˈɜːli bɜːd/", "example": "As an early bird, I always finish my most important tasks before noon." },
+    { "word": "night owl", "meaning": "người thức khuya", "ipa": "/naɪt aʊl/", "example": "My roommate is a night owl and often studies until 3 AM." },
+    { "word": "peak concentration", "meaning": "sự tập trung cao độ nhất", "ipa": "/piːk ˌkɒnsnˈtreɪʃn/", "example": "I try to schedule my most difficult classes during my peak concentration hours." },
+    { "word": "fresh mind", "meaning": "tâm trí tỉnh táo", "ipa": "/freʃ maɪnd/", "example": "It's best to tackle complex problems with a fresh mind in the morning." },
+    { "word": "afternoon slump", "meaning": "sự uể oải vào buổi chiều", "ipa": "/ˌɑːftəˈnuːn slʌmp/", "example": "Taking a short walk can help you overcome the mid-afternoon slump." },
+    { "word": "circadian rhythm", "meaning": "nhịp sinh học", "ipa": "/sɜːˈkeɪdiən ˈrɪðəm/", "example": "Traveling across time zones can disrupt your circadian rhythm." },
+    { "word": "stillness", "meaning": "sự tĩnh lặng", "ipa": "/ˈstɪlnəs/", "example": "I love the stillness of the library early in the morning." },
+    { "word": "aid focus", "meaning": "hỗ trợ sự tập trung", "ipa": "/eɪd ˈfəʊkəs/", "example": "A quiet environment and a clean desk really aid my focus." },
+    { "word": "hustle and bustle", "meaning": "sự hối hả và nhộn nhịp", "ipa": "/ˈhʌsl ənd ˈbʌsl/", "example": "I prefer living in the suburbs to escape the hustle and bustle of the city." },
+    { "word": "deep work", "meaning": "phương pháp làm việc tập trung sâu", "ipa": "/diːp wɜːk/", "example": "I reserve three hours every morning for deep work on my research paper." },
+    { "word": "external distraction", "meaning": "sự xao nhãng từ bên ngoài", "ipa": "/ɪkˈstɜːnl dɪˈstrækʃn/", "example": "Turning off your phone helps minimize external distractions while studying." },
+    { "word": "alert", "meaning": "tỉnh táo/cảnh giác", "ipa": "/əˈlɜːt/", "example": "A cup of coffee help me feel more alert in the morning." },
+    { "word": "lethargic", "meaning": "uể oải/mệt mỏi", "ipa": "/ləˈθɑːdʒɪk/", "example": "I always feel a bit lethargic after a heavy lunch." },
+    { "word": "tackle", "meaning": "giải quyết (vấn đề/nhiệm vụ)", "ipa": "/ˈtækl/", "example": "The government is determined to tackle the problem of unemployment." },
+    { "word": "demanding task", "meaning": "nhiệm vụ đòi hỏi cao", "ipa": "/dɪˈmɑːndɪŋ tɑːsk/", "example": "Writing a dissertation is a very demanding task." },
+    { "word": "routine task", "meaning": "nhiệm vụ thường nhật/đơn giản", "ipa": "/ruːˈtiːn tɑːsk/", "example": "Answering emails is a routine task that I usually do in the afternoon." },
+    { "word": "productive", "meaning": "năng suất/hiệu quả", "ipa": "/prəˈdʌktɪv/", "example": "I find that I'm most productive when I have a clear to-do list." },
+    { "word": "stamina", "meaning": "sức bền/khả năng chịu đựng", "ipa": "/ˈstæmɪnə/", "example": "Long-distance runners need a lot of physical and mental stamina." },
+    { "word": "focus", "meaning": "tập trung (N/V)", "ipa": "/ˈfəʊkəs/", "example": "Loss of focus can lead to mistakes in your work." },
+    { "word": "concentration span", "meaning": "khoảng thời gian tập trung", "ipa": "/ˌkɒnsnˈtreɪʃn spæn/", "example": "Working in short bursts can help improve your concentration span." },
+    { "word": "cognitive function", "meaning": "chức năng nhận thức", "ipa": "/ˈkɒɡnətɪv ˈfʌŋkʃn/", "example": "Sleep deprivation can negatively affect cognitive function." },
+    { "word": "mental energy", "meaning": "năng lượng tinh thần", "ipa": "/ˈmentl ˈenədʒi/", "example": "I find that I have more mental energy in the early hours of the day." },
+    { "word": "efficiency", "meaning": "sự hiệu quả/năng suất", "ipa": "/ɪˈfɪʃnsi/", "example": "Working in a quiet room increases my study efficiency." },
+    { "word": "disturb", "meaning": "làm phiền/quấy rầy", "ipa": "/dɪˈstɜːb/", "example": "Please do not disturb me while I'm in a meeting." },
+    { "word": "environment", "meaning": "môi trường", "ipa": "/ɪnˈvaɪrənmənt/", "example": "The classroom environment should be conducive to learning." },
+    { "word": "atmosphere", "meaning": "bầu không khí", "ipa": "/ˈætməsfɪə(r)/", "example": "There was a very friendly atmosphere at the party." },
+    { "word": "quietness", "meaning": "sự yên tĩnh", "ipa": "/ˈkwaɪətnəs/", "example": "I enjoy the quietness of the countryside." },
+    { "word": "peak performance", "meaning": "hiệu suất đỉnh cao", "ipa": "/piːk pəˈfɔːməns/", "example": "Proper nutrition is essential for peak performance in sports." },
+    { "word": "schedule", "meaning": "lịch trình", "ipa": "/ˈʃedjuːl/", "example": "I have a very tight schedule this week." },
+    { "word": "habit", "meaning": "thói quen", "ipa": "/ˈhæbɪt/", "example": "Reading before bed is a good habit to get into." },
+    { "word": "preference", "meaning": "sự ưu tiên/sở thích", "ipa": "/ˈprefrəns/", "example": "Do you have a preference for tea or coffee?" },
+    { "word": "tendency", "meaning": "xu hướng", "ipa": "/ˈtendənsi/", "example": "There is a tendency for prices to rise during the holiday season." },
+    { "word": "morning person", "meaning": "người hướng về buổi sáng", "ipa": "/ˈmɔːnɪŋ ˈpɜːsn/", "example": "My sister is definitely not a morning person; she hates waking up early." },
+    { "word": "recharge", "meaning": "nạp lại năng lượng", "ipa": "/ˌriːˈtʃɑːdʒ/", "example": "I need a holiday to recharge my batteries." },
+    { "word": "fatigue", "meaning": "sự mệt mỏi", "ipa": "/fəˈtiːɡ/", "example": "The long flight caused a lot of physical fatigue." },
+    { "word": "energy levels", "meaning": "mức năng lượng", "ipa": "/ˈenədʒi ˈlevlz/", "example": "Regular exercise can help boost your energy levels." },
+    { "word": "clarity", "meaning": "sự rõ ràng/sáng suốt", "ipa": "/ˈklærəti/", "example": "I need more clarity on the details of the project." },
+    { "word": "optimal", "meaning": "tối ưu", "ipa": "/ˈɒptɪməl/", "example": "Temperature control is necessary for the optimal growth of the plants." },
+    { "word": "strategy", "meaning": "chiến lược", "ipa": "/ˈstrætədʒi/", "example": "We need to develop a long-term strategy for the company." },
+    { "word": "allocate", "meaning": "phân bổ", "ipa": "/ˈæləkeɪt/", "example": "The government has allocated more funds to healthcare." },
+    { "word": "uninterrupted", "meaning": "không bị gián đoạn", "ipa": "/ˌʌnˌɪntəˈrʌptɪd/", "example": "I need four hours of uninterrupted time to finish this report." },
+    { "word": "concentration span", "meaning": "khoảng thời gian tập trung", "ipa": "/ˌkɒnsnˈtreɪʃn spæn/", "example": "Children often have a much shorter concentration span than adults." },
+    { "word": "disciplined", "meaning": "có kỷ luật", "ipa": "/ˈdɪsəplɪnd/", "example": "She is very disciplined about her exercise routine." },
+    { "word": "self-study", "meaning": "tự học", "ipa": "/ˌself ˈstʌdi/", "example": "University education requires a lot of self-study." },
+    { "word": "consistent", "meaning": "nhất quán", "ipa": "/kənˈsɪstənt/", "example": "You need to be consistent in your efforts to achieve your goals." },
+    { "word": "methodical", "meaning": "có phương pháp/ngăn nắp", "ipa": "/məˈθɒdɪkl/", "example": "He has a very methodical approach to solving problems." },
+    { "word": "well-rested", "meaning": "được nghỉ ngơi đầy đủ", "ipa": "/ˌwel ˈrestɪd/", "example": "You'll feel much more alert if you're well-rested before the exam." },
+    { "word": "effective", "meaning": "hiệu quả", "ipa": "/ɪˈfektɪv/", "example": "The new law has been quite effective in reducing crime." },
+    { "word": "efficiency", "meaning": "sự hiệu quả/năng suất", "ipa": "/ɪˈfɪʃnsi/", "example": "We need to improve the efficiency of the production process." },
+    { "word": "procrastination", "meaning": "sự trì hoãn", "ipa": "/prəˌkræstɪˈneɪʃn/", "example": "Overcoming procrastination is a constant struggle for many students." }
+  ]
+}

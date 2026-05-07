@@ -1,0 +1,52 @@
+{
+  "id": "q_45",
+  "topic": "Public places",
+  "q": "Do you wear headphones when you are in public places?",
+  "examiner_note": "Nói về thói quen và sự riêng tư. Sử dụng 'commuting', 'personal space', 'crowded environment', 'podcasts'.",
+  "samples": {
+    "band7": {
+      "text": "I often do, especially when commuting on public transport. It’s a great way to enjoy my favorite music or podcasts while also creating a little bit of personal space in a crowded environment. It helps me to relax and ignore the noise.",
+      "note": "Trả lời thực tế, sử dụng từ vựng tốt (commuting, personal space)."
+    },
+    "band8": {
+      "text": "I find myself wearing headphones quite frequently in public, primarily to create an auditory buffer from the urban noise. It allows me to stay focused on my own thoughts or enjoy some music while navigating through the city. However, I’m always mindful of my surroundings and keep the volume at a safe level.",
+      "note": "Sử dụng từ vựng hay (frequently, auditory buffer, navigating, mindful)."
+    },
+    "band9": {
+      "text": "I habitually use headphones in public spaces as a means of managing my sensory environment. It provides a sense of sanctuary and allows me to engage with my preferred content while in a potentially overwhelming or noisy setting. I find it to be an essential tool for maintaining my focus and mental equilibrium during my daily commute.",
+      "note": "Sử dụng từ vựng ở mức độ cao (habitually, sensory environment, sanctuary, equilibrium)."
+    }
+  },
+  "v": [
+    {
+      "word": "buffer",
+      "meaning": "vùng đệm/vật đệm",
+      "ipa": "/ˈbʌfər/",
+      "example": "The park acts as a buffer between the residential and industrial areas."
+    },
+    {
+      "word": "equilibrium",
+      "meaning": "sự cân bằng",
+      "ipa": "/ˌiːkwɪˈlɪbriəm/",
+      "example": "The price of oil is in equilibrium."
+    },
+    {
+      "word": "habitually",
+      "meaning": "theo thói quen",
+      "ipa": "/həˈbɪtʃuəli/",
+      "example": "He habitually arrives late for meetings."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "sanctuary",
+      "meaning": "nơi trú ẩn/thánh đường",
+      "ipa": "/ˈsæŋktʃueri/",
+      "example": "The park is a sanctuary for city dwellers."
+    }
+  ],
+  "similar_questions": [
+    "What do you listen to on your headphones?",
+    "Is it rude to wear headphones when someone is talking to you?"
+  ]
+}

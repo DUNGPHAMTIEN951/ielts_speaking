@@ -1,0 +1,356 @@
+{
+  "id": "q_36",
+  "vocab": [
+    {
+      "word": "Early bird",
+      "ipa": "/ˈɜːrli bɜːrd/",
+      "meaning": "Người hay dậy sớm",
+      "example": "As an early bird, I find my brain is most alert right after sunrise.",
+      "type": "collocation"
+    },
+    {
+      "word": "Night owl",
+      "ipa": "/naɪt aʊl/",
+      "meaning": "Người hay thức khuya",
+      "example": "I’ve never been much of a night owl; I usually crash by 10 PM.",
+      "type": "collocation"
+    },
+    {
+      "word": "Crack of dawn",
+      "ipa": "/kræk əv dɔːn/",
+      "meaning": "Lúc tảng sáng/rất sớm",
+      "example": "I often wake up at the crack of dawn to get a head start on my studies.",
+      "type": "collocation"
+    },
+    {
+      "word": "Peak cognitive performance",
+      "ipa": "/piːk ˈkɒɡnətɪv pəˈfɔːrməns/",
+      "meaning": "Hiệu suất nhận thức đỉnh cao",
+      "example": "I schedule my hardest subjects for the morning to utilize my peak cognitive performance.",
+      "type": "collocation"
+    },
+    {
+      "word": "Productivity levels",
+      "ipa": "/ˌprɒdʌkˈtɪvəti ˈlevlz/",
+      "meaning": "Mức độ năng suất",
+      "example": "My productivity levels tend to plummet after a heavy lunch.",
+      "type": "collocation"
+    },
+    {
+      "word": "Mental clarity",
+      "ipa": "/ˈmentl ˈklærəti/",
+      "meaning": "Sự minh mẫn về đầu óc",
+      "example": "The morning silence provides the mental clarity I need for complex problem-solving.",
+      "type": "collocation"
+    },
+    {
+      "word": "Circadian rhythm",
+      "ipa": "/sɜːrˈkeɪdiən ˈrɪðəm/",
+      "meaning": "Nhịp sinh học",
+      "example": "Studying in the afternoon better aligns with my natural circadian rhythm.",
+      "type": "collocation"
+    },
+    {
+      "word": "Hit the books",
+      "ipa": "/hɪt ðə bʊks/",
+      "meaning": "Bắt đầu học bài",
+      "example": "I usually hit the books around 2 PM after a quick power nap.",
+      "type": "collocation"
+    },
+    {
+      "word": "In the zone",
+      "ipa": "/ɪn ðə zəʊn/",
+      "meaning": "Tập trung cao độ",
+      "example": "When I study in the afternoon, I really get in the zone and lose track of time.",
+      "type": "collocation"
+    },
+    {
+      "word": "Sluggish",
+      "ipa": "/ˈslʌɡɪʃ/",
+      "meaning": "Chậm chạp, uể oải",
+      "example": "I feel incredibly sluggish in the morning, so I avoid studying then.",
+      "type": "collocation"
+    },
+    {
+      "word": "Afternoon slump",
+      "ipa": "/ˌɑːftəˈnuːn slʌmp/",
+      "meaning": "Sự trì trệ/uể oải vào buổi chiều",
+      "example": "To combat the afternoon slump, I usually switch to lighter tasks like filing.",
+      "type": "collocation"
+    },
+    {
+      "word": "Sharp as a tack",
+      "ipa": "/ʃɑːrp əz ə tæk/",
+      "meaning": "Rất nhanh nhạy/thông minh",
+      "example": "My mind is as sharp as a tack during the early hours of the day.",
+      "type": "collocation"
+    },
+    {
+      "word": "Absorb information",
+      "ipa": "/əbˈzɔːrb ˌɪnfəˈmeɪʃn/",
+      "meaning": "Tiếp thu thông tin",
+      "example": "It's much easier to absorb information when the house is quiet in the morning.",
+      "type": "collocation"
+    },
+    {
+      "word": "Optimal time",
+      "ipa": "/ˈɒptɪml taɪm/",
+      "meaning": "Thời điểm tối ưu",
+      "example": "The morning is the optimal time for me to tackle challenging assignments.",
+      "type": "collocation"
+    },
+    {
+      "word": "Burn the candle at both ends",
+      "ipa": "/bɜːrn ðə ˈkændl ət bəʊθ endz/",
+      "meaning": "Làm việc quá sức (thức khuya dậy sớm)",
+      "example": "I try not to burn the candle at both ends by keeping a consistent study schedule.",
+      "type": "collocation"
+    },
+    {
+      "word": "Retain knowledge",
+      "ipa": "/rɪˈteɪn ˈnɒlɪdʒ/",
+      "meaning": "Ghi nhớ kiến thức",
+      "example": "I find that I retain knowledge much better during afternoon sessions.",
+      "type": "collocation"
+    },
+    {
+      "word": "State of flow",
+      "ipa": "/steɪt əv fləʊ/",
+      "meaning": "Trạng thái tập trung cực độ",
+      "example": "Achieving a state of flow is easier for me when the sun starts to set.",
+      "type": "collocation"
+    },
+    {
+      "word": "Distraction-free",
+      "ipa": "/dɪˈstrækʃn friː/",
+      "meaning": "Không bị xao nhãng",
+      "example": "Early morning offers a distraction-free environment for deep work.",
+      "type": "collocation"
+    },
+    {
+      "word": "Tackle demanding tasks",
+      "ipa": "/ˈtækl dɪˈmɑːndɪŋ tɑːsks/",
+      "meaning": "Giải quyết các tác vụ khó",
+      "example": "I prefer the morning to tackle demanding tasks like essay writing.",
+      "type": "collocation"
+    },
+    {
+      "word": "Post-lunch lethargy",
+      "ipa": "/pəʊst lʌntʃ ˈleθədʒi/",
+      "meaning": "Sự lờ đờ sau khi ăn trưa",
+      "example": "I struggle with post-lunch lethargy, making afternoon study difficult.",
+      "type": "collocation"
+    },
+    {
+      "word": "Warp speed",
+      "ipa": "/wɔːrp spiːd/",
+      "meaning": "Tốc độ rất nhanh",
+      "example": "My brain works at warp speed between 8 AM and 11 AM.",
+      "type": "collocation"
+    },
+    {
+      "word": "Conducive to",
+      "ipa": "/kənˈdjuːsɪv tu/",
+      "meaning": "Có lợi cho/tạo điều kiện cho",
+      "example": "The tranquil morning atmosphere is highly conducive to learning.",
+      "type": "collocation"
+    },
+    {
+      "word": "Information overload",
+      "ipa": "/ˌɪnfəˈmeɪʃn ˌəʊvəˈləʊd/",
+      "meaning": "Quá tải thông tin",
+      "example": "By the afternoon, I often suffer from information overload.",
+      "type": "collocation"
+    },
+    {
+      "word": "Groggy",
+      "ipa": "/ˈɡrɒɡi/",
+      "meaning": "Chưa tỉnh táo/choáng váng",
+      "example": "I’m usually too groggy in the morning to focus on complex math.",
+      "type": "collocation"
+    },
+    {
+      "word": "Prime time",
+      "ipa": "/praɪm taɪm/",
+      "meaning": "Thời điểm vàng",
+      "example": "10 AM is my prime time for brainstorming new ideas.",
+      "type": "collocation"
+    },
+    {
+      "word": "A sense of accomplishment",
+      "ipa": "/ə sens əv əˈkʌmplɪʃmənt/",
+      "meaning": "Cảm giác đạt được thành tựu",
+      "example": "Studying early gives me a sense of accomplishment for the rest of the day.",
+      "type": "collocation"
+    },
+    {
+      "word": "Concentration span",
+      "ipa": "/ˌkɒnsnˈtreɪʃn spæn/",
+      "meaning": "Khoảng thời gian tập trung",
+      "example": "My concentration span is significantly longer in the afternoon.",
+      "type": "collocation"
+    },
+    {
+      "word": "Second wind",
+      "ipa": "/ˌsekənd ˈwɪnd/",
+      "meaning": "Nguồn năng lượng mới (sau khi mệt mỏi)",
+      "example": "I often get a second wind around 4 PM which helps me finish my work.",
+      "type": "collocation"
+    },
+    {
+      "word": "Bout of productivity",
+      "ipa": "/baʊt əv ˌprɒdʌkˈtɪvəti/",
+      "meaning": "Một đợt làm việc năng suất",
+      "example": "I have a solid bout of productivity every morning before breakfast.",
+      "type": "collocation"
+    },
+    {
+      "word": "Burn out",
+      "ipa": "/bɜːrn aʊt/",
+      "meaning": "Kiệt sức",
+      "example": "If I study all morning and afternoon, I tend to burn out by evening.",
+      "type": "collocation"
+    },
+    {
+      "word": "At the top of one's game",
+      "ipa": "/æt ðə tɒp əv wʌnz ɡeɪm/",
+      "meaning": "Ở phong độ tốt nhất",
+      "example": "I'm at the top of my game when the sun is just coming up.",
+      "type": "collocation"
+    },
+    {
+      "word": "Fresh as a daisy",
+      "ipa": "/freʃ əz ə ˈdeɪzi/",
+      "meaning": "Tươi tắn/tràn đầy năng lượng",
+      "example": "I wake up feeling fresh as a daisy and ready to hit the books.",
+      "type": "collocation"
+    },
+    {
+      "word": "Mental fog",
+      "ipa": "/ˈmentl fɒɡ/",
+      "meaning": "Sự mơ hồ/mệt mỏi về trí não",
+      "example": "I find it hard to clear the mental fog before midday.",
+      "type": "collocation"
+    },
+    {
+      "word": "Intensive study",
+      "ipa": "/ɪnˈtensɪv ˈstʌdi/",
+      "meaning": "Việc học cường độ cao",
+      "example": "Afternoons are reserved for intensive study sessions.",
+      "type": "collocation"
+    },
+    {
+      "word": "Cram",
+      "ipa": "/kræm/",
+      "meaning": "Học nhồi nhét",
+      "example": "I prefer consistent morning study rather than having to cram in the afternoon.",
+      "type": "collocation"
+    },
+    {
+      "word": "Deep work",
+      "ipa": "/diːp wɜːrk/",
+      "meaning": "Làm việc/học tập sâu",
+      "example": "Morning is the only time I can truly engage in deep work.",
+      "type": "collocation"
+    },
+    {
+      "word": "Power through",
+      "ipa": "/ˈpaʊər θruː/",
+      "meaning": "Vượt qua (một việc khó khăn) bằng nỗ lực",
+      "example": "I usually power through my readings during the late afternoon.",
+      "type": "collocation"
+    },
+    {
+      "word": "Brain drain",
+      "ipa": "/breɪn dreɪn/",
+      "meaning": "Sự mệt mỏi đầu óc",
+      "example": "By 3 PM, I start feeling the brain drain from a long day.",
+      "type": "collocation"
+    },
+    {
+      "word": "Alertness",
+      "ipa": "/əˈlɜːrtnəs/",
+      "meaning": "Sự tỉnh táo",
+      "example": "Caffeine helps boost my alertness during morning study.",
+      "type": "collocation"
+    },
+    {
+      "word": "Mornings-only person",
+      "ipa": "/ˈmɔːrnɪŋz ˈəʊnli ˈpɜːrsn/",
+      "meaning": "Người chỉ làm việc hiệu quả buổi sáng",
+      "example": "I'm definitely a mornings-only person when it comes to academic rigor.",
+      "type": "collocation"
+    },
+    {
+      "word": "Incoherent",
+      "ipa": "/ˌɪnkəˈhɪərənt/",
+      "meaning": "Không mạch lạc (do mệt mỏi)",
+      "example": "My thoughts become quite incoherent if I try to study too late in the day.",
+      "type": "collocation"
+    },
+    {
+      "word": "Uninterrupted focus",
+      "ipa": "/ˌʌnˌɪntəˈrʌptɪd ˈfəʊkəs/",
+      "meaning": "Sự tập trung không gián đoạn",
+      "example": "Early morning provides the uninterrupted focus I crave.",
+      "type": "collocation"
+    },
+    {
+      "word": "Productive streak",
+      "ipa": "/prəˈdʌktɪv striːk/",
+      "meaning": "Chuỗi thời gian làm việc năng suất",
+      "example": "I'm currently on a productive streak every afternoon this week.",
+      "type": "collocation"
+    },
+    {
+      "word": "Wane",
+      "ipa": "/weɪn/",
+      "meaning": "Giảm dần (năng lượng/sự chú ý)",
+      "example": "My interest in studying tends to wane as the afternoon progresses.",
+      "type": "collocation"
+    },
+    {
+      "word": "Bear fruit",
+      "ipa": "/ber fruːt/",
+      "meaning": "Đón nhận kết quả tốt",
+      "example": "My morning routine is starting to bear fruit in my exam grades.",
+      "type": "collocation"
+    },
+    {
+      "word": "Heavy lifting",
+      "ipa": "/ˈhevi ˈlɪftɪŋ/",
+      "meaning": "Phần việc nặng nhọc nhất",
+      "example": "I do all the cognitive heavy lifting before lunch.",
+      "type": "collocation"
+    },
+    {
+      "word": "Zone out",
+      "ipa": "/zəʊn aʊt/",
+      "meaning": "Mất tập trung/thả hồn treo ngược cành cây",
+      "example": "I tend to zone out during afternoon lectures if they are too long.",
+      "type": "collocation"
+    },
+    {
+      "word": "Clear-headed",
+      "ipa": "/ˌklɪə ˈhedɪd/",
+      "meaning": "Đầu óc tỉnh táo/sáng suốt",
+      "example": "I feel much more clear-headed after a brisk morning walk.",
+      "type": "collocation"
+    },
+    {
+      "word": "Prioritize",
+      "ipa": "/praɪˈɒrətaɪz/",
+      "meaning": "Ưu tiên",
+      "example": "I prioritize my most difficult modules for the 9 AM slot.",
+      "type": "collocation"
+    },
+    {
+      "word": "Vibrant",
+      "ipa": "/ˈvaɪbrənt/",
+      "meaning": "Tràn đầy sức sống/năng lượng",
+      "example": "I feel more vibrant and ready to learn in the late afternoon.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

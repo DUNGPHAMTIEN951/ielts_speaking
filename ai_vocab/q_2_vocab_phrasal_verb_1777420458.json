@@ -1,0 +1,76 @@
+{
+  "id": "q_2",
+  "vocab": [
+    {
+      "word": "tinker with",
+      "ipa": "/ˈtɪŋkə(r) wɪð/",
+      "meaning": "mày mò, sửa chữa vặt (để tìm hiểu hoặc cải thiện)",
+      "example": "I’ve loved to tinker with old watches since I was ten, and that curiosity has stayed with me ever since.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wile away",
+      "ipa": "/waɪl əˈweɪ/",
+      "meaning": "giết thời gian một cách thư thả, dễ chịu",
+      "example": "In my childhood, I would often wile away my Sunday afternoons sketching characters from my favorite comic books.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ phát hiện ra",
+      "example": "I stumbled upon a collection of vintage coins in my attic as a kid, and it ignited a lifelong passion for numismatics.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spark off",
+      "ipa": "/spɑːk ɒf/",
+      "meaning": "khơi mào, làm bùng lên (một sự hứng thú)",
+      "example": "A school trip to the local observatory sparked off my fascination with astronomy, which is still my go-to hobby.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "go back to",
+      "ipa": "/ɡəʊ bæk tuː/",
+      "meaning": "có nguồn gốc từ, bắt đầu từ (thời điểm trong quá khứ)",
+      "example": "My interest in traditional woodworking actually goes back to the time I helped my grandfather in his shed.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up on",
+      "ipa": "/pɪk ʌp ɒn/",
+      "meaning": "bắt đầu nhận ra hoặc quan tâm đến điều gì đó",
+      "example": "I picked up on the subtle techniques of photography by watching my father, and I’ve been obsessed with it ever since.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "loại bỏ (âm thanh, sự xao nhãng) để tập trung",
+      "example": "When I play the piano, I can block out the entire world, a habit I developed back in my early school days.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep track of",
+      "ipa": "/kiːp træk əv/",
+      "meaning": "theo dõi, ghi chép lại sự thay đổi/phát triển",
+      "example": "I started to keep track of rare bird sightings in a small journal when I was eight, and I still do it today.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pour into",
+      "ipa": "/pɔː(r) ˈɪntuː/",
+      "meaning": "đổ hết (tâm huyết, thời gian) vào việc gì",
+      "example": "The amount of effort I pour into model building today is the same as the passion I had when I was a toddler.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw on",
+      "ipa": "/drɔː ɒn/",
+      "meaning": "tận dụng, sử dụng (kỹ năng/kinh nghiệm tích lũy lâu nay)",
+      "example": "Even now, I often draw on the basic coding skills I first experimented with on our old family computer.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

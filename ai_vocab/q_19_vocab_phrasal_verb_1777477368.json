@@ -1,0 +1,76 @@
+{
+  "id": "q_19",
+  "vocab": [
+    {
+      "word": "dabble in",
+      "ipa": "/ˈdæbl ɪn/",
+      "meaning": "học thử/làm thử một cách không chuyên sâu (theo sở thích)",
+      "example": "I used to dabble in oil painting during my summer breaks, though I never progressed beyond the basics.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw on",
+      "ipa": "/drɔː ɒn/",
+      "meaning": "tận dụng/dựa vào (trí tưởng tượng hoặc kinh nghiệm) để làm gì đó",
+      "example": "As a kid, I would often draw on my favorite fairy tales for inspiration when I had a blank canvas.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "touch up",
+      "ipa": "/tʌtʃ ʌp/",
+      "meaning": "chỉnh sửa, tô điểm thêm một chút để hoàn thiện (bức tranh)",
+      "example": "My art teacher always reminded me to touch up the highlights in my sketches to make them look more three-dimensional.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, dễ nhận thấy",
+      "example": "I liked using fluorescent markers because they made my drawings stand out from the rest of the class.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm tôn lên/làm lộ rõ một đặc điểm nào đó",
+      "example": "Learning how to use charcoal really helped bring out the dramatic shadows in my portrait work.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get into",
+      "ipa": "/ɡet ˈɪntuː/",
+      "meaning": "bắt đầu trở nên hứng thú hoặc tham gia vào một hoạt động",
+      "example": "It was actually my grandmother who encouraged me to get into sketching when I was about seven years old.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep at",
+      "ipa": "/kiːp æt/",
+      "meaning": "tiếp tục kiên trì làm gì đó dù khó khăn",
+      "example": "I found perspective drawing quite tough, but my parents urged me to keep at it until I got the hang of it.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃəʊ ɒf/",
+      "meaning": "khoe ra (tài năng hoặc tác phẩm)",
+      "example": "I used to love showing off my latest watercolor paintings to my relatives whenever they came to visit.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "come across",
+      "ipa": "/kʌm əˈkrɒs/",
+      "meaning": "tình cờ thấy/tìm thấy (dụng cụ hoặc cảm hứng)",
+      "example": "While cleaning the attic, I recently came across some old sketches I did when I was in kindergarten.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toy with",
+      "ipa": "/tɔɪ wɪð/",
+      "meaning": "cân nhắc/thử nghiệm một ý tưởng (thường là về nghệ thuật)",
+      "example": "I used to toy with the idea of becoming a professional illustrator because I enjoyed drawing so much as a child.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

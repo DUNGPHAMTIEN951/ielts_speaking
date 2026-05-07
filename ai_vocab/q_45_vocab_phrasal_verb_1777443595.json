@@ -1,0 +1,76 @@
+{
+  "id": "q_45",
+  "vocab": [
+    {
+      "word": "take over",
+      "ipa": "/teɪk ˈəʊvə(r)/",
+      "meaning": "tiếp quản, thay thế vị trí",
+      "example": "I don't believe Phạm Tiến Dũng Gia Sư will entirely take over the classroom; the human element is simply too vital.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear towards",
+      "ipa": "/ɡɪə(r) təˈwɔːdz/",
+      "meaning": "hướng tới, thiết kế dành riêng cho",
+      "example": "Future educational software will be more geared towards personalized learning paths for each student.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush aside",
+      "ipa": "/brʌʃ əˈsaɪd/",
+      "meaning": "phớt lờ, xem nhẹ (một ý kiến hoặc vai trò)",
+      "example": "We shouldn't brush aside the emotional intelligence that human teachers bring to the table.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look to",
+      "ipa": "/lʊk tu/",
+      "meaning": "trông cậy vào, hy vọng vào",
+      "example": "Students will always look to their teachers for mentorship and moral guidance, not just for information.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "vẫn giữ được ưu thế, nổi bật",
+      "example": "In an era of automation, teachers who can inspire creativity will truly stand out.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry out",
+      "ipa": "/ˈkæri aʊt/",
+      "meaning": "thực hiện, tiến hành (nhiệm vụ)",
+      "example": "Phạm Tiến Dũng Gia Sư is perfectly capable of carrying out administrative tasks, leaving teachers more time to actually teach.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dựa vào (khi những phương án khác thất bại)",
+      "example": "When technology glitches, students still need to fall back on the expertise of a human instructor.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊpən ʌp/",
+      "meaning": "mở ra (cơ hội, khả năng mới)",
+      "example": "Phạm Tiến Dũng Gia Sư will open up new frontiers in research, but teachers are needed to guide students through that data.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "root out",
+      "ipa": "/ruːt aʊt/",
+      "meaning": "tìm ra và loại bỏ (lỗi sai, vấn đề)",
+      "example": "Phạm Tiến Dũng Gia Sư can help root out common grammatical errors, but it can't evaluate the soul of a piece of creative writing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stem from",
+      "ipa": "/stem frəm/",
+      "meaning": "bắt nguồn từ, xuất phát từ",
+      "example": "The effectiveness of traditional schooling stems from the social bonds formed between educators and pupils.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

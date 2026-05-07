@@ -1,0 +1,52 @@
+{
+  "id": "q_10",
+  "topic": "Arts and Drawing",
+  "q": "Do you like art?",
+  "examiner_note": "Nói về sở thích cá nhân và cách nghệ thuật ảnh hưởng đến bạn. Sử dụng 'expressive medium', 'evoke emotions', 'aesthetic appreciation'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I do. I find art to be a great way to express oneself and convey emotions and ideas. I particularly enjoy paintings and sculptures, and I try to visit art museums whenever I can. It's very relaxing to look at beautiful things.",
+      "note": "Trả lời mạch lạc, sử dụng từ vựng ổn (express oneself, convey, sculptures)."
+    },
+    "band8": {
+      "text": "Definitely. I’ve always been drawn to art as an expressive medium. Whether it’s a classical painting or a modern installation, I appreciate the creativity and vision behind the work. It has a unique ability to evoke emotions and broaden one’s perspective.",
+      "note": "Sử dụng từ vựng tự nhiên (drawn to, expressive medium, installation, evoke, broaden perspective)."
+    },
+    "band9": {
+      "text": "I’m a fervent admirer of the arts in all their forms. To me, art is the ultimate manifestation of human creativity and a vital tool for social commentary. I find immense satisfaction in exploring the aesthetic and intellectual depths of a well-crafted piece, as it often challenges my preconceptions and enriches my worldview.",
+      "note": "Sử dụng từ vựng học thuật và triết lý (fervent, manifestation, social commentary, aesthetic, preconceptions, enriches worldview)."
+    }
+  },
+  "v": [
+    {
+      "word": "installation",
+      "meaning": "tác phẩm sắp đặt",
+      "ipa": "/ˌɪnstəˈleɪʃn/",
+      "example": "We saw a fascinating modern art installation."
+    },
+    {
+      "word": "manifestation",
+      "meaning": "biểu hiện",
+      "ipa": "/ˌmænɪfeˈsteɪʃn/",
+      "example": "The disease is a manifestation of stress."
+    },
+    {
+      "word": "preconception",
+      "meaning": "định kiến/ý niệm có sẵn",
+      "ipa": "/ˌpriːkənˈsepʃn/",
+      "example": "We must challenge our preconceptions about other cultures."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "fervent",
+      "meaning": "nồng nhiệt/tha thiết",
+      "ipa": "/ˈfɜːrvənt/",
+      "example": "He is a fervent supporter of the environmental movement."
+    }
+  ],
+  "similar_questions": [
+    "What kind of art do you like?",
+    "Is art popular in your country?"
+  ]
+}

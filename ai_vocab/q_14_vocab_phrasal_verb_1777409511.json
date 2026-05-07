@@ -1,0 +1,76 @@
+{
+  "id": "q_14",
+  "vocab": [
+    {
+      "word": "dabble in",
+      "ipa": "/ˈdæbl ɪn/",
+      "meaning": "học hay làm một việc gì đó chỉ vì thích chứ không quá nghiêm túc (thử sức)",
+      "example": "I've been dabbling in sketching lately just to see if I have any hidden talent.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blow off steam",
+      "ipa": "/bloʊ ɔːf stiːm/",
+      "meaning": "xả hơi, giải tỏa căng thẳng hoặc năng lượng dư thừa",
+      "example": "After a grueling day at work, I find that drawing is a therapeutic way to blow off steam.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "loose oneself in",
+      "ipa": "/luːz wʌnˈself ɪn/",
+      "meaning": "mải mê, đắm chìm hoàn toàn vào điều gì",
+      "example": "I often lose myself in a drawing for hours, completely oblivious to everything happening around me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "meaning": "bắt đầu học một kỹ năng mới một cách tự nhiên/tình cờ",
+      "example": "I actually picked up drawing during the lockdown when I had plenty of free time on my hands.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɑːn/",
+      "meaning": "ôn lại, cải thiện một kỹ năng đã lâu không sử dụng",
+      "example": "I’m planning to brush up on my watercolor techniques because I’ve become a bit rusty.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring out",
+      "ipa": "/brɪŋ aʊt/",
+      "meaning": "làm nổi bật, làm lộ ra (tài năng hoặc cảm xúc)",
+      "example": "Art really helps to bring out my creative side, which I don't usually get to show at my office job.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toy with",
+      "ipa": "/tɔɪ wɪð/",
+      "meaning": "cân nhắc, xem xét một ý tưởng (thường là về nghệ thuật) một cách không quá kỹ lưỡng",
+      "example": "I've been toying with the idea of starting a digital art account on Instagram.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sketch out",
+      "ipa": "/sketʃ aʊt/",
+      "meaning": "phác thảo nhanh những ý tưởng chính",
+      "example": "Whenever I have a sudden burst of inspiration, I quickly sketch out the concept in my notebook.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "nghỉ ngơi, thư giãn sau một thời gian hoạt động mệt mỏi",
+      "example": "Drawing some simple mandalas is my favorite way to wind down before going to bed.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take after",
+      "ipa": "/teɪk ˈæftər/",
+      "meaning": "giống một ai đó trong gia đình (về năng khiếu, ngoại hình)",
+      "example": "I suppose I take after my mother, who is a professional illustrator, so art is in my blood.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_6",
+  "vocab": [
+    {
+      "word": "log on",
+      "ipa": "/lɔːɡ ɒn/",
+      "meaning": "đăng nhập, bắt đầu sử dụng máy tính",
+      "example": "I log on to my desktop every morning to check my emails and get a head start on my work.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hammer away at",
+      "ipa": "/ˈhæmər əˈweɪ æt/",
+      "meaning": "làm việc miệt mài, đánh máy liên tục (thường là với cường độ cao)",
+      "example": "I often spend hours hammering away at my laptop keyboard when a deadline is looming.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bash out",
+      "ipa": "/bæʃ aʊt/",
+      "meaning": "đánh máy/viết nhanh một thứ gì đó (không quá cầu kỳ về hình thức)",
+      "example": "If I'm in a rush, I can bash out a 500-word article on my mechanical keyboard in no time.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep up with",
+      "ipa": "/kiːp ʌp wɪð/",
+      "meaning": "theo kịp (tốc độ gõ hoặc khối lượng công việc)",
+      "example": "I prefer a desktop keyboard because it helps me keep up with the fast-paced nature of my digital job.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "type up",
+      "ipa": "/taɪp ʌp/",
+      "meaning": "đánh máy lại hoàn chỉnh (từ bản thảo hoặc ghi chép)",
+      "example": "After attending a lecture, I usually sit down at my laptop to type up my handwritten notes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wear down",
+      "ipa": "/wer daʊn/",
+      "meaning": "làm mòn, làm hỏng dần (do sử dụng quá nhiều)",
+      "example": "I type so much that the letters on my laptop keys have actually started to wear down.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hook up to",
+      "ipa": "/hʊk ʌp tuː/",
+      "meaning": "kết nối thiết bị này với thiết bị khác",
+      "example": "I often hook my laptop up to a larger monitor and an external keyboard for a more ergonomic setup.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "jot down",
+      "ipa": "/dʒɒt daʊn/",
+      "meaning": "ghi chú nhanh",
+      "example": "Even though I have a desktop, I find my laptop more convenient for jotting down ideas during meetings.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "scroll through",
+      "ipa": "/skrəʊl θruː/",
+      "meaning": "cuộn chuột/lướt qua (thông tin trên màn hình)",
+      "example": "I spend a significant portion of my day typing and scrolling through research papers for my thesis.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "switch over",
+      "ipa": "/swɪtʃ ˈəʊvər/",
+      "meaning": "chuyển đổi qua lại (giữa các thiết bị)",
+      "example": "I usually start on my desktop, but I switch over to my laptop if I want to work from a local cafe.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

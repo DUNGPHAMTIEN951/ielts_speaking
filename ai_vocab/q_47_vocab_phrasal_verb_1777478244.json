@@ -1,0 +1,76 @@
+{
+  "id": "q_47",
+  "vocab": [
+    {
+      "word": "bounce off",
+      "ipa": "/baʊns ɒf/",
+      "meaning": "trao đổi ý tưởng với người khác để kiểm tra hoặc phát triển chúng",
+      "example": "I enjoy studying in groups because I can bounce my theories off my classmates to see if they actually hold water.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bone up on",
+      "ipa": "/bəʊn ʌp ɒn/",
+      "meaning": "học tập chăm chỉ hoặc ôn tập kỹ lưỡng về một chủ đề trong thời gian ngắn",
+      "example": "If I have to bone up on complex organic chemistry equations, I much prefer the silence of my own room.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌk.əl daʊn/",
+      "meaning": "bắt đầu làm việc hoặc học tập một cách nghiêm túc và quyết tâm",
+      "example": "When exams are looming, I find it easier to knuckle down by myself without the social distractions of a study group.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "hấp thụ hoặc tiếp thu thông tin/kiến thức một cách nhanh chóng",
+      "example": "Being around high-achieving peers allows me to soak up new problem-solving techniques that I wouldn't have discovered alone.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "muddle through",
+      "ipa": "/ˈmʌd.əl θruː/",
+      "meaning": "vừa làm vừa mò mẫm để vượt qua khó khăn dù thiếu kỹ năng hoặc sự chuẩn bị",
+      "example": "When I study alone, I sometimes just muddle through difficult chapters instead of asking for help, which isn't very efficient.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tide over",
+      "ipa": "/taɪd ˈəʊ.vər/",
+      "meaning": "giúp ai đó vượt qua một giai đoạn khó khăn (về mặt tinh thần hoặc kiến thức)",
+      "example": "Having a study partner really helps to tide me over when I'm feeling overwhelmed by the sheer volume of the syllabus.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gloss over",
+      "ipa": "/ɡlɒs ˈəʊ.vər/",
+      "meaning": "đọc lướt qua hoặc bỏ qua những chi tiết quan trọng một cách hời hợt",
+      "example": "In a group, others often catch the nuances that I might accidentally gloss over when studying in isolation.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drill into",
+      "ipa": "/drɪl ˈɪn.tuː/",
+      "meaning": "nhồi nhét hoặc lặp đi lặp lại để ghi nhớ kiến thức vào đầu",
+      "example": "I use flashcards to drill vocabulary into my head, a repetitive task that is best done in complete solitude.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up for",
+      "ipa": "/ɡɪər ʌp fɔːr/",
+      "meaning": "chuẩn bị sẵn sàng cho một sự kiện hoặc kỳ thi sắp tới",
+      "example": "We usually meet at a cafe to gear up for our finals, sharing notes and clarifying the most challenging concepts.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "slack off",
+      "ipa": "/slæk ɒf/",
+      "meaning": "làm việc ít đi hoặc thiếu tập trung hơn bình thường",
+      "example": "The main downside of group study is that it’s far too easy to slack off and end up chatting about non-academic topics.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

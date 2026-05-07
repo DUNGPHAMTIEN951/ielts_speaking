@@ -1,0 +1,76 @@
+{
+  "id": "q_35",
+  "vocab": [
+    {
+      "word": "knuckle down",
+      "ipa": "/ˈnʌkl daʊn/",
+      "meaning": "bắt đầu làm việc/học tập một cách nghiêm túc và quyết tâm",
+      "example": "I usually knuckle down to my assignments right after breakfast to make the most of my morning energy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pore over",
+      "ipa": "/pɔː(r) ˈəʊvə(r)/",
+      "meaning": "nghiên cứu kỹ lưỡng, mải mê đọc (tài liệu/sách)",
+      "example": "Every evening, I spend at least two hours poring over academic journals to stay ahead of my coursework.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "dành riêng một khoảng thời gian cố định cho việc gì đó",
+      "example": "I try to block out a four-hour window each afternoon specifically for intensive research and writing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɒf/",
+      "meaning": "mất tập trung, lơ đãng (thường do mệt mỏi khi học quá lâu)",
+      "example": "If I study for more than three hours without a break, I find my mind starts to drift off and productivity drops.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "brush up on",
+      "ipa": "/brʌʃ ʌp ɒn/",
+      "meaning": "ôn lại, trau dồi lại kiến thức đã lâu không dùng",
+      "example": "I dedicate about thirty minutes a day to brush up on my technical vocabulary before my actual lectures begin.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "slog away",
+      "ipa": "/slɒɡ əˈweɪ/",
+      "meaning": "làm việc/học tập cực kỳ vất vả và kiên trì trong thời gian dài",
+      "example": "During exam season, I have to slog away at my desk for nearly ten hours a day just to cover the syllabus.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fit in",
+      "ipa": "/fɪt ɪn/",
+      "meaning": "sắp xếp thời gian để làm việc gì đó (trong một lịch trình bận rộn)",
+      "example": "Even on my busiest days, I always manage to fit in an hour of listening practice during my commute.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig into",
+      "ipa": "/dɪɡ ˈɪntuː/",
+      "meaning": "bắt đầu tìm hiểu sâu, đào sâu vào một vấn đề/chủ đề",
+      "example": "Once I finish my core tasks, I love to dig into some elective reading to broaden my understanding of the subject.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall behind",
+      "ipa": "/fɔːl bɪˈhaɪnd/",
+      "meaning": "bị tụt lại phía sau (không theo kịp tiến độ học tập)",
+      "example": "I commit to a strict daily routine because I'm terrified of falling behind with the massive amount of reading required.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wrap up",
+      "ipa": "/ræp ʌp/",
+      "meaning": "hoàn thành, kết thúc (một buổi học hoặc công việc)",
+      "example": "I usually wrap up my studies around 11 PM with a quick review of everything I’ve learned that day.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

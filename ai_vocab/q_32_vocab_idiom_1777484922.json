@@ -1,0 +1,76 @@
+{
+  "id": "q_32",
+  "vocab": [
+    {
+      "word": "a light-bulb moment",
+      "ipa": "/ə laɪt bʌlb ˈməʊ.mənt/",
+      "meaning": "khoảnh khắc chợt lóe sáng (hiểu ra vấn đề)",
+      "example": "The most rewarding part of my studies is having a light-bulb moment when a complex theory finally clicks.",
+      "type": "idiom"
+    },
+    {
+      "word": "the nuts and bolts",
+      "ipa": "/ðə nʌts ənd bəʊlts/",
+      "meaning": "những chi tiết cơ bản và thiết yếu nhất của một vấn đề",
+      "example": "I find it fascinating to delve into the nuts and bolts of how global financial markets actually operate.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep someone on their toes",
+      "ipa": "/kiːp ˈsʌm.wʌn ɒn ðeər təʊz/",
+      "meaning": "buộc ai đó phải luôn nỗ lực và tập trung cao độ",
+      "example": "The unpredictable nature of experimental physics really keeps me on my toes, which is why I love it.",
+      "type": "idiom"
+    },
+    {
+      "word": "push the boundaries",
+      "ipa": "/pʊʃ ðə ˈbaʊn.dər.iz/",
+      "meaning": "vượt qua giới hạn/phát triển những ý tưởng mới mẻ",
+      "example": "My course encourages us to push the boundaries of traditional design to create something truly innovative.",
+      "type": "idiom"
+    },
+    {
+      "word": "get to grips with",
+      "ipa": "/ɡet tuː ɡrɪps wɪð/",
+      "meaning": "bắt đầu thấu hiểu và giải quyết được một vấn đề khó",
+      "example": "It's incredibly satisfying to finally get to grips with advanced coding languages during our lab sessions.",
+      "type": "idiom"
+    },
+    {
+      "word": "scratch the surface",
+      "ipa": "/skrætʃ ðə ˈsɜː.fɪs/",
+      "meaning": "chỉ mới bắt đầu tìm hiểu phần nổi (còn nhiều thứ sâu xa hơn)",
+      "example": "I realize that in my four years of study, I've only scratched the surface of such a vast field as psychology.",
+      "type": "idiom"
+    },
+    {
+      "word": "by leaps and bounds",
+      "ipa": "/baɪ liːps ənd baʊndz/",
+      "meaning": "tiến bộ rất nhanh, nhảy vọt",
+      "example": "My understanding of legal frameworks has improved by leaps and bounds since I started this internship.",
+      "type": "idiom"
+    },
+    {
+      "word": "think outside the box",
+      "ipa": "/θɪŋk ˌaʊtˈsaɪd ðə bɒks/",
+      "meaning": "tư duy sáng tạo, không theo lối mòn",
+      "example": "The most interesting projects are the ones that force us to think outside the box to find sustainable solutions.",
+      "type": "idiom"
+    },
+    {
+      "word": "a world of difference",
+      "ipa": "/ə wɜːld əv ˈdɪf.ər.əns/",
+      "meaning": "một sự khác biệt rất lớn",
+      "example": "There is a world of difference between reading about a surgical procedure and actually seeing it in the theater.",
+      "type": "idiom"
+    },
+    {
+      "word": "part and parcel",
+      "ipa": "/pɑːt ənd ˈpɑː.səl/",
+      "meaning": "phần thiết yếu, không thể tách rời",
+      "example": "Rigorous research is part and parcel of my degree, and it's definitely the aspect I find most intriguing.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

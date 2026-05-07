@@ -1,0 +1,76 @@
+{
+  "id": "q_11",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/soʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không gian, cảnh đẹp)",
+      "example": "I love sitting by the window to soak up the stunning views of the countryside as we drive past.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng ngoạn, quan sát kỹ để cảm nhận vẻ đẹp",
+      "example": "Travelling by bus gives me a great chance to take in the local scenery and see how the landscape changes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gaze out",
+      "ipa": "/ɡeɪz aʊt/",
+      "meaning": "nhìn đăm chiêu, ngắm nhìn ra bên ngoài",
+      "example": "I often find myself gazing out the window, completely lost in the beauty of the rolling hills.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɔːf/",
+      "meaning": "thả hồn theo những suy nghĩ, hoặc thiu thiu ngủ",
+      "example": "Sometimes I just drift off while looking at the horizon, which makes long journeys feel much shorter.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "watch out for",
+      "ipa": "/wɒtʃ aʊt fɔːr/",
+      "meaning": "cố gắng quan sát hoặc tìm kiếm điều gì đó",
+      "example": "When we pass through the national park, I always watch out for exotic wildlife or hidden waterfalls.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dot around",
+      "ipa": "/dɒt əˈraʊnd/",
+      "meaning": "rải rác, xuất hiện khắp nơi",
+      "example": "I enjoy looking at the small, quaint cottages dotted around the mountainside during my car trips.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass by",
+      "ipa": "/pæs baɪ/",
+      "meaning": "trôi qua, đi ngang qua",
+      "example": "It's fascinating to see the bustling towns pass by while I'm comfortably seated in my car.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "che khuất tầm nhìn hoặc loại bỏ tiếng ồn",
+      "example": "I hate it when large trucks block out the view, preventing me from seeing the ocean.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "check out",
+      "ipa": "/tʃek aʊt/",
+      "meaning": "quan sát, xem xét điều gì đó thú vị",
+      "example": "I always check out the unique architecture of the buildings when the bus enters a new city.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get away from",
+      "ipa": "/ɡet əˈweɪ frəm/",
+      "meaning": "thoát khỏi (áp lực, cuộc sống đô thị)",
+      "example": "Looking at the greenery helps me get away from the stress of my daily routine for a while.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

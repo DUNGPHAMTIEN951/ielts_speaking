@@ -1,0 +1,76 @@
+{
+  "id": "q_4",
+  "vocab": [
+    {
+      "word": "a one-man show",
+      "ipa": "/ə wʌn mæn ʃəʊ/",
+      "meaning": "màn trình diễn của một người duy nhất (thể hiện sự đơn độc trong môn cá nhân)",
+      "example": "In sports like archery or golf, it’s essentially a one-man show where your success depends entirely on your own focus.",
+      "type": "idiom"
+    },
+    {
+      "word": "pull out all the stops",
+      "ipa": "/pʊl aʊt ɔːl ðə stɒps/",
+      "meaning": "nỗ lực hết sức mình, dùng mọi nguồn lực",
+      "example": "A team needs to pull out all the stops and coordinate perfectly to break down a strong defense.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the limelight",
+      "ipa": "/ɪn ðə ˈlaɪm.laɪt/",
+      "meaning": "được dư luận chú ý, là tâm điểm của sự chú ý",
+      "example": "Solo athletes are constantly in the limelight, meaning they receive all the praise but also all the criticism.",
+      "type": "idiom"
+    },
+    {
+      "word": "get your head in the game",
+      "ipa": "/ɡet jɔːr hed ɪn ðə ɡeɪm/",
+      "meaning": "tập trung hoàn toàn tinh thần vào trận đấu",
+      "example": "In individual sports, if you fail to get your head in the game for even a second, the match can be lost instantly.",
+      "type": "idiom"
+    },
+    {
+      "word": "a cog in the machine",
+      "ipa": "/ə kɒɡ ɪn ðə məˈʃiːn/",
+      "meaning": "một mắt xích nhỏ trong một bộ máy lớn (đóng góp thầm lặng trong đội)",
+      "example": "In a football squad, you might just be a cog in the machine, but your specific role is vital for the overall strategy.",
+      "type": "idiom"
+    },
+    {
+      "word": "the luck of the draw",
+      "ipa": "/ðə lʌk əv ðə drɔː/",
+      "meaning": "vận may rủi (thường nói về việc bốc thăm đối thủ trong đấu loại cá nhân)",
+      "example": "In individual tournaments, your progress often depends on the luck of the draw and who you face in the first round.",
+      "type": "idiom"
+    },
+    {
+      "word": "give it your best shot",
+      "ipa": "/ɡɪv ɪt jɔːr best ʃɒt/",
+      "meaning": "cố gắng hết sức mình",
+      "example": "Whether you are part of a relay team or running a marathon alone, the goal is always to give it your best shot.",
+      "type": "idiom"
+    },
+    {
+      "word": "be in the same boat",
+      "ipa": "/bi ɪn ðə seɪm bəʊt/",
+      "meaning": "cùng chung hội cùng thuyền (chia sẻ khó khăn cùng đồng đội)",
+      "example": "Teammates are always in the same boat, which fosters a sense of camaraderie that individual athletes might miss out on.",
+      "type": "idiom"
+    },
+    {
+      "word": "call the shots",
+      "ipa": "/kɔːl ðə ʃɒts/",
+      "meaning": "chỉ huy, đưa ra những quyết định quan trọng",
+      "example": "In individual sports, you are the one who calls the shots, whereas in team sports, you usually follow the captain's lead.",
+      "type": "idiom"
+    },
+    {
+      "word": "win by a nose",
+      "ipa": "/wɪn baɪ ə nəʊz/",
+      "meaning": "thắng trong gang tấc (thường dùng trong các môn đua cá nhân)",
+      "example": "In 100m sprints, the competition is so fierce that athletes often win by a nose, requiring absolute individual precision.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

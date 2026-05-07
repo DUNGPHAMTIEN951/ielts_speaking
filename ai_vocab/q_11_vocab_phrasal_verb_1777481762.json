@@ -1,0 +1,76 @@
+{
+  "id": "q_11",
+  "vocab": [
+    {
+      "word": "poring over",
+      "ipa": "/pɔːrɪŋ ˈəʊvər/",
+      "meaning": "nghiên cứu, ngắm nghía một cách say mê và kỹ lưỡng",
+      "example": "I can spend hours poring over the brushstrokes of a single impressionist painting to understand the artist's technique.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "blown away",
+      "ipa": "/bləʊn əˈweɪ/",
+      "meaning": "hoàn toàn bị ấn tượng hoặc kinh ngạc",
+      "example": "I was absolutely blown away by the sheer scale of the installations in the contemporary art wing.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dwell on",
+      "ipa": "/dwel ɒn/",
+      "meaning": "dành thời gian dài để suy nghĩ hoặc nhìn chằm chằm vào cái gì đó",
+      "example": "I tend to dwell on the more somber pieces because they evoke a very powerful emotional response in me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pop into",
+      "ipa": "/pɒp ˈɪntuː/",
+      "meaning": "ghé thăm một nơi nào đó nhanh chóng/ngẫu hứng",
+      "example": "Whenever I’m in the city center, I like to pop into a small private gallery just to see if there's anything new.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw in",
+      "ipa": "/drɔː ɪn/",
+      "meaning": "thu hút hoặc lôi cuốn ai đó vào",
+      "example": "There is a specific quality to the lighting in this exhibit that really draws the viewers in and makes them feel part of the scene.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "meaning": "nhận ra hoặc nắm bắt được (một cảm xúc, một chi tiết)",
+      "example": "You can really pick up on the artist's sense of isolation when you look at the cold color palette they used.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "reflect on",
+      "ipa": "/rɪˈflekt ɒn/",
+      "meaning": "suy ngẫm sâu sắc về điều gì đó",
+      "example": "Visiting an art gallery provides a rare opportunity to reflect on historical events from a more personal perspective.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand back",
+      "ipa": "/stænd bæk/",
+      "meaning": "lùi lại một khoảng để quan sát tổng thể",
+      "example": "Sometimes you need to stand back to appreciate the full impact of a mural rather than getting lost in the details.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set apart",
+      "ipa": "/set əˈpɑːrt/",
+      "meaning": "làm cho cái gì đó trở nên khác biệt và đặc biệt hơn những cái khác",
+      "example": "The unconventional use of materials is what really sets this sculptor apart from her contemporaries.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pass for",
+      "ipa": "/pæs fɔːr/",
+      "meaning": "được coi là hoặc có vẻ như là (thường dùng để nhận xét về phong cách)",
+      "example": "Some modern pieces are so minimalist that they could almost pass for everyday objects if they weren't in a gallery.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

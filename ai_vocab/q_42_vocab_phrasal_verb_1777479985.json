@@ -1,0 +1,76 @@
+{
+  "id": "q_42",
+  "vocab": [
+    {
+      "word": "shut out",
+      "ipa": "/ʃʌt aʊt/",
+      "meaning": "ngăn chặn (âm thanh, tiếng ồn), tách biệt khỏi",
+      "example": "I prefer secluded libraries because they allow me to shut out the hustle and bustle of the city.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (không khí, năng lượng)",
+      "example": "On a Saturday night, I sometimes enjoy going to a lively square just to soak up the vibrant atmosphere.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "wind down",
+      "ipa": "/waɪnd daʊn/",
+      "meaning": "nghỉ ngơi, thư giãn sau một thời gian căng thẳng",
+      "example": "A quiet walk by the lake is the perfect way for me to wind down after a hectic work week.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get away from it all",
+      "ipa": "/ɡet əˈweɪ frəm ɪt ɔːl/",
+      "meaning": "thoát khỏi mọi áp lực, ồn ào của cuộc sống thường nhật",
+      "example": "I’m quite keen on hiking in the mountains to get away from it all and clear my head.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "chặn (tiếng ồn hoặc ánh sáng) để tập trung",
+      "example": "It is much easier to block out distractions in a tranquil park than in a crowded shopping mall.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "hide away",
+      "ipa": "/haɪd əˈweɪ/",
+      "meaning": "ẩn mình, trốn tránh ở một nơi vắng vẻ",
+      "example": "Sometimes I just want to hide away in a cozy little cafe tucked in a quiet alleyway.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "head for",
+      "ipa": "/hed fɔːr/",
+      "meaning": "đi thẳng tới một nơi nào đó",
+      "example": "If I’m feeling energetic, I’ll head for a bustling night market to explore the local street food.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "turn down",
+      "ipa": "/tɜːn daʊn/",
+      "meaning": "giảm (âm lượng, cường độ) - thường dùng để nói về việc ghét tiếng ồn",
+      "example": "I tend to avoid noisy clubs because I always find myself wishing they would turn down the music.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "chill out",
+      "ipa": "/tʃɪl aʊt/",
+      "meaning": "thư giãn, xả hơi (thường trong bối cảnh thoải mái)",
+      "example": "My idea of a perfect Sunday is to chill out in a peaceful garden with a good book.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌm.bəl əˈpɒn/",
+      "meaning": "tình cờ tìm thấy (một nơi thú vị)",
+      "example": "I love wandering around quiet neighborhoods because you often stumble upon charming, hidden gems.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

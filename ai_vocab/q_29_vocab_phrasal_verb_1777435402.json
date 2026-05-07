@@ -1,0 +1,76 @@
+{
+  "id": "q_29",
+  "vocab": [
+    {
+      "word": "slack off",
+      "ipa": "/slæk ɒf/",
+      "meaning": "làm việc lười biếng, xao nhãng",
+      "example": "In my university, the competition is so fierce that you simply cannot afford to slack off during the semester.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tide someone over",
+      "ipa": "/taɪd ˈsʌm.wʌn ˈəʊ.vər/",
+      "meaning": "giúp ai đó xoay sở trong lúc khó khăn (thường là tiền bạc)",
+      "example": "I've taken a part-time job as a tutor to tide me over while I'm finishing my final year of study.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "measure up to",
+      "ipa": "/ˈmeʒ.ər ʌp tuː/",
+      "meaning": "đạt tới trình độ hoặc kỳ vọng mong muốn",
+      "example": "As a junior developer, I often worry if my coding skills will measure up to the senior team's standards.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fill in for",
+      "ipa": "/fɪl ɪn fɔːr/",
+      "meaning": "làm thay, thay ca cho ai đó",
+      "example": "In my current workplace, I often have to fill in for colleagues when they are out on sick leave.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "ease into",
+      "ipa": "/iːz ˈɪn.tuː/",
+      "meaning": "dần dần làm quen, bắt đầu một cách từ từ",
+      "example": "It took me a few months to ease into the corporate culture after spending four years as a student.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pencil in",
+      "ipa": "/ˈpen.səl ɪn/",
+      "meaning": "sắp xếp một cuộc hẹn hoặc kế hoạch (có thể thay đổi)",
+      "example": "My manager asked me to pencil in a meeting for next Monday to discuss the upcoming project deliverables.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "plough through",
+      "ipa": "/plaʊ θruː/",
+      "meaning": "miệt mài hoàn thành một đống công việc hoặc tài liệu tẻ nhạt",
+      "example": "I spent the entire weekend ploughing through academic journals to find references for my thesis.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take over",
+      "ipa": "/teɪk ˈəʊ.vər/",
+      "meaning": "tiếp quản, đảm nhận lại vị trí của người khác",
+      "example": "I'm currently being trained so that I can take over the department manager's responsibilities when she retires.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "burn out",
+      "ipa": "/bɜːn aʊt/",
+      "meaning": "kiệt sức hoàn toàn vì làm việc quá tải",
+      "example": "The workload at my current firm is quite intense, and many employees end up burning out within a year.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "get on with",
+      "ipa": "/ɡet ɒn wɪð/",
+      "meaning": "tiếp tục thực hiện một công việc",
+      "example": "After a brief coffee break, I usually find it easier to get on with my research papers.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,37 @@
+{
+  "q": "Describe a famous person you would like to meet",
+  "cue_card": [
+    "Who they are",
+    "Why they are famous",
+    "What you would do if you met them",
+    "And explain why you would like to meet them"
+  ],
+  "examiner_note": "Tập trung vào sự ngưỡng mộ đối với tài năng hoặc đóng góp của họ.",
+  "samples": {
+    "band7": "I'd love to meet Elon Musk. He's famous for his companies like Tesla and SpaceX. If I met him, I'd ask him about his vision for the future of space travel. I want to meet him because he's very innovative and isn't afraid to take big risks to change the world.",
+    "band8": "The person I'm most eager to meet is Elon Musk, the visionary entrepreneur behind SpaceX and Tesla. He's internationally renowned for revolutionizing multiple industries. If given the chance, I'd love to pick his brain about the challenges of multi-planetary life. I admire his audacity and his relentless pursuit of goals that others might consider impossible. Meeting him would be incredibly inspiring for my own career aspirations.",
+    "band9": "Without a doubt, the individual I'd most like to encounter is Elon Musk. He is a truly transformative figure, celebrated for his pioneering work in sustainable energy and aerospace. If our paths were to cross, I'd be keen to discuss his philosophy on risk-taking and innovation. What draws me to him is his unprecedented ability to disrupt traditional sectors and his unwavering commitment to long-term technological progress. He embodies the spirit of curiosity and determination that I deeply respect."
+  },
+  "v": [
+    {
+      "word": "visionary",
+      "ipa": "/ˈvɪʒənəri/",
+      "meaning": "người có tầm nhìn",
+      "example": "He is a visionary leader."
+    },
+    {
+      "word": "audacity",
+      "ipa": "/ɔːˈdæsəti/",
+      "meaning": "sự táo bạo",
+      "example": "I admire his audacity in business."
+    },
+    {
+      "word": "unwavering commitment",
+      "ipa": "/ʌnˈweɪvərɪŋ kəˈmɪtmənt/",
+      "meaning": "cam kết kiên định",
+      "example": "She has an unwavering commitment to her work."
+    }
+  ],
+  "topic": "Describe a famous person you would like to meet",
+  "id": "p2_q33"
+}

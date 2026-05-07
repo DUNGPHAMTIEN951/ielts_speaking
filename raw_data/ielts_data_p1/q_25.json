@@ -1,0 +1,72 @@
+{
+  "id": "q_25",
+  "topic": "The area you live in",
+  "q": "Do you like the area where you live?",
+  "examiner_note": "Đây là câu hỏi về môi trường sống (Living environment). Bạn nên nêu ra các ưu điểm (pros) và nhược điểm (cons) của khu vực mình sống. Hãy đề cập đến các tiện ích xung quanh (amenities), sự thuận tiện (convenience), và bầu không khí (atmosphere). Sử dụng các cụm từ như 'vibrant neighborhood', 'within walking distance', 'commuter-friendly' sẽ làm câu trả lời ấn tượng hơn.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I really like my neighborhood. It's quite peaceful and safe, and there are many parks where I can go for a walk. Also, it's very convenient because there are several supermarkets and cafes nearby, so I don't have to travel far for my daily needs.",
+      "note": "Trả lời trực tiếp, nêu được lý do tại sao thích (peaceful, safe, convenient). Sử dụng từ vựng tự nhiên."
+    },
+    "band8": {
+      "text": "Overall, I’m very fond of the area I reside in. It’s a vibrant and friendly neighborhood with a great sense of community. One of the best things is that most amenities are within walking distance, which makes my life much easier. However, the traffic congestion during peak hours can be a bit frustrating sometimes.",
+      "note": "Sử dụng từ vựng nâng cao (reside in, vibrant, sense of community, amenities, within walking distance, traffic congestion, peak hours). Cách dẫn đạt mạch lạc."
+    },
+    "band9": {
+      "text": "Absolutely, I find my local vicinity to be exceptionally charming and well-appointed. It strikes a perfect balance between urban convenience and a tranquil residential atmosphere. I particularly appreciate the architectural diversity and the abundance of green spaces, which contribute to a high quality of life. Furthermore, being in such a central, well-connected location significantly reduces my daily commute times. It’s truly an ideal place to call home.",
+      "note": "Sử dụng vốn từ vựng cực kỳ phong phú và học thuật (vicinity, well-appointed, strikes a balance, architectural diversity, abundance, well-connected, significantly). Cách lập luận vô cùng tinh tế và thuyết phục."
+    }
+  },
+  "v": [
+    { "word": "local vicinity", "meaning": "vùng lân cận/khu phố xung quanh", "ipa": "/ˈloʊkl vəˈsɪnəti/", "example": "There are several excellent restaurants in the local vicinity." },
+    { "word": "well-appointed", "meaning": "được trang bị tốt/đầy đủ tiện nghi", "ipa": "/ˌwel əˈpɔɪntɪd/", "example": "The apartment is well-appointed with modern appliances and furniture." },
+    { "word": "strike a balance", "meaning": "tìm thấy sự cân bằng", "ipa": "/straɪk ə ˈbæləns/", "example": "It's hard to strike a balance between work and family life." },
+    { "word": "tranquil residential atmosphere", "meaning": "bầu không khí khu dân cư yên tĩnh", "ipa": "/ˈtræŋkwɪl ˌrezɪˈdenʃl ˈætməsfɪr/", "example": "I love the tranquil residential atmosphere of my neighborhood at night." },
+    { "word": "architectural diversity", "meaning": "sự đa dạng về kiến trúc", "ipa": "/ˌɑːrkɪˈtektʃərəl daɪˈvɜːrsəti/", "example": "The city is famous for its architectural diversity, from gothic to modern." },
+    { "word": "abundance of green spaces", "meaning": "sự phong phú của các không gian xanh", "ipa": "/əˈbʌndəns əv ɡriːn ˈspeɪsɪz/", "example": "The new town was designed with an abundance of green spaces for residents." },
+    { "word": "quality of life", "meaning": "chất lượng cuộc sống", "ipa": "/ˈkwɑːləti əv laɪf/", "example": "Access to clean water and healthcare is essential for a good quality of life." },
+    { "word": "well-connected", "meaning": "kết nối tốt (giao thông)", "ipa": "/ˌwel kəˈnektɪd/", "example": "The area is well-connected to the city center by several bus lines." },
+    { "word": "significantly", "meaning": "đáng kể/một cách có ý nghĩa", "ipa": "/sɪɡˈnɪfɪkəntli/", "example": "The price of fuel has increased significantly over the last month." },
+    { "word": "vibrant neighborhood", "meaning": "khu phố sôi động/đầy sức sống", "ipa": "/ˈvaɪbrənt ˈneɪbərhʊd/", "example": "She moved to a vibrant neighborhood full of artists and musicians." },
+    { "word": "within walking distance", "meaning": "trong khoảng cách đi bộ được", "ipa": "/wɪðˈɪn ˈwɔːkɪŋ ˈdɪstəns/", "example": "The elementary school is within walking distance of our house." },
+    { "word": "frustrating", "meaning": "gây bực bội/thất vọng", "ipa": "/ˈfrʌstreɪtɪŋ/", "example": "It's so frustrating when your computer crashes and you lose work." },
+    { "word": "peak hours", "meaning": "giờ cao điểm", "ipa": "/piːk ˈaʊərz/", "example": "The public transport is usually very crowded during peak hours." },
+    { "word": "amenities", "meaning": "tiện ích", "ipa": "/əˈmenətiz/", "example": "The hotel has excellent amenities, including a 24-hour gym." },
+    { "word": "sense of community", "meaning": "ý thức cộng đồng", "ipa": "/sens əv kəˈmjuːnəti/", "example": "We have a strong sense of community in our small village." },
+    { "word": "reside in", "meaning": "cư trú/sinh sống ở", "ipa": "/rɪˈzaɪd ɪn/", "example": "The royal family resides in the palace during the winter months." },
+    { "word": "commuter-friendly", "meaning": "thuận tiện cho việc đi lại", "ipa": "/kəˈmjuːtər ˈfrendli/", "example": "The new subway line makes the suburb much more commuter-friendly." },
+    { "word": "low crime rate", "meaning": "tỉ lệ tội phạm thấp", "ipa": "/loʊ kraɪm reɪt/", "example": "Families with children often look for areas with a low crime rate." },
+    { "word": "affordability", "meaning": "khả năng chi trả/giá cả phải chăng", "ipa": "/əˌfɔːrdəˈbɪləti/", "example": "Housing affordability is a major concern for young people today." },
+    { "word": "gentrification", "meaning": "sự cải thiện khu phố (đi kèm giá cả tăng)", "ipa": "/ˌdʒentrɪfɪˈkeɪʃn/", "example": "Gentrification has transformed the old harbor area into a luxury district." },
+    { "word": "public transport network", "meaning": "mạng lưới giao thông công cộng", "ipa": "/ˈpʌblɪk ˈtrænspɔːrt ˈnetwɜːrk/", "example": "London has an extensive and reliable public transport network." },
+    { "word": "local supermarket", "meaning": "siêu thị địa phương", "ipa": "/ˈloʊkl ˈsuːpərmɑːrkɪt/", "example": "I usually go to the local supermarket on Saturday morning." },
+    { "word": "health clinic", "meaning": "phòng khám sức khỏe", "ipa": "/helθ ˈklɪnɪk/", "example": "There is a small health clinic at the end of the street." },
+    { "word": "recreational facilities", "meaning": "cơ sở vật chất giải trí (công viên, bể bơi...)", "ipa": "/ˌrekriˈeɪʃənl fəˈsɪlətiz/", "example": "The park provides excellent recreational facilities for all ages." },
+    { "word": "industrial zone", "meaning": "khu công nghiệp", "ipa": "/ɪnˈdʌstriəl zoʊn/", "example": "Living near an industrial zone can mean more noise and pollution." },
+    { "word": "residential area", "meaning": "khu dân cư", "ipa": "/ˌrezɪˈdenʃl ˈeriə/", "example": "Our house is located in a quiet residential area." },
+    { "word": "commercial hub", "meaning": "trung tâm thương mại", "ipa": "/kəˈmɜːrʃl hʌb/", "example": "The city center is the main commercial hub of the region." },
+    { "word": "urban sprawl", "meaning": "sự mở rộng đô thị (thường theo nghĩa tiêu cực)", "ipa": "/ˈɜːrbən sprɔːl/", "example": "Urban sprawl is destroying much of the local countryside." },
+    { "word": "metropolitan area", "meaning": "vùng đô thị lớn", "ipa": "/ˌmetrəˈpɑːlɪtən ˈeriə/", "example": "The metropolitan area has a population of over five million." },
+    { "word": "cozy atmosphere", "meaning": "bầu không khí ấm cúng", "ipa": "/ˈkoʊzi ˈætməsfɪr/", "example": "The cafe has a very cozy atmosphere with soft music and dim lights." },
+    { "word": "bustling streets", "meaning": "đường phố nhộn nhịp", "ipa": "/ˈbʌslɪŋ striːts/", "example": "New York is famous for its bustling streets that never sleep." },
+    { "word": "scenic views", "meaning": "tầm nhìn phong cảnh đẹp", "ipa": "/ˈsiːnɪk vjuːz/", "example": "The apartment on the 10th floor has some scenic views of the park." },
+    { "word": "historic charm", "meaning": "nét quyến rũ lịch sử", "ipa": "/hɪˈstɔːrɪk tʃɑːrm/", "example": "The old town has kept its historic charm despite the new buildings." },
+    { "word": "pollution", "meaning": "ô nhiễm", "ipa": "/pəˈluːʃn/", "example": "Air pollution is a serious health risk in many large cities." },
+    { "word": "traffic noise", "meaning": "tiếng ồn giao thông", "ipa": "/ˈtræfɪk nɔɪz/", "example": "Constant traffic noise can be very stressful for residents." },
+    { "word": "littering", "meaning": "xả rác bừa bãi", "ipa": "/ˈlɪtərɪŋ/", "example": "He was fined for littering in the national park." },
+    { "word": "overcrowding", "meaning": "tình trạng quá tải/đông đúc", "ipa": "/ˌoʊvərˈkraʊdɪŋ/", "example": "Overcrowding is a major issue in the city’s schools." },
+    { "word": "pedestrian area", "meaning": "khu vực dành cho người đi bộ", "ipa": "/pəˈdestriən ˈeriə/", "example": "The downtown has a large pedestrian area with many shops." },
+    { "word": "cycle path", "meaning": "đường dành cho xe đạp", "ipa": "/ˈsaɪkl pæθ/", "example": "More cycle paths are needed to encourage sustainable transport." },
+    { "word": "parking space", "meaning": "chỗ đậu xe", "ipa": "/ˈpɑːrkɪŋ speɪs/", "example": "Finding a parking space in the city center is almost impossible." },
+    { "word": "nightlife", "meaning": "cuộc sống về đêm", "ipa": "/ˈnaɪtlaɪf/", "example": "The city is famous for its vibrant and diverse nightlife." },
+    { "word": "local landmark", "meaning": "địa danh địa phương nổi bật", "ipa": "/ˈloʊkl ˈlændmɑːrk/", "example": "The old clock tower is a famous local landmark." },
+    { "word": "diversity", "meaning": "sự đa dạng", "ipa": "/daɪˈvɜːrsəti/", "example": "The neighborhood’s diversity is reflected in its many ethnic restaurants." },
+    { "word": "cosmopolitan", "meaning": "thuộc về thế giới/đa văn hóa", "ipa": "/ˌkɑːzməˈpɑːlɪtən/", "example": "The city has a very cosmopolitan and open-minded feel." },
+    { "word": "homely", "meaning": "ấm cúng như ở nhà", "ipa": "/ˈhoʊmli/", "example": "The hotel room was small but very clean and homely." },
+    { "word": "up-and-coming area", "meaning": "khu vực đang phát triển/đang lên", "ipa": "/ˌʌp ənd ˈkʌmɪŋ ˈeriə/", "example": "We decided to buy a house in an up-and-coming area to save money." },
+    { "word": "secluded", "meaning": "hẻo lánh/yên tĩnh", "ipa": "/sɪˈkluːdɪd/", "example": "They live in a secluded cottage in the middle of the woods." },
+    { "word": "suburbs", "meaning": "ngoại ô", "ipa": "/ˈsʌbɜːrbz/", "example": "The suburbs offer a quieter life and more space for families." },
+    { "word": "middle of nowhere", "meaning": "nơi hẻo lánh/đồng không mông quạnh", "ipa": "/ðə ˈmɪdl əv ˈnoʊwer/", "example": "Our car broke down in the middle of nowhere, miles from any town." },
+    { "word": "nestled", "meaning": "nằm nép mình/nằm gọn", "ipa": "/ˈnesld/", "example": "The small village is nestled among high mountains." }
+  ]
+}

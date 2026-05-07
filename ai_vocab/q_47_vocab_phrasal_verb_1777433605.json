@@ -1,0 +1,76 @@
+{
+  "id": "q_47",
+  "vocab": [
+    {
+      "word": "spruce up",
+      "ipa": "/spruːs ʌp/",
+      "meaning": "làm cho sạch đẹp, chỉnh trang lại",
+      "example": "The local council really needs to spruce up the existing parks before building new ones.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "spring up",
+      "ipa": "/sprɪŋ ʌp/",
+      "meaning": "xuất hiện hoặc mọc lên nhanh chóng",
+      "example": "I'd love to see more community gardens spring up in the vacant lots around my neighborhood.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring about",
+      "ipa": "/brɪŋ əˈbaʊt/",
+      "meaning": "gây ra, dẫn đến (sự thay đổi tích cực)",
+      "example": "Adding a public library would bring about a significant improvement in the local literacy rate.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊ.pən ʌp/",
+      "meaning": "mở rộng, tạo điều kiện tiếp cận",
+      "example": "Opening up more green spaces would provide a much-needed breathing room for city dwellers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "cater to",
+      "ipa": "/ˈkeɪ.tər tuː/",
+      "meaning": "phục vụ cho, đáp ứng nhu cầu của",
+      "example": "New public areas should cater to all age groups, from toddler playgrounds to senior fitness zones.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "root for",
+      "ipa": "/ruːt fɔːr/",
+      "meaning": "ủng hộ nhiệt tình",
+      "example": "I am definitely rooting for the proposal to turn the old factory into a cultural community center.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "draw on",
+      "ipa": "/drɔː ɒn/",
+      "meaning": "tận dụng, khai thác (nguồn lực có sẵn)",
+      "example": "The design of new plazas could draw on our local heritage to create a unique sense of place.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "set apart",
+      "ipa": "/set əˈpɑːrt/",
+      "meaning": "làm cho trở nên khác biệt, đặc biệt",
+      "example": "What would set our district apart is a dedicated zone for street performers and outdoor exhibitions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "freshen up",
+      "ipa": "/ˈfreʃ.ən ʌp/",
+      "meaning": "làm mới, cải tạo cho tươi mới hơn",
+      "example": "They should freshen up the riverside walk with better lighting and modern seating arrangements.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "foster",
+      "ipa": "/ˈfɒs.tər/",
+      "meaning": "thúc đẩy, nuôi dưỡng (mối quan hệ/tình cảm)",
+      "example": "Public squares are essential because they foster a sense of belonging among residents.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

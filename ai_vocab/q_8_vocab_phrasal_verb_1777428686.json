@@ -1,0 +1,76 @@
+{
+  "id": "q_8",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/soʊk ʌp/",
+      "meaning": "tận hưởng, đắm mình trong (cảnh đẹp/không khí)",
+      "example": "I spent the entire afternoon sitting on the balcony just to soak up the panoramic view of the rolling hills.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look out over",
+      "ipa": "/lʊk aʊt ˈoʊvər/",
+      "meaning": "nhìn ra phía xa, bao quát (một không gian rộng)",
+      "example": "The hotel suite looked out over the azure waters of the Mediterranean, which was absolutely stunning at dawn.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "chiêm ngưỡng, thu vào tầm mắt",
+      "example": "We paused at the summit for a good half-hour just to take in the sheer scale of the mountain range below.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gaze upon",
+      "ipa": "/ɡeɪz əˈpɒn/",
+      "meaning": "nhìn chằm chằm, ngắm nhìn (thường với sự ngưỡng mộ)",
+      "example": "It was a surreal experience to gaze upon the northern lights as they danced across the Arctic sky.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stretch out",
+      "ipa": "/stretʃ aʊt/",
+      "meaning": "trải dài, mở rộng ra (về phía chân trời)",
+      "example": "From the observation deck, the vibrant city lights seemed to stretch out endlessly toward the horizon.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ tìm thấy (một cảnh đẹp)",
+      "example": "While hiking off the beaten track, we stumbled upon a hidden waterfall nestled in a lush, green valley.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈoʊpən ʌp/",
+      "meaning": "mở ra (một không gian/tầm nhìn rộng lớn)",
+      "example": "As we rounded the final bend of the trail, the entire coastline suddenly opened up before our eyes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drink in",
+      "ipa": "/drɪŋk ɪn/",
+      "meaning": "say sưa ngắm nhìn, tận hưởng một cách khao khát",
+      "example": "Standing at the edge of the canyon, I stood in silence, trying to drink in every detail of the colorful rock formations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "feast on",
+      "ipa": "/fiːst ɒn/",
+      "meaning": "thưởng ngoạn, mãn nhãn với (cảnh tượng gì đó)",
+      "example": "My eyes feasted on the lush golden rice terraces that cascaded down the mountainside like a staircase.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, hiện lên rõ rệt (giữa khung cảnh)",
+      "example": "The ancient pagoda stood out against the backdrop of the crimson sunset, creating a perfect silhouette.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

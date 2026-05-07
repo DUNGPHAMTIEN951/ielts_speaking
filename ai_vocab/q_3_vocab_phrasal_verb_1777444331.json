@@ -1,0 +1,76 @@
+{
+  "id": "q_3",
+  "vocab": [
+    {
+      "word": "toss around",
+      "ipa": "/tɔːs əˈraʊnd/",
+      "meaning": "chơi đùa, quăng quật (thường là bóng hoặc ý tưởng) một cách thoải mái",
+      "example": "My friends and I would spend every single afternoon tossing around a baseball in the vacant lot behind my house.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "snap up",
+      "ipa": "/snæp ʌp/",
+      "meaning": "nhanh tay thu thập hoặc mua lấy thứ gì đó (vì quá yêu thích)",
+      "example": "I was obsessed with stamps, so I would snap up any unique ones I could find at the local post office.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "conjure up",
+      "ipa": "/ˈkʌndʒər ʌp/",
+      "meaning": "gợi lên hoặc sáng tạo ra cái gì đó (thường bằng trí tưởng tượng)",
+      "example": "Being an imaginative child, I loved to conjure up elaborate fantasy worlds using nothing but my wooden blocks.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "delve into",
+      "ipa": "/delv ˈɪntuː/",
+      "meaning": "tìm tòi sâu, nghiên cứu kỹ lưỡng về một lĩnh vực nào đó",
+      "example": "I started to delve into the world of astronomy when I was ten, spending my nights identifying constellations.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "show off",
+      "ipa": "/ʃəʊ ɔːf/",
+      "meaning": "khoe ra, trình diễn (kỹ năng hoặc thành quả) với sự tự hào",
+      "example": "I practiced card tricks constantly just so I could show off my skills to my classmates during recess.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look through",
+      "ipa": "/lʊk θruː/",
+      "meaning": "xem lướt qua hoặc kiểm tra một bộ sưu tập",
+      "example": "One of my favorite pastimes was looking through my father's old vinyl records and admiring the cover art.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up for",
+      "ipa": "/ɡɪər ʌp fɔːr/",
+      "meaning": "chuẩn bị sẵn sàng (đồ đạc, tinh thần) cho một hoạt động",
+      "example": "On weekends, I would gear up for long cycling trips around the neighborhood with my older cousins.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "carry on with",
+      "ipa": "/ˈkæri ɒn wɪð/",
+      "meaning": "tiếp tục duy trì một hoạt động nào đó",
+      "example": "Despite the busy school schedule, I managed to carry on with my piano lessons for over six years.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "muck about",
+      "ipa": "/mʌk əˈbaʊt/",
+      "meaning": "chơi bời lêu lổng, nghịch ngợm không mục đích",
+      "example": "We used to muck about in the creek near our school, catching tadpoles and getting our clothes completely muddy.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "be caught up in",
+      "ipa": "/bi kɔːt ʌp ɪn/",
+      "meaning": "bị cuốn vào, quá mải mê vào một việc gì đó",
+      "example": "I would be so caught up in my drawing that I often didn't hear my mother calling me for dinner.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

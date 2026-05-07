@@ -1,0 +1,76 @@
+{
+  "id": "q_24",
+  "vocab": [
+    {
+      "word": "a picture is worth a thousand words",
+      "ipa": "/ə ˈpɪktʃər ɪz wɜːθ ə ˈθaʊznd wɜːdz/",
+      "meaning": "một bức ảnh có giá trị thay cho ngàn lời nói",
+      "example": "I gravitate towards photojournalism because I truly believe a picture is worth a thousand words when it comes to social issues.",
+      "type": "idiom"
+    },
+    {
+      "word": "catch someone off guard",
+      "ipa": "/kætʃ ˈsʌmwʌn ɒf ɡɑːrd/",
+      "meaning": "bắt gặp ai đó lúc họ không đề phòng (chụp lén/tự nhiên)",
+      "example": "My favorite portraits are those that catch people off guard, revealing their most authentic expressions.",
+      "type": "idiom"
+    },
+    {
+      "word": "in one's mind's eye",
+      "ipa": "/ɪn wʌnz maɪndz aɪ/",
+      "meaning": "trong trí tưởng tượng/ký ức",
+      "example": "Before I even press the shutter, I usually have the final composition already visualized in my mind's eye.",
+      "type": "idiom"
+    },
+    {
+      "word": "the icing on the cake",
+      "ipa": "/ði ˈaɪsɪŋ ɒn ðə keɪk/",
+      "meaning": "phần bổ sung làm cho mọi thứ hoàn hảo hơn",
+      "example": "I take photos to document my travels, but getting a shot with perfect lighting is really the icing on the cake.",
+      "type": "idiom"
+    },
+    {
+      "word": "tell a tale",
+      "ipa": "/tel ə teɪl/",
+      "meaning": "kể một câu chuyện (thường qua hình ảnh)",
+      "example": "I’m fond of taking photos of weathered buildings because their textures seem to tell a tale of bygone eras.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep an eye out for",
+      "ipa": "/kiːp ən aɪ aʊt fɔːr/",
+      "meaning": "để mắt tìm kiếm thứ gì đó",
+      "example": "Whenever I wander through the city, I keep an eye out for interesting shadows and geometric patterns.",
+      "type": "idiom"
+    },
+    {
+      "word": "off the beaten track",
+      "ipa": "/ɒf ðə ˈbiːtn træk/",
+      "meaning": "ở những nơi hẻo lánh/ít người biết đến",
+      "example": "I love taking my camera off the beaten track to capture landscapes that haven't been over-photographed by tourists.",
+      "type": "idiom"
+    },
+    {
+      "word": "light at the end of the tunnel",
+      "ipa": "/laɪt æt ðə end əv ðə ˈtʌnl/",
+      "meaning": "ánh sáng cuối đường hầm (sử dụng ẩn dụ cho bố cục ánh sáng)",
+      "example": "I enjoy playing with high-contrast silhouettes, often looking for that symbolic light at the end of the tunnel in my compositions.",
+      "type": "idiom"
+    },
+    {
+      "word": "worth a shot",
+      "ipa": "/wɜːθ ə ʃɒt/",
+      "meaning": "đáng để thử (chơi chữ với 'shot' là cú bấm máy)",
+      "example": "Even if the weather looks gloomy, taking the camera out is always worth a shot because you might capture a unique atmosphere.",
+      "type": "idiom"
+    },
+    {
+      "word": "flesh and blood",
+      "ipa": "/fleʃ ənd blʌd/",
+      "meaning": "người thực việc thực/bằng xương bằng thịt",
+      "example": "Instead of digital avatars, I prefer photographing real flesh and blood people in their natural working environments.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

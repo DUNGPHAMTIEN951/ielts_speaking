@@ -1,0 +1,76 @@
+{
+  "id": "q_12",
+  "vocab": [
+    {
+      "word": "head for",
+      "ipa": "/hed fɔː(r)/",
+      "meaning": "đi về phía, hướng về phía",
+      "example": "Whenever I have a long weekend, I usually head for the coast to enjoy the fresh sea air.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ phát hiện ra",
+      "example": "One of the best things about hiking is when you stumble upon a hidden waterfall deep in the mountains.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bask in",
+      "ipa": "/bɑːsk ɪn/",
+      "meaning": "tận hưởng sự ấm áp hoặc vẻ đẹp (thường là ánh nắng)",
+      "example": "There's nothing more relaxing than lying on the beach and basking in the golden afternoon sunshine.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng ngoạn, ngắm nhìn (phong cảnh)",
+      "example": "I spent the entire morning sitting on the balcony just taking in the breathtaking views of the mountain range.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dole out",
+      "ipa": "/dəʊl aʊt/",
+      "meaning": "ban phát, đưa ra (ở đây dùng ẩn dụ cho việc thiên nhiên mang lại cảm giác)",
+      "example": "The sea seems to dole out a sense of tranquility that you just can't find in the hustle and bustle of the city.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "block out",
+      "ipa": "/blɒk aʊt/",
+      "meaning": "chặn lại, che khuất (âm thanh hoặc ánh sáng)",
+      "example": "I prefer the mountains because the dense forests block out all the noise from the outside world.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "troll for",
+      "ipa": "/trəʊl fɔː(r)/",
+      "meaning": "tìm kiếm (thường dùng cho việc tìm kiếm sự yên bình hoặc trải nghiệm)",
+      "example": "I’m constantly trolling for secluded beaches where I can read my book without any interruptions.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊpən ʌp/",
+      "meaning": "mở ra (một không gian hoặc tầm nhìn rộng lớn)",
+      "example": "As you reach the summit, the landscape suddenly opens up, revealing a spectacular vista of the valley below.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift off",
+      "ipa": "/drɪft ɒf/",
+      "meaning": "thiu thiu ngủ, chìm vào giấc ngủ (nhẹ nhàng)",
+      "example": "The sound of the waves crashing against the shore always helps me drift off into a peaceful nap.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "hấp thụ, tận hưởng trọn vẹn (không khí, rung cảm)",
+      "example": "I love to wander through mountain villages and soak up the local culture and the serene atmosphere.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

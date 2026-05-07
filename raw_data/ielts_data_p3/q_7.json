@@ -1,0 +1,52 @@
+{
+  "id": "q_7",
+  "topic": "Walking",
+  "q": "Why do people like to walk in parks?",
+  "examiner_note": "Nói về lợi ích của không gian xanh. Sử dụng 'sanctuary', 'rejuvenate', 'escapism', 'community hub'.",
+  "samples": {
+    "band7": {
+      "text": "Parks offer a peaceful escape from the hustle and bustle of city life. The fresh air, greenery, and quiet atmosphere make it an ideal place to destress and enjoy some physical activity. It’s also a good place to see other people.",
+      "note": "Sử dụng thành ngữ phổ biến (hustle and bustle) và giải thích rõ ràng."
+    },
+    "band8": {
+      "text": "I think parks serve as a vital sanctuary in our increasingly urbanized world. They provide a space to reconnect with nature and rejuvenate our spirits. Moreover, they act as community hubs where people can socialize and engage in leisure activities together.",
+      "note": "Sử dụng từ vựng nâng cao (vital sanctuary, urbanized, rejuvenate, community hubs, socialize, leisure)."
+    },
+    "band9": {
+      "text": "The allure of parks lies in their ability to provide a sensory retreat from the synthetic environment of the city. The lush greenery and tranquil ambience offer a profound sense of escapism, which is essential for mental well-being. Furthermore, the egalitarian nature of public parks encourages social cohesion and a shared appreciation for the outdoors.",
+      "note": "Sử dụng từ vựng học thuật (allure, sensory retreat, synthetic, ambience, escapism, egalitarian, social cohesion)."
+    }
+  },
+  "v": [
+    {
+      "word": "sanctuary",
+      "meaning": "nơi trú ẩn/thánh đường",
+      "ipa": "/ˈsæŋktʃueri/",
+      "example": "The park is a sanctuary for city dwellers."
+    },
+    {
+      "word": "rejuvenate",
+      "meaning": "làm trẻ lại/hồi phục",
+      "ipa": "/rɪˈdʒuːvəneɪt/",
+      "example": "A short nap can rejuvenate you."
+    },
+    {
+      "word": "egalitarian",
+      "meaning": "bình đẳng",
+      "ipa": "/iˌɡælɪˈteriən/",
+      "example": "Parks are egalitarian spaces where everyone is welcome."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "ambience",
+      "meaning": "không khí/môi trường xung quanh",
+      "ipa": "/ˈæmbiəns/",
+      "example": "I love the relaxed ambience of this café."
+    }
+  ],
+  "similar_questions": [
+    "Are there many parks in your city?",
+    "What do people usually do in parks?"
+  ]
+}

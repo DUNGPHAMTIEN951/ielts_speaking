@@ -1,0 +1,37 @@
+{
+  "q": "Describe a piece of technology (not a phone) that you would like to own",
+  "cue_card": [
+    "What it is",
+    "What it can do",
+    "How you know about it",
+    "And explain why you would like to own it"
+  ],
+  "examiner_note": "Nêu rõ lợi ích của thiết bị (tiết kiệm thời gian, giải trí, công việc).",
+  "samples": {
+    "band7": "I'd like to own a high-quality noise-canceling headset, like the ones from Sony. They can block out all the background noise, which would be great for studying in public places. I saw some reviews online, and I think it would help me focus much better on my work.",
+    "band8": "I'm quite keen on getting a high-end noise-canceling headset, specifically the latest model from Sony. Its primary function is to actively filter out ambient sounds, creating a quiet space even in noisy environments. I've read several tech blogs praising its audio fidelity and comfort. Owning one would be a game-changer for my productivity, especially when I'm working in bustling cafes or traveling.",
+    "band9": "The piece of technology that I've been eyeing is a state-of-the-art noise-canceling headset. Its ability to create an acoustic vacuum and deliver pristine sound quality is truly remarkable. I've extensively researched various professional reviews that highlight its superior noise-cancellation algorithms. For me, owning such a device would be an investment in my cognitive focus, allowing me to enter a 'flow state' regardless of my surroundings. It's more about enhancing my mental workspace than just listening to music."
+  },
+  "v": [
+    {
+      "word": "ambient sounds",
+      "ipa": "/ˈæmbiənt saʊndz/",
+      "meaning": "âm thanh môi trường",
+      "example": "The headset filters out ambient sounds."
+    },
+    {
+      "word": "audio fidelity",
+      "ipa": "/ˈɔːdiəʊ fɪˈdeləti/",
+      "meaning": "độ trung thực của âm thanh",
+      "example": "Audiophiles value high audio fidelity."
+    },
+    {
+      "word": "acoustic vacuum",
+      "ipa": "/əˈkuːstɪk ˈvækjuːm/",
+      "meaning": "khoảng không cách âm",
+      "example": "It feels like being in an acoustic vacuum."
+    }
+  ],
+  "topic": "Describe a piece of technology (not a phone) that you would like to own",
+  "id": "p2_q31"
+}

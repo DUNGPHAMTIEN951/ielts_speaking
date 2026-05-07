@@ -1,0 +1,76 @@
+{
+  "id": "q_35",
+  "vocab": [
+    {
+      "word": "shoot up",
+      "ipa": "/ʃuːt ʌp/",
+      "meaning": "lớn nhanh vùn vụt",
+      "example": "After a few heavy rain showers, the sunflowers I planted began to shoot up, eventually towering over me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "check on",
+      "ipa": "/tʃek ɒn/",
+      "meaning": "theo dõi, kiểm tra tình trạng",
+      "example": "Every morning before school, I would run to the garden to check on my tomato plants to see if any fruit had ripened.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "tending to",
+      "ipa": "/ˈten.dɪŋ tuː/",
+      "meaning": "chăm sóc, trông nom",
+      "example": "I spent hours tending to my small herb garden, making sure each plant got exactly the right amount of sunlight.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "prune back",
+      "ipa": "/pruːn bæk/",
+      "meaning": "tỉa bớt (cành, lá) để cây gọn gàng hoặc phát triển tốt hơn",
+      "example": "My grandfather showed me how to prune back the rose bushes so they would bloom more vibrantly in the spring.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "shrivel up",
+      "ipa": "/ˈʃrɪv.əl ʌp/",
+      "meaning": "khô héo, nhăn nheo lại",
+      "example": "If I forgot to water my succulents during the summer heat, the leaves would start to shrivel up.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch out",
+      "ipa": "/brɑːntʃ aʊt/",
+      "meaning": "đâm cành, mọc thêm nhánh",
+      "example": "The small apple sapling we planted in the backyard slowly started to branch out after its first year.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick off",
+      "ipa": "/pɪk ɒf/",
+      "meaning": "ngắt bỏ (lá sâu, hoa héo)",
+      "example": "I used to carefully pick off the dead leaves to keep the basil plants looking healthy and green.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "put down roots",
+      "ipa": "/pʊt daʊn ruːts/",
+      "meaning": "bắt rễ, cắm rễ vào đất",
+      "example": "It took a few weeks for the cuttings to finally put down roots in the fresh soil I had prepared.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "turn into",
+      "ipa": "/tɜːn ˈɪn.tuː/",
+      "meaning": "trở thành, biến thành",
+      "example": "It was fascinating to watch how a tiny black seed could eventually turn into a massive pumpkin.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "help along",
+      "ipa": "/help əˈlɒŋ/",
+      "meaning": "hỗ trợ, giúp sức cho quá trình phát triển",
+      "example": "We used a bit of natural compost to help the young seedlings along during the early stages of their growth.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

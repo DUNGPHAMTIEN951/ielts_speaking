@@ -1,0 +1,76 @@
+{
+  "id": "q_11",
+  "vocab": [
+    {
+      "word": "soak up",
+      "ipa": "/səʊk ʌp/",
+      "meaning": "hưởng thụ, đắm mình trong (bầu không khí/kiến thức)",
+      "example": "I love to spend my Sunday afternoons in the national gallery, just soaking up the creative atmosphere.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "marvel at",
+      "ipa": "/ˈmɑː.vəl æt/",
+      "meaning": "chiêm ngưỡng với sự kinh ngạc và ngưỡng mộ",
+      "example": "It is truly a humbling experience to marvel at the intricate brushwork of the old masters.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "mull over",
+      "ipa": "/mʌl ˈəʊ.vər/",
+      "meaning": "suy ngẫm, nghiền ngẫm về một điều gì đó",
+      "example": "Abstract art often requires you to sit and mull over the deeper meaning behind the chaotic shapes.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stumble on",
+      "ipa": "/ˈstʌm.bəl ɒn/",
+      "meaning": "vô tình tìm thấy, bắt gặp (một tác phẩm hay)",
+      "example": "While wandering through the local exhibition, I stumbled on a breathtaking sculpture by an emerging artist.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick out",
+      "ipa": "/pɪk aʊt/",
+      "meaning": "nhận ra, chọn ra một chi tiết cụ thể",
+      "example": "In those large murals, I enjoy trying to pick out the subtle details that others might easily overlook.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊ.pən ʌp/",
+      "meaning": "mở ra (một góc nhìn, một thế giới mới)",
+      "example": "Visiting contemporary art galleries really opens up new perspectives on modern social issues for me.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stand out",
+      "ipa": "/stænd aʊt/",
+      "meaning": "nổi bật, gây ấn tượng mạnh",
+      "example": "The use of bold, crimson hues in that particular landscape made it stand out from the rest of the collection.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take in",
+      "ipa": "/teɪk ɪn/",
+      "meaning": "thưởng ngoạn, quan sát kỹ lưỡng để thấu hiểu",
+      "example": "I prefer visiting galleries alone so that I can take in each piece of work at my own rhythmic pace.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "drift through",
+      "ipa": "/drɪft θruː/",
+      "meaning": "đi dạo thong dong, chậm rãi xuyên qua",
+      "example": "There is something incredibly therapeutic about drifting through a quiet hall filled with classical portraits.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "conjure up",
+      "ipa": "/ˈkʌn.dʒər ʌp/",
+      "meaning": "gợi lên, làm hiện lên trong trí tưởng tượng",
+      "example": "The surrealist paintings often conjure up bizarre images that stay in my mind long after I've left the gallery.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

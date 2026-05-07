@@ -1,0 +1,52 @@
+{
+  "id": "q_14",
+  "topic": "Arts and Drawing",
+  "q": "Do you like drawing? Why?",
+  "examiner_note": "Nói về lợi ích tinh thần. Sử dụng 'meditative process', 'express imagination', 'creative spark'.",
+  "samples": {
+    "band7": {
+      "text": "I enjoy drawing as a way to relax and express my imagination. It’s a very meditative process that allows me to focus purely on the present moment and create something unique. It’s not about being good at it, but just enjoying the activity.",
+      "note": "Sử dụng từ vựng tốt (meditative process, imagination)."
+    },
+    "band8": {
+      "text": "I’m quite fond of drawing, primarily as a form of creative release. I find that the act of putting pencil to paper helps me to organize my thoughts and visualize my ideas. It’s a wonderful way to disconnect from digital distractions and tap into my creative spark.",
+      "note": "Sử dụng từ vựng tự nhiên (creative release, visualize, digital distractions, creative spark)."
+    },
+    "band9": {
+      "text": "I’ve always found drawing to be an incredibly therapeutic and rewarding pursuit. It offers a unique opportunity for self-expression and allows me to explore my internal world in a visual way. The sheer act of creation, however simple, provides a sense of accomplishment and a deeper connection to my own creativity.",
+      "note": "Sử dụng từ vựng phong phú (therapeutic, rewarding pursuit, self-expression, sheer act, accomplishment)."
+    }
+  },
+  "v": [
+    {
+      "word": "therapeutic",
+      "meaning": "có tính chữa lành/thư giãn",
+      "ipa": "/ˌθerəˈpjuːtɪk/",
+      "example": "Swimming is very therapeutic for me."
+    },
+    {
+      "word": "creative spark",
+      "meaning": "nguồn cảm hứng sáng tạo",
+      "ipa": "/kriˈeɪtɪv spɑːrk/",
+      "example": "Travel often ignites my creative spark."
+    },
+    {
+      "word": "accomplishment",
+      "meaning": "thành tựu/sự hoàn thành",
+      "ipa": "/əˈkɑːmplɪʃmənt/",
+      "example": "Finishing the marathon was a great accomplishment."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "sheer",
+      "meaning": "chỉ là/hoàn toàn (nhấn mạnh)",
+      "ipa": "/ʃɪr/",
+      "example": "It was a sheer joy to watch them play."
+    }
+  ],
+  "similar_questions": [
+    "What do you usually draw?",
+    "Do you prefer drawing with traditional tools or digital ones?"
+  ]
+}

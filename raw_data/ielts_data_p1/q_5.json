@@ -1,0 +1,72 @@
+{
+  "id": "q_5",
+  "topic": "Typing",
+  "q": "Do you prefer typing or handwriting?",
+  "examiner_note": "Đây là câu hỏi so sánh sở thích giữa hai phương thức ghi chép. Bạn nên tập trung vào các tiêu chí như: tốc độ (speed), sự tiện lợi (convenience), cảm xúc (personal touch), và tính ứng dụng (practicality). Sử dụng các cấu trúc so sánh hơn/kém hoặc cấu trúc 'I'm more of a... person' để trả lời tự nhiên hơn. Đừng quên nêu ưu điểm của cả hai để mở rộng câu trả lời.",
+  "samples": {
+    "band7": {
+      "text": "I definitely prefer typing because it's much faster and more efficient for work. I can easily edit my mistakes and organize my thoughts. However, for personal things like birthday cards or journaling, I still enjoy handwriting as it feels more personal.",
+      "note": "Trả lời trực tiếp, có lý do rõ ràng và sự đối chiếu giữa hai phương thức."
+    },
+    "band8": {
+      "text": "I’m definitely leaning towards typing for the vast majority of my tasks. It’s simply indispensable for productivity, especially since my handwriting has become somewhat illegible over the years. That said, I still cherish the act of writing by hand for creative brainstorming; I find that the physical connection between the pen and paper helps me think more clearly.",
+      "note": "Sử dụng từ vựng nâng cao (leaning towards, indispensable, illegible, cherish, brainstorming). Cấu trúc câu tự nhiên và mạch lạc."
+    },
+    "band9": {
+      "text": "In this digital era, I’ve predominantly transitioned to typing for almost all professional and academic purposes due to its sheer efficiency and ease of archiving. However, I’ve retained a strong affinity for handwriting when it comes to reflective journaling or personal correspondence. There’s an undeniable tactile satisfaction and a sense of intimacy in longhand that digital fonts simply cannot replicate. So, while typing is my go-to for utility, handwriting remains my favorite for emotional expression.",
+      "note": "Sử dụng vốn từ vựng cực kỳ tinh tế (predominantly, transitioned, archiving, retained, affinity, tactile, intimacy, longhand, replicate). Cách lập luận sâu sắc."
+    }
+  },
+  "v": [
+    { "word": "leaning towards", "meaning": "nghiêng về (lựa chọn nào đó)", "ipa": "/ˈliːnɪŋ təˈwɔːrdz/", "example": "I'm leaning towards typing because it saves a lot of time." },
+    { "word": "indispensable", "meaning": "không thể thiếu", "ipa": "/ˌɪndɪˈspensəbl/", "example": "A keyboard is indispensable for office workers today." },
+    { "word": "illegible", "meaning": "khó đọc/không đọc được", "ipa": "/ɪˈledʒəbl/", "example": "His handwriting is so messy it's almost illegible." },
+    { "word": "brainstorming", "meaning": "động não/sáng tạo ý tưởng", "ipa": "/ˈbreɪnstɔːrmɪŋ/", "example": "We had a productive brainstorming session this morning." },
+    { "word": "predominantly", "meaning": "phần lớn/chủ yếu", "ipa": "/prɪˈdɑːmɪnəntli/", "example": "The area is predominantly occupied by students." },
+    { "word": "archive", "meaning": "lưu trữ", "ipa": "/ˈɑːrkaɪv/", "example": "Digital documents are much easier to archive than paper ones." },
+    { "word": "retain an affinity for", "meaning": "vẫn còn sự yêu thích/gắn bó với", "ipa": "/rɪˈteɪn ən əˈfɪnəti fɔːr/", "example": "Even though I use a Kindle, I retain an affinity for physical books." },
+    { "word": "tactile satisfaction", "meaning": "sự hài lòng về mặt xúc giác (khi chạm vào/cầm nắm)", "ipa": "/ˈtæktaɪl ˌsætɪsˈfækʃn/", "example": "Typing on a mechanical keyboard gives a great tactile satisfaction." },
+    { "word": "intimacy", "meaning": "sự gần gũi/thân mật", "ipa": "/ˈɪntɪməsi/", "example": "A handwritten letter carries a sense of intimacy that an email lacks." },
+    { "word": "longhand", "meaning": "viết tay (theo kiểu đầy đủ cụ từ)", "ipa": "/ˈlɔːŋhænd/", "example": "I still prefer to take notes in longhand during lectures." },
+    { "word": "replicate", "meaning": "sao chép/tái tạo", "ipa": "/ˈreplɪkeɪt/", "example": "It's hard to replicate the feeling of writing with a fountain pen." },
+    { "word": "efficiency", "meaning": "sự hiệu quả", "ipa": "/ɪˈfɪʃnsi/", "example": "The new system significantly improved our work efficiency." },
+    { "word": "correspondence", "meaning": "thư từ (giao dịch qua lời viết/email)", "ipa": "/ˌkɔːrəˈspɑːndəns/", "example": "I handle all the business correspondence via email." },
+    { "word": "utilitarian", "meaning": "mang tính thực dụng", "ipa": "/ˌjuːtɪlɪˈteriən/", "example": "Typing is purely utilitarian for most people." },
+    { "word": "expressive", "meaning": "giàu sắc thái/biểu cảm", "ipa": "/ɪkˈspresɪv/", "example": "Handwriting can be very expressive of a person's character." },
+    { "word": "manual writing", "meaning": "viết bằng tay", "ipa": "/ˈmænjuəl ˈraɪtɪŋ/", "example": "Some schools still promote manual writing in early education." },
+    { "word": "keyboard layout", "meaning": "bố cục bàn phím", "ipa": "/ˈkiːbɔːrd ˈleɪaʊt/", "example": "The QWERTY keyboard layout is the most common." },
+    { "word": "touch typing", "meaning": "gõ máy tính không nhìn phím", "ipa": "/tʌtʃ ˈtaɪpɪŋ/", "example": "Learning touch typing helped me work much faster." },
+    { "word": "scribble", "meaning": "viết nguệch ngoạc", "ipa": "/ˈskrɪbl/", "example": "I scribbled her phone number on a scrap of paper." },
+    { "word": "digitalize", "meaning": "số hóa", "ipa": "/ˈdɪdʒɪtəlaɪz/", "example": "We are trying to digitalize all our old records." },
+    { "word": "clunkiness", "meaning": "sự cồng kềnh/không linh hoạt", "ipa": "/ˈklʌŋkinəs/", "example": "The old typewriter had a certain clunkiness that was quite charming." },
+    { "word": "spell-check", "meaning": "kiểm tra lỗi chính tả", "ipa": "/spel tʃek/", "example": "Typing allows you to use the spell-check feature automatically." },
+    { "word": "legibility", "meaning": "sự dễ đọc", "ipa": "/ˌledʒəˈbɪləti/", "example": "Font size is important for the legibility of the document." },
+    { "word": "fountain pen", "meaning": "bút máy", "ipa": "/ˈfaʊntn pen/", "example": "He loves the smooth ink flow of a good fountain pen." },
+    { "word": "calligraphy", "meaning": "thư pháp", "ipa": "/kəˈlɪɡrəfi/", "example": "She took a course to improve her English calligraphy." },
+    { "word": "journaling", "meaning": "viết nhật ký/ghi chép hàng ngày", "ipa": "/ˈdʒɜːrnəlɪŋ/", "example": "Journaling is a great way to process your emotions." },
+    { "word": "versatility", "meaning": "sự linh hoạt/đa năng", "ipa": "/ˌvɜːrsəˈtɪləti/", "example": "The versatility of digital text makes it superior for work." },
+    { "word": "portable", "meaning": "có thể mang đi được", "ipa": "/ˈpɔːrtəbl/", "example": "A laptop makes your work more portable." },
+    { "word": "handy", "meaning": "tiện lợi", "ipa": "/ˈhændi/", "example": "It's always handy to have a pen and paper by the bed." },
+    { "word": "distinguishable", "meaning": "có thể phân biệt được", "ipa": "/dɪˈstɪŋɡwɪʃəbl/", "example": "Typing makes every letter clearly distinguishable." },
+    { "word": "word count", "meaning": "số lượng từ", "ipa": "/wɜːrd kaʊnt/", "example": "I need to check the word count for my essay." },
+    { "word": "edit on the fly", "meaning": "chỉnh sửa ngay tức khắc", "ipa": "/ˈedɪt ɑːn ðə flaɪ/", "example": "Typing allows you to edit and rephrase on the fly." },
+    { "word": "muscle memory", "meaning": "trí nhớ cơ bắp", "ipa": "/ˈmʌsl ˈmeməri/", "example": "Once you learn to type, it becomes muscle memory." },
+    { "word": "notate", "meaning": "ghi chú (bằng ký hiệu)", "ipa": "/ˈnoʊteɪt/", "example": "Music is often difficult to notate by hand." },
+    { "word": "personal touch", "meaning": "nét đặc trưng riêng/sự chân thành", "ipa": "/ˈpɜːrsənl tʌtʃ/", "example": "A handwritten note adds a lovely personal touch to a gift." },
+    { "word": "speedy", "meaning": "nhanh chóng", "ipa": "/ˈspiːdi/", "example": "Typing is much more speedy than writing longhand." },
+    { "word": "manual labor", "meaning": "lao động chân tay/làm thủ công", "ipa": "/ˈmænjuəl ˈleɪbər/", "example": "Handwriting can feel like manual labor after a few pages." },
+    { "word": "mental block", "meaning": "sự bế tắc trong suy nghĩ", "ipa": "/ˈmentl blɑːk/", "example": "Switching to handwriting sometimes helps clear a mental block." },
+    { "word": "stylus", "meaning": "bút cảm ứng", "ipa": "/ˈstaɪləs/", "example": "I use a stylus to draw on my tablet." },
+    { "word": "draft", "meaning": "bản nháp", "ipa": "/dræft/", "example": "I usually type the final version but write the first draft." },
+    { "word": "revision", "meaning": "sự sửa đổi/ôn tập", "ipa": "/rɪˈvɪʒn/", "example": "Making revisions is far easier on a computer." },
+    { "word": "at the push of a button", "meaning": "rất dễ dàng (chỉ bằng một nút bấm)", "ipa": "/æt ðə pʊʃ əv ə ˈbʌtn/", "example": "Information is available at the push of a button." },
+    { "word": "second nature", "meaning": "trở thành bản năng/thói quen tự nhiên", "ipa": "/ˈsekənd ˈneɪtʃər/", "example": "Typing has become second nature to most millennials." },
+    { "word": "old school", "meaning": "kiểu cũ/theo lối cũ", "ipa": "/oʊld skuːl/", "example": "I’m a bit old school; I still like paper planners." },
+    { "word": "keep in touch", "meaning": "giữ liên lạc", "ipa": "/kiːp ɪn tʌtʃ/", "example": "Handwritten letters are a classic way to keep in touch." },
+    { "word": "cut and paste", "meaning": "cắt và dán (thao tác văn bản)", "ipa": "/kʌt ənd peɪst/", "example": "The cut and paste feature is a lifesaver for writers." },
+    { "word": "save for later", "meaning": "lưu lại cho sau này", "ipa": "/seɪv fər ˈleɪtər/", "example": "I'll type this up and save it for later use." },
+    { "word": "paperwork", "meaning": "công việc giấy tờ", "ipa": "/ˈpeɪpərwɜːrk/", "example": "Modern offices are trying to reduce the amount of paperwork." },
+    { "word": "digital footprint", "meaning": "dấu chân kỹ thuật số", "ipa": "/ˈdɪdʒɪtl ˈfʊtprɪnt/", "example": "Every email you type contributes to your digital footprint." },
+    { "word": "to the point", "meaning": "đi thẳng vào vấn đề", "ipa": "/tu ðə pɔɪnt/", "example": "Typing makes it easier to keep your emails short and to the point." }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "q_23",
+  "vocab": [
+    {
+      "word": "pop in",
+      "ipa": "/pɒp ɪn/",
+      "meaning": "đút vào, bỏ nhanh vào (túi, ví)",
+      "example": "I usually pop a few mints in my pocket just to keep my breath fresh throughout the day.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "reach for",
+      "ipa": "/riːtʃ fər/",
+      "meaning": "với lấy, đưa tay lấy (thứ gì đó mang theo)",
+      "example": "Whenever I feel a bit dehydrated, I reach for the reusable water bottle that I always keep in my tote bag.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "slap on",
+      "ipa": "/slæp ɒn/",
+      "meaning": "đeo vội vào, mặc nhanh vào (phụ kiện)",
+      "example": "If it looks a bit bright outside, I'll slap on my sunglasses before stepping out the door.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "toss in",
+      "ipa": "/tɒs ɪn/",
+      "meaning": "quăng vào, ném đại vào (trong túi)",
+      "example": "I tend to toss a portable umbrella in my satchel, as the weather here can be quite unpredictable.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fall back on",
+      "ipa": "/fɔːl bæk ɒn/",
+      "meaning": "dùng đến khi cần thiết/phương án dự phòng",
+      "example": "I always carry a physical book to fall back on in case my phone battery dies during a long commute.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fasten up",
+      "ipa": "/ˈfɑːsn ʌp/",
+      "meaning": "thắt chặt, đóng khóa (túi xách để bảo vệ đồ đạc)",
+      "example": "I make sure to fasten up my backpack securely to ensure my laptop doesn't slide around while I'm walking.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dig out",
+      "ipa": "/dɪɡ aʊt/",
+      "meaning": "bới tìm, đào lục (thứ gì đó từ đáy túi)",
+      "example": "It's a bit of a hassle to dig out my house keys from the bottom of my bag every evening.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "keep on",
+      "ipa": "/kiːp ɒn/",
+      "meaning": "luôn mang trên người, không tháo ra",
+      "example": "I keep my fitness tracker on at all times to monitor my steps whenever I'm out and about.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "zip up",
+      "ipa": "/zɪp ʌp/",
+      "meaning": "kéo khóa lại",
+      "example": "After checking that I have my ID, I zip up my inner pocket to keep my documents safe from pickpockets.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pick up",
+      "ipa": "/pɪk ʌp/",
+      "meaning": "nhặt lấy/cầm theo (vật dụng cần thiết)",
+      "example": "The last thing I do before leaving is pick up my Kindle, as I can't stand being bored on the train.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

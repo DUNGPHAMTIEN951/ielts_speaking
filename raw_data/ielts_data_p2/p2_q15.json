@@ -1,0 +1,50 @@
+{
+  "q": "Describe a time you had to work in a team.",
+  "cue_card": [
+    "A time you had to work in a team.",
+    "What the project/task was",
+    "Who you worked with",
+    "How you worked together",
+    "And explain how you felt about working in this team"
+  ],
+  "examiner_note": "Chủ đề làm việc nhóm cần các từ vựng về sự hợp tác và giải quyết xung đột (collaboration, synergy, conflict resolution). Hãy nhấn mạnh vào tinh thần đồng đội (team spirit) và kết quả chung đạt được (collective goal).",
+  "samples": {
+    "band7": "I'm going to talk about a time I worked in a team during a group project at university. We had to prepare a presentation about environmental pollution. There were four of us in the group. We divided the work so that each person researched a different topic. We met twice a week to discuss our findings and practice the presentation. I felt very happy because everyone was very responsible and we got a high mark for our project.",
+    "band8": "I’d like to describe a group project I participated in during my final year of university, which required a high level of coordination and teamwork. Our task was to develop a comprehensive marketing strategy for a local start-up. I worked with three other classmates, each bringing a unique set of skills to the table. We maintained open communication and used various collaborative tools to ensure we were all on the same page. I found the experience incredibly rewarding as it allowed us to achieve a synergy that wouldn't have been possible individually.",
+    "band9": "A significant instance of teamwork that stands out in my memory is a cross-functional project I led at my previous workplace. The objective was to overhaul our internal communication system, a task that required seamless collaboration between the IT and HR departments. Working with such a diverse group necessitated advanced conflict resolution skills and a strong commitment to a collective goal. What made the experience truly fulfilling was the palpable sense of team spirit and the innovative solutions that emerged from our collaborative brainstorming sessions. It was a testament to the power of shared vision and mutual respect in achieving complex objectives."
+  },
+  "v": [
+    {
+      "word": "Synergy",
+      "meaning": "Sự hiệp lực (The interaction or cooperation of two or more organizations, substances, or other agents to produce a combined effect greater than the sum of their separate effects)",
+      "example": "The synergy between the two companies led to the creation of a revolutionary new product."
+    },
+    {
+      "word": "Conflict resolution",
+      "meaning": "Giải quyết xung đột (The process by which two or more parties reach a peaceful solution to a dispute)",
+      "example": "Effective communication is key to successful conflict resolution in any workplace."
+    },
+    {
+      "word": "Cross-functional project",
+      "meaning": "Dự án liên phòng ban (A project involving people with different functional expertise working toward a common goal)",
+      "example": "Being part of a cross-functional project allowed me to learn about other departments' challenges."
+    },
+    {
+      "word": "Palpable sense",
+      "meaning": "Cảm giác rõ rệt, có thể cảm nhận được (A feeling that is so intense as to seem almost tangible or able to be touched)",
+      "example": "There was a palpable sense of excitement in the air before the concert started."
+    },
+    {
+      "word": "Team spirit",
+      "meaning": "Tinh thần đồng đội (The sense of pride and loyalty that exists among the members of a team and makes them want that team to do well)",
+      "example": "The coach praised the players for their great team spirit and resilience."
+    },
+    {
+      "word": "Collective goal",
+      "meaning": "Mục tiêu chung (A target or objective that a group of people works together to achieve)",
+      "example": "Our collective goal is to reduce carbon emissions by fifty percent within the next decade."
+    }
+  ],
+  "topic": "Describe a time you had to work in a team.",
+  "id": "p2_q15"
+}

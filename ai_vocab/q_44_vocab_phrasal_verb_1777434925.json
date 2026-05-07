@@ -1,0 +1,76 @@
+{
+  "id": "q_44",
+  "vocab": [
+    {
+      "word": "sprawl out",
+      "ipa": "/sprɔːl aʊt/",
+      "meaning": "mở rộng ra, trải dài ra (diện tích trường học)",
+      "example": "The campus has really sprawled out over the last decade, with several new wings added to the original structure.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "gear up for",
+      "ipa": "/ɡɪər ʌp fɔːr/",
+      "meaning": "chuẩn bị sẵn sàng cho (một tiêu chuẩn hoặc xu hướng mới)",
+      "example": "The school is gearing up for a full digital transformation by replacing all traditional chalkboards with interactive smart panels.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "bring back",
+      "ipa": "/brɪŋ bæk/",
+      "meaning": "khôi phục lại (một truyền thống hoặc môn học cũ)",
+      "example": "Interestingly, they have brought back the school gardening club to encourage students to connect with nature.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open onto",
+      "ipa": "/ˈəʊ.pən ˈɒn.tuː/",
+      "meaning": "mở ra hướng (một không gian mới được xây dựng)",
+      "example": "The newly renovated library now opens onto a tranquil courtyard where students can read in the fresh air.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "live up to",
+      "ipa": "/lɪv ʌp tuː/",
+      "meaning": "đáp ứng được (kỳ vọng hoặc danh tiếng ngày càng tăng)",
+      "example": "With all the new facilities, the school now truly lives up to its reputation as a leading regional institution.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "taper off",
+      "ipa": "/ˈteɪ.pər ɒf/",
+      "meaning": "giảm dần (về số lượng hoặc mức độ sử dụng cái gì đó cũ)",
+      "example": "The use of physical paper in administrative tasks has started to taper off as the school moves toward a paperless system.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "fitted into",
+      "ipa": "/ˈfɪt.ɪd ˈɪn.tuː/",
+      "meaning": "được lồng ghép, đưa vào (chương trình học hoặc không gian)",
+      "example": "Coding and robotics have been seamlessly fitted into the primary curriculum to prepare kids for the future.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "branch off",
+      "ipa": "/brɑːntʃ ɒf/",
+      "meaning": "tách ra, chia nhánh (tạo ra các khu vực chuyên biệt mới)",
+      "example": "A new vocational track has branched off from the main academic program to cater to students with practical talents.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "clean up",
+      "ipa": "/kliːn ʌp/",
+      "meaning": "cải thiện đáng kể hình ảnh hoặc môi trường",
+      "example": "The administration has worked hard to clean up the school's image by focusing on environmental sustainability and green spaces.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pave over",
+      "ipa": "/peɪv ˈəʊ.vər/",
+      "meaning": "lát đường/sân (biến một khu vực tự nhiên thành sân chơi hoặc bãi đỗ xe)",
+      "example": "It’s a bit sad that they paved over the old grassy slope to create a more functional assembly area for the students.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

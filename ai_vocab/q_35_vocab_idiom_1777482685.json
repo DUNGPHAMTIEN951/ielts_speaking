@@ -1,0 +1,76 @@
+{
+  "id": "q_35",
+  "vocab": [
+    {
+      "word": "green thumb",
+      "ipa": "/ɡriːn θʌm/",
+      "meaning": "có khiếu trồng cây/mát tay chăm sóc cây cối",
+      "example": "My grandmother had a real green thumb, and she helped me grow my first batch of tomatoes in the backyard.",
+      "type": "idiom"
+    },
+    {
+      "word": "bear fruit",
+      "ipa": "/beər fruːt/",
+      "meaning": "đơm hoa kết trái/mang lại kết quả thành công",
+      "example": "It took months of patient watering before my little apple tree finally started to bear fruit.",
+      "type": "idiom"
+    },
+    {
+      "word": "nip something in the bud",
+      "ipa": "/nɪp ˈsʌm.θɪŋ ɪn ðə bʌd/",
+      "meaning": "diệt trừ mầm mống từ đầu (thường nói về sâu bệnh hoặc cỏ dại)",
+      "example": "I had to be very observant to nip any pest infestations in the bud before they ruined my rose bushes.",
+      "type": "idiom"
+    },
+    {
+      "word": "fresh as a daisy",
+      "ipa": "/freʃ æz ə ˈdeɪ.zi/",
+      "meaning": "tươi như hoa/tràn đầy năng lượng",
+      "example": "I remember seeing the morning glory flowers looking fresh as a daisy every time I woke up early to water them.",
+      "type": "idiom"
+    },
+    {
+      "word": "come up roses",
+      "ipa": "/kʌm ʌp ˈrəʊ.zɪz/",
+      "meaning": "diễn biến tốt đẹp/thành công rực rỡ",
+      "example": "I was worried the soil wasn't rich enough, but in the end, my little garden project came up roses.",
+      "type": "idiom"
+    },
+    {
+      "word": "the grass is always greener",
+      "ipa": "/ðə ɡrɑːs ɪz ˈɔːl.weɪz ˈɡriː.nər/",
+      "meaning": "đứng núi này trông núi nọ",
+      "example": "I used to think the grass is always greener on the other side when I saw my neighbor's giant sunflowers compared to mine.",
+      "type": "idiom"
+    },
+    {
+      "word": "late bloomer",
+      "ipa": "/leɪt ˈbluː.mər/",
+      "meaning": "người (hoặc cây) nở muộn/phát triển muộn",
+      "example": "One of my lilies was a bit of a late bloomer, only opening its petals weeks after all the others had finished.",
+      "type": "idiom"
+    },
+    {
+      "word": "root for",
+      "ipa": "/ruːt fɔːr/",
+      "meaning": "ủng hộ/cổ vũ cho ai đó (hoặc thứ gì đó) phát triển",
+      "example": "Every day after school, I would check on my fragile bean sprout, really rooting for it to survive the heavy rain.",
+      "type": "idiom"
+    },
+    {
+      "word": "flowery language",
+      "ipa": "/ˈflaʊ.ə.ri ˈlæŋ.ɡwɪdʒ/",
+      "meaning": "ngôn ngữ hoa mỹ/chải chuốt (dùng khi tả về vẻ đẹp của cây)",
+      "example": "I don't mean to use flowery language, but the scent of the jasmine I grew was truly intoxicating.",
+      "type": "idiom"
+    },
+    {
+      "word": "shrinking violet",
+      "ipa": "/ˌʃrɪŋ.kɪŋ ˈvaɪə.lət/",
+      "meaning": "người nhút nhát/ngại ngùng (ẩn dụ về những loài cây ưa bóng râm)",
+      "example": "Unlike the bold sunflowers, the delicate violets I planted were a bit like shrinking violets, hiding under the larger leaves.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

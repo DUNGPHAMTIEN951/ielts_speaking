@@ -1,0 +1,76 @@
+{
+  "id": "q_34",
+  "vocab": [
+    {
+      "word": "sprout up",
+      "ipa": "/spraʊt ʌp/",
+      "meaning": "nảy mầm, bắt đầu mọc lên",
+      "example": "It's incredibly rewarding to see the tiny green shoots finally sprout up from the soil after weeks of waiting.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "perk up",
+      "ipa": "/pɜːrk ʌp/",
+      "meaning": "tươi tỉnh trở lại, trở nên khỏe khoắn hơn",
+      "example": "Wilting flowers will often perk up almost immediately after they are given a good soak.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "prune back",
+      "ipa": "/pruːn bæk/",
+      "meaning": "tỉa bớt (cành, lá) để cây phát triển tốt hơn",
+      "example": "To encourage bushier growth, you should prune back the leggy stems of your herbs during the spring.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "thrive on",
+      "ipa": "/θraɪv ɒn/",
+      "meaning": "phát triển rất tốt nhờ vào (điều kiện cụ thể nào đó)",
+      "example": "Succulents tend to thrive on neglect, as overwatering is actually the most common way to kill them.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "pot up",
+      "ipa": "/pɒt ʌp/",
+      "meaning": "cho cây vào chậu (thường là từ khay ươm hoặc chuyển sang chậu lớn hơn)",
+      "example": "Once the seedlings have developed their second set of leaves, it’s time to pot them up into individual containers.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "die back",
+      "ipa": "/daɪ bæk/",
+      "meaning": "héo úa dần (phần trên mặt đất) nhưng gốc vẫn sống",
+      "example": "Many perennial plants will die back in the winter and then reappear when the weather warms up.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dry out",
+      "ipa": "/draɪ aʊt/",
+      "meaning": "cạn kiệt nước, khô hoàn toàn",
+      "example": "You have to be careful not to let the peat moss dry out completely, or it becomes very difficult to re-wet.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "thin out",
+      "ipa": "/θɪn aʊt/",
+      "meaning": "tỉa thưa (để các cây còn lại có không gian phát triển)",
+      "example": "If you sow seeds too thickly, you’ll need to thin out the weaker seedlings to prevent overcrowding.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take root",
+      "ipa": "/teɪk ruːt/",
+      "meaning": "bắt đầu ra rễ, bám rễ",
+      "example": "It takes about two weeks for the cuttings to take root in the water before they can be transferred to compost.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "feed up",
+      "ipa": "/fiːd ʌp/",
+      "meaning": "bón nhiều phân/dinh dưỡng để cây nhanh lớn hoặc ra quả",
+      "example": "During the flowering season, I usually feed up my tomato plants with a high-potassium liquid fertilizer.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

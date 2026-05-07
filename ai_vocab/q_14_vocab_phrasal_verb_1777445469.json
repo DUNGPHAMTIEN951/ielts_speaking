@@ -1,0 +1,76 @@
+{
+  "id": "q_14",
+  "vocab": [
+    {
+      "word": "gaze out at",
+      "ipa": "/ɡeɪz aʊt æt/",
+      "meaning": "nhìn đắm đuối ra phía (thường là một không gian rộng lớn)",
+      "example": "We spent hours on the deck of the ship just gazing out at the vast, shimmering expanse of the Atlantic Ocean.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "sweep across",
+      "ipa": "/swiːp əˈkrɒs/",
+      "meaning": "trải dài hoặc lướt nhanh qua một bề mặt rộng",
+      "example": "The shadow of the clouds sweeping across the rolling hills of Tuscany created a mesmerizing play of light.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "jut out",
+      "ipa": "/dʒʌt aʊt/",
+      "meaning": "nhô ra, đâm ra (vách đá, mũi đất)",
+      "example": "I was struck by the dramatic limestone cliffs that jut out of the emerald waters in Ha Long Bay.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "look over",
+      "ipa": "/lʊk ˈəʊvə(r)/",
+      "meaning": "nhìn từ trên cao xuống một khu vực",
+      "example": "From the penthouse suite, you can look over the entire city skyline as it begins to glow at twilight.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "take back",
+      "ipa": "/teɪk bæk/",
+      "meaning": "làm cho ngạc nhiên, sững sờ (thường dùng ở dạng bị động 'be taken aback')",
+      "example": "I was completely taken aback by the sheer scale and intricate detail of the Angkor Wat temple complex.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "peer through",
+      "ipa": "/pɪə(r) θruː/",
+      "meaning": "nhìn xuyên qua, nhìn kỹ qua (sương mù, kẽ lá, ống kính)",
+      "example": "Peering through the morning mist, we finally caught a glimpse of the elusive Machu Picchu ruins.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "stretch out",
+      "ipa": "/stretʃ aʊt/",
+      "meaning": "trải rộng ra tận chân trời",
+      "example": "The golden sand dunes of the Sahara stretched out before us as far as the eye could see.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "dot around",
+      "ipa": "/dɒt əˈraʊnd/",
+      "meaning": "rải rác khắp nơi",
+      "example": "The sight of tiny, colorful fishing boats dotted around the harbor was incredibly picturesque.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "roll by",
+      "ipa": "/rəʊl baɪ/",
+      "meaning": "trôi qua (thường dùng khi ngồi trên tàu/xe nhìn cảnh vật)",
+      "example": "I loved watching the lush countryside roll by as we took the high-speed train across Japan.",
+      "type": "phrasal_verb"
+    },
+    {
+      "word": "open up",
+      "ipa": "/ˈəʊpən ʌp/",
+      "meaning": "hiện ra rộng mở (khi rẽ ngoặt hoặc thay đổi góc nhìn)",
+      "example": "The trail was dense with trees, but it suddenly opened up to reveal a hidden, crystal-clear waterfall.",
+      "type": "phrasal_verb"
+    }
+  ],
+  "type": "phrasal_verb"
+}

@@ -1,0 +1,322 @@
+{
+  "id": "q_35",
+  "topic": "Studying",
+  "q": "How much time do you spend on your studies every day?",
+  "examiner_note": "Câu hỏi này về thói quen và quản lý thời gian. \n- **Hướng dẫn trả lời**: Bạn có thể nêu con số cụ thể, sau đó giải thích sự khác nhau giữa ngày thường và cuối tuần, hoặc giữa giai đoạn học bình thường và giai đoạn ôn thi. \n- **Mẹo**: Sử dụng các trạng từ chỉ tần suất và mức độ như 'on average', 'roughly', 'depending on', 'intense period', 'crunch time' để câu trả lời sinh động hơn.",
+  "samples": {
+    "band7": {
+      "text": "On average, I spend about 4 to 5 hours a day studying. This includes attending lectures at university and doing my homework at home. However, during exam seasons, I definitely have to put in more effort and might study for up to 8 hours.",
+      "note": "Trả lời thực tế, có sự phân biệt giữa ngày thường và kỳ thi. Từ vựng ổn định ('average', 'effort')."
+    },
+    "band8": {
+      "text": "It typically varies depending on my academic workload. Usually, I dedicate around 6 hours a day to my studies. But during intense periods like final exams or when an assignment deadline is approaching, I'm often buried in my books from dawn till dusk.",
+      "note": "Sử dụng các cụm từ hay như 'dedicate around', 'intense periods', 'approaching', 'from dawn till dusk'."
+    },
+    "band9": {
+      "text": "Roughly speaking, I devote approximately six to seven hours daily to academic pursuits. However, during 'crunch time' before major assessments, this figure can escalate significantly. I try to maintain a consistent schedule to avoid last-minute cramming, which I find quite counterproductive.",
+      "note": "Từ vựng học thuật đỉnh cao ('devote', 'academic pursuits', 'crunch time', 'escalate', 'counterproductive'). Cách diễn đạt rất tinh tế."
+    }
+  },
+  "v": [
+    {
+      "word": "on average",
+      "meaning": "trung bình",
+      "ipa": "/ɒn ˈævərɪdʒ/",
+      "example": "On average, I sleep about 7 hours a night."
+    },
+    {
+      "word": "roughly",
+      "meaning": "khoảng chừng",
+      "ipa": "/ˈrʌfli/",
+      "example": "There are roughly 500 students in our department."
+    },
+    {
+      "word": "approximate",
+      "meaning": "xấp xỉ",
+      "ipa": "/əˈprɒksɪmət/",
+      "example": "The approximate cost of the trip is $200."
+    },
+    {
+      "word": "devote",
+      "meaning": "cống hiến/dành (thời gian/công sức)",
+      "ipa": "/dɪˈvəʊt/",
+      "example": "She devotes a lot of time to her charity work."
+    },
+    {
+      "word": "academic pursuits",
+      "meaning": "các hoạt động học thuật",
+      "ipa": "/ˌækəˈdemɪk pəˈsjuːts/",
+      "example": "University life is not just about academic pursuits; it's also about personal growth."
+    },
+    {
+      "word": "crunch time",
+      "meaning": "thời gian quan trọng/áp lực nhất",
+      "ipa": "/krʌntʃ taɪm/",
+      "example": "It's crunch time, so we all need to work late to finish the project."
+    },
+    {
+      "word": "escalate",
+      "meaning": "leo thang/tăng vọt",
+      "ipa": "/ˈeskəleɪt/",
+      "example": "The conflict between the two countries escalated rapidly."
+    },
+    {
+      "word": "counterproductive",
+      "meaning": "phản tác dụng",
+      "ipa": "/ˌkaʊntəprəˈdʌktɪv/",
+      "example": "Studying all night is often counterproductive as it makes you too tired to think clearly."
+    },
+    {
+      "word": "cram",
+      "meaning": "nhồi nhét (kiến thức)",
+      "ipa": "/kræm/",
+      "example": "I had to cram for my history exam the night before."
+    },
+    {
+      "word": "last-minute",
+      "meaning": "vào phút cuối",
+      "ipa": "/ˌlɑːst ˈmɪnɪt/",
+      "example": "We made a last-minute decision to go to the beach."
+    },
+    {
+      "word": "dedicate",
+      "meaning": "dành riêng cho",
+      "ipa": "/ˈdedɪkeɪt/",
+      "example": "The library has a room dedicated to local history."
+    },
+    {
+      "word": "intense period",
+      "meaning": "giai đoạn cường độ cao",
+      "ipa": "/ɪnˈtens ˈpɪəriəd/",
+      "example": "The weeks leading up to finals are a very intense period for students."
+    },
+    {
+      "word": "dawn till dusk",
+      "meaning": "từ sáng sớm đến tối mịt",
+      "ipa": "/dɔːn tɪl dʌsk/",
+      "example": "He works from dawn till dusk to provide for his family."
+    },
+    {
+      "word": "approaching",
+      "meaning": "đang đến gần",
+      "ipa": "/əˈprəʊtʃɪŋ/",
+      "example": "The exams are approaching, so I need to start revising."
+    },
+    {
+      "word": "academic workload",
+      "meaning": "khối lượng học tập",
+      "ipa": "/ˌækəˈdemɪk ˈwɜːkləʊd/",
+      "example": "Engineering students often have a very heavy academic workload."
+    },
+    {
+      "word": "time management",
+      "meaning": "quản lý thời gian",
+      "ipa": "/taɪm ˈmænɪdʒmənt/",
+      "example": "Effective time management is the key to balancing work and study."
+    },
+    {
+      "word": "consistent schedule",
+      "meaning": "lịch trình nhất quán",
+      "ipa": "/kənˈsɪstənt ˈʃedjuːl/",
+      "example": "I try to follow a consistent schedule to stay organized."
+    },
+    {
+      "word": "productive",
+      "meaning": "hiệu quả/năng suất",
+      "ipa": "/prəˈdʌktɪv/",
+      "example": "I had a very productive morning and finished three reports."
+    },
+    {
+      "word": "self-discipline",
+      "meaning": "tự kỷ luật",
+      "ipa": "/ˌself ˈdɪsəplɪn/",
+      "example": "Distance learning requires a lot of self-discipline."
+    },
+    {
+      "word": "concentration",
+      "meaning": "sự tập trung",
+      "ipa": "/ˌkɒnsnˈtreɪʃn/",
+      "example": "Noise from the street made concentration difficult."
+    },
+    {
+      "word": "distraction",
+      "meaning": "sự xao nhãng",
+      "ipa": "/dɪˈstrækʃn/",
+      "example": "I find that music can be a distraction when I'm trying to study."
+    },
+    {
+      "word": "all-nighter",
+      "meaning": "thức trắng đêm",
+      "ipa": "/ˌɔːl ˈnaɪtə(r)/",
+      "example": "Pulling an all-nighter is never a good idea before a big exam."
+    },
+    {
+      "word": "burnout",
+      "meaning": "sự kiệt sức",
+      "ipa": "/ˈbɜːnaʊt/",
+      "example": "Stress at work can lead to physical and mental burnout."
+    },
+    {
+      "word": "revising",
+      "meaning": "ôn tập",
+      "ipa": "/rɪˈvaɪzɪŋ/",
+      "example": "I'm currently revising my notes for the upcoming test."
+    },
+    {
+      "word": "mock exam",
+      "meaning": "thi thử",
+      "ipa": "/mɒk ɪɡˈzæm/",
+      "example": "Students are required to take a mock exam before the actual one."
+    },
+    {
+      "word": "academic success",
+      "meaning": "thành công trong học tập",
+      "ipa": "/ˌækəˈdemɪk səkˈses/",
+      "example": "The school rewards students for their academic success."
+    },
+    {
+      "word": "effort",
+      "meaning": "nỗ lực",
+      "ipa": "/ˈefət/",
+      "example": "You need to put in more effort if you want to improve your grades."
+    },
+    {
+      "word": "focus",
+      "meaning": "tập trung",
+      "ipa": "/ˈfəʊkəs/",
+      "example": "I need to focus on my studies if I want to pass my exams."
+    },
+    {
+      "word": "motivation",
+      "meaning": "động lực",
+      "ipa": "/ˌməʊtɪˈveɪʃn/",
+      "example": "Lack of motivation is a common problem among university students."
+    },
+    {
+      "word": "perseverance",
+      "meaning": "sự kiên trì",
+      "ipa": "/ˌpɜːsɪˈvɪərəns/",
+      "example": "Learning a new language requires a lot of perseverance."
+    },
+    {
+      "word": "milestone",
+      "meaning": "cột mốc",
+      "ipa": "/ˈmaɪlstəʊn/",
+      "example": "Finishing your first year of university is a major milestone."
+    },
+    {
+      "word": "commitment",
+      "meaning": "sự cam kết/tận tụy",
+      "ipa": "/kəˈmɪtmənt/",
+      "example": "He has a strong commitment to his studies."
+    },
+    {
+      "word": "high pressure",
+      "meaning": "áp lực cao",
+      "ipa": "/haɪ ˈpreʃə(r)/",
+      "example": "The medicine program is a high-pressure environment."
+    },
+    {
+      "word": "tiring",
+      "meaning": "mệt mỏi",
+      "ipa": "/ˈtaɪərɪŋ/",
+      "example": "It's been a long and tiring day at school."
+    },
+    {
+      "word": "rigorous",
+      "meaning": "nghiêm ngặt/khắt khe",
+      "ipa": "/ˈrɪɡərəs/",
+      "example": "The scientific method requires rigorous testing and analysis."
+    },
+    {
+      "word": "well-organized",
+      "meaning": "được sắp xếp tốt/có tổ chức",
+      "ipa": "/ˌwel ˈɔːɡənaɪzd/",
+      "example": "Her notes are always very well-organized."
+    },
+    {
+      "word": "proactive",
+      "meaning": "chủ động",
+      "ipa": "/ˌprəʊˈæktɪv/",
+      "example": "The school takes a proactive approach to student mental health."
+    },
+    {
+      "word": "balance",
+      "meaning": "sự cân bằng",
+      "ipa": "/ˈbæləns/",
+      "example": "It's important to find a balance between work and play."
+    },
+    {
+      "word": "uninterrupted",
+      "meaning": "không bị gián đoạn",
+      "ipa": "/ˌʌnˌɪntəˈrʌptɪd/",
+      "example": "I need at least two hours of uninterrupted study time each day."
+    },
+    {
+      "word": "quiet spot",
+      "meaning": "nơi yên tĩnh",
+      "ipa": "/ˈkwaɪət spɒt/",
+      "example": "I usually look for a quiet spot in the library to do my work."
+    },
+    {
+      "word": "focused study",
+      "meaning": "việc học tập trung",
+      "ipa": "/ˈfəʊkəst ˈstʌdi/",
+      "example": "An hour of focused study is better than three hours of distracted study."
+    },
+    {
+      "word": "study routine",
+      "meaning": "thói quen học tập",
+      "ipa": "/ˈstʌdi ruːˌtiːn/",
+      "example": "Establishing a solid study routine took me several months."
+    },
+    {
+      "word": "time slot",
+      "meaning": "khoảng thời gian",
+      "ipa": "/taɪm slɒt/",
+      "example": "I've reserved a time slot in the computer lab for this afternoon."
+    },
+    {
+      "word": "peak performance",
+      "meaning": "hiệu suất đỉnh cao",
+      "ipa": "/piːk pəˈfɔːməns/",
+      "example": "Athletes need to be in peak performance for the Olympics."
+    },
+    {
+      "word": "mental clarity",
+      "meaning": "sự sáng suốt về tinh thần",
+      "ipa": "/ˈmentl ˈklærəti/",
+      "example": "Meditation can help improve concentration and mental clarity."
+    },
+    {
+      "word": "recharge",
+      "meaning": "nạp lại năng lượng",
+      "ipa": "/ˌriːˈtʃɑːdʒ/",
+      "example": "Taking a short nap can help you recharge and stay productive."
+    },
+    {
+      "word": "efficiency",
+      "meaning": "sự hiệu quả",
+      "ipa": "/ɪˈfɪʃnsi/",
+      "example": "The new system has greatly improved the efficiency of the lab."
+    },
+    {
+      "word": "knowledge retention",
+      "meaning": "sự ghi nhớ kiến thức",
+      "ipa": "/ˈnɒlɪdʒ rɪˈtenʃn/",
+      "example": "Active recall is a great technique for long-term knowledge retention."
+    },
+    {
+      "word": "continuous improvement",
+      "meaning": "sự cải thiện liên tục",
+      "ipa": "/kənˈtɪnjuəs ɪmˈpruːvmənt/",
+      "example": "The school is committed to the continuous improvement of its teaching quality."
+    },
+    {
+      "word": "thoroughly",
+      "meaning": "một cách kỹ lưỡng/hoàn toàn",
+      "ipa": "/ˈθʌrəli/",
+      "example": "I thoroughly enjoyed the course and learned a lot."
+    }
+  ]
+}

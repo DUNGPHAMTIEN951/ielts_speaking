@@ -1,0 +1,76 @@
+{
+  "id": "q_20",
+  "vocab": [
+    {
+      "word": "fiscal stability",
+      "ipa": "/ˈfɪskl stəˈbɪləti/",
+      "meaning": "sự ổn định về tài chính",
+      "example": "Most people entrust their life savings to banks because these institutions provide a level of fiscal stability that is hard to maintain at home.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "credit facility",
+      "ipa": "/ˈkredɪt fəˈsɪləti/",
+      "meaning": "gói/công cụ hỗ trợ tín dụng",
+      "example": "Banks offer various credit facilities, such as personal loans and overdrafts, which help individuals manage their cash flow during lean periods.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "fiduciary duty",
+      "ipa": "/fɪˈdjuːʃieri ˈdjuːti/",
+      "meaning": "trách nhiệm ủy thác (trách nhiệm pháp lý bảo vệ tài sản)",
+      "example": "Banks have a fiduciary duty to act in the best interests of their clients, ensuring that deposited funds are handled with utmost integrity.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "seamless integration",
+      "ipa": "/ˈsiːmləs ˌɪntɪˈɡreɪʃn/",
+      "meaning": "sự tích hợp liền mạch (với các dịch vụ khác)",
+      "example": "With the seamless integration of banking apps and e-commerce, people can settle payments globally within seconds.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "hedge against",
+      "ipa": "/hedʒ əˈɡeɪnst/",
+      "meaning": "biện pháp phòng ngừa (rủi ro, mất mát)",
+      "example": "Utilizing specialized savings accounts can serve as a hedge against the eroding effects of inflation on one's wealth.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "capital growth",
+      "ipa": "/ˈkæpɪtl ɡrəʊθ/",
+      "meaning": "sự tăng trưởng vốn",
+      "example": "Banks facilitate capital growth by providing access to investment portfolios and high-yield certificates of deposit.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "money laundering prevention",
+      "ipa": "/ˈmʌni ˈlɔːndərɪŋ prɪˈvenʃn/",
+      "meaning": "phòng chống rửa tiền",
+      "example": "By using banks, citizens contribute to money laundering prevention, as all large transactions are monitored by regulatory bodies.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "collateral",
+      "ipa": "/kəˈlætərəl/",
+      "meaning": "tài sản thế chấp",
+      "example": "People use banks to leverage their existing assets, such as property, as collateral for business expansion loans.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "audit trail",
+      "ipa": "/ˈɔːdɪt treɪl/",
+      "meaning": "dấu vết kiểm toán (lịch sử giao dịch rõ ràng)",
+      "example": "One major advantage of banking is the automatic audit trail it creates, which is invaluable for tax purposes and financial transparency.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "liquidity",
+      "ipa": "/lɪˈkwɪdəti/",
+      "meaning": "tính thanh khoản (khả năng chuyển thành tiền mặt)",
+      "example": "Keeping money in a bank provides high liquidity, allowing users to withdraw or transfer funds whenever an emergency arises.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

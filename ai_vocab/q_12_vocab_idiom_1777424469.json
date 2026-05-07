@@ -1,0 +1,76 @@
+{
+  "id": "q_12",
+  "vocab": [
+    {
+      "word": "a change of scenery",
+      "ipa": "/ə tʃeɪndʒ əv ˈsiːnəri/",
+      "meaning": "thay đổi không khí/phong cảnh (để bớt nhàm chán)",
+      "example": "Whenever I feel burnt out, heading to the coast for a change of scenery works wonders for my productivity.",
+      "type": "idiom"
+    },
+    {
+      "word": "the call of the wild",
+      "ipa": "/ðə kɔːl əv ðə waɪld/",
+      "meaning": "tiếng gọi của nơi hoang dã (sự thôi thúc trở về với thiên nhiên)",
+      "example": "I often find it hard to resist the call of the wild, which usually leads me to a hiking trip in the highlands.",
+      "type": "idiom"
+    },
+    {
+      "word": "make a beeline for",
+      "ipa": "/meɪk ə ˈbiːlaɪn fɔː(r)/",
+      "meaning": "đi thẳng nhanh nhất tới đâu đó",
+      "example": "As soon as the summer holidays begin, I make a beeline for the nearest beach to soak up the sun.",
+      "type": "idiom"
+    },
+    {
+      "word": "climb the ladder",
+      "ipa": "/klaɪm ðə ˈlædə(r)/",
+      "meaning": "tiến bộ/thăng tiến (ẩn dụ khi nói về việc chinh phục các đỉnh núi)",
+      "example": "To me, trekking is a metaphor for life; you have to keep climbing the ladder until you reach the summit.",
+      "type": "idiom"
+    },
+    {
+      "word": "smooth sailing",
+      "ipa": "/smuːð ˈseɪlɪŋ/",
+      "meaning": "mọi việc diễn ra trôi chảy (thường dùng khi nói về cảm giác bình yên ở biển)",
+      "example": "I prefer the sea because the calm waves make me feel like everything in my life is smooth sailing.",
+      "type": "idiom"
+    },
+    {
+      "word": "move heaven and earth",
+      "ipa": "/muːv ˈhevn ənd ɜːθ/",
+      "meaning": "làm mọi cách, xoay sở đủ đường (để được đi du lịch/nghỉ dưỡng)",
+      "example": "I would move heaven and earth just to spend a weekend in a remote cabin overlooking the jagged peaks.",
+      "type": "idiom"
+    },
+    {
+      "word": "head in the clouds",
+      "ipa": "/hed ɪn ðə klaʊdz/",
+      "meaning": "đầu óc trên mây (nghĩa bóng khi nói về sự mơ mộng trên đỉnh núi cao)",
+      "example": "Standing at an altitude of 3,000 meters, it’s easy to have your head in the clouds and forget about mundane worries.",
+      "type": "idiom"
+    },
+    {
+      "word": "ocean of difference",
+      "ipa": "/ˈəʊʃn əv ˈdɪfrəns/",
+      "meaning": "sự khác biệt khổng lồ",
+      "example": "There is an ocean of difference between seeing a mountain on a screen and experiencing its majesty in person.",
+      "type": "idiom"
+    },
+    {
+      "word": "ebb and flow",
+      "ipa": "/eb ənd fləʊ/",
+      "meaning": "sự thăng trầm/biến đổi (như nhịp thủy triều)",
+      "example": "I find the ebb and flow of the tides deeply philosophical, which is why I’m more of a sea person.",
+      "type": "idiom"
+    },
+    {
+      "word": "leave no stone unturned",
+      "ipa": "/liːv nəʊ stəʊn ʌnˈtɜːnd/",
+      "meaning": "không bỏ sót bất kỳ ngóc ngách nào (khi đi khám phá thiên nhiên)",
+      "example": "When I go hiking, I like to leave no stone unturned, exploring every hidden trail and waterfall in the area.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "q_36",
+  "topic": "Plants",
+  "q": "Do you keep plants at home?",
+  "examiner_note": "Nói về trang trí và lợi ích. Sử dụng 'low-maintenance', 'succulents', 'purify the air', 'aesthetic touch'.",
+  "samples": {
+    "band7": {
+      "text": "Yes, I have a few low-maintenance indoor plants like succulents and a snake plant in my living room. They not only add a touch of greenery but also help to purify the air and create a more relaxing atmosphere in my home.",
+      "note": "Sử dụng ví dụ cụ thể (succulents) và giải thích lợi ích (purify, relaxing)."
+    },
+    "band8": {
+      "text": "I’m a big fan of indoor greenery. I have quite a collection of tropical plants scattered throughout my apartment. I find that they significantly enhance the aesthetic of my living space and provide a sense of serenity that is hard to find in a busy city.",
+      "note": "Sử dụng từ vựng hay (greenery, scattered, enhance, aesthetic, serenity)."
+    },
+    "band9": {
+      "text": "Absolutely, my home is essentially a small urban jungle. I find that surrounding myself with living plants is vital for my mental well-being. Beyond their air-purifying qualities, they provide a constant connection to the natural world and serve as a living testament to the beauty and resilience of life.",
+      "note": "Sử dụng ẩn dụ và từ vựng cao (urban jungle, vital, air-purifying, testament)."
+    }
+  },
+  "v": [
+    {
+      "word": "serenity",
+      "meaning": "sự thanh thản/yên bình",
+      "ipa": "/səˈrenəti/",
+      "example": "I love the serenity of the early morning."
+    },
+    {
+      "word": "scattered",
+      "meaning": "rải rác",
+      "ipa": "/ˈskætərd/",
+      "example": "His clothes were scattered all over the floor."
+    },
+    {
+      "word": "purify",
+      "meaning": "làm sạch/thanh lọc",
+      "ipa": "/ˈpjʊrɪfaɪ/",
+      "example": "Plants help to purify the air."
+    }
+  ],
+  "advanced_vocab": [
+    {
+      "word": "testament",
+      "meaning": "minh chứng",
+      "ipa": "/ˈtestəmənt/",
+      "example": "The success is a testament to her hard work."
+    }
+  ],
+  "similar_questions": [
+    "Do you prefer real plants or artificial ones?",
+    "Is it easy to take care of plants at home?"
+  ]
+}

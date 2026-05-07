@@ -1,0 +1,76 @@
+{
+  "id": "q_40",
+  "vocab": [
+    {
+      "word": "ring a bell",
+      "ipa": "/rɪŋ ə bel/",
+      "meaning": "nghe quen thuộc (thường dùng cho âm báo hoặc tiếng chuông)",
+      "example": "The repetitive chime of my neighbor's doorbell doesn't just ring a bell; it practically haunts my study hours.",
+      "type": "idiom"
+    },
+    {
+      "word": "at all hours",
+      "ipa": "/æt ɔːl ˈaʊərz/",
+      "meaning": "bất kể giờ giấc (thường là những lúc không nên)",
+      "example": "Living downtown means dealing with the roar of modified engines passing by at all hours of the night.",
+      "type": "idiom"
+    },
+    {
+      "word": "a deafening roar",
+      "ipa": "/ə ˈdefənɪŋ rɔːr/",
+      "meaning": "tiếng gầm rú đinh tai nhức óc",
+      "example": "When the local metro passes over the bridge, it creates a deafening roar that makes conversation impossible.",
+      "type": "idiom"
+    },
+    {
+      "word": "within earshot",
+      "ipa": "/wɪˈðɪn ˈɪəʃɒt/",
+      "meaning": "trong tầm nghe thấy được",
+      "example": "Being within earshot of a primary school, I’m subjected to the high-pitched squeals of children during their morning break.",
+      "type": "idiom"
+    },
+    {
+      "word": "drown out",
+      "ipa": "/draʊn aʊt/",
+      "meaning": "lấn át (âm thanh này to hơn hẳn âm thanh kia)",
+      "example": "I usually turn on my white noise machine to drown out the incessant chatter from the hallway.",
+      "type": "idiom"
+    },
+    {
+      "word": "grate on one's nerves",
+      "ipa": "/ɡreɪt ɒn wʌnz nɜːrvz/",
+      "meaning": "làm ai đó cực kỳ khó chịu, bực mình",
+      "example": "The high-pitched screech of construction equipment really grates on my nerves when I'm trying to concentrate.",
+      "type": "idiom"
+    },
+    {
+      "word": "the hustle and bustle",
+      "ipa": "/ðə ˈhʌsl ənd ˈbʌsl/",
+      "meaning": "sự hối hả và ồn ào (thường của đô thị)",
+      "example": "The hustle and bustle of the local market provides a symphony of shouting vendors and clacking carts every morning.",
+      "type": "idiom"
+    },
+    {
+      "word": "silence is golden",
+      "ipa": "/ˈsaɪləns ɪz ˈɡəʊldən/",
+      "meaning": "im lặng là vàng (nhấn mạnh sự quý giá của sự yên tĩnh)",
+      "example": "After a day of hearing sirens and jackhammers, I truly realize that silence is golden.",
+      "type": "idiom"
+    },
+    {
+      "word": "make a racket",
+      "ipa": "/meɪk ə ˈrækɪt/",
+      "meaning": "gây ra tiếng động huyên náo, ầm ĩ",
+      "example": "The stray cats in the alleyway often make a racket at midnight, which can be quite startling.",
+      "type": "idiom"
+    },
+    {
+      "word": "not hear oneself think",
+      "ipa": "/nɒt hɪə(r) wʌnˈself θɪŋk/",
+      "meaning": "ồn đến mức không thể tập trung suy nghĩ được",
+      "example": "With the renovation going on next door, it's so loud that I literally cannot hear myself think.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}
