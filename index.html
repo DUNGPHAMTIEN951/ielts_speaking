@@ -2941,7 +2941,7 @@
         console.log("[Phạm Tiến Dũng Gia Sư DEBUG] Raw Response Data:", data);
         
         if (!response.ok) throw new Error(data.error || 'Lỗi server');
-        renderPhạm Tiến Dũng Gia SưAnalysisReport(data, content);
+        renderAIAnalysisReport(data, content);
       } catch (err) {
         console.error("[Phạm Tiến Dũng Gia Sư ERROR] Analysis failed:", err);
         content.innerHTML = `
@@ -2954,7 +2954,7 @@
       }
     }
 
-    function renderPhạm Tiến Dũng Gia SưAnalysisReport(data, container) {
+    function renderAIAnalysisReport(data, container) {
       console.log("[RENDER DEBUG] Data to render:", data);
       if (!container) return;
 
@@ -3224,7 +3224,7 @@
           example: v.sentence,
           imgPath: v.imgPath,
           type: v.type || 'vocabulary',
-          isPhạm Tiến Dũng Gia Sư: true
+          isAI: true
         }));
         console.log(`[DEBUG] Found ${aiVocab.length} matching Phạm Tiến Dũng Gia Sư vocab entries in memory.`);
       }
@@ -3264,7 +3264,7 @@
         if (v.isAddBtn) {
           return `
             <div class="w-full h-full flex flex-col items-center justify-center bg-indigo-50/50 border-dashed border-2 border-indigo-200 rounded-3xl hover:bg-indigo-100/50 transition-all cursor-pointer group" 
-                 onclick="window.requestPhạm Tiến Dũng Gia SưVocab()">
+                 onclick="window.requestAIVocab()">
               <div class="w-16 h-16 bg-white rounded-full flex items-center justify-center shadow-lg mb-4 group-hover:scale-110 transition-transform">
                 <i class="fas fa-plus text-indigo-600 text-2xl"></i>
               </div>
@@ -3288,7 +3288,7 @@
               <div class="text-lg font-black text-slate-800 group-hover:text-indigo-600 transition-colors leading-tight">${v.word || 'No Word'}</div>
               <div class="text-[10px] text-indigo-400 font-mono mt-1 mb-2 bg-indigo-50 px-2 py-0.5 rounded">${v.ipa || ''}</div>
               <div class="text-xs text-slate-500 line-clamp-3">${v.meaning || ''}</div>
-              ${v.isPhạm Tiến Dũng Gia Sư ? '<div class="mt-2 text-[8px] font-black text-indigo-300 uppercase tracking-widest">Phạm Tiến Dũng Gia Sư Result</div>' : ''}
+              ${v.isAI ? '<div class="mt-2 text-[8px] font-black text-indigo-300 uppercase tracking-widest">Phạm Tiến Dũng Gia Sư Result</div>' : ''}
             </div>
           </div>
         `;
@@ -3371,7 +3371,7 @@
     }
     window.switchResourceTab = switchResourceTab;
 
-    async function fetchPhạm Tiến Dũng Gia SưSuggestions(qid) {
+    async function fetchAISuggestions(qid) {
       try {
         const response = await fetch(`http://localhost:5679/get_suggestions/${qid}`);
         if (!response.ok) return [];
@@ -3393,7 +3393,7 @@
       }
       
       if (aiSuggestions.length === 0) {
-        aiSuggestions = await fetchPhạm Tiến Dũng Gia SưSuggestions(q.id);
+        aiSuggestions = await fetchAISuggestions(q.id);
         // Cache successfully fetched suggestions to prevent disappearance on re-render
         if (aiSuggestions.length > 0 && typeof globalAiSuggestions !== 'undefined') {
           globalAiSuggestions[q.id] = aiSuggestions;
@@ -3487,18 +3487,18 @@
       let html = `<div class="note-stack-container" id="baremNoteStack">`;
       finalPages.forEach((p, idx) => {
         const status = idx === 0 ? 'active' : (idx === 1 ? 'next' : 'hidden opacity-0');
-        const isPhạm Tiến Dũng Gia Sư = p.source === 'Phạm Tiến Dũng Gia Sư';
+        const isAI = p.source === 'Phạm Tiến Dũng Gia Sư';
         const fullId = qIdStr + "_" + p.title;
         const pref = qPrefs.find(pr => pr.id === fullId);
         const isPinned = pref && pref.pinned;
 
         html += `
           <div class="note-card-item ${status}" id="barem-note-${idx}" data-idx="${idx}">
-            <div class="note-paper ${isPhạm Tiến Dũng Gia Sư ? 'ai-paper' : ''} custom-scroll">
+            <div class="note-paper ${isAI ? 'ai-paper' : ''} custom-scroll">
               <div class="flex justify-between items-center mb-6 shrink-0">
                   <div class="flex flex-col">
                     <div class="flex items-center gap-2">
-                      <span class="text-[10px] font-black ${isPhạm Tiến Dũng Gia Sư ? 'text-indigo-600' : 'text-slate-400'} uppercase tracking-widest">${p.title}</span>
+                      <span class="text-[10px] font-black ${isAI ? 'text-indigo-600' : 'text-slate-400'} uppercase tracking-widest">${p.title}</span>
                       <button onclick="window.speakText(\`${p.content.replace(/`/g, '\\`').replace(/\n/g, ' ')}\`)" class="text-indigo-300 hover:text-indigo-600 transition-colors" title="Nghe câu trả lời mẫu">
                         <i class="fas fa-volume-up text-[10px]"></i>
                       </button>
@@ -3526,7 +3526,7 @@
                   <b class="text-amber-600 not-italic uppercase tracking-widest mr-1 text-[9px]">Note:</b>${p.note}
                 </div>
               ` : ''}
-              ${isPhạm Tiến Dũng Gia Sư ? '<div class="mt-auto pt-4 text-[8px] text-indigo-300 italic text-right uppercase tracking-widest font-black">Generated by Gemini Pro</div>' : ''}
+              ${isAI ? '<div class="mt-auto pt-4 text-[8px] text-indigo-300 italic text-right uppercase tracking-widest font-black">Generated by Gemini Pro</div>' : ''}
             </div>
           </div>
         `;
@@ -3683,7 +3683,7 @@
     }
     window.requestAIBarem = requestAIBarem;
 
-    window.requestPhạm Tiến Dũng Gia SưVocab = requestPhạm Tiến Dũng Gia SưVocab;
+    window.requestAIVocab = requestAIVocab;
 
     async function setVocabFilter(type) {
       appState.vocabFilter = type;
@@ -3700,7 +3700,7 @@
     }
     window.setVocabFilter = setVocabFilter;
 
-    async function requestPhạm Tiến Dũng Gia SưVocab() {
+    async function requestAIVocab() {
       const q = appState.questions[appState.currentIndex];
 
       // Ask for type
@@ -3731,7 +3731,7 @@
         alert("Lỗi khi kết nối server Phạm Tiến Dũng Gia Sư: " + err.message);
       }
     }
-    window.requestPhạm Tiến Dũng Gia SưVocab = requestPhạm Tiến Dũng Gia SưVocab;
+    window.requestAIVocab = requestAIVocab;
 
     async function refreshCurrentData() {
       console.log("[Phạm Tiến Dũng Gia Sư] Refreshing current data for real-time update...");
@@ -3909,7 +3909,7 @@
     // GEMINI Phạm Tiến Dũng Gia Sư INTEGRATION
     // ==========================================
     const GEMINI_CONFIG = {
-      apiKey: "Phạm Tiến Dũng Gia SưzaSyBa0aUdUweB6RlA6zNSQnd398ucBGSZPzw",
+      apiKey: "AIzaSyBa0aUdUweB6RlA6zNSQnd398ucBGSZPzw",
       model: "gemini-2.0-flash-exp"
     };
 
@@ -3969,7 +3969,7 @@
             <i class="fas fa-redo mr-2"></i> Phân tích lại
           </button>
         `;
-        renderPhạm Tiến Dũng Gia SưAnalysisReport(data, document.getElementById('aiAnalysisContainer'));
+        renderAIAnalysisReport(data, document.getElementById('aiAnalysisContainer'));
       } catch (error) {
         console.error("Phạm Tiến Dũng Gia Sư Analysis Error:", error);
         aiArea.innerHTML = `
@@ -4033,7 +4033,7 @@
             </div>
             <div id="jsonReportContainer"></div>
           `;
-          renderPhạm Tiến Dũng Gia SưAnalysisReport(data, document.getElementById('jsonReportContainer'));
+          renderAIAnalysisReport(data, document.getElementById('jsonReportContainer'));
         } else {
           const html = await response.text();
           detail.innerHTML = `
@@ -4074,7 +4074,7 @@
         
         if (!response.ok) throw new Error(data.error || "Lỗi không xác định");
         
-        renderPhạm Tiến Dũng Gia SưAnalysisReport(data, detail);
+        renderAIAnalysisReport(data, detail);
         if (typeof loadAIHistory === 'function') loadAIHistory();
       } catch (err) {
         detail.innerHTML = `
@@ -4630,11 +4630,11 @@
       bubble.style.display = 'flex';
       bubble.onclick = (ev) => {
         ev.stopPropagation();
-        performPhạm Tiến Dũng Gia SưLookup(text, x, y);
+        performAILookup(text, x, y);
       };
     }
 
-    async function performPhạm Tiến Dũng Gia SưLookup(word, x, y) {
+    async function performAILookup(word, x, y) {
       hideLookupUI();
 
       // Show loading state
@@ -4822,7 +4822,7 @@
           const globalIdx = appState.questions.indexOf(q);
           const isActive = appState.currentIndex === globalIdx;
           const hasNote = questionsWithNotes.has(q.id);
-          const hasPhạm Tiến Dũng Gia Sư = questionsWithAI.has(q.id);
+          const hasAI = questionsWithAI.has(q.id);
 
           // Truncate question text for list
           const plainText = q.rawQuestion || q.text.replace(/<[^>]*>/g, '').substring(0, 50) + '...';
@@ -4837,7 +4837,7 @@
                     </div>
                     <div class="flex gap-1 shrink-0">
                       ${hasNote ? '<div class="w-1.5 h-1.5 rounded-full bg-amber-400"></div>' : ''}
-                      ${hasPhạm Tiến Dũng Gia Sư ? '<div class="w-1.5 h-1.5 rounded-full bg-emerald-400"></div>' : ''}
+                      ${hasAI ? '<div class="w-1.5 h-1.5 rounded-full bg-emerald-400"></div>' : ''}
                     </div>
                   </button>
                 `;
@@ -4905,7 +4905,7 @@
         }
       } catch (err) {
         showToast("LỖI KẾT NỐI: " + err.message);
-        console.error("[Phạm Tiến Dũng Gia Sư TEST FPhạm Tiến Dũng Gia SưLED]", err);
+        console.error("[Phạm Tiến Dũng Gia Sư TEST FAILED]", err);
       }
     }
 
