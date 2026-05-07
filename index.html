@@ -63,6 +63,13 @@
       user-select: none;
       -webkit-user-drag: none;
     }
+    .no-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+    .no-scrollbar {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
     input, textarea {
       -webkit-user-select: text;
       -moz-user-select: text;
@@ -133,15 +140,29 @@
 
     .speaking-container {
       display: grid;
-      grid-template-columns: 2.8fr 5.2fr 3.5fr;
+      grid-template-columns: 1fr;
       gap: 1rem;
-      height: 100%;
-      overflow: hidden;
-      transition: grid-template-columns 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+      height: auto;
+      min-height: 100vh;
+      overflow-y: auto;
+    }
+
+    @media (min-width: 1024px) {
+      .speaking-container {
+        grid-template-columns: 2.8fr 5.2fr 3.5fr;
+        height: 100%;
+        overflow: hidden;
+      }
     }
 
     .speaking-container.resources-hidden {
-      grid-template-columns: 2.8fr 8.7fr 0fr;
+      grid-template-columns: 1fr;
+    }
+
+    @media (min-width: 1024px) {
+      .speaking-container.resources-hidden {
+        grid-template-columns: 2.8fr 8.7fr 0fr;
+      }
     }
 
     .speaking-container.resources-hidden #resourceColumn {
@@ -359,11 +380,22 @@
     }
 
     .modal-body {
-      padding: 2rem;
-      display: grid;
-      grid-template-columns: 1fr 1.2fr;
-      gap: 2rem;
-      overflow: hidden;
+      padding: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+      overflow-y: auto;
+      max-height: 80vh;
+    }
+
+    @media (min-width: 768px) {
+      .modal-body {
+        padding: 2rem;
+        display: grid;
+        grid-template-columns: 1fr 1.2fr;
+        gap: 2rem;
+        overflow: hidden;
+      }
     }
 
     .modal-col-left {
@@ -1087,107 +1119,61 @@
   </div>
 
   <!-- Navbar -->
-  <nav class="glass-panel sticky top-0 z-40 px-4 md:px-6 py-3 shadow-sm">
-    <div class="flex justify-between items-center mb-3 md:mb-0">
-      <div class="flex items-center gap-3">
+  <nav class="glass-panel sticky top-0 z-40 px-4 md:px-6 py-3 shadow-sm overflow-hidden">
+    <div class="flex flex-col lg:flex-row justify-between items-center gap-4">
+      <div class="flex items-center gap-3 w-full lg:w-auto">
         <div
-          class="w-10 h-10 bg-gradient-to-br from-indigo-600 to-violet-600 rounded-xl flex items-center justify-center text-white shadow-lg shadow-indigo-500/30">
+          class="w-10 h-10 bg-gradient-to-br from-indigo-600 to-violet-600 rounded-xl flex items-center justify-center text-white shadow-lg shadow-indigo-500/30 flex-shrink-0">
           <i class="fas fa-book-open"></i>
         </div>
         <div>
-          <h1 class="font-heading font-bold text-lg leading-tight text-slate-800">IELTS Speaking Forecast
+          <h1 class="font-heading font-bold text-base md:text-lg leading-tight text-slate-800">IELTS Speaking Forecast
             Q1/2026</h1>
-          <p class="text-[10px] md:text-xs text-slate-500 font-medium uppercase tracking-wider">Dự đoán đề thi
-            Quý 1/2026</p>
+          <p class="text-[9px] md:text-xs text-slate-500 font-medium uppercase tracking-wider">Phạm Tiến Dũng Gia Sư</p>
         </div>
       </div>
 
-      <div
-        class="flex items-center gap-2 bg-white/50 backdrop-blur-sm p-1.5 rounded-2xl border border-white/50 shadow-sm px-3">
-        <span class="text-[10px] font-black text-indigo-900 uppercase tracking-tighter">All Topics</span>
+      <!-- Mode Switcher (Scrollable on Mobile) -->
+      <div class="flex w-full lg:w-auto overflow-x-auto no-scrollbar py-1">
+        <div class="flex bg-slate-100 p-1 rounded-xl flex-nowrap whitespace-nowrap mx-auto lg:mx-0">
+          <button onclick="switchMode('guide')"
+            class="mode-btn active-mode px-3 md:px-4 py-2 rounded-lg text-xs md:text-sm font-bold transition-all" data-mode="guide">
+            <i class="fas fa-graduation-cap mr-1 md:mr-2"></i>Lý thuyết
+          </button>
+          <button onclick="switchMode('speaking')"
+            class="mode-btn px-3 md:px-4 py-2 rounded-lg text-xs md:text-sm font-bold text-slate-500 hover:text-slate-700 transition-all"
+            data-mode="speaking">
+            <i class="fas fa-microphone mr-1 md:mr-2"></i>Luyện Nói
+          </button>
+          <button onclick="switchMode('flashcard')"
+            class="mode-btn px-3 md:px-4 py-2 rounded-lg text-xs md:text-sm font-bold text-slate-500 hover:text-slate-700 transition-all"
+            data-mode="flashcard">
+            <i class="fas fa-layer-group mr-1 md:mr-2"></i>Flashcards
+          </button>
+          <button onclick="switchMode('voiceManager')"
+            class="mode-btn px-3 md:px-4 py-2 rounded-lg text-xs md:text-sm font-bold text-slate-500 hover:text-slate-700 transition-all"
+            data-mode="voiceManager">
+            <i class="fas fa-folder-open mr-1 md:mr-2"></i>Voice
+          </button>
+          <button onclick="switchMode('dashboard')"
+            class="mode-btn px-3 md:px-4 py-2 rounded-lg text-xs md:text-sm font-bold text-slate-500 hover:text-slate-700 transition-all"
+            data-mode="dashboard">
+            <i class="fas fa-chart-line mr-1 md:mr-2"></i>Tiến độ
+          </button>
+          <button onclick="switchMode('aiHistory')"
+            class="mode-btn px-3 md:px-4 py-2 rounded-lg text-xs md:text-sm font-bold text-slate-500 hover:text-slate-700 transition-all"
+            data-mode="aiHistory">
+            <i class="fas fa-robot mr-1 md:mr-2"></i>Lịch sử AI
+          </button>
+        </div>
       </div>
-
-      <!-- Mode Switcher (Desktop) -->
-      <div class="hidden md:flex bg-slate-100 p-1 rounded-xl">
-        <button onclick="switchMode('guide')"
-          class="mode-btn active-mode px-4 py-2 rounded-lg text-sm font-bold transition-all" data-mode="guide">
-          <i class="fas fa-graduation-cap mr-2"></i>Lý thuyết IELTS
-        </button>
-        <button onclick="switchMode('speaking')"
-          class="mode-btn px-4 py-2 rounded-lg text-sm font-bold text-slate-500 hover:text-slate-700 transition-all"
-          data-mode="speaking">
-          <i class="fas fa-microphone mr-2"></i>Luyện Nói
-        </button>
-        <button onclick="switchMode('flashcard')"
-          class="mode-btn px-4 py-2 rounded-lg text-sm font-bold text-slate-500 hover:text-slate-700 transition-all"
-          data-mode="flashcard">
-          <i class="fas fa-layer-group mr-2"></i>Flashcards
-        </button>
-        <button onclick="switchMode('quiz')"
-          class="mode-btn px-4 py-2 rounded-lg text-sm font-bold text-slate-500 hover:text-slate-700 transition-all"
-          data-mode="quiz">
-          <i class="fas fa-puzzle-piece mr-2"></i>Quiz
-        </button>
-        <button onclick="switchMode('voiceManager')"
-          class="mode-btn px-4 py-2 rounded-lg text-sm font-bold text-slate-500 hover:text-slate-700 transition-all"
-          data-mode="voiceManager">
-          <i class="fas fa-tasks mr-2"></i>Voice
-        </button>
-        <button onclick="switchMode('notesManager')"
-          class="mode-btn px-4 py-2 rounded-lg text-sm font-bold text-slate-500 hover:text-slate-700 transition-all"
-          data-mode="notesManager">
-          <i class="fas fa-sticky-note mr-2"></i>Notes
-        </button>
-        <button onclick="switchMode('dashboard')"
-          class="mode-btn px-4 py-2 rounded-lg text-sm font-bold text-slate-500 hover:text-slate-700 transition-all"
-          data-mode="dashboard">
-          <i class="fas fa-chart-line mr-2"></i>Dashboard
-        </button>
-        <button onclick="switchMode('aiHistory')"
-          class="mode-btn px-4 py-2 rounded-lg text-sm font-bold text-slate-500 hover:text-slate-700 transition-all"
-          data-mode="aiHistory">
-          <i class="fas fa-robot mr-2"></i>Phạm Tiến Dũng Gia Sư History
-        </button>
-      </div>
+    </div>
+  </nav>
 
       <!-- Mobile Menu Button -->
       <div class="flex items-center gap-2">
         <button onclick="toggleDarkMode()" class="p-2 text-slate-500 hover:text-indigo-600 transition-colors">
           <i id="darkIcon" class="fas fa-moon"></i>
-        </button>
-        <button onclick="document.getElementById('mobileMenu').classList.toggle('hidden')"
-          class="md:hidden text-slate-600 text-xl p-2">
-          <i class="fas fa-bars"></i>
-        </button>
-      </div>
-    </div>
-
-    <!-- Mobile Menu -->
-    <div id="mobileMenu" class="hidden md:hidden pb-3 border-t border-slate-100 mt-2 pt-2 grid grid-cols-3 gap-2">
-      <button onclick="switchMode('guide')"
-        class="flex flex-col items-center p-2 rounded-lg bg-indigo-50 text-brand font-bold text-xs">
-        <i class="fas fa-graduation-cap mb-1 text-lg"></i> IELTS
-      </button>
-      <button onclick="switchMode('speaking')"
-        class="flex flex-col items-center p-2 rounded-lg bg-white text-slate-500 font-medium text-xs">
-        <i class="fas fa-microphone mb-1 text-lg"></i> Luyện Nói
-      </button>
-      <button onclick="switchMode('flashcard')"
-        class="flex flex-col items-center p-2 rounded-lg bg-white text-slate-500 font-medium text-xs">
-        <i class="fas fa-layer-group mb-1 text-lg"></i> Flashcards
-      </button>
-      <button onclick="switchMode('quiz')"
-        class="flex flex-col items-center p-2 rounded-lg bg-white text-slate-500 font-medium text-xs">
-        <i class="fas fa-puzzle-piece mb-1 text-lg"></i> Quiz
-      </button>
-      <button onclick="switchMode('voiceManager')"
-        class="flex flex-col items-center p-2 rounded-lg bg-white text-slate-500 font-medium text-xs">
-        <i class="fas fa-tasks mb-1 text-lg"></i> Voice
-      </button>
-      <button onclick="switchMode('aiHistory')"
-        class="flex flex-col items-center p-2 rounded-lg bg-white text-slate-500 font-medium text-xs">
-        <i class="fas fa-robot mb-1 text-lg"></i> Phạm Tiến Dũng Gia Sư Reports
-      </button>
     </div>
   </nav>
 
@@ -1206,7 +1192,7 @@
     <!-- SECTION 0: GUIDE (THEORY) -->
     <!-- ===================================== -->
     <div id="guideSection" class="section-container h-full flex flex-col animate-slide-up relative z-10">
-      <div class="glass-panel w-full max-w-6xl mx-auto rounded-2xl p-4 md:p-6 flex flex-col h-full shadow-xl">
+      <div class="glass-panel w-full max-w-6xl mx-auto rounded-2xl p-2 md:p-6 flex flex-col h-full shadow-xl">
 
         <div class="flex overflow-x-auto gap-2 border-b border-slate-200 pb-3 mb-4 shrink-0 custom-scroll">
           <button id="btn-g-part1" onclick="switchGuideTab('g-part1')"
