@@ -4431,7 +4431,10 @@
     async function toggleRecording() {
       if (!appState.recording) {
         try {
-          const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+          const hasAccess = await ensureMicAccess();
+          if (!hasAccess) return;
+          const stream = appState.micStream;
+          
           appState.audioContext = new (window.AudioContext || window.webkitAudioContext)();
           appState.mediaRecorder = new MediaRecorder(stream);
           appState.audioChunks = [];
