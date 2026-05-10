@@ -2475,7 +2475,9 @@
           if (key.startsWith('p') && Array.isArray(source[key])) {
             const itemsWithPart = source[key].map(item => {
               if (testType === 'toeic' || testType === 'b2') {
-                return { ...item, q: item.text, partLabel: item.topic.split(':')[0] };
+                const displayQ = item.q || item.text || "";
+                let pLabel = item.topic.includes(':') ? item.topic.split(':')[0] : `Part ${key.replace('p', '')}`;
+                return { ...item, q: displayQ, partLabel: pLabel };
               }
               const qText = (item.q || "").toLowerCase();
               const topicText = (item.topic || "").trim();
