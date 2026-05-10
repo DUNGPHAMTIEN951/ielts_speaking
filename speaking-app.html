@@ -2164,6 +2164,11 @@
       
       loadAllData(type);
       
+      // Reset navigation state
+      currentNavPart = 1;
+      appState.currentIndex = 0;
+      switchNavPart(1);
+      
       // Toggle visibility of Part 4/5 buttons
       const isMultiPart = (type === 'toeic' || type === 'b2');
       document.querySelectorAll('.qb-toeic-only, .nav-toeic-only').forEach(el => {
@@ -2470,7 +2475,7 @@
           if (key.startsWith('p') && Array.isArray(source[key])) {
             const itemsWithPart = source[key].map(item => {
               if (testType === 'toeic' || testType === 'b2') {
-                return { ...item, partLabel: item.topic.split(':')[0] };
+                return { ...item, q: item.text, partLabel: item.topic.split(':')[0] };
               }
               const qText = (item.q || "").toLowerCase();
               const topicText = (item.topic || "").trim();
@@ -5226,6 +5231,8 @@
 
         container.innerHTML = data.map((q, idx) => {
           let extraInfo = '';
+          const displayQ = q.q || q.text || "No question text available";
+          
           if (partKey === 'p2' && q.cue_card) {
             extraInfo = `
               <div class="mt-3 p-4 bg-white rounded-xl border border-indigo-100 shadow-sm">
@@ -5234,12 +5241,16 @@
                   ${q.cue_card.map(p => `<li class="text-xs text-slate-600 flex items-start gap-2"><i class="fas fa-caret-right text-indigo-400 mt-1"></i>${p}</li>`).join('')}
                 </ul>
               </div>`;
-          } else if ((partKey === 'p1' || partKey === 'p3') && q.examiner_note) {
+          } else if (q.examiner_note || q.hint) {
             extraInfo = `
               <div class="mt-3 p-3 bg-indigo-50/50 rounded-lg border border-indigo-100">
-                <p class="text-[10px] font-black text-indigo-400 uppercase tracking-widest mb-1">Hướng dẫn trả lời:</p>
-                <p class="text-xs text-indigo-800 leading-relaxed">${q.examiner_note}</p>
+                <p class="text-[10px] font-black text-indigo-400 uppercase tracking-widest mb-1">Hướng dẫn / Gợi ý:</p>
+                <p class="text-xs text-indigo-800 leading-relaxed">${q.examiner_note || q.hint}</p>
               </div>`;
+          } else if (q.schedule_html) {
+             extraInfo = `<div class="mt-3 p-3 bg-indigo-50/50 rounded-lg border border-indigo-100 overflow-x-auto">
+               <table class="w-full text-[10px] border-collapse"><style>.toeic-table-q td { border: 1px solid #ddd; padding: 2px 4px; }</style><tbody class="toeic-table-q">${q.schedule_html}</tbody></table>
+             </div>`;
           }
 
           return `
@@ -5251,7 +5262,7 @@
                     <span class="text-[9px] font-black bg-indigo-100 text-indigo-600 px-1.5 py-0.5 rounded uppercase tracking-tighter">${q.topic}</span>
                     <span class="text-[9px] text-slate-400">#${idx + 1}</span>
                   </div>
-                  <p class="text-sm font-bold text-slate-700 leading-snug">${q.q}</p>
+                  <p class="text-sm font-bold text-slate-700 leading-snug">${displayQ}</p>
                 </div>
                 <i class="fas fa-chevron-down text-slate-300 group-hover:text-indigo-400 transition-colors text-xs"></i>
               </button>
@@ -5266,6 +5277,10 @@
         }).join('');
       });
     }
+
+    window.switchPart = async function (partNum) {
+      switchNavPart(partNum);
+    };
 
     window.jumpToPartQuestion = async function (partKey, idx) {
       const partNum = parseInt(partKey.replace('p', ''));
