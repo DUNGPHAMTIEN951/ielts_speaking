@@ -1122,7 +1122,7 @@
   <nav class="glass-panel sticky top-0 z-40 px-4 md:px-6 py-3 shadow-sm overflow-hidden">
     <div class="flex flex-col lg:flex-row justify-between items-center gap-4">
       <div class="flex items-center gap-6 w-full lg:w-auto">
-        <div class="flex items-center gap-3">
+        <a href="index.html" class="flex items-center gap-3 hover:opacity-80 transition-opacity">
           <div
             class="w-10 h-10 bg-gradient-to-br from-indigo-600 to-violet-600 rounded-xl flex items-center justify-center text-white shadow-lg shadow-indigo-500/30 flex-shrink-0">
             <i class="fas fa-book-open"></i>
@@ -1131,12 +1131,13 @@
             <h1 id="mainTitle" class="font-heading font-bold text-base md:text-lg leading-tight text-slate-800">IELTS Speaking Forecast Q1/2026</h1>
             <p class="text-[9px] md:text-xs text-slate-500 font-medium uppercase tracking-wider">Phạm Tiến Dũng Gia Sư</p>
           </div>
-        </div>
+        </a>
         
         <!-- Test Type Switcher -->
         <div class="flex bg-slate-200/50 p-1 rounded-xl items-center gap-1 border border-slate-200">
-          <button onclick="changeTestType('ielts')" id="type-ielts" class="px-4 py-1.5 rounded-lg text-[10px] font-black uppercase tracking-widest transition-all bg-white text-indigo-600 shadow-sm">IELTS</button>
-          <button onclick="changeTestType('toeic')" id="type-toeic" class="px-4 py-1.5 rounded-lg text-[10px] font-black uppercase tracking-widest transition-all text-slate-500 hover:bg-white/50">TOEIC</button>
+          <button onclick="changeTestType('ielts')" id="type-ielts" class="px-3 py-1.5 rounded-lg text-[9px] font-black uppercase tracking-widest transition-all bg-white text-indigo-600 shadow-sm">IELTS</button>
+          <button onclick="changeTestType('toeic')" id="type-toeic" class="px-3 py-1.5 rounded-lg text-[9px] font-black uppercase tracking-widest transition-all text-slate-500 hover:bg-white/50">TOEIC</button>
+          <button onclick="changeTestType('b2')" id="type-b2" class="px-3 py-1.5 rounded-lg text-[9px] font-black uppercase tracking-widest transition-all text-slate-500 hover:bg-white/50">B2</button>
         </div>
       </div>
 
@@ -2115,10 +2116,17 @@
       appState.testType = type;
       
       // Update UI
-      document.getElementById('type-ielts').className = type === 'ielts' ? 'px-4 py-1.5 rounded-lg text-[10px] font-black uppercase tracking-widest transition-all bg-white text-indigo-600 shadow-sm' : 'px-4 py-1.5 rounded-lg text-[10px] font-black uppercase tracking-widest transition-all text-slate-500 hover:bg-white/50';
-      document.getElementById('type-toeic').className = type === 'toeic' ? 'px-4 py-1.5 rounded-lg text-[10px] font-black uppercase tracking-widest transition-all bg-white text-indigo-600 shadow-sm' : 'px-4 py-1.5 rounded-lg text-[10px] font-black uppercase tracking-widest transition-all text-slate-500 hover:bg-white/50';
+      const btnClassActive = 'px-3 py-1.5 rounded-lg text-[9px] font-black uppercase tracking-widest transition-all bg-white text-indigo-600 shadow-sm';
+      const btnClassInactive = 'px-3 py-1.5 rounded-lg text-[9px] font-black uppercase tracking-widest transition-all text-slate-500 hover:bg-white/50';
       
-      document.getElementById('mainTitle').innerText = type === 'ielts' ? 'IELTS Speaking Forecast Q1/2026' : 'TOEIC Speaking Master Bank';
+      document.getElementById('type-ielts').className = type === 'ielts' ? btnClassActive : btnClassInactive;
+      document.getElementById('type-toeic').className = type === 'toeic' ? btnClassActive : btnClassInactive;
+      document.getElementById('type-b2').className = type === 'b2' ? btnClassActive : btnClassInactive;
+      
+      let title = 'IELTS Speaking Forecast Q1/2026';
+      if (type === 'toeic') title = 'TOEIC Speaking Master Bank';
+      if (type === 'b2') title = 'B2 (FCE) Speaking Curriculum';
+      document.getElementById('mainTitle').innerText = title;
       
       loadAllData(type);
     }
@@ -2413,12 +2421,15 @@
       }
       try {
         let partData = [];
-        const source = (testType === 'toeic') ? ALL_IELTS_DATA.toeic : ALL_IELTS_DATA;
+        let source;
+        if (testType === 'toeic') source = ALL_IELTS_DATA.toeic;
+        else if (testType === 'b2') source = ALL_IELTS_DATA.b2;
+        else source = ALL_IELTS_DATA;
         
         for (let key in source) {
           if (key.startsWith('p') && Array.isArray(source[key])) {
             const itemsWithPart = source[key].map(item => {
-              if (testType === 'toeic') {
+              if (testType === 'toeic' || testType === 'b2') {
                 return { ...item, partLabel: item.topic.split(':')[0] };
               }
               const qText = (item.q || "").toLowerCase();
@@ -2563,8 +2574,29 @@
         await initDB();
         await initNoteDB();
         initSpeechRecognition();
-        await loadGlobalVocab(); // Pre-load all vocabulary (including Phạm Tiến Dũng Gia Sư data)
-        await window.loadAllData();
+        await loadGlobalVocab();
+        
+        // Handle URL parameters for test type
+        const params = new URLSearchParams(window.location.search);
+        const type = params.get('type');
+        if (type && ['ielts', 'toeic', 'b2'].includes(type)) {
+          appState.testType = type;
+        }
+
+        await window.loadAllData(appState.testType);
+        
+        // Update UI button state
+        const btnClassActive = 'px-3 py-1.5 rounded-lg text-[9px] font-black uppercase tracking-widest transition-all bg-white text-indigo-600 shadow-sm';
+        const btnClassInactive = 'px-3 py-1.5 rounded-lg text-[9px] font-black uppercase tracking-widest transition-all text-slate-500 hover:bg-white/50';
+        document.getElementById('type-ielts').className = appState.testType === 'ielts' ? btnClassActive : btnClassInactive;
+        document.getElementById('type-toeic').className = appState.testType === 'toeic' ? btnClassActive : btnClassInactive;
+        document.getElementById('type-b2').className = appState.testType === 'b2' ? btnClassActive : btnClassInactive;
+        
+        let title = 'IELTS Speaking Forecast Q1/2026';
+        if (appState.testType === 'toeic') title = 'TOEIC Speaking Master Bank';
+        if (appState.testType === 'b2') title = 'B2 (FCE) Speaking Curriculum';
+        document.getElementById('mainTitle').innerText = title;
+
         renderQBank();
         switchMode('guide');
         initSelectionLookup();
@@ -2665,9 +2697,9 @@
       // 2. Part Distribution
       const distContainer = document.getElementById('partDistribution');
       if (distContainer) {
-        const parts = (appState.testType === 'toeic') ? [1, 2, 3, 4, 5] : [1, 2, 3];
+        const parts = (appState.testType === 'toeic' || appState.testType === 'b2') ? [1, 2, 3, 4, 5] : [1, 2, 3];
         distContainer.innerHTML = parts.map(p => {
-          const pTotal = (appState.testType === 'toeic') ? (appState.questions.filter(q => q.topic.includes(`Part ${p}`)).length) : 10;
+          const pTotal = (appState.testType === 'toeic' || appState.testType === 'b2') ? (appState.questions.filter(q => q.topic.includes(`Part ${p}`)).length) : 10;
           const pCount = recordings.filter(r => r.part === p || (typeof r.part === 'string' && r.part.includes(`Part ${p}`))).length;
           const pPct = pTotal > 0 ? Math.min(100, Math.round((pCount / pTotal) * 100)) : 0;
           return `
