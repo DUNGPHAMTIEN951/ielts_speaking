@@ -2458,16 +2458,23 @@
     }
 
     async function ensureMicAccess() {
-      if (appState.micStream) return true;
+      if (appState.micStream && appState.micStream.active) return true;
       try {
         appState.micStream = await navigator.mediaDevices.getUserMedia({ audio: true });
-        console.log("Microphone access pre-authorized.");
+        console.log("Microphone access secured.");
         return true;
       } catch (err) {
         console.error("Mic access denied:", err);
+        alert("Ứng dụng cần quyền Micro để ghi âm và nhận diện giọng nói. Vui lòng cấp quyền trong cài đặt trình duyệt.");
         return false;
       }
     }
+
+    // GLOBAL ERROR HANDLER
+    window.onerror = function(msg, url, line, col, error) {
+      console.error(`[GLOBAL ERROR] ${msg} at ${line}:${col}`, error);
+      return false;
+    };
 
     window.handleVocabError = function (img) {
       if (img.dataset.errorHandled) return;
@@ -2500,7 +2507,8 @@
             const itemsWithPart = source[key].map(item => {
               if (testType === 'toeic' || testType === 'b2') {
                 const displayQ = item.q || item.text || "";
-                let pLabel = item.topic.includes(':') ? item.topic.split(':')[0] : `Part ${key.replace('p', '')}`;
+                const rawTopic = item.topic || "";
+                let pLabel = rawTopic.includes(':') ? rawTopic.split(':')[0] : `Part ${key.replace('p', '')}`;
                 return { ...item, q: displayQ, text: displayQ, partLabel: pLabel };
               }
               const qText = (item.q || "").toLowerCase();
@@ -4940,9 +4948,14 @@
       const grid = document.getElementById('navigatorGrid');
       if (!grid) return;
 
+      console.log(`[DEBUG] renderQuestionNavigator for Part ${currentNavPart}. Total questions: ${appState.questions.length}`);
+      
       const filtered = appState.questions.filter(q => {
-        return q.partLabel && q.partLabel.includes(`Part ${currentNavPart}`);
+        const match = q.partLabel && q.partLabel.includes(`Part ${currentNavPart}`);
+        return match;
       });
+
+      console.log(`[DEBUG] Filtered items: ${filtered.length}`);
 
       // Group by topic
       const groups = {};
