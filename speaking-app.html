@@ -2492,8 +2492,11 @@
         else if (testType === 'b2') source = ALL_IELTS_DATA.b2;
         else source = ALL_IELTS_DATA;
 
+        console.log(`[DEBUG] Source keys for ${testType}:`, Object.keys(source || {}));
+        
         for (let key in source) {
           if (key.startsWith('p') && Array.isArray(source[key])) {
+            console.log(`[DEBUG] Processing part ${key} with ${source[key].length} items`);
             const itemsWithPart = source[key].map(item => {
               if (testType === 'toeic' || testType === 'b2') {
                 const displayQ = item.q || item.text || "";
