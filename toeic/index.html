@@ -1,0 +1,749 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luyện Tập TOEIC Speaking: Ngân Hàng 200+ Câu</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f3f4f6;
+            color: #1f2937;
+        }
+
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 4px;
+        }
+
+        .editor-panel {
+            background: white;
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            border: 1px solid #e2e8f0;
+        }
+
+        #stimulusArea {
+            background-color: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 12px;
+            padding: 16px;
+            margin-bottom: 20px;
+            font-size: 1rem;
+            color: #334155;
+            line-height: 1.6;
+        }
+
+        #hintContent {
+            font-size: 0.95rem;
+            line-height: 1.6;
+            color: #475569;
+            flex-grow: 1;
+            overflow-y: auto;
+            max-height: 40vh;
+        }
+
+        #hintContent li::before {
+            content: '\f058';
+            font-family: 'Font Awesome 5 Free';
+            font-weight: 900;
+            position: absolute;
+            left: 0;
+            top: 3px;
+            color: #10b981;
+            font-size: 0.8rem;
+        }
+
+        #responseArea {
+            width: 100%;
+            min-height: 200px;
+            padding: 16px;
+            font-size: 1rem;
+            border: 2px solid #e2e8f0;
+            border-radius: 12px;
+            background-color: #f9fafb;
+            resize: vertical;
+        }
+
+        #responseArea:focus {
+            outline: none;
+            border-color: #3b82f6;
+            background-color: white;
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+        }
+
+        .nav-btn {
+            width: 36px;
+            height: 36px;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 0.85rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            border: 1px solid transparent;
+            cursor: pointer;
+        }
+
+        .nav-btn.active {
+            background-color: #2563eb;
+            color: white;
+            transform: translateY(-1px);
+        }
+
+        .nav-btn.completed {
+            background-color: #10b981;
+            color: white;
+        }
+
+        .nav-btn.pending {
+            background-color: white;
+            border-color: #cbd5e1;
+            color: #64748b;
+        }
+
+        .recording-active {
+            background-color: #ef4444 !important;
+            animation: ripple 1.5s infinite;
+        }
+
+        @keyframes ripple {
+            0% {
+                box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.4);
+            }
+
+            100% {
+                box-shadow: 0 0 0 12px rgba(239, 68, 68, 0);
+            }
+        }
+
+        .schedule-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+            margin-top: 10px;
+        }
+
+        .schedule-table th,
+        .schedule-table td {
+            border: 1px solid #cbd5e1;
+            padding: 8px;
+            text-align: left;
+        }
+
+        .schedule-table th {
+            background-color: #e2e8f0;
+            font-weight: 600;
+        }
+
+        .suggestion-card {
+            background: #eff6ff;
+            color: #1e40af;
+            border: 1px solid #dbeafe;
+            padding: 4px 10px;
+            border-radius: 99px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            display: inline-block;
+            margin: 2px;
+        }
+
+        /* New Styles for Mode Selector */
+        .mode-btn {
+            @apply px-4 py-2 rounded-lg font-medium transition;
+        }
+
+        .mode-btn.active {
+            @apply bg-blue-600 text-white shadow;
+        }
+
+        .mode-btn.inactive {
+            @apply bg-white text-slate-600 hover:bg-slate-50 border border-slate-200;
+        }
+    </style>
+</head>
+
+<body class="p-4 md:p-6 min-h-screen flex flex-col">
+
+    <div class="max-w-7xl mx-auto w-full flex-grow">
+        <!-- Header -->
+        <header class="flex flex-col lg:flex-row justify-between items-start lg:items-center mb-6 gap-4">
+            <div>
+                <h1 class="text-2xl md:text-3xl font-extrabold text-slate-800 tracking-tight">
+                    TOEIC Speaking Master
+                </h1>
+                <p class="text-slate-500 text-sm mt-1">
+                    Ngân hàng 200+ câu hỏi & Giả lập thi thử
+                </p>
+            </div>
+
+            <!-- Mode Selector -->
+            <div class="bg-slate-100 p-1 rounded-xl flex gap-1">
+                <button onclick="switchMode('random')" id="btnRandom"
+                    class="mode-btn active px-4 py-2 rounded-lg text-sm font-bold">
+                    <i class="fas fa-random mr-2"></i>Random Test (11 Câu)
+                </button>
+                <button onclick="switchMode('full')" id="btnFull"
+                    class="mode-btn inactive px-4 py-2 rounded-lg text-sm font-bold bg-white text-slate-600">
+                    <i class="fas fa-database mr-2"></i>Full Bank (Tất cả)
+                </button>
+            </div>
+
+            <div class="flex gap-2">
+                <button id="downloadButton"
+                    class="px-3 py-2 bg-white border border-slate-300 text-slate-700 rounded-lg hover:bg-slate-50 font-medium text-sm transition flex items-center gap-2">
+                    <i class="fas fa-file-word text-blue-600"></i> Word
+                </button>
+                <button id="exportAudioButton"
+                    class="px-3 py-2 bg-white border border-slate-300 text-slate-700 rounded-lg hover:bg-slate-50 font-medium text-sm transition flex items-center gap-2">
+                    <i class="fas fa-file-audio text-purple-600"></i> Zip Audio
+                </button>
+            </div>
+        </header>
+
+        <div id="practiceArea" class="space-y-6">
+            <!-- Control Bar -->
+            <div class="bg-white rounded-xl shadow-sm border border-slate-200 p-4">
+                <div class="flex justify-between items-center mb-3">
+                    <h2 class="text-lg font-bold text-slate-800 flex items-center gap-2" id="currentTopicTitle">
+                        <span class="w-1.5 h-6 bg-blue-600 rounded-full block"></span>
+                        Loading...
+                    </h2>
+                    <span id="progressText" class="font-bold text-blue-600 text-sm">0/0</span>
+                </div>
+                <div class="w-full bg-slate-100 rounded-full h-2.5 mb-3 overflow-hidden">
+                    <div id="progressBar" class="bg-blue-600 h-full rounded-full transition-all duration-300"
+                        style="width: 0%"></div>
+                </div>
+                <!-- Question Navigator (Scrollable if many items) -->
+                <div id="navigator" class="flex flex-wrap gap-1.5 max-h-32 overflow-y-auto pr-2"></div>
+                <div id="bankInfo" class="text-xs text-slate-400 mt-2 italic hidden">
+                    * Đang hiển thị toàn bộ ngân hàng câu hỏi. Cuộn để xem thêm.
+                </div>
+            </div>
+
+            <!-- Question Context Banner -->
+            <div id="questionPanel" class="bg-slate-800 rounded-xl p-6 text-center text-white shadow-lg hidden">
+                <p id="partLabel" class="text-xs font-bold text-blue-300 uppercase tracking-widest mb-2">PART 1</p>
+                <h3 id="questionText" class="text-xl md:text-2xl font-bold mb-4 leading-snug">Instruction...</h3>
+                <div class="inline-flex items-center gap-4 text-sm text-slate-300 bg-slate-700 px-4 py-2 rounded-full">
+                    <span><i class="fas fa-stopwatch mr-1"></i> Chuẩn bị: <strong id="prepTime"
+                            class="text-white">45s</strong></span>
+                    <span class="w-px h-4 bg-slate-500"></span>
+                    <span><i class="fas fa-microphone-alt mr-1"></i> Trả lời: <strong id="speakTime"
+                            class="text-white">45s</strong></span>
+                </div>
+                <div class="mt-4">
+                    <button id="playAudioBtn" class="text-xs text-blue-200 hover:text-white transition">
+                        <i class="fas fa-volume-up"></i> Đọc hướng dẫn
+                    </button>
+                </div>
+            </div>
+
+            <!-- Main Workspace -->
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 items-stretch">
+                <!-- LEFT: Stimulus & Advice -->
+                <div class="editor-panel border-l-4 border-yellow-500">
+                    <div class="flex items-center gap-2 mb-3 pb-2 border-b border-slate-100">
+                        <div class="text-yellow-600"><i class="fas fa-book-open text-lg"></i></div>
+                        <h3 class="text-md font-bold text-slate-800">Dữ liệu & Gợi ý</h3>
+                    </div>
+                    <div id="stimulusArea" class="hidden"></div>
+                    <div id="hintContent">
+                        <p class="text-slate-400 italic text-center mt-10">Nhấn "Tạo Đề Mới" hoặc "Bắt đầu" để làm bài.
+                        </p>
+                    </div>
+                    <div id="vocabSection" class="mt-auto pt-3 border-t border-slate-100 hidden">
+                        <p class="text-xs font-bold text-slate-400 uppercase mb-2">Từ vựng TOEIC cần dùng</p>
+                        <div id="vocabContainer" class="flex flex-wrap gap-2"></div>
+                    </div>
+                </div>
+
+                <!-- RIGHT: User Input -->
+                <div class="editor-panel border-l-4 border-blue-500">
+                    <div class="flex items-center justify-between mb-3 pb-2 border-b border-slate-100">
+                        <div class="flex items-center gap-2">
+                            <div class="text-blue-600"><i class="fas fa-microphone text-lg"></i></div>
+                            <h3 class="text-md font-bold text-slate-800">Ghi âm câu trả lời</h3>
+                        </div>
+                        <span id="timer"
+                            class="font-mono text-lg font-bold text-blue-600 bg-blue-50 px-3 py-1 rounded">00:00</span>
+                    </div>
+                    <div id="audioPlayerContainer"
+                        class="hidden mb-3 bg-slate-50 p-2 rounded-lg border border-slate-200">
+                        <audio id="audioPlayer" controls class="w-full h-8"></audio>
+                    </div>
+                    <div id="statusMsg" class="text-xs font-semibold text-slate-400 mb-2 flex items-center gap-2">
+                        <span class="w-2 h-2 rounded-full bg-slate-300 block"></span> Ready
+                    </div>
+                    <textarea id="responseArea" placeholder="Soạn ý chính tại đây..."></textarea>
+                    <div class="mt-4 flex flex-col sm:flex-row gap-3">
+                        <button id="recordBtn"
+                            class="flex-1 py-3 rounded-lg bg-red-500 text-white font-bold hover:bg-red-600 transition shadow flex items-center justify-center gap-2">
+                            <i class="fas fa-microphone"></i> <span>REC</span>
+                        </button>
+                        <button id="submitBtn"
+                            class="flex-1 py-3 rounded-lg bg-green-600 text-white font-bold hover:bg-green-700 transition shadow disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2"
+                            disabled>
+                            <span>Nộp bài</span> <i class="fas fa-check"></i>
+                        </button>
+                    </div>
+                    <button id="retryBtn"
+                        class="mt-2 text-xs text-slate-400 hover:text-red-500 transition hidden text-center w-full">
+                        Làm lại câu này
+                    </button>
+                </div>
+            </div>
+
+            <!-- Start Screen -->
+            <div class="text-center py-8">
+                <button id="startBtn" onclick="initTest()"
+                    class="px-8 py-4 text-xl font-bold text-white bg-blue-600 rounded-full hover:bg-blue-700 hover:shadow-xl transition transform hover:-translate-y-1">
+                    <i class="fas fa-play-circle mr-2"></i> Bắt đầu làm bài
+                </button>
+                <p class="text-slate-500 mt-4 text-sm">Chế độ mặc định: Random Test (11 câu ngẫu nhiên từ kho)</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // --- RAW DATA BANK (COMPRESSED FOR EFFICIENCY) ---
+        // Part 1: Text to Read
+        const p1_bank = [
+            "Welcome to the annual Brighton Business Conference. We are thrilled to have industry leaders from around the globe joining us today. Before we begin, please silence your mobile devices.",
+            "Attention passengers. Flight 402 to Tokyo is now boarding at Gate 15. Please have your boarding pass and passport ready for inspection. We wish you a pleasant flight.",
+            "Thank you for calling City Bank. Our office is currently closed. Please leave a message after the tone, or visit our website at www.citybank.com for 24-hour account access.",
+            "Today’s weather will be sunny with a high of 25 degrees. However, we expect heavy rain starting late this evening, so don't forget your umbrellas if you're going out tonight.",
+            "Are you looking for a new car? Come to Star Motors this weekend for our annual clearance sale. We have huge discounts on all models, including SUVs and sedans.",
+            "Good morning, staff. I'd like to introduce our new marketing director, Ms. Sarah Jenkins. She brings over 10 years of experience and will be leading our new campaign starting next month.",
+            "Traffic update: There is a major accident on Highway 9, causing delays of up to 45 minutes. Commuters are advised to take alternate routes through the city center.",
+            "Welcome to the Grand Museum of Art. Audio guides are available at the front desk. Please remember that flash photography is strictly prohibited inside the galleries.",
+            "Did you know that drinking 8 glasses of water a day can improve your energy levels? Stay hydrated and healthy with our new mineral water, now available in eco-friendly bottles.",
+            "Attention shoppers. The store will be closing in 15 minutes. Please bring your final purchases to the checkout counters. Thank you for shopping with us."
+        ];
+
+        // Part 2: Image Descriptions (Simulated)
+        const p2_bank = [
+            { desc: "A business meeting. Three people around a table. One woman pointing at a chart on the wall. Laptops on the table.", img: "image/business_meeting.png" },
+            { desc: "A busy street scene. Pedestrians crossing the road. A red bus waiting at the traffic light. Tall buildings in the background.", img: "image/busy_street.png" },
+            { desc: "An airport terminal. Passengers waiting with luggage. Someone looking at the flight information board. Large glass windows.", img: "image/airport_terminal.png" },
+            { desc: "A restaurant. A waiter serving food to a couple. The customers look happy. There are flowers on the table.", img: "image/restaurant.png" },
+            { desc: "A park. People jogging and walking dogs. Children playing on a slide. Green trees and a bench in the foreground.", img: "image/park.png" },
+            { desc: "A supermarket. A woman pushing a cart filled with groceries. She is looking at a shelf of cereal. Bright lights.", img: "image/supermarket.png" },
+            { desc: "An office desk. A person typing on a computer. Papers scattered around. A cup of coffee and a smartphone.", img: "image/office_desk.png" },
+            { desc: "A construction site. Workers wearing hard hats and safety vests. A crane lifting heavy materials. Unfinished building.", img: "image/construction_site.png" },
+            { desc: "A hotel lobby. A receptionist talking to a guest. The guest is holding a key card. Luggage cart nearby.", img: "image/hotel_lobby.png" },
+            { desc: "A library. Students reading books at wooden tables. Bookshelves filled with books in the background. Quiet atmosphere.", img: "image/library.png" }
+        ];
+
+        // Part 3: Questions Bank (Topic based)
+        const p3_topics = [
+            { t: "Shopping", q: ["How often do you go shopping?", "What kind of things do you usually buy online?", "Do you prefer large malls or small local shops? Why?"] },
+            { t: "Travel", q: ["When was the last time you went on a vacation?", "Do you prefer traveling by car or by plane?", "What is the most important thing to consider when choosing a hotel?"] },
+            { t: "Movies", q: ["How often do you go to the cinema?", "What kind of movies do you like best?", "Do you think watching movies at home is better than the theater? Why?"] },
+            { t: "Reading", q: ["Do you like reading books?", "When do you usually read?", "Do you prefer e-books or traditional paper books?"] },
+            { t: "Internet", q: ["How much time do you spend on the internet daily?", "What do you mainly use the internet for?", "Do you think the internet has improved our lives? Why?"] },
+            { t: "Sports", q: ["Do you play any sports?", "What is a popular sport in your country?", "Do you think children should play team sports? Why?"] },
+            { t: "Music", q: ["What type of music do you listen to?", "Do you play any musical instruments?", "Do you prefer listening to music alone or going to concerts?"] },
+            { t: "Hometown", q: ["Where is your hometown?", "What is your hometown famous for?", "Would you recommend tourists to visit your hometown?"] },
+            { t: "Work", q: ["Do you prefer working alone or in a team?", "What time do you usually start work?", "What is the most difficult part of your job/studies?"] },
+            { t: "Transport", q: ["How do you usually get to work or school?", "Is public transportation convenient in your city?", "What can be done to reduce traffic jams?"] },
+            { t: "Food", q: ["What is your favorite dish?", "Do you like cooking?", "Do you prefer eating out or eating at home? Why?"] },
+            { t: "Friends", q: ["How often do you meet your friends?", "What do you usually do when you hang out?", "Do you think it's important to have many friends?"] },
+            { t: "Weather", q: ["What is your favorite season?", "Does the weather affect your mood?", "What do you usually do on rainy days?"] },
+            { t: "Health", q: ["What do you do to stay healthy?", "How often do you exercise?", "Do you think people today care enough about their health?"] },
+            { t: "Technology", q: ["What electronic device do you use the most?", "How has technology changed your daily life?", "Do you think we rely too much on technology?"] },
+            { t: "Holidays", q: ["What is the most important holiday in your country?", "How do you usually celebrate New Year?", "Do you prefer long holidays or short breaks?"] },
+            { t: "Learning", q: ["What foreign languages do you speak?", "Do you prefer studying in a library or at home?", "What is the best way to learn a new skill?"] },
+            { t: "Clothes", q: ["What kind of clothes do you usually wear?", "Do you follow fashion trends?", "Do you think clothes reflect a person's personality?"] },
+            { t: "Gifts", q: ["When do you usually buy gifts for people?", "Do you prefer giving or receiving gifts?", "What was the best gift you ever received?"] },
+            { t: "House", q: ["Do you live in a house or an apartment?", "What is your favorite room in your home?", "If you could change one thing about your home, what would it be?"] }
+        ];
+
+        // Part 4: Schedules (Templates)
+        const p4_schedules = [
+            {
+                title: "Business Conference",
+                html: `<tr><th>Time</th><th>Event</th><th>Location</th></tr><tr><td>9:00</td><td>Opening</td><td>Room A</td></tr><tr><td>10:00</td><td>Marketing Strategy</td><td>Room B</td></tr><tr><td>12:00</td><td>Lunch</td><td>Cafeteria</td></tr><tr><td>13:00</td><td>Sales Workshop</td><td>Room A</td></tr>`,
+                q: ["When does the conference start?", "Is the Marketing Strategy session in Room A?", "Please tell me about all the events in the afternoon."]
+            },
+            {
+                title: "Flight Itinerary",
+                html: `<tr><th>Flight</th><th>Dest</th><th>Depart</th><th>Gate</th></tr><tr><td>VN123</td><td>Hanoi</td><td>08:00</td><td>12</td></tr><tr><td>JP456</td><td>Tokyo</td><td>10:30</td><td>5</td></tr><tr><td>US789</td><td>New York</td><td>14:00</td><td>8</td></tr><tr><td>UK321</td><td>London</td><td>18:45</td><td>2</td></tr>`,
+                q: ["What time does the flight to Tokyo leave?", "Which gate is the New York flight boarding at?", "I need to go to Europe. Can you give me the details of the London flight?"]
+            },
+            {
+                title: "Job Interview Schedule",
+                html: `<tr><th>Time</th><th>Candidate</th><th>Position</th></tr><tr><td>9:30</td><td>John Doe</td><td>Manager</td></tr><tr><td>10:30</td><td>Jane Smith</td><td>Assistant</td></tr><tr><td>11:30</td><td>Bob Brown</td><td>Designer</td></tr><tr><td>14:00</td><td>Meeting</td><td>HR Team</td></tr>`,
+                q: ["Who is the first candidate being interviewed?", "Is Jane Smith interviewing for the Manager position?", "What is happening after lunch?"]
+            },
+            {
+                title: "Library Workshop",
+                html: `<tr><th>Day</th><th>Workshop</th><th>Time</th></tr><tr><td>Mon</td><td>Basic Computer</td><td>10am-12pm</td></tr><tr><td>Wed</td><td>Storytelling</td><td>2pm-3pm</td></tr><tr><td>Fri</td><td>Resume Writing</td><td>9am-11am</td></tr><tr><td>Sat</td><td>Book Club</td><td>4pm-6pm</td></tr>`,
+                q: ["What workshop is on Monday?", "Is the Resume Writing class in the afternoon?", "I am free on the weekend. What event is available?"]
+            },
+            {
+                title: "Bus Schedule",
+                html: `<tr><th>Route</th><th>Destination</th><th>Frequency</th></tr><tr><td>Bus 01</td><td>City Center</td><td>Every 10 mins</td></tr><tr><td>Bus 05</td><td>Airport</td><td>Every 30 mins</td></tr><tr><td>Bus 09</td><td>University</td><td>Every 15 mins</td></tr>`,
+                q: ["How often does Bus 01 run?", "Which bus goes to the Airport?", "Tell me about the bus to the University."]
+            }
+        ];
+
+        // Part 5: Opinions
+        const p5_bank = [
+            "Do you agree or disagree: working in a team is better than working alone?",
+            "Do you think it is better to live in a big city or the countryside?",
+            "Some people prefer to save money, others prefer to spend it on experiences. Which do you prefer?",
+            "Do you think students should wear uniforms at school?",
+            "Is it better to work for a large company or a small company?",
+            "Do you think technology makes people less social?",
+            "Should companies allow employees to work from home?",
+            "Is it important for children to learn a musical instrument?",
+            "Do you prefer watching movies at the theater or at home?",
+            "Should public transport be free for everyone?",
+            "Do you think advertising influences what people buy?",
+            "Is it better to plan a vacation in detail or be spontaneous?",
+            "Do you think reading books is more important than watching TV?",
+            "Should students have part-time jobs while studying?",
+            "Is it better to buy a house or rent one?",
+            "Do you think leaders are born or made?",
+            "Should museums be free to the public?",
+            "Do you prefer a job with a high salary or a job that you enjoy?",
+            "Is it important to learn about other cultures?",
+            "Do you think successful people are just lucky?"
+        ];
+
+        // --- APP STATE ---
+        let appState = {
+            mode: 'random', // 'random' or 'full'
+            questions: [],
+            currentIdx: 0,
+            mediaRecorder: null,
+            audioChunks: [],
+            timerInterval: null
+        };
+
+        // --- GENERATOR LOGIC ---
+        function generateFullBank() {
+            let qList = [];
+            let id = 1;
+            // P1
+            p1_bank.forEach(t => qList.push(createQ(id++, "Part 1: Read Aloud", t, "text")));
+            // P2
+            p2_bank.forEach(t => qList.push(createQ(id++, "Part 2: Describe Picture", t, "image")));
+            // P3
+            p3_topics.forEach(topic => {
+                qList.push(createQ(id++, `Part 3: ${topic.t} (Q4)`, topic.q[0], "text", 15));
+                qList.push(createQ(id++, `Part 3: ${topic.t} (Q5)`, topic.q[1], "text", 15));
+                qList.push(createQ(id++, `Part 3: ${topic.t} (Q6)`, topic.q[2], "text", 30));
+            });
+            // P4
+            p4_schedules.forEach(s => {
+                qList.push(createQ(id++, `Part 4: ${s.title} (Q7)`, s.q[0], "schedule", 15, s.html));
+                qList.push(createQ(id++, `Part 4: ${s.title} (Q8)`, s.q[1], "schedule", 15, s.html));
+                qList.push(createQ(id++, `Part 4: ${s.title} (Q9)`, s.q[2], "schedule", 30, s.html));
+            });
+            // P5
+            p5_bank.forEach(t => qList.push(createQ(id++, "Part 5: Opinion", t, "text", 60)));
+            return qList;
+        }
+
+        function generateRandomTest() {
+            let qList = [];
+            let id = 1;
+
+            // Pick 2 random P1
+            let rP1 = getRandom(p1_bank, 2);
+            rP1.forEach(t => qList.push(createQ(id++, "Part 1: Read Aloud", t, "text", 45, null, 45)));
+
+            // Pick 1 random P2
+            let rP2 = getRandom(p2_bank, 1);
+            rP2.forEach(t => qList.push(createQ(id++, "Part 2: Describe Picture", t, "image", 30, null, 45)));
+
+            // Pick 1 random P3 Topic (3 Qs)
+            let rP3 = getRandom(p3_topics, 1)[0];
+            qList.push(createQ(id++, "Part 3: Q4", rP3.q[0], "text", 15, `Topic: ${rP3.t}`, 3));
+            qList.push(createQ(id++, "Part 3: Q5", rP3.q[1], "text", 15, `Topic: ${rP3.t}`, 3));
+            qList.push(createQ(id++, "Part 3: Q6", rP3.q[2], "text", 30, `Topic: ${rP3.t}`, 3));
+
+            // Pick 1 random P4 Schedule (3 Qs)
+            let rP4 = getRandom(p4_schedules, 1)[0];
+            qList.push(createQ(id++, "Part 4: Q7", rP4.q[0], "schedule", 15, rP4.html, 45));
+            qList.push(createQ(id++, "Part 4: Q8", rP4.q[1], "schedule", 15, rP4.html, 3));
+            qList.push(createQ(id++, "Part 4: Q9", rP4.q[2], "schedule", 30, rP4.html, 3));
+
+            // Pick 1 random P5
+            let rP5 = getRandom(p5_bank, 1);
+            rP5.forEach(t => qList.push(createQ(id++, "Part 5: Opinion", t, "text", 60, null, 45)));
+
+            return qList;
+        }
+
+        function createQ(id, title, content, type, speakTime = 45, extraData = null, prepTime = 3) {
+            let stimulus = "";
+            let instructionStr = content;
+
+            if (type === "text") {
+                stimulus = `<div class="bg-white p-4 border rounded shadow-sm text-lg leading-relaxed font-medium text-slate-700">${content}</div>`;
+                if (extraData) stimulus = `<div class="mb-2 text-sm font-bold text-blue-600">${extraData}</div>` + stimulus;
+            } else if (type === "image") {
+                const desc = (typeof content === 'object') ? content.desc : content;
+                const img = (typeof content === 'object') ? content.img : null;
+                instructionStr = desc;
+
+                if (img) {
+                    stimulus = `<div class="bg-white p-2 rounded flex flex-col items-center mb-2 border border-slate-200">
+                    <img src="${img}" alt="Topic Image" class="max-h-[350px] w-auto h-auto rounded shadow-lg mb-3 object-contain">
+                    <div class="text-xs text-slate-400 italic text-center w-full border-t pt-2 mt-1">
+                        <span class="font-bold">Description:</span> "${desc}"
+                    </div>
+                </div>`;
+                } else {
+                    stimulus = `<div class="bg-slate-200 p-8 rounded flex items-center justify-center flex-col text-slate-500 mb-2"><i class="fas fa-image text-6xl mb-4"></i><p class="font-bold text-lg">Image Description:</p><p class="text-center px-4 italic">"${desc}"</p></div>`;
+                }
+            } else if (type === "schedule") {
+                stimulus = `<div class="overflow-x-auto"><table class="schedule-table bg-white">${extraData}</table></div><div class="mt-4 p-3 bg-blue-50 border border-blue-200 rounded text-blue-800 font-bold">Question: ${content}</div>`;
+                instructionStr = "Answer the question based on the schedule.";
+            }
+
+            return {
+                id: id,
+                part: title,
+                instruction: instructionStr,
+                stimulus: stimulus,
+                prepTime: prepTime + "s",
+                speakTime: speakTime + "s",
+                savedText: "",
+                status: 'pending'
+            };
+        }
+
+        function getRandom(arr, n) {
+            let result = new Array(n), len = arr.length, taken = new Array(len);
+            if (n > len) throw new RangeError("getRandom: more elements taken than available");
+            while (n--) {
+                let x = Math.floor(Math.random() * len);
+                result[n] = arr[x in taken ? taken[x] : x];
+                taken[x] = --len in taken ? taken[len] : len;
+            }
+            return result;
+        }
+
+        // --- UI FUNCTIONS ---
+        function switchMode(mode) {
+            appState.mode = mode;
+            document.getElementById('btnRandom').className = mode === 'random' ? 'mode-btn active' : 'mode-btn inactive';
+            document.getElementById('btnFull').className = mode === 'full' ? 'mode-btn active' : 'mode-btn inactive';
+
+            // Show/Hide info
+            document.getElementById('bankInfo').classList.toggle('hidden', mode === 'random');
+
+            initTest();
+        }
+
+        function initTest() {
+            if (appState.mode === 'random') {
+                appState.questions = generateRandomTest();
+            } else {
+                appState.questions = generateFullBank();
+            }
+
+            document.getElementById('startBtn').parentElement.classList.add('hidden');
+            document.getElementById('questionPanel').classList.remove('hidden');
+
+            loadQuestion(0);
+        }
+
+        function loadQuestion(idx) {
+            resetRecordingUI();
+            appState.currentIdx = idx;
+            const q = appState.questions[idx];
+
+            document.getElementById('currentTopicTitle').innerHTML = `<span class="w-1.5 h-6 bg-blue-600 rounded-full block"></span> ${q.part}`;
+            document.getElementById('partLabel').textContent = q.part;
+            document.getElementById('questionText').textContent = q.part.includes("Part 1") ? "Read the text aloud." : (q.part.includes("Part 2") ? "Describe the picture." : "Respond to the question.");
+
+            // For P3/P4/P5 showing the question text in the banner might be better or worse depending on context. 
+            // Let's keep banner simple and show full content in left panel.
+
+            document.getElementById('prepTime').textContent = q.prepTime;
+            document.getElementById('speakTime').textContent = q.speakTime;
+            document.getElementById('stimulusArea').innerHTML = q.stimulus;
+            document.getElementById('stimulusArea').classList.remove('hidden');
+
+            // Basic Hints
+            let hintHtml = `<h4>Gợi ý cấu trúc:</h4><ul>`;
+            if (q.part.includes("Part 1")) hintHtml += `<li>Chú ý trọng âm và ngữ điệu (intonation).</li><li>Ngắt nghỉ đúng dấu câu.</li>`;
+            else if (q.part.includes("Part 2")) hintHtml += `<li>Mô tả tổng quan (What is this?).</li><li>Mô tả chi tiết (Foreground, Background).</li><li>Dùng thì hiện tại tiếp diễn (V-ing).</li>`;
+            else if (q.part.includes("Part 3")) hintHtml += `<li>Trả lời trực tiếp (Direct answer).</li><li>Mở rộng thêm 1-2 câu (Extension).</li>`;
+            else if (q.part.includes("Part 4")) hintHtml += `<li>Dùng giới từ thời gian (at, on, in) chính xác.</li><li>Dùng cấu trúc "It is scheduled to..." hoặc "There is a...".</li>`;
+            else if (q.part.includes("Part 5")) hintHtml += `<li>Nêu quan điểm (I think/prefer...).</li><li>Lý do 1 + Ví dụ.</li><li>Lý do 2 + Ví dụ.</li><li>Kết luận.</li>`;
+            hintHtml += `</ul>`;
+            document.getElementById('hintContent').innerHTML = hintHtml;
+
+            // Restore
+            document.getElementById('responseArea').value = q.savedText || "";
+            if (q.audioBlob) {
+                const url = URL.createObjectURL(q.audioBlob);
+                document.getElementById('audioPlayer').src = url;
+                document.getElementById('audioPlayerContainer').classList.remove('hidden');
+                document.getElementById('statusMsg').innerHTML = '<span class="text-green-600"><i class="fas fa-check-circle"></i> Đã làm</span>';
+            } else {
+                document.getElementById('statusMsg').innerHTML = '<span class="w-2 h-2 rounded-full bg-slate-300 block"></span> Ready';
+            }
+
+            updateProgressUI();
+        }
+
+        function updateProgressUI() {
+            const total = appState.questions.length;
+            const completed = appState.questions.filter(q => q.status === 'completed').length;
+            document.getElementById('progressText').textContent = `${completed}/${total}`;
+            document.getElementById('progressBar').style.width = `${(completed / total) * 100}%`;
+
+            const nav = document.getElementById('navigator');
+            nav.innerHTML = '';
+            appState.questions.forEach((q, i) => {
+                const btn = document.createElement('button');
+                btn.textContent = q.id;
+                let classes = "nav-btn ";
+                if (i === appState.currentIdx) classes += "active";
+                else if (q.status === 'completed') classes += "completed";
+                else classes += "pending";
+                btn.className = classes;
+                btn.onclick = () => loadQuestion(i);
+                nav.appendChild(btn);
+            });
+        }
+
+        // --- RECORDING ---
+        async function toggleRecording() {
+            if (appState.recording) stopRecording();
+            else await startRecording();
+        }
+
+        async function startRecording() {
+            try {
+                const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+                appState.mediaRecorder = new MediaRecorder(stream);
+                appState.audioChunks = [];
+                appState.mediaRecorder.ondataavailable = e => appState.audioChunks.push(e.data);
+                appState.mediaRecorder.onstop = () => {
+                    const blob = new Blob(appState.audioChunks, { type: 'audio/webm' });
+                    const q = appState.questions[appState.currentIdx];
+                    q.audioBlob = blob;
+                    const url = URL.createObjectURL(blob);
+                    document.getElementById('audioPlayer').src = url;
+                    document.getElementById('audioPlayerContainer').classList.remove('hidden');
+                    document.getElementById('statusMsg').innerHTML = '<span class="text-green-600 font-bold">Recorded</span>';
+                    document.getElementById('submitBtn').disabled = false;
+                    stream.getTracks().forEach(track => track.stop());
+                };
+                appState.mediaRecorder.start();
+                appState.recording = true;
+                document.getElementById('recordBtn').innerHTML = '<i class="fas fa-stop"></i> <span>STOP</span>';
+                document.getElementById('recordBtn').classList.add('recording-active');
+                startTimer();
+            } catch (err) { alert("Cần quyền Micro để ghi âm."); }
+        }
+
+        function stopRecording() {
+            appState.mediaRecorder.stop();
+            appState.recording = false;
+            document.getElementById('recordBtn').innerHTML = '<i class="fas fa-microphone"></i> <span>REC</span>';
+            document.getElementById('recordBtn').classList.remove('recording-active');
+            stopTimer();
+        }
+
+        function resetRecordingUI() {
+            stopTimer();
+            document.getElementById('timer').textContent = "00:00";
+            document.getElementById('audioPlayerContainer').classList.add('hidden');
+            document.getElementById('audioPlayer').src = "";
+            document.getElementById('submitBtn').disabled = true;
+            document.getElementById('responseArea').value = "";
+        }
+
+        function startTimer() {
+            let sec = 0;
+            document.getElementById('timer').textContent = "00:00";
+            appState.timerInterval = setInterval(() => {
+                sec++;
+                document.getElementById('timer').textContent = `${Math.floor(sec / 60).toString().padStart(2, '0')}:${(sec % 60).toString().padStart(2, '0')}`;
+            }, 1000);
+        }
+        function stopTimer() { clearInterval(appState.timerInterval); }
+
+        document.getElementById('submitBtn').onclick = () => {
+            appState.questions[appState.currentIdx].savedText = document.getElementById('responseArea').value;
+            appState.questions[appState.currentIdx].status = 'completed';
+            updateProgressUI();
+            if (appState.currentIdx < appState.questions.length - 1) loadQuestion(appState.currentIdx + 1);
+            else alert("Hoàn thành bài thi!");
+        };
+
+        document.getElementById('playAudioBtn').onclick = () => {
+            const u = new SpeechSynthesisUtterance(appState.questions[appState.currentIdx].instruction);
+            u.lang = 'en-US'; window.speechSynthesis.speak(u);
+        };
+
+        document.getElementById('recordBtn').onclick = toggleRecording;
+        document.getElementById('retryBtn').onclick = () => { if (confirm("Làm lại?")) { appState.questions[appState.currentIdx].audioBlob = null; resetRecordingUI(); } };
+
+        // Export Word
+        document.getElementById('downloadButton').onclick = () => {
+            let html = `<html><head><meta charset='utf-8'><title>TOEIC Results</title></head><body><h1>TOEIC SPEAKING RESULTS</h1>`;
+            appState.questions.forEach(q => {
+                if (q.savedText || q.status === 'completed') {
+                    html += `<h3>${q.part} (ID: ${q.id})</h3><p>${q.stimulus}</p><p><strong>Note:</strong> ${q.savedText}</p><hr>`;
+                }
+            });
+            html += "</body></html>";
+            const a = document.createElement('a');
+            a.href = URL.createObjectURL(new Blob([html], { type: 'application/msword' }));
+            a.download = 'TOEIC_Test_Results.doc'; a.click();
+        };
+
+        // Export Audio
+        document.getElementById('exportAudioButton').onclick = async () => {
+            const zip = new JSZip();
+            let c = 0;
+            appState.questions.forEach(q => {
+                if (q.audioBlob) { zip.file(`Q_${q.id}.webm`, q.audioBlob); c++; }
+            });
+            if (c === 0) return alert("Chưa có file ghi âm!");
+            const content = await zip.generateAsync({ type: "blob" });
+            const a = document.createElement('a');
+            a.href = URL.createObjectURL(content);
+            a.download = "TOEIC_Audio.zip"; a.click();
+        };
+
+        // Init with Random Mode
+        document.addEventListener('DOMContentLoaded', () => {
+            switchMode('random');
+        });
+
+    </script>
+</body>
+
+</html>

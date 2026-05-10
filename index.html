@@ -1121,15 +1121,22 @@
   <!-- Navbar -->
   <nav class="glass-panel sticky top-0 z-40 px-4 md:px-6 py-3 shadow-sm overflow-hidden">
     <div class="flex flex-col lg:flex-row justify-between items-center gap-4">
-      <div class="flex items-center gap-3 w-full lg:w-auto">
-        <div
-          class="w-10 h-10 bg-gradient-to-br from-indigo-600 to-violet-600 rounded-xl flex items-center justify-center text-white shadow-lg shadow-indigo-500/30 flex-shrink-0">
-          <i class="fas fa-book-open"></i>
+      <div class="flex items-center gap-6 w-full lg:w-auto">
+        <div class="flex items-center gap-3">
+          <div
+            class="w-10 h-10 bg-gradient-to-br from-indigo-600 to-violet-600 rounded-xl flex items-center justify-center text-white shadow-lg shadow-indigo-500/30 flex-shrink-0">
+            <i class="fas fa-book-open"></i>
+          </div>
+          <div>
+            <h1 id="mainTitle" class="font-heading font-bold text-base md:text-lg leading-tight text-slate-800">IELTS Speaking Forecast Q1/2026</h1>
+            <p class="text-[9px] md:text-xs text-slate-500 font-medium uppercase tracking-wider">Phạm Tiến Dũng Gia Sư</p>
+          </div>
         </div>
-        <div>
-          <h1 class="font-heading font-bold text-base md:text-lg leading-tight text-slate-800">IELTS Speaking Forecast
-            Q1/2026</h1>
-          <p class="text-[9px] md:text-xs text-slate-500 font-medium uppercase tracking-wider">Phạm Tiến Dũng Gia Sư</p>
+        
+        <!-- Test Type Switcher -->
+        <div class="flex bg-slate-200/50 p-1 rounded-xl items-center gap-1 border border-slate-200">
+          <button onclick="changeTestType('ielts')" id="type-ielts" class="px-4 py-1.5 rounded-lg text-[10px] font-black uppercase tracking-widest transition-all bg-white text-indigo-600 shadow-sm">IELTS</button>
+          <button onclick="changeTestType('toeic')" id="type-toeic" class="px-4 py-1.5 rounded-lg text-[10px] font-black uppercase tracking-widest transition-all text-slate-500 hover:bg-white/50">TOEIC</button>
         </div>
       </div>
 
@@ -2099,8 +2106,22 @@
       micStream: null,
       partIndices: { p1: 0, p2: 0, p3: 0 },
       currentVocab: [],
-      vocabMap: {}
+      vocabMap: {},
+      testType: 'ielts'
     };
+
+    function changeTestType(type) {
+      if (appState.testType === type) return;
+      appState.testType = type;
+      
+      // Update UI
+      document.getElementById('type-ielts').className = type === 'ielts' ? 'px-4 py-1.5 rounded-lg text-[10px] font-black uppercase tracking-widest transition-all bg-white text-indigo-600 shadow-sm' : 'px-4 py-1.5 rounded-lg text-[10px] font-black uppercase tracking-widest transition-all text-slate-500 hover:bg-white/50';
+      document.getElementById('type-toeic').className = type === 'toeic' ? 'px-4 py-1.5 rounded-lg text-[10px] font-black uppercase tracking-widest transition-all bg-white text-indigo-600 shadow-sm' : 'px-4 py-1.5 rounded-lg text-[10px] font-black uppercase tracking-widest transition-all text-slate-500 hover:bg-white/50';
+      
+      document.getElementById('mainTitle').innerText = type === 'ielts' ? 'IELTS Speaking Forecast Q1/2026' : 'TOEIC Speaking Master Bank';
+      
+      loadAllData(type);
+    }
 
     // ==========================================
     // COPYRIGHT PROTECTION SYSTEM
@@ -2380,10 +2401,10 @@
       img.src = 'data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2F6%2Fsvg%22%20width%3D%22100%22%20height%3D%22100%22%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20fill%3D%22%23f1f5f9%22%2F%3E%3Ctext%20x%3D%2250%25%22%20y%3D%2250%25%22%20dominant-baseline%3D%22middle%22%20text-anchor%3D%22middle%22%20font-family%3D%22sans-serif%22%20font-size%3D%2212%22%20fill%3D%22%2394a3b8%22%3ENo%20Image%3C%2Ftext%3E%3C%2Fsvg%3E';
     };
 
-    async function loadAllData() {
-      console.log("[DEBUG] loadAllData initiated...");
-      console.log("Loading all batches...");
-
+    async function loadAllData(testType = 'ielts') {
+      console.log(`[DEBUG] loadAllData initiated for ${testType}...`);
+      appState.testType = testType;
+      
       // Wait for data if not yet loaded
       if (typeof ALL_IELTS_DATA === 'undefined') {
         console.warn("Data not ready, waiting...");
@@ -2392,10 +2413,14 @@
       }
       try {
         let partData = [];
-        for (let i = 1; i <= 11; i++) {
-          const key = 'p' + i;
-          if (ALL_IELTS_DATA[key]) {
-            const itemsWithPart = ALL_IELTS_DATA[key].map(item => {
+        const source = (testType === 'toeic') ? ALL_IELTS_DATA.toeic : ALL_IELTS_DATA;
+        
+        for (let key in source) {
+          if (key.startsWith('p') && Array.isArray(source[key])) {
+            const itemsWithPart = source[key].map(item => {
+              if (testType === 'toeic') {
+                return { ...item, partLabel: item.topic.split(':')[0] };
+              }
               const qText = (item.q || "").toLowerCase();
               const topicText = (item.topic || "").trim();
               if (item.cue_card || qText.includes('describe')) {
@@ -2501,8 +2526,9 @@
             id: q.id || idx,
             topic: q.topic,
             text: questionDisplay,
-            rawQuestion: rawQForAi, // Lưu câu hỏi sạch để gửi cho Phạm Tiến Dũng Gia Sư
-            img: getQuestionImagePath(q),
+            rawQuestion: rawQForAi,
+            schedule_html: q.schedule_html || null,
+            img: q.img || getQuestionImagePath(q),
             hint: hintHtml,
             vocab: processedVocab,
             userText: ""
@@ -2559,7 +2585,13 @@
       const vocabGrid = document.getElementById('vocabLibraryGrid');
 
       if (badge) badge.innerText = q.topic;
-      if (txt) txt.innerHTML = q.text;
+      
+      let finalDisplay = q.text;
+      if (q.schedule_html) {
+        finalDisplay = `<div class="mb-4 overflow-x-auto"><table class="w-full text-xs text-left border-collapse border border-white/20 text-white"><style>.toeic-table th, .toeic-table td { border: 1px solid rgba(255,255,255,0.2); padding: 4px 8px; }</style><tbody class="toeic-table">${q.schedule_html}</tbody></table></div>` + q.text;
+      }
+      if (txt) txt.innerHTML = finalDisplay;
+      
       if (img) img.src = q.img || "public/image/default_question.png";
       if (hint) hint.innerHTML = q.hint;
 
@@ -2633,10 +2665,11 @@
       // 2. Part Distribution
       const distContainer = document.getElementById('partDistribution');
       if (distContainer) {
-        distContainer.innerHTML = [1, 2, 3].map(p => {
-          const pTotal = 10;
-          const pCount = recordings.filter(r => r.part === p).length;
-          const pPct = Math.min(100, Math.round((pCount / pTotal) * 100));
+        const parts = (appState.testType === 'toeic') ? [1, 2, 3, 4, 5] : [1, 2, 3];
+        distContainer.innerHTML = parts.map(p => {
+          const pTotal = (appState.testType === 'toeic') ? (appState.questions.filter(q => q.topic.includes(`Part ${p}`)).length) : 10;
+          const pCount = recordings.filter(r => r.part === p || (typeof r.part === 'string' && r.part.includes(`Part ${p}`))).length;
+          const pPct = pTotal > 0 ? Math.min(100, Math.round((pCount / pTotal) * 100)) : 0;
           return `
             <div class="space-y-1 mb-3">
               <div class="flex justify-between text-[10px] font-black uppercase tracking-widest text-slate-500">

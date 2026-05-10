@@ -54484,5 +54484,977 @@ window.ALL_IELTS_DATA = {
             ],
             "id": "q_9"
         }
-    ]
+    ],
+    "toeic": {
+        "p1": [
+            {
+                "id": "toeic_p1_0",
+                "topic": "Part 1: Read Aloud",
+                "text": "Welcome to the annual Brighton Business Conference. We are thrilled to have industry leaders from around the globe joining us today. Before we begin, please silence your mobile devices.",
+                "hint": "Chú ý trọng âm và ngữ điệu (intonation). Ngắt nghỉ đúng dấu câu.",
+                "prepTime": "45s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p1_1",
+                "topic": "Part 1: Read Aloud",
+                "text": "Attention passengers. Flight 402 to Tokyo is now boarding at Gate 15. Please have your boarding pass and passport ready for inspection. We wish you a pleasant flight.",
+                "hint": "Chú ý trọng âm và ngữ điệu (intonation). Ngắt nghỉ đúng dấu câu.",
+                "prepTime": "45s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p1_2",
+                "topic": "Part 1: Read Aloud",
+                "text": "Thank you for calling City Bank. Our office is currently closed. Please leave a message after the tone, or visit our website at www.citybank.com for 24-hour account access.",
+                "hint": "Chú ý trọng âm và ngữ điệu (intonation). Ngắt nghỉ đúng dấu câu.",
+                "prepTime": "45s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p1_3",
+                "topic": "Part 1: Read Aloud",
+                "text": "TodayΓÇÖs weather will be sunny with a high of 25 degrees. However, we expect heavy rain starting late this evening, so don't forget your umbrellas if you're going out tonight.",
+                "hint": "Chú ý trọng âm và ngữ điệu (intonation). Ngắt nghỉ đúng dấu câu.",
+                "prepTime": "45s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p1_4",
+                "topic": "Part 1: Read Aloud",
+                "text": "Are you looking for a new car? Come to Star Motors this weekend for our annual clearance sale. We have huge discounts on all models, including SUVs and sedans.",
+                "hint": "Chú ý trọng âm và ngữ điệu (intonation). Ngắt nghỉ đúng dấu câu.",
+                "prepTime": "45s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p1_5",
+                "topic": "Part 1: Read Aloud",
+                "text": "Good morning, staff. I'd like to introduce our new marketing director, Ms. Sarah Jenkins. She brings over 10 years of experience and will be leading our new campaign starting next month.",
+                "hint": "Chú ý trọng âm và ngữ điệu (intonation). Ngắt nghỉ đúng dấu câu.",
+                "prepTime": "45s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p1_6",
+                "topic": "Part 1: Read Aloud",
+                "text": "Traffic update: There is a major accident on Highway 9, causing delays of up to 45 minutes. Commuters are advised to take alternate routes through the city center.",
+                "hint": "Chú ý trọng âm và ngữ điệu (intonation). Ngắt nghỉ đúng dấu câu.",
+                "prepTime": "45s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p1_7",
+                "topic": "Part 1: Read Aloud",
+                "text": "Welcome to the Grand Museum of Art. Audio guides are available at the front desk. Please remember that flash photography is strictly prohibited inside the galleries.",
+                "hint": "Chú ý trọng âm và ngữ điệu (intonation). Ngắt nghỉ đúng dấu câu.",
+                "prepTime": "45s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p1_8",
+                "topic": "Part 1: Read Aloud",
+                "text": "Did you know that drinking 8 glasses of water a day can improve your energy levels? Stay hydrated and healthy with our new mineral water, now available in eco-friendly bottles.",
+                "hint": "Chú ý trọng âm và ngữ điệu (intonation). Ngắt nghỉ đúng dấu câu.",
+                "prepTime": "45s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p1_9",
+                "topic": "Part 1: Read Aloud",
+                "text": "Attention shoppers. The store will be closing in 15 minutes. Please bring your final purchases to the checkout counters. Thank you for shopping with us.",
+                "hint": "Chú ý trọng âm và ngữ điệu (intonation). Ngắt nghỉ đúng dấu câu.",
+                "prepTime": "45s",
+                "speakTime": "45s"
+            }
+        ],
+        "p2": [
+            {
+                "id": "toeic_p2_0",
+                "topic": "Part 2: Describe Picture",
+                "text": "A business meeting. Three people around a table. One woman pointing at a chart on the wall. Laptops on the table.",
+                "img": "public/image/toeic/business_meeting.png",
+                "hint": "Mô tả tổng quan (What is this?). Mô tả chi tiết (Foreground, Background). Dùng thì hiện tại tiếp diễn (V-ing).",
+                "prepTime": "30s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p2_1",
+                "topic": "Part 2: Describe Picture",
+                "text": "A busy street scene. Pedestrians crossing the road. A red bus waiting at the traffic light. Tall buildings in the background.",
+                "img": "public/image/toeic/busy_street.png",
+                "hint": "Mô tả tổng quan (What is this?). Mô tả chi tiết (Foreground, Background). Dùng thì hiện tại tiếp diễn (V-ing).",
+                "prepTime": "30s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p2_2",
+                "topic": "Part 2: Describe Picture",
+                "text": "An airport terminal. Passengers waiting with luggage. Someone looking at the flight information board. Large glass windows.",
+                "img": "public/image/toeic/airport_terminal.png",
+                "hint": "Mô tả tổng quan (What is this?). Mô tả chi tiết (Foreground, Background). Dùng thì hiện tại tiếp diễn (V-ing).",
+                "prepTime": "30s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p2_3",
+                "topic": "Part 2: Describe Picture",
+                "text": "A restaurant. A waiter serving food to a couple. The customers look happy. There are flowers on the table.",
+                "img": "public/image/toeic/restaurant.png",
+                "hint": "Mô tả tổng quan (What is this?). Mô tả chi tiết (Foreground, Background). Dùng thì hiện tại tiếp diễn (V-ing).",
+                "prepTime": "30s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p2_4",
+                "topic": "Part 2: Describe Picture",
+                "text": "A park. People jogging and walking dogs. Children playing on a slide. Green trees and a bench in the foreground.",
+                "img": "public/image/toeic/park.png",
+                "hint": "Mô tả tổng quan (What is this?). Mô tả chi tiết (Foreground, Background). Dùng thì hiện tại tiếp diễn (V-ing).",
+                "prepTime": "30s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p2_5",
+                "topic": "Part 2: Describe Picture",
+                "text": "A supermarket. A woman pushing a cart filled with groceries. She is looking at a shelf of cereal. Bright lights.",
+                "img": "public/image/toeic/supermarket.png",
+                "hint": "Mô tả tổng quan (What is this?). Mô tả chi tiết (Foreground, Background). Dùng thì hiện tại tiếp diễn (V-ing).",
+                "prepTime": "30s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p2_6",
+                "topic": "Part 2: Describe Picture",
+                "text": "An office desk. A person typing on a computer. Papers scattered around. A cup of coffee and a smartphone.",
+                "img": "public/image/toeic/office_desk.png",
+                "hint": "Mô tả tổng quan (What is this?). Mô tả chi tiết (Foreground, Background). Dùng thì hiện tại tiếp diễn (V-ing).",
+                "prepTime": "30s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p2_7",
+                "topic": "Part 2: Describe Picture",
+                "text": "A construction site. Workers wearing hard hats and safety vests. A crane lifting heavy materials. Unfinished building.",
+                "img": "public/image/toeic/construction_site.png",
+                "hint": "Mô tả tổng quan (What is this?). Mô tả chi tiết (Foreground, Background). Dùng thì hiện tại tiếp diễn (V-ing).",
+                "prepTime": "30s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p2_8",
+                "topic": "Part 2: Describe Picture",
+                "text": "A hotel lobby. A receptionist talking to a guest. The guest is holding a key card. Luggage cart nearby.",
+                "img": "public/image/toeic/hotel_lobby.png",
+                "hint": "Mô tả tổng quan (What is this?). Mô tả chi tiết (Foreground, Background). Dùng thì hiện tại tiếp diễn (V-ing).",
+                "prepTime": "30s",
+                "speakTime": "45s"
+            },
+            {
+                "id": "toeic_p2_9",
+                "topic": "Part 2: Describe Picture",
+                "text": "A library. Students reading books at wooden tables. Bookshelves filled with books in the background. Quiet atmosphere.",
+                "img": "public/image/toeic/library.png",
+                "hint": "Mô tả tổng quan (What is this?). Mô tả chi tiết (Foreground, Background). Dùng thì hiện tại tiếp diễn (V-ing).",
+                "prepTime": "30s",
+                "speakTime": "45s"
+            }
+        ],
+        "p3": [
+            {
+                "id": "toeic_p3_0",
+                "topic": "Part 3: Shopping (Q4)",
+                "text": "How often do you go shopping?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_1",
+                "topic": "Part 3: Shopping (Q5)",
+                "text": "What kind of things do you usually buy online?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_2",
+                "topic": "Part 3: Shopping (Q6)",
+                "text": "Do you prefer large malls or small local shops? Why?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_3",
+                "topic": "Part 3: Travel (Q4)",
+                "text": "When was the last time you went on a vacation?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_4",
+                "topic": "Part 3: Travel (Q5)",
+                "text": "Do you prefer traveling by car or by plane?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_5",
+                "topic": "Part 3: Travel (Q6)",
+                "text": "What is the most important thing to consider when choosing a hotel?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_6",
+                "topic": "Part 3: Movies (Q4)",
+                "text": "How often do you go to the cinema?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_7",
+                "topic": "Part 3: Movies (Q5)",
+                "text": "What kind of movies do you like best?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_8",
+                "topic": "Part 3: Movies (Q6)",
+                "text": "Do you think watching movies at home is better than the theater? Why?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_9",
+                "topic": "Part 3: Reading (Q4)",
+                "text": "Do you like reading books?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_10",
+                "topic": "Part 3: Reading (Q5)",
+                "text": "When do you usually read?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_11",
+                "topic": "Part 3: Reading (Q6)",
+                "text": "Do you prefer e-books or traditional paper books?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_12",
+                "topic": "Part 3: Internet (Q4)",
+                "text": "How much time do you spend on the internet daily?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_13",
+                "topic": "Part 3: Internet (Q5)",
+                "text": "What do you mainly use the internet for?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_14",
+                "topic": "Part 3: Internet (Q6)",
+                "text": "Do you think the internet has improved our lives? Why?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_15",
+                "topic": "Part 3: Sports (Q4)",
+                "text": "Do you play any sports?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_16",
+                "topic": "Part 3: Sports (Q5)",
+                "text": "What is a popular sport in your country?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_17",
+                "topic": "Part 3: Sports (Q6)",
+                "text": "Do you think children should play team sports? Why?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_18",
+                "topic": "Part 3: Music (Q4)",
+                "text": "What type of music do you listen to?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_19",
+                "topic": "Part 3: Music (Q5)",
+                "text": "Do you play any musical instruments?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_20",
+                "topic": "Part 3: Music (Q6)",
+                "text": "Do you prefer listening to music alone or going to concerts?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_21",
+                "topic": "Part 3: Hometown (Q4)",
+                "text": "Where is your hometown?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_22",
+                "topic": "Part 3: Hometown (Q5)",
+                "text": "What is your hometown famous for?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_23",
+                "topic": "Part 3: Hometown (Q6)",
+                "text": "Would you recommend tourists to visit your hometown?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_24",
+                "topic": "Part 3: Work (Q4)",
+                "text": "Do you prefer working alone or in a team?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_25",
+                "topic": "Part 3: Work (Q5)",
+                "text": "What time do you usually start work?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_26",
+                "topic": "Part 3: Work (Q6)",
+                "text": "What is the most difficult part of your job/studies?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_27",
+                "topic": "Part 3: Transport (Q4)",
+                "text": "How do you usually get to work or school?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_28",
+                "topic": "Part 3: Transport (Q5)",
+                "text": "Is public transportation convenient in your city?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_29",
+                "topic": "Part 3: Transport (Q6)",
+                "text": "What can be done to reduce traffic jams?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_30",
+                "topic": "Part 3: Food (Q4)",
+                "text": "What is your favorite dish?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_31",
+                "topic": "Part 3: Food (Q5)",
+                "text": "Do you like cooking?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_32",
+                "topic": "Part 3: Food (Q6)",
+                "text": "Do you prefer eating out or eating at home? Why?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_33",
+                "topic": "Part 3: Friends (Q4)",
+                "text": "How often do you meet your friends?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_34",
+                "topic": "Part 3: Friends (Q5)",
+                "text": "What do you usually do when you hang out?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_35",
+                "topic": "Part 3: Friends (Q6)",
+                "text": "Do you think it's important to have many friends?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_36",
+                "topic": "Part 3: Weather (Q4)",
+                "text": "What is your favorite season?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_37",
+                "topic": "Part 3: Weather (Q5)",
+                "text": "Does the weather affect your mood?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_38",
+                "topic": "Part 3: Weather (Q6)",
+                "text": "What do you usually do on rainy days?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_39",
+                "topic": "Part 3: Health (Q4)",
+                "text": "What do you do to stay healthy?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_40",
+                "topic": "Part 3: Health (Q5)",
+                "text": "How often do you exercise?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_41",
+                "topic": "Part 3: Health (Q6)",
+                "text": "Do you think people today care enough about their health?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_42",
+                "topic": "Part 3: Technology (Q4)",
+                "text": "What electronic device do you use the most?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_43",
+                "topic": "Part 3: Technology (Q5)",
+                "text": "How has technology changed your daily life?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_44",
+                "topic": "Part 3: Technology (Q6)",
+                "text": "Do you think we rely too much on technology?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_45",
+                "topic": "Part 3: Holidays (Q4)",
+                "text": "What is the most important holiday in your country?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_46",
+                "topic": "Part 3: Holidays (Q5)",
+                "text": "How do you usually celebrate New Year?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_47",
+                "topic": "Part 3: Holidays (Q6)",
+                "text": "Do you prefer long holidays or short breaks?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_48",
+                "topic": "Part 3: Learning (Q4)",
+                "text": "What foreign languages do you speak?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_49",
+                "topic": "Part 3: Learning (Q5)",
+                "text": "Do you prefer studying in a library or at home?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_50",
+                "topic": "Part 3: Learning (Q6)",
+                "text": "What is the best way to learn a new skill?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_51",
+                "topic": "Part 3: Clothes (Q4)",
+                "text": "What kind of clothes do you usually wear?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_52",
+                "topic": "Part 3: Clothes (Q5)",
+                "text": "Do you follow fashion trends?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_53",
+                "topic": "Part 3: Clothes (Q6)",
+                "text": "Do you think clothes reflect a person's personality?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_54",
+                "topic": "Part 3: Gifts (Q4)",
+                "text": "When do you usually buy gifts for people?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_55",
+                "topic": "Part 3: Gifts (Q5)",
+                "text": "Do you prefer giving or receiving gifts?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_56",
+                "topic": "Part 3: Gifts (Q6)",
+                "text": "What was the best gift you ever received?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p3_57",
+                "topic": "Part 3: House (Q4)",
+                "text": "Do you live in a house or an apartment?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_58",
+                "topic": "Part 3: House (Q5)",
+                "text": "What is your favorite room in your home?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p3_59",
+                "topic": "Part 3: House (Q6)",
+                "text": "If you could change one thing about your home, what would it be?",
+                "hint": "Trả lời trực tiếp (Direct answer). Mở rộng thêm 1-2 câu (Extension).",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            }
+        ],
+        "p4": [
+            {
+                "id": "toeic_p4_0",
+                "topic": "Part 4: Business Conference (Q7)",
+                "text": "When does the conference start?",
+                "schedule_html": "<tr><th>Time</th><th>Event</th><th>Location</th></tr><tr><td>9:00</td><td>Opening</td><td>Room A</td></tr><tr><td>10:00</td><td>Marketing Strategy</td><td>Room B</td></tr><tr><td>12:00</td><td>Lunch</td><td>Cafeteria</td></tr><tr><td>13:00</td><td>Sales Workshop</td><td>Room A</td></tr>",
+                "type": "schedule",
+                "hint": "Dùng giới từ thời gian (at, on, in) chính xác. Dùng cấu trúc 'It is scheduled to...' hoặc 'There is a...'.",
+                "prepTime": "45s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p4_1",
+                "topic": "Part 4: Business Conference (Q8)",
+                "text": "Is the Marketing Strategy session in Room A?",
+                "schedule_html": "<tr><th>Time</th><th>Event</th><th>Location</th></tr><tr><td>9:00</td><td>Opening</td><td>Room A</td></tr><tr><td>10:00</td><td>Marketing Strategy</td><td>Room B</td></tr><tr><td>12:00</td><td>Lunch</td><td>Cafeteria</td></tr><tr><td>13:00</td><td>Sales Workshop</td><td>Room A</td></tr>",
+                "type": "schedule",
+                "hint": "Dùng giới từ thời gian (at, on, in) chính xác. Dùng cấu trúc 'It is scheduled to...' hoặc 'There is a...'.",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p4_2",
+                "topic": "Part 4: Business Conference (Q9)",
+                "text": "Please tell me about all the events in the afternoon.",
+                "schedule_html": "<tr><th>Time</th><th>Event</th><th>Location</th></tr><tr><td>9:00</td><td>Opening</td><td>Room A</td></tr><tr><td>10:00</td><td>Marketing Strategy</td><td>Room B</td></tr><tr><td>12:00</td><td>Lunch</td><td>Cafeteria</td></tr><tr><td>13:00</td><td>Sales Workshop</td><td>Room A</td></tr>",
+                "type": "schedule",
+                "hint": "Dùng giới từ thời gian (at, on, in) chính xác. Dùng cấu trúc 'It is scheduled to...' hoặc 'There is a...'.",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p4_3",
+                "topic": "Part 4: Flight Itinerary (Q7)",
+                "text": "What time does the flight to Tokyo leave?",
+                "schedule_html": "<tr><th>Flight</th><th>Dest</th><th>Depart</th><th>Gate</th></tr><tr><td>VN123</td><td>Hanoi</td><td>08:00</td><td>12</td></tr><tr><td>JP456</td><td>Tokyo</td><td>10:30</td><td>5</td></tr><tr><td>US789</td><td>New York</td><td>14:00</td><td>8</td></tr><tr><td>UK321</td><td>London</td><td>18:45</td><td>2</td></tr>",
+                "type": "schedule",
+                "hint": "Dùng giới từ thời gian (at, on, in) chính xác. Dùng cấu trúc 'It is scheduled to...' hoặc 'There is a...'.",
+                "prepTime": "45s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p4_4",
+                "topic": "Part 4: Flight Itinerary (Q8)",
+                "text": "Which gate is the New York flight boarding at?",
+                "schedule_html": "<tr><th>Flight</th><th>Dest</th><th>Depart</th><th>Gate</th></tr><tr><td>VN123</td><td>Hanoi</td><td>08:00</td><td>12</td></tr><tr><td>JP456</td><td>Tokyo</td><td>10:30</td><td>5</td></tr><tr><td>US789</td><td>New York</td><td>14:00</td><td>8</td></tr><tr><td>UK321</td><td>London</td><td>18:45</td><td>2</td></tr>",
+                "type": "schedule",
+                "hint": "Dùng giới từ thời gian (at, on, in) chính xác. Dùng cấu trúc 'It is scheduled to...' hoặc 'There is a...'.",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p4_5",
+                "topic": "Part 4: Flight Itinerary (Q9)",
+                "text": "I need to go to Europe. Can you give me the details of the London flight?",
+                "schedule_html": "<tr><th>Flight</th><th>Dest</th><th>Depart</th><th>Gate</th></tr><tr><td>VN123</td><td>Hanoi</td><td>08:00</td><td>12</td></tr><tr><td>JP456</td><td>Tokyo</td><td>10:30</td><td>5</td></tr><tr><td>US789</td><td>New York</td><td>14:00</td><td>8</td></tr><tr><td>UK321</td><td>London</td><td>18:45</td><td>2</td></tr>",
+                "type": "schedule",
+                "hint": "Dùng giới từ thời gian (at, on, in) chính xác. Dùng cấu trúc 'It is scheduled to...' hoặc 'There is a...'.",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p4_6",
+                "topic": "Part 4: Job Interview Schedule (Q7)",
+                "text": "Who is the first candidate being interviewed?",
+                "schedule_html": "<tr><th>Time</th><th>Candidate</th><th>Position</th></tr><tr><td>9:30</td><td>John Doe</td><td>Manager</td></tr><tr><td>10:30</td><td>Jane Smith</td><td>Assistant</td></tr><tr><td>11:30</td><td>Bob Brown</td><td>Designer</td></tr><tr><td>14:00</td><td>Meeting</td><td>HR Team</td></tr>",
+                "type": "schedule",
+                "hint": "Dùng giới từ thời gian (at, on, in) chính xác. Dùng cấu trúc 'It is scheduled to...' hoặc 'There is a...'.",
+                "prepTime": "45s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p4_7",
+                "topic": "Part 4: Job Interview Schedule (Q8)",
+                "text": "Is Jane Smith interviewing for the Manager position?",
+                "schedule_html": "<tr><th>Time</th><th>Candidate</th><th>Position</th></tr><tr><td>9:30</td><td>John Doe</td><td>Manager</td></tr><tr><td>10:30</td><td>Jane Smith</td><td>Assistant</td></tr><tr><td>11:30</td><td>Bob Brown</td><td>Designer</td></tr><tr><td>14:00</td><td>Meeting</td><td>HR Team</td></tr>",
+                "type": "schedule",
+                "hint": "Dùng giới từ thời gian (at, on, in) chính xác. Dùng cấu trúc 'It is scheduled to...' hoặc 'There is a...'.",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p4_8",
+                "topic": "Part 4: Job Interview Schedule (Q9)",
+                "text": "What is happening after lunch?",
+                "schedule_html": "<tr><th>Time</th><th>Candidate</th><th>Position</th></tr><tr><td>9:30</td><td>John Doe</td><td>Manager</td></tr><tr><td>10:30</td><td>Jane Smith</td><td>Assistant</td></tr><tr><td>11:30</td><td>Bob Brown</td><td>Designer</td></tr><tr><td>14:00</td><td>Meeting</td><td>HR Team</td></tr>",
+                "type": "schedule",
+                "hint": "Dùng giới từ thời gian (at, on, in) chính xác. Dùng cấu trúc 'It is scheduled to...' hoặc 'There is a...'.",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p4_9",
+                "topic": "Part 4: Library Workshop (Q7)",
+                "text": "What workshop is on Monday?",
+                "schedule_html": "<tr><th>Day</th><th>Workshop</th><th>Time</th></tr><tr><td>Mon</td><td>Basic Computer</td><td>10am-12pm</td></tr><tr><td>Wed</td><td>Storytelling</td><td>2pm-3pm</td></tr><tr><td>Fri</td><td>Resume Writing</td><td>9am-11am</td></tr><tr><td>Sat</td><td>Book Club</td><td>4pm-6pm</td></tr>",
+                "type": "schedule",
+                "hint": "Dùng giới từ thời gian (at, on, in) chính xác. Dùng cấu trúc 'It is scheduled to...' hoặc 'There is a...'.",
+                "prepTime": "45s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p4_10",
+                "topic": "Part 4: Library Workshop (Q8)",
+                "text": "Is the Resume Writing class in the afternoon?",
+                "schedule_html": "<tr><th>Day</th><th>Workshop</th><th>Time</th></tr><tr><td>Mon</td><td>Basic Computer</td><td>10am-12pm</td></tr><tr><td>Wed</td><td>Storytelling</td><td>2pm-3pm</td></tr><tr><td>Fri</td><td>Resume Writing</td><td>9am-11am</td></tr><tr><td>Sat</td><td>Book Club</td><td>4pm-6pm</td></tr>",
+                "type": "schedule",
+                "hint": "Dùng giới từ thời gian (at, on, in) chính xác. Dùng cấu trúc 'It is scheduled to...' hoặc 'There is a...'.",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p4_11",
+                "topic": "Part 4: Library Workshop (Q9)",
+                "text": "I am free on the weekend. What event is available?",
+                "schedule_html": "<tr><th>Day</th><th>Workshop</th><th>Time</th></tr><tr><td>Mon</td><td>Basic Computer</td><td>10am-12pm</td></tr><tr><td>Wed</td><td>Storytelling</td><td>2pm-3pm</td></tr><tr><td>Fri</td><td>Resume Writing</td><td>9am-11am</td></tr><tr><td>Sat</td><td>Book Club</td><td>4pm-6pm</td></tr>",
+                "type": "schedule",
+                "hint": "Dùng giới từ thời gian (at, on, in) chính xác. Dùng cấu trúc 'It is scheduled to...' hoặc 'There is a...'.",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            },
+            {
+                "id": "toeic_p4_12",
+                "topic": "Part 4: Bus Schedule (Q7)",
+                "text": "How often does Bus 01 run?",
+                "schedule_html": "<tr><th>Route</th><th>Destination</th><th>Frequency</th></tr><tr><td>Bus 01</td><td>City Center</td><td>Every 10 mins</td></tr><tr><td>Bus 05</td><td>Airport</td><td>Every 30 mins</td></tr><tr><td>Bus 09</td><td>University</td><td>Every 15 mins</td></tr>",
+                "type": "schedule",
+                "hint": "Dùng giới từ thời gian (at, on, in) chính xác. Dùng cấu trúc 'It is scheduled to...' hoặc 'There is a...'.",
+                "prepTime": "45s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p4_13",
+                "topic": "Part 4: Bus Schedule (Q8)",
+                "text": "Which bus goes to the Airport?",
+                "schedule_html": "<tr><th>Route</th><th>Destination</th><th>Frequency</th></tr><tr><td>Bus 01</td><td>City Center</td><td>Every 10 mins</td></tr><tr><td>Bus 05</td><td>Airport</td><td>Every 30 mins</td></tr><tr><td>Bus 09</td><td>University</td><td>Every 15 mins</td></tr>",
+                "type": "schedule",
+                "hint": "Dùng giới từ thời gian (at, on, in) chính xác. Dùng cấu trúc 'It is scheduled to...' hoặc 'There is a...'.",
+                "prepTime": "3s",
+                "speakTime": "15s"
+            },
+            {
+                "id": "toeic_p4_14",
+                "topic": "Part 4: Bus Schedule (Q9)",
+                "text": "Tell me about the bus to the University.",
+                "schedule_html": "<tr><th>Route</th><th>Destination</th><th>Frequency</th></tr><tr><td>Bus 01</td><td>City Center</td><td>Every 10 mins</td></tr><tr><td>Bus 05</td><td>Airport</td><td>Every 30 mins</td></tr><tr><td>Bus 09</td><td>University</td><td>Every 15 mins</td></tr>",
+                "type": "schedule",
+                "hint": "Dùng giới từ thời gian (at, on, in) chính xác. Dùng cấu trúc 'It is scheduled to...' hoặc 'There is a...'.",
+                "prepTime": "3s",
+                "speakTime": "30s"
+            }
+        ],
+        "p5": [
+            {
+                "id": "toeic_p5_0",
+                "topic": "Part 5: Opinion",
+                "text": "Do you agree or disagree: working in a team is better than working alone?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_1",
+                "topic": "Part 5: Opinion",
+                "text": "Do you think it is better to live in a big city or the countryside?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_2",
+                "topic": "Part 5: Opinion",
+                "text": "Some people prefer to save money, others prefer to spend it on experiences. Which do you prefer?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_3",
+                "topic": "Part 5: Opinion",
+                "text": "Do you think students should wear uniforms at school?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_4",
+                "topic": "Part 5: Opinion",
+                "text": "Is it better to work for a large company or a small company?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_5",
+                "topic": "Part 5: Opinion",
+                "text": "Do you think technology makes people less social?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_6",
+                "topic": "Part 5: Opinion",
+                "text": "Should companies allow employees to work from home?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_7",
+                "topic": "Part 5: Opinion",
+                "text": "Is it important for children to learn a musical instrument?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_8",
+                "topic": "Part 5: Opinion",
+                "text": "Do you prefer watching movies at the theater or at home?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_9",
+                "topic": "Part 5: Opinion",
+                "text": "Should public transport be free for everyone?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_10",
+                "topic": "Part 5: Opinion",
+                "text": "Do you think advertising influences what people buy?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_11",
+                "topic": "Part 5: Opinion",
+                "text": "Is it better to plan a vacation in detail or be spontaneous?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_12",
+                "topic": "Part 5: Opinion",
+                "text": "Do you think reading books is more important than watching TV?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_13",
+                "topic": "Part 5: Opinion",
+                "text": "Should students have part-time jobs while studying?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_14",
+                "topic": "Part 5: Opinion",
+                "text": "Is it better to buy a house or rent one?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_15",
+                "topic": "Part 5: Opinion",
+                "text": "Do you think leaders are born or made?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_16",
+                "topic": "Part 5: Opinion",
+                "text": "Should museums be free to the public?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_17",
+                "topic": "Part 5: Opinion",
+                "text": "Do you prefer a job with a high salary or a job that you enjoy?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_18",
+                "topic": "Part 5: Opinion",
+                "text": "Is it important to learn about other cultures?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            },
+            {
+                "id": "toeic_p5_19",
+                "topic": "Part 5: Opinion",
+                "text": "Do you think successful people are just lucky?",
+                "hint": "Nêu quan điểm (I think/prefer...). Lý do 1 + Ví dụ. Lý do 2 + Ví dụ. Kết luận.",
+                "prepTime": "45s",
+                "speakTime": "60s"
+            }
+        ]
+    }
 };
