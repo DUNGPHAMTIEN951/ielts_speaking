@@ -2553,14 +2553,14 @@
         renderTopicsGrid();
         renderQBank();
 
-        // Use global vocab for flashcards and quiz if available, else part-specific
-        if (typeof globalDrillSentences === 'undefined' || globalDrillSentences.length === 0) {
-          await loadGlobalVocab();
-        }
+        // Refresh vocabulary for flashcards and quiz
+        await loadGlobalVocab();
+        
         generateFlashcards();
         generateQuiz();
 
         renderSlide(0);
+        renderQuestionNavigator();
 
       } catch (e) {
         console.error("Error loading data:", e);
@@ -3260,20 +3260,7 @@
       setTimeout(toggleDarkMode, 100);
     }
 
-    async function loadGlobalVocab() {
-      if (!window.ALL_IELTS_DATA) return;
-      const allParts = [window.ALL_IELTS_DATA.p1, window.ALL_IELTS_DATA.p2, window.ALL_IELTS_DATA.p3];
-      allParts.forEach(part => {
-        if (!part) return;
-        part.forEach(q => {
-          if (q.vocab) {
-            q.vocab.forEach(v => {
-              appState.vocabMap[v.word] = v;
-            });
-          }
-        });
-      });
-    }
+    // loadGlobalVocab merged and improved below (around line 5064)
 
     window.renderVocabLibrary = async function(vocab, isSearch = false) {
       // Wait for Phạm Tiến Dũng Gia Sư vocab to finish loading before rendering
@@ -5063,26 +5050,43 @@
     let globalDrillSentences = [];
     async function loadGlobalVocab() {
       globalDrillSentences = [];
+      appState.vocabMap = {}; // Reset vocab map
+      
+      if (typeof ALL_IELTS_DATA === 'undefined') return;
 
-      // 1. Load static data immediately
-      const parts = ['p1', 'p2', 'p3', 'p4', 'p5', 'p6', 'p7', 'p8', 'p9', 'p10', 'p11'];
-      parts.forEach(pKey => {
-        const data = (typeof ALL_IELTS_DATA !== 'undefined' && ALL_IELTS_DATA[pKey]) || [];
-        data.forEach(q => {
-          (q.v || []).forEach(v => {
-            const cleanWord = (v.word || '').toLowerCase().trim().replace(/[^\w\s-]/g, '').replace(/ /g, '_');
-            const imgPath = `public/image/word_${cleanWord}.jpg`;
-            globalDrillSentences.push({
-              word: v.word,
-              ipa: v.ipa || "",
-              meaning: v.meaning || "",
-              sentence: v.example || "",
-              imgPath: imgPath,
-              source: `${pKey.toUpperCase()}: ${q.topic}`
+      let source;
+      if (appState.testType === 'toeic') source = ALL_IELTS_DATA.toeic;
+      else if (appState.testType === 'b2') source = ALL_IELTS_DATA.b2;
+      else source = ALL_IELTS_DATA;
+
+      if (!source) return;
+
+      for (let key in source) {
+        if (key.startsWith('p') && Array.isArray(source[key])) {
+          source[key].forEach(q => {
+            // Support both 'v' and 'vocab' keys for compatibility
+            const vocabList = q.v || q.vocab || [];
+            vocabList.forEach(v => {
+              const cleanWord = (v.word || '').toLowerCase().trim().replace(/[^\w\s-]/g, '').replace(/ /g, '_');
+              const imgPath = `public/image/word_${cleanWord}.jpg`;
+              
+              const drillItem = {
+                word: v.word,
+                ipa: v.ipa || "",
+                meaning: v.meaning || "",
+                sentence: v.example || v.sentence || "",
+                imgPath: imgPath,
+                source: `${key.toUpperCase()}: ${q.topic}`
+              };
+              
+              globalDrillSentences.push(drillItem);
+              appState.vocabMap[v.word] = v;
             });
           });
-        });
-      });
+        }
+      }
+      console.log(`[DEBUG] loadGlobalVocab loaded ${globalDrillSentences.length} items for ${appState.testType}`);
+    }
       console.log("Static Vocab Loaded:", globalDrillSentences.length);
 
       // 2. Start loading Phạm Tiến Dũng Gia Sư data in background (Don't await it here)
