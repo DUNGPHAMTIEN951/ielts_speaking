@@ -2607,6 +2607,7 @@
           speakingData.push({
             id: q.id || idx,
             topic: q.topic,
+            partLabel: q.partLabel,
             text: questionDisplay,
             rawQuestion: rawQForAi,
             schedule_html: q.schedule_html || null,
@@ -4940,7 +4941,7 @@
       if (!grid) return;
 
       const filtered = appState.questions.filter(q => {
-        return q.topic.includes(`Part ${currentNavPart}`);
+        return q.partLabel && q.partLabel.includes(`Part ${currentNavPart}`);
       });
 
       // Group by topic
