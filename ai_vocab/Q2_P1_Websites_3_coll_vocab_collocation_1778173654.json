@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_3_coll",
+  "vocab": [
+    {
+      "word": "aesthetically pleasing redesign",
+      "ipa": "/esˈθetɪkli ˈpliːzɪŋ ˌriːdɪˈzaɪn/",
+      "meaning": "sự thiết kế lại mãn nhãn/đẹp về mặt thẩm mỹ",
+      "example": "The platform recently launched an aesthetically pleasing redesign that simplifies the whole user experience.",
+      "type": "collocation"
+    },
+    {
+      "word": "clunky legacy system",
+      "ipa": "/ˈklʌŋki ˈleɡəsi ˈsɪstəm/",
+      "meaning": "hệ thống cũ kỹ, lỗi thời và chậm chạp",
+      "example": "I've noticed that many government websites are finally ditching their clunky legacy systems for more modern frameworks.",
+      "type": "collocation"
+    },
+    {
+      "word": "seamless cross-platform integration",
+      "ipa": "/ˈsiːmləs krɒs ˈplætfɔːm ˌɪntɪˈɡreɪʃn/",
+      "meaning": "sự tích hợp đa nền tảng mượt mà",
+      "example": "One major change is the seamless cross-platform integration, allowing me to start a task on my desktop and finish it on my phone.",
+      "type": "collocation"
+    },
+    {
+      "word": "paywall restrictions",
+      "ipa": "/ˈpeɪwɔːl rɪˈstrɪkʃnz/",
+      "meaning": "các hạn chế về tường phí (yêu cầu trả tiền để xem tiếp)",
+      "example": "More news outlets are implementing strict paywall restrictions, which makes accessing high-quality journalism quite costly.",
+      "type": "collocation"
+    },
+    {
+      "word": "intuitive navigational flow",
+      "ipa": "/ɪnˈtjuːɪtɪv ˌnævɪˈɡeɪʃənl fləʊ/",
+      "meaning": "luồng điều hướng trực quan, dễ dùng",
+      "example": "The latest update improved the intuitive navigational flow, so I no longer get lost in endless sub-menus.",
+      "type": "collocation"
+    },
+    {
+      "word": "incorporate dark mode",
+      "ipa": "/ɪnˈkɔːpəreɪt dɑːk məʊd/",
+      "meaning": "tích hợp chế độ nền tối",
+      "example": "Many of the educational sites I visit have started to incorporate dark mode to reduce eye strain during late-night study sessions.",
+      "type": "collocation"
+    },
+    {
+      "word": "bolster data privacy",
+      "ipa": "/ˈbəʊlstə(r) ˈdeɪtə ˈprɪvəsi/",
+      "meaning": "tăng cường/củng cố quyền riêng tư dữ liệu",
+      "example": "In response to new regulations, several social media sites have updated their settings to bolster data privacy.",
+      "type": "collocation"
+    },
+    {
+      "word": "minimalist aesthetic",
+      "ipa": "/ˈmɪnɪməlɪst esˈθetɪk/",
+      "meaning": "phong cách thẩm mỹ tối giản",
+      "example": "I’ve observed a shift toward a minimalist aesthetic, removing unnecessary sidebars to focus purely on the content.",
+      "type": "collocation"
+    },
+    {
+      "word": "algorithmic refinement",
+      "ipa": "/ˌælɡəˈrɪðmɪk rɪˈfaɪnmənt/",
+      "meaning": "sự cải tiến thuật toán",
+      "example": "Thanks to continuous algorithmic refinement, my favorite video-sharing site now suggests content that is perfectly aligned with my interests.",
+      "type": "collocation"
+    },
+    {
+      "word": "intrusive advertising",
+      "ipa": "/ɪnˈtruːsɪv ˈædvətaɪzɪŋ/",
+      "meaning": "quảng cáo gây phiền nhiễu/xâm lấn",
+      "example": "I’ve stopped visiting certain forums because they’ve become saturated with intrusive advertising that disrupts the reading flow.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

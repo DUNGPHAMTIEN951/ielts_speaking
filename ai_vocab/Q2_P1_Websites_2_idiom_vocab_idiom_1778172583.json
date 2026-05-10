@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_2_idiom",
+  "vocab": [
+    {
+      "word": "a fountain of knowledge",
+      "ipa": "/ə ˈfaʊntən əv ˈnɒlɪdʒ/",
+      "meaning": "một nguồn tri thức dồi dào",
+      "example": "Wikipedia is essentially a fountain of knowledge that I tap into whenever I need to clarify a complex concept.",
+      "type": "idiom"
+    },
+    {
+      "word": "the go-to",
+      "ipa": "/ðə ˈɡəʊ tuː/",
+      "meaning": "lựa chọn hàng đầu/nơi tìm đến đầu tiên",
+      "example": "YouTube has become my go-to for DIY tutorials because the visual instructions are incredibly easy to follow.",
+      "type": "idiom"
+    },
+    {
+      "word": "at the cutting edge",
+      "ipa": "/æt ðə ˈkʌtɪŋ edʒ/",
+      "meaning": "ở vị trí tiên phong/hiện đại nhất",
+      "example": "I frequently visit TechCrunch to stay at the cutting edge of technological advancements and startup news.",
+      "type": "idiom"
+    },
+    {
+      "word": "get my creative juices flowing",
+      "ipa": "/ɡet maɪ kriˈeɪtɪv ˈdʒuːsɪz ˈfləʊɪŋ/",
+      "meaning": "khơi nguồn cảm hứng sáng tạo",
+      "example": "Browsing through Pinterest never fails to get my creative juices flowing when I'm stuck on a design project.",
+      "type": "idiom"
+    },
+    {
+      "word": "an absolute godsend",
+      "ipa": "/ən ˈæbsəluːt ˈɡɒdsend/",
+      "meaning": "một cứu cánh/vật phẩm cực kỳ hữu ích",
+      "example": "For a university student like me, Google Scholar is an absolute godsend for finding peer-reviewed academic sources.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep me on my toes",
+      "ipa": "/kiːp mi ɒn maɪ təʊz/",
+      "meaning": "giúp tôi luôn nhạy bén/tập trung",
+      "example": "The challenging puzzles on NYT Games really keep me on my toes and help sharpen my cognitive skills every morning.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the loop",
+      "ipa": "/ɪn ðə luːp/",
+      "meaning": "nắm bắt được thông tin (đang xảy ra)",
+      "example": "I check Twitter several times a day just to stay in the loop with breaking news and trending global topics.",
+      "type": "idiom"
+    },
+    {
+      "word": "a breath of fresh air",
+      "ipa": "/ə breθ əv freʃ eə/",
+      "meaning": "một làn gió mới (thứ gì đó mới mẻ, thú vị)",
+      "example": "The minimalist design of some niche blogs is a breath of fresh air compared to most ad-cluttered mainstream websites.",
+      "type": "idiom"
+    },
+    {
+      "word": "second to none",
+      "ipa": "/ˈsekənd tu nʌn/",
+      "meaning": "không ai bằng/tốt nhất",
+      "example": "When it comes to high-quality documentaries, National Geographic's online archive is second to none.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit the spot",
+      "ipa": "/hɪt ðə spɒt/",
+      "meaning": "thỏa mãn chính xác nhu cầu",
+      "example": "When I'm looking for a quick distraction, the short and witty articles on lifestyle sites always hit the spot.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

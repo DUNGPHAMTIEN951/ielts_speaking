@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Reading_3_coll",
+  "vocab": [
+    {
+      "word": "digest complex information",
+      "ipa": "/daɪˈdʒest kəmˈpleks ˌɪnfəˈmeɪʃn/",
+      "meaning": "tiêu hóa/thấu hiểu thông tin phức tạp",
+      "example": "When I am studying for an exam, I need to read slowly to fully digest complex information and retain the key concepts.",
+      "type": "collocation"
+    },
+    {
+      "word": "legal ramifications",
+      "ipa": "/ˈliːɡl ˌræmɪfɪˈkeɪʃnz/",
+      "meaning": "hệ quả về mặt pháp lý",
+      "example": "I always read official documents with care because overlooking a single clause could have serious legal ramifications.",
+      "type": "collocation"
+    },
+    {
+      "word": "lose oneself in",
+      "ipa": "/luːz wʌnˈself ɪn/",
+      "meaning": "đắm chìm vào (thường dùng khi đọc giải trí không cần quá kỹ lưỡng)",
+      "example": "When reading fiction, I don't analyze every word; instead, I prefer to just lose myself in the narrative flow.",
+      "type": "collocation"
+    },
+    {
+      "word": "technical specifications",
+      "ipa": "/ˈteknɪkl ˌspesɪfɪˈkeɪʃnz/",
+      "meaning": "thông số kỹ thuật",
+      "example": "It is vital to pay close attention to technical specifications when setting up new software to ensure compatibility.",
+      "type": "collocation"
+    },
+    {
+      "word": "surface-level reading",
+      "ipa": "/ˈsɜːfɪs ˈlevl ˈriːdɪŋ/",
+      "meaning": "đọc hời hợt/đọc lướt bề mặt",
+      "example": "Social media feeds usually only require surface-level reading since the content is designed for quick consumption.",
+      "type": "collocation"
+    },
+    {
+      "word": "critical analysis",
+      "ipa": "/ˈkrɪtɪkl əˈnæləsɪs/",
+      "meaning": "phân tích phản biện",
+      "example": "Scholarly articles demand critical analysis, so I often highlight passages and take notes to engage deeply with the text.",
+      "type": "collocation"
+    },
+    {
+      "word": "flick through for inspiration",
+      "ipa": "/flɪk θruː fə(r) ˌɪnspəˈreɪʃn/",
+      "meaning": "lướt qua để tìm cảm hứng",
+      "example": "I often flick through art books or magazines for inspiration without feeling the need to read every caption.",
+      "type": "collocation"
+    },
+    {
+      "word": "misinterpret the message",
+      "ipa": "/ˌmɪsɪnˈtɜːprət ðə ˈmesɪdʒ/",
+      "meaning": "hiểu sai thông điệp",
+      "example": "In professional emails, I read each sentence twice to ensure I don't misinterpret the message or the tone of my colleagues.",
+      "type": "collocation"
+    },
+    {
+      "word": "unwind with",
+      "ipa": "/ˌʌnˈwaɪnd wɪð/",
+      "meaning": "thư giãn bằng cách (đọc thứ gì đó nhẹ nhàng)",
+      "example": "Before bed, I like to unwind with a light novel, which allows me to read effortlessly without much mental strain.",
+      "type": "collocation"
+    },
+    {
+      "word": "ambiguous phrasing",
+      "ipa": "/æmˈbɪɡjuəs ˈfreɪzɪŋ/",
+      "meaning": "cách diễn đạt mơ hồ",
+      "example": "If I encounter ambiguous phrasing in a textbook, I have to stop and re-read it to clarify the author's intent.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Watch_1_v1",
+  "vocab": [
+    {
+      "word": "a sartorial staple",
+      "ipa": "/ə sɑːˈtɔː.ri.əl ˈsteɪ.pəl/",
+      "meaning": "một món đồ thiết yếu trong phong cách thời trang",
+      "example": "For me, a classic timepiece is a sartorial staple that completes any professional outfit.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "mechanical intricacy",
+      "ipa": "/məˈkæn.ɪ.kəl ˈɪn.trɪ.kə.si/",
+      "meaning": "sự phức tạp về mặt cơ khí",
+      "example": "I am fascinated by the mechanical intricacy of analog watches, especially how hundreds of tiny parts work in harmony.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "habitual reliance",
+      "ipa": "/həˈbɪtʃ.u.əl rɪˈlaɪ.əns/",
+      "meaning": "sự phụ thuộc theo thói quen",
+      "example": "I have a habitual reliance on my wristwatch; I feel somewhat incomplete or 'naked' without it on my left wrist.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "horological enthusiast",
+      "ipa": "/ˌhɔː.rəˈlɒdʒ.ɪ.kəl ɪnˈθjuː.zi.æst/",
+      "meaning": "người đam mê đồng hồ (về mặt kỹ thuật và lịch sử)",
+      "example": "As a bit of a horological enthusiast, I prefer manual-wind watches over modern smartwatches.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "discreetly monitor",
+      "ipa": "/dɪˈskriːt.li ˈmɒn.ɪ.tər/",
+      "meaning": "theo dõi (giờ giấc) một cách tinh tế/kín đáo",
+      "example": "Wearing a watch allows me to discreetly monitor the time during long lectures without appearing disrespectful.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

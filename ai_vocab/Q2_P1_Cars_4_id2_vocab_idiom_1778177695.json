@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_4_id2",
+  "vocab": [
+    {
+      "word": "take the wheel",
+      "ipa": "/teɪk ðə wiːl/",
+      "meaning": "cầm lái (nghĩa bóng: nắm quyền kiểm soát tình hình)",
+      "example": "I much prefer to take the wheel myself because I feel far more secure when I am in control of the vehicle.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the driving seat",
+      "ipa": "/ɪn ðə ˈdraɪvɪŋ siːt/",
+      "meaning": "ở vị trí điều khiển/kiểm soát (nghĩa đen và bóng)",
+      "example": "Being in the driving seat allows me to dictate the pace of the journey and make spontaneous stops whenever I spot something interesting.",
+      "type": "idiom"
+    },
+    {
+      "word": "joyride",
+      "ipa": "/ˈdʒɔɪraɪd/",
+      "meaning": "một chuyến đi chơi bằng xe đầy thú vị (thường là lái xe tốc độ cao)",
+      "example": "To me, being the driver isn't just about commuting; it's a bit of a joyride that helps me clear my head.",
+      "type": "idiom"
+    },
+    {
+      "word": "thumb a lift",
+      "ipa": "/θʌm ə lɪft/",
+      "meaning": "đi nhờ xe (vẫy tay xin quá giang)",
+      "example": "In my younger days, I enjoyed the spontaneity of thumbing a lift and being a passenger, as it led to many unexpected conversations.",
+      "type": "idiom"
+    },
+    {
+      "word": "road hog",
+      "ipa": "/ˈrəʊd hɒɡ/",
+      "meaning": "người lái xe ẩu/lấn chiếm đường của người khác",
+      "example": "I'd rather be a passenger so I can just ignore any road hog we encounter and focus on my book instead.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

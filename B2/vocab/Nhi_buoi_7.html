@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tiếng Anh 7 - Unit 7: Traffic (Full 136 Words)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap');
+
+        /* Base */
+        body {
+            font-family: 'Nunito', sans-serif;
+            background-color: #f8fafc;
+            overflow-x: hidden;
+            transition: padding-right 0.3s ease-in-out;
+        }
+
+        /* Sidebar Push Effect */
+        @media (min-width: 1024px) {
+            body.note-open {
+                padding-right: 20rem;
+            }
+        }
+
+        /* Tabs */
+        .tab-active {
+            border-bottom: 3px solid #334155;
+            color: #1e293b;
+            font-weight: 800;
+            background-color: rgba(51, 65, 85, 0.1);
+        }
+
+        /* Utils */
+        .hidden-section {
+            display: none !important;
+        }
+
+        .fade-in {
+            animation: fadeIn 0.4s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Flashcard 3D */
+        .perspective-1000 {
+            perspective: 1000px;
+        }
+
+        .transform-style-3d {
+            transform-style: preserve-3d;
+        }
+
+        .backface-hidden {
+            backface-visibility: hidden;
+        }
+
+        .rotate-y-180 {
+            transform: rotateY(180deg);
+        }
+
+        .flipped {
+            transform: rotateY(180deg);
+        }
+
+        .flashcard-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+            transform-style: preserve-3d;
+            border-radius: 1.5rem;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+        }
+
+        .flashcard-front,
+        .flashcard-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            border-radius: 1.5rem;
+            background: white;
+            border: 2px solid #e2e8f0;
+            padding: 1.5rem;
+        }
+
+        .flashcard-front {
+            background: linear-gradient(135deg, #ffffff 0%, #f1f5f9 100%);
+        }
+
+        .flashcard-back {
+            background: linear-gradient(135deg, #fef9c3 0%, #fef3c7 100%);
+            transform: rotateY(180deg);
+        }
+
+        /* Practice Styles */
+        .correct-answer {
+            background-color: #f0fdf4 !important;
+            border-color: #22c55e !important;
+            color: #15803d !important;
+        }
+
+        .wrong-answer {
+            background-color: #fee2e2 !important;
+            border-color: #ef4444 !important;
+            color: #b91c1c !important;
+        }
+
+        .choice-selected {
+            background-color: #f1f5f9;
+            border-color: #334155;
+            color: #1e293b;
+            font-weight: bold;
+        }
+
+        /* Word Ordering Styles */
+        .word-bank-item {
+            cursor: pointer;
+            transition: all 0.2s;
+            user-select: none;
+        }
+
+        .word-bank-item:hover {
+            transform: translateY(-2px);
+            background-color: #f1f5f9;
+        }
+
+        .word-bank-item.used {
+            opacity: 0.5;
+            pointer-events: none;
+            background-color: #f3f4f6;
+            color: #9ca3af;
+            border-color: #e5e7eb;
+        }
+
+        /* Toast */
+        #toast {
+            visibility: hidden;
+            min-width: 250px;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            border-radius: 8px;
+            padding: 16px;
+            position: fixed;
+            z-index: 100;
+            left: 50%;
+            bottom: 30px;
+            transform: translateX(-50%);
+            opacity: 0;
+            transition: opacity 0.3s, bottom 0.3s;
+        }
+
+        #toast.show {
+            visibility: visible;
+            opacity: 1;
+            bottom: 50px;
+        }
+
+        /* Pulse */
+        .pulse-ring {
+            box-shadow: 0 0 0 0 rgba(234, 179, 8, 0.7);
+            animation: pulse-yellow 1.5s infinite;
+        }
+
+        @keyframes pulse-yellow {
+            0% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(234, 179, 8, 0.7);
+            }
+
+            70% {
+                transform: scale(1);
+                box-shadow: 0 0 0 10px rgba(234, 179, 8, 0);
+            }
+
+            100% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(234, 179, 8, 0);
+            }
+        }
+    </style>
+</head>
+
+<body class="min-h-screen flex flex-col text-slate-800 relative">
+
+    <!-- Header -->
+    <header class="bg-gradient-to-r from-slate-700 to-slate-900 text-white p-4 shadow-lg sticky top-0 z-50">
+        <div class="max-w-6xl mx-auto flex justify-between items-center">
+            <div>
+                <h1 class="text-xl md:text-3xl font-extrabold"><i
+                        class="fas fa-traffic-light mr-2 text-yellow-400"></i>Unit 7: Traffic</h1>
+                <p class="text-slate-300 text-xs md:text-sm font-medium"><span id="header-count">136</span> Words •
+                    Grade 7 (Global Success)</p>
+            </div>
+            <div class="flex gap-2">
+                <button onclick="toggleInfo()"
+                    class="text-sm bg-white/20 hover:bg-white/30 px-3 py-1.5 rounded-lg transition"><i
+                        class="fas fa-info-circle"></i></button>
+                <button onclick="resetApp()"
+                    class="text-sm bg-white/20 hover:bg-white/30 px-3 py-1.5 rounded-lg transition font-semibold">Reset</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="bg-white shadow sticky top-[72px] z-40 border-b border-gray-100">
+        <div class="max-w-6xl mx-auto flex justify-start gap-2 md:gap-4 px-4 overflow-x-auto py-2">
+            <button onclick="switchTab('vocab')" id="tab-vocab"
+                class="tab-btn tab-active px-4 py-2 rounded-lg whitespace-nowrap transition-colors"><i
+                    class="fas fa-list mr-2"></i>Từ Vựng</button>
+            <button onclick="switchTab('flashcard')" id="tab-flashcard"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-gray-50"><i
+                    class="fas fa-clone mr-2"></i>Flashcards</button>
+            <button onclick="switchTab('structure')" id="tab-structure"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-gray-50"><i
+                    class="fas fa-microphone-alt mr-2"></i>Cấu Trúc & Nói</button>
+            <button onclick="switchTab('practice')" id="tab-practice"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-gray-50"><i
+                    class="fas fa-tasks mr-2"></i>Bài Tập</button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="flex-grow max-w-6xl mx-auto w-full p-4 md:p-6 space-y-6 pb-20">
+
+        <!-- SECTION 1: VOCAB LIST -->
+        <div id="section-vocab" class="fade-in">
+            <div class="mb-6 relative max-w-xl mx-auto">
+                <input type="text" id="searchInput" onkeyup="filterVocab()" placeholder="🔍 Tìm phương tiện, luật lệ..."
+                    class="w-full p-4 rounded-full border border-gray-200 shadow-sm focus:outline-none focus:ring-4 focus:ring-slate-200 pl-12 transition">
+                <i class="fas fa-search absolute left-5 top-5 text-gray-400"></i>
+            </div>
+            <div class="text-right text-gray-400 text-sm mb-2">Tổng số: <span id="vocab-count"
+                    class="font-bold">0</span> từ</div>
+            <div id="vocab-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4"></div>
+        </div>
+
+        <!-- SECTION 2: FLASHCARDS -->
+        <div id="section-flashcard" class="hidden-section fade-in flex flex-col items-center">
+            <div class="w-full max-w-lg flex justify-between items-center mb-4 px-4">
+                <span id="fc-index" class="font-bold text-slate-600 bg-slate-100 px-3 py-1 rounded-full text-sm">1 /
+                    136</span>
+                <div class="flex gap-2">
+                    <button onclick="toggleShuffle()" id="btn-shuffle"
+                        class="p-2 rounded-full hover:bg-gray-100 text-gray-500 transition" title="Xáo trộn"><i
+                            class="fas fa-random"></i></button>
+                    <button onclick="speakCurrentCard()"
+                        class="p-2 rounded-full hover:bg-gray-100 text-slate-600 transition" title="Phát âm"><i
+                            class="fas fa-volume-up text-xl"></i></button>
+                </div>
+            </div>
+
+            <div class="perspective-1000 w-full max-w-md h-[400px] px-4 cursor-pointer group" onclick="flipCard()">
+                <div id="flashcard-inner" class="flashcard-inner relative">
+                    <div class="flashcard-front">
+                        <span class="text-xs font-bold text-gray-400 uppercase tracking-widest mb-4">English</span>
+                        <h2 id="fc-front-text"
+                            class="text-3xl font-extrabold text-slate-700 text-center break-words mb-4 px-2">...</h2>
+                        <i class="fas fa-car text-yellow-400 text-3xl opacity-20"></i>
+                    </div>
+                    <div class="flashcard-back">
+                        <span id="fc-back-type"
+                            class="text-xs font-bold text-slate-700 bg-yellow-400 px-2 py-1 rounded mb-2 uppercase">...</span>
+                        <h2 id="fc-back-text" class="text-2xl font-bold text-slate-800 text-center mb-2 px-2">...</h2>
+                        <p id="fc-back-sent" class="text-slate-500 text-sm italic text-center px-2">...</p>
+                    </div>
+                </div>
+            </div>
+            <div class="flex items-center gap-6 mt-8">
+                <button onclick="changeCard(-1)"
+                    class="bg-white hover:bg-gray-50 text-gray-600 w-12 h-12 rounded-full shadow border flex items-center justify-center transition active:scale-95"><i
+                        class="fas fa-arrow-left"></i></button>
+                <button onclick="flipCard()"
+                    class="bg-slate-700 hover:bg-slate-800 text-white px-8 py-3 rounded-full shadow-lg font-bold transition active:scale-95">Lật
+                    Thẻ</button>
+                <button onclick="changeCard(1)"
+                    class="bg-white hover:bg-gray-50 text-gray-600 w-12 h-12 rounded-full shadow border flex items-center justify-center transition active:scale-95"><i
+                        class="fas fa-arrow-right"></i></button>
+            </div>
+            <div class="mt-4 flex items-center gap-2 text-sm text-gray-500">
+                <input type="checkbox" id="auto-speak" class="rounded text-slate-600"> <label for="auto-speak">Tự động
+                    phát âm</label>
+            </div>
+        </div>
+
+        <!-- SECTION 3: STRUCTURE -->
+        <div id="section-structure" class="hidden-section fade-in">
+            <div class="bg-slate-100 rounded-xl p-6 mb-6 border-l-4 border-yellow-500">
+                <h2 class="text-xl font-bold text-slate-900 mb-2">🎯 Road Safety</h2>
+                <p class="text-slate-700 text-sm">Luyện tập mô tả khoảng cách và luật giao thông.</p>
+            </div>
+            <div id="structure-card-container"></div>
+            <div class="flex justify-center mt-6 gap-4">
+                <button onclick="prevStructureCard()"
+                    class="bg-white text-gray-600 px-4 py-2 rounded-full shadow hover:bg-gray-50 font-bold"><i
+                        class="fas fa-arrow-left"></i> Trước</button>
+                <button onclick="nextStructureCard()"
+                    class="bg-slate-700 text-white px-6 py-2 rounded-full shadow hover:bg-slate-800 font-bold">Từ Tiếp
+                    Theo <i class="fas fa-arrow-right ml-1"></i></button>
+            </div>
+        </div>
+
+        <!-- SECTION 4: PRACTICE -->
+        <div id="section-practice" class="hidden-section fade-in">
+            <div class="sticky top-28 md:top-32 bg-[#f8fafc] pt-2 pb-4 z-20 flex gap-2 overflow-x-auto no-scrollbar">
+                <button onclick="switchPracticeMode('fill')"
+                    class="prac-sub-btn active-prac bg-slate-200 text-slate-800 px-4 py-2 rounded-full text-sm font-bold border border-slate-300 whitespace-nowrap">1.
+                    Spelling</button>
+                <button onclick="switchPracticeMode('wf')"
+                    class="prac-sub-btn bg-white text-gray-600 px-4 py-2 rounded-full text-sm font-bold border border-gray-200 whitespace-nowrap">2.
+                    Word Form</button>
+                <button onclick="switchPracticeMode('gram')"
+                    class="prac-sub-btn bg-white text-gray-600 px-4 py-2 rounded-full text-sm font-bold border border-gray-200 whitespace-nowrap">3.
+                    Ngữ Pháp</button>
+                <button onclick="switchPracticeMode('type1')"
+                    class="prac-sub-btn bg-white text-gray-600 px-4 py-2 rounded-full text-sm font-bold border border-gray-200 whitespace-nowrap">4.
+                    Trắc nghiệm</button>
+                <button onclick="switchPracticeMode('type2')"
+                    class="prac-sub-btn bg-white text-gray-600 px-4 py-2 rounded-full text-sm font-bold border border-gray-200 whitespace-nowrap">5.
+                    Dịch từ</button>
+            </div>
+
+            <div class="text-center text-sm text-gray-500 mb-2 font-bold" id="practice-stats">Trang 1/7</div>
+            <div id="pagination-controls" class="flex flex-wrap gap-2 mb-4 justify-center"></div>
+            <div id="practice-container" class="space-y-4 pb-10"></div>
+
+            <div class="fixed bottom-6 right-6 z-30">
+                <button onclick="checkCurrentPage()"
+                    class="bg-yellow-600 hover:bg-yellow-700 text-white font-bold py-3 px-6 rounded-full shadow-2xl animate-bounce flex items-center">
+                    <i class="fas fa-check-circle mr-2"></i> Chấm Điểm
+                </button>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- NOTE SIDEBAR -->
+    <div id="note-sidebar"
+        class="fixed top-24 right-0 h-[70vh] w-80 bg-white shadow-2xl transform translate-x-full transition-transform duration-300 z-50 rounded-l-2xl border-l border-gray-100 flex flex-col">
+        <button onclick="toggleNote()"
+            class="absolute top-4 -left-12 bg-slate-700 text-yellow-400 w-12 h-12 rounded-l-xl shadow flex items-center justify-center text-xl hover:bg-slate-800 transition"><i
+                class="fas fa-pen"></i></button>
+        <div class="bg-slate-50 p-4 rounded-tl-2xl border-b border-slate-100 flex justify-between items-center">
+            <h3 class="font-bold text-slate-800"><i class="fas fa-sticky-note mr-2"></i>Ghi Chú Luật Giao Thông</h3>
+            <button onclick="toggleNote()" class="text-gray-400 hover:text-gray-600"><i
+                    class="fas fa-times"></i></button>
+        </div>
+        <textarea id="note-area"
+            class="flex-grow p-4 bg-slate-50/30 resize-none outline-none font-handwriting text-gray-700"
+            placeholder="Ghi chú về should, shouldn't..."></textarea>
+        <div class="p-4 border-t border-gray-100 text-center">
+            <button onclick="exportToWord()"
+                class="w-full bg-slate-700 text-white font-bold py-2 rounded-lg hover:bg-slate-800 transition"><i
+                    class="fas fa-download mr-2"></i>Xuất Word</button>
+        </div>
+    </div>
+
+    <div id="toast">Thông báo</div>
+
+    <script>
+        // --- DATA (Unit 7: Traffic - 136 Words) ---
+        const vocabData = [
+            { id: 1, en: "traffic", vi: "giao thông (ko đếm được)", type: "n" },
+            { id: 2, en: "means of transport", vi: "phương tiện giao thông", type: "n" },
+            { id: 3, en: "road signs", vi: "biển báo giao thông", type: "n" },
+            { id: 4, en: "distance", vi: "khoảng cách", type: "n" },
+            { id: 5, en: "should V", vi: "nên làm gì", type: "v" },
+            { id: 6, en: "traffic rules", vi: "luật giao thông", type: "n" },
+            { id: 7, en: "obey", vi: "vâng lời, tuân theo", type: "v" },
+            { id: 8, en: "talk about sth", vi: "nói về cái gì", type: "v" },
+            { id: 9, en: "traffic problems", vi: "vấn đề giao thông", type: "n" },
+            { id: 10, en: "means", vi: "phương tiện (cả số ít, nhiều đều có s)", type: "n" },
+            { id: 11, en: "transport", vi: "vận chuyển", type: "v/n" },
+            { id: 12, en: "cycle around the lake", vi: "đạp xe quanh hồ", type: "v" },
+            { id: 13, en: "near", vi: "gần", type: "adj/adv" },
+            { id: 14, en: "healthy", vi: "khỏe mạnh, lành mạnh", type: "adj" },
+            { id: 15, en: "health", vi: "sức khỏe", type: "n" },
+            { id: 16, en: "obey traffic rules", vi: "Chấp hành luật giao thông", type: "v" },
+            { id: 17, en: "by the way", vi: "nhân tiện, tiện thể", type: "phrase" },
+            { id: 18, en: "take sb to school", vi: "đưa ai đi học", type: "v" },
+            { id: 19, en: "motorbike", vi: "xe máy", type: "n" },
+            { id: 20, en: "How far is it from your house to school?", vi: "Từ nhà bạn đến trường bao xa?", type: "ques" },
+            { id: 21, en: "kilometre", vi: "km", type: "n" },
+            { id: 22, en: "How long does it take you to V?", vi: "Tốn bao nhiêu thời gian làm gì?", type: "ques" },
+            { id: 23, en: "about 10 minutes", vi: "trong khoảng 10 phút", type: "adv" },
+            { id: 24, en: "traffic jam", vi: "tắc đường", type: "n" },
+            { id: 25, en: "there is/are", vi: "có cái gì", type: "phrase" },
+            { id: 26, en: "should not V", vi: "không nên làm gì", type: "v" },
+            { id: 27, en: "especially", vi: "đặc biệt là", type: "adv" },
+            { id: 28, en: "careful", vi: "cẩn thận", type: "adj" },
+            { id: 29, en: "cross the road", vi: "băng qua đường", type: "v" },
+            { id: 30, en: "right", vi: "đúng", type: "adj" },
+            { id: 31, en: "get crowded", vi: "trở nên đông đúc", type: "v" },
+            { id: 32, en: "How/What about Ving?", vi: "Thế còn ... làm gì?", type: "phrase" },
+            { id: 33, en: "go cycling", vi: "đi xe đạp", type: "v" },
+            { id: 34, en: "great", vi: "tuyệt vời", type: "adj" },
+            { id: 35, en: "be crowded with sth", vi: "đông đúc với cái gì", type: "phrase" },
+            { id: 36, en: "see you then", vi: "Gặp cậu sau nhé", type: "phrase" },
+            { id: 37, en: "go to school by bike", vi: "đi học bằng xe đạp", type: "v" },
+            { id: 38, en: "go on foot", vi: "đi bộ", type: "v" },
+            { id: 39, en: "normally", vi: "thông thường", type: "adv" },
+            { id: 40, en: "It takes sb time to V", vi: "ai đó tốn bao nhiêu thời gian để làm gì", type: "phrase" },
+            { id: 41, en: "agree to V", vi: "đồng ý làm gì", type: "v" },
+            { id: 42, en: "tomorrow", vi: "ngày mai", type: "n/adv" },
+            { id: 43, en: "problem", vi: "vấn đề", type: "n" },
+            { id: 44, en: "go shopping", vi: "đi mua sắm", type: "v" },
+            { id: 45, en: "during rush hours", vi: "trong giờ cao điểm", type: "adv" },
+            { id: 46, en: "exercise", vi: "tập thể dục", type: "v/n" },
+            { id: 47, en: "ride a motorbike", vi: "lái xe máy", type: "v" },
+            { id: 48, en: "drive a car", vi: "lái ô tô", type: "v" },
+            { id: 49, en: "sail a boat", vi: "lái, chèo thuyền", type: "v" },
+            { id: 50, en: "walk", vi: "đi bộ", type: "v" },
+            { id: 51, en: "travel by air", vi: "đi máy bay", type: "v" },
+            { id: 52, en: "how to V", vi: "làm thế nào để", type: "phrase" },
+            { id: 53, en: "no right turn", vi: "cấm rẽ phải", type: "n" },
+            { id: 54, en: "traffic lights", vi: "đèn giao thông", type: "n" },
+            { id: 55, en: "cycle lane", vi: "làn đường dành cho xe đạp", type: "n" },
+            { id: 56, en: "school ahead", vi: "phía trước có trường học", type: "n" },
+            { id: 57, en: "hospital ahead", vi: "phía trước có bệnh viện", type: "n" },
+            { id: 58, en: "station", vi: "nhà ga, trạm", type: "n" },
+            { id: 59, en: "pavement", vi: "vỉa hè", type: "n" },
+            { id: 60, en: "bus station", vi: "bến xe buýt", type: "n" },
+            { id: 61, en: "far from sth", vi: "xa với cái gì", type: "phrase" },
+            { id: 62, en: "safety", vi: "sự an toàn", type: "n" },
+            { id: 63, en: "in time", vi: "kịp giờ", type: "adv" },
+            { id: 64, en: "on time", vi: "đúng giờ", type: "adv" },
+            { id: 65, en: "from A to B", vi: "từ A đến B", type: "adv" },
+            { id: 66, en: "airport", vi: "sân bay", type: "n" },
+            { id: 67, en: "should (not) V", vi: "(không) nên làm gì", type: "v" },
+            { id: 68, en: "be careful", vi: "Hãy cẩn thận", type: "phrase" },
+            { id: 69, en: "overweight", vi: "thừa cân", type: "adj" },
+            { id: 70, en: "instead of sth/Ving", vi: "thay vì cái gì/làm gì", type: "prep" },
+            { id: 71, en: "at night", vi: "vào ban đêm", type: "adv" },
+            { id: 72, en: "waste water", vi: "Lãng phí nước", type: "v" },
+            { id: 73, en: "wear a helmet", vi: "đội mũ bảo hiểm", type: "v" },
+            { id: 74, en: "sidewalk", vi: "vỉa hè", type: "n" },
+            { id: 75, en: "ride a bike dangerously", vi: "đạp xe một cách nguy hiểm", type: "v" },
+            { id: 76, en: "strange", vi: "kỳ lạ", type: "adj" },
+            { id: 77, en: "the United Kingdom (UK)", vi: "Vương quốc Anh", type: "n" },
+            { id: 78, en: "The United States of America (US)", vi: "nước Mỹ", type: "n" },
+            { id: 79, en: "Australia", vi: "nước Úc", type: "n" },
+            { id: 80, en: "country", vi: "đất nước, quốc gia", type: "n" },
+            { id: 81, en: "be allowed to V", vi: "được cho phép làm gì", type: "phrase" },
+            { id: 82, en: "on the roof", vi: "trên mái nhà, nóc", type: "adv" },
+            { id: 83, en: "police", vi: "cảnh sát", type: "n" },
+            { id: 84, en: "fine", vi: "phạt tiền", type: "v/n" },
+            { id: 85, en: "Africa", vi: "Châu Phi", type: "n" },
+            { id: 86, en: "let sb V", vi: "để ai làm gì", type: "phrase" },
+            { id: 87, en: "handlebars", vi: "ghi đông, tay lái", type: "n" },
+            { id: 88, en: "pedestrian", vi: "người đi bộ", type: "n" },
+            { id: 89, en: "rule", vi: "quy tắc, luật lệ", type: "n" },
+            { id: 90, en: "road safety", vi: "an toàn giao thông đường bộ", type: "n" },
+            { id: 91, en: "obey the rules", vi: "tuân thủ luật lệ", type: "v" },
+            { id: 92, en: "road user", vi: "Người tham gia giao thông", type: "n" },
+            { id: 93, en: "keep hands on the handlebars", vi: "đặt tay lên ghi đông xe", type: "v" },
+            { id: 94, en: "look carefully", vi: "nhìn kỹ", type: "v" },
+            { id: 95, en: "footpath", vi: "lối đi bộ", type: "n" },
+            { id: 96, en: "pavement / sidewalk", vi: "vỉa hè", type: "n" },
+            { id: 97, en: "zebra crossing", vi: "vạch sang đường", type: "n" },
+            { id: 98, en: "Don't cross the road on a red light", vi: "Không sang đường khi đèn đỏ", type: "phrase" },
+            { id: 99, en: "give a signal", vi: "đưa ra tín hiệu", type: "v" },
+            { id: 100, en: "turn", vi: "quẹo, rẽ", type: "v/n" },
+            { id: 101, en: "carry", vi: "mang, vác, khuân chở", type: "v" },
+            { id: 102, en: "passenger", vi: "hành khách", type: "n" },
+            { id: 103, en: "fasten your seatbelt", vi: "thắt dây an toàn", type: "phrase" },
+            { id: 104, en: "in a car", vi: "trên xe", type: "adv" },
+            { id: 105, en: "wait for a bus", vi: "đợi xe buýt", type: "v" },
+            { id: 106, en: "get on the car", vi: "lên xe", type: "v" },
+            { id: 107, en: "get off the car", vi: "xuống xe", type: "v" },
+            { id: 108, en: "stick", vi: "dán, dính", type: "v" },
+            { id: 109, en: "out of the window", vi: "ra khỏi cửa sổ", type: "adv" },
+            { id: 110, en: "vehicle", vi: "xe cộ", type: "n" },
+            { id: 111, en: "rain hard/heavily", vi: "mưa to", type: "v" },
+            { id: 112, en: "wave", vi: "vẫy tay", type: "v" },
+            { id: 113, en: "shout", vi: "la hét", type: "v" },
+            { id: 114, en: "population increase", vi: "gia tăng dân số", type: "n" },
+            { id: 115, en: "reason", vi: "lý do", type: "n" },
+            { id: 116, en: "million", vi: "triệu", type: "num" },
+            { id: 117, en: "narrow", vi: "chật, hẹp", type: "adj" },
+            { id: 118, en: "wide", vi: "rộng", type: "adj" },
+            { id: 119, en: "bumpy road", vi: "đường gồ ghề", type: "n" },
+            { id: 120, en: "run across the road", vi: "chạy qua đường", type: "v" },
+            { id: 121, en: "suggestion", vi: "sự gợi ý", type: "n" },
+            { id: 122, en: "cyclist", vi: "người đi xe đạp", type: "n" },
+            { id: 123, en: "motorist", vi: "người lái xe", type: "n" },
+            { id: 124, en: "want to V", vi: "muốn làm gì", type: "v" },
+            { id: 125, en: "pilot", vi: "phi công", type: "n" },
+            { id: 126, en: "light turns yellow", vi: "đèn chuyển màu vàng", type: "phrase" },
+            { id: 127, en: "waterfall", vi: "thác nước", type: "n" },
+            { id: 128, en: "put the rubbish in the bin", vi: "bỏ rác vào thùng", type: "v" },
+            { id: 129, en: "can V", vi: "có thể làm gì", type: "v" },
+            { id: 130, en: "could V", vi: "quá khứ của can", type: "v" },
+            { id: 131, en: "cannot V", vi: "không thể làm gì", type: "v" },
+            { id: 132, en: "couldn't V", vi: "không thể làm gì (quá khứ)", type: "v" },
+            { id: 133, en: "cookies / biscuit", vi: "bánh quy", type: "n" },
+            { id: 134, en: "over eighteen", vi: "trên 18 tuổi", type: "phrase" },
+            { id: 135, en: "get lost", vi: "bị lạc", type: "v" },
+            { id: 136, en: "be good at sth/Ving", vi: "Giỏi cái gì", type: "phrase" }
+        ];
+
+        // --- APP LOGIC ---
+        let currentTab = 'vocab';
+        let currentIndex = 0;
+        let isFlipped = false;
+        let activeList = [];
+        let isShuffled = false;
+        let currentMode = 'fill';
+        let currentPage = 1;
+        const itemsPerPage = 20;
+        let fullExercises = {};
+        let structIdx = 0;
+        let recognition;
+        let isRecording = false;
+
+        window.onload = function () {
+            document.getElementById('header-count').innerText = vocabData.length;
+            activeList = [...vocabData];
+            renderVocabLines();
+            updateFlashcard();
+            renderStructureCard();
+            fullExercises = generateExerciseData();
+            switchPracticeMode('fill');
+        };
+
+        function generateExerciseData() {
+            const exercises = { fill: [], wf: [], gram: [], type1: [], type2: [] };
+            vocabData.forEach((word, index) => {
+                const en = word.en.trim();
+                const vi = word.vi.trim();
+                const type = word.type ? word.type.trim().toLowerCase() : '';
+
+                // Spelling
+                let masked = en.split('').map(c => (c === ' ' || c === '/' || Math.random() > 0.5) ? c : '_').join('');
+                if (!masked.includes('_')) masked = en.replace(/./, '_');
+                exercises.fill.push({ id: index, word: en, question: `Spelling: <span class="font-mono font-bold text-slate-800 text-lg tracking-widest bg-slate-50 px-2 py-1 rounded border border-slate-200">${masked}</span> <br><span class="text-xs text-gray-400 italic">Hint: ${vi}</span>`, answer: en });
+
+                // WF
+                let wfQ = type.includes('v') ? `You should _______ the rules.` : type.includes('n') ? `This _______ is very busy.` : `The road is _______ .`;
+                exercises.wf.push({ id: index, root: en, question: `<div>${wfQ}</div><div class="text-xs text-gray-400 mt-1">Gợi ý: ${vi} (${type})</div>`, answer: en });
+
+                // Grammar - Focus on "should" or distance
+                if (en.toLowerCase().includes('should')) {
+                    exercises.gram.push({ id: index, word: en, question: `Complete: You (should/shouldn't) _______ follow traffic rules.`, answer: 'should' });
+                } else if (en.startsWith('How far')) {
+                    exercises.gram.push({ id: index, word: en, question: `Fill: _______ far is it from here?`, answer: 'How' });
+                } else {
+                    exercises.gram.push({ id: index, word: en, question: `Rewrite the word correctly: <span class="font-bold text-slate-800">${en}</span>`, answer: en });
+                }
+
+                // Type 1 (Multiple Choice)
+                if (en.includes(' ')) {
+                    exercises.type1.push({ id: index, type: 'order', question: `Reorder to form phrase (Nghĩa: ${vi}):`, words: en.split(' ').sort(() => Math.random() - 0.5), answer: en });
+                } else {
+                    const typeMap = { 'n': 'Noun', 'v': 'Verb', 'adj': 'Adjective', 'adv': 'Adverb' };
+                    const correctType = typeMap[type] || 'Other';
+                    const opts = [...new Set(Object.values(typeMap))].sort(() => 0.5 - Math.random());
+                    exercises.type1.push({ id: index, type: 'choice', question: `"<span class="font-bold text-slate-800">${en}</span>" is a:`, options: opts, answer: correctType });
+                }
+
+                // Type 2 (Translation)
+                exercises.type2.push({ id: index, type: 'write', question: `Dịch sang tiếng Anh: "<span class="font-bold text-blue-600">${vi}</span>"`, answer: en });
+            });
+            return exercises;
+        }
+
+        function switchTab(tab) {
+            currentTab = tab;
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('tab-active', 'bg-slate-100'));
+            document.getElementById(`tab-${tab}`).classList.add('tab-active', 'bg-slate-100');
+            document.querySelectorAll('main > div').forEach(div => div.classList.add('hidden-section'));
+            document.getElementById(`section-${tab}`).classList.remove('hidden-section');
+        }
+
+        function renderVocabLines(filter = "") {
+            const grid = document.getElementById('vocab-grid'); grid.innerHTML = "";
+            const filtered = vocabData.filter(item => item.en.toLowerCase().includes(filter.toLowerCase()) || item.vi.toLowerCase().includes(filter.toLowerCase()));
+            document.getElementById('vocab-count').innerText = filtered.length;
+            filtered.forEach(item => {
+                const el = document.createElement('div');
+                el.className = "bg-white p-4 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition group flex justify-between items-center";
+                el.innerHTML = `<div><div class="flex items-center gap-2 mb-1"><span class="text-xs font-bold text-gray-300">#${item.id}</span><span class="text-[10px] bg-yellow-100 text-yellow-700 px-1 rounded uppercase">${item.type}</span></div><h3 class="text-lg font-bold text-slate-800 group-hover:text-slate-600 transition">${item.en}</h3><p class="text-gray-500 text-sm">${item.vi}</p></div><button onclick="speak('${escapeQuote(item.en)}')" class="text-slate-300 hover:text-slate-600 transition"><i class="fas fa-volume-up text-lg"></i></button>`;
+                grid.appendChild(el);
+            });
+        }
+        function filterVocab() { renderVocabLines(document.getElementById('searchInput').value); }
+
+        function updateFlashcard() {
+            const item = activeList[currentIndex];
+            isFlipped = false; document.getElementById('flashcard-inner').classList.remove('flipped');
+            document.getElementById('fc-index').innerText = `${currentIndex + 1} / ${activeList.length}`;
+            document.getElementById('fc-front-text').innerText = item.en;
+            document.getElementById('fc-back-text').innerText = item.vi;
+            document.getElementById('fc-back-type').innerText = item.type;
+            document.getElementById('fc-back-sent').innerText = `We must be careful of ${item.en} on the road.`;
+            if (document.getElementById('auto-speak').checked) speak(item.en);
+        }
+        function flipCard() { isFlipped = !isFlipped; document.getElementById('flashcard-inner').classList.toggle('flipped', isFlipped); }
+        function changeCard(dir) { currentIndex += dir; if (currentIndex < 0) currentIndex = activeList.length - 1; if (currentIndex >= activeList.length) currentIndex = 0; updateFlashcard(); }
+        function toggleShuffle() { isShuffled = !isShuffled; activeList = isShuffled ? [...vocabData].sort(() => Math.random() - 0.5) : [...vocabData]; currentIndex = 0; updateFlashcard(); }
+        function speakCurrentCard() { speak(activeList[currentIndex].en); }
+
+        function renderStructureCard() {
+            const word = vocabData[structIdx];
+            const container = document.getElementById('structure-card-container');
+            container.innerHTML = `<div class="bg-white rounded-xl shadow-lg p-6 max-w-2xl mx-auto"><div class="text-center mb-6"><h2 class="text-3xl font-extrabold text-slate-800 mb-1">${word.en}</h2><p class="text-gray-400 text-sm">(${word.vi})</p></div><div class="border-t border-gray-100 pt-6 text-center"><p class="font-bold text-gray-700 mb-3">Thử nói:</p><p class="text-xl font-bold text-slate-800 mb-6">"You should obey the ${word.en} for your safety."</p><button id="record-btn" onclick="toggleRecording()" class="w-16 h-16 rounded-full bg-slate-700 hover:bg-slate-800 text-yellow-400 shadow-lg flex items-center justify-center mx-auto transition transform active:scale-95"><i class="fas fa-microphone text-2xl"></i></button><p id="transcript-result" class="text-sm text-gray-400 mt-3 h-6 italic">Nhấn mic để nói...</p></div></div>`;
+        }
+        function nextStructureCard() { structIdx = (structIdx + 1) % vocabData.length; renderStructureCard(); }
+        function prevStructureCard() { structIdx = (structIdx - 1 + vocabData.length) % vocabData.length; renderStructureCard(); }
+        function toggleRecording() {
+            if (!('webkitSpeechRecognition' in window)) { showToast("Not supported"); return; }
+            if (isRecording) { recognition.stop(); return; }
+            const btn = document.getElementById('record-btn'); recognition = new webkitSpeechRecognition(); recognition.lang = 'en-US';
+            recognition.onstart = () => { isRecording = true; btn.classList.add('pulse-ring'); document.getElementById('transcript-result').innerText = "Đang nghe..."; };
+            recognition.onresult = (e) => { const x = e.results[0][0].transcript; document.getElementById('transcript-result').innerText = `"${x}"`; if (x.toLowerCase().includes(vocabData[structIdx].en.toLowerCase())) showToast("🎉 Safety First!"); };
+            recognition.onend = () => { isRecording = false; btn.classList.remove('pulse-ring'); };
+            recognition.start();
+        }
+
+        function switchPracticeMode(mode) { currentMode = mode; currentPage = 1; renderPagination(); renderPracticePage(); }
+        function renderPagination() {
+            const total = fullExercises[currentMode].length; const pages = Math.ceil(total / itemsPerPage);
+            const container = document.getElementById('pagination-controls'); container.innerHTML = '';
+            for (let i = 1; i <= pages; i++) { if (i > 3 && i < pages - 1) { if (i === 4) container.innerHTML += '...'; continue; } const btn = document.createElement('button'); btn.className = `px-3 py-1 rounded text-sm font-bold border transition ${i === currentPage ? 'bg-slate-800 text-white border-slate-800' : 'bg-white text-gray-600 hover:bg-gray-50 border-gray-200'}`; btn.innerText = i; btn.onclick = () => { currentPage = i; renderPagination(); renderPracticePage(); }; container.appendChild(btn); }
+            document.getElementById('practice-stats').innerText = `Trang ${currentPage}/${pages}`;
+        }
+        function renderPracticePage() {
+            const container = document.getElementById('practice-container'); container.innerHTML = '';
+            const start = (currentPage - 1) * itemsPerPage; const end = start + itemsPerPage;
+            const data = fullExercises[currentMode].slice(start, end);
+            const list = document.createElement('div'); list.className = "bg-white rounded-xl shadow-sm border border-gray-100";
+            data.forEach((item, i) => {
+                const row = document.createElement('div'); row.className = "p-4 border-b border-gray-50 flex flex-col gap-2";
+                row.innerHTML = `<div class="text-[10px] uppercase text-gray-300 font-bold text-right">#${start + i + 1}</div><div class="mb-2 font-medium">${item.question}</div>`;
+                if (item.type === 'order') {
+                    row.innerHTML += `<div id="ans-q-${start + i}" class="min-h-[40px] bg-slate-50 border border-dashed border-slate-200 rounded p-2 flex flex-wrap gap-2 mb-2" data-ans="${item.answer}"></div><div id="bank-q-${start + i}" class="flex flex-wrap gap-2">${item.words.map(w => `<span onclick="moveWord(this, 'ans-q-${start + i}', 'bank-q-${start + i}')" class="word-bank-item bg-white px-2 py-1 rounded border text-xs shadow-sm">${w}</span>`).join('')}</div>`;
+                } else if (item.options) {
+                    row.innerHTML += `<div class="grid grid-cols-1 md:grid-cols-2 gap-2" data-ans="${item.answer}">${item.options.map(o => `<button onclick="selectChoice(this)" class="p-2 border rounded-lg text-left hover:bg-slate-50 text-sm transition">${o}</button>`).join('')}</div>`;
+                } else {
+                    row.innerHTML += `<input type="text" data-ans="${item.answer}" class="prac-input w-full p-2 border border-gray-200 rounded focus:border-slate-500 outline-none text-sm" placeholder="...">`;
+                }
+                row.innerHTML += `<div class="prac-feedback mt-1"></div>`;
+                list.appendChild(row);
+            });
+            container.appendChild(list);
+        }
+
+        window.moveWord = function (el, tId, oId) { const t = document.getElementById(tId); const o = document.getElementById(oId); if (el.parentElement.id === oId) t.appendChild(el); else o.appendChild(el); }
+        window.selectChoice = function (btn) { const p = btn.parentElement; p.querySelectorAll('button').forEach(b => b.classList.remove('choice-selected')); btn.classList.add('choice-selected'); p.setAttribute('data-user-choice', btn.innerText); }
+
+        function checkCurrentPage() {
+            let cor = 0; let total = 0;
+            document.querySelectorAll('#practice-container .prac-input').forEach(inp => {
+                total++; const u = inp.value.trim().toLowerCase(); const a = inp.getAttribute('data-ans').toLowerCase(); const fb = inp.nextElementSibling;
+                if (u === a) { cor++; inp.classList.add('correct-answer'); fb.innerHTML = "✅ Đúng!"; } else { inp.classList.add('wrong-answer'); fb.innerHTML = `❌ ${a}`; }
+            });
+            document.querySelectorAll('.choice-container, div[data-ans]').forEach(c => {
+                if (!c.getAttribute('data-ans')) return;
+                total++; const u = c.getAttribute('data-user-choice'); const a = c.getAttribute('data-ans'); const fb = c.nextElementSibling;
+                if (!u) return;
+                if (u === a) { cor++; fb.innerHTML = "✅ Đúng!"; } else { fb.innerHTML = `❌ ${a}`; }
+            });
+            document.querySelectorAll('div[id^="ans-q-"]').forEach(z => {
+                total++; const u = Array.from(z.children).map(s => s.innerText).join(' ').trim().toLowerCase(); const a = z.getAttribute('data-ans').toLowerCase(); const fb = z.nextElementSibling.nextElementSibling;
+                if (u === a) { cor++; fb.innerHTML = "✅ Đúng!"; } else { fb.innerHTML = `❌ ${a}`; }
+            });
+            showToast(`${cor}/${total} Correct!`);
+        }
+
+        function speak(t) { window.speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(t); u.lang = 'en-US'; window.speechSynthesis.speak(u); }
+        function escapeQuote(s) { return s.replace(/'/g, "\\'"); }
+        function showToast(m) { const t = document.getElementById('toast'); t.textContent = m; t.className = "show"; setTimeout(() => t.className = "", 3000); }
+        function resetApp() { location.reload(); }
+        function toggleInfo() { alert("Unit 7: Traffic - 136 Words."); }
+        function toggleNote() { document.getElementById('note-sidebar').classList.toggle('translate-x-full'); }
+        function exportToWord() { const t = document.getElementById('note-area').value; const b = new Blob(['\ufeff' + t], { type: 'application/msword' }); const a = document.createElement('a'); a.href = URL.createObjectURL(b); a.download = 'TrafficNotes.doc'; a.click(); }
+    </script>
+</body>
+
+</html>

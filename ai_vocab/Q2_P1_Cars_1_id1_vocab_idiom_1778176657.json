@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_1_id1",
+  "vocab": [
+    {
+      "word": "clash with",
+      "ipa": "/klæʃ wɪð/",
+      "meaning": "xung đột, không ăn nhập với (về màu sắc)",
+      "example": "I believe choosing the right shade is vital because a neon car would definitely clash with the historical architecture of my neighborhood.",
+      "type": "idiom"
+    },
+    {
+      "word": "a matter of personal taste",
+      "ipa": "/ə ˈmætə(r) əv ˈpɜːsənl teɪst/",
+      "meaning": "vấn đề thuộc về sở thích cá nhân",
+      "example": "Ultimately, car color is a matter of personal taste, though some people prioritize utility over aesthetics.",
+      "type": "idiom"
+    },
+    {
+      "word": "catch the eye",
+      "ipa": "/kætʃ ðə aɪ/",
+      "meaning": "thu hút sự chú ý/bắt mắt",
+      "example": "While a bright red Ferrari is designed to catch the eye, I prefer more subdued tones that blend into the crowd.",
+      "type": "idiom"
+    },
+    {
+      "word": "the icing on the cake",
+      "ipa": "/ði ˈaɪsɪŋ ɒn ðə keɪk/",
+      "meaning": "điều bổ sung khiến mọi thứ trở nên hoàn hảo hơn",
+      "example": "A car's performance is what matters most, but a sleek, sophisticated color is definitely the icing on the cake.",
+      "type": "idiom"
+    },
+    {
+      "word": "stand out from the crowd",
+      "ipa": "/stænd aʊt frəm ðə kraʊd/",
+      "meaning": "nổi bật, khác biệt với số đông",
+      "example": "Custom paint jobs allow enthusiasts to stand out from the crowd and express their unique individuality on the road.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

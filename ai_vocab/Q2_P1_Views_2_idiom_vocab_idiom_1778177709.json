@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Views_2_idiom",
+  "vocab": [
+    {
+      "word": "a breath of fresh air",
+      "ipa": "/ə breθ əv freʃ eə(r)/",
+      "meaning": "một luồng gió mới (cảm giác nhẹ nhõm, mới mẻ)",
+      "example": "After living in the city for years, the sight of the open countryside is a real breath of fresh air.",
+      "type": "idiom"
+    },
+    {
+      "word": "hustle and bustle",
+      "ipa": "/ˈhʌsl ənd ˈbʌsl/",
+      "meaning": "sự hối hả và nhộn nhịp",
+      "example": "I’m drawn to urban views because I thrive on the hustle and bustle of a city that never sleeps.",
+      "type": "idiom"
+    },
+    {
+      "word": "middle of nowhere",
+      "ipa": "/ˈmɪdl əv ˈnəʊweə(r)/",
+      "meaning": "nơi xa xôi hẻo lánh, cách xa thành phố",
+      "example": "There is a unique beauty in being in the middle of nowhere, where the horizon isn't blocked by skyscrapers.",
+      "type": "idiom"
+    },
+    {
+      "word": "bright lights, big city",
+      "ipa": "/braɪt laɪts bɪɡ ˈsɪti/",
+      "meaning": "sự hào nhoáng và lôi cuốn của cuộc sống thành thị",
+      "example": "The 'bright lights, big city' aesthetic has always appealed to me more than quiet, rural landscapes.",
+      "type": "idiom"
+    },
+    {
+      "word": "off the beaten track",
+      "ipa": "/ɒf ðə ˈbiːtn træk/",
+      "meaning": "ở nơi hẻo lánh, ít người biết đến",
+      "example": "I prefer rural views because they often lead you off the beaten track to hidden gems that most people miss.",
+      "type": "idiom"
+    },
+    {
+      "word": "a stone's throw",
+      "ipa": "/ə stəʊnz θrəʊ/",
+      "meaning": "khoảng cách rất gần",
+      "example": "In my city, a stunning river view is just a stone's throw from the main commercial district.",
+      "type": "idiom"
+    },
+    {
+      "word": "far cry from",
+      "ipa": "/fɑː(r) kraɪ frəm/",
+      "meaning": "khác xa so với cái gì",
+      "example": "The serene, rolling hills of the north are a far cry from the chaotic urban sprawl I grew up in.",
+      "type": "idiom"
+    },
+    {
+      "word": "feast or famine",
+      "ipa": "/fiːst ɔː(r) ˈfæmɪn/",
+      "meaning": "lúc thì quá nhiều, lúc thì quá ít (ám chỉ sự tương phản của cảnh vật)",
+      "example": "Urban views are often feast or famine; you either see magnificent architecture or drab industrial zones.",
+      "type": "idiom"
+    },
+    {
+      "word": "eye-opener",
+      "ipa": "/ˈaɪ əʊpnə(r)/",
+      "meaning": "một trải nghiệm mở mang tầm mắt",
+      "example": "Visiting the vast, untouched canyons was a real eye-opener to how diverse rural scenery can be.",
+      "type": "idiom"
+    },
+    {
+      "word": "home away from home",
+      "ipa": "/həʊm əˈweɪ frəm həʊm/",
+      "meaning": "một nơi thoải mái như ở nhà mình",
+      "example": "The quiet mountains have become my home away from home because the views there bring me so much peace.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Scenery_2_idiom",
+  "vocab": [
+    {
+      "word": "a breath of fresh air",
+      "ipa": "/ə breθ əv freʃ eə(r)/",
+      "meaning": "một luồng gió mới (cảm giác nhẹ nhõm, mới mẻ)",
+      "example": "Escaping the city to witness the mountain scenery is a real breath of fresh air after a hectic work week.",
+      "type": "idiom"
+    },
+    {
+      "word": "feast one's eyes on",
+      "ipa": "/fiːst wʌnz aɪz ɒn/",
+      "meaning": "chiêm ngưỡng, say mê ngắm nhìn",
+      "example": "I love sitting on the beach just to feast my eyes on the sunset reflecting over the waves.",
+      "type": "idiom"
+    },
+    {
+      "word": "over the moon",
+      "ipa": "/ˈəʊvə(r) ðə muːn/",
+      "meaning": "cực kỳ hạnh phúc, sung sướng",
+      "example": "I’m always over the moon when I finally reach the summit and see the world spread out beneath me.",
+      "type": "idiom"
+    },
+    {
+      "word": "get away from it all",
+      "ipa": "/ɡet əˈweɪ frəm ɪt ɔːl/",
+      "meaning": "đi xa để trốn khỏi những áp lực thường nhật",
+      "example": "The sea is the perfect place to get away from it all and just enjoy the silence of the horizon.",
+      "type": "idiom"
+    },
+    {
+      "word": "the best of both worlds",
+      "ipa": "/ðə best əv bəʊθ wɜːldz/",
+      "meaning": "vẹn cả đôi đường (hưởng lợi từ cả hai lựa chọn)",
+      "example": "Living in a coastal city with nearby hiking trails gives me the best of both worlds.",
+      "type": "idiom"
+    },
+    {
+      "word": "take one's breath away",
+      "ipa": "/teɪk wʌnz breθ əˈweɪ/",
+      "meaning": "làm ai đó kinh ngạc đến nín thở vì vẻ đẹp",
+      "example": "The panoramic view from the top of the craggy peak truly took my breath away.",
+      "type": "idiom"
+    },
+    {
+      "word": "recharge one's batteries",
+      "ipa": "/ˌriːˈtʃɑːdʒ wʌnz ˈbætəriz/",
+      "meaning": "hồi phục năng lượng",
+      "example": "I find that the rhythmic sound of the ocean helps me recharge my batteries more than anything else.",
+      "type": "idiom"
+    },
+    {
+      "word": "down to earth",
+      "ipa": "/daʊn tu ɜːθ/",
+      "meaning": "thực tế, gần gũi (hoặc cảm giác kết nối với đất mẹ)",
+      "example": "There is something about the rugged mountain terrain that makes me feel very down to earth and humble.",
+      "type": "idiom"
+    },
+    {
+      "word": "be in one's element",
+      "ipa": "/bi ɪn wʌnz ˈelɪmənt/",
+      "meaning": "như cá gặp nước (trong môi trường mình yêu thích)",
+      "example": "As a keen surfer, I am definitely in my element whenever I am near the sea.",
+      "type": "idiom"
+    },
+    {
+      "word": "plain sailing",
+      "ipa": "/pleɪn ˈseɪlɪŋ/",
+      "meaning": "thuận buồm xuôi gió (trải nghiệm suôn sẻ, dễ chịu)",
+      "example": "Watching the calm sea makes me feel that life should be plain sailing, without any unnecessary stress.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Watch_3_id1",
+  "vocab": [
+    {
+      "word": "cost an arm and a leg",
+      "ipa": "/kɒst ən ɑːm ənd ə leɡ/",
+      "meaning": "rất đắt đỏ / tốn rất nhiều tiền",
+      "example": "Even though a Rolex might cost an arm and a leg, many people see it as a worthwhile long-term investment.",
+      "type": "idiom"
+    },
+    {
+      "word": "dressed to the nines",
+      "ipa": "/drest tu ðə naɪnz/",
+      "meaning": "ăn mặc chỉnh tề, sang trọng (thường đi kèm phụ kiện đắt tiền)",
+      "example": "High-profile executives often wear luxury watches when they are dressed to the nines for gala events to complete their look.",
+      "type": "idiom"
+    },
+    {
+      "word": "look a million dollars",
+      "ipa": "/lʊk ə ˈmɪljən ˈdɒləz/",
+      "meaning": "trông rất lôi cuốn, sang trọng và tự tin",
+      "example": "A sophisticated timepiece can make the wearer look a million dollars, even if the rest of their outfit is quite simple.",
+      "type": "idiom"
+    },
+    {
+      "word": "break the bank",
+      "ipa": "/breɪk ðə bæŋk/",
+      "meaning": "chi tiêu quá khả năng / làm khánh kiệt ngân sách",
+      "example": "Some enthusiasts are willing to break the bank just to get their hands on a limited-edition watch that likely increases in value.",
+      "type": "idiom"
+    },
+    {
+      "word": "a chip off the old block",
+      "ipa": "/ə tʃɪp ɒf ðə əʊld blɒk/",
+      "meaning": "người có đặc điểm giống hệt bố mẹ (dùng khi nói về việc thừa kế gu thẩm mỹ/đồng hồ)",
+      "example": "My father always wore a Patek Philippe, and being a chip off the old block, I’ve developed the same fascination for high-end horology.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

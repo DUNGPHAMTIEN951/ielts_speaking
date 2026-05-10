@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_5_idiom",
+  "vocab": [
+    {
+      "word": "separate the wheat from the chaff",
+      "ipa": "/ˈsepəreɪt ðə wiːt frəm ðə tʃɑːf/",
+      "meaning": "phân biệt cái tốt với cái xấu (ở đây là lọc ra thông tin hữu ích)",
+      "example": "While stuck in gridlock, I listen to podcasts to separate the wheat from the chaff regarding the latest industry news.",
+      "type": "idiom"
+    },
+    {
+      "word": "recharge one's batteries",
+      "ipa": "/ˌriːˈtʃɑːrdʒ wʌnz ˈbætəriz/",
+      "meaning": "nạp lại năng lượng (nghĩa bóng: nghỉ ngơi trí óc)",
+      "example": "I try to look at the delay as a rare chance to recharge my batteries mentally before the workday begins.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep one's wits about one",
+      "ipa": "/kiːp wʌnz wɪts əˈbaʊt wʌn/",
+      "meaning": "giữ sự tỉnh táo và nhanh nhạy để xử lý tình huống",
+      "example": "In chaotic traffic, it's vital to keep your wits about you to react to the erratic movements of other drivers.",
+      "type": "idiom"
+    },
+    {
+      "word": "a fly on the wall",
+      "ipa": "/ə flaɪ ɒn ðə wɔːl/",
+      "meaning": "người quan sát kín đáo mà không bị phát hiện",
+      "example": "Being stationary allows me to be a fly on the wall, observing the amusing interactions between people in the cars next to me.",
+      "type": "idiom"
+    },
+    {
+      "word": "get into the swing of things",
+      "ipa": "/ɡet ˈɪntə ðə swɪŋ əv θɪŋz/",
+      "meaning": "bắt đầu quen với/vào guồng công việc",
+      "example": "I often use the commute to plan my tasks so that by the time I arrive, I can get into the swing of things immediately.",
+      "type": "idiom"
+    },
+    {
+      "word": "burn the midnight oil",
+      "ipa": "/bɜːrn ðə ˈmɪdnaɪt ɔɪl/",
+      "meaning": "làm việc muộn (ở đây là hoàn thành việc sớm để không phải làm muộn)",
+      "example": "I answer emails while waiting in traffic so I won't have to burn the midnight oil later tonight.",
+      "type": "idiom"
+    },
+    {
+      "word": "take the bull by the horns",
+      "ipa": "/teɪk ðə bʊl baɪ ðə hɔːrnz/",
+      "meaning": "trực diện giải quyết một vấn đề khó khăn",
+      "example": "Instead of complaining, I take the bull by the horns and use my navigation app to find a clever side-street bypass.",
+      "type": "idiom"
+    },
+    {
+      "word": "on an even keel",
+      "ipa": "/ɒn ən ˈiːvn kiːl/",
+      "meaning": "ở trạng thái thăng bằng, ổn định, không bị kích động",
+      "example": "Deep breathing helps keep my emotions on an even keel even when the traffic hasn't budged for twenty minutes.",
+      "type": "idiom"
+    },
+    {
+      "word": "the icing on the cake",
+      "ipa": "/ði ˈaɪsɪŋ ɒn ðə keɪk/",
+      "meaning": "điều tốt đẹp được thêm vào (thường dùng mỉa mai trong tình huống này)",
+      "example": "The traffic was already bad, so the heavy rain was just the icing on the cake for a miserable morning commute.",
+      "type": "idiom"
+    },
+    {
+      "word": "give a good account of oneself",
+      "ipa": "/ɡɪv ə ɡʊd əˈkaʊnt əv wʌnˈself/",
+      "meaning": "thể hiện tốt/giữ được phong độ",
+      "example": "Even in a stressful snarl-up, I try to give a good account of myself by remaining patient and courteous to others.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

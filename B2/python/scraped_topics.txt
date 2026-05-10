@@ -1,0 +1,37 @@
+--- All Headers found in scraped_reference.txt ---
+=== PART 1: HOBBIES (1) ===
+=== PART 1: TYPING (2) ===
+=== PART 1: SCENERY (3) ===
+=== PART 1: BUILDING (4) ===
+=== PART 1: CHILDHOOD ACTIVITIES (5) ===
+=== PART 1: CASH (6) ===
+=== PART 1: HEALTH (7) ===
+=== PART 1: TAKING PHOTOS (8) ===
+=== PART 1: THE AREA YOU LIVE IN (9) ===
+=== PART 1: WORK OR STUDIES (10) ===
+=== PART 1: MORNING TIME (11) ===
+=== PART 1: GIFTS (12) ===
+=== PART 1: READING (13) ===
+=== PART 1: KEYS (14) ===
+=== PART 1: DAY OFF (15) ===
+=== PART 1: PETS (16) ===
+=== PART 1: DREAMS (17) ===
+=== PART 1: FOOD (18) ===
+=== PART 2: FOREIGN COUNTRY (1) ===
+Topic: Describe a foreign country you would like to stay or work for a short period of time
+=== PART 2: SHOPPING MALL (2) ===
+Topic: Describe a shopping mall
+=== PART 2: ENCOURAGING PERSON (3) ===
+Topic: Describe a person who encouraged you to protect nature
+=== PART 2: BICYCLE TRIP (4) ===
+Topic: Describe a bicycle/motorcycle/car trip you would like to go
+=== PART 2: MUSIC EVENT (5) ===
+Topic: Describe a music event that you didn't enjoy
+=== PART 2: FRIEND LEARNING (6) ===
+Topic: Describe one of your friends who learned something new (not from a teacher)
+=== PART 2: SMART PERSON (7) ===
+Topic: Describe a person who solved a problem in a smart way
+=== PART 2: MOVIE (8) ===
+Topic: Describe a movie you watched and enjoyed recently
+=== PART 2: SPENT MORE (9) ===
+Topic: Describe an item on which you spent more than expected

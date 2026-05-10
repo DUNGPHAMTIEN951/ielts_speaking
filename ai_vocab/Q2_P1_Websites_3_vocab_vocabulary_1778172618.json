@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_3",
+  "vocab": [
+    {
+      "word": "overhaul the aesthetics",
+      "ipa": "/ˌəʊvəˈhɔːl ði iːsˈθetɪks/",
+      "meaning": "thay đổi toàn diện diện mạo/thẩm mỹ",
+      "example": "Many news portals I follow have decided to overhaul the aesthetics to create a more modern and sleek feel.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "algorithm-driven",
+      "ipa": "/ˈælɡərɪðəm ˈdrɪvn/",
+      "meaning": "dựa trên/được vận hành bởi thuật toán",
+      "example": "The biggest change is how websites have become more algorithm-driven, tailoring the homepage specifically to my browsing history.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "paywall",
+      "ipa": "/ˈpeɪwɔːl/",
+      "meaning": "hệ thống thu phí đọc nội dung",
+      "example": "I've noticed that several high-quality journals have recently implemented a paywall, restricting access to premium articles.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "mobile optimization",
+      "ipa": "/ˈməʊbaɪl ˌɒptɪmaɪˈzeɪʃn/",
+      "meaning": "tối ưu hóa giao diện cho điện thoại",
+      "example": "There has been a significant shift toward mobile optimization, making the user experience much smoother on smartphones than on desktops.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "integration of AI",
+      "ipa": "/ˌɪntɪˈɡreɪʃn əv ˌeɪ ˈaɪ/",
+      "meaning": "sự tích hợp trí tuệ nhân tạo",
+      "example": "The integration of AI chatbots on shopping sites has made customer support almost instantaneous compared to a few years ago.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "cluttered with pop-ups",
+      "ipa": "/ˈklʌtəd wɪð ˈpɒp ʌps/",
+      "meaning": "bị lấp đầy bởi các quảng cáo bật lên",
+      "example": "Unfortunately, some previously clean sites have become cluttered with pop-ups, which significantly hinders the reading process.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "dark mode functionality",
+      "ipa": "/dɑːk məʊd ˌfʌŋkʃəˈnæləti/",
+      "meaning": "tính năng chế độ tối (màn hình)",
+      "example": "Most platforms now offer dark mode functionality, which is a welcome change for people who browse late at night.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "streamline the login process",
+      "ipa": "/ˈstriːmlaɪn ðə ˈlɒɡɪn ˈprəʊses/",
+      "meaning": "hợp lý hóa/đơn giản hóa quy trình đăng nhập",
+      "example": "They have managed to streamline the login process by allowing users to sign in using their social media credentials.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "monetization strategies",
+      "ipa": "/ˌmʌnɪtaɪˈzeɪʃn ˈstrætədʒiz/",
+      "meaning": "các chiến lược kiếm tiền/thương mại hóa",
+      "example": "The changes in monetization strategies mean I see a lot more sponsored content interspersed with regular posts now.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "vulnerable to breaches",
+      "ipa": "/ˈvʌlnərəbl tu ˈbriːtʃɪz/",
+      "meaning": "dễ bị tổn thương bởi các vụ rò rỉ dữ liệu",
+      "example": "With updates in security protocols, websites are becoming less vulnerable to breaches, which gives me more peace of mind.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

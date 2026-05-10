@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tiếng Anh 7 - Unit 11: Travelling in the future (Full 192 Words)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&display=swap');
+
+        /* Base */
+        body {
+            font-family: 'Space Grotesk', sans-serif;
+            background-color: #020617;
+            overflow-x: hidden;
+            transition: padding-right 0.3s ease-in-out;
+            color: #e2e8f0;
+        }
+
+        /* Sidebar Push Effect */
+        @media (min-width: 1024px) {
+            body.note-open {
+                padding-right: 20rem;
+            }
+        }
+
+        /* Tabs */
+        .tab-active {
+            border-bottom: 3px solid #06b6d4;
+            color: #67e8f9;
+            font-weight: 800;
+            background-color: rgba(6, 182, 212, 0.1);
+        }
+
+        /* Utils */
+        .hidden-section {
+            display: none !important;
+        }
+
+        .fade-in {
+            animation: fadeIn 0.4s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Flashcard 3D */
+        .perspective-1000 {
+            perspective: 1000px;
+        }
+
+        .transform-style-3d {
+            transform-style: preserve-3d;
+        }
+
+        .backface-hidden {
+            backface-visibility: hidden;
+        }
+
+        .rotate-y-180 {
+            transform: rotateY(180deg);
+        }
+
+        .flipped {
+            transform: rotateY(180deg);
+        }
+
+        .flashcard-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+            transform-style: preserve-3d;
+            border-radius: 1.5rem;
+            box-shadow: 0 0 40px rgba(6, 182, 212, 0.2);
+        }
+
+        .flashcard-front,
+        .flashcard-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            border-radius: 1.5rem;
+            background: #0f172a;
+            border: 2px solid #1e293b;
+            padding: 1.5rem;
+        }
+
+        .flashcard-front {
+            background: linear-gradient(135deg, #0f172a 0%, #020617 100%);
+        }
+
+        .flashcard-back {
+            background: linear-gradient(135deg, #0e1e3b 0%, #020617 100%);
+            transform: rotateY(180deg);
+        }
+
+        /* Practice Styles */
+        .correct-answer {
+            background-color: #064e3b !important;
+            border-color: #10b981 !important;
+            color: #34d399 !important;
+        }
+
+        .wrong-answer {
+            background-color: #7f1d1d !important;
+            border-color: #ef4444 !important;
+            color: #fca5a5 !important;
+        }
+
+        .choice-selected {
+            background-color: #164e63;
+            border-color: #06b6d4;
+            color: #cffafe;
+            font-weight: bold;
+        }
+
+        /* Word Ordering Styles */
+        .word-bank-item {
+            cursor: pointer;
+            transition: all 0.2s;
+            user-select: none;
+        }
+
+        .word-bank-item:hover {
+            transform: translateY(-2px);
+            background-color: #1e293b;
+            border-color: #06b6d4;
+        }
+
+        .word-bank-item.used {
+            opacity: 0.5;
+            pointer-events: none;
+            background-color: #020617;
+            color: #334155;
+            border-color: #0f172a;
+        }
+
+        /* Toast */
+        #toast {
+            visibility: hidden;
+            min-width: 250px;
+            background-color: #06b6d4;
+            color: #fff;
+            text-align: center;
+            border-radius: 8px;
+            padding: 16px;
+            position: fixed;
+            z-index: 100;
+            left: 50%;
+            bottom: 30px;
+            transform: translateX(-50%);
+            opacity: 0;
+            transition: opacity 0.3s, bottom 0.3s;
+        }
+
+        #toast.show {
+            visibility: visible;
+            opacity: 1;
+            bottom: 50px;
+        }
+
+        /* Cyber Pulse */
+        .pulse-ring {
+            box-shadow: 0 0 0 0 rgba(6, 182, 212, 0.7);
+            animation: pulse-cyber 1.5s infinite;
+        }
+
+        @keyframes pulse-cyber {
+            0% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(6, 182, 212, 0.7);
+            }
+
+            70% {
+                transform: scale(1);
+                box-shadow: 0 0 0 10px rgba(6, 182, 212, 0);
+            }
+
+            100% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(6, 182, 212, 0);
+            }
+        }
+
+        .dark-card {
+            background: #0f172a;
+            border: 1px solid #1e293b;
+            transition: all 0.3s;
+        }
+
+        .dark-card:hover {
+            border-color: #06b6d4;
+            box-shadow: 0 0 15px rgba(6, 182, 212, 0.1);
+        }
+
+        .scifi-btn {
+            background: linear-gradient(90deg, #0891b2 0%, #0e7490 100%);
+            box-shadow: 0 4px 14px 0 rgba(6, 182, 212, 0.39);
+        }
+    </style>
+</head>
+
+<body class="min-h-screen flex flex-col relative text-slate-300">
+
+    <!-- Header -->
+    <header
+        class="bg-gradient-to-r from-slate-950 via-cyan-950 to-slate-900 text-white p-4 shadow-lg sticky top-0 z-50 border-b border-cyan-500/30">
+        <div class="max-w-6xl mx-auto flex justify-between items-center">
+            <div>
+                <h1 class="text-xl md:text-3xl font-extrabold tracking-tight"><i
+                        class="fas fa-rocket mr-2 text-cyan-400"></i>Unit 11: Future Travel</h1>
+                <p class="text-cyan-300 text-xs md:text-sm font-medium"><span id="header-count">192</span> Words •
+                    Sci-Fi Module</p>
+            </div>
+            <div class="flex gap-2">
+                <button onclick="toggleInfo()"
+                    class="text-sm bg-cyan-900/40 hover:bg-cyan-900/60 px-3 py-1.5 rounded-lg transition border border-cyan-700/50"><i
+                        class="fas fa-shuttle-space"></i></button>
+                <button onclick="resetApp()"
+                    class="text-sm bg-cyan-900/40 hover:bg-cyan-900/60 px-3 py-1.5 rounded-lg transition font-semibold border border-cyan-700/50">Reset</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="bg-slate-950 shadow sticky top-[72px] z-40 border-b border-slate-900">
+        <div class="max-w-6xl mx-auto flex justify-start gap-2 md:gap-4 px-4 overflow-x-auto py-2">
+            <button onclick="switchTab('vocab')" id="tab-vocab"
+                class="tab-btn tab-active px-4 py-2 rounded-lg whitespace-nowrap transition-colors"><i
+                    class="fas fa-robot mr-2"></i>Dữ Liệu</button>
+            <button onclick="switchTab('flashcard')" id="tab-flashcard"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-slate-900"><i
+                    class="fas fa-clone mr-2"></i>Mô Phỏng</button>
+            <button onclick="switchTab('structure')" id="tab-structure"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-slate-900"><i
+                    class="fas fa-satellite mr-2"></i>Dự Đoán</button>
+            <button onclick="switchTab('practice')" id="tab-practice"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-slate-900"><i
+                    class="fas fa-microchip mr-2"></i>Huấn Luyện</button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="flex-grow max-w-6xl mx-auto w-full p-4 md:p-6 space-y-6 pb-20">
+
+        <!-- SECTION 1: VOCAB LIST -->
+        <div id="section-vocab" class="fade-in">
+            <div class="mb-6 relative max-w-xl mx-auto">
+                <input type="text" id="searchInput" onkeyup="filterVocab()"
+                    placeholder="🔍 Truyền tống, xe bay, tàu vũ trụ..."
+                    class="w-full p-4 rounded-full bg-slate-900 border border-slate-800 shadow-sm focus:outline-none focus:ring-4 focus:ring-cyan-900/50 pl-12 transition text-cyan-100">
+                <i class="fas fa-search absolute left-5 top-5 text-cyan-600"></i>
+            </div>
+            <div class="text-right text-cyan-500 text-sm mb-2 font-mono">Status: <span id="vocab-count"
+                    class="font-bold">0</span>/192 ONLINE</div>
+            <div id="vocab-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4"></div>
+        </div>
+
+        <!-- SECTION 2: FLASHCARDS -->
+        <div id="section-flashcard" class="hidden-section fade-in flex flex-col items-center">
+            <div class="w-full max-w-lg flex justify-between items-center mb-4 px-4">
+                <span id="fc-index"
+                    class="font-bold text-cyan-400 bg-cyan-950 px-3 py-1 rounded-full text-sm font-mono border border-cyan-800/50">Core:
+                    1 / 192</span>
+                <div class="flex gap-2">
+                    <button onclick="toggleShuffle()" id="btn-shuffle"
+                        class="p-2 rounded-full hover:bg-slate-900 text-slate-400 transition" title="Auto-Randomize"><i
+                            class="fas fa-random"></i></button>
+                    <button onclick="speakCurrentCard()"
+                        class="p-2 rounded-full hover:bg-slate-900 text-cyan-400 transition" title="Voice Output"><i
+                            class="fas fa-volume-high text-xl"></i></button>
+                </div>
+            </div>
+
+            <div class="perspective-1000 w-full max-w-md h-[400px] px-4 cursor-pointer group" onclick="flipCard()">
+                <div id="flashcard-inner" class="flashcard-inner relative">
+                    <div class="flashcard-front">
+                        <span class="text-xs font-bold text-cyan-600 uppercase tracking-[4px] mb-4">Neural Input</span>
+                        <h2 id="fc-front-text"
+                            class="text-3xl font-extrabold text-white text-center break-words mb-4 px-2">...</h2>
+                        <i class="fas fa-atom text-cyan-500/10 text-6xl mt-auto"></i>
+                    </div>
+                    <div class="flashcard-back">
+                        <span id="fc-back-type"
+                            class="text-xs font-bold text-white bg-cyan-700 px-2 py-1 rounded mb-2 uppercase">...</span>
+                        <h2 id="fc-back-text" class="text-2xl font-bold text-white text-center mb-2 px-2">...</h2>
+                        <p id="fc-back-sent" class="text-cyan-400 text-sm italic text-center px-4 font-mono">...</p>
+                    </div>
+                </div>
+            </div>
+            <div class="flex items-center gap-6 mt-8">
+                <button onclick="changeCard(-1)"
+                    class="bg-slate-900 hover:bg-slate-800 text-slate-400 w-12 h-12 rounded-full shadow border border-slate-800 flex items-center justify-center transition active:scale-90"><i
+                        class="fas fa-chevron-left"></i></button>
+                <button onclick="flipCard()"
+                    class="scifi-btn text-white px-10 py-3 rounded-full shadow-lg font-bold tracking-widest transition active:scale-95 border border-cyan-400/30">SYNC/FLIP</button>
+                <button onclick="changeCard(1)"
+                    class="bg-slate-900 hover:bg-slate-800 text-slate-400 w-12 h-12 rounded-full shadow border border-slate-800 flex items-center justify-center transition active:scale-90"><i
+                        class="fas fa-chevron-right"></i></button>
+            </div>
+            <div class="mt-4 flex items-center gap-2 text-sm text-cyan-600 font-mono">
+                <input type="checkbox" id="auto-speak" class="rounded text-cyan-600 bg-slate-900 border-cyan-800">
+                <label for="auto-speak">AUTO-PILOT VOICE</label>
+            </div>
+        </div>
+
+        <!-- SECTION 3: STRUCTURE -->
+        <div id="section-structure" class="hidden-section fade-in">
+            <div
+                class="bg-cyan-950/20 rounded-xl p-6 mb-6 border-l-4 border-cyan-500 flex flex-col md:flex-row justify-between items-center gap-4">
+                <div>
+                    <h2 class="text-xl font-bold text-cyan-300 mb-1">🛸 Travel Prediction Engine</h2>
+                    <p class="text-cyan-600 text-sm font-mono">Probability Analysis: "will", "won't",
+                        "mine/yours/theirs".</p>
+                </div>
+                <div
+                    class="bg-slate-950/50 px-4 py-2 rounded-lg border border-cyan-500/20 text-xs font-mono text-cyan-400">
+                    STATUS: SCANNING...
+                </div>
+            </div>
+            <div id="structure-card-container"></div>
+            <div class="flex justify-center mt-6 gap-4">
+                <button onclick="prevStructureCard()"
+                    class="bg-slate-900 text-slate-400 px-4 py-2 rounded-full shadow border border-slate-800 hover:bg-slate-800 font-bold"><i
+                        class="fas fa-arrow-left"></i> PREV</button>
+                <button onclick="nextStructureCard()"
+                    class="scifi-btn text-white px-8 py-2 rounded-full shadow hover:bg-cyan-700 font-bold border border-cyan-400/20">NEXT
+                    DATA POINT <i class="fas fa-arrow-right ml-1"></i></button>
+            </div>
+        </div>
+
+        <!-- SECTION 4: PRACTICE -->
+        <div id="section-practice" class="hidden-section fade-in">
+            <div class="sticky top-28 md:top-32 bg-[#020617] pt-2 pb-4 z-20 flex gap-2 overflow-x-auto no-scrollbar">
+                <button onclick="switchPracticeMode('fill')"
+                    class="prac-sub-btn active-prac bg-cyan-900/40 text-cyan-200 px-4 py-2 rounded-full text-sm font-bold border border-cyan-500/30 whitespace-nowrap">1.
+                    Input Auth (Spelling)</button>
+                <button onclick="switchPracticeMode('wf')"
+                    class="prac-sub-btn bg-slate-900 text-slate-500 px-4 py-2 rounded-full text-sm font-bold border border-slate-800 whitespace-nowrap">2.
+                    Transmutation (WF)</button>
+                <button onclick="switchPracticeMode('gram')"
+                    class="prac-sub-btn bg-slate-900 text-slate-500 px-4 py-2 rounded-full text-sm font-bold border border-slate-800 whitespace-nowrap">3.
+                    Logical Rule (Grammar)</button>
+                <button onclick="switchPracticeMode('type1')"
+                    class="prac-sub-btn bg-slate-900 text-slate-500 px-4 py-2 rounded-full text-sm font-bold border border-slate-800 whitespace-nowrap">4.
+                    Multi-Path (Choice)</button>
+                <button onclick="switchPracticeMode('type2')"
+                    class="prac-sub-btn bg-slate-900 text-slate-500 px-4 py-2 rounded-full text-sm font-bold border border-slate-800 whitespace-nowrap">5.
+                    Translation (Dịch)</button>
+            </div>
+
+            <div class="text-center text-xs text-cyan-700 mb-2 font-mono uppercase tracking-widest" id="practice-stats">
+                Sector 1/10</div>
+            <div id="pagination-controls" class="flex flex-wrap gap-2 mb-4 justify-center"></div>
+            <div id="practice-container" class="space-y-4 pb-10"></div>
+
+            <div class="fixed bottom-6 right-6 z-30">
+                <button onclick="checkCurrentPage()"
+                    class="scifi-btn hover:brightness-125 text-white font-bold py-3 px-8 rounded-full shadow-2xl animate-pulse flex items-center border border-cyan-400/50">
+                    <i class="fas fa-microchip mr-2"></i> VALIDATE DATA
+                </button>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- NOTE SIDEBAR -->
+    <div id="note-sidebar"
+        class="fixed top-24 right-0 h-[70vh] w-80 bg-slate-950 shadow-2xl transform translate-x-full transition-transform duration-300 z-50 rounded-l-2xl border-l border-cyan-900/30 flex flex-col">
+        <button onclick="toggleNote()"
+            class="absolute top-4 -left-12 bg-cyan-700 text-white w-12 h-12 rounded-l-xl shadow flex items-center justify-center text-xl hover:bg-cyan-600 transition border border-cyan-500/30"><i
+                class="fas fa-database"></i></button>
+        <div class="bg-cyan-950/40 p-4 rounded-tl-2xl border-b border-cyan-900/30 flex justify-between items-center">
+            <h3 class="font-bold text-cyan-100 font-mono tracking-tighter uppercase">Space Logs</h3>
+            <button onclick="toggleNote()" class="text-slate-500 hover:text-cyan-400"><i
+                    class="fas fa-xmark"></i></button>
+        </div>
+        <textarea id="note-area"
+            class="flex-grow p-4 bg-slate-950 resize-none outline-none font-mono text-cyan-500 text-sm"
+            placeholder="Recording predictions... mine, yours, theirs..."></textarea>
+        <div class="p-4 border-t border-slate-900 text-center">
+            <button onclick="exportToWord()"
+                class="w-full bg-cyan-900/60 text-cyan-100 font-bold py-2 rounded-lg hover:bg-cyan-800 transition border border-cyan-600/30 font-mono">DOWNLOAD
+                DRIVE</button>
+        </div>
+    </div>
+
+    <div id="toast">SYSTEM NOTIFICATION</div>
+
+    <script>
+        // --- DATA (Unit 11: Future Travel - 192 Words) ---
+        const vocabData = [
+            { id: 1, en: "in the future", vi: "trong tương lai", type: "adv" },
+            { id: 2, en: "means of transport", vi: "phương tiện giao thông", type: "n" },
+            { id: 3, en: "future simple", vi: "Tương lai đơn", type: "n" },
+            { id: 4, en: "possessive pronoun", vi: "đại từ sở hữu", type: "n" },
+            { id: 5, en: "popular", vi: "phổ biến", type: "adj" },
+            { id: 6, en: "advantage", vi: "lợi ích", type: "n" },
+            { id: 7, en: "disadvantage", vi: "bất lợi", type: "n" },
+            { id: 8, en: "means", vi: "phương tiện", type: "n" },
+            { id: 9, en: "prediction", vi: "sự dự đoán", type: "n" },
+            { id: 10, en: "possessive adjective", vi: "tính từ sở hữu", type: "n" },
+            { id: 11, en: "another", vi: "một cái khác", type: "det" },
+            { id: 12, en: "traffic jam", vi: "tắc đường", type: "n" },
+            { id: 13, en: "get to somewhere", vi: "đến đâu đó", type: "v" },
+            { id: 14, en: "campsite", vi: "khu cắm trại", type: "n" },
+            { id: 15, en: "on time", vi: "đúng giờ", type: "adv" },
+            { id: 16, en: "possess", vi: "sở hữu", type: "v" },
+            { id: 17, en: "It's a pity", vi: "thật đáng tiếc", type: "phrase" },
+            { id: 18, en: "hyperloop", vi: "hệ thống giao thông tốc độ cao", type: "n" },
+            { id: 19, en: "system", vi: "hệ thống", type: "n" },
+            { id: 20, en: "tube", vi: "tàu điện ngầm", type: "n" },
+            { id: 21, en: "go from one place to another", vi: "đi từ nơi này đến nơi khác", type: "v" },
+            { id: 22, en: "minute", vi: "phút", type: "n" },
+            { id: 23, en: "amazing", vi: "tuyệt vời", type: "adj" },
+            { id: 24, en: "flying car", vi: "xe bay", type: "n" },
+            { id: 25, en: "there is/are", vi: "có", type: "v" },
+            { id: 26, en: "pollute", vi: "làm ô nhiễm", type: "v" },
+            { id: 27, en: "in just minutes", vi: "chỉ trong vài phút", type: "adv" },
+            { id: 28, en: "pollution", vi: "sự ô nhiễm", type: "n" },
+            { id: 29, en: "environment", vi: "môi trường", type: "n" },
+            { id: 30, en: "fume", vi: "khói thải", type: "n" },
+            { id: 31, en: "totally safe", vi: "hoàn toàn an toàn", type: "adj" },
+            { id: 32, en: "teleporter", vi: "máy dịch chuyển tức thời", type: "n" },
+            { id: 33, en: "be like sb", vi: "giống ai", type: "v" },
+            { id: 34, en: "eco-friendly", vi: "thân thiện với môi trường", type: "adj" },
+            { id: 35, en: "be different from sth", vi: "khác với cái gì", type: "v" },
+            { id: 36, en: "mode of travel", vi: "Phương thức đi lại", type: "n" },
+            { id: 37, en: "worry about sth", vi: "lo lắng về cái gì", type: "v" },
+            { id: 38, en: "bad weather", vi: "thời tiết xấu", type: "n" },
+            { id: 39, en: "polluted", vi: "bị ô nhiễm", type: "adj" },
+            { id: 40, en: "right", vi: "đúng, phải", type: "adj/adv" },
+            { id: 41, en: "sounds great", vi: "nghe hay đấy", type: "phrase" },
+            { id: 42, en: "hope", vi: "hy vọng", type: "v" },
+            { id: 43, en: "soon", vi: "sớm", type: "adv" },
+            { id: 44, en: "pollute the environment", vi: "làm ô nhiễm môi trường", type: "v" },
+            { id: 45, en: "travel by teleporter", vi: "đi lại bằng dịch chuyển tức thời", type: "v" },
+            { id: 46, en: "future modes of travel", vi: "phương tiện đi lại trong tương lai", type: "n" },
+            { id: 47, en: "traffic congestion", vi: "tắc nghẽn giao thông", type: "n" },
+            { id: 48, en: "know about sth", vi: "biết về cái gì", type: "v" },
+            { id: 49, en: "difference", vi: "sự khác nhau", type: "n" },
+            { id: 50, en: "pedal", vi: "bàn đạp", type: "n" },
+            { id: 51, en: "wheel", vi: "bánh xe", type: "n" },
+            { id: 52, en: "run on sth", vi: "chạy bằng nhiên liệu gì", type: "v" },
+            { id: 53, en: "petrol", vi: "xăng dầu", type: "n" },
+            { id: 54, en: "electricity", vi: "điện", type: "n" },
+            { id: 55, en: "carry", vi: "mang, vác, khuân chở", type: "v" },
+            { id: 56, en: "up to", vi: "lên đến", type: "adv" },
+            { id: 57, en: "passenger", vi: "hành khách", type: "n" },
+            { id: 58, en: "sail", vi: "đi tàu, thuyền", type: "v/n" },
+            { id: 59, en: "wind", vi: "gió", type: "n" },
+            { id: 60, en: "need to V", vi: "cần làm gì", type: "v" },
+            { id: 61, en: "in space", vi: "trong không gian", type: "adv" },
+            { id: 62, en: "even", vi: "thậm chí", type: "adv" },
+            { id: 63, en: "run on petrol", vi: "chạy bằng xăng", type: "phrase" },
+            { id: 64, en: "bamboo", vi: "cây tre", type: "n" },
+            { id: 65, en: "skyTran", vi: "hệ thống tàu điện trên không", type: "n" },
+            { id: 66, en: "solar energy", vi: "năng lượng mặt trời", type: "n" },
+            { id: 67, en: "bamboo-copter", vi: "chong chóng tre", type: "n" },
+            { id: 68, en: "solar-powered", vi: "chạy bằng năng lượng mặt trời", type: "adj" },
+            { id: 69, en: "ride a motorbike", vi: "đi xe máy", type: "v" },
+            { id: 70, en: "simple", vi: "đơn giản", type: "adj" },
+            { id: 71, en: "put on clothes", vi: "mặc quần áo", type: "v" },
+            { id: 72, en: "fly away", vi: "bay đi", type: "v" },
+            { id: 73, en: "instead of", vi: "thay vì", type: "prep" },
+            { id: 74, en: "normal car", vi: "xe thông thường", type: "n" },
+            { id: 75, en: "fun", vi: "vui", type: "adj/n" },
+            { id: 76, en: "airplane", vi: "máy bay", type: "n" },
+            { id: 77, en: "solar-powered ship", vi: "tàu thủy chạy bằng năng lượng mặt trời", type: "n" },
+            { id: 78, en: "cause pollution", vi: "gây ô nhiễm", type: "v" },
+            { id: 79, en: "jet", vi: "máy bay phản lực", type: "n" },
+            { id: 80, en: "my", vi: "của tôi (tính từ)", type: "adj" },
+            { id: 81, en: "your", vi: "của bạn (tính từ)", type: "adj" },
+            { id: 82, en: "his", vi: "của anh ấy (tính từ)", type: "adj" },
+            { id: 83, en: "her", vi: "của cô ấy (tính từ)", type: "adj" },
+            { id: 84, en: "their", vi: "của họ (tính từ)", type: "adj" },
+            { id: 85, en: "our", vi: "của chúng tôi (tính từ)", type: "adj" },
+            { id: 86, en: "its", vi: "của nó (tính từ)", type: "adj" },
+            { id: 87, en: "driver", vi: "tài xế", type: "n" },
+            { id: 88, en: "driverless", vi: "không người lái", type: "adj" },
+            { id: 89, en: "pilot", vi: "phi công", type: "n" },
+            { id: 90, en: "pilotless", vi: "không người lái (máy bay)", type: "adj" },
+            { id: 91, en: "green", vi: "sạch, thân thiện môi trường", type: "adj" },
+            { id: 92, en: "introduce", vi: "giới thiệu", type: "v" },
+            { id: 93, en: "autopilot", vi: "máy bay lái tự động", type: "n" },
+            { id: 94, en: "automobile", vi: "xe ô tô", type: "n" },
+            { id: 95, en: "bullet train", vi: "tàu cao tốc, tàu viên đạn", type: "n" },
+            { id: 96, en: "those", vi: "những cái kia", type: "det" },
+            { id: 97, en: "cause sth", vi: "gây ra cái gì", type: "v" },
+            { id: 98, en: "rich", vi: "giàu", type: "adj" },
+            { id: 99, en: "poor", vi: "nghèo", type: "adj" },
+            { id: 100, en: "planet", vi: "hành tinh", type: "n" },
+            { id: 101, en: "be crowded with sth", vi: "đông đúc với cái gì", type: "adj" },
+            { id: 102, en: "in the past", vi: "trong quá khứ", type: "adv" },
+            { id: 103, en: "travel to other planets", vi: "đi tới hành tinh khác", type: "v" },
+            { id: 104, en: "allow sb to V", vi: "cho phép ai làm gì", type: "v" },
+            { id: 105, en: "electric car", vi: "xe điện", type: "n" },
+            { id: 106, en: "parking lot", vi: "bãi đậu xe", type: "n" },
+            { id: 107, en: "parking space", vi: "chỗ đỗ xe", type: "n" },
+            { id: 108, en: "enough", vi: "đủ", type: "adj/adv" },
+            { id: 109, en: "in 10 years", vi: "trong 10 năm", type: "adv" },
+            { id: 110, en: "possible", vi: "có thể", type: "adj" },
+            { id: 111, en: "hear", vi: "nghe", type: "v" },
+            { id: 112, en: "wait for sb", vi: "Chờ ai đó", type: "v" },
+            { id: 113, en: "learn to V", vi: "học làm gì", type: "v" },
+            { id: 114, en: "disappear", vi: "biến mất", type: "v" },
+            { id: 115, en: "another place", vi: "một nơi khác", type: "n" },
+            { id: 116, en: "second", vi: "giây", type: "n" },
+            { id: 117, en: "appear", vi: "xuất hiện", type: "v" },
+            { id: 118, en: "How wonderful!", vi: "thật tuyệt vời", type: "phrase" },
+            { id: 119, en: "any more", vi: "thêm nữa", type: "adv" },
+            { id: 120, en: "hers", vi: "cái gì của cô ấy (đại từ)", type: "pron" },
+            { id: 121, en: "his", vi: "cái gì của anh ấy (đại từ)", type: "pron" },
+            { id: 122, en: "theirs", vi: "cái gì của họ (đại từ)", type: "pron" },
+            { id: 123, en: "ours", vi: "cái gì của chúng tôi (đại từ)", type: "pron" },
+            { id: 124, en: "mine", vi: "cái gì của tôi (đại từ)", type: "pron" },
+            { id: 125, en: "yours", vi: "cái gì của bạn (đại từ)", type: "pron" },
+            { id: 126, en: "be able to V", vi: "có thể làm gì", type: "v" },
+            { id: 127, en: "certainly", vi: "chắc chắn", type: "adv" },
+            { id: 128, en: "fly across oceans", vi: "bay qua các đại dương", type: "v" },
+            { id: 129, en: "probably", vi: "có lẽ", type: "adv" },
+            { id: 130, en: "distance", vi: "khoảng cách", type: "n" },
+            { id: 131, en: "holiday", vi: "kỳ nghỉ", type: "n" },
+            { id: 132, en: "walkcar", vi: "xe điện bỏ túi", type: "n" },
+            { id: 133, en: "stand on", vi: "đứng trên", type: "v" },
+            { id: 134, en: "turn on", vi: "bật", type: "v" },
+            { id: 135, en: "turn off", vi: "tắt", type: "v" },
+            { id: 136, en: "rider", vi: "người lái", type: "n" },
+            { id: 137, en: "fall off", vi: "ngã xuống", type: "v" },
+            { id: 138, en: "dangerous", vi: "nguy hiểm", type: "adj" },
+            { id: 139, en: "wing", vi: "cánh", type: "n" },
+            { id: 140, en: "switch", vi: "công tắc", type: "n" },
+            { id: 141, en: "balance", vi: "cân bằng", type: "v/n" },
+            { id: 142, en: "solowheel", vi: "xe 1 bánh", type: "n" },
+            { id: 143, en: "company", vi: "công ty", type: "n" },
+            { id: 144, en: "electric cars", vi: "xe điện", type: "n" },
+            { id: 145, en: "model", vi: "người mẫu, mô hình", type: "n" },
+            { id: 146, en: "the first", vi: "đầu tiên", type: "ord" },
+            { id: 147, en: "in + year", vi: "vào năm...", type: "phrase" },
+            { id: 148, en: "name sth", vi: "đặt tên cho cái gì", type: "v" },
+            { id: 149, en: "speed", vi: "tốc độ", type: "n" },
+            { id: 150, en: "success", vi: "sự thành công", type: "n" },
+            { id: 151, en: "become", vi: "trở thành", type: "v" },
+            { id: 152, en: "comfortable", vi: "thoải mái", type: "adj" },
+            { id: 153, en: "seat", vi: "chỗ ngồi", type: "n" },
+            { id: 154, en: "per", vi: "mỗi", type: "prep" },
+            { id: 155, en: "hour", vi: "giờ", type: "n" },
+            { id: 156, en: "charge the battery", vi: "sạc pin", type: "v" },
+            { id: 157, en: "gaming screen", vi: "màn hình chơi game", type: "n" },
+            { id: 158, en: "inside", vi: "bên trong", type: "adv/prep" },
+            { id: 159, en: "outside", vi: "bên ngoài", type: "adv/prep" },
+            { id: 160, en: "next year", vi: "năm sau", type: "adv" },
+            { id: 161, en: "safety", vi: "sự an toàn", type: "n" },
+            { id: 162, en: "large", vi: "rộng lớn", type: "adj" },
+            { id: 163, en: "carry passengers", vi: "chở khách", type: "v" },
+            { id: 164, en: "economical", vi: "tiết kiệm", type: "adj" },
+            { id: 165, en: "economic", vi: "thuộc kinh tế", type: "adj" },
+            { id: 166, en: "function", vi: "chức năng", type: "n" },
+            { id: 167, en: "while", vi: "trong khi", type: "conj" },
+            { id: 168, en: "successful", vi: "thành công", type: "adj" },
+            { id: 169, en: "autopilot function", vi: "chức năng tự lái", type: "n" },
+            { id: 170, en: "uncomfortable", vi: "không thoải mái", type: "adj" },
+            { id: 171, en: "run on electricity", vi: "chạy bằng điện", type: "phrase" },
+            { id: 172, en: "avoid Ving", vi: "tránh làm gì", type: "v" },
+            { id: 173, en: "less", vi: "ít hơn", type: "det/adv" },
+            { id: 174, en: "convenient", vi: "tiện lợi", type: "adj" },
+            { id: 175, en: "inconvenient", vi: "bất tiện, phiền phức", type: "adj" },
+            { id: 176, en: "cause noise", vi: "gây ồn ào", type: "v" },
+            { id: 177, en: "benefit", vi: "lợi ích", type: "n" },
+            { id: 178, en: "advantage = benefit", vi: "lợi ích", type: "n" },
+            { id: 179, en: "together", vi: "cùng nhau", type: "adv" },
+            { id: 180, en: "put on sth", vi: "mặc, đeo, đội cái gì", type: "v" },
+            { id: 181, en: "take off sth", vi: "cởi ra", type: "v" },
+            { id: 182, en: "spaceship", vi: "tàu vũ trụ", type: "n" },
+            { id: 183, en: "science", vi: "khoa học", type: "n" },
+            { id: 184, en: "scientist", vi: "nhà khoa học", type: "n" },
+            { id: 185, en: "special", vi: "đặc biệt", type: "adj" },
+            { id: 186, en: "dream", vi: "giấc mơ", type: "n" },
+            { id: 187, en: "come true", vi: "trở thành hiện thực", type: "v" },
+            { id: 188, en: "Let's V", vi: "chúng ta hãy cùng", type: "phrase" },
+            { id: 189, en: "What/How about Ving?", vi: "Thế còn làm cái này thì sao?", type: "ques" },
+            { id: 190, en: "Why don't we V?", vi: "Tại sao chúng ta không?", type: "ques" },
+            { id: 191, en: "Shall we V?", vi: "chúng ta cùng ...", type: "ques" },
+            { id: 192, en: "bamboo", vi: "cây tre", type: "n" }
+        ];
+
+        // --- APP LOGIC ---
+        let currentTab = 'vocab';
+        let currentIndex = 0;
+        let isFlipped = false;
+        let activeList = [];
+        let isShuffled = false;
+        let currentMode = 'fill';
+        let currentPage = 1;
+        const itemsPerPage = 20;
+        let fullExercises = {};
+        let structIdx = 0;
+        let recognition;
+        let isRecording = false;
+
+        window.onload = function () {
+            document.getElementById('header-count').innerText = vocabData.length;
+            activeList = [...vocabData];
+            renderVocabLines();
+            updateFlashcard();
+            renderStructureCard();
+            fullExercises = generateExerciseData();
+            switchPracticeMode('fill');
+        };
+
+        function generateExerciseData() {
+            const exercises = { fill: [], wf: [], gram: [], type1: [], type2: [] };
+            vocabData.forEach((word, index) => {
+                const en = word.en.trim();
+                const vi = word.vi.trim();
+                const type = word.type ? word.type.trim().toLowerCase() : '';
+
+                // Spelling
+                let masked = en.split('').map(c => (c === ' ' || c === '/' || Math.random() > 0.6) ? c : '_').join('');
+                if (!masked.includes('_')) masked = en.replace(/./, '_');
+                exercises.fill.push({ id: index, word: en, question: `Neural Input required: <span class="font-mono font-bold text-cyan-400 text-lg tracking-widest bg-slate-900 px-2 py-1 rounded border border-cyan-800/30">${masked}</span> <br><span class="text-[10px] text-cyan-600 italic uppercase">Signal: ${vi}</span>`, answer: en });
+
+                // WF
+                let wfQ = type.includes('n') ? `This _______ will change our lives.` : type.includes('v') ? `We will _______ to other planets.` : `It is very _______ .`;
+                exercises.wf.push({ id: index, root: en, question: `<div>${wfQ}</div><div class="text-[10px] text-cyan-700 mt-1 uppercase">Root: ${vi} (${type})</div>`, answer: en });
+
+                // Grammar - Focus on will/pronouns
+                if (en.toLowerCase() === 'mine' || en.toLowerCase() === 'yours' || en.toLowerCase() === 'theirs') {
+                    exercises.gram.push({ id: index, word: en, question: `Replace: This is my car. -> This car is _______ .`, answer: en });
+                } else if (en.includes('future')) {
+                    exercises.gram.push({ id: index, word: en, question: `Next year, we _______ (travel) by car.`, answer: 'will travel' });
+                } else {
+                    exercises.gram.push({ id: index, word: en, question: `Data Validation: <span class="font-bold text-cyan-400">${en}</span>`, answer: en });
+                }
+
+                // Type 1 (Multiple Choice)
+                if (en.includes(' ')) {
+                    exercises.type1.push({ id: index, type: 'order', question: `Reorganize trajectory (Nghĩa: ${vi}):`, words: en.split(' ').sort(() => Math.random() - 0.5), answer: en });
+                } else {
+                    const typeMap = { 'n': 'Noun', 'v': 'Verb', 'adj': 'Adjective', 'adv': 'Adverb' };
+                    const correctType = typeMap[type] || 'Other';
+                    const opts = [...new Set(Object.values(typeMap))].sort(() => 0.5 - Math.random());
+                    exercises.type1.push({ id: index, type: 'choice', question: `"<span class="font-bold text-slate-100">${en}</span>" classification:`, options: opts, answer: correctType });
+                }
+
+                // Type 2 (Translation)
+                exercises.type2.push({ id: index, type: 'write', question: `Decode signal: "<span class="font-bold text-cyan-400 font-mono">${vi}</span>"`, answer: en });
+            });
+            return exercises;
+        }
+
+        function switchTab(tab) {
+            currentTab = tab;
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('tab-active', 'bg-slate-900'));
+            document.getElementById(`tab-${tab}`).classList.add('tab-active', 'bg-slate-900');
+            document.querySelectorAll('main > div').forEach(div => div.classList.add('hidden-section'));
+            document.getElementById(`section-${tab}`).classList.remove('hidden-section');
+        }
+
+        function renderVocabLines(filter = "") {
+            const grid = document.getElementById('vocab-grid'); grid.innerHTML = "";
+            const filtered = vocabData.filter(item => item.en.toLowerCase().includes(filter.toLowerCase()) || item.vi.toLowerCase().includes(filter.toLowerCase()));
+            document.getElementById('vocab-count').innerText = filtered.length;
+            filtered.forEach(item => {
+                const el = document.createElement('div');
+                el.className = "dark-card p-4 rounded-xl shadow-sm hover:shadow-md transition group flex justify-between items-center";
+                el.innerHTML = `<div><div class="flex items-center gap-2 mb-1"><span class="text-[10px] font-mono text-cyan-800">U11-x${item.id.toString().padStart(3, '0')}</span><span class="text-[9px] bg-cyan-950 text-cyan-500 px-1 rounded uppercase font-bold border border-cyan-900/50">${item.type}</span></div><h3 class="text-lg font-bold text-white group-hover:text-cyan-400 transition tracking-tight">${item.en}</h3><p class="text-slate-500 text-xs">${item.vi}</p></div><button onclick="speak('${escapeQuote(item.en)}')" class="text-slate-700 hover:text-cyan-300 transition"><i class="fas fa-volume-up text-lg"></i></button>`;
+                grid.appendChild(el);
+            });
+        }
+        function filterVocab() { renderVocabLines(document.getElementById('searchInput').value); }
+
+        function updateFlashcard() {
+            const item = activeList[currentIndex];
+            isFlipped = false; document.getElementById('flashcard-inner').classList.remove('flipped');
+            document.getElementById('fc-index').innerText = `Core: ${currentIndex + 1} / ${activeList.length}`;
+            document.getElementById('fc-front-text').innerText = item.en;
+            document.getElementById('fc-back-text').innerText = item.vi;
+            document.getElementById('fc-back-type').innerText = item.type;
+            document.getElementById('fc-back-sent').innerText = `Simulation: We will use a ${item.en} in the year 2050.`;
+            if (document.getElementById('auto-speak').checked) speak(item.en);
+        }
+        function flipCard() { isFlipped = !isFlipped; document.getElementById('flashcard-inner').classList.toggle('flipped', isFlipped); }
+        function changeCard(dir) { currentIndex += dir; if (currentIndex < 0) currentIndex = activeList.length - 1; if (currentIndex >= activeList.length) currentIndex = 0; updateFlashcard(); }
+        function toggleShuffle() { isShuffled = !isShuffled; activeList = isShuffled ? [...vocabData].sort(() => Math.random() - 0.5) : [...vocabData]; currentIndex = 0; updateFlashcard(); }
+        function speakCurrentCard() { speak(activeList[currentIndex].en); }
+
+        function renderStructureCard() {
+            const word = vocabData[structIdx];
+            const container = document.getElementById('structure-card-container');
+            container.innerHTML = `<div class="dark-card rounded-xl shadow-lg p-6 max-w-2xl mx-auto border-cyan-500/20"><div class="text-center mb-6"><h2 class="text-3xl font-extrabold text-white mb-1 tracking-tighter">${word.en}</h2><p class="text-cyan-600 text-xs">(${word.vi})</p></div><div class="border-t border-slate-800 pt-6 text-center"><p class="text-[10px] text-cyan-800 mb-3 uppercase tracking-widest">Vocal Projection:</p><p class="text-xl font-bold text-cyan-400 mb-6 italic">"Will people use ${word.en} in the future?"</p><button id="record-btn" onclick="toggleRecording()" class="w-16 h-16 rounded-full bg-cyan-950 hover:bg-cyan-900 text-cyan-400 shadow-lg flex items-center justify-center mx-auto transition transform active:scale-95 border border-cyan-500/30"><i class="fas fa-satellite-dish text-2xl"></i></button><p id="transcript-result" class="text-[10px] text-cyan-900 mt-3 h-6 uppercase font-mono tracking-widest">Awaiting signal...</p></div></div>`;
+        }
+        function nextStructureCard() { structIdx = (structIdx + 1) % vocabData.length; renderStructureCard(); }
+        function prevStructureCard() { structIdx = (structIdx - 1 + vocabData.length) % vocabData.length; renderStructureCard(); }
+        function toggleRecording() {
+            if (!('webkitSpeechRecognition' in window)) { showToast("Signal mismatch"); return; }
+            if (isRecording) { recognition.stop(); return; }
+            const btn = document.getElementById('record-btn'); recognition = new webkitSpeechRecognition(); recognition.lang = 'en-US';
+            recognition.onstart = () => { isRecording = true; btn.classList.add('pulse-ring'); document.getElementById('transcript-result').innerText = "LISTENING..."; };
+            recognition.onresult = (e) => { const x = e.results[0][0].transcript; document.getElementById('transcript-result').innerText = `RECEIVING: "${x}"`; if (x.toLowerCase().includes(vocabData[structIdx].en.toLowerCase())) showToast("⚡ SIGNAL ACQUIRED!"); };
+            recognition.onend = () => { isRecording = false; btn.classList.remove('pulse-ring'); };
+            recognition.start();
+        }
+
+        function switchPracticeMode(mode) { currentMode = mode; currentPage = 1; renderPagination(); renderPracticePage(); }
+        function renderPagination() {
+            const total = fullExercises[currentMode].length; const pages = Math.ceil(total / itemsPerPage);
+            const container = document.getElementById('pagination-controls'); container.innerHTML = '';
+            for (let i = 1; i <= pages; i++) { if (i > 3 && i < pages - 1) { if (i === 4) container.innerHTML += '...'; continue; } const btn = document.createElement('button'); btn.className = `px-3 py-1 rounded text-[10px] font-mono transition ${i === currentPage ? 'bg-cyan-600 text-white border-cyan-600' : 'bg-slate-900 text-cyan-700 hover:bg-slate-800 border-slate-800'}`; btn.innerText = i; btn.onclick = () => { currentPage = i; renderPagination(); renderPracticePage(); }; container.appendChild(btn); }
+            document.getElementById('practice-stats').innerText = `Sector ${currentPage}/${pages}`;
+        }
+        function renderPracticePage() {
+            const container = document.getElementById('practice-container'); container.innerHTML = '';
+            const start = (currentPage - 1) * itemsPerPage; const end = start + itemsPerPage;
+            const data = fullExercises[currentMode].slice(start, end);
+            const list = document.createElement('div'); list.className = "dark-card rounded-xl shadow-sm border border-cyan-950";
+            data.forEach((item, i) => {
+                const row = document.createElement('div'); row.className = "p-4 border-b border-slate-900 flex flex-col gap-2";
+                row.innerHTML = `<div class="text-[9px] uppercase font-mono text-cyan-900 text-right">0x${(start + i + 1).toString(16).toUpperCase()}</div><div class="mb-2 font-medium text-slate-200 text-sm">${item.question}</div>`;
+                if (item.type === 'order') {
+                    row.innerHTML += `<div id="ans-q-${start + i}" class="min-h-[40px] bg-slate-950 border border-dashed border-cyan-900/30 rounded p-2 flex flex-wrap gap-2 mb-2" data-ans="${item.answer}"></div><div id="bank-q-${start + i}" class="flex flex-wrap gap-2">${item.words.map(w => `<span onclick="moveWord(this, 'ans-q-${start + i}', 'bank-q-${start + i}')" class="word-bank-item bg-slate-900 px-2 py-1 rounded border border-slate-800 text-[10px] text-cyan-500 shadow-sm">${w}</span>`).join('')}</div>`;
+                } else if (item.options) {
+                    row.innerHTML += `<div class="grid grid-cols-1 md:grid-cols-2 gap-2" data-ans="${item.answer}">${item.options.map(o => `<button onclick="selectChoice(this)" class="p-2 border border-slate-800 rounded-lg text-left hover:bg-slate-900 text-[11px] transition text-teal-700">${o}</button>`).join('')}</div>`;
+                } else {
+                    row.innerHTML += `<input type="text" data-ans="${item.answer}" class="prac-input w-full p-2 bg-slate-950 border border-slate-800 rounded focus:border-cyan-600 outline-none text-xs text-cyan-100 font-mono" placeholder="Input string...">`;
+                }
+                row.innerHTML += `<div class="prac-feedback mt-1 font-mono text-[10px]"></div>`;
+                list.appendChild(row);
+            });
+            container.appendChild(list);
+        }
+
+        window.moveWord = function (el, tId, oId) { const t = document.getElementById(tId); const o = document.getElementById(oId); if (el.parentElement.id === oId) t.appendChild(el); else o.appendChild(el); }
+        window.selectChoice = function (btn) { const p = btn.parentElement; p.querySelectorAll('button').forEach(b => b.classList.remove('choice-selected')); btn.classList.add('choice-selected'); p.setAttribute('data-user-choice', btn.innerText); }
+
+        function checkCurrentPage() {
+            let cor = 0; let total = 0;
+            document.querySelectorAll('#practice-container .prac-input').forEach(inp => {
+                total++; const u = inp.value.trim().toLowerCase(); const a = inp.getAttribute('data-ans').toLowerCase(); const fb = inp.nextElementSibling;
+                if (u === a) { cor++; inp.classList.add('correct-answer'); fb.innerHTML = "<span class='text-cyan-400'>[VALIDATED]</span>"; } else { inp.classList.add('wrong-answer'); fb.innerHTML = `<span class='text-red-600'>[ERROR: ${a}]</span>`; }
+            });
+            document.querySelectorAll('#practice-container div[data-ans]').forEach(c => {
+                if (!c.getAttribute('data-ans')) return;
+                total++; const u = c.getAttribute('data-user-choice'); const a = c.getAttribute('data-ans'); const fb = c.nextElementSibling;
+                if (!u) return;
+                if (u === a) { cor++; fb.innerHTML = "<span class='text-cyan-400'>[VALIDATED]</span>"; } else { fb.innerHTML = `<span class='text-red-600'>[ERROR: ${a}]</span>`; }
+            });
+            document.querySelectorAll('div[id^="ans-q-"]').forEach(z => {
+                total++; const u = Array.from(z.children).map(s => s.innerText).join(' ').trim().toLowerCase(); const a = z.getAttribute('data-ans').toLowerCase(); const fb = z.nextElementSibling.nextElementSibling;
+                if (u === a) { cor++; fb.innerHTML = "<span class='text-cyan-400'>[VALIDATED]</span>"; } else { fb.innerHTML = `<span class='text-red-600'>[ERROR: ${a}]</span>`; }
+            });
+            showToast(`EFFICIENCY: ${Math.round((cor / total) * 100)}%`);
+        }
+
+        function speak(t) { window.speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(t); u.lang = 'en-US'; window.speechSynthesis.speak(u); }
+        function escapeQuote(s) { return s.replace(/'/g, "\\'"); }
+        function showToast(m) { const t = document.getElementById('toast'); t.textContent = m; t.className = "show"; setTimeout(() => t.className = "", 3000); }
+        function resetApp() { location.reload(); }
+        function toggleInfo() { alert("Unit 11: Future Travel Data Stream - 192 Items."); }
+        function toggleNote() { document.getElementById('note-sidebar').classList.toggle('translate-x-full'); }
+        function exportToWord() { const t = document.getElementById('note-area').value; const b = new Blob(['\ufeff' + t], { type: 'application/msword' }); const a = document.createElement('a'); a.href = URL.createObjectURL(b); a.download = 'FutureTravelLogs.doc'; a.click(); }
+    </script>
+</body>
+
+</html>

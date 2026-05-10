@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_3_idiom",
+  "vocab": [
+    {
+      "word": "a law unto itself",
+      "ipa": "/ə lɔː ˈʌntuː wʌnˈself/",
+      "meaning": "độc nhất vô nhị, không tuân theo quy tắc thông thường",
+      "example": "The latest redesign of that art portal is a law unto itself; it completely disregards traditional grid layouts for something much more avant-garde.",
+      "type": "idiom"
+    },
+    {
+      "word": "separate the sheep from the goats",
+      "ipa": "/ˈsepəreɪt ðə ʃiːp frəm ðə ɡəʊts/",
+      "meaning": "phân biệt nhóm chất lượng cao và nhóm tầm thường",
+      "example": "The introduction of verified badges and rigorous content filters has really helped to separate the sheep from the goats on that forum.",
+      "type": "idiom"
+    },
+    {
+      "word": "the jewel in the crown",
+      "ipa": "/ðə ˈdʒuːəl ɪn ðə kraʊn/",
+      "meaning": "phần giá trị nhất, tuyệt vời nhất",
+      "example": "While the entire site was updated, the new interactive 3D archive is definitely the jewel in the crown of their recent overhaul.",
+      "type": "idiom"
+    },
+    {
+      "word": "know which way the wind blows",
+      "ipa": "/nəʊ wɪtʃ weɪ ðə wɪnd bləʊz/",
+      "meaning": "nắm bắt được xu hướng, tình hình thực tế",
+      "example": "By integrating AI search features early on, the developers proved they know which way the wind blows in the tech industry.",
+      "type": "idiom"
+    },
+    {
+      "word": "at the sharp end",
+      "ipa": "/ət ðə ʃɑːrp end/",
+      "meaning": "ở vị trí quan trọng/khó khăn nhất của một hoạt động",
+      "example": "This coding website stays at the sharp end of software development by updating its tutorials every time a new framework version is released.",
+      "type": "idiom"
+    },
+    {
+      "word": "the lion's share",
+      "ipa": "/ðə ˈlaɪənz ʃeər/",
+      "meaning": "phần lớn nhất, trọng tâm",
+      "example": "Video content now takes up the lion's share of the homepage, whereas it used to be mostly text-based articles.",
+      "type": "idiom"
+    },
+    {
+      "word": "pull out all the stops",
+      "ipa": "/pʊl aʊt ɔːl ðə stɒps/",
+      "meaning": "nỗ lực hết sức để đạt kết quả tốt nhất",
+      "example": "The team pulled out all the stops for the anniversary update, introducing a completely seamless mobile experience.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep a weather eye on",
+      "ipa": "/kiːp ə ˈweðər aɪ ɒn/",
+      "meaning": "theo dõi rất kỹ để phát hiện thay đổi hoặc vấn đề",
+      "example": "I keep a weather eye on the security updates of my banking site, as they are constantly patching new vulnerabilities.",
+      "type": "idiom"
+    },
+    {
+      "word": "all the rage",
+      "ipa": "/ɔːl ðə reɪdʒ/",
+      "meaning": "rất thịnh hành, là mốt",
+      "example": "Dark mode and minimalist interfaces are all the rage now, and almost every site I visit has adopted this aesthetic recently.",
+      "type": "idiom"
+    },
+    {
+      "word": "cut the mustard",
+      "ipa": "/kʌt ðə ˈmʌstərd/",
+      "meaning": "đạt được kỳ vọng, đủ tốt để thành công",
+      "example": "The old site was clunky, but the new, streamlined version definitely cuts the mustard when it comes to user speed and efficiency.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

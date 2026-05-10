@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_1_v1",
+  "vocab": [
+    {
+      "word": "resale value",
+      "ipa": "/ˈriːseɪl ˈvæljuː/",
+      "meaning": "giá trị bán lại",
+      "example": "Many people opt for neutral shades like silver or white because they tend to maintain a higher resale value in the long run.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "a reflection of one's persona",
+      "ipa": "/ə rɪˈflekʃn əv wʌnz pəˈsəʊnə/",
+      "meaning": "sự phản ánh cá tính của một người",
+      "example": "For some drivers, choosing a bold, vibrant color is a reflection of their outgoing and adventurous persona.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "aesthetic appeal",
+      "ipa": "/esˈθetɪk əˈpiːl/",
+      "meaning": "sự hấp dẫn về mặt thẩm mỹ",
+      "example": "While functionality is key, the aesthetic appeal of a sleek matte finish can be the deciding factor for luxury car enthusiasts.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "conspicuous on the road",
+      "ipa": "/kənˈspɪkjuəs ɒn ðə rəʊd/",
+      "meaning": "dễ thấy/nổi bật trên đường (giúp an toàn hơn)",
+      "example": "Brightly colored vehicles are much more conspicuous on the road, which can significantly reduce the risk of accidents in low-visibility conditions.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "show dirt and grime",
+      "ipa": "/ʃəʊ dɜːt ənd ɡraɪm/",
+      "meaning": "lộ vết bẩn và bụi bặm",
+      "example": "I personally avoid black cars because they tend to show dirt and grime much more easily than lighter metallic tones.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

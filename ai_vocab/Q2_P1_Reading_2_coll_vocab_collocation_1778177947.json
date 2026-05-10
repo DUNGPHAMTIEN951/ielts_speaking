@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Reading_2_coll",
+  "vocab": [
+    {
+      "word": "tangible experience",
+      "ipa": "/ˈtændʒəbl ɪkˈspɪəriəns/",
+      "meaning": "trải nghiệm hữu hình (có thể cầm nắm được)",
+      "example": "There is a tangible experience involved in holding a physical book that digital devices simply cannot replicate.",
+      "type": "collocation"
+    },
+    {
+      "word": "adjustable brightness",
+      "ipa": "/əˈdʒʌstəbl ˈbraɪtnəs/",
+      "meaning": "độ sáng có thể điều chỉnh được",
+      "example": "One major perk of reading on a screen is the adjustable brightness, which allows me to read in the dark without a lamp.",
+      "type": "collocation"
+    },
+    {
+      "word": "flick through",
+      "ipa": "/flɪk θruː/",
+      "meaning": "lật nhanh/đọc lướt qua các trang",
+      "example": "I love to flick through the pages of a magazine to find interesting articles before committing to a deep read.",
+      "type": "collocation"
+    },
+    {
+      "word": "instantaneous access",
+      "ipa": "/ˌɪnstənˈteɪniəs ˈækses/",
+      "meaning": "sự truy cập tức thì",
+      "example": "Digital platforms provide instantaneous access to thousands of titles at the click of a button.",
+      "type": "collocation"
+    },
+    {
+      "word": "eye-friendly technology",
+      "ipa": "/aɪ ˈfrendli tekˈnɒlədʒi/",
+      "meaning": "công nghệ thân thiện/không gây hại cho mắt",
+      "example": "Many modern e-readers utilize eye-friendly technology like E-ink to mimic the appearance of real paper.",
+      "type": "collocation"
+    },
+    {
+      "word": "spatial memory",
+      "ipa": "/ˈspeɪʃl ˈmeməri/",
+      "meaning": "trí nhớ không gian (ghi nhớ vị trí thông tin trên trang giấy)",
+      "example": "Reading on paper enhances my spatial memory, making it easier to recall exactly where a specific quote was located.",
+      "type": "collocation"
+    },
+    {
+      "word": "storage capacity",
+      "ipa": "/ˈstɔːrɪdʒ kəˈpæsəti/",
+      "meaning": "dung lượng lưu trữ",
+      "example": "The massive storage capacity of a tablet means I can take my entire library with me on long-haul flights.",
+      "type": "collocation"
+    },
+    {
+      "word": "environmental footprint",
+      "ipa": "/ɪnˌvaɪrənˈmentl ˈfʊtprɪnt/",
+      "meaning": "dấu chân/tác động môi trường",
+      "example": "I’ve shifted to digital reading to reduce my environmental footprint by saving on paper and physical shipping.",
+      "type": "collocation"
+    },
+    {
+      "word": "distraction-free environment",
+      "ipa": "/dɪˈstrækʃn friː ɪnˈvaɪrənmənt/",
+      "meaning": "môi trường không bị xao nhãng",
+      "example": "Paper books offer a distraction-free environment, as there are no pesky notifications to interrupt my flow.",
+      "type": "collocation"
+    },
+    {
+      "word": "font customization",
+      "ipa": "/fɒnt ˌkʌstəmaɪˈzeɪʃn/",
+      "meaning": "sự tùy chỉnh phông chữ",
+      "example": "Font customization is a godsend for people with visual impairments, as they can enlarge the text on a screen easily.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

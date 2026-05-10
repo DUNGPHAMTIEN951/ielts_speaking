@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cấu Trúc Câu & Từ Vựng Cơ Bản (180 Câu Hỏi)</title>
+    
+    <!-- React & ReactDOM -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    
+    <!-- Babel -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Phosphor Icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f0fdf4; margin: 0; padding: 0; overflow: hidden; }
+        .fade-in { animation: fadeIn 0.3s ease-out; }
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+        
+        .grammar-tag { display: inline-block; padding: 2px 8px; border-radius: 6px; font-size: 0.9em; font-weight: bold; margin-right: 4px; }
+        .tag-s { background-color: #dbeafe; color: #1e40af; border: 1px solid #93c5fd; }
+        .tag-v { background-color: #dcfce7; color: #166534; border: 1px solid #86efac; }
+        .tag-n { background-color: #fce7f3; color: #9d174d; border: 1px solid #f9a8d4; }
+        .tag-adj { background-color: #fef3c7; color: #92400e; border: 1px solid #fcd34d; }
+        .tag-adv { background-color: #f3e8ff; color: #6b21a8; border: 1px solid #d8b4fe; }
+        .tag-prep { background-color: #e5e7eb; color: #374151; border: 1px solid #9ca3af; }
+
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-thumb { background-color: #cbd5e1; border-radius: 3px; }
+        ::-webkit-scrollbar-track { background-color: transparent; }
+    </style>
+</head>
+<body>
+
+    <div id="root"></div>
+
+    <script type="text/babel">
+        const { useState, useEffect, useRef } = React;
+
+        // --- 1. DATA: TỪ VỰNG ---
+        const vocabList = [
+            { w: "Hobby", t: "n", m: "Sở thích", ex: "My hobby is dancing." },
+            { w: "Benefit", t: "n", m: "Lợi ích", ex: "Sport has benefits." },
+            { w: "Nice/Kind", t: "adj", m: "Tốt bụng", ex: "She is nice/kind." },
+            { w: "Show", t: "v", m: "Cho thấy", ex: "I show friend homeworks." },
+            { w: "Amazing", t: "adj", m: "Tuyệt vời", ex: "Teacher is amazing." },
+            { w: "Really", t: "adv", m: "Thật sự", ex: "I really love this picture." },
+            { w: "Actually", t: "adv", m: "Thực ra", ex: "It is actually true." },
+            { w: "Build", t: "v", m: "Xây dựng", ex: "I build a dollhouse." },
+            { w: "Hard", t: "adj/adv", m: "Khó / Chăm chỉ", ex: "I do homework hard." },
+            { w: "Need", t: "v", m: "Cần", ex: "I need to drink water." },
+            { w: "Creativity", t: "n", m: "Sự sáng tạo", ex: "She has creativity." },
+            { w: "Creative", t: "adj", m: "Sáng tạo", ex: "She is creative." },
+            { w: "Regularly", t: "adv", m: "Thường xuyên", ex: "I play sport regularly." },
+            { w: "Free time", t: "n", m: "Thời gian rảnh", ex: "I read books in my free time." },
+            { w: "Unusual", t: "adj", m: "Không thường xuyên/Lạ", ex: "Sport is unusual." },
+            { w: "Friendly", t: "adj", m: "Thân thiện", ex: "People are friendly." },
+            { w: "Common", t: "adj", m: "Phổ biến", ex: "Tet is common in Vietnam." },
+            { w: "Collect", t: "v", m: "Thu thập", ex: "I collect coins." },
+            { w: "Collection", t: "n", m: "Bộ sưu tập", ex: "I have coin collection." },
+            { w: "Gardening", t: "n", m: "Làm vườn", ex: "I do gardening." },
+            { w: "Jogging", t: "n", m: "Chạy bộ", ex: "I go jogging." },
+            { w: "Keep fit", t: "v", m: "Giữ dáng", ex: "I want to keep fit." },
+            { w: "Wake up", t: "v", m: "Thức dậy", ex: "I wake up early." },
+            { w: "Spend", t: "v", m: "Tiêu, dành", ex: "I spend time doing exercise." },
+            { w: "Different", t: "adj", m: "Khác biệt", ex: "That T-shirt is different." },
+            { w: "Well", t: "adv", m: "Tốt (trạng từ)", ex: "I do homework well." },
+            { w: "Fast", t: "adj/adv", m: "Nhanh", ex: "I run fast." },
+            { w: "Interesting", t: "adj", m: "Thú vị", ex: "The movie is interesting." },
+            { w: "Leave", t: "v", m: "Rời khỏi", ex: "I leave my house at 8.0 am." },
+            { w: "Music", t: "n", m: "Âm nhạc", ex: "Music is relaxing." },
+            { w: "Book", t: "n", m: "Quyển sách", ex: "I read a book." },
+            { w: "Piano", t: "n", m: "Đàn Piano", ex: "It is a piano." },
+            { w: "Cook", t: "v", m: "Nấu ăn", ex: "I cook dinner." },
+            { w: "Listen", t: "v", m: "Nghe", ex: "Listen to music." },
+            { w: "Relaxing", t: "adj", m: "Thư giãn", ex: "Music is relaxing." },
+            { w: "Your", t: "adj", m: "Của bạn", ex: "It is your pen." }
+        ];
+
+        // --- 2. DATA: BÀI TẬP ---
+        const practiceQuestions = [
+            // Q1: S + V + N
+            { id: 1, type: "choice", question: "Câu nào đúng cấu trúc S + V + N?", options: ["She is nice.", "She does homework.", "She is a teacher.", "She runs fast."], correct: "She does homework.", explain: "She (S) + does (V) + homework (N)." },
+            { id: 2, type: "choice", question: "Câu nào đúng cấu trúc S + V + N?", options: ["He plays football.", "He is tall.", "He is a student.", "He runs quickly."], correct: "He plays football.", explain: "He (S) + plays (V) + football (N)." },
+            { id: 3, type: "choice", question: "Câu nào đúng cấu trúc S + V + N?", options: ["We eat pizza.", "We are happy.", "We are friends.", "We swim well."], correct: "We eat pizza.", explain: "We (S) + eat (V) + pizza (N)." },
+
+            // Q2: S + tobe + Adj
+            { id: 4, type: "choice", question: "Điền từ: \"My mother is very _______.\"", options: ["beauty", "beautifully", "beautiful", "beautify"], correct: "beautiful", explain: "Sau 'tobe' cần tính từ (adj)." },
+            { id: 5, type: "choice", question: "Điền từ: \"This film is very _______.\"", options: ["interest", "interesting", "interestingly", "interestedly"], correct: "interesting", explain: "Tính từ 'interesting' miêu tả vật." },
+            { id: 6, type: "choice", question: "Điền từ: \"He looks _______.\"", options: ["happy", "happily", "happiness", "happen"], correct: "happy", explain: "Sau 'look' (linking verb) dùng tính từ." },
+
+            // Q3: V1 + to + V2
+            { id: 7, type: "choice", question: "Quy tắc 2 động từ: \"I want _______ English.\"", options: ["study", "studying", "to study", "studies"], correct: "to study", explain: "Want + to V." },
+            { id: 8, type: "choice", question: "Chọn đáp án đúng: \"She needs _______ water.\"", options: ["drink", "drinking", "to drink", "drank"], correct: "to drink", explain: "Need + to V." },
+            { id: 9, type: "choice", question: "Chọn đáp án đúng: \"We decide _______ a car.\"", options: ["buy", "buying", "to buy", "bought"], correct: "to buy", explain: "Decide + to V." },
+
+            // Q4: Adv formation
+            { id: 10, type: "choice", question: "Trạng từ của 'beautiful' là?", options: ["beautiful", "beauty", "beautifully", "beautifuly"], correct: "beautifully", explain: "Adv = Adj + ly." },
+            { id: 11, type: "choice", question: "Trạng từ của 'quick' là?", options: ["quick", "quicks", "quickly", "quicker"], correct: "quickly", explain: "Adv = Adj + ly." },
+            { id: 12, type: "choice", question: "Trạng từ của 'slow' là?", options: ["slowly", "slow", "slowness", "slower"], correct: "slowly", explain: "Adv = Adj + ly." },
+
+            // Q5: Adv position
+            { id: 13, type: "choice", question: "Vị trí của trạng từ tần suất (usually)?", options: ["Sau động từ thường", "Trước động từ thường", "Cuối câu", "Đầu câu"], correct: "Trước động từ thường", explain: "VD: I usually go." },
+            { id: 14, type: "choice", question: "Vị trí của 'always' trong câu \"I go to school\"?", options: ["I always go...", "I go always...", "I go to always...", "Always I go..."], correct: "I always go...", explain: "Trước động từ thường 'go'." },
+            { id: 15, type: "choice", question: "Vị trí của 'often' trong câu \"She eats lunch\"?", options: ["She often eats...", "She eats often...", "She eats often lunch", "Often she eats..."], correct: "She often eats...", explain: "Trước động từ thường 'eats'." },
+
+            // Q6: Go + V-ing
+            { id: 16, type: "choice", question: "Chọn câu đúng với 'Go':", options: ["I go to jog.", "I go jogging.", "I go jog.", "I go for jog."], correct: "I go jogging.", explain: "Go + V-ing." },
+            { id: 17, type: "choice", question: "Chọn câu đúng với 'Go':", options: ["She goes shopping.", "She goes to shop.", "She goes shop.", "She go shopping."], correct: "She goes shopping.", explain: "Go + V-ing." },
+            { id: 18, type: "choice", question: "Chọn câu đúng với 'Go':", options: ["We go fishing.", "We go to fish.", "We go fish.", "We goes fishing."], correct: "We go fishing.", explain: "Go + V-ing." },
+
+            // Q7: Prep + For
+            { id: 19, type: "choice", question: "Chọn giới từ: \"Sport is good _______ health.\"", options: ["with", "at", "for", "on"], correct: "for", explain: "Good for = Tốt cho." },
+            { id: 20, type: "choice", question: "Chọn giới từ: \"Vegetables are good _______ you.\"", options: ["for", "at", "on", "with"], correct: "for", explain: "Good for = Tốt cho." },
+            { id: 21, type: "choice", question: "Chọn giới từ: \"This gift is _______ my mom.\"", options: ["for", "to", "at", "on"], correct: "for", explain: "For = Cho (dành cho)." },
+
+            // Q8: Prep + V-ing
+            { id: 22, type: "choice", question: "Sau giới từ (in, on, at, for...), động từ chia thế nào?", options: ["V-ing", "To V", "V nguyên thể", "V-ed"], correct: "V-ing", explain: "Prep + V-ing." },
+            { id: 23, type: "choice", question: "Chọn đáp án đúng: \"Thanks for _______.\"", options: ["help", "helping", "to help", "helped"], correct: "helping", explain: "For + V-ing." },
+            { id: 24, type: "choice", question: "Chọn đáp án đúng: \"He left without _______ goodbye.\"", options: ["say", "saying", "to say", "said"], correct: "saying", explain: "Without + V-ing." },
+
+            // Q9: V-ing as Subject
+            { id: 25, type: "choice", question: "\"Dancing is my hobby.\" Từ 'Dancing' là gì?", options: ["Động từ", "Chủ ngữ (N)", "Tính từ", "Trạng từ"], correct: "Chủ ngữ (N)", explain: "V-ing làm danh từ/chủ ngữ." },
+            { id: 26, type: "choice", question: "\"Swimming is fun.\" Từ 'Swimming' đóng vai trò gì?", options: ["Chủ ngữ", "Động từ", "Tân ngữ", "Tính từ"], correct: "Chủ ngữ", explain: "V-ing đứng đầu câu làm chủ ngữ." },
+            { id: 27, type: "choice", question: "\"Reading helps me learn.\" Từ 'Reading' là gì?", options: ["Chủ ngữ (N)", "Động từ", "Tính từ", "Giới từ"], correct: "Chủ ngữ (N)", explain: "V-ing làm chủ ngữ." },
+
+            // Q10: Order S+tobe+adv+adj
+            { id: 28, type: "order", question: "Sắp xếp: \"thân thiện / Mọi người / rất / là\"", words: ["friendly", "People", "really", "are"], correct: ["People", "are", "really", "friendly"], explain: "S + tobe + adv + adj." },
+            { id: 29, type: "order", question: "Sắp xếp: \"khó / Bài tập / rất / là\"", words: ["hard", "Homework", "really", "is"], correct: ["Homework", "is", "really", "hard"], explain: "S + tobe + adv + adj." },
+            { id: 30, type: "order", question: "Sắp xếp: \"tuyệt vời / Cô ấy / thực sự / là\"", words: ["amazing", "She", "really", "is"], correct: ["She", "is", "really", "amazing"], explain: "S + tobe + adv + adj." },
+
+            // Q11: S + V + N (Word order)
+            { id: 31, type: "order", question: "Sắp xếp: \"Thể thao có lợi ích\"", words: ["has", "Sport", "benefit"], correct: ["Sport", "has", "benefit"], explain: "S + V + N." },
+            { id: 32, type: "order", question: "Sắp xếp: \"Cô ấy có một ngôi nhà\"", words: ["house", "has", "She", "a"], correct: ["She", "has", "a", "house"], explain: "S + V + N." },
+            { id: 33, type: "order", question: "Sắp xếp: \"Họ cần nước\"", words: ["water", "need", "They"], correct: ["They", "need", "water"], explain: "S + V + N." },
+
+            // Q12: Adv identification
+            { id: 34, type: "choice", question: "Chọn trạng từ đúng: \"It is _______ (actual) true.\"", options: ["actual", "actually", "actuality", "action"], correct: "actually", explain: "Adv = Adj + ly." },
+            { id: 35, type: "choice", question: "Chọn trạng từ đúng: \"She sings _______ (beautiful).\"", options: ["beautiful", "beautifully", "beauty", "beautify"], correct: "beautifully", explain: "Adv = Adj + ly." },
+            { id: 36, type: "choice", question: "Chọn trạng từ đúng: \"He runs _______ (quick).\"", options: ["quick", "quickly", "quicker", "quickness"], correct: "quickly", explain: "Adv = Adj + ly." },
+
+            // Q13: Order S+V+N+Adv
+            { id: 37, type: "order", question: "Sắp xếp: \"Tôi xây nhà một cách sáng tạo\"", words: ["creatively", "I", "house", "build", "a"], correct: ["I", "build", "a", "house", "creatively"], explain: "S + V + N + Adv." },
+            { id: 38, type: "order", question: "Sắp xếp: \"Cô ấy vẽ tranh đẹp\"", words: ["beautifully", "She", "picture", "paints", "a"], correct: ["She", "paints", "a", "picture", "beautifully"], explain: "S + V + N + Adv." },
+            { id: 39, type: "order", question: "Sắp xếp: \"Anh ấy làm bài tập cẩn thận\"", words: ["carefully", "He", "homework", "does"], correct: ["He", "does", "homework", "carefully"], explain: "S + V + N + Adv." },
+
+            // Q14: Need + to V
+            { id: 40, type: "choice", question: "Điền từ: \"I need _______ (uống) water.\"", options: ["drink", "to drink", "drinking", "drank"], correct: "to drink", explain: "Need + to V." },
+            { id: 41, type: "choice", question: "Điền từ: \"She needs _______ (ngủ).\"", options: ["sleep", "to sleep", "sleeping", "slept"], correct: "to sleep", explain: "Need + to V." },
+            { id: 42, type: "choice", question: "Điền từ: \"We need _______ (đi) now.\"", options: ["go", "to go", "going", "went"], correct: "to go", explain: "Need + to V." },
+
+            // Q15: Spend time
+            { id: 43, type: "choice", question: "Chọn câu đúng: \"Tôi dành thời gian tập thể dục.\"", options: ["I spend time to do exercise.", "I spend time doing exercise.", "I spend time do exercise."], correct: "I spend time doing exercise.", explain: "Spend time + V-ing." },
+            { id: 44, type: "choice", question: "Chọn câu đúng: \"Cô ấy dành thời gian đọc sách.\"", options: ["She spends time reading.", "She spends time to read.", "She spends time read."], correct: "She spends time reading.", explain: "Spend time + V-ing." },
+            { id: 45, type: "choice", question: "Chọn câu đúng: \"Họ dành thời gian chơi game.\"", options: ["They spend time playing games.", "They spend time to play games.", "They spend time play games."], correct: "They spend time playing games.", explain: "Spend time + V-ing." },
+
+            // Q16: Adv 'Regularly'
+            { id: 46, type: "choice", question: "Điền từ: \"I play sport _______ (regular).\"", options: ["regular", "regularly", "regulars", "regulation"], correct: "regularly", explain: "Cần trạng từ bổ nghĩa cho động từ." },
+            { id: 47, type: "choice", question: "Điền từ: \"She visits us _______ (regular).\"", options: ["regular", "regularly", "regulars", "regulation"], correct: "regularly", explain: "Cần trạng từ bổ nghĩa cho động từ." },
+            { id: 48, type: "choice", question: "Điền từ: \"They exercise _______ (regular).\"", options: ["regularly", "regular", "regulate", "regulation"], correct: "regularly", explain: "Cần trạng từ bổ nghĩa cho động từ." },
+
+            // Q17: Wh- Question Order
+            { id: 49, type: "order", question: "Sắp xếp: \"Bạn thức dậy lúc mấy giờ?\"", words: ["you", "When", "get", "do", "up", "?"], correct: ["When", "do", "you", "get", "up", "?"], explain: "Wh- + do + S + V?" },
+            { id: 50, type: "order", question: "Sắp xếp: \"Bạn sống ở đâu?\"", words: ["live", "Where", "do", "you", "?"], correct: ["Where", "do", "you", "live", "?"], explain: "Wh- + do + S + V?" },
+            { id: 51, type: "order", question: "Sắp xếp: \"Bạn muốn cái gì?\"", words: ["want", "What", "do", "you", "?"], correct: ["What", "do", "you", "want", "?"], explain: "Wh- + do + S + V?" },
+
+            // Q18: Prep 'At' Place
+            { id: 52, type: "choice", question: "Chọn giới từ: \"I go jogging _______ the park.\"", options: ["on", "at", "to", "with"], correct: "at", explain: "At the park." },
+            { id: 53, type: "choice", question: "Chọn giới từ: \"She is _______ school.\"", options: ["on", "at", "to", "of"], correct: "at", explain: "At school." },
+            { id: 54, type: "choice", question: "Chọn giới từ: \"He stays _______ home.\"", options: ["at", "on", "in", "to"], correct: "at", explain: "At home." },
+
+            // Q19: Prep 'With' Help
+            { id: 55, type: "choice", question: "Điền từ: \"My friends help me _______ homework.\"", options: ["for", "with", "at", "on"], correct: "with", explain: "Help sb WITH sth." },
+            { id: 56, type: "choice", question: "Điền từ: \"Can you help me _______ this bag?\"", options: ["with", "for", "at", "on"], correct: "with", explain: "Help sb WITH sth." },
+            { id: 57, type: "choice", question: "Điền từ: \"He helps his mom _______ cooking.\"", options: ["with", "for", "at", "in"], correct: "with", explain: "Help sb WITH sth." },
+
+            // Q20: Love + V-ing
+            { id: 58, type: "order", question: "Sắp xếp: \"Tôi yêu thích nhảy\" (V-ing)", words: ["dancing", "I", "love"], correct: ["I", "love", "dancing"], explain: "S + love + V-ing." },
+            { id: 59, type: "order", question: "Sắp xếp: \"Cô ấy thích nấu ăn\"", words: ["cooking", "She", "likes"], correct: ["She", "likes", "cooking"], explain: "S + like + V-ing." },
+            { id: 60, type: "order", question: "Sắp xếp: \"Họ ghét chạy bộ\"", words: ["jogging", "They", "hate"], correct: ["They", "hate", "jogging"], explain: "S + hate + V-ing." },
+
+            // Q21: Adj after Tobe
+            { id: 61, type: "choice", question: "Chọn từ loại đúng: \"She is _______ (strange).\"", options: ["strangely", "strange", "stranger"], correct: "strange", explain: "Sau tobe là tính từ." },
+            { id: 62, type: "choice", question: "Chọn từ loại đúng: \"It is _______ (common).\"", options: ["commonly", "common", "commons"], correct: "common", explain: "Sau tobe là tính từ." },
+            { id: 63, type: "choice", question: "Chọn từ loại đúng: \"They are _______ (friend).\"", options: ["friendly", "friend", "friendship"], correct: "friendly", explain: "Friendly là tính từ." },
+
+            // Q22: Hard (Adj/Adv)
+            { id: 64, type: "choice", question: "Tìm lỗi sai: \"I do homework hardly.\"", options: ["do", "homework", "hardly"], correct: "hardly", explain: "Trạng từ của 'hard' là 'hard'. 'Hardly' nghĩa là hiếm khi." },
+            { id: 65, type: "choice", question: "Chọn câu đúng: \"Anh ấy làm việc chăm chỉ.\"", options: ["He works hard.", "He works hardly.", "He is hard work."], correct: "He works hard.", explain: "Work hard." },
+            { id: 66, type: "choice", question: "Chọn câu đúng: \"Bài tập thì khó.\"", options: ["Homework is hard.", "Homework is hardly.", "Homework hard is."], correct: "Homework is hard.", explain: "Hard là tính từ." },
+
+            // Q23: Order S+tobe+adj+prep+N
+            { id: 67, type: "order", question: "Sắp xếp: \"Tết thì phổ biến ở Việt Nam\"", words: ["Vietnam", "common", "is", "in", "Tet"], correct: ["Tet", "is", "common", "in", "Vietnam"], explain: "S + tobe + adj + prep + N." },
+            { id: 68, type: "order", question: "Sắp xếp: \"Phở thì nổi tiếng ở Hà Nội\"", words: ["Hanoi", "famous", "is", "in", "Pho"], correct: ["Pho", "is", "famous", "in", "Hanoi"], explain: "S + tobe + adj + prep + N." },
+            { id: 69, type: "order", question: "Sắp xếp: \"Bóng đá thì phổ biến trên thế giới\"", words: ["world", "popular", "is", "in", "the", "Football"], correct: ["Football", "is", "popular", "in", "the", "world"], explain: "S + tobe + adj + prep + N." },
+
+            // Q24: Prep 'After'
+            { id: 70, type: "choice", question: "Điền từ: \"I do gardening _______ school.\"", options: ["on", "at", "after", "in"], correct: "after", explain: "After school (Sau giờ học)." },
+            { id: 71, type: "choice", question: "Điền từ: \"I watch TV _______ dinner.\"", options: ["after", "on", "at", "to"], correct: "after", explain: "After dinner (Sau bữa tối)." },
+            { id: 72, type: "choice", question: "Điền từ: \"Brush teeth _______ breakfast.\"", options: ["after", "in", "on", "at"], correct: "after", explain: "After breakfast." },
+
+            // Q25: Fast (Adj/Adv)
+            { id: 73, type: "choice", question: "\"I run fast.\" Từ 'fast' ở đây là gì?", options: ["Tính từ", "Trạng từ", "Danh từ", "Động từ"], correct: "Trạng từ", explain: "Bổ nghĩa cho động từ 'run'." },
+            { id: 74, type: "choice", question: "\"He is a fast runner.\" Từ 'fast' ở đây là gì?", options: ["Tính từ", "Trạng từ", "Danh từ", "Động từ"], correct: "Tính từ", explain: "Bổ nghĩa cho danh từ 'runner'." },
+            { id: 75, type: "choice", question: "Chọn câu đúng:", options: ["He drives fast.", "He drives fastly.", "He drives fastness."], correct: "He drives fast.", explain: "Fast là trạng từ." },
+
+            // Q26: Order S+V+N (Simple)
+            { id: 76, type: "order", question: "Sắp xếp: \"Tôi chơi bóng đá\"", words: ["play", "I", "football"], correct: ["I", "play", "football"], explain: "S + V + N." },
+            { id: 77, type: "order", question: "Sắp xếp: \"Cô ấy đọc sách\"", words: ["reads", "She", "books"], correct: ["She", "reads", "books"], explain: "S + V + N." },
+            { id: 78, type: "order", question: "Sắp xếp: \"Họ uống sữa\"", words: ["drink", "They", "milk"], correct: ["They", "drink", "milk"], explain: "S + V + N." },
+
+            // Q27: Order S+tobe+Adj
+            { id: 79, type: "order", question: "Sắp xếp: \"Âm nhạc thì thư giãn\"", words: ["is", "Music", "relaxing"], correct: ["Music", "is", "relaxing"], explain: "S + tobe + Adj." },
+            { id: 80, type: "order", question: "Sắp xếp: \"Con chó thì to\"", words: ["is", "dog", "big", "The"], correct: ["The", "dog", "is", "big"], explain: "S + tobe + Adj." },
+            { id: 81, type: "order", question: "Sắp xếp: \"Căn phòng thì sạch\"", words: ["is", "room", "clean", "The"], correct: ["The", "room", "is", "clean"], explain: "S + tobe + Adj." },
+
+            // Q28: S+tobe+N
+            { id: 82, type: "choice", question: "Chọn câu đúng: \"Nó là một cây đàn piano.\"", options: ["It is a piano.", "It are a piano.", "It a piano is."], correct: "It is a piano.", explain: "S + tobe + N." },
+            { id: 83, type: "choice", question: "Chọn câu đúng: \"Anh ấy là bác sĩ.\"", options: ["He is a doctor.", "He are a doctor.", "He a doctor is."], correct: "He is a doctor.", explain: "S + tobe + N." },
+            { id: 84, type: "choice", question: "Chọn câu đúng: \"Đây là con mèo.\"", options: ["This is a cat.", "This are a cat.", "This a cat is."], correct: "This is a cat.", explain: "S + tobe + N." },
+
+            // Q29: Order S+V+N (Like)
+            { id: 85, type: "order", question: "Sắp xếp: \"Họ thích những quyển sách\"", words: ["books", "like", "They"], correct: ["They", "like", "books"], explain: "S + V + N." },
+            { id: 86, type: "order", question: "Sắp xếp: \"Chúng tôi thích nhạc\"", words: ["music", "like", "We"], correct: ["We", "like", "music"], explain: "S + V + N." },
+            { id: 87, type: "order", question: "Sắp xếp: \"Bạn thích táo\"", words: ["apples", "like", "You"], correct: ["You", "like", "apples"], explain: "S + V + N." },
+
+            // Q30: She + is
+            { id: 88, type: "choice", question: "Điền từ: \"She ____ smart.\"", options: ["are", "is", "am"], correct: "is", explain: "She + is." },
+            { id: 89, type: "choice", question: "Điền từ: \"He ____ kind.\"", options: ["is", "are", "am"], correct: "is", explain: "He + is." },
+            { id: 90, type: "choice", question: "Điền từ: \"It ____ nice.\"", options: ["is", "are", "am"], correct: "is", explain: "It + is." },
+
+            // Q31: Show sb sth
+            { id: 91, type: "choice", question: "Điền từ: \"I show ____ homework.\"", options: ["you", "your", "yours"], correct: "you", explain: "Show + tân ngữ (you)." },
+            { id: 92, type: "choice", question: "Điền từ: \"She shows ____ the picture.\"", options: ["me", "my", "mine"], correct: "me", explain: "Show + tân ngữ (me)." },
+            { id: 93, type: "choice", question: "Điền từ: \"He shows ____ his car.\"", options: ["us", "our", "ours"], correct: "us", explain: "Show + tân ngữ (us)." },
+
+            // Q32: Possessive Adj
+            { id: 94, type: "order", question: "Sắp xếp: \"Nó là bút của bạn\"", words: ["is", "your", "It", "pen"], correct: ["It", "is", "your", "pen"], explain: "Your + Noun." },
+            { id: 95, type: "order", question: "Sắp xếp: \"Đây là sách của tôi\"", words: ["is", "my", "This", "book"], correct: ["This", "is", "my", "book"], explain: "My + Noun." },
+            { id: 96, type: "order", question: "Sắp xếp: \"Đó là nhà của anh ấy\"", words: ["is", "his", "That", "house"], correct: ["That", "is", "his", "house"], explain: "His + Noun." },
+
+            // Q33: S + V + N (Has)
+            { id: 97, type: "order", question: "Sắp xếp: \"Cô ấy có sự sáng tạo\"", words: ["has", "creativity", "She"], correct: ["She", "has", "creativity"], explain: "Has + Noun." },
+            { id: 98, type: "order", question: "Sắp xếp: \"Anh ấy có tiền\"", words: ["has", "money", "He"], correct: ["He", "has", "money"], explain: "Has + Noun." },
+            { id: 99, type: "order", question: "Sắp xếp: \"Nó có lợi ích\"", words: ["has", "benefit", "It"], correct: ["It", "has", "benefit"], explain: "Has + Noun." },
+
+            // Q34: Want + N
+            { id: 100, type: "choice", question: "Chọn câu đúng: \"Tôi muốn một chiếc xe hơi\"", options: ["I want a car.", "I wants a car.", "I to want a car."], correct: "I want a car.", explain: "S + V + N." },
+            { id: 101, type: "choice", question: "Chọn câu đúng: \"Cô ấy muốn một con búp bê\"", options: ["She wants a doll.", "She want a doll.", "She wanting a doll."], correct: "She wants a doll.", explain: "S(số ít) + Vs + N." },
+            { id: 102, type: "choice", question: "Chọn câu đúng: \"Họ muốn thức ăn\"", options: ["They want food.", "They wants food.", "They to want food."], correct: "They want food.", explain: "S(số nhiều) + V + N." },
+
+            // Q35: Adj Identification
+            { id: 103, type: "choice", question: "Từ \"Happy\" là loại từ gì?", options: ["Danh từ (N)", "Động từ (V)", "Tính từ (Adj)"], correct: "Tính từ (Adj)", explain: "Chỉ cảm xúc." },
+            { id: 104, type: "choice", question: "Từ \"Sad\" là loại từ gì?", options: ["Danh từ (N)", "Động từ (V)", "Tính từ (Adj)"], correct: "Tính từ (Adj)", explain: "Chỉ cảm xúc." },
+            { id: 105, type: "choice", question: "Từ \"Big\" là loại từ gì?", options: ["Danh từ (N)", "Động từ (V)", "Tính từ (Adj)"], correct: "Tính từ (Adj)", explain: "Chỉ kích thước." },
+
+            // Q36: Verb Identification
+            { id: 106, type: "choice", question: "Từ \"Play\" là loại từ gì?", options: ["Danh từ (N)", "Động từ (V)", "Tính từ (Adj)"], correct: "Động từ (V)", explain: "Chỉ hành động." },
+            { id: 107, type: "choice", question: "Từ \"Run\" là loại từ gì?", options: ["Danh từ (N)", "Động từ (V)", "Tính từ (Adj)"], correct: "Động từ (V)", explain: "Chỉ hành động." },
+            { id: 108, type: "choice", question: "Từ \"Eat\" là loại từ gì?", options: ["Danh từ (N)", "Động từ (V)", "Tính từ (Adj)"], correct: "Động từ (V)", explain: "Chỉ hành động." },
+
+            // Q37: Noun Identification
+            { id: 109, type: "choice", question: "Từ \"House\" là loại từ gì?", options: ["Danh từ (N)", "Động từ (V)", "Tính từ (Adj)"], correct: "Danh từ (N)", explain: "Chỉ vật." },
+            { id: 110, type: "choice", question: "Từ \"Car\" là loại từ gì?", options: ["Danh từ (N)", "Động từ (V)", "Tính từ (Adj)"], correct: "Danh từ (N)", explain: "Chỉ vật." },
+            { id: 111, type: "choice", question: "Từ \"Teacher\" là loại từ gì?", options: ["Danh từ (N)", "Động từ (V)", "Tính từ (Adj)"], correct: "Danh từ (N)", explain: "Chỉ người." },
+
+            // Q38: Noun vs Adj
+            { id: 112, type: "choice", question: "Từ \"Creativity\" là loại từ gì?", options: ["Danh từ (N)", "Động từ (V)", "Tính từ (Adj)"], correct: "Danh từ (N)", explain: "Sự sáng tạo." },
+            { id: 113, type: "choice", question: "Từ \"Creative\" là loại từ gì?", options: ["Danh từ (N)", "Động từ (V)", "Tính từ (Adj)"], correct: "Tính từ (Adj)", explain: "Sáng tạo." },
+            { id: 114, type: "choice", question: "Từ \"Beauty\" là loại từ gì?", options: ["Danh từ (N)", "Động từ (V)", "Tính từ (Adj)"], correct: "Danh từ (N)", explain: "Vẻ đẹp." },
+
+            // Q39: Adj Identification (Amazing)
+            { id: 115, type: "choice", question: "Từ \"Amazing\" là loại từ gì?", options: ["Danh từ (N)", "Động từ (V)", "Tính từ (Adj)"], correct: "Tính từ (Adj)", explain: "Tuyệt vời." },
+            { id: 116, type: "choice", question: "Từ \"Boring\" là loại từ gì?", options: ["Danh từ (N)", "Động từ (V)", "Tính từ (Adj)"], correct: "Tính từ (Adj)", explain: "Nhàm chán." },
+            { id: 117, type: "choice", question: "Từ \"Interesting\" là loại từ gì?", options: ["Danh từ (N)", "Động từ (V)", "Tính từ (Adj)"], correct: "Tính từ (Adj)", explain: "Thú vị." },
+
+            // Q40: Verb in Sentence
+            { id: 118, type: "choice", question: "Trong câu \"I use a pen\", từ \"use\" là gì?", options: ["S (Chủ ngữ)", "V (Động từ)", "N (Tân ngữ)"], correct: "V (Động từ)", explain: "Hành động." },
+            { id: 119, type: "choice", question: "Trong câu \"She loves cats\", từ \"loves\" là gì?", options: ["S (Chủ ngữ)", "V (Động từ)", "N (Tân ngữ)"], correct: "V (Động từ)", explain: "Hành động." },
+            { id: 120, type: "choice", question: "Trong câu \"We buy food\", từ \"buy\" là gì?", options: ["S (Chủ ngữ)", "V (Động từ)", "N (Tân ngữ)"], correct: "V (Động từ)", explain: "Hành động." },
+
+            // Q41: Prep 'By'
+            { id: 121, type: "choice", question: "Điền giới từ: \"I go to school _______ bus.\"", options: ["by", "with", "on", "in"], correct: "by", explain: "By bus." },
+            { id: 122, type: "choice", question: "Điền giới từ: \"He travels _______ car.\"", options: ["by", "with", "on", "in"], correct: "by", explain: "By car." },
+            { id: 123, type: "choice", question: "Điền giới từ: \"We go _______ plane.\"", options: ["by", "with", "on", "in"], correct: "by", explain: "By plane." },
+
+            // Q42: Prep 'For' + V-ing
+            { id: 124, type: "choice", question: "Chọn câu đúng: \"Cảm ơn vì đã lắng nghe.\"", options: ["Thank you for listen.", "Thank you for listening.", "Thank you with listening."], correct: "Thank you for listening.", explain: "For + V-ing." },
+            { id: 125, type: "choice", question: "Chọn câu đúng: \"Cảm ơn vì đã đến.\"", options: ["Thank you for coming.", "Thank you for come.", "Thank you to come."], correct: "Thank you for coming.", explain: "For + V-ing." },
+            { id: 126, type: "choice", question: "Chọn câu đúng: \"Xin lỗi vì đã trễ.\"", options: ["Sorry for being late.", "Sorry for be late.", "Sorry to late."], correct: "Sorry for being late.", explain: "For + V-ing." },
+
+            // Q43: Prep 'With'
+            { id: 127, type: "choice", question: "Điền giới từ: \"I live _______ my parents.\"", options: ["from", "at", "with", "by"], correct: "with", explain: "Live with." },
+            { id: 128, type: "choice", question: "Điền giới từ: \"He plays _______ his dog.\"", options: ["with", "at", "on", "in"], correct: "with", explain: "Play with." },
+            { id: 129, type: "choice", question: "Điền giới từ: \"Go _______ me.\"", options: ["with", "at", "on", "of"], correct: "with", explain: "Go with." },
+
+            // Q44: Interested In
+            { id: 130, type: "choice", question: "Chọn đáp án đúng: \"I am interested _______ learning English.\"", options: ["on", "at", "in", "of"], correct: "in", explain: "Interested in." },
+            { id: 131, type: "choice", question: "Chọn đáp án đúng: \"She is interested _______ music.\"", options: ["in", "on", "at", "for"], correct: "in", explain: "Interested in." },
+            { id: 132, type: "choice", question: "Chọn đáp án đúng: \"Are you interested _______ sports?\"", options: ["in", "on", "at", "to"], correct: "in", explain: "Interested in." },
+
+            // Q45: Purpose 'To V'
+            { id: 133, type: "choice", question: "Mục đích: \"I study hard _______ pass the exam.\"", options: ["for", "to", "at", "on"], correct: "to", explain: "To + V (để làm gì)." },
+            { id: 134, type: "choice", question: "Mục đích: \"He runs _______ catch the bus.\"", options: ["to", "for", "at", "in"], correct: "to", explain: "To + V." },
+            { id: 135, type: "choice", question: "Mục đích: \"We go there _______ see him.\"", options: ["to", "for", "at", "on"], correct: "to", explain: "To + V." },
+
+            // Q46: Love + V-ing
+            { id: 136, type: "choice", question: "Điền từ: \"I love _______ (nấu ăn).\"", options: ["cook", "cooking", "cooked", "cooks"], correct: "cooking", explain: "Love + V-ing." },
+            { id: 137, type: "choice", question: "Điền từ: \"She loves _______ (đọc).\"", options: ["reading", "read", "reads", "to read"], correct: "reading", explain: "Love + V-ing." },
+            { id: 138, type: "choice", question: "Điền từ: \"They love _______ (hát).\"", options: ["singing", "sing", "sings", "sang"], correct: "singing", explain: "Love + V-ing." },
+
+            // Q47: Hate + V-ing
+            { id: 139, type: "choice", question: "Chọn câu đúng: \"Anh ấy ghét dậy sớm.\"", options: ["He hates getting up early.", "He hates get up early.", "He hate getting up early."], correct: "He hates getting up early.", explain: "Hate + V-ing." },
+            { id: 140, type: "choice", question: "Chọn câu đúng: \"Cô ấy ghét nấu ăn.\"", options: ["She hates cooking.", "She hates cook.", "She hate cooking."], correct: "She hates cooking.", explain: "Hate + V-ing." },
+            { id: 141, type: "choice", question: "Chọn câu đúng: \"Tôi ghét đợi chờ.\"", options: ["I hate waiting.", "I hate wait.", "I hates waiting."], correct: "I hate waiting.", explain: "Hate + V-ing." },
+
+            // Q48: V-ing Subject
+            { id: 142, type: "choice", question: "Câu nào có V-ing làm chủ ngữ?", options: ["I am swimming.", "Swimming is good for health.", "I like swimming."], correct: "Swimming is good for health.", explain: "Swimming đứng đầu làm chủ ngữ." },
+            { id: 143, type: "choice", question: "Câu nào có V-ing làm chủ ngữ?", options: ["Reading is fun.", "I am reading.", "He enjoys reading."], correct: "Reading is fun.", explain: "Reading đứng đầu làm chủ ngữ." },
+            { id: 144, type: "choice", question: "Câu nào có V-ing làm chủ ngữ?", options: ["Eating vegetables is healthy.", "I am eating.", "We like eating."], correct: "Eating vegetables is healthy.", explain: "Eating đứng đầu làm chủ ngữ." },
+
+            // Q49: Adv manner
+            { id: 145, type: "choice", question: "Chọn trạng từ: \"He learns English _______.\"", options: ["quick", "quickly", "good", "bad"], correct: "quickly", explain: "Adv bổ nghĩa cho V." },
+            { id: 146, type: "choice", question: "Chọn trạng từ: \"She walks _______.\"", options: ["slow", "slowly", "bad", "good"], correct: "slowly", explain: "Adv bổ nghĩa cho V." },
+            { id: 147, type: "choice", question: "Chọn trạng từ: \"They sing _______.\"", options: ["beautiful", "beautifully", "nice", "good"], correct: "beautifully", explain: "Adv bổ nghĩa cho V." },
+
+            // Q50: Order S+V+Adv+Adv
+            { id: 148, type: "order", question: "Sắp xếp: \"Cô ấy hát rất hay\"", words: ["well", "sings", "She", "very"], correct: ["She", "sings", "very", "well"], explain: "S + V + Adv." },
+            { id: 149, type: "order", question: "Sắp xếp: \"Anh ấy chạy rất nhanh\"", words: ["fast", "runs", "He", "very"], correct: ["He", "runs", "very", "fast"], explain: "S + V + Adv." },
+            { id: 150, type: "order", question: "Sắp xếp: \"Họ làm việc rất chăm chỉ\"", words: ["hard", "work", "They", "very"], correct: ["They", "work", "very", "hard"], explain: "S + V + Adv." },
+
+            // Q51: Prep 'From'
+            { id: 151, type: "choice", question: "Điền giới từ: \"I come _______ Vietnam.\"", options: ["at", "on", "from", "with"], correct: "from", explain: "Come from." },
+            { id: 152, type: "choice", question: "Điền giới từ: \"She is _______ USA.\"", options: ["from", "at", "on", "to"], correct: "from", explain: "From (Từ đâu)." },
+            { id: 153, type: "choice", question: "Điền giới từ: \"This gift is _______ him.\"", options: ["from", "at", "on", "in"], correct: "from", explain: "From (Từ ai)." },
+
+            // Q52: Prep 'At' Time
+            { id: 154, type: "choice", question: "Giới từ chỉ thời gian: \"I get up _______ 6 am.\"", options: ["on", "in", "at", "to"], correct: "at", explain: "At + giờ." },
+            { id: 155, type: "choice", question: "Giới từ chỉ thời gian: \"The movie starts _______ 8 pm.\"", options: ["at", "on", "in", "to"], correct: "at", explain: "At + giờ." },
+            { id: 156, type: "choice", question: "Giới từ chỉ thời gian: \"Lunch is _______ noon.\"", options: ["at", "on", "in", "to"], correct: "at", explain: "At noon (giữa trưa)." },
+
+            // Q53: Prep 'By' + V-ing
+            { id: 157, type: "choice", question: "Điền từ: \"He learns words by _______ (write) them.\"", options: ["write", "writing", "to write", "writes"], correct: "writing", explain: "By + V-ing." },
+            { id: 158, type: "choice", question: "Điền từ: \"You pass by _______ (study) hard.\"", options: ["study", "studying", "studied", "studies"], correct: "studying", explain: "By + V-ing." },
+            { id: 159, type: "choice", question: "Điền từ: \"She relaxes by _______ (listen) to music.\"", options: ["listening", "listen", "listens", "listened"], correct: "listening", explain: "By + V-ing." },
+
+            // Q54: Want vs Like
+            { id: 160, type: "choice", question: "Phân biệt Like và Want: \"I _______ to go home.\"", options: ["like", "want", "enjoy", "love"], correct: "want", explain: "Want + to V." },
+            { id: 161, type: "choice", question: "Phân biệt Like và Want: \"She _______ to buy it.\"", options: ["likes", "wants", "enjoys", "loves"], correct: "wants", explain: "Want + to V." },
+            { id: 162, type: "choice", question: "Phân biệt Like và Want: \"They _______ to sleep.\"", options: ["like", "want", "enjoy", "love"], correct: "want", explain: "Want + to V." },
+
+            // Q55: Adv irregular
+            { id: 163, type: "choice", question: "Chọn câu đúng về trạng từ:", options: ["She runs fastly.", "She runs fast.", "She runs good."], correct: "She runs fast.", explain: "Fast là trạng từ." },
+            { id: 164, type: "choice", question: "Chọn câu đúng về trạng từ:", options: ["He works hardly.", "He works hard.", "He works good."], correct: "He works hard.", explain: "Hard là trạng từ." },
+            { id: 165, type: "choice", question: "Chọn câu đúng về trạng từ:", options: ["I do good.", "I do well.", "I do goodly."], correct: "I do well.", explain: "Well là trạng từ của Good." },
+
+            // Q56: Without + V-ing
+            { id: 166, type: "choice", question: "Điền từ: \"She goes out _______ (without) saying anything.\"", options: ["with", "without", "within", "for"], correct: "without", explain: "Without + V-ing." },
+            { id: 167, type: "choice", question: "Điền từ: \"He passed _______ (without) studying.\"", options: ["without", "with", "for", "at"], correct: "without", explain: "Without + V-ing." },
+            { id: 168, type: "choice", question: "Điền từ: \"Don't leave _______ (without) paying.\"", options: ["without", "with", "on", "at"], correct: "without", explain: "Without + V-ing." },
+
+            // Q57: Order V-ing Subject
+            { id: 169, type: "order", question: "Sắp xếp: \"Học tiếng Anh thì quan trọng\"", words: ["is", "Learning", "important", "English"], correct: ["Learning", "English", "is", "important"], explain: "V-ing Subject." },
+            { id: 170, type: "order", question: "Sắp xếp: \"Chơi bóng đá thì vui\"", words: ["is", "Playing", "fun", "football"], correct: ["Playing", "football", "is", "fun"], explain: "V-ing Subject." },
+            { id: 171, type: "order", question: "Sắp xếp: \"Đọc sách thì tốt\"", words: ["is", "Reading", "good", "books"], correct: ["Reading", "books", "is", "good"], explain: "V-ing Subject." },
+
+            // Q58: Prep 'On' Day
+            { id: 172, type: "choice", question: "Điền giới từ: \"See you _______ Monday.\"", options: ["at", "in", "on", "from"], correct: "on", explain: "On + Thứ." },
+            { id: 173, type: "choice", question: "Điền giới từ: \"My birthday is _______ Sunday.\"", options: ["on", "at", "in", "to"], correct: "on", explain: "On + Thứ." },
+            { id: 174, type: "choice", question: "Điền giới từ: \"We meet _______ Friday.\"", options: ["on", "in", "at", "from"], correct: "on", explain: "On + Thứ." },
+
+            // Q59: Decide + to V
+            { id: 175, type: "choice", question: "Chọn dạng đúng: \"I decide _______ (buy) a car.\"", options: ["buying", "buy", "to buy", "bought"], correct: "to buy", explain: "Decide + to V." },
+            { id: 176, type: "choice", question: "Chọn dạng đúng: \"She decides _______ (go).\"", options: ["going", "to go", "go", "went"], correct: "to go", explain: "Decide + to V." },
+            { id: 177, type: "choice", question: "Chọn dạng đúng: \"We decide _______ (stay).\"", options: ["staying", "to stay", "stay", "stayed"], correct: "to stay", explain: "Decide + to V." },
+
+            // Q60: Prep 'On' Place
+            { id: 178, type: "choice", question: "Giới từ chỉ nơi chốn: \"My pen is _______ the table.\"", options: ["on", "at", "in", "with"], correct: "on", explain: "On the table." },
+            { id: 179, type: "choice", question: "Giới từ chỉ nơi chốn: \"The picture is _______ the wall.\"", options: ["on", "in", "at", "with"], correct: "on", explain: "On the wall." },
+            { id: 180, type: "choice", question: "Giới từ chỉ nơi chốn: \"The book is _______ the desk.\"", options: ["on", "at", "in", "with"], correct: "on", explain: "On the desk." }
+        ];
+
+        // --- COMPONENT: RIGHT SIDEBAR NOTE (Independent) ---
+        const NoteSidebar = () => {
+            const [isOpen, setIsOpen] = useState(true);
+            const [note, setNote] = useState("");
+
+            useEffect(() => { const savedNote = localStorage.getItem("english_notes"); if (savedNote) setNote(savedNote); }, []);
+            const handleNoteChange = (e) => { const val = e.target.value; setNote(val); localStorage.setItem("english_notes", val); };
+            const exportToWord = () => {
+                if (!note.trim()) { alert("Ghi chú trống!"); return; }
+                const sourceHTML = "<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Ghi Chú</title></head><body>" + note.replace(/\n/g, "<br>") + "</body></html>";
+                const source = 'data:application/vnd.ms-word;charset=utf-8,' + encodeURIComponent(sourceHTML);
+                const a = document.createElement("a"); a.href = source; a.download = 'Ghi_Chu_Tieng_Anh.doc'; a.click();
+            };
+
+            return (
+                <div className={`border-l border-gray-200 bg-white flex flex-col transition-all duration-300 ${isOpen ? 'w-80' : 'w-10'} relative`}>
+                    <button onClick={() => setIsOpen(!isOpen)} className="absolute -left-3 top-4 bg-white border border-gray-300 rounded-full p-1 shadow hover:bg-gray-50 z-20">
+                        {isOpen ? <i className="ph-bold ph-caret-right"></i> : <i className="ph-bold ph-caret-left"></i>}
+                    </button>
+                    {isOpen ? (
+                        <>
+                            <div className="p-4 bg-green-50 border-b border-green-100 font-bold text-green-800 flex items-center gap-2"><i className="ph-fill ph-pencil-simple"></i> Ghi Chú</div>
+                            <textarea className="flex-1 p-4 resize-none focus:outline-none text-sm text-gray-700 leading-relaxed" placeholder="Viết ghi chú..." value={note} onChange={handleNoteChange}></textarea>
+                            <div className="p-4 border-t bg-gray-50"><button onClick={exportToWord} className="w-full bg-blue-600 text-white py-2 rounded font-bold text-sm hover:bg-blue-700 flex items-center justify-center gap-2"><i className="ph-bold ph-file-doc"></i> Xuất Word</button></div>
+                        </>
+                    ) : (
+                        <div className="h-full flex flex-col items-center pt-16 gap-4 cursor-pointer" onClick={() => setIsOpen(true)}>
+                            <div className="rotate-90 whitespace-nowrap font-bold text-gray-400 tracking-wider">GHI CHÚ</div>
+                            <i className="ph-bold ph-pencil-simple text-gray-400 text-xl"></i>
+                        </div>
+                    )}
+                </div>
+            );
+        };
+
+        // --- COMPONENT: NAVIGATOR ---
+        const QuestionNavigator = ({ total, current, status, onJump }) => {
+            return (
+                <div className="mb-6 bg-white p-4 rounded-xl border border-gray-200 shadow-sm">
+                    <h4 className="text-xs font-bold text-gray-500 uppercase mb-3 flex items-center gap-1">
+                        <i className="ph-bold ph-squares-four"></i> Danh sách câu hỏi ({total})
+                    </h4>
+                    <div className="grid grid-cols-10 sm:grid-cols-12 md:grid-cols-15 gap-2 nav-grid max-h-32 overflow-y-auto pr-1">
+                        {Array.from({ length: total }, (_, i) => {
+                            let bgClass = "bg-gray-100 text-gray-500 hover:bg-gray-200";
+                            if (status[i] === 'correct') bgClass = "bg-green-100 text-green-700 border border-green-300";
+                            else if (status[i] === 'wrong') bgClass = "bg-red-50 text-red-600 border border-red-200";
+                            
+                            const activeClass = i === current ? "ring-2 ring-blue-500 ring-offset-1 font-bold" : "";
+
+                            return (
+                                <button 
+                                    key={i} 
+                                    onClick={() => onJump(i)}
+                                    className={`h-8 w-8 text-xs rounded-md flex items-center justify-center transition-all ${bgClass} ${activeClass}`}
+                                >
+                                    {i + 1}
+                                </button>
+                            );
+                        })}
+                    </div>
+                    <div className="flex gap-4 mt-3 text-xs text-gray-500 justify-center">
+                        <span className="flex items-center gap-1"><span className="w-3 h-3 bg-gray-100 rounded"></span> Chưa làm</span>
+                        <span className="flex items-center gap-1"><span className="w-3 h-3 bg-green-100 border border-green-300 rounded"></span> Đúng</span>
+                        <span className="flex items-center gap-1"><span className="w-3 h-3 bg-red-50 border border-red-200 rounded"></span> Sai</span>
+                        <span className="flex items-center gap-1"><span className="w-3 h-3 border-2 border-blue-500 rounded"></span> Đang làm</span>
+                    </div>
+                </div>
+            );
+        };
+
+        // --- COMPONENT: THEORY ---
+        const TheorySection = () => {
+            return (
+                <div className="space-y-8 animate-fadeIn text-slate-800 p-4">
+                    <div className="bg-white p-6 rounded-2xl shadow-sm border border-slate-200">
+                        <h2 className="text-xl font-bold text-green-700 mb-4 border-b pb-2 flex items-center gap-2">
+                            <i className="ph-fill ph-number-one-circle text-2xl"></i> 3 Cấu Trúc Câu Cơ Bản
+                        </h2>
+                        <div className="space-y-4 text-sm">
+                            <p>1. <b>S + V + N</b> (Ai làm gì): <i>She does homework.</i></p>
+                            <p>2. <b>S + tobe + Adj</b> (Ai như thế nào): <i>She is nice.</i></p>
+                            <p>3. <b>S + tobe + N</b> (Ai là gì): <i>It is a table.</i></p>
+                        </div>
+                    </div>
+                    <div className="bg-purple-50 p-6 rounded-2xl shadow-sm border border-purple-200">
+                        <h2 className="text-xl font-bold text-purple-700 mb-4 border-b border-purple-200 pb-2 flex items-center gap-2">
+                            <i className="ph-fill ph-link text-2xl"></i> 4. Giới từ & V-ing Nâng Cao
+                        </h2>
+                        <div className="grid md:grid-cols-2 gap-6">
+                            <div>
+                                <h3 className="font-bold text-purple-800 mb-2">Ý nghĩa các giới từ</h3>
+                                <ul className="space-y-2 text-sm">
+                                    <li><span className="font-bold text-blue-600">By</span> + N/V-ing: Bằng cách, bằng phương tiện.</li>
+                                    <li><span className="font-bold text-blue-600">With</span> + N: Cùng với ai/cái gì.</li>
+                                    <li><span className="font-bold text-blue-600">For</span> + N/V-ing: Cho, vì mục đích gì.</li>
+                                    <li><span className="font-bold text-blue-600">From</span> + N: Từ đâu.</li>
+                                    <li><span className="font-bold text-blue-600">In/On/At</span>: Thời gian & Nơi chốn.</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h3 className="font-bold text-purple-800 mb-2">Quy tắc ngữ pháp quan trọng</h3>
+                                <ul className="space-y-2 text-sm bg-white p-3 rounded-lg border border-purple-100">
+                                    <li className="flex items-start gap-2"><i className="ph-fill ph-check-circle text-green-500 mt-1"></i><span>Sau tất cả giới từ, nếu là động từ thì phải thêm <b>-ING</b>.</span></li>
+                                    <li className="flex items-start gap-2 mt-2"><i className="ph-fill ph-check-circle text-green-500 mt-1"></i><span><b>V-ing</b> có thể làm <b>Danh từ (N)</b> đứng đầu câu làm chủ ngữ.</span></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="bg-orange-50 p-6 rounded-2xl shadow-sm border border-orange-200">
+                        <h2 className="text-xl font-bold text-orange-700 mb-4 border-b border-orange-200 pb-2 flex items-center gap-2">
+                            <i className="ph-fill ph-git-merge text-2xl"></i> 5. Các Mẫu Câu Với V-ing & To V
+                        </h2>
+                        <div className="space-y-4 text-sm">
+                            <div className="flex flex-col md:flex-row gap-4">
+                                <div className="flex-1 bg-white p-3 rounded-lg border border-orange-100">
+                                    <span className="block font-bold text-green-700 mb-1">Nhóm + V-ing</span>
+                                    <ul className="list-disc list-inside text-gray-700">
+                                        <li>Like / Love / Enjoy / Hate + <b>V-ing</b></li>
+                                        <li>Go / Do + <b>V-ing</b> (Go shopping)</li>
+                                        <li>Spend time + <b>V-ing</b></li>
+                                        <li>Prep (giới từ) + <b>V-ing</b></li>
+                                    </ul>
+                                </div>
+                                <div className="flex-1 bg-white p-3 rounded-lg border border-orange-100">
+                                    <span className="block font-bold text-blue-700 mb-1">Nhóm + To V</span>
+                                    <ul className="list-disc list-inside text-gray-700">
+                                        <li>Want / Need / Decide + <b>to V</b></li>
+                                        <li>(Chỉ mục đích) I study hard <b>to pass</b> exams.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            );
+        };
+
+        // --- COMPONENT: VOCAB ---
+        const VocabSection = () => {
+            const [filter, setFilter] = useState("");
+            const filtered = vocabList.filter(item => item.w.toLowerCase().includes(filter.toLowerCase()) || item.m.toLowerCase().includes(filter.toLowerCase()));
+            return (
+                <div className="animate-fadeIn p-4">
+                    <div className="mb-4 relative"><input type="text" placeholder="Tìm kiếm từ vựng..." className="w-full p-3 rounded-xl border border-gray-300 focus:outline-none focus:ring-2 focus:ring-green-500 pl-10" onChange={(e) => setFilter(e.target.value)} /><i className="ph-bold ph-magnifying-glass absolute left-3 top-3.5 text-gray-400 text-lg"></i></div>
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-3">{filtered.map((item, idx) => (<div key={idx} className="bg-white p-4 rounded-xl border border-gray-200 hover:shadow-md transition"><div className="flex justify-between items-start mb-1"><h3 className="font-bold text-lg text-slate-800">{item.w}</h3><span className="text-xs font-bold uppercase bg-gray-100 px-2 py-1 rounded text-gray-500">{item.t}</span></div><p className="text-green-700 font-medium mb-1">{item.m}</p><p className="text-xs text-gray-500 italic">Example: "{item.ex}"</p></div>))}</div>
+                </div>
+            );
+        };
+
+        // --- COMPONENT: PRACTICE ---
+        const PracticeSection = () => {
+            const [currentQ, setCurrentQ] = useState(0);
+            const [score, setScore] = useState(0);
+            const [showResult, setShowResult] = useState(false);
+            const [isCorrect, setIsCorrect] = useState(false);
+            const [selectedWords, setSelectedWords] = useState([]);
+            const [completed, setCompleted] = useState(false);
+            const [questionStatus, setQuestionStatus] = useState(Array(practiceQuestions.length).fill(null));
+            const [showNav, setShowNav] = useState(true);
+
+            const q = practiceQuestions[currentQ];
+
+            const updateStatus = (index, status) => {
+                const newStatus = [...questionStatus];
+                newStatus[index] = status;
+                setQuestionStatus(newStatus);
+            };
+
+            const handleWordClick = (word) => { if (!selectedWords.includes(word)) setSelectedWords([...selectedWords, word]); };
+            const resetOrder = () => { setSelectedWords([]); setShowResult(false); };
+            const checkOrder = () => { 
+                const userAns = selectedWords.join(' '); 
+                const correctAns = q.correct.join(' '); 
+                const correct = userAns === correctAns;
+                if (correct) { setIsCorrect(true); if (questionStatus[currentQ] === null) setScore(score + 1); updateStatus(currentQ, 'correct'); } 
+                else { setIsCorrect(false); updateStatus(currentQ, 'wrong'); }
+                setShowResult(true); 
+            };
+            const handleChoice = (opt) => { 
+                if (showResult) return; 
+                const correct = opt === q.correct;
+                if (correct) { setIsCorrect(true); if (questionStatus[currentQ] === null) setScore(score + 1); updateStatus(currentQ, 'correct'); } 
+                else { setIsCorrect(false); updateStatus(currentQ, 'wrong'); }
+                setShowResult(true); 
+            };
+            const nextQuestion = () => { 
+                if (currentQ < practiceQuestions.length - 1) { setCurrentQ(currentQ + 1); setSelectedWords([]); setShowResult(false); setIsCorrect(false); } 
+                else { setCompleted(true); } 
+            };
+            const jumpToQuestion = (index) => {
+                setCurrentQ(index); setSelectedWords([]);
+                if (questionStatus[index] === null) { setShowResult(false); setIsCorrect(false); } 
+                else { setShowResult(false); setIsCorrect(false); }
+            };
+            const restart = () => { setCurrentQ(0); setScore(0); setCompleted(false); setSelectedWords([]); setShowResult(false); setQuestionStatus(Array(practiceQuestions.length).fill(null)); };
+
+            if (completed) { return (<div className="text-center py-10 animate-fadeIn p-4"><i className="ph-fill ph-medal text-6xl text-yellow-500 mb-4 block"></i><h2 className="text-2xl font-bold text-slate-800">Hoàn thành!</h2><p className="text-gray-600 mb-6">Điểm số: <span className="font-bold text-green-600 text-xl">{score}/{practiceQuestions.length}</span></p><button onClick={restart} className="bg-green-600 text-white px-6 py-2 rounded-full font-bold hover:bg-green-700">Làm lại</button></div>); }
+
+            return (
+                <div className="flex h-full relative">
+                    <div className={`transition-all duration-300 ${showNav ? 'w-64' : 'w-0'} bg-white border-r border-gray-200 overflow-hidden flex flex-col`}>
+                        <div className="p-4 bg-gray-50 font-bold text-gray-600 text-sm border-b flex justify-between items-center">
+                            <span>Danh sách câu hỏi</span>
+                            <button onClick={() => setShowNav(false)} className="text-gray-400 hover:text-gray-600"><i className="ph-bold ph-caret-left"></i></button>
+                        </div>
+                        <div className="flex-1 overflow-y-auto p-2">
+                            <div className="grid grid-cols-4 gap-2">
+                                {Array.from({ length: practiceQuestions.length }, (_, i) => {
+                                    let bgClass = "bg-gray-100 text-gray-500 hover:bg-gray-200";
+                                    if (questionStatus[i] === 'correct') bgClass = "bg-green-100 text-green-700 border border-green-300";
+                                    else if (questionStatus[i] === 'wrong') bgClass = "bg-red-50 text-red-600 border border-red-200";
+                                    const activeClass = i === currentQ ? "ring-2 ring-blue-500 ring-offset-1 font-bold" : "";
+                                    return (<button key={i} onClick={() => jumpToQuestion(i)} className={`h-8 w-full text-xs rounded-md flex items-center justify-center transition-all ${bgClass} ${activeClass}`}>{i + 1}</button>);
+                                })}
+                            </div>
+                        </div>
+                    </div>
+                    {!showNav && (<button onClick={() => setShowNav(true)} className="absolute left-0 top-4 z-10 bg-white border border-l-0 border-gray-300 p-2 rounded-r shadow-md hover:bg-gray-50 text-gray-600"><i className="ph-bold ph-list"></i></button>)}
+                    <div className="flex-1 overflow-y-auto p-4 md:p-8 bg-slate-50">
+                        <div className="max-w-2xl mx-auto">
+                            <div className="flex justify-between items-center mb-4"><span className="text-sm font-bold text-gray-500">Câu {currentQ + 1}</span><span className="bg-green-100 text-green-800 px-3 py-1 rounded text-xs font-bold">Điểm: {score}</span></div>
+                            <div className="bg-white p-6 rounded-2xl shadow-sm border border-gray-200 mb-6"><h3 className="text-lg font-bold text-slate-800 mb-4">{q.question}</h3>{q.type === 'order' ? (<div><div className="min-h-[50px] bg-gray-50 border-2 border-dashed border-gray-300 rounded-xl p-3 flex flex-wrap gap-2 mb-4">{selectedWords.map((w, idx) => (<button key={idx} className="bg-white border text-green-700 px-3 py-1 rounded font-medium shadow-sm animate-pop">{w}</button>))}</div><div className="flex flex-wrap gap-2 justify-center mb-4">{q.words.map((w, idx) => (<button key={idx} onClick={() => handleWordClick(w)} disabled={selectedWords.includes(w) || showResult} className={`px-3 py-1 rounded border transition ${selectedWords.includes(w) ? 'bg-gray-100 text-gray-300' : 'bg-white hover:bg-green-50'}`}>{w}</button>))}</div>{!showResult && (<div className="flex gap-2 justify-center"><button onClick={resetOrder} className="text-gray-500 hover:text-red-500 px-4">Xóa</button><button onClick={checkOrder} className="bg-green-600 text-white px-6 py-2 rounded font-bold hover:bg-green-700">Kiểm tra</button></div>)}</div>) : (<div className="grid gap-3">{q.options.map((opt, idx) => { let cls = "p-3 rounded-lg border text-left hover:bg-gray-50 transition"; if (showResult) { if (opt === q.correct) cls = "p-3 rounded-lg border-2 border-green-500 bg-green-50 text-green-800 font-bold"; else if (opt !== q.correct && !isCorrect) cls = "p-3 rounded-lg border opacity-50"; } return <button key={idx} onClick={() => handleChoice(opt)} disabled={showResult} className={cls}>{opt}</button> })}</div>)}</div>
+                            {showResult && (<div className={`p-4 rounded-xl border-l-4 mb-4 animate-slideUp ${isCorrect ? 'bg-green-50 border-green-500' : 'bg-red-50 border-red-500'}`}><div className="font-bold mb-1 flex items-center gap-2">{isCorrect ? <i className="ph-fill ph-check-circle text-green-600"></i> : <i className="ph-fill ph-x-circle text-red-600"></i>}<span className={isCorrect ? 'text-green-800' : 'text-red-800'}>{isCorrect ? 'Chính xác!' : 'Sai rồi'}</span></div><p className="text-sm text-gray-700 mb-2">{q.type === 'order' ? `Đáp án: ${q.correct.join(' ')}` : `Giải thích: ${q.explain}`}</p><button onClick={nextQuestion} className="w-full bg-slate-800 text-white py-2 rounded-lg font-bold hover:bg-slate-900">Câu tiếp theo</button></div>)}
+                        </div>
+                    </div>
+                </div>
+            );
+        };
+
+        const App = () => {
+            const [tab, setTab] = useState('theory');
+            return (
+                <div className="h-screen flex flex-col">
+                    <header className="bg-white border-b border-gray-200 h-16 flex items-center justify-between px-4 shrink-0 z-20"><h1 className="text-xl font-extrabold text-green-600 flex items-center gap-2"><i className="ph-fill ph-plant"></i> English Base</h1><div className="flex bg-gray-100 p-1 rounded-lg">{['theory', 'vocab', 'practice'].map(t => (<button key={t} onClick={() => setTab(t)} className={`px-3 py-1.5 rounded-md text-sm font-bold capitalize transition ${tab === t ? 'bg-white text-green-600 shadow-sm' : 'text-gray-500 hover:text-gray-700'}`}>{t === 'theory' ? 'Lý Thuyết' : t === 'vocab' ? 'Từ Vựng' : 'Bài Tập'}</button>))}</div></header>
+                    <div className="flex-1 flex overflow-hidden">
+                        <div className="flex-1 flex flex-col relative overflow-hidden">
+                            {tab === 'practice' ? <PracticeSection /> : <div className="flex-1 overflow-y-auto"><div className="max-w-3xl mx-auto p-4">{tab === 'theory' && <TheorySection />}{tab === 'vocab' && <VocabSection />}</div></div>}
+                        </div>
+                        <NoteSidebar />
+                    </div>
+                </div>
+            );
+        };
+
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
+</body>
+</html>

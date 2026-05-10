@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Building_1_coll",
+  "vocab": [
+    {
+      "word": "a forest of skyscrapers",
+      "ipa": "/ə ˈfɒrɪst əv ˈskaɪskreɪpəz/",
+      "meaning": "một rừng các tòa nhà chọc trời",
+      "example": "Living in the heart of the city, I'm surrounded by a forest of skyscrapers that block out much of the natural sunlight.",
+      "type": "collocation"
+    },
+    {
+      "word": "glass-fronted edifice",
+      "ipa": "/ɡlɑːs ˈfrʌntɪd ˈedɪfɪs/",
+      "meaning": "tòa nhà lớn với mặt tiền bằng kính",
+      "example": "Right across from my house sits a striking glass-fronted edifice that serves as a regional corporate headquarters.",
+      "type": "collocation"
+    },
+    {
+      "word": "soar into the sky",
+      "ipa": "/sɔːr ˈɪntə ðə skaɪ/",
+      "meaning": "vươn cao tận trời xanh",
+      "example": "There are several luxury apartments nearby that soar into the sky, offering residents a bird's-eye view of the city.",
+      "type": "collocation"
+    },
+    {
+      "word": "architectural monotony",
+      "ipa": "/ˌɑːkɪˈtektʃərəl məˈnɒtəni/",
+      "meaning": "sự đơn điệu về mặt kiến trúc",
+      "example": "While some admire the tall buildings, I find the architectural monotony of these concrete towers a bit depressing.",
+      "type": "collocation"
+    },
+    {
+      "word": "breathtaking height",
+      "ipa": "/ˈbreθteɪkɪŋ haɪt/",
+      "meaning": "độ cao đến ngạt thở (rất cao)",
+      "example": "A new telecommunications tower is under construction nearby, and its breathtaking height is already visible from miles away.",
+      "type": "collocation"
+    },
+    {
+      "word": "concrete monolith",
+      "ipa": "/ˈkɒŋkriːt ˈmɒnəlɪθ/",
+      "meaning": "khối bê tông khổng lồ (thường chỉ các tòa nhà lớn, thô kệch)",
+      "example": "The area used to be quite open, but it's now characterized by several grey concrete monoliths.",
+      "type": "collocation"
+    },
+    {
+      "word": "futuristic aesthetic",
+      "ipa": "/ˌfjuːtʃəˈrɪstɪk esˈθetɪk/",
+      "meaning": "thẩm mỹ mang tính tương lai",
+      "example": "The tall buildings in my vicinity possess a futuristic aesthetic, featuring sharp angles and reflective surfaces.",
+      "type": "collocation"
+    },
+    {
+      "word": "obliterate the horizon",
+      "ipa": "/əˈblɪtəreɪt ðə həˈraɪzn/",
+      "meaning": "xóa nhòa/che lấp đường chân trời",
+      "example": "These massive structures completely obliterate the horizon, making it hard to tell where the city ends and the sky begins.",
+      "type": "collocation"
+    },
+    {
+      "word": "sky-high rent",
+      "ipa": "/skaɪ haɪ rent/",
+      "meaning": "giá thuê nhà cao ngất ngưởng",
+      "example": "Unsurprisingly, the presence of these modern tall buildings has led to sky-high rent in the surrounding streets.",
+      "type": "collocation"
+    },
+    {
+      "word": "urban renewal project",
+      "ipa": "/ˈɜːbən rɪˈnjuːəl ˈprɒdʒekt/",
+      "meaning": "dự án cải tạo đô thị",
+      "example": "Most of the tall buildings near my residence were built as part of a large-scale urban renewal project ten years ago.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

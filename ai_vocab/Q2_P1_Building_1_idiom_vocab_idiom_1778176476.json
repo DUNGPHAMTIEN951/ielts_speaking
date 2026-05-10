@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Building_1_idiom",
+  "vocab": [
+    {
+      "word": "reach for the stars",
+      "ipa": "/riːtʃ fə(r) ðə stɑː(r)z/",
+      "meaning": "vươn tới những vì sao (chỉ các tòa nhà cực cao)",
+      "example": "The new luxury apartments in my district literally reach for the stars, dominating the local skyline.",
+      "type": "idiom"
+    },
+    {
+      "word": "a bird's-eye view",
+      "ipa": "/ə bɜːdz aɪ vjuː/",
+      "meaning": "tầm nhìn bao quát từ trên cao",
+      "example": "Residents living on the upper floors of those skyscrapers enjoy a spectacular bird's-eye view of the entire city.",
+      "type": "idiom"
+    },
+    {
+      "word": "change the face of",
+      "ipa": "/tʃeɪndʒ ðə feɪs əv/",
+      "meaning": "thay đổi hoàn toàn diện mạo của cái gì",
+      "example": "The construction of several high-rises has completely changed the face of my once quiet neighborhood.",
+      "type": "idiom"
+    },
+    {
+      "word": "part and parcel",
+      "ipa": "/pɑːt ənd ˈpɑːsl/",
+      "meaning": "phần thiết yếu, không thể tách rời",
+      "example": "In a burgeoning metropolis like mine, towering structures are part and parcel of the local environment.",
+      "type": "idiom"
+    },
+    {
+      "word": "spring up like mushrooms",
+      "ipa": "/sprɪŋ ʌp laɪk ˈmʌʃrʊmz/",
+      "meaning": "mọc lên như nấm",
+      "example": "Over the past decade, massive office blocks have started to spring up like mushrooms near my residence.",
+      "type": "idiom"
+    },
+    {
+      "word": "at the heart of",
+      "ipa": "/æt ðə hɑːt əv/",
+      "meaning": "ở trung tâm của cái gì",
+      "example": "Living at the heart of the business district means I am constantly surrounded by imposing glass towers.",
+      "type": "idiom"
+    },
+    {
+      "word": "few and far between",
+      "ipa": "/fjuː ənd fɑː(r) bɪˈtwiːn/",
+      "meaning": "hiếm gặp, không phổ biến",
+      "example": "In my suburban area, tall buildings are few and far between as most structures are traditional bungalows.",
+      "type": "idiom"
+    },
+    {
+      "word": "give way to",
+      "ipa": "/ɡɪv weɪ tu/",
+      "meaning": "bị thay thế bởi cái gì",
+      "example": "The old, low-rise shops are gradually giving way to modern, high-density apartment complexes.",
+      "type": "idiom"
+    },
+    {
+      "word": "the norm",
+      "ipa": "/ðə nɔːm/",
+      "meaning": "chuyện bình thường/phổ biến",
+      "example": "Around here, living in a 30-story building has become the norm due to the extreme scarcity of land.",
+      "type": "idiom"
+    },
+    {
+      "word": "eye-catching",
+      "ipa": "/ˈaɪ kætʃɪŋ/",
+      "meaning": "bắt mắt, thu hút sự chú ý",
+      "example": "There is an eye-catching skyscraper nearby with a unique twisting design that attracts many tourists.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

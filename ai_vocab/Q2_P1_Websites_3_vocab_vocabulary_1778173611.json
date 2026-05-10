@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_3",
+  "vocab": [
+    {
+      "word": "iterative improvement",
+      "ipa": "/ˈɪt.ər.ə.tɪv ɪmˈpruːv.mənt/",
+      "meaning": "sự cải tiến lặp đi lặp lại (thay đổi dần dần)",
+      "example": "Most sites I visit don't change overnight; instead, they undergo constant iterative improvement to fix minor bugs.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "bloated with legacy features",
+      "ipa": "/ˈbləʊ.tɪd wɪð ˈleɡ.ə.si ˈfiː.tʃəz/",
+      "meaning": "trở nên nặng nề vì những tính năng cũ lỗi thời",
+      "example": "I've noticed some older forums are becoming bloated with legacy features that make the site feel quite sluggish.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "pivotal shift in focus",
+      "ipa": "/ˈpɪv.ə.təl ʃɪft ɪn ˈfəʊ.kəs/",
+      "meaning": "sự chuyển dịch trọng tâm mang tính then chốt",
+      "example": "There has been a pivotal shift in focus on my favorite news site toward short-form video rather than text-heavy articles.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "intuitive tactile feedback",
+      "ipa": "/ɪnˈtʃuː.ɪ.tɪv ˈtæk.taɪl ˈfiːd.bæk/",
+      "meaning": "phản hồi chạm/tương tác trực quan",
+      "example": "Recent updates have introduced more intuitive tactile feedback on the mobile web version, enhancing the overall touch experience.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "content curation policy",
+      "ipa": "/ˈkɒn.tent kjʊəˈreɪ.ʃən ˈpɒl.ə.si/",
+      "meaning": "chính sách kiểm duyệt/lọc nội dung",
+      "example": "I've observed a stricter content curation policy on social platforms lately to combat the spread of misinformation.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "clunky interface",
+      "ipa": "/ˈklʌŋ.ki ˈɪn.tə.feɪs/",
+      "meaning": "giao diện vụng về, khó sử dụng",
+      "example": "One site I use recently replaced its clunky interface with a much more fluid and modern navigation system.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "gamification elements",
+      "ipa": "/ˌɡeɪ.mɪ.fɪˈkeɪ.ʃən ˈel.ɪ.mənts/",
+      "meaning": "các yếu tố trò chơi hóa (nhằm tăng tương tác)",
+      "example": "Many e-learning websites have started to include gamification elements like badges and leaderboards to keep students motivated.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "backend infrastructure upgrade",
+      "ipa": "/ˈbæk.end ˌɪn.frəˈstrʌk.tʃər ʌpˈɡreɪd/",
+      "meaning": "nâng cấp cơ sở hạ tầng hệ thống (phần chìm)",
+      "example": "Although the look remains the same, a major backend infrastructure upgrade has made the loading speeds significantly faster.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "personalized dashboard",
+      "ipa": "/ˈpɜː.sən.əl.aɪzd ˈdæʃ.bɔːd/",
+      "meaning": "bảng điều khiển được cá nhân hóa",
+      "example": "The most welcome change was the introduction of a personalized dashboard that highlights my most-read topics.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "transition to a freemium model",
+      "ipa": "/trænˈzɪʃ.ən tuː ə ˈfriː.mi.əm ˈmɒd.əl/",
+      "meaning": "chuyển sang mô hình kinh doanh nửa miễn phí nửa thu phí",
+      "example": "Quite a few design blogs have made the transition to a freemium model, offering basic tips for free while charging for deep-dive tutorials.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

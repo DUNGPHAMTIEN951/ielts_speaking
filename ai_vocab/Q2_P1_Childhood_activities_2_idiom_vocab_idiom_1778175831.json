@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Childhood_activities_2_idiom",
+  "vocab": [
+    {
+      "word": "a home bird",
+      "ipa": "/ə həʊm bɜːrd/",
+      "meaning": "người thích ở nhà (hơn là đi ra ngoài chơi)",
+      "example": "Unlike my adventurous siblings, I was quite a home bird, spending most of my afternoons building Lego sets in my bedroom.",
+      "type": "idiom"
+    },
+    {
+      "word": "be a closed book",
+      "ipa": "/bi ə kləʊzd bʊk/",
+      "meaning": "một chủ đề hoặc hoạt động hoàn toàn xa lạ/bí ẩn",
+      "example": "Outdoor sports were a bit of a closed book to me as a child; I much preferred the quiet company of my drawing pads.",
+      "type": "idiom"
+    },
+    {
+      "word": "a fish out of water",
+      "ipa": "/ə fɪʃ aʊt əv ˈwɔːtər/",
+      "meaning": "cảm thấy lạc lõng (khi làm một hoạt động không phù hợp)",
+      "example": "I felt like a fish out of water whenever I had to play football, as I lacked any sense of athletic coordination.",
+      "type": "idiom"
+    },
+    {
+      "word": "have a green thumb",
+      "ipa": "/hæv ə ɡriːn θʌm/",
+      "meaning": "có khiếu trồng trọt, mát tay chăm sóc cây cối",
+      "example": "I spent hours in the garden with my grandmother because she had a green thumb, and I loved helping her plant seasonal flowers.",
+      "type": "idiom"
+    },
+    {
+      "word": "music to one's ears",
+      "ipa": "/ˈmjuːzɪk tu wʌnz ɪərz/",
+      "meaning": "thông báo hoặc âm thanh khiến ai đó cực kỳ hạnh phúc",
+      "example": "The sound of the ice cream truck was music to my ears after an afternoon of playing tag under the hot sun.",
+      "type": "idiom"
+    },
+    {
+      "word": "be second nature",
+      "ipa": "/bi ˈsekənd ˈneɪtʃər/",
+      "meaning": "một kỹ năng trở nên tự nhiên như bản năng do thực hành nhiều",
+      "example": "Climbing the fruit trees in our orchard became second nature to me by the time I was seven or eight years old.",
+      "type": "idiom"
+    },
+    {
+      "word": "reach for the stars",
+      "ipa": "/riːtʃ fər ðə stɑːrz/",
+      "meaning": "khao khát những điều lớn lao, bay bổng (thường chỉ sự tham vọng của trẻ con)",
+      "example": "We used to build cardboard rockets and pretend we were reaching for the stars in our imaginary space missions.",
+      "type": "idiom"
+    },
+    {
+      "word": "be as happy as Larry",
+      "ipa": "/bi əz ˈhæpi əz ˈlæri/",
+      "meaning": "cực kỳ vui sướng, không lo âu",
+      "example": "Whenever it rained, I would put on my boots and splash in the puddles, feeling as happy as Larry.",
+      "type": "idiom"
+    },
+    {
+      "word": "watch the clock",
+      "ipa": "/wɒtʃ ðə klɒk/",
+      "meaning": "trông ngóng thời gian trôi qua (vì quá háo hức đến giờ chơi)",
+      "example": "I would constantly watch the clock at school, just waiting for the final bell so I could rush home to play hide-and-seek.",
+      "type": "idiom"
+    },
+    {
+      "word": "a feather in one's cap",
+      "ipa": "/ə ˈfeðər ɪn wʌnz kæp/",
+      "meaning": "một thành tích đáng tự hào (đối với trẻ con)",
+      "example": "Winning the neighborhood marbles tournament was a real feather in my cap back in primary school.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

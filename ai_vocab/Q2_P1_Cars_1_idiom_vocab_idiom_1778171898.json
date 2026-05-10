@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_1_idiom",
+  "vocab": [
+    {
+      "word": "catch the eye",
+      "ipa": "/kætʃ ði aɪ/",
+      "meaning": "thu hút sự chú ý",
+      "example": "A bright yellow sports car will definitely catch the eye of every passerby on the street.",
+      "type": "idiom"
+    },
+    {
+      "word": "each to their own",
+      "ipa": "/iːtʃ tuː ðeər əʊn/",
+      "meaning": "mỗi người một ý, tùy sở thích mỗi người",
+      "example": "Some prefer flashy red while others like subtle grey; I guess it's a case of each to their own.",
+      "type": "idiom"
+    },
+    {
+      "word": "a matter of taste",
+      "ipa": "/ə ˈmæt.ər əv teɪst/",
+      "meaning": "vấn đề về gu thẩm mỹ/sở thích",
+      "example": "Whether a car should be matte or glossy is really just a matter of taste rather than functionality.",
+      "type": "idiom"
+    },
+    {
+      "word": "the best of both worlds",
+      "ipa": "/ðə best əv bəʊθ wɜːldz/",
+      "meaning": "vẹn cả đôi đường (vừa đẹp vừa tiện)",
+      "example": "Silver is great because it offers the best of both worlds: it looks sophisticated and hides dirt effectively.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the eye of the beholder",
+      "ipa": "/ɪn ði aɪ əv ðə bɪˈhəʊl.dər/",
+      "meaning": "tùy vào con mắt của người nhìn",
+      "example": "The beauty of a lime green car is definitely in the eye of the beholder, as many might find it too garish.",
+      "type": "idiom"
+    },
+    {
+      "word": "play it safe",
+      "ipa": "/pleɪ ɪt seɪf/",
+      "meaning": "chọn giải pháp an toàn",
+      "example": "Most people play it safe by choosing white or black to ensure they can sell the car easily later.",
+      "type": "idiom"
+    },
+    {
+      "word": "scream luxury",
+      "ipa": "/skriːm ˈlʌk.ʃər.i/",
+      "meaning": "toát lên vẻ sang trọng, xa hoa",
+      "example": "A deep champagne or metallic gold finish can really scream luxury and high social standing.",
+      "type": "idiom"
+    },
+    {
+      "word": "out of the blue",
+      "ipa": "/aʊt əv ðə bluː/",
+      "meaning": "bất ngờ, khác biệt hoàn toàn",
+      "example": "Choosing a neon purple car was a decision that came out of the blue, considering his usually conservative style.",
+      "type": "idiom"
+    },
+    {
+      "word": "a safe bet",
+      "ipa": "/ə seɪf bet/",
+      "meaning": "một lựa chọn chắc chắn, ít rủi ro",
+      "example": "For those worried about maintenance, a light grey car is always a safe bet.",
+      "type": "idiom"
+    },
+    {
+      "word": "down to earth",
+      "ipa": "/daʊn tuː ɜːθ/",
+      "meaning": "bình dân, thực tế, không phô trương",
+      "example": "I prefer dark brown or forest green because they feel more down to earth and less flashy than primary colors.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

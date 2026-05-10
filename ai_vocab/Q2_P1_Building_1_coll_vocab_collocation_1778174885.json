@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Building_1_coll",
+  "vocab": [
+    {
+      "word": "cluttered skyline",
+      "ipa": "/ˈklʌtərd ˈskaɪlaɪn/",
+      "meaning": "đường chân trời lộn xộn (nhiều tòa nhà san sát)",
+      "example": "The area where I live has a rather cluttered skyline due to the rapid influx of commercial developments.",
+      "type": "collocation"
+    },
+    {
+      "word": "a dominant landmark",
+      "ipa": "/ə ˈdɒmɪnənt ˈlændmɑːrk/",
+      "meaning": "một công trình biểu tượng/điểm nhấn nổi bật",
+      "example": "A newly constructed 50-story tower has become a dominant landmark that helps me find my way home.",
+      "type": "collocation"
+    },
+    {
+      "word": "monolithic concrete blocks",
+      "ipa": "/ˌmɒnəˈlɪθɪk ˈkɒŋkriːt blɒks/",
+      "meaning": "những khối bê tông khổng lồ (ám chỉ các tòa nhà thô kệch)",
+      "example": "My neighborhood is mostly comprised of monolithic concrete blocks that serve as affordable housing for city workers.",
+      "type": "collocation"
+    },
+    {
+      "word": "unobstructed panoramic views",
+      "ipa": "/ˌʌnəbˈstrʌktɪd ˌpænəˈræmɪk vjuːz/",
+      "meaning": "tầm nhìn toàn cảnh không bị che khuất",
+      "example": "Residents on the upper floors of those skyscrapers enjoy unobstructed panoramic views of the entire metropolitan area.",
+      "type": "collocation"
+    },
+    {
+      "word": "urban canyon effect",
+      "ipa": "/ˈɜːrbən ˈkænjən ɪˈfekt/",
+      "meaning": "hiệu ứng hẻm núi đô thị (những tòa nhà cao tạo thành khe hẹp)",
+      "example": "The proliferation of high-rises creates an urban canyon effect, making the streets feel much cooler but somewhat claustrophobic.",
+      "type": "collocation"
+    },
+    {
+      "word": "curvilinear glass facade",
+      "ipa": "/ˌkɜːrvɪˈlɪniər ɡlɑːs fəˈsɑːd/",
+      "meaning": "mặt tiền bằng kính với những đường cong",
+      "example": "Just across the street, there is a stunning office building featuring a sophisticated curvilinear glass facade.",
+      "type": "collocation"
+    },
+    {
+      "word": "residential density",
+      "ipa": "/ˌrezɪˈdenʃl ˈdensəti/",
+      "meaning": "mật độ dân cư",
+      "example": "The presence of several tall apartment complexes has significantly increased the residential density of our local community.",
+      "type": "collocation"
+    },
+    {
+      "word": "shimmering skyscraper",
+      "ipa": "/ˈʃɪmərɪŋ ˈskaɪskreɪpər/",
+      "meaning": "tòa nhà chọc trời lấp lánh (phản chiếu ánh sáng)",
+      "example": "At sunset, the shimmering skyscrapers in the distance reflect the golden light, creating a beautiful urban scene.",
+      "type": "collocation"
+    },
+    {
+      "word": "encroach upon",
+      "ipa": "/ɪnˈkrəʊtʃ əˈpɒn/",
+      "meaning": "xâm lấn, lấn át (không gian, tầm nhìn)",
+      "example": "New vertical constructions are beginning to encroach upon the few remaining green spaces in my vicinity.",
+      "type": "collocation"
+    },
+    {
+      "word": "state-of-the-art facilities",
+      "ipa": "/steɪt əv ði ɑːrt fəˈsɪlətiz/",
+      "meaning": "cơ sở vật chất tối tân, hiện đại",
+      "example": "The tall buildings near my house aren't just for show; they house state-of-the-art facilities like rooftop gyms and smart offices.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

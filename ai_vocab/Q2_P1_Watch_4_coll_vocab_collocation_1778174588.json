@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Watch_4_coll",
+  "vocab": [
+    {
+      "word": "a dedicated timekeeping device",
+      "ipa": "/ə ˈdedɪkeɪtɪd ˈtaɪmkiːpɪŋ dɪˈvaɪs/",
+      "meaning": "một thiết bị xem giờ chuyên dụng",
+      "example": "Using a dedicated timekeeping device prevents me from getting sucked into the vortex of social media notifications on my phone.",
+      "type": "collocation"
+    },
+    {
+      "word": "uphold punctuality",
+      "ipa": "/ʌpˈhəʊld ˌpʌŋktʃuˈæləti/",
+      "meaning": "giữ vững sự đúng giờ",
+      "example": "Wearing a watch is a personal commitment to uphold punctuality, ensuring I never keep my clients waiting.",
+      "type": "collocation"
+    },
+    {
+      "word": "analog preference",
+      "ipa": "/ˈænəlɒɡ ˈprefrəns/",
+      "meaning": "sự ưu tiên dành cho đồ kim/truyền thống",
+      "example": "My analog preference stems from the fact that sweeping hands provide a more intuitive grasp of how much of the hour remains.",
+      "type": "collocation"
+    },
+    {
+      "word": "minimize digital footprints",
+      "ipa": "/ˈmɪnɪmaɪz ˈdɪdʒɪtl ˈfʊtprɪnts/",
+      "meaning": "giảm thiểu sự hiện diện/dấu vết kỹ thuật số",
+      "example": "I try to minimize digital footprints in my personal life, so I rely on a mechanical watch rather than a smartwatch.",
+      "type": "collocation"
+    },
+    {
+      "word": "attain a polished look",
+      "ipa": "/əˈteɪn ə ˈpɒlɪʃt lʊk/",
+      "meaning": "có được một vẻ ngoài chỉn chu/hoàn thiện",
+      "example": "A classic leather strap watch is essential to attain a polished look when attending high-profile networking events.",
+      "type": "collocation"
+    },
+    {
+      "word": "temporal boundaries",
+      "ipa": "/ˈtempərəl ˈbaʊndriz/",
+      "meaning": "các ranh giới về thời gian",
+      "example": "Checking my wrist helps me establish strict temporal boundaries between my focused work sessions and leisure time.",
+      "type": "collocation"
+    },
+    {
+      "word": "battery-independent",
+      "ipa": "/ˈbætəri ˌɪndɪˈpendənt/",
+      "meaning": "không phụ thuộc vào pin (đồng hồ cơ/tự động)",
+      "example": "I prefer automatic watches because they are battery-independent, making them reliable during long hiking trips.",
+      "type": "collocation"
+    },
+    {
+      "word": "evoke authoritative presence",
+      "ipa": "/ɪˈvəʊk əˈθɒrɪtətɪv ˈprezns/",
+      "meaning": "gợi lên vẻ uy tín/quyền lực",
+      "example": "In certain industries, a luxury timepiece can evoke an authoritative presence even before a word is spoken.",
+      "type": "collocation"
+    },
+    {
+      "word": "shun the inconvenience",
+      "ipa": "/ʃʌn ðɪ ˌɪnkənˈviːniəns/",
+      "meaning": "tránh sự bất tiện",
+      "example": "I wear a watch to shun the inconvenience of fumbling through my pockets for a phone while carrying groceries.",
+      "type": "collocation"
+    },
+    {
+      "word": "perceived competence",
+      "ipa": "/pəˈsiːvd ˈkɒmpɪtəns/",
+      "meaning": "năng lực được người khác nhìn nhận",
+      "example": "Research suggests that wearing a watch can actually boost your perceived competence in a professional interview setting.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

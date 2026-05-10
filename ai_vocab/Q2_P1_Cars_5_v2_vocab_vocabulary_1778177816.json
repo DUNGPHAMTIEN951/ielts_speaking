@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_5_v2",
+  "vocab": [
+    {
+      "word": "sedentary frustration",
+      "ipa": "/ˈsedntri frʌˈstreɪʃn/",
+      "meaning": "sự bực bội khi phải ngồi yên một chỗ",
+      "example": "To combat the sedentary frustration of a long commute, I try to engage my mind with mentally stimulating tasks.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "hone a skill",
+      "ipa": "/həʊn ə skɪl/",
+      "meaning": "rèn luyện/trau dồi một kỹ năng",
+      "example": "I often use the time stuck in traffic to hone my language skills by listening to foreign language tapes.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "bide one's time",
+      "ipa": "/baɪd wʌnz taɪm/",
+      "meaning": "nhẫn nại chờ đợi thời cơ/thời điểm thích hợp",
+      "example": "Instead of weaving through lanes, I prefer to just bide my time and wait for the congestion to clear naturally.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "sensory overload",
+      "ipa": "/ˈsensəri ˌəʊvəˈləʊd/",
+      "meaning": "quá tải về mặt cảm giác (do tiếng ồn, khói bụi...)",
+      "example": "The sensory overload of honking horns can be taxing, so I put on noise-canceling headphones if I'm a passenger.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "a captive audience",
+      "ipa": "/ə ˈkæptɪv ˈɔːdiəns/",
+      "meaning": "một đối tượng/người nghe không có lựa chọn nào khác ngoài việc phải lắng nghe",
+      "example": "Since my siblings are a captive audience in the car, I usually take the opportunity to discuss our weekend plans.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_5_coll",
+  "vocab": [
+    {
+      "word": "curtail road rage",
+      "ipa": "/kɜːˈteɪl rəʊd reɪdʒ/",
+      "meaning": "kiềm chế sự giận dữ khi lái xe",
+      "example": "To curtail road rage during peak hours, I focus on rhythmic breathing and avoid looking at my watch.",
+      "type": "collocation"
+    },
+    {
+      "word": "agonizingly slow crawl",
+      "ipa": "/ˈæɡənaɪzɪŋli sləʊ krɔːl/",
+      "meaning": "sự di chuyển chậm chạp đến mức khổ sở",
+      "example": "When the traffic reduced to an agonizingly slow crawl, I decided to switch on an educational podcast to stay productive.",
+      "type": "collocation"
+    },
+    {
+      "word": "a state of stasis",
+      "ipa": "/ə steɪt əv ˈsteɪsɪs/",
+      "meaning": "trạng thái ngưng trệ/đứng yên",
+      "example": "Being in a state of stasis on the highway allows me a brief moment to decompress after a long day at the office.",
+      "type": "collocation"
+    },
+    {
+      "word": "tune out the commotion",
+      "ipa": "/tjuːn aʊt ðə kəˈməʊʃn/",
+      "meaning": "phớt lờ/tách biệt khỏi sự ồn ào xung quanh",
+      "example": "I usually put on my noise-canceling headphones to tune out the commotion of honking horns and idling engines.",
+      "type": "collocation"
+    },
+    {
+      "word": "alleviate the tedium",
+      "ipa": "/əˈliːvieɪt ðə ˈtiːdiəm/",
+      "meaning": "giảm bớt sự đơn điệu/chán ngắt",
+      "example": "I often strike up a lighthearted conversation with my fellow passengers to alleviate the tedium of a long wait.",
+      "type": "collocation"
+    },
+    {
+      "word": "unforeseen congestion",
+      "ipa": "/ˌʌnfɔːˈsiːn kənˈdʒestʃən/",
+      "meaning": "sự tắc nghẽn không lường trước được",
+      "example": "Whenever I encounter unforeseen congestion, I use my navigation app to notify my colleagues that I'll be running late.",
+      "type": "collocation"
+    },
+    {
+      "word": "leisurely pace",
+      "ipa": "/ˈleʒəli peɪs/",
+      "meaning": "tốc độ thong thả/chậm rãi",
+      "example": "Since the cars were moving at such a leisurely pace, I found myself observing the intricate architecture of the surrounding buildings.",
+      "type": "collocation"
+    },
+    {
+      "word": "productive endeavor",
+      "ipa": "/prəˈdʌktɪv ɪnˈdevə(r)/",
+      "meaning": "nỗ lực/hoạt động có ích",
+      "example": "I try to turn a traffic jam into a productive endeavor by mentally rehearsing my upcoming presentation.",
+      "type": "collocation"
+    },
+    {
+      "word": "maintain composure",
+      "ipa": "/meɪnˈteɪn kəmˈpəʊʒə(r)/",
+      "meaning": "giữ sự bình tĩnh/điềm tĩnh",
+      "example": "It is quite difficult to maintain composure when you are running late, but I find that soft ambient music helps immensely.",
+      "type": "collocation"
+    },
+    {
+      "word": "navigational detour",
+      "ipa": "/ˌnævɪˈɡeɪʃənl ˈdiːtʊə(r)/",
+      "meaning": "lộ trình vòng/đường tránh",
+      "example": "If the jam looks permanent, I immediately search for a navigational detour to escape the bottleneck.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

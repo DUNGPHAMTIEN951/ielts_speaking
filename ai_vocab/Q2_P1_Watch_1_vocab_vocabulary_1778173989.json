@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Watch_1",
+  "vocab": [
+    {
+      "word": "fashion accessory",
+      "ipa": "/ˈfæʃn əkˈsesəri/",
+      "meaning": "phụ kiện thời trang",
+      "example": "To me, a watch is more than a timepiece; it's a versatile fashion accessory that complements my outfit.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "mechanical intricacy",
+      "ipa": "/məˈkænɪkl ˈɪntrɪkəsi/",
+      "meaning": "sự phức tạp về cơ khí",
+      "example": "I am fascinated by the mechanical intricacy of Swiss watches, even if I cannot afford one yet.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "a family heirloom",
+      "ipa": "/ə ˈfæmili ˈeəluːm/",
+      "meaning": "vật gia bảo / đồ vật gia truyền",
+      "example": "I wear a vintage Omega that was passed down as a family heirloom from my grandfather.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "sentimental value",
+      "ipa": "/ˌsentɪˈmentl ˈvæljuː/",
+      "meaning": "giá trị về mặt tình cảm",
+      "example": "This watch holds great sentimental value for me because it was a graduation gift from my parents.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "punctuality",
+      "ipa": "/ˌpʌŋktʃuˈæləti/",
+      "meaning": "sự đúng giờ",
+      "example": "Wearing a watch helps me maintain a high level of punctuality throughout my hectic workday.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "horological enthusiast",
+      "ipa": "/ˌhɔːrəˈlɒdʒɪkl ɪnˈθjuːziæst/",
+      "meaning": "người đam mê đồng hồ",
+      "example": "As a budding horological enthusiast, I appreciate the craftsmanship that goes into traditional automatic watches.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "distraction-free",
+      "ipa": "/dɪˈstrækʃn friː/",
+      "meaning": "không bị xao nhãng",
+      "example": "Checking the time on a watch is a distraction-free alternative to pulling out a smartphone.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "chronometer",
+      "ipa": "/krəˈnɒmɪtə(r)/",
+      "meaning": "đồng hồ bấm giờ / thiết bị đo thời gian chính xác",
+      "example": "I use a high-end digital chronometer during my morning runs to track my splits accurately.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "exquisite craftsmanship",
+      "ipa": "/ɪkˈskwɪzɪt ˈkrɑːftsmənʃɪp/",
+      "meaning": "tay nghề thủ công tinh xảo",
+      "example": "High-end luxury watches are often admired for their exquisite craftsmanship and attention to detail.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "an essential staple",
+      "ipa": "/ən ɪˈsenʃl ˈsteɪpl/",
+      "meaning": "một món đồ thiết yếu/cơ bản",
+      "example": "A classic leather-strap watch has become an essential staple in my daily wardrobe.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

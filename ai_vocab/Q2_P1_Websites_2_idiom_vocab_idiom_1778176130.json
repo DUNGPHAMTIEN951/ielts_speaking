@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_2_idiom",
+  "vocab": [
+    {
+      "word": "a law unto itself",
+      "ipa": "/ə lɔː ˈʌntuː wʌnˈself/",
+      "meaning": "độc nhất vô nhị, không theo quy chuẩn thông thường",
+      "example": "This experimental design website is a law unto itself, featuring a non-linear navigation that challenges every conventional UI rule.",
+      "type": "idiom"
+    },
+    {
+      "word": "cut the mustard",
+      "ipa": "/kʌt ðə ˈmʌstərd/",
+      "meaning": "đạt được kỳ vọng, đủ tốt để thành công",
+      "example": "I've tried many productivity apps, but only this specific platform really cuts the mustard when it comes to managing complex workflows.",
+      "type": "idiom"
+    },
+    {
+      "word": "separate the sheep from the goats",
+      "ipa": "/ˈsepəreɪt ðə ʃiːp frəm ðə ɡəʊts/",
+      "meaning": "phân biệt giữa nhóm chất lượng và nhóm tầm thường",
+      "example": "The rigorous peer-review process on this site helps to separate the sheep from the goats in the world of independent journalism.",
+      "type": "idiom"
+    },
+    {
+      "word": "the jewel in the crown",
+      "ipa": "/ðə ˈdʒuːəl ɪn ðə kraʊn/",
+      "meaning": "phần giá trị nhất, tuyệt vời nhất",
+      "example": "The interactive archives are the jewel in the crown of the National Geographic website, offering decades of stunning photography.",
+      "type": "idiom"
+    },
+    {
+      "word": "know which way the wind blows",
+      "ipa": "/nəʊ wɪtʃ weɪ ðə wɪnd bləʊz/",
+      "meaning": "nắm bắt được xu hướng, tình hình",
+      "example": "I visit this financial blog daily to know which way the wind blows in the volatile cryptocurrency market.",
+      "type": "idiom"
+    },
+    {
+      "word": "at the sharp end",
+      "ipa": "/ət ðə ʃɑːrp end/",
+      "meaning": "ở vị trí quan trọng/khó khăn nhất của một hoạt động",
+      "example": "This tech site is perfect for those at the sharp end of software development, providing deep-dive tutorials on emerging languages.",
+      "type": "idiom"
+    },
+    {
+      "word": "the lion's share",
+      "ipa": "/ðə ˈlaɪənz ʃeər/",
+      "meaning": "phần lớn nhất, trọng tâm",
+      "example": "Educational content takes up the lion's share of my favorite streaming site, as I prefer documentaries over blockbuster movies.",
+      "type": "idiom"
+    },
+    {
+      "word": "off the hook",
+      "ipa": "/ɒf ðə hʊk/",
+      "meaning": "cực kỳ ấn tượng, xuất sắc",
+      "example": "The user interface on the new Behance update is absolutely off the hook; it's so fluid and visually striking.",
+      "type": "idiom"
+    },
+    {
+      "word": "pull out all the stops",
+      "ipa": "/pʊl aʊt ɔːl ðə stɒps/",
+      "meaning": "nỗ lực hết sức để đạt kết quả tốt nhất",
+      "example": "The developers of this language-learning site have pulled out all the stops to create an immersive, gamified experience.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep a weather eye on",
+      "ipa": "/kiːp ə ˈweðər aɪ ɒn/",
+      "meaning": "theo dõi rất kỹ để phát hiện thay đổi hoặc nguy hiểm",
+      "example": "I always keep a weather eye on the security forums of that site to stay informed about any potential data breaches.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

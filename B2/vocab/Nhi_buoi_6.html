@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tiếng Anh 7 - Unit 6: A Visit to a School (Full 159 Words)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap');
+
+        body {
+            font-family: 'Nunito', sans-serif;
+            background-color: #f5f3ff;
+            overflow-x: hidden;
+            transition: padding-right 0.3s ease-in-out;
+        }
+
+        @media (min-width: 1024px) {
+            body.note-open {
+                padding-right: 20rem;
+            }
+        }
+
+        .tab-active {
+            border-bottom: 3px solid #4f46e5;
+            color: #4338ca;
+            font-weight: 800;
+            background-color: rgba(79, 70, 229, 0.1);
+        }
+
+        .hidden-section {
+            display: none !important;
+        }
+
+        .fade-in {
+            animation: fadeIn 0.4s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .perspective-1000 {
+            perspective: 1000px;
+        }
+
+        .transform-style-3d {
+            transform-style: preserve-3d;
+        }
+
+        .backface-hidden {
+            backface-visibility: hidden;
+        }
+
+        .rotate-y-180 {
+            transform: rotateY(180deg);
+        }
+
+        .flipped {
+            transform: rotateY(180deg);
+        }
+
+        .flashcard-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+            transform-style: preserve-3d;
+            border-radius: 1.5rem;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+        }
+
+        .flashcard-front,
+        .flashcard-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            border-radius: 1.5rem;
+            background: white;
+            border: 2px solid #ddd6fe;
+            padding: 1.5rem;
+        }
+
+        .flashcard-front {
+            background: linear-gradient(135deg, #ffffff 0%, #f5f3ff 100%);
+        }
+
+        .flashcard-back {
+            background: linear-gradient(135deg, #e0e7ff 0%, #fdf2f8 100%);
+            transform: rotateY(180deg);
+        }
+
+        .correct-answer {
+            background-color: #f0fdf4 !important;
+            border-color: #22c55e !important;
+            color: #15803d !important;
+        }
+
+        .wrong-answer {
+            background-color: #fee2e2 !important;
+            border-color: #ef4444 !important;
+            color: #b91c1c !important;
+        }
+
+        .choice-selected {
+            background-color: #ede9fe;
+            border-color: #4f46e5;
+            color: #3730a3;
+            font-weight: bold;
+        }
+
+        .word-bank-item {
+            cursor: pointer;
+            transition: all 0.2s;
+            user-select: none;
+        }
+
+        .word-bank-item:hover {
+            transform: translateY(-2px);
+            background-color: #ede9fe;
+        }
+
+        .word-bank-item.used {
+            opacity: 0.5;
+            pointer-events: none;
+            background-color: #f3f4f6;
+            color: #9ca3af;
+            border-color: #e5e7eb;
+        }
+
+        #toast {
+            visibility: hidden;
+            min-width: 250px;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            border-radius: 8px;
+            padding: 16px;
+            position: fixed;
+            z-index: 100;
+            left: 50%;
+            bottom: 30px;
+            transform: translateX(-50%);
+            opacity: 0;
+            transition: opacity 0.3s, bottom 0.3s;
+        }
+
+        #toast.show {
+            visibility: visible;
+            opacity: 1;
+            bottom: 50px;
+        }
+
+        .pulse-ring {
+            box-shadow: 0 0 0 0 rgba(79, 70, 229, 0.7);
+            animation: pulse-indigo 1.5s infinite;
+        }
+
+        @keyframes pulse-indigo {
+            0% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(79, 70, 229, 0.7);
+            }
+
+            70% {
+                transform: scale(1);
+                box-shadow: 0 0 0 10px rgba(79, 70, 229, 0);
+            }
+
+            100% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(79, 70, 229, 0);
+            }
+        }
+    </style>
+</head>
+
+<body class="min-h-screen flex flex-col text-slate-800 relative">
+    <header class="bg-gradient-to-r from-indigo-600 to-blue-600 text-white p-4 shadow-lg sticky top-0 z-50">
+        <div class="max-w-6xl mx-auto flex justify-between items-center">
+            <div>
+                <h1 class="text-xl md:text-3xl font-extrabold"><i class="fas fa-university mr-2"></i>Unit 6: A Visit to
+                    a School</h1>
+                <p class="text-indigo-100 text-xs md:text-sm font-medium"><span id="header-count">159</span> Words •
+                    Grade 7 (Global Success)</p>
+            </div>
+            <div class="flex gap-2">
+                <button onclick="toggleInfo()"
+                    class="text-sm bg-white/20 hover:bg-white/30 px-3 py-1.5 rounded-lg transition"><i
+                        class="fas fa-info-circle"></i></button>
+                <button onclick="resetApp()"
+                    class="text-sm bg-white/20 hover:bg-white/30 px-3 py-1.5 rounded-lg transition font-semibold">Reset</button>
+            </div>
+        </div>
+    </header>
+    <nav class="bg-white shadow sticky top-[72px] z-40 border-b border-gray-100">
+        <div class="max-w-6xl mx-auto flex justify-start gap-2 md:gap-4 px-4 overflow-x-auto py-2">
+            <button onclick="switchTab('vocab')" id="tab-vocab"
+                class="tab-btn tab-active px-4 py-2 rounded-lg whitespace-nowrap transition-colors"><i
+                    class="fas fa-list mr-2"></i>Từ Vựng</button>
+            <button onclick="switchTab('flashcard')" id="tab-flashcard"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-gray-50"><i
+                    class="fas fa-clone mr-2"></i>Flashcards</button>
+            <button onclick="switchTab('structure')" id="tab-structure"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-gray-50"><i
+                    class="fas fa-microphone-alt mr-2"></i>Cấu Trúc & Nói</button>
+            <button onclick="switchTab('practice')" id="tab-practice"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-gray-50"><i
+                    class="fas fa-tasks mr-2"></i>Bài Tập</button>
+        </div>
+    </nav>
+    <main class="flex-grow max-w-6xl mx-auto w-full p-4 md:p-6 space-y-6 pb-20">
+        <div id="section-vocab" class="fade-in">
+            <div class="mb-6 relative max-w-xl mx-auto"><input type="text" id="searchInput" onkeyup="filterVocab()"
+                    placeholder="🔍 Tìm kiếm..."
+                    class="w-full p-4 rounded-full border border-gray-200 shadow-sm focus:outline-none focus:ring-4 focus:ring-indigo-200 pl-12 transition"><i
+                    class="fas fa-search absolute left-5 top-5 text-gray-400"></i></div>
+            <div class="text-right text-gray-400 text-sm mb-2">Tổng số: <span id="vocab-count"
+                    class="font-bold">0</span> từ</div>
+            <div id="vocab-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4"></div>
+        </div>
+        <div id="section-flashcard" class="hidden-section fade-in flex flex-col items-center">
+            <div class="w-full max-w-lg flex justify-between items-center mb-4 px-4"><span id="fc-index"
+                    class="font-bold text-indigo-600 bg-indigo-100 px-3 py-1 rounded-full text-sm">1 / 159</span>
+                <div class="flex gap-2"><button onclick="toggleShuffle()" id="btn-shuffle"
+                        class="p-2 rounded-full hover:bg-gray-100 text-gray-500 transition"><i
+                            class="fas fa-random"></i></button><button onclick="speakCurrentCard()"
+                        class="p-2 rounded-full hover:bg-gray-100 text-indigo-600 transition"><i
+                            class="fas fa-volume-up text-xl"></i></button></div>
+            </div>
+            <div class="perspective-1000 w-full max-w-md h-[400px] px-4 cursor-pointer group" onclick="flipCard()">
+                <div id="flashcard-inner" class="flashcard-inner relative">
+                    <div class="flashcard-front"><span
+                            class="text-xs font-bold text-gray-400 uppercase tracking-widest mb-4">English</span>
+                        <h2 id="fc-front-text"
+                            class="text-3xl font-extrabold text-indigo-700 text-center break-words mb-4 px-2">...</h2><i
+                            class="fas fa-sync-alt text-gray-300 animate-pulse mt-auto"></i>
+                    </div>
+                    <div class="flashcard-back"><span id="fc-back-type"
+                            class="text-xs font-bold text-white bg-indigo-400 px-2 py-1 rounded mb-2 uppercase">...</span>
+                        <h2 id="fc-back-text" class="text-2xl font-bold text-slate-800 text-center mb-2 px-2">...</h2>
+                        <p id="fc-back-sent" class="text-gray-500 text-sm italic text-center px-2">...</p>
+                    </div>
+                </div>
+            </div>
+            <div class="flex items-center gap-6 mt-8"><button onclick="changeCard(-1)"
+                    class="bg-white hover:bg-gray-50 text-gray-600 w-12 h-12 rounded-full shadow border flex items-center justify-center transition active:scale-95"><i
+                        class="fas fa-arrow-left"></i></button><button onclick="flipCard()"
+                    class="bg-indigo-600 hover:bg-indigo-700 text-white px-8 py-3 rounded-full shadow-lg font-bold transition active:scale-95">Lật
+                    Thẻ</button><button onclick="changeCard(1)"
+                    class="bg-white hover:bg-gray-50 text-gray-600 w-12 h-12 rounded-full shadow border flex items-center justify-center transition active:scale-95"><i
+                        class="fas fa-arrow-right"></i></button></div>
+            <div class="mt-4 flex items-center gap-2 text-sm text-gray-500"><input type="checkbox" id="auto-speak"
+                    class="rounded text-indigo-600"> <label for="auto-speak">Tự động phát âm</label></div>
+        </div>
+        <div id="section-structure" class="hidden-section fade-in">
+            <div class="bg-indigo-50 rounded-xl p-6 mb-6 border-l-4 border-indigo-500">
+                <h2 class="text-xl font-bold text-indigo-900 mb-2">🎯 School Tour</h2>
+                <p class="text-indigo-700 text-sm">Luyện tập mô tả trường học.</p>
+            </div>
+            <div id="structure-card-container"></div>
+            <div class="flex justify-center mt-6 gap-4"><button onclick="prevStructureCard()"
+                    class="bg-white text-gray-600 px-4 py-2 rounded-full shadow hover:bg-gray-50 font-bold"><i
+                        class="fas fa-arrow-left"></i> Trước</button><button onclick="nextStructureCard()"
+                    class="bg-indigo-600 text-white px-6 py-2 rounded-full shadow hover:bg-indigo-700 font-bold">Sau <i
+                        class="fas fa-arrow-right ml-1"></i></button></div>
+        </div>
+        <div id="section-practice" class="hidden-section fade-in">
+            <div class="sticky top-28 md:top-32 bg-[#f5f3ff] pt-2 pb-4 z-20 flex gap-2 overflow-x-auto no-scrollbar">
+                <button onclick="switchPracticeMode('fill')"
+                    class="prac-sub-btn active-prac bg-indigo-100 text-indigo-800 px-4 py-2 rounded-full text-sm font-bold border border-indigo-300 whitespace-nowrap">1.
+                    Spelling</button>
+                <button onclick="switchPracticeMode('wf')"
+                    class="prac-sub-btn bg-white text-gray-600 px-4 py-2 rounded-full text-sm font-bold border border-gray-200 whitespace-nowrap">2.
+                    Word Form</button>
+                <button onclick="switchPracticeMode('type1')"
+                    class="prac-sub-btn bg-white text-gray-600 px-4 py-2 rounded-full text-sm font-bold border border-gray-200 whitespace-nowrap">3.
+                    Trắc nghiệm</button>
+            </div>
+            <div class="text-center text-sm text-gray-500 mb-2 font-bold" id="practice-stats">Trang 1/8</div>
+            <div id="pagination-controls" class="flex flex-wrap gap-2 mb-4 justify-center"></div>
+            <div id="practice-container" class="space-y-4 pb-10"></div>
+            <div class="fixed bottom-6 right-6 z-30"><button onclick="checkCurrentPage()"
+                    class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-full shadow-2xl animate-bounce flex items-center"><i
+                        class="fas fa-check-circle mr-2"></i> Chấm Điểm</button></div>
+        </div>
+    </main>
+    <div id="note-sidebar"
+        class="fixed top-24 right-0 h-[70vh] w-80 bg-white shadow-2xl transform translate-x-full transition-transform duration-300 z-50 rounded-l-2xl border-l border-gray-100 flex flex-col">
+        <button onclick="toggleNote()"
+            class="absolute top-4 -left-12 bg-yellow-400 text-yellow-900 w-12 h-12 rounded-l-xl shadow flex items-center justify-center text-xl hover:bg-yellow-500 transition"><i
+                class="fas fa-pen"></i></button>
+        <div class="bg-yellow-50 p-4 rounded-tl-2xl border-b border-yellow-100 flex justify-between items-center">
+            <h3 class="font-bold text-yellow-800">Ghi Chú</h3><button onclick="toggleNote()"
+                class="text-gray-400 hover:text-gray-600"><i class="fas fa-times"></i></button>
+        </div>
+        <textarea id="note-area" class="flex-grow p-4 bg-yellow-50/30 resize-none outline-none text-gray-700"
+            placeholder="Ghi chú..."></textarea>
+        <div class="p-4 border-t border-gray-100 text-center"><button onclick="exportToWord()"
+                class="w-full bg-blue-600 text-white font-bold py-2 rounded-lg hover:bg-blue-700 transition">Xuất
+                Word</button></div>
+    </div>
+    <div id="toast">Thông báo</div>
+    <script>
+        const vocabData = [
+            { id: 1, en: "visit", vi: "chuyến thăm, đi thăm", type: "n/v" },
+            { id: 2, en: "school facilities", vi: "cơ sở vật chất trường học", type: "n" },
+            { id: 3, en: "school activities", vi: "các hoạt động ở trường", type: "n" },
+            { id: 4, en: "preposition", vi: "giới từ", type: "n" },
+            { id: 5, en: "time", vi: "thời gian", type: "n" },
+            { id: 6, en: "place", vi: "địa điểm", type: "n" },
+            { id: 7, en: "be famous for sth", vi: "nổi tiếng vì cái gì", type: "phrase" },
+            { id: 8, en: "interview", vi: "cuộc phỏng vấn", type: "n/v" },
+            { id: 9, en: "outdoor activity", vi: "hoạt động ngoài trời", type: "n" },
+            { id: 10, en: "ask for sth", vi: "hỏi xin cái gì", type: "v" },
+            { id: 11, en: "prep + N/Ving", vi: "giới từ + N/Ving", type: "rule" },
+            { id: 12, en: "Lower Secondary School", vi: "trường THCS", type: "n" },
+            { id: 13, en: "prepare to V", vi: "chuẩn bị làm gì", type: "v" },
+            { id: 14, en: "preparation", vi: "sự chuẩn bị", type: "n" },
+            { id: 15, en: "sounds great", vi: "nghe thật tuyệt", type: "phrase" },
+            { id: 16, en: "second", vi: "thứ hai", type: "num" },
+            { id: 17, en: "one of the best schools", vi: "một trong số những trường tốt nhất", type: "phrase" },
+            { id: 18, en: "in my neighbourhood", vi: "trong khu vực lân cận nhà tôi", type: "adv" },
+            { id: 19, en: "neighbour", vi: "người hàng xóm", type: "n" },
+            { id: 20, en: "classmate", vi: "bạn cùng lớp", type: "n" },
+            { id: 21, en: "in the morning", vi: "vào buổi sáng", type: "adv" },
+            { id: 22, en: "in the afternoon", vi: "vào buổi chiều", type: "adv" },
+            { id: 23, en: "in the evening", vi: "vào buổi tối", type: "adv" },
+            { id: 24, en: "at noon", vi: "vào buổi trưa", type: "adv" },
+            { id: 25, en: "at night", vi: "vào ban đêm", type: "adv" },
+            { id: 26, en: "at midnight", vi: "vào nửa đêm", type: "adv" },
+            { id: 27, en: "think", vi: "nghĩ", type: "v" },
+            { id: 28, en: "school library", vi: "thư viện trường", type: "n" },
+            { id: 29, en: "computer room", vi: "phòng máy tính", type: "n" },
+            { id: 30, en: "gym", vi: "phòng tập thể dục", type: "n" },
+            { id: 31, en: "share ideas", vi: "chia sẻ ý tưởng", type: "v" },
+            { id: 32, en: "project", vi: "dự án", type: "n" },
+            { id: 33, en: "interesting", vi: "thú vị", type: "adj" },
+            { id: 34, en: "be interested in sth/Ving", vi: "có hứng thú với cái gì", type: "phrase" },
+            { id: 35, en: "what else?", vi: "Còn gì nữa không?", type: "phrase" },
+            { id: 36, en: "member", vi: "thành viên", type: "n" },
+            { id: 37, en: "their", vi: "của họ", type: "pron" },
+            { id: 38, en: "take photos", vi: "chụp ảnh", type: "v" },
+            { id: 39, en: "fantastic", vi: "tuyệt vời", type: "adj" },
+            { id: 40, en: "Don't forget to V", vi: "đừng quên làm gì", type: "phrase" },
+            { id: 41, en: "remind sb of sth", vi: "gợi nhớ ai về cái gì", type: "v" },
+            { id: 42, en: "almost", vi: "hầu như, gần như", type: "adv" },
+            { id: 43, en: "in the countryside", vi: "ở vùng quê, nông thôn", type: "adv" },
+            { id: 44, en: "in the playground", vi: "ở sân chơi", type: "adv" },
+            { id: 45, en: "small", vi: "nhỏ, bé", type: "adj" },
+            { id: 46, en: "children", vi: "những đứa trẻ", type: "n" },
+            { id: 47, en: "learn how to V", vi: "học cách làm gì", type: "v" },
+            { id: 48, en: "use sth", vi: "sử dụng cái gì", type: "v" },
+            { id: 49, en: "twice a week", vi: "hai lần một tuần", type: "adv" },
+            { id: 50, en: "have a meeting", vi: "có một cuộc họp", type: "v" },
+            { id: 51, en: "magazine", vi: "tạp chí", type: "n" },
+            { id: 52, en: "newspaper", vi: "tờ báo", type: "n" },
+            { id: 53, en: "water the vegetables", vi: "tưới rau", type: "v" },
+            { id: 54, en: "biology", vi: "sinh học", type: "n" },
+            { id: 55, en: "Information Technology (IT)", vi: "công nghệ thông tin", type: "n" },
+            { id: 56, en: "physical education (PE)", vi: "môn thể dục", type: "n" },
+            { id: 57, en: "science lab", vi: "phòng thí nghiệm khoa học", type: "n" },
+            { id: 58, en: "maths", vi: "môn toán", type: "n" },
+            { id: 59, en: "entrance examination", vi: "kì thi tuyển sinh", type: "n" },
+            { id: 60, en: "midterm test", vi: "bài kiểm tra giữa kì", type: "n" },
+            { id: 61, en: "gifted students", vi: "học sinh năng khiếu", type: "n" },
+            { id: 62, en: "cover", vi: "bao phủ, bao gồm", type: "v" },
+            { id: 63, en: "first", vi: "thứ nhất", type: "num" },
+            { id: 64, en: "unit", vi: "chủ đề", type: "n" },
+            { id: 65, en: "take part in sth", vi: "tham gia vào cái gì", type: "phrase" },
+            { id: 66, en: "during the school year", vi: "trong suốt năm học", type: "adv" },
+            { id: 67, en: "modern", vi: "hiện đại", type: "adj" },
+            { id: 68, en: "facility", vi: "cơ sở vật chất", type: "n" },
+            { id: 69, en: "in order to V", vi: "để làm gì", type: "phrase" },
+            { id: 70, en: "pass a test", vi: "thi đỗ", type: "v" },
+            { id: 71, en: "fail a test", vi: "thi trượt", type: "v" },
+            { id: 72, en: "gifted", vi: "có năng khiếu", type: "adj" },
+            { id: 73, en: "first-term", vi: "học kì 1", type: "n" },
+            { id: 74, en: "take place", vi: "diễn ra", type: "v" },
+            { id: 75, en: "take a test", vi: "làm bài kiểm tra", type: "v" },
+            { id: 76, en: "What kind of", vi: "thể loại gì", type: "phrase" },
+            { id: 77, en: "cherry", vi: "quả anh đào", type: "n" },
+            { id: 78, en: "cheap", vi: "rẻ", type: "adj" },
+            { id: 79, en: "expensive", vi: "đắt", type: "adj" },
+            { id: 80, en: "have lunch", vi: "ăn trưa", type: "v" },
+            { id: 81, en: "jam", vi: "mứt", type: "n" },
+            { id: 82, en: "juice", vi: "nước ép", type: "n" },
+            { id: 83, en: "large", vi: "to lớn", type: "adj" },
+            { id: 84, en: "intelligent", vi: "thông minh", type: "adj" },
+            { id: 85, en: "at six o'clock", vi: "vào 6 giờ", type: "adv" },
+            { id: 86, en: "at break time", vi: "vào giờ nghỉ giải lao", type: "adv" },
+            { id: 87, en: "in December", vi: "vào Tháng 12", type: "adv" },
+            { id: 88, en: "intelligence", vi: "trí thông minh", type: "n" },
+            { id: 89, en: "in 2022", vi: "vào năm 2022", type: "adv" },
+            { id: 90, en: "on Monday", vi: "vào thứ Hai", type: "adv" },
+            { id: 91, en: "on January 18th", vi: "vào ngày 18/1", type: "adv" },
+            { id: 92, en: "at Christmas", vi: "vào dịp Giáng Sinh", type: "adv" },
+            { id: 93, en: "England", vi: "nước Anh", type: "n" },
+            { id: 94, en: "build", vi: "xây dựng", type: "v" },
+            { id: 95, en: "a long time ago", vi: "Cách đây đã lâu", type: "adv" },
+            { id: 96, en: "maybe", vi: "có lẽ", type: "adv" },
+            { id: 97, en: "on Christmas Day", vi: "vào ngày lễ giáng sinh", type: "adv" },
+            { id: 98, en: "celebrate", vi: "ăn mừng, kỷ niệm", type: "v" },
+            { id: 99, en: "on the board", vi: "trên bảng", type: "adv" },
+            { id: 100, en: "on the wall", vi: "trên tường", type: "adv" },
+            { id: 101, en: "on the second floor", vi: "Trên tầng hai", type: "adv" },
+            { id: 102, en: "at home", vi: "ở nhà", type: "adv" },
+            { id: 103, en: "at school", vi: "ở trường", type: "adv" },
+            { id: 104, en: "at work", vi: "ở chỗ làm", type: "adv" },
+            { id: 105, en: "in the classroom", vi: "ở trong phòng học", type: "adv" },
+            { id: 106, en: "in the school garden", vi: "trong vườn trường", type: "adv" },
+            { id: 107, en: "floor", vi: " sàn nhà", type: "n" },
+            { id: 108, en: "staffroom", vi: "phòng nhân viên", type: "n" },
+            { id: 109, en: "in the kitchen", vi: "trong nhà bếp", type: "adv" },
+            { id: 110, en: "in the office", vi: "ở văn phòng", type: "adv" },
+            { id: 111, en: "at the moment", vi: "bây giờ", type: "adv" },
+            { id: 112, en: "travel agent", vi: "đại lý du lịch", type: "n" },
+            { id: 113, en: "look at sth", vi: "Nhìn cái gì đó", type: "v" },
+            { id: 114, en: "brochure", vi: "sách quảng cáo", type: "n" },
+            { id: 115, en: "lie on the sofa", vi: "nằm trên sofa", type: "v" },
+            { id: 116, en: "poster", vi: "áp phích, quảng cáo", type: "n" },
+            { id: 117, en: "Would you like to V?", vi: "Bạn có muốn ... không?", type: "phrase" },
+            { id: 118, en: "learning resources", vi: "tài liệu học tập", type: "n" },
+            { id: 119, en: "age", vi: "tuổi", type: "n" },
+            { id: 120, en: "laboratory", vi: "phòng thí nghiệm", type: "n" },
+            { id: 121, en: "sports hall", vi: "nhà thi đấu thể thao", type: "n" },
+            { id: 122, en: "activity studio", vi: "trường quay", type: "n" },
+            { id: 123, en: "be different from sth", vi: "khác với cái gì", type: "phrase" },
+            { id: 124, en: "such as", vi: "như là", type: "prep" },
+            { id: 125, en: "literature", vi: "văn học", type: "n" },
+            { id: 126, en: "extra", vi: "thêm", type: "adj" },
+            { id: 127, en: "get involved in sth", vi: "tham gia vào", type: "phrase" },
+            { id: 128, en: "school trip", vi: "chuyến tham quan của trường", type: "n" },
+            { id: 129, en: "on the bank", vi: "trên bờ sông", type: "adv" },
+            { id: 130, en: "found", vi: "thành lập", type: "v" },
+            { id: 131, en: "royal family", vi: "hoàng tộc", type: "n" },
+            { id: 132, en: "well-known", vi: "nổi tiếng = famous", type: "adj" },
+            { id: 133, en: "nowadays", vi: "ngày nay", type: "adv" },
+            { id: 134, en: "study hard", vi: "học chăm chỉ", type: "v" },
+            { id: 135, en: "enter the school", vi: "vào trường học", type: "v" },
+            { id: 136, en: "projector", vi: "máy chiếu", type: "n" },
+            { id: 137, en: "hard-working", vi: "chăm chỉ", type: "adj" },
+            { id: 138, en: "smart", vi: "thông minh = clever = intelligent", type: "adj" },
+            { id: 139, en: "school timetable", vi: "thời khóa biểu ở trường", type: "n" },
+            { id: 140, en: "grow vegetables", vi: "trồng rau", type: "v" },
+            { id: 141, en: "encourage sb to V", vi: "khuyến khích ai làm gì", type: "v" },
+            { id: 142, en: "reporter", vi: "phóng viên", type: "n" },
+            { id: 143, en: "encouragement", vi: "sự động viên, sự khuyến khích", type: "n" },
+            { id: 144, en: "building", vi: "tòa nhà", type: "n" },
+            { id: 145, en: "service", vi: "dịch vụ", type: "n" },
+            { id: 146, en: "equipment", vi: "thiết bị", type: "n" },
+            { id: 147, en: "talented", vi: "= gifted", type: "adj" },
+            { id: 148, en: "find sth adj", vi: "cảm thấy cái gì như thế nào", type: "v" },
+            { id: 149, en: "useful", vi: "hữu ích", type: "adj" },
+            { id: 150, en: "useless", vi: "vô dụng", type: "adj" },
+            { id: 151, en: "attend school", vi: "đến trường", type: "v" },
+            { id: 152, en: "final exam", vi: "Thi cuối kỳ", type: "n" },
+            { id: 153, en: "private school", vi: "trường tư", type: "n" },
+            { id: 154, en: "public school", vi: "trường công", type: "n" },
+            { id: 155, en: "in the suburb", vi: "ở vùng ngoại ô", type: "adv" },
+            { id: 156, en: "join sth", vi: "tham gia vào", type: "v" },
+            { id: 157, en: "mate", vi: "bạn bè", type: "n" },
+            { id: 158, en: "at the weekend", vi: "vào cuối tuần", type: "adv" },
+            { id: 159, en: "enjoyable", vi: "thú vị", type: "adj" }
+        ];
+        let currentTab = 'vocab', currentIndex = 0, isFlipped = false, activeList = [...vocabData], isShuffled = false, currentMode = 'fill', currentPage = 1, itemsPerPage = 20, fullExercises = {}, structIdx = 0;
+        window.onload = function () { document.getElementById('header-count').innerText = vocabData.length; renderVocabLines(); updateFlashcard(); renderStructureCard(); fullExercises = generateExerciseData(); switchPracticeMode('fill'); };
+        function generateExerciseData() {
+            const ex = { fill: [], wf: [], type1: [], type2: [] };
+            vocabData.forEach((w, i) => {
+                ex.fill.push({ id: i, word: w.en, question: `Spelling: ${w.en.replace(/./g, (c, j) => j % 3 === 0 ? '_' : c)}`, answer: w.en });
+                ex.type1.push({ id: i, type: 'choice', question: `Meaning of "${w.en}"?`, options: [w.vi, 'Wrong 1', 'Wrong 2'].sort(() => Math.random() - 0.5), answer: w.vi });
+            });
+            return ex;
+        }
+        function switchTab(t) { currentTab = t; document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('tab-active')); document.getElementById('tab-' + t).classList.add('tab-active'); document.querySelectorAll('main > div').forEach(d => d.classList.add('hidden-section')); document.getElementById('section-' + t).classList.remove('hidden-section'); }
+        function renderVocabLines(f = "") { const g = document.getElementById('vocab-grid'); g.innerHTML = ""; vocabData.filter(i => i.en.includes(f)).forEach(i => { const d = document.createElement('div'); d.className = "bg-white p-4 rounded shadow-sm border"; d.innerHTML = `<h3 class="font-bold">${i.en}</h3><p class="text-sm text-gray-500">${i.vi}</p>`; g.appendChild(d); }); }
+        function updateFlashcard() { const i = activeList[currentIndex]; document.getElementById('fc-front-text').innerText = i.en; document.getElementById('fc-back-text').innerText = i.vi; }
+        function flipCard() { isFlipped = !isFlipped; document.getElementById('flashcard-inner').classList.toggle('flipped'); }
+        function changeCard(d) { currentIndex = (currentIndex + d + activeList.length) % activeList.length; updateFlashcard(); }
+        function speak(t) { window.speechSynthesis.speak(new SpeechSynthesisUtterance(t)); }
+        function switchPracticeMode(m) { currentMode = m; renderPracticePage(); }
+        function renderPracticePage() { const c = document.getElementById('practice-container'); c.innerHTML = "Practice content here..."; }
+    </script>
+</body>
+
+</html>

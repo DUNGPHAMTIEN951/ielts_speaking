@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_3_coll",
+  "vocab": [
+    {
+      "word": "streamline the user journey",
+      "ipa": "/ˈstriːmlaɪn ðə ˈjuːzə ˈdʒɜːni/",
+      "meaning": "tối ưu hóa quy trình trải nghiệm của người dùng",
+      "example": "The latest update to the shopping site aims to streamline the user journey from product discovery to final checkout.",
+      "type": "collocation"
+    },
+    {
+      "word": "undergo a radical transformation",
+      "ipa": "/ˌʌndəˈɡəʊ ə ˈrædɪkl ˌtrænsfəˈmeɪʃn/",
+      "meaning": "trải qua một cuộc biến đổi căn bản/triệt để",
+      "example": "The news portal I follow has undergone a radical transformation, moving away from traditional text to a video-centric format.",
+      "type": "collocation"
+    },
+    {
+      "word": "algorithmically curated feeds",
+      "ipa": "/ˌælɡəˈrɪðmɪkli kjʊəˈreɪtɪd fiːdz/",
+      "meaning": "các luồng nội dung được chọn lọc bằng thuật toán",
+      "example": "I've noticed that most platforms now rely on algorithmically curated feeds, which can sometimes create an echo chamber.",
+      "type": "collocation"
+    },
+    {
+      "word": "feature-rich environment",
+      "ipa": "/ˈfiːtʃə rɪtʃ ɪnˈvaɪrənmənt/",
+      "meaning": "môi trường giàu tính năng/đa dạng công cụ",
+      "example": "Educational websites have evolved into feature-rich environments where you can attend live lectures and take interactive quizzes.",
+      "type": "collocation"
+    },
+    {
+      "word": "responsive design capabilities",
+      "ipa": "/rɪˈspɒnsɪv dɪˈzaɪn ˌkeɪpəˈbɪlətiz/",
+      "meaning": "khả năng thiết kế đáp ứng (tương thích nhiều thiết bị)",
+      "example": "Modern websites have significantly improved their responsive design capabilities, ensuring a flawless look on both tablets and smartphones.",
+      "type": "collocation"
+    },
+    {
+      "word": "obtrusive advertising tactics",
+      "ipa": "/əbˈtruːsɪv ˈædvətaɪzɪŋ ˈtæktɪks/",
+      "meaning": "các chiến thuật quảng cáo gây khó chịu/phiền nhiễu",
+      "example": "A frustrating change is the rise of obtrusive advertising tactics, such as auto-playing videos that disrupt your reading flow.",
+      "type": "collocation"
+    },
+    {
+      "word": "monetize user data",
+      "ipa": "/ˈmʌnɪtaɪz ˈjuːzə ˈdeɪtə/",
+      "meaning": "kiếm tiền từ dữ liệu người dùng",
+      "example": "The shift in privacy policies suggests that many free websites are looking for new ways to monetize user data more aggressively.",
+      "type": "collocation"
+    },
+    {
+      "word": "dark mode functionality",
+      "ipa": "/dɑːk məʊd ˌfʌŋkʃəˈnæliti/",
+      "meaning": "tính năng chế độ tối (giao diện tối)",
+      "example": "One of the most welcomed changes is the widespread adoption of dark mode functionality, which reduces eye strain during late-night browsing.",
+      "type": "collocation"
+    },
+    {
+      "word": "bolster community engagement",
+      "ipa": "/ˈbəʊlstə kəˈmjuːnəti ɪnˈɡeɪdʒmənt/",
+      "meaning": "thúc đẩy sự tương tác của cộng đồng",
+      "example": "Many blogs have added forums and live chat features to bolster community engagement among their regular readers.",
+      "type": "collocation"
+    },
+    {
+      "word": "intermittent technical glitches",
+      "ipa": "/ˌɪntəˈmɪtənt ˈteknɪkl ˈɡlɪtʃɪz/",
+      "meaning": "các sự cố kỹ thuật gián đoạn/chập chờn",
+      "example": "Since the recent server migration, the website has been plagued by intermittent technical glitches that hinder navigation.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

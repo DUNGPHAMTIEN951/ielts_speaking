@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_4_idiom",
+  "vocab": [
+    {
+      "word": "call the shots",
+      "ipa": "/kɔːl ðə ʃɒts/",
+      "meaning": "đưa ra quyết định, làm chủ tình thế",
+      "example": "I enjoy being the driver because I get to call the shots regarding the route and the departure time.",
+      "type": "idiom"
+    },
+    {
+      "word": "take a back seat",
+      "ipa": "/teɪk ə bæk siːt/",
+      "meaning": "đóng vai trò phụ, để người khác điều khiển (nghĩa bóng)",
+      "example": "When I'm feeling exhausted, I’m more than happy to take a back seat and let my friend handle the navigation.",
+      "type": "idiom"
+    },
+    {
+      "word": "watch the world go by",
+      "ipa": "/wɒtʃ ðə wɜːld ɡəʊ baɪ/",
+      "meaning": "thong thả ngắm nhìn cuộc sống trôi qua",
+      "example": "Being a passenger is wonderful as it allows me to simply sit back and watch the world go by through the window.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep one's eyes peeled",
+      "ipa": "/kiːp wʌnz aɪz piːld/",
+      "meaning": "cảnh giác cao độ, nhìn chăm chú (tìm kiếm gì đó)",
+      "example": "As a driver, you have to keep your eyes peeled for sudden hazards, which can be quite taxing over long distances.",
+      "type": "idiom"
+    },
+    {
+      "word": "a change of pace",
+      "ipa": "/ə tʃeɪndʒ əv peɪs/",
+      "meaning": "một sự thay đổi nhịp độ (để thú vị hơn)",
+      "example": "I usually drive, but being a passenger is a nice change of pace that lets me relax and enjoy a podcast.",
+      "type": "idiom"
+    },
+    {
+      "word": "be in one's element",
+      "ipa": "/bi ɪn wʌnz ˈelɪmənt/",
+      "meaning": "như cá gặp nước (làm điều mình giỏi/thích)",
+      "example": "My brother is in his element when he's behind the wheel, but I prefer the tranquility of the passenger side.",
+      "type": "idiom"
+    },
+    {
+      "word": "at a snail's pace",
+      "ipa": "/æt ə sneɪlz peɪs/",
+      "meaning": "chậm như sên",
+      "example": "Driving at a snail's pace in rush hour traffic is incredibly frustrating; I'd much rather be a passenger and read a book then.",
+      "type": "idiom"
+    },
+    {
+      "word": "put your feet up",
+      "ipa": "/pʊt jɔː(r) fiːt ʌp/",
+      "meaning": "thư giãn, nghỉ ngơi",
+      "example": "It's a luxury to be able to put your feet up and let someone else navigate the complex city streets.",
+      "type": "idiom"
+    },
+    {
+      "word": "go with the flow",
+      "ipa": "/ɡəʊ wɪð ðə fləʊ/",
+      "meaning": "theo ý mọi người, không cần tính toán",
+      "example": "As a passenger, I just go with the flow and enjoy whatever stops the driver decides to make.",
+      "type": "idiom"
+    },
+    {
+      "word": "stay on the ball",
+      "ipa": "/steɪ ɒn ðə bɔːl/",
+      "meaning": "duy trì sự tập trung và nhạy bén",
+      "example": "Driving requires you to stay on the ball at all times, whereas being a passenger is completely stress-free.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

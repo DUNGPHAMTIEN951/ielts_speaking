@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_5_id2",
+  "vocab": [
+    {
+      "word": "let off steam",
+      "ipa": "/let ɒf stiːm/",
+      "meaning": "xả cơn giận/giải tỏa căng thẳng",
+      "example": "To avoid getting frustrated in a jam, I often sing along to loud music just to let off steam.",
+      "type": "idiom"
+    },
+    {
+      "word": "twiddle one's thumbs",
+      "ipa": "/ˈtwɪdl wʌnz θʌmz/",
+      "meaning": "ngồi không/không có việc gì làm (thường do chờ đợi)",
+      "example": "Instead of just twiddling my thumbs while the traffic is at a standstill, I prefer to listen to educational podcasts.",
+      "type": "idiom"
+    },
+    {
+      "word": "get the show on the road",
+      "ipa": "/ɡet ðə ʃəʊ ɒn ðə rəʊd/",
+      "meaning": "bắt đầu hành trình/khởi hành (thường dùng khi mong muốn di chuyển tiếp)",
+      "example": "After being stuck for thirty minutes, I’m always itching to finally get the show on the road again.",
+      "type": "idiom"
+    },
+    {
+      "word": "lose one's bearings",
+      "ipa": "/luːz wʌnz ˈbeərɪŋz/",
+      "meaning": "mất phương hướng/lúng túng",
+      "example": "In a massive gridlock, it's easy to lose your bearings, so I usually check my GPS for an alternative route.",
+      "type": "idiom"
+    },
+    {
+      "word": "watch the world go by",
+      "ipa": "/wɒtʃ ðə wɜːld ɡəʊ baɪ/",
+      "meaning": "quan sát thế giới xung quanh trôi qua",
+      "example": "If I'm a passenger during a delay, I quite enjoy just sitting back and watching the world go by through the window.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

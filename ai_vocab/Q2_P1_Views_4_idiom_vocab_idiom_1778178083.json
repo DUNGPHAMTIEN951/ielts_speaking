@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Views_4_idiom",
+  "vocab": [
+    {
+      "word": "a sight for sore eyes",
+      "ipa": "/ə saɪt fə(r) sɔː(r) aɪz/",
+      "meaning": "một cảnh tượng cực kỳ dễ chịu/đáng mừng khi nhìn thấy",
+      "example": "After hiking for six hours in the dark, the sunrise over the valley was a sight for sore eyes.",
+      "type": "idiom"
+    },
+    {
+      "word": "take one's breath away",
+      "ipa": "/teɪk wʌnz breθ əˈweɪ/",
+      "meaning": "làm ai đó kinh ngạc đến mức nghẹt thở",
+      "example": "The sheer scale of the limestone islands in Ha Long Bay truly took my breath away the first time I saw them.",
+      "type": "idiom"
+    },
+    {
+      "word": "on top of the world",
+      "ipa": "/ɒn tɒp əv ðə wɜːld/",
+      "meaning": "cảm giác cực kỳ hạnh phúc/mãn nguyện (như đang đứng trên đỉnh thế giới)",
+      "example": "Standing at the peak of Fansipan and looking down at the clouds made me feel like I was on top of the world.",
+      "type": "idiom"
+    },
+    {
+      "word": "a picture is worth a thousand words",
+      "ipa": "/ə ˈpɪktʃə(r) ɪz wɜːθ ə ˈθaʊznd wɜːdz/",
+      "meaning": "một bức tranh/cảnh tượng có giá trị hơn vạn lời nói",
+      "example": "I tried to describe the Northern Lights to my friends, but a picture is worth a thousand words; you have to see it to believe it.",
+      "type": "idiom"
+    },
+    {
+      "word": "feast your eyes on",
+      "ipa": "/fiːst jɔː(r) aɪz ɒn/",
+      "meaning": "thỏa sức ngắm nhìn/chiêm ngưỡng",
+      "example": "We reached the balcony just in time to feast our eyes on the panoramic view of the Eiffel Tower at night.",
+      "type": "idiom"
+    },
+    {
+      "word": "out of this world",
+      "ipa": "/aʊt əv ðɪs wɜːld/",
+      "meaning": "tuyệt vời, không tưởng (như ở thế giới khác)",
+      "example": "The turquoise color of the water in the Maldives is simply out of this world; I’ve never seen anything like it.",
+      "type": "idiom"
+    },
+    {
+      "word": "knock someone's socks off",
+      "ipa": "/nɒk ˈsʌmwʌnz sɒks ɒf/",
+      "meaning": "làm ai đó cực kỳ ấn tượng hoặc ngạc nhiên",
+      "example": "The view from the rooftop bar really knocked my socks off with its 360-degree perspective of the city.",
+      "type": "idiom"
+    },
+    {
+      "word": "stop someone in their tracks",
+      "ipa": "/stɒp ˈsʌmwʌn ɪn ðeə(r) træks/",
+      "meaning": "khiến ai đó phải dừng lại ngay lập tức (vì quá bất ngờ/đẹp)",
+      "example": "The sudden appearance of the rainbow over the waterfall stopped me in my tracks.",
+      "type": "idiom"
+    },
+    {
+      "word": "a stone's throw away",
+      "ipa": "/ə stəʊnz θrəʊ əˈweɪ/",
+      "meaning": "rất gần (thường dùng để mô tả vị trí của một view đẹp so với nơi ở)",
+      "example": "My hotel was just a stone's throw away from the beach, so I had an unforgettable ocean view every morning.",
+      "type": "idiom"
+    },
+    {
+      "word": "the icing on the cake",
+      "ipa": "/ðɪ ˈaɪsɪŋ ɒn ðə keɪk/",
+      "meaning": "niềm vui nhân đôi (một điều tốt đẹp khiến một tình huống vốn đã tốt trở nên hoàn hảo hơn)",
+      "example": "The hike was great, but seeing a family of deer in the meadow was the icing on the cake for that beautiful trip.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

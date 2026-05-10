@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_4_coll",
+  "vocab": [
+    {
+      "word": "command a massive following",
+      "ipa": "/kəˈmɑːnd ə ˈmæsɪv ˈfɒləʊɪŋ/",
+      "meaning": "thu hút một lượng người theo dõi khổng lồ",
+      "example": "Social networking sites command a massive following in my country, as people are inherently social creatures.",
+      "type": "collocation"
+    },
+    {
+      "word": "the advent of",
+      "ipa": "/ði ˈædvent əv/",
+      "meaning": "sự ra đời/xuất hiện của (một công nghệ/xu hướng)",
+      "example": "With the advent of high-speed internet, video streaming platforms have skyrocketed in popularity.",
+      "type": "collocation"
+    },
+    {
+      "word": "bridge the geographical gap",
+      "ipa": "/brɪdʒ ðə ˌdʒiəˈɡræfɪkl ɡæp/",
+      "meaning": "xóa bỏ/kết nối khoảng cách địa lý",
+      "example": "Communication websites help bridge the geographical gap for those working far away from their hometowns.",
+      "type": "collocation"
+    },
+    {
+      "word": "be part and parcel of",
+      "ipa": "/bi pɑːt ənd ˈpɑːsl əv/",
+      "meaning": "là phần thiết yếu/không thể tách rời của...",
+      "example": "Checking online news portals has become part and parcel of the daily morning routine for most urban dwellers.",
+      "type": "collocation"
+    },
+    {
+      "word": "a surge in demand for",
+      "ipa": "/ə sɜːdʒ ɪn dɪˈmɑːnd fɔː(r)/",
+      "meaning": "sự gia tăng đột biến trong nhu cầu về...",
+      "example": "There has been a surge in demand for fintech websites that offer quick and hassle-free digital payments.",
+      "type": "collocation"
+    },
+    {
+      "word": "garner significant attention",
+      "ipa": "/ˈɡɑːnə(r) sɪɡˈnɪfɪkənt əˈtenʃn/",
+      "meaning": "thu hút được sự chú ý đáng kể",
+      "example": "Job-seeking platforms garner significant attention from fresh graduates looking to kickstart their careers.",
+      "type": "collocation"
+    },
+    {
+      "word": "facilitate online transactions",
+      "ipa": "/fəˈsɪlɪteɪt ˈɒnlaɪn trænˈzækʃnz/",
+      "meaning": "tạo điều kiện/thúc đẩy các giao dịch trực tuyến",
+      "example": "E-commerce giants have revolutionized the way we shop by using advanced tech to facilitate online transactions safely.",
+      "type": "collocation"
+    },
+    {
+      "word": "be at the forefront of",
+      "ipa": "/bi æt ðə ˈfɔːfrʌnt əv/",
+      "meaning": "dẫn đầu/ở vị trí tiên phong của...",
+      "example": "Tech blogs are at the forefront of the digital movement, providing early reviews of the latest gadgets.",
+      "type": "collocation"
+    },
+    {
+      "word": "tailored to local preferences",
+      "ipa": "/ˈteɪləd tu ˈləʊkl ˈprefrənsɪz/",
+      "meaning": "được điều chỉnh để phù hợp với sở thích địa phương",
+      "example": "Local streaming services are often preferred over global ones because their content is tailored to local preferences.",
+      "type": "collocation"
+    },
+    {
+      "word": "heavily reliant on",
+      "ipa": "/ˈhevɪli rɪˈlaɪənt ɒn/",
+      "meaning": "phụ thuộc nặng nề vào...",
+      "example": "The modern workforce is now heavily reliant on cloud-based websites for remote collaboration and data storage.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

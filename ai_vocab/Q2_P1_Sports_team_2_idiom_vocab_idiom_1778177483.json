@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Sports_team_2_idiom",
+  "vocab": [
+    {
+      "word": "a home run",
+      "ipa": "/ə həʊm rʌn/",
+      "meaning": "một thành công rực rỡ/ấn tượng",
+      "example": "The decision to host the regional tournament was a home run for our city's tourism and local pride.",
+      "type": "idiom"
+    },
+    {
+      "word": "level the score",
+      "ipa": "/ˈlevl ðə skɔː(r)/",
+      "meaning": "gỡ hòa (nghĩa bóng: trả đũa hoặc làm cho tình thế cân bằng)",
+      "example": "Team sports are popular because they give people a chance to level the score against historical rivals on the pitch.",
+      "type": "idiom"
+    },
+    {
+      "word": "on the ball",
+      "ipa": "/ɒn ðə bɔːl/",
+      "meaning": "nhạy bén, hiểu nhanh vấn đề",
+      "example": "In our culture, coaches expect young players to be on the ball both in terms of tactics and sportsmanship.",
+      "type": "idiom"
+    },
+    {
+      "word": "the front-runner",
+      "ipa": "/ðə frʌnt ˈrʌnə(r)/",
+      "meaning": "người dẫn đầu, ứng cử viên sáng giá nhất",
+      "example": "Football is undoubtedly the front-runner when it comes to the most watched and played sports in my country.",
+      "type": "idiom"
+    },
+    {
+      "word": "drop the ball",
+      "ipa": "/drɒp ðə bɔːl/",
+      "meaning": "mắc sai lầm do bất cẩn",
+      "example": "When the national team drops the ball in a major game, you can feel a collective sense of disappointment across the nation.",
+      "type": "idiom"
+    },
+    {
+      "word": "a whole new ball game",
+      "ipa": "/ə həʊl njuː bɔːl ɡeɪm/",
+      "meaning": "một cục diện hoàn toàn mới/tình huống khác biệt",
+      "example": "Watching a match in the stadium is a whole new ball game compared to just viewing it on a television screen.",
+      "type": "idiom"
+    },
+    {
+      "word": "call the shots",
+      "ipa": "/kɔːl ðə ʃɒts/",
+      "meaning": "người đưa ra quyết định, chỉ huy",
+      "example": "While fans love to debate, it's ultimately the head coach who calls the shots and determines the team's destiny.",
+      "type": "idiom"
+    },
+    {
+      "word": "heavy hitter",
+      "ipa": "/ˈhevi ˈhɪtə(r)/",
+      "meaning": "người/tổ chức có tầm ảnh hưởng lớn, quyền lực",
+      "example": "Our local league has several heavy hitters—teams with massive budgets and star-studded lineups.",
+      "type": "idiom"
+    },
+    {
+      "word": "par for the course",
+      "ipa": "/pɑː(r) fə ðə kɔː(r)/",
+      "meaning": "chuyện thường tình, không có gì đáng ngạc nhiên",
+      "example": "Intense celebrations after a victory are par for the course in a country so obsessed with collective sports.",
+      "type": "idiom"
+    },
+    {
+      "word": "throw in the towel",
+      "ipa": "/θrəʊ ɪn ðə ˈtaʊəl/",
+      "meaning": "bỏ cuộc, đầu hàng",
+      "example": "Even when facing much stronger opponents, our national teams are taught never to throw in the towel until the final whistle.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

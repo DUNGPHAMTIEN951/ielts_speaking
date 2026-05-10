@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Websites_1_id1",
+  "vocab": [
+    {
+      "word": "a mine of information",
+      "ipa": "/ə maɪn əv ˌɪn.fəˈmeɪ.ʃən/",
+      "meaning": "một kho tàng thông tin vô tận",
+      "example": "I find Wikipedia to be a real mine of information whenever I need to research a new topic for my studies.",
+      "type": "idiom"
+    },
+    {
+      "word": "at one's fingertips",
+      "ipa": "/æt wʌnz ˈfɪŋ.ɡə.tɪps/",
+      "meaning": "có sẵn ngay lập tức, dễ dàng truy cập",
+      "example": "The best thing about news websites is that they put breaking stories right at your fingertips, no matter where you are.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep an eye on",
+      "ipa": "/kiːp ən aɪ ɒn/",
+      "meaning": "theo dõi sát sao, để mắt đến",
+      "example": "I regularly visit financial websites to keep an eye on the latest stock market trends and investment opportunities.",
+      "type": "idiom"
+    },
+    {
+      "word": "cut to the chase",
+      "ipa": "/kʌt tə ðə tʃeɪs/",
+      "meaning": "đi thẳng vào vấn đề (thích các web không rườm rà)",
+      "example": "I prefer minimalist blogs that cut to the chase rather than those filled with endless pop-up ads and irrelevant content.",
+      "type": "idiom"
+    },
+    {
+      "word": "broaden one's horizons",
+      "ipa": "/ˈbrɔː.dən wʌnz həˈraɪ.zənz/",
+      "meaning": "mở rộng tầm hiểu biết/kiến thức",
+      "example": "Visiting travel websites and cultural forums really helps to broaden my horizons by showing me different ways of life around the globe.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

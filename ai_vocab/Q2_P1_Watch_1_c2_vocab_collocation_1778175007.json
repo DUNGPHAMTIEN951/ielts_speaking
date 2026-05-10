@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Watch_1_c2",
+  "vocab": [
+    {
+      "word": "tangible connection",
+      "ipa": "/ˈtændʒəbl kəˈnekʃn/",
+      "meaning": "sự kết nối hữu hình",
+      "example": "Wearing an analog watch provides a tangible connection to the past in an era dominated by intangible digital data.",
+      "type": "collocation"
+    },
+    {
+      "word": "aesthetic appeal",
+      "ipa": "/esˈθetɪk əˈpiːl/",
+      "meaning": "sức hút về mặt thẩm mỹ",
+      "example": "Beyond its basic function, I prioritize the aesthetic appeal of a watch, opting for designs that reflect my personal style.",
+      "type": "collocation"
+    },
+    {
+      "word": "track health metrics",
+      "ipa": "/træk helθ ˈmetrɪks/",
+      "meaning": "theo dõi các chỉ số sức khỏe",
+      "example": "I wear a fitness tracker primarily to track health metrics like heart rate and sleep patterns throughout the day.",
+      "type": "collocation"
+    },
+    {
+      "word": "horological masterpiece",
+      "ipa": "/ˌhɒrəˈlɒdʒɪkl ˈmɑːstəpiːs/",
+      "meaning": "kiệt tác nghệ thuật chế tác đồng hồ",
+      "example": "Some people collect watches as an investment, viewing each high-end watch as a horological masterpiece.",
+      "type": "collocation"
+    },
+    {
+      "word": "a redundant accessory",
+      "ipa": "/ə rɪˈdʌndənt əkˈsesəri/",
+      "meaning": "một phụ kiện dư thừa/không cần thiết",
+      "example": "With smartphones being so pervasive, many of my peers consider a traditional wristwatch to be a redundant accessory.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

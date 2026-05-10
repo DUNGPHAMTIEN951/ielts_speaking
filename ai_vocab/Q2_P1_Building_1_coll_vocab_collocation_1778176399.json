@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Building_1_coll",
+  "vocab": [
+    {
+      "word": "cluttered skyline",
+      "ipa": "/ˈklʌtəd ˈskaɪlaɪn/",
+      "meaning": "đường chân trời lộn xộn/dày đặc (do nhiều tòa nhà)",
+      "example": "The once clear view of the hills has been replaced by a cluttered skyline of luxury condominiums.",
+      "type": "collocation"
+    },
+    {
+      "word": "mixed-use development",
+      "ipa": "/mɪkst juːs dɪˈveləpmənt/",
+      "meaning": "khu phức hợp đa năng (nhà ở, văn phòng, thương mại)",
+      "example": "Several mixed-use developments have recently cropped up near my home, providing both residential units and retail spaces.",
+      "type": "collocation"
+    },
+    {
+      "word": "monolithic structure",
+      "ipa": "/ˌmɒnəˈlɪθɪk ˈstrʌktʃə(r)/",
+      "meaning": "công trình khổng lồ/nguyên khối (thường chỉ sự đồ sộ, đơn điệu)",
+      "example": "There is a monolithic structure currently under construction that is set to become the tallest office building in the district.",
+      "type": "collocation"
+    },
+    {
+      "word": "blot on the landscape",
+      "ipa": "/blɒt ɒn ðə ˈlændskeɪp/",
+      "meaning": "vật làm xấu đi cảnh quan chung",
+      "example": "Many residents consider the new brutalist high-rise to be a blot on the landscape of our traditional neighborhood.",
+      "type": "collocation"
+    },
+    {
+      "word": "sky-high rents",
+      "ipa": "/skaɪ haɪ rents/",
+      "meaning": "giá thuê nhà cao ngất ngưởng",
+      "example": "The proliferation of skyscrapers in my area has unfortunately led to sky-high rents for the surrounding apartments.",
+      "type": "collocation"
+    },
+    {
+      "word": "cast a long shadow",
+      "ipa": "/kɑːst ə lɒŋ ˈʃædəʊ/",
+      "meaning": "đổ bóng dài (nghĩa đen) / gây ảnh hưởng lớn (nghĩa bóng)",
+      "example": "The 60-story tower next to my flat casts a long shadow over my garden, depriving my plants of direct sunlight.",
+      "type": "collocation"
+    },
+    {
+      "word": "residential hub",
+      "ipa": "/ˌrezɪˈdenʃl hʌb/",
+      "meaning": "trung tâm/khu vực tập trung đông dân cư",
+      "example": "My suburb is rapidly transforming into a residential hub, characterized by numerous high-rise apartment blocks.",
+      "type": "collocation"
+    },
+    {
+      "word": "shimmering glass facade",
+      "ipa": "/ˈʃɪmərɪŋ ɡlɑːs fəˈsɑːd/",
+      "meaning": "mặt tiền bằng kính lung linh",
+      "example": "I am particularly fond of the new tech center nearby, which features a shimmering glass facade that reflects the sunset.",
+      "type": "collocation"
+    },
+    {
+      "word": "stifling atmosphere",
+      "ipa": "/ˈstaɪflɪŋ ˈætməsfɪə(r)/",
+      "meaning": "bầu không khí ngột ngạt",
+      "example": "The sheer number of tall buildings creates a somewhat stifling atmosphere, as they block the natural airflow through the streets.",
+      "type": "collocation"
+    },
+    {
+      "word": "eyesore",
+      "ipa": "/ˈaɪsɔː(r)/",
+      "meaning": "vật chướng mắt (thường chỉ các công trình xấu xí)",
+      "example": "To be honest, the half-finished skyscraper at the end of the road is a bit of an eyesore for the local community.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

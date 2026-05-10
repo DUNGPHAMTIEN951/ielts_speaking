@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_3_id1",
+  "vocab": [
+    {
+      "word": "cost an arm and a leg",
+      "ipa": "/kɒst ən ɑːm ənd ə leɡ/",
+      "meaning": "rất đắt đỏ, tốn kém cực kỳ",
+      "example": "I’ve always admired high-end sports cars, even though maintaining one would probably cost an arm and a leg.",
+      "type": "idiom"
+    },
+    {
+      "word": "a gas guzzler",
+      "ipa": "/ə ɡæs ˈɡʌzlə(r)/",
+      "meaning": "một chiếc xe cực kỳ tốn xăng",
+      "example": "I'm not a fan of old, oversized SUVs because they are typically gas guzzlers and aren't eco-friendly at all.",
+      "type": "idiom"
+    },
+    {
+      "word": "bells and whistles",
+      "ipa": "/belz ənd ˈwɪslz/",
+      "meaning": "các tính năng phụ trợ hào nhoáng, hiện đại (thường không quá thiết yếu)",
+      "example": "I prefer modern electric cars because they come with all the latest bells and whistles, like self-parking and touch-screen dashboards.",
+      "type": "idiom"
+    },
+    {
+      "word": "break the mold",
+      "ipa": "/breɪk ðə məʊld/",
+      "meaning": "phá cách, làm điều gì đó khác biệt hoàn toàn so với truyền thống",
+      "example": "I like vehicles that break the mold in terms of design, such as the futuristic-looking Cybertruck.",
+      "type": "idiom"
+    },
+    {
+      "word": "smooth as silk",
+      "ipa": "/smuːð əz sɪlk/",
+      "meaning": "mượt mà như lụa/êm ru",
+      "example": "I lean towards luxury sedans because the driving experience is as smooth as silk, even on uneven road surfaces.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Building_1_idiom",
+  "vocab": [
+    {
+      "word": "a bird's-eye view",
+      "ipa": "/ə bɜːdz aɪ vjuː/",
+      "meaning": "tầm nhìn bao quát từ trên cao",
+      "example": "Living on the 30th floor of a nearby tower gives you a bird's-eye view of the entire city layout.",
+      "type": "idiom"
+    },
+    {
+      "word": "reach for the stars",
+      "ipa": "/riːtʃ fə ðə stɑːz/",
+      "meaning": "vươn tới những vì sao (chỉ sự cao chót vót của tòa nhà)",
+      "example": "There are several state-of-the-art skyscrapers near my house that seem to reach for the stars.",
+      "type": "idiom"
+    },
+    {
+      "word": "part and parcel",
+      "ipa": "/pɑːt ənd ˈpɑːsl/",
+      "meaning": "phần thiết yếu, không thể tách rời",
+      "example": "High-rise apartments are part and parcel of living in such a densely populated neighborhood.",
+      "type": "idiom"
+    },
+    {
+      "word": "eyesore",
+      "ipa": "/ˈaɪsɔː(r)/",
+      "meaning": "thứ gì đó chướng mắt (thường chỉ các công trình xấu xí)",
+      "example": "To be honest, the derelict tall building at the end of my street is a bit of an eyesore.",
+      "type": "idiom"
+    },
+    {
+      "word": "home away from home",
+      "ipa": "/həʊm əˈweɪ frəm həʊm/",
+      "meaning": "nơi thoải mái như ở nhà (chỉ các khu tổ hợp tiện nghi)",
+      "example": "The tall mixed-use building nearby is a home away from home for me because it has everything from a gym to a library.",
+      "type": "idiom"
+    },
+    {
+      "word": "bright lights, big city",
+      "ipa": "/braɪt laɪts bɪɡ ˈsɪti/",
+      "meaning": "không khí náo nhiệt của thành phố lớn",
+      "example": "The cluster of skyscrapers near my block really gives off a 'bright lights, big city' vibe at night.",
+      "type": "idiom"
+    },
+    {
+      "word": "stand tall",
+      "ipa": "/stænd tɔːl/",
+      "meaning": "đứng sừng sững, kiêu hãnh",
+      "example": "Even though it was built decades ago, the old clock tower still stands tall amidst the modern glass giants.",
+      "type": "idiom"
+    },
+    {
+      "word": "the icing on the cake",
+      "ipa": "/ði ˈaɪsɪŋ ɒn ðə keɪk/",
+      "meaning": "điều may mắn/tốt lành cộng thêm vào",
+      "example": "The rooftop garden on the high-rise next door is the icing on the cake for residents in this area.",
+      "type": "idiom"
+    },
+    {
+      "word": "up-and-coming",
+      "ipa": "/ˌʌp ənd ˈkʌmɪŋ/",
+      "meaning": "đang phát triển, đầy triển vọng",
+      "example": "The emergence of these towering structures indicates that my neighborhood is an up-and-coming financial hub.",
+      "type": "idiom"
+    },
+    {
+      "word": "change beyond recognition",
+      "ipa": "/tʃeɪndʒ bɪˈjɒnd ˌrekəɡˈnɪʃn/",
+      "meaning": "thay đổi đến mức không nhận ra",
+      "example": "With so many tall buildings springing up, my local area has changed beyond recognition in just five years.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

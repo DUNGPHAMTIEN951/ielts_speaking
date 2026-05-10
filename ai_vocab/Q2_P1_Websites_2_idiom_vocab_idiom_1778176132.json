@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_2_idiom",
+  "vocab": [
+    {
+      "word": "a wealth of knowledge",
+      "ipa": "/ə welθ əv ˈnɒlɪdʒ/",
+      "meaning": "một kho tàng kiến thức đồ sộ",
+      "example": "Wikipedia is essentially a wealth of knowledge where I can dive deep into any subject from quantum physics to ancient history.",
+      "type": "idiom"
+    },
+    {
+      "word": "know something inside out",
+      "ipa": "/nəʊ ˈsʌmθɪŋ ɪnˈsaɪd aʊt/",
+      "meaning": "hiểu rõ cái gì đó đến tận chân tơ kẽ tóc",
+      "example": "I’ve used this coding website so often that I now know its documentation and shortcuts inside out.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep pace with",
+      "ipa": "/kiːp peɪs wɪð/",
+      "meaning": "theo kịp, giữ tốc độ cùng với",
+      "example": "I visit TechCrunch daily to keep pace with the rapid developments and breakthroughs in the Silicon Valley ecosystem.",
+      "type": "idiom"
+    },
+    {
+      "word": "the icing on the cake",
+      "ipa": "/ði ˈaɪsɪŋ ɒn ðə keɪk/",
+      "meaning": "phần cộng thêm khiến mọi thứ trở nên hoàn hảo hơn",
+      "example": "The site provides great tutorials, and the fact that they offer free certifications is really the icing on the cake.",
+      "type": "idiom"
+    },
+    {
+      "word": "at one's fingertips",
+      "ipa": "/æt wʌnz ˈfɪŋɡətɪps/",
+      "meaning": "có sẵn ngay lập tức, trong tầm tay",
+      "example": "Having a vast library of sheet music at my fingertips on this website has revolutionized the way I practice the piano.",
+      "type": "idiom"
+    },
+    {
+      "word": "cut to the chase",
+      "ipa": "/kʌt tu ðə tʃeɪs/",
+      "meaning": "đi thẳng vào vấn đề (không rườm rà)",
+      "example": "I prefer websites that cut to the chase and provide direct answers rather than burying information under piles of advertisements.",
+      "type": "idiom"
+    },
+    {
+      "word": "a breath of fresh air",
+      "ipa": "/ə breθ əv freʃ eə(r)/",
+      "meaning": "một làn gió mới (sự thay đổi dễ chịu)",
+      "example": "Finding a website with no pop-up ads and a clean design was a real breath of fresh air compared to most modern blogs.",
+      "type": "idiom"
+    },
+    {
+      "word": "food for thought",
+      "ipa": "/fuːd fə(r) θɔːt/",
+      "meaning": "điều gì đó gợi suy nghĩ, đáng để suy ngẫm",
+      "example": "The opinion pieces on The Guardian always provide me with plenty of food for thought regarding global socio-political issues.",
+      "type": "idiom"
+    },
+    {
+      "word": "second to none",
+      "ipa": "/ˈsekənd tu nʌn/",
+      "meaning": "tốt nhất, không ai sánh kịp",
+      "example": "When it comes to user experience and interface design, the aesthetics of this portfolio site are second to none.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit the nail on the head",
+      "ipa": "/hɪt ðə neɪl ɒn ðə hed/",
+      "meaning": "nói đúng trọng tâm, chẩn đoán chính xác",
+      "example": "This movie review site always hits the nail on the head when describing the strengths and weaknesses of new releases.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

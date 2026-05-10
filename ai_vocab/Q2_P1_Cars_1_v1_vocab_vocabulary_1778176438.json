@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_1_v1",
+  "vocab": [
+    {
+      "word": "resale value",
+      "ipa": "/ˈriːseɪl ˈvæljuː/",
+      "meaning": "giá trị bán lại",
+      "example": "Many people opt for neutral shades like silver or white primarily because they tend to preserve the car's resale value better than eccentric colors.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "reflect one's persona",
+      "ipa": "/rɪˈflekt wʌnz pərˈsəʊnə/",
+      "meaning": "phản ánh cá tính/hình ảnh của một người",
+      "example": "A vibrant crimson car might reflect a bold persona, whereas a sleek matte black finish often suggests a more reserved and sophisticated character.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "thermal absorption",
+      "ipa": "/ˈθɜːrml əbˈzɔːrpʃn/",
+      "meaning": "sự hấp thụ nhiệt",
+      "example": "In tropical climates, the choice of color is a practical matter of thermal absorption; darker cars can become unbearably hot under the sun.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "conspicuous on the road",
+      "ipa": "/kənˈspɪkjuəs ɒn ðə rəʊd/",
+      "meaning": "dễ thấy/nổi bật trên đường",
+      "example": "Brighter hues like yellow or neon green make a vehicle more conspicuous on the road, which can arguably enhance safety during low-visibility conditions.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "aesthetic preference",
+      "ipa": "/esˈθetɪk ˈprefrəns/",
+      "meaning": "sở thích về mặt thẩm mỹ",
+      "example": "While some prioritize engine performance, for others, the aesthetic preference for a metallic finish is the deciding factor in a purchase.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Watch_4_id1",
+  "vocab": [
+    {
+      "word": "run like clockwork",
+      "ipa": "/rʌn laɪk ˈklɒkwɜːk/",
+      "meaning": "hoạt động trơn tru, đều đặn và chính xác",
+      "example": "Wearing a watch ensures my daily routine runs like clockwork, as I can transition between meetings without any delays.",
+      "type": "idiom"
+    },
+    {
+      "word": "against the clock",
+      "ipa": "/əˈɡenst ðə klɒk/",
+      "meaning": "chạy đua với thời gian (làm việc khẩn trương để kịp hạn)",
+      "example": "When I'm working against the clock to finish a report, having a watch on my wrist is far more efficient than constantly unlocking my phone.",
+      "type": "idiom"
+    },
+    {
+      "word": "time is of the essence",
+      "ipa": "/taɪm ɪz əv ðɪ ˈesns/",
+      "meaning": "thời gian là yếu tố cốt lõi/vô cùng quan trọng",
+      "example": "In my line of work, time is of the essence, so wearing a watch is a practical necessity to stay on top of urgent deadlines.",
+      "type": "idiom"
+    },
+    {
+      "word": "cost an arm and a leg",
+      "ipa": "/kɒst ən ɑːm ənd ə leɡ/",
+      "meaning": "rất đắt đỏ (thường dùng để nói về lý do tại sao một số người coi trọng đồng hồ xa xỉ)",
+      "example": "While some high-end timepieces cost an arm and a leg, they are often seen as a worthwhile investment in one's personal image.",
+      "type": "idiom"
+    },
+    {
+      "word": "turn back the hands of time",
+      "ipa": "/tɜːn bæk ðə hændz əv taɪm/",
+      "meaning": "quay ngược thời gian (thường dùng khi nói về giá trị kỷ niệm/đồ cổ)",
+      "example": "Wearing my grandfather's vintage watch feels like I'm turning back the hands of time, connecting me to my family heritage.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Watch_4_idiom",
+  "vocab": [
+    {
+      "word": "beat the clock",
+      "ipa": "/biːt ðə klɒk/",
+      "meaning": "hoàn thành việc gì đó trước thời hạn hoặc trước khi hết giờ",
+      "example": "Wearing a watch is essential for me when I'm in an exam and need to beat the clock.",
+      "type": "idiom"
+    },
+    {
+      "word": "lose track of time",
+      "ipa": "/luːz træk əv taɪm/",
+      "meaning": "quên mất thời gian, không để ý thời gian đã trôi qua bao lâu",
+      "example": "Without a watch, I tend to lose track of time, especially when I'm deeply engrossed in a good book.",
+      "type": "idiom"
+    },
+    {
+      "word": "against the clock",
+      "ipa": "/əˈɡeɪnst ðə klɒk/",
+      "meaning": "vô cùng vội vã để kịp giờ, chạy đua với thời gian",
+      "example": "In my line of work, we are often working against the clock, so having a watch is a non-negotiable.",
+      "type": "idiom"
+    },
+    {
+      "word": "like clockwork",
+      "ipa": "/laɪk ˈklɒkwɜːk/",
+      "meaning": "đều đặn và chính xác như một cỗ máy, không sai sót",
+      "example": "A reliable watch ensures that my daily schedule runs like clockwork, with no delays between meetings.",
+      "type": "idiom"
+    },
+    {
+      "word": "at the eleventh hour",
+      "ipa": "/æt ði ɪˈlevnθ ˈaʊə(r)/",
+      "meaning": "vào phút chót, ngay trước khi quá muộn",
+      "example": "I check my watch constantly to make sure I don't end up finishing my tasks at the eleventh hour.",
+      "type": "idiom"
+    },
+    {
+      "word": "time is of the essence",
+      "ipa": "/taɪm ɪz əv ði ˈesns/",
+      "meaning": "thời gian là yếu tố cốt lõi, thời gian rất quan trọng và cấp bách",
+      "example": "When dealing with international clients, time is of the essence, so a watch helps me stay punctual across time zones.",
+      "type": "idiom"
+    },
+    {
+      "word": "stand the test of time",
+      "ipa": "/stænd ðə test əv taɪm/",
+      "meaning": "trường tồn với thời gian, vẫn giữ nguyên giá trị sau một thời gian dài",
+      "example": "I believe high-quality mechanical watches are important because they stand the test of time unlike disposable gadgets.",
+      "type": "idiom"
+    },
+    {
+      "word": "kill time",
+      "ipa": "/kɪl taɪm/",
+      "meaning": "giết thời gian (làm việc gì đó để đợi thời gian trôi qua)",
+      "example": "Checking my watch helps me gauge how much I need to kill time before my next flight departure.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the nick of time",
+      "ipa": "/ɪn ðə nɪk əv taɪm/",
+      "meaning": "vừa kịp lúc, sát nút trước khi có chuyện gì xảy ra",
+      "example": "My watch allowed me to reach the station in the nick of time, just as the train was about to pull out.",
+      "type": "idiom"
+    },
+    {
+      "word": "behind the times",
+      "ipa": "/bɪˈhaɪnd ðə taɪmz/",
+      "meaning": "lỗi thời, không cập nhật xu hướng mới",
+      "example": "Some might think wearing a physical watch is a bit behind the times, but I find it much more elegant than using a phone.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

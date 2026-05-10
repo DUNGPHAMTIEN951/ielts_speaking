@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_2_v1",
+  "vocab": [
+    {
+      "word": "motion sickness",
+      "ipa": "/ˈməʊʃn ˌsɪknəs/",
+      "meaning": "say tàu xe",
+      "example": "To be honest, I didn't enjoy long trips much because I was quite prone to motion sickness as a child.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "scenic route",
+      "ipa": "/ˈsiːnɪk ruːt/",
+      "meaning": "tuyến đường có phong cảnh đẹp",
+      "example": "My father always preferred taking the scenic route, which made our family road trips much more memorable.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "backseat squabbles",
+      "ipa": "/ˈbækˌsiːt ˈskwɒblz/",
+      "meaning": "những cuộc cãi vã ở ghế sau (giữa trẻ con)",
+      "example": "I have vivid memories of constant backseat squabbles with my brother over who got to sit by the window.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "sense of confinement",
+      "ipa": "/sens əv kənˈfaɪnmənt/",
+      "meaning": "cảm giác bị gò bó, tù túng",
+      "example": "Being stuck in a sedan for ten hours gave me a real sense of confinement that I found quite frustrating as an energetic kid.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "cherished memories",
+      "ipa": "/ˈtʃerɪʃt ˈmeməriz/",
+      "meaning": "những ký ức trân quý/đáng nhớ",
+      "example": "The long drives to my grandparents' house are among my most cherished memories of childhood.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

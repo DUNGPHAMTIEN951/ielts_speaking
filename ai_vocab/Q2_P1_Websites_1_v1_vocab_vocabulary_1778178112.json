@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Websites_1_v1",
+  "vocab": [
+    {
+      "word": "unfettered access",
+      "ipa": "/ʌnˈfet.əd ˈæk.ses/",
+      "meaning": "sự truy cập không bị giới hạn/gò bó",
+      "example": "I frequently visit academic archives because they provide unfettered access to a wealth of scholarly research.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "curated content",
+      "ipa": "/kjʊəˈreɪ.tɪd ˈkɒn.tent/",
+      "meaning": "nội dung được chọn lọc kỹ lưỡng",
+      "example": "I’m drawn to platforms that offer curated content tailored specifically to my professional interests in graphic design.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "user-intuitive interface",
+      "ipa": "/ˈjuː.zər ɪnˈtjuː.ɪ.tɪv ˈɪn.tə.feɪs/",
+      "meaning": "giao diện trực quan, dễ sử dụng cho người dùng",
+      "example": "I often find myself returning to that news site primarily because of its user-intuitive interface and clean layout.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "multimedia integration",
+      "ipa": "/ˌmʌl.tiˈmiː.di.ə ˌɪn.tɪˈɡreɪ.ʃən/",
+      "meaning": "sự tích hợp đa phương tiện (hình ảnh, video, âm thanh)",
+      "example": "Educational websites with high-quality multimedia integration make complex scientific concepts much easier to grasp.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "go-to resource",
+      "ipa": "/ˈɡəʊ.tuː rɪˈzɔːs/",
+      "meaning": "nguồn thông tin tin cậy/đầu tiên mà ai đó sẽ tìm đến",
+      "example": "Stack Overflow is the go-to resource for me whenever I encounter a particularly stubborn bug in my code.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_3",
+  "vocab": [
+    {
+      "word": "a gas guzzler",
+      "ipa": "/ə ɡæs ˈɡʌz.lər/",
+      "meaning": "xe cực kỳ tốn xăng",
+      "example": "I generally steer clear of any vehicle that is a gas guzzler, as I prioritize both my wallet and the environment.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "understated luxury",
+      "ipa": "/ˌʌn.dəˈsteɪ.tɪd ˈlʌk.ʃər.i/",
+      "meaning": "sự sang trọng khiêm nhường (không phô trương)",
+      "example": "I’m drawn to European sedans that offer understated luxury rather than those with flashy, ostentatious designs.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "robust powertrain",
+      "ipa": "/rəʊˈbʌst ˈpaʊə.treɪn/",
+      "meaning": "hệ thống truyền động mạnh mẽ",
+      "example": "I have a weakness for grand tourers that house a robust powertrain capable of effortless long-distance cruising.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "unimpeded visibility",
+      "ipa": "/ˌʌn.ɪmˈpiː.dɪd ˌvɪz.əˈbɪl.ə.ti/",
+      "meaning": "tầm nhìn không bị cản trở",
+      "example": "One reason I favor SUVs is the elevated seating position, which grants the driver unimpeded visibility of the road ahead.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "technological obsolescence",
+      "ipa": "/ˌtek.nəˈlɒdʒ.ɪ.kəl ˌɒb.səˈles.əns/",
+      "meaning": "sự lạc hậu về công nghệ",
+      "example": "I prefer cars with timeless mechanical components to avoid the rapid technological obsolescence seen in many modern electric gadgets on wheels.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "tactile feedback",
+      "ipa": "/ˈtæk.taɪl ˈfiːd.bæk/",
+      "meaning": "phản hồi xúc giác (cảm giác lái thật)",
+      "example": "As a driving enthusiast, I look for sports cars that provide exceptional tactile feedback through the steering wheel.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "aerodynamic drag",
+      "ipa": "/ˌeə.rəʊ.daɪˈnæm.ɪk dræɡ/",
+      "meaning": "lực cản khí động học",
+      "example": "Modern hypercars are engineered to minimize aerodynamic drag, allowing them to reach blistering top speeds.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "adhere to the tarmac",
+      "ipa": "/ədˈhɪər tuː ðə ˈtɑː.mæk/",
+      "meaning": "bám đường (khả năng ổn định khi chạy)",
+      "example": "I appreciate a low-profile vehicle with a suspension system that makes the car feel like it truly adheres to the tarmac during cornering.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "monocoque chassis",
+      "ipa": "/ˈmɒn.ə.kɒk ˈʃæs.i/",
+      "meaning": "khung gầm liền khối",
+      "example": "Most urban crossovers today utilize a monocoque chassis to strike a balance between weight saving and structural rigidity.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "a daily driver",
+      "ipa": "/ə ˈdeɪ.li ˈdraɪ.vər/",
+      "meaning": "xe dùng để đi lại hàng ngày",
+      "example": "While I admire supercars, I’m realistically looking for a dependable daily driver that offers practicality for the morning commute.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

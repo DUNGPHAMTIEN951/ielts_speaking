@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_5_idiom",
+  "vocab": [
+    {
+      "word": "bite the bullet",
+      "ipa": "/baɪt ðə ˈbʊl.ɪt/",
+      "meaning": "chấp nhận đối mặt với một tình huống khó khăn/không thoải mái",
+      "example": "When I see a sea of brake lights, I just have to bite the bullet and accept that I'll be late for my appointment.",
+      "type": "idiom"
+    },
+    {
+      "word": "at a snail's pace",
+      "ipa": "/æt ə sneɪlz peɪs/",
+      "meaning": "với tốc độ chậm như sên",
+      "example": "If the traffic is moving at a snail's pace, I usually put on a podcast to keep my mind occupied.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep my chin up",
+      "ipa": "/kiːp maɪ tʃɪn ʌp/",
+      "meaning": "giữ tinh thần lạc quan, không nản chí",
+      "example": "It's easy to get frustrated in gridlock, but I try to keep my chin up by remembering that everyone is in the same boat.",
+      "type": "idiom"
+    },
+    {
+      "word": "kill two birds with one stone",
+      "ipa": "/kɪl tuː bɜːdz wɪð wʌn stəʊn/",
+      "meaning": "một mũi tên trúng hai đích",
+      "example": "I try to kill two birds with one stone by listening to educational audiobooks while waiting for the traffic to clear.",
+      "type": "idiom"
+    },
+    {
+      "word": "lose my cool",
+      "ipa": "/luːz maɪ kuːl/",
+      "meaning": "mất bình tĩnh, nổi nóng",
+      "example": "I’ve learned that there’s no point in losing my cool over traffic, as it only makes the experience more stressful.",
+      "type": "idiom"
+    },
+    {
+      "word": "watch the world go by",
+      "ipa": "/wɒtʃ ðə wɜːld ɡəʊ baɪ/",
+      "meaning": "quan sát thế giới xung quanh trôi qua (một cách tĩnh lặng)",
+      "example": "As a passenger, I find it quite relaxing to just sit back and watch the world go by when we are stuck in a jam.",
+      "type": "idiom"
+    },
+    {
+      "word": "take it in my stride",
+      "ipa": "/teɪk ɪt ɪn maɪ straɪd/",
+      "meaning": "đón nhận một khó khăn một cách bình thản và dễ dàng",
+      "example": "Traffic congestion is inevitable in this city, so I've learned to take it in my stride and not let it ruin my day.",
+      "type": "idiom"
+    },
+    {
+      "word": "chill out",
+      "ipa": "/tʃɪl aʊt/",
+      "meaning": "thư giãn, thả lỏng",
+      "example": "I usually just turn up the air conditioning and chill out with some lo-fi music until the bottleneck eases up.",
+      "type": "idiom"
+    },
+    {
+      "word": "blow off steam",
+      "ipa": "/bləʊ ɒf stiːm/",
+      "meaning": "xả cơn giận/căng thẳng",
+      "example": "Singing along to high-energy songs at the top of my lungs helps me blow off steam when I'm feeling restless in the car.",
+      "type": "idiom"
+    },
+    {
+      "word": "let nature take its course",
+      "ipa": "/let ˈneɪ.tʃər teɪk ɪts kɔːs/",
+      "meaning": "để mọi thứ diễn ra theo tự nhiên (không can thiệp)",
+      "example": "Sometimes there are no shortcuts, so I just sit tight and let nature take its course until the road clears.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

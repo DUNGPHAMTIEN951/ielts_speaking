@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Building_1_idiom",
+  "vocab": [
+    {
+      "word": "clamber up the ladder",
+      "ipa": "/ˈklæmbər ʌp ðə ˈlædər/",
+      "meaning": "leo lên nấc thang (nghĩa bóng: các tòa nhà ngày càng cao hơn hoặc sự thăng tiến)",
+      "example": "Architecture in my area seems to clamber up the ladder every year, with each new complex aiming to outdo the previous one in height.",
+      "type": "idiom"
+    },
+    {
+      "word": "cast a shadow over",
+      "ipa": "/kɑːst ə ˈʃædəʊ ˈəʊvər/",
+      "meaning": "đổ bóng xuống (nghĩa đen) hoặc làm lu mờ/gây ảnh hưởng tiêu cực (nghĩa bóng)",
+      "example": "A mammoth corporate headquarters has recently been built nearby, and it literally casts a shadow over my garden during the afternoon.",
+      "type": "idiom"
+    },
+    {
+      "word": "break the bank",
+      "ipa": "/breɪk ðə bæŋk/",
+      "meaning": "tốn rất nhiều tiền",
+      "example": "Living in one of those high-rises would certainly break the bank, as the monthly service fees alone are astronomical.",
+      "type": "idiom"
+    },
+    {
+      "word": "a hive of activity",
+      "ipa": "/ə haɪv əv ækˈtɪvəti/",
+      "meaning": "một nơi vô cùng bận rộn và tấp nập",
+      "example": "The base of the skyscraper down the street is a constant hive of activity, packed with commuters and office workers from dawn till dusk.",
+      "type": "idiom"
+    },
+    {
+      "word": "the best of both worlds",
+      "ipa": "/ðə best əv bəʊθ wɜːrldz/",
+      "meaning": "vẻ đẹp/lợi ích của cả hai phía (ví dụ: tiện nghi hiện đại và yên bình)",
+      "example": "Since I live near several tall residential towers but right next to a park, I feel I have the best of both worlds.",
+      "type": "idiom"
+    },
+    {
+      "word": "an uphill battle",
+      "ipa": "/ən ʌpˈhɪl ˈbætl/",
+      "meaning": "một cuộc chiến/nỗ lực vô cùng gian nan",
+      "example": "Finding a parking spot near those towering apartment blocks is an uphill battle because the area is so incredibly congested.",
+      "type": "idiom"
+    },
+    {
+      "word": "stand one's ground",
+      "ipa": "/stænd wʌnz ɡraʊnd/",
+      "meaning": "giữ vững vị trí/quan điểm (ở đây chỉ các ngôi nhà nhỏ vẫn trụ lại giữa các tòa nhà cao tầng)",
+      "example": "There are a few traditional cottages still standing their ground amidst a sea of modern glass skyscrapers.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the pipeline",
+      "ipa": "/ɪn ðə ˈpaɪplaɪn/",
+      "meaning": "đang được lên kế hoạch hoặc đang trong quá trình thực hiện",
+      "example": "I’ve heard there are several more fifty-story developments in the pipeline for my neighborhood over the next five years.",
+      "type": "idiom"
+    },
+    {
+      "word": "the concrete jungle",
+      "ipa": "/ðə ˈkɒŋkriːt ˈdʒʌŋɡl/",
+      "meaning": "rừng bê tông (thành phố đầy nhà cao tầng và ít cây xanh)",
+      "example": "My suburb is rapidly transforming into a concrete jungle, where skyscrapers are replacing almost all the remaining green spaces.",
+      "type": "idiom"
+    },
+    {
+      "word": "out of character",
+      "ipa": "/aʊt əv ˈkærəktər/",
+      "meaning": "không phù hợp với phong cách/đặc điểm chung",
+      "example": "That ultra-modern steel tower feels a bit out of character for our historic district, which is mostly composed of low-rise brick buildings.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

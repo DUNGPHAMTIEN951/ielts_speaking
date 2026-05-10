@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Scenery_3_coll",
+  "vocab": [
+    {
+      "word": "command a breathtaking view",
+      "ipa": "/kəˈmɑːnd ə ˈbreθteɪkɪŋ vjuː/",
+      "meaning": "có được/chiêm ngưỡng một tầm nhìn ngoạn mục",
+      "example": "I love hiking to spots that command a breathtaking view, as they offer the perfect vantage point for landscape photography.",
+      "type": "collocation"
+    },
+    {
+      "word": "fleeting natural phenomena",
+      "ipa": "/ˈfliːtɪŋ ˈnætʃrəl fəˈnɒmɪnə/",
+      "meaning": "những hiện tượng thiên nhiên thoáng qua",
+      "example": "My goal is often to document fleeting natural phenomena, like a double rainbow or the morning mist rolling over the hills.",
+      "type": "collocation"
+    },
+    {
+      "word": "rugged topography",
+      "ipa": "/ˈrʌɡɪd təˈpɒɡrəfi/",
+      "meaning": "địa hình hiểm trở/gồ ghề",
+      "example": "I am particularly drawn to the rugged topography of the northern highlands, which provides a dramatic backdrop for my shots.",
+      "type": "collocation"
+    },
+    {
+      "word": "vibrant hues",
+      "ipa": "/ˈvaɪbrənt hjuːz/",
+      "meaning": "những sắc thái màu sắc rực rỡ",
+      "example": "The vibrant hues of autumn leaves reflected in a still lake are something I find impossible not to capture on camera.",
+      "type": "collocation"
+    },
+    {
+      "word": "evoke a sense of tranquility",
+      "ipa": "/ɪˈvəʊk ə sens əv træŋˈkwɪləti/",
+      "meaning": "gợi lên cảm giác yên bình",
+      "example": "I strive to take pictures that evoke a sense of tranquility, helping me relive the peace I felt in that moment.",
+      "type": "collocation"
+    },
+    {
+      "word": "pristine environment",
+      "ipa": "/ˈprɪstiːn ɪnˈvaɪrənmənt/",
+      "meaning": "môi trường nguyên sơ/chưa bị con người tác động",
+      "example": "Whenever I find myself in a pristine environment, I feel a strong urge to photograph it before it changes.",
+      "type": "collocation"
+    },
+    {
+      "word": "a sweeping landscape",
+      "ipa": "/ə ˈswiːpɪŋ ˈlændskeɪp/",
+      "meaning": "một phong cảnh bao la/rộng lớn",
+      "instruction": "I usually use a wide-angle lens to capture a sweeping landscape in its entirety.",
+      "type": "collocation"
+    },
+    {
+      "word": "interplay of textures",
+      "ipa": "/ˈɪntərpleɪ əv ˈtekstʃərz/",
+      "meaning": "sự đan xen/tương tác giữa các bề mặt/kết cấu",
+      "example": "Close-up scenery shots allow me to highlight the intricate interplay of textures between mossy rocks and flowing water.",
+      "type": "collocation"
+    },
+    {
+      "word": "serene pastoral scene",
+      "ipa": "/sɪˈriːn ˈpɑːstərəl siːn/",
+      "meaning": "cảnh đồng quê thanh bình",
+      "example": "I have a soft spot for a serene pastoral scene, with rolling meadows and grazing cattle under a clear sky.",
+      "type": "collocation"
+    },
+    {
+      "word": "visual splendor",
+      "ipa": "/ˈvɪʒuəl ˈsplendər/",
+      "meaning": "sự lộng lẫy/tráng lệ về mặt thị giác",
+      "example": "The visual splendor of the jagged peaks at sunset is truly a sight to behold and record.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

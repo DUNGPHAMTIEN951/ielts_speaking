@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_3_idiom",
+  "vocab": [
+    {
+      "word": "a breath of fresh air",
+      "ipa": "/ə breθ əv freʃ eər/",
+      "meaning": "một làn gió mới (sự thay đổi tích cực và thú vị)",
+      "example": "The recent update to the site's interface was a breath of fresh air, making it much more pleasant to navigate.",
+      "type": "idiom"
+    },
+    {
+      "word": "push the envelope",
+      "ipa": "/pʊʃ ðə ˈen.və.ləʊp/",
+      "meaning": "vượt qua giới hạn thông thường (đổi mới, sáng tạo hơn)",
+      "example": "I’ve noticed that some streaming platforms are really pushing the envelope by integrating interactive AI features.",
+      "type": "idiom"
+    },
+    {
+      "word": "fall short of expectations",
+      "ipa": "/fɔːl ʃɔːt əv ˌek.spekˈteɪ.ʃənz/",
+      "meaning": "không đạt được kỳ vọng",
+      "example": "To be honest, the new layout of my favorite blog falls short of expectations as it’s quite confusing now.",
+      "type": "idiom"
+    },
+    {
+      "word": "light years ahead",
+      "ipa": "/laɪt jɪəz əˈhed/",
+      "meaning": "tiên tiến hơn rất nhiều (đi trước thời đại)",
+      "example": "Compared to its old version, the upgraded portal is light years ahead in terms of loading speed and security.",
+      "type": "idiom"
+    },
+    {
+      "word": "jump on the bandwagon",
+      "ipa": "/dʒʌmp ɒn ðə ˈbændˌwæɡ.ən/",
+      "meaning": "chạy theo trào lưu",
+      "example": "Many social sites are jumping on the bandwagon by adding short-form video reels to their homepages.",
+      "type": "idiom"
+    },
+    {
+      "word": "smooth over the rough edges",
+      "ipa": "/smuːð ˈəʊ.vər ðə rʌf edʒ.ɪz/",
+      "meaning": "cải thiện những điểm còn thiếu sót/chưa hoàn hảo",
+      "example": "The developers have been releasing small patches recently to smooth over the rough edges of the new design.",
+      "type": "idiom"
+    },
+    {
+      "word": "back to the drawing board",
+      "ipa": "/bæk tuː ðə ˈdrɔː.ɪŋ bɔːd/",
+      "meaning": "bắt đầu lại từ đầu (khi một thiết kế/ý tưởng thất bại)",
+      "example": "After a backlash from users, the company had to go back to the drawing board with their privacy settings.",
+      "type": "idiom"
+    },
+    {
+      "word": "give someone a run for their money",
+      "ipa": "/ɡɪv ˈsʌm.wʌn ə rʌn fɔːr ðeə ˈmʌn.i/",
+      "meaning": "trở thành đối thủ đáng gờm (cạnh tranh gay gắt)",
+      "example": "The redesigned e-commerce site is definitely giving the market leaders a run for their money now.",
+      "type": "idiom"
+    },
+    {
+      "word": "stand out like a sore thumb",
+      "ipa": "/stænd aʊt laɪk ə sɔːr θʌm/",
+      "meaning": "nổi bật một cách khó coi (không hài hòa)",
+      "example": "The new intrusive advertisements stand out like a sore thumb against the otherwise minimalist design.",
+      "type": "idiom"
+    },
+    {
+      "word": "part and parcel",
+      "ipa": "/pɑːt ənd ˈpɑː.səl/",
+      "meaning": "phần thiết yếu/không thể tách rời",
+      "example": "Constant updates have become part and parcel of visiting any modern website these days.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

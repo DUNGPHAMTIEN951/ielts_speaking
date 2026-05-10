@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_5_coll",
+  "vocab": [
+    {
+      "word": "curb one's frustration",
+      "ipa": "/kɜːb wʌnz frʌˈstreɪʃn/",
+      "meaning": "kiềm chế sự bực bội",
+      "example": "To curb my frustration during a standstill, I try to focus on a deep-breathing routine rather than obsessing over the clock.",
+      "type": "collocation"
+    },
+    {
+      "word": "bottleneck",
+      "ipa": "/ˈbɒtlnek/",
+      "meaning": "điểm nghẽn giao thông",
+      "example": "If I notice a bottleneck ahead on my GPS, I usually take that time to mentally rehearse my upcoming presentations.",
+      "type": "collocation"
+    },
+    {
+      "word": "serene environment",
+      "ipa": "/səˈriːn ɪnˈvaɪrənmənt/",
+      "meaning": "môi trường thanh bình/tĩnh lặng",
+      "example": "I transform my car into a serene environment by playing lo-fi beats, which helps me stay composed amidst the honking.",
+      "type": "collocation"
+    },
+    {
+      "word": "unproductive downtime",
+      "ipa": "/ˌʌnprəˈdʌktɪv ˈdaʊntaɪm/",
+      "meaning": "thời gian chết vô ích",
+      "example": "I view traffic jams as unproductive downtime, so I combat the boredom by catching up on missed phone calls with family.",
+      "type": "collocation"
+    },
+    {
+      "word": "crawl along",
+      "ipa": "/krɔːl əˈlɒŋ/",
+      "meaning": "di chuyển chậm chạp (bò trên đường)",
+      "example": "While we crawl along the expressway, I often find myself observing the architectural details of the surrounding buildings.",
+      "type": "collocation"
+    },
+    {
+      "word": "a captive audience",
+      "ipa": "/ə ˈkæptɪv ˈɔːdiəns/",
+      "meaning": "người bị bắt buộc phải nghe (trong ngữ cảnh này là chính mình khi bị kẹt trong xe)",
+      "example": "Since I'm a captive audience to my own radio, I use the delay to listen to insightful documentaries that I normally ignore.",
+      "type": "collocation"
+    },
+    {
+      "word": "test the limits of",
+      "ipa": "/test ðə ˈlɪmɪts əv/",
+      "meaning": "thử thách giới hạn của cái gì",
+      "example": "The rush hour congestion truly tests the limits of my endurance, especially after a taxing eight-hour workday.",
+      "type": "collocation"
+    },
+    {
+      "word": "mental sanctuary",
+      "ipa": "/ˈmentl ˈsæŋktʃuəri/",
+      "meaning": "nơi trú ẩn tâm trí (trạng thái bình tâm)",
+      "example": "I try to create a mental sanctuary by visualizing my weekend plans, which prevents me from succumbing to road rage.",
+      "type": "collocation"
+    },
+    {
+      "word": "traffic congestion",
+      "ipa": "/ˈtræfɪk kənˈdʒestʃən/",
+      "meaning": "sự tắc nghẽn giao thông (thuật ngữ trang trọng hơn)",
+      "example": "Whenever I’m caught in heavy traffic congestion, I find it’s the perfect opportunity to practice my foreign language pronunciation.",
+      "type": "collocation"
+    },
+    {
+      "word": "navigate the labyrinthine streets",
+      "ipa": "/ˈnævɪɡeɪt ðə ˌlæbəˈrɪnθaɪn striːts/",
+      "meaning": "đi qua những con phố chằng chịt như mê cung",
+      "example": "Sometimes I try to navigate the labyrinthine streets nearby to find a shortcut, even if it only saves me a couple of minutes.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

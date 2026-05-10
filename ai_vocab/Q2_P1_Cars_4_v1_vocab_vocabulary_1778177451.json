@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_4_v1",
+  "vocab": [
+    {
+      "word": "be at the helm",
+      "ipa": "/bi ət ðə helm/",
+      "meaning": "cầm lái/nắm quyền điều khiển",
+      "example": "I much prefer being at the helm because it gives me a sense of autonomy and control over the pace of the journey.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "sedentary role",
+      "ipa": "/ˈsedntri rəʊl/",
+      "meaning": "vai trò ngồi yên một chỗ/thụ động",
+      "example": "I enjoy the sedentary role of a passenger, as it allows me to unwind and gaze out the window without any distractions.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "command the road",
+      "ipa": "/kəˈmɑːnd ðə rəʊd/",
+      "meaning": "làm chủ cung đường",
+      "example": "There is something incredibly empowering about being the one to command the road, especially during a scenic road trip.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "backseat driver",
+      "ipa": "/ˌbækˌsiːt ˈdraɪvə(r)/",
+      "meaning": "người ngồi sau hay chỉ đạo/góp ý (gây khó chịu)",
+      "example": "I try my best not to be a backseat driver when my friends are at the wheel, though it's hard to keep my mouth shut sometimes.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "navigational duties",
+      "ipa": "/ˌnævɪˈɡeɪʃənl ˈdjuːtiz/",
+      "meaning": "nhiệm vụ dẫn đường/định vị",
+      "example": "As a passenger, I’m more than happy to take over the navigational duties so the driver can focus entirely on the traffic.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

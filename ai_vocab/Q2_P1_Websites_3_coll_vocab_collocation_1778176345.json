@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_3_coll",
+  "vocab": [
+    {
+      "word": "undergo a radical transformation",
+      "ipa": "/ˌʌndəˈɡəʊ ə ˈrædɪkl ˌtrænsfəˈmeɪʃn/",
+      "meaning": "trải qua một cuộc biến đổi triệt để",
+      "example": "The news portal I frequent has undergone a radical transformation, shifting its focus from long-form articles to bite-sized video snippets.",
+      "type": "collocation"
+    },
+    {
+      "word": "leverage machine learning",
+      "ipa": "/ˈliːvərɪdʒ məˈʃiːn ˈlɜːrnɪŋ/",
+      "meaning": "tận dụng công nghệ học máy",
+      "example": "Many e-commerce sites now leverage machine learning to curate highly specific product recommendations based on my browsing history.",
+      "type": "collocation"
+    },
+    {
+      "word": "a deluge of sponsored content",
+      "ipa": "/ə ˈdeljuːdʒ əv ˈspɒnsərd ˈkɒntent/",
+      "meaning": "một sự tràn ngập các nội dung được tài trợ/quảng cáo",
+      "example": "Lately, my favorite social media platform has been marred by a deluge of sponsored content that often disrupts the user flow.",
+      "type": "collocation"
+    },
+    {
+      "word": "information architecture",
+      "ipa": "/ˌɪnfəˈmeɪʃn ˈɑːrkɪtektʃər/",
+      "meaning": "cấu trúc sắp xếp thông tin",
+      "example": "The site's information architecture has been revamped to make academic resources much more discoverable for researchers.",
+      "type": "collocation"
+    },
+    {
+      "word": "frictionless user journey",
+      "ipa": "/ˈfrɪkʃənləs ˈjuːzər ˈdʒɜːrni/",
+      "meaning": "hành trình người dùng mượt mà (không gặp rào cản)",
+      "example": "The latest update prioritized a frictionless user journey, allowing me to complete a purchase in just two clicks.",
+      "type": "collocation"
+    },
+    {
+      "word": "pivot towards a freemium model",
+      "ipa": "/ˈpɪvət təˈwɔːrdz ə ˈfriːmiəm ˈmɒdl/",
+      "meaning": "chuyển hướng sang mô hình kinh doanh freemium (miễn phí cơ bản, thu phí nâng cao)",
+      "example": "I've noticed a significant pivot towards a freemium model on most graphic design websites I visit regularly.",
+      "type": "collocation"
+    },
+    {
+      "word": "visually sparse layout",
+      "ipa": "/ˈvɪʒuəli spɑːrs ˈleɪaʊt/",
+      "meaning": "bố cục thưa thớt/tối giản về mặt thị giác",
+      "example": "A visually sparse layout has replaced the old, cramped design, which significantly reduces cognitive overload when I'm reading.",
+      "type": "collocation"
+    },
+    {
+      "word": "adopt a mobile-first approach",
+      "ipa": "/əˈdɒpt ə ˈməʊbaɪl fɜːrst əˈprəʊtʃ/",
+      "meaning": "áp dụng cách tiếp cận ưu tiên thiết bị di động",
+      "example": "The blog has recently adopted a mobile-first approach, ensuring that all interactive charts render perfectly on my smartphone.",
+      "type": "collocation"
+    },
+    {
+      "word": "asynchronous collaboration tools",
+      "ipa": "/eɪˈsɪŋkrənəs kəˌlæbəˈreɪʃn tuːlz/",
+      "meaning": "các công cụ cộng tác không đồng bộ",
+      "example": "Productivity websites have integrated advanced asynchronous collaboration tools to accommodate teams working in different time zones.",
+      "type": "collocation"
+    },
+    {
+      "word": "biometric authentication integration",
+      "ipa": "/ˌbaɪəʊˈmetrɪk ɔːˌθentɪˈkeɪʃn ˌɪntɪˈɡreɪʃn/",
+      "meaning": "tích hợp xác thực sinh trắc học",
+      "example": "For enhanced security, my banking website now features biometric authentication integration, allowing me to log in using my fingerprint.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Views_2_idiom",
+  "vocab": [
+    {
+      "word": "a breath of fresh air",
+      "ipa": "/ə breθ əv freʃ eə(r)/",
+      "meaning": "một luồng gió mới (thứ gì đó mới mẻ và dễ chịu)",
+      "example": "After weeks in the city, the rolling green hills of the countryside are a real breath of fresh air.",
+      "type": "idiom"
+    },
+    {
+      "word": "the best of both worlds",
+      "ipa": "/ðə best əv bəʊθ wɜːldz/",
+      "meaning": "vẻ đẹp/lợi ích từ cả hai phía",
+      "example": "I live in a suburb that offers the best of both worlds: modern architecture and lush parks.",
+      "type": "idiom"
+    },
+    {
+      "word": "hustle and bustle",
+      "ipa": "/ˈhʌsl ənd ˈbʌsl/",
+      "meaning": "sự hối hả và nhộn nhịp",
+      "example": "I'm drawn to the hustle and bustle of urban views because they make me feel connected to the world.",
+      "type": "idiom"
+    },
+    {
+      "word": "far from the madding crowd",
+      "ipa": "/fɑː(r) frəm ðə ˈmædɪŋ kraʊd/",
+      "meaning": "cách xa đám đông điên cuồng (nơi yên tĩnh)",
+      "example": "I prefer rural vistas because they allow me to be far from the madding crowd and find inner peace.",
+      "type": "idiom"
+    },
+    {
+      "word": "a stone's throw",
+      "ipa": "/ə stəʊnz θrəʊ/",
+      "meaning": "khoảng cách rất gần",
+      "example": "In my city, a stunning view of the river is just a stone's throw from the central business district.",
+      "type": "idiom"
+    },
+    {
+      "word": "feast for the eyes",
+      "ipa": "/fiːst fɔː(r) ði aɪz/",
+      "meaning": "một bữa tiệc cho đôi mắt (cảnh rất đẹp)",
+      "example": "The skyline at sunset is a total feast for the eyes, with colors reflecting off the glass buildings.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the middle of nowhere",
+      "ipa": "/ɪn ðə ˈmɪdl əv ˈnəʊweə(r)/",
+      "meaning": "ở nơi hẻo lánh, xa xôi",
+      "example": "There’s something magical about a view in the middle of nowhere, where you can see every single star.",
+      "type": "idiom"
+    },
+    {
+      "word": "concrete jungle",
+      "ipa": "/ˈkɒŋkriːt ˈdʒʌŋɡl/",
+      "meaning": "rừng bê tông (thành phố hiện đại)",
+      "example": "While some dislike the concrete jungle, I find the geometry of tall buildings incredibly photogenic.",
+      "type": "idiom"
+    },
+    {
+      "word": "take it all in",
+      "ipa": "/teɪk ɪt ɔːl ɪn/",
+      "meaning": "thưởng ngoạn/thu nhận hết mọi thứ vào tầm mắt",
+      "example": "I like to sit on a mountain peak and just take it all in without any distractions.",
+      "type": "idiom"
+    },
+    {
+      "word": "off the beaten track",
+      "ipa": "/ɒf ðə ˈbiːtn træk/",
+      "meaning": "nơi vắng vẻ, ít người qua lại",
+      "example": "The best rural views are usually found off the beaten track, away from the typical tourist spots.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_1_c1",
+  "vocab": [
+    {
+      "word": "reflect sunlight",
+      "ipa": "/rɪˈflekt ˈsʌnlaɪt/",
+      "meaning": "phản chiếu ánh sáng mặt trời",
+      "example": "White or silver cars are practical in hot regions because they reflect sunlight, keeping the cabin temperature more manageable.",
+      "type": "collocation"
+    },
+    {
+      "word": "conceal scratches",
+      "ipa": "/kənˈsiːl ˈskrætʃɪz/",
+      "meaning": "che giấu các vết trầy xước",
+      "example": "Metallic grey is a popular choice for many because it's excellent at concealing scratches and minor imperfections on the bodywork.",
+      "type": "collocation"
+    },
+    {
+      "word": "personal branding",
+      "ipa": "/ˈpɜːsənl ˈbrændɪŋ/",
+      "meaning": "xây dựng thương hiệu/hình ảnh cá nhân",
+      "example": "For entrepreneurs, the color of their vehicle can be a subtle part of their personal branding, conveying success or creativity.",
+      "type": "collocation"
+    },
+    {
+      "word": "visual prominence",
+      "ipa": "/ˈvɪʒuəl ˈprɒmɪnəns/",
+      "meaning": "sự nổi bật về mặt thị giác",
+      "example": "Choosing a car with high visual prominence, like bright yellow, ensures that you are easily spotted by other motorists in heavy rain.",
+      "type": "collocation"
+    },
+    {
+      "word": "standard color palette",
+      "ipa": "/ˈstændəd ˈkʌlə(r) ˈpælət/",
+      "meaning": "bảng màu tiêu chuẩn (của nhà sản xuất)",
+      "example": "Most people stick to the standard color palette offered by manufacturers to avoid the high costs of custom paint jobs.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

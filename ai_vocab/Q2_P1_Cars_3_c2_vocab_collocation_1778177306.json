@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_3_c2",
+  "vocab": [
+    {
+      "word": "opulent upholstery",
+      "ipa": "/ˈɒpjʊlənt ʌpˈhəʊlstəri/",
+      "meaning": "nội thất bọc da/vải sang trọng",
+      "example": "I have a soft spot for executive sedans that feature opulent upholstery and handcrafted wood accents.",
+      "type": "collocation"
+    },
+    {
+      "word": "rugged chassis",
+      "ipa": "/ˈrʌɡɪd ˈʃæsi/",
+      "meaning": "khung gầm cứng cáp/bền bỉ",
+      "example": "I prefer heavy-duty trucks built on a rugged chassis because they can withstand the most punishing road conditions.",
+      "type": "collocation"
+    },
+    {
+      "word": "aerodynamic contours",
+      "ipa": "/ˌeərəʊdaɪˈnæmɪk ˈkɒntʊəz/",
+      "meaning": "những đường nét khí động học",
+      "example": "Modern supercars with their sleek, aerodynamic contours are a marvel of engineering that I find absolutely mesmerizing.",
+      "type": "collocation"
+    },
+    {
+      "word": "whisper-quiet engine",
+      "ipa": "/ˈwɪspə(r) ˈkwaɪət ˈendʒɪn/",
+      "meaning": "động cơ êm ái (không gây tiếng ồn)",
+      "example": "One reason I am a fan of high-end EVs is their whisper-quiet engine, which makes for a incredibly serene driving experience.",
+      "type": "collocation"
+    },
+    {
+      "word": "customizable specifications",
+      "ipa": "/ˈkʌstəmaɪzəbl ˌspesɪfɪˈkeɪʃnz/",
+      "meaning": "thông số kỹ thuật có thể tùy chỉnh theo ý muốn",
+      "example": "I like boutique sports cars that offer customizable specifications, allowing the owner to tailor the vehicle to their exact preferences.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_5_id1",
+  "vocab": [
+    {
+      "word": "drive someone up the wall",
+      "ipa": "/draɪv ˈsʌmwʌn ʌp ðə wɔːl/",
+      "meaning": "khiến ai đó phát điên/cực kỳ khó chịu",
+      "example": "Being stuck in a standstill during rush hour usually drives me up the wall, so I try to distract myself with music.",
+      "type": "idiom"
+    },
+    {
+      "word": "cool one's heels",
+      "ipa": "/kuːl wʌnz hiːlz/",
+      "meaning": "buộc phải dừng lại và chờ đợi (thường là một cách miễn cưỡng)",
+      "example": "I often have to cool my heels in traffic for an hour, which I use as an opportunity to plan my day.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the same boat",
+      "ipa": "/ɪn ðə seɪm bəʊt/",
+      "meaning": "cùng hội cùng thuyền (ở trong cùng một tình cảnh khó khăn)",
+      "example": "I look at the other drivers and realize we are all in the same boat, which helps me feel less frustrated about the delay.",
+      "type": "idiom"
+    },
+    {
+      "word": "at the end of one's tether",
+      "ipa": "/æt ðə end əv wʌnz ˈteðə(r)/",
+      "meaning": "kiệt sức/hết sạch sự kiên nhẫn",
+      "example": "By the time I finally exit a bottleneck, I'm often at the end of my tether due to the constant stop-and-go driving.",
+      "type": "idiom"
+    },
+    {
+      "word": "recharge one's batteries",
+      "ipa": "/ˌriːˈtʃɑːdʒ wʌnz ˈbætriz/",
+      "meaning": "hồi phục năng lượng/nghỉ ngơi",
+      "example": "If I'm not the one driving, I take the chance to close my eyes and recharge my batteries before getting home.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

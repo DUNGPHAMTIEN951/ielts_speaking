@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_3_id2",
+  "vocab": [
+    {
+      "word": "a status symbol",
+      "ipa": "/ə ˈsteɪtəs ˈsɪmbl/",
+      "meaning": "biểu tượng của địa vị/sự giàu sang",
+      "example": "To be honest, I'm not into cars that serve merely as a status symbol; I value utility and safety over brand prestige.",
+      "type": "idiom"
+    },
+    {
+      "word": "middle-of-the-road",
+      "ipa": "/ˌmɪdl əv ðə ˈrəʊd/",
+      "meaning": "bình thường, không có gì nổi trội (trung dung)",
+      "example": "I generally opt for middle-of-the-road vehicles that are reliable and won't draw too much unwanted attention.",
+      "type": "idiom"
+    },
+    {
+      "word": "ahead of the curve",
+      "ipa": "/əˈhed əv ðə kɜːv/",
+      "meaning": "dẫn đầu xu thế/đi trước thời đại",
+      "example": "I'm a huge fan of Tesla models because their software integration is truly ahead of the curve compared to traditional car makers.",
+      "type": "idiom"
+    },
+    {
+      "word": "the best of both worlds",
+      "ipa": "/ðə best əv bəʊθ wɜːldz/",
+      "meaning": "tốt cả đôi đường (kết hợp được ưu điểm của hai thứ khác nhau)",
+      "example": "Plug-in hybrids are my favorite because they offer the best of both worlds: electric efficiency for the city and petrol for long trips.",
+      "type": "idiom"
+    },
+    {
+      "word": "go like the wind",
+      "ipa": "/ɡəʊ laɪk ðə wɪnd/",
+      "meaning": "chạy nhanh như gió",
+      "example": "My dream is to own a supercar that can go like the wind on an open motorway, though that's hardly practical for my daily commute.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

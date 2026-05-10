@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Watch_2_id2",
+  "vocab": [
+    {
+      "word": "clutch at straws",
+      "ipa": "/klʌtʃ æt strɔːz/",
+      "meaning": "cố bám víu vào chút hy vọng cuối cùng (dùng khi nói về việc tìm lý do giữ lại món quà cũ)",
+      "example": "The watch is broken beyond repair, but I'm clutching at straws trying to find a way to fix it because it was a gift from my late grandfather.",
+      "type": "idiom"
+    },
+    {
+      "word": "dressed to the nines",
+      "ipa": "/drest tu ðə naɪnz/",
+      "meaning": "ăn mặc cực kỳ sang trọng/chỉnh tề",
+      "example": "I only wear that gold watch when I'm dressed to the nines for formal events like weddings.",
+      "type": "idiom"
+    },
+    {
+      "word": "a whale of a time",
+      "ipa": "/ə weɪl əv ə taɪm/",
+      "meaning": "có một khoảng thời gian cực kỳ vui vẻ",
+      "example": "I had a whale of a time at my graduation party, and receiving a stylish watch as a gift made it even more unforgettable.",
+      "type": "idiom"
+    },
+    {
+      "word": "cost an arm and a leg",
+      "ipa": "/kɒst æn ɑːm ənd ə leɡ/",
+      "meaning": "cực kỳ đắt đỏ",
+      "example": "I know the Swiss watch my uncle gave me must have cost him an arm and a leg, so I treat it with the utmost care.",
+      "type": "idiom"
+    },
+    {
+      "word": "pass something down",
+      "ipa": "/pɑːs ˈsʌmθɪŋ daʊn/",
+      "meaning": "truyền lại cho thế hệ sau",
+      "example": "The watch was passed down to me by my father on my 21st birthday, making it a precious family heirloom.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

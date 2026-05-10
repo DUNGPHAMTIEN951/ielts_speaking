@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Watch_4_id1",
+  "vocab": [
+    {
+      "word": "part and parcel",
+      "ipa": "/pɑːt ənd ˈpɑːsl/",
+      "meaning": "phần thiết yếu, không thể tách rời",
+      "example": "To me, wearing a watch is part and parcel of being a professional, as it demonstrates that you are mindful of other people's time.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep things ticking over",
+      "ipa": "/kiːp θɪŋz ˈtɪkɪŋ ˈəʊvə/",
+      "meaning": "duy trì mọi việc hoạt động trơn tru/đúng tiến độ",
+      "example": "I rely on my wristwatch to keep things ticking over throughout the day, ensuring I don't fall behind on my hectic schedule.",
+      "type": "idiom"
+    },
+    {
+      "word": "stand someone in good stead",
+      "ipa": "/stænd ˈsʌmwʌn ɪn ɡʊd sted/",
+      "meaning": "có ích cho ai đó (trong tương lai/tình huống cụ thể)",
+      "example": "The habit of wearing a watch will stand you in good stead during exams or interviews where mobile phones are strictly prohibited.",
+      "type": "idiom"
+    },
+    {
+      "word": "at the drop of a hat",
+      "ipa": "/æt ðə drɒp əv ə hæt/",
+      "meaning": "ngay lập tức, không chút do dự",
+      "example": "Having the time right on my wrist allows me to adjust my plans at the drop of a hat without having to fumble for my phone in a bag.",
+      "type": "idiom"
+    },
+    {
+      "word": "the tools of the trade",
+      "ipa": "/ðə tuːlz əv ðə treɪd/",
+      "meaning": "những vật dụng/kỹ năng cần thiết cho một công việc",
+      "example": "For a pilot or a diver, a high-precision watch is one of the essential tools of the trade rather than just a simple accessory.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

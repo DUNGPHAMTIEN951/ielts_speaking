@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_3_v2",
+  "vocab": [
+    {
+      "word": "streamlined silhouette",
+      "ipa": "/ˈstriːmlaɪnd ˌsɪluˈet/",
+      "meaning": "kiểu dáng hình bóng thon gọn, mượt mà",
+      "example": "I am particularly fond of modern sedans that boast a streamlined silhouette, as they look both elegant and sophisticated on the road.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "state-of-the-art safety features",
+      "ipa": "/steɪt əv ði ɑːt ˈseɪfti ˈfiːtʃərz/",
+      "meaning": "các tính năng an toàn hiện đại nhất",
+      "example": "When choosing a car, I lean towards family-oriented SUVs equipped with state-of-the-art safety features to ensure peace of mind during long trips.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "nimble handling",
+      "ipa": "/ˈnɪmbl ˈhændlɪŋ/",
+      "meaning": "khả năng điều khiển linh hoạt/nhạy bén",
+      "example": "I've always had a soft spot for compact hatchbacks because of their nimble handling, which makes navigating through congested city streets a breeze.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "utilitarian aesthetic",
+      "ipa": "/ˌjuːtɪlɪˈteəriən esˈθetɪk/",
+      "meaning": "vẻ đẹp mang tính thực dụng/tiện lợi",
+      "example": "I actually prefer pickup trucks with a rugged, utilitarian aesthetic over flashy luxury cars because they are built for durability and hard work.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "unrivaled comfort",
+      "ipa": "/ʌnˈraɪvld ˈkʌmfət/",
+      "meaning": "sự thoải mái vô song/không đối thủ",
+      "example": "Luxury limousines provide an unrivaled comfort that transforms even the most tedious journey into a relaxing experience.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

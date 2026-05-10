@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Childhood_activities_1_coll",
+  "vocab": [
+    {
+      "word": "unstructured play",
+      "ipa": "/ʌnˈstrʌktʃəd pleɪ/",
+      "meaning": "vui chơi tự do (không có quy tắc gò bó)",
+      "example": "I spent most of my weekends in unstructured play, wandering around the neighborhood with the local kids.",
+      "type": "collocation"
+    },
+    {
+      "word": "hands-on exploration",
+      "ipa": "/hændz ɒn ˌekspləˈreɪʃn/",
+      "meaning": "khám phá thực tế/trực tiếp",
+      "example": "My childhood was defined by hands-on exploration in the garden, where I would dig for worms and study plants.",
+      "type": "collocation"
+    },
+    {
+      "word": "boundless energy",
+      "ipa": "/ˈbaʊndləs ˈenədʒi/",
+      "meaning": "năng lượng vô biên",
+      "example": "With the boundless energy of a seven-year-old, I used to play tag until the sun went down.",
+      "type": "collocation"
+    },
+    {
+      "word": "evoke nostalgia",
+      "ipa": "/ɪˈvəʊk nɒˈstældʒə/",
+      "meaning": "gợi lại niềm hoài cổ/nhớ nhung",
+      "example": "Thinking about those summer football matches always evokes nostalgia for a simpler time.",
+      "type": "collocation"
+    },
+    {
+      "word": "stimulate cognitive development",
+      "ipa": "/ˈstɪmjuleɪt ˈkɒɡnətɪv dɪˈveləpmənt/",
+      "meaning": "kích thích phát triển nhận thức",
+      "example": "I loved solving complex puzzles, which my parents encouraged to stimulate cognitive development.",
+      "type": "collocation"
+    },
+    {
+      "word": "creative outlet",
+      "ipa": "/kriˈeɪtɪv ˈaʊtlet/",
+      "meaning": "cửa ngõ/phương thức để giải tỏa sức sáng tạo",
+      "example": "Drawing provided a vital creative outlet for me when I was struggling to express myself with words.",
+      "type": "collocation"
+    },
+    {
+      "word": "socialize with peers",
+      "ipa": "/ˈsəʊʃəlaɪz wɪð pɪərz/",
+      "meaning": "giao lưu với bạn bè cùng trang lứa",
+      "example": "Traditional folk games were the primary way I would socialize with peers in my village.",
+      "type": "collocation"
+    },
+    {
+      "word": "innate curiosity",
+      "ipa": "/ɪˈneɪt ˌkjʊəriˈɒsəti/",
+      "meaning": "sự tò mò bẩm sinh",
+      "example": "Driven by an innate curiosity, I used to take my toys apart just to see how they worked.",
+      "type": "collocation"
+    },
+    {
+      "word": "strengthen interpersonal bonds",
+      "ipa": "/ˈstreŋθn ˌɪntəˈpɜːsənl bɒndz/",
+      "meaning": "thắt chặt các mối quan hệ giữa người với người",
+      "example": "Participating in team sports helped me strengthen interpersonal bonds and learn the value of cooperation.",
+      "type": "collocation"
+    },
+    {
+      "word": "whiling away the hours",
+      "ipa": "/waɪlɪŋ əˈweɪ ðə ˈaʊərz/",
+      "meaning": "giết thời gian (một cách thư thả)",
+      "example": "We enjoyed whiling away the hours by the riverbank, trying to catch small fish with plastic bottles.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

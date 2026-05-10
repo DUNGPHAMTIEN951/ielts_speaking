@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Scenery_2_idiom",
+  "vocab": [
+    {
+      "word": "a breath of fresh air",
+      "ipa": "/ə breθ əv freʃ eə(r)/",
+      "meaning": "một luồng gió mới (cảm giác nhẹ nhõm, mới mẻ)",
+      "example": "Escaping to the highlands is a breath of fresh air after months of breathing in city smog.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the middle of nowhere",
+      "ipa": "/ɪn ðə ˈmɪdl əv ˈnəʊweə(r)/",
+      "meaning": "ở một nơi xa xôi hẻo lánh, cách biệt thành phố",
+      "example": "I love being in the middle of nowhere, surrounded by nothing but towering peaks and pine trees.",
+      "type": "idiom"
+    },
+    {
+      "word": "plain sailing",
+      "ipa": "/pleɪn ˈseɪlɪŋ/",
+      "meaning": "thuận buồm xuôi gió (dễ dàng, không gặp trở ngại)",
+      "example": "I prefer the sea because life there feels like plain sailing, away from the uphill struggle of daily work.",
+      "type": "idiom"
+    },
+    {
+      "word": "the world is your oyster",
+      "ipa": "/ðə wɜːld ɪz jɔː(r) ˈɔɪstə(r)/",
+      "meaning": "thế giới là của bạn (bạn có thể làm bất cứ điều gì/đi bất cứ đâu)",
+      "example": "Standing on a cliff overlooking the ocean, you really feel like the world is your oyster.",
+      "type": "idiom"
+    },
+    {
+      "word": "move mountains",
+      "ipa": "/muːv ˈmaʊntɪnz/",
+      "meaning": "làm nên những điều phi thường/dời non lấp bể",
+      "example": "The sheer scale of the Alps makes me feel like I could move mountains if I set my mind to it.",
+      "type": "idiom"
+    },
+    {
+      "word": "make a splash",
+      "ipa": "/meɪk ə splæʃ/",
+      "meaning": "gây chú ý, tạo nên làn sóng (nghĩa bóng: hưởng thụ sự náo nhiệt)",
+      "example": "I’m definitely a sea person; I love to make a splash and enjoy the vibrant energy of coastal resorts.",
+      "type": "idiom"
+    },
+    {
+      "word": "reach the pinnacle",
+      "ipa": "/riːtʃ ðə ˈpɪnəkl/",
+      "meaning": "đạt tới đỉnh cao (nghĩa đen: đỉnh núi, nghĩa bóng: thành công nhất)",
+      "example": "Nothing compares to the satisfaction of reaching the pinnacle of a mountain after a long trek.",
+      "type": "idiom"
+    },
+    {
+      "word": "ebb and flow",
+      "ipa": "/eb ənd fləʊ/",
+      "meaning": "sự thăng trầm, biến đổi không ngừng (như nhịp thủy triều)",
+      "example": "Watching the ebb and flow of the tide helps me reflect on the changing nature of my own life.",
+      "type": "idiom"
+    },
+    {
+      "word": "as old as the hills",
+      "ipa": "/əz əʊld əz ðə hɪlz/",
+      "meaning": "rất cũ, xưa như trái đất",
+      "example": "There is a profound wisdom in the mountains; they feel as old as the hills and completely timeless.",
+      "type": "idiom"
+    },
+    {
+      "word": "on cloud nine",
+      "ipa": "/ɒn klaʊd naɪn/",
+      "meaning": "cực kỳ hạnh phúc/như ở trên chín tầng mây",
+      "example": "Whenever I’m at the seaside with my family, I’m on cloud nine and completely forget my worries.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

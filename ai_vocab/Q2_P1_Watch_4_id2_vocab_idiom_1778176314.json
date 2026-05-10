@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Watch_4_id2",
+  "vocab": [
+    {
+      "word": "a whale of a time",
+      "ipa": "/ə weɪl əv ə taɪm/",
+      "meaning": "có một khoảng thời gian cực kỳ vui vẻ (nhờ quản lý thời gian tốt)",
+      "example": "By keeping an eye on my watch and staying organized, I can finish my chores early and have a whale of a time with my friends.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the long run",
+      "ipa": "/ɪn ðə lɒŋ rʌn/",
+      "meaning": "về lâu về dài",
+      "example": "Investing in a solid timepiece might seem expensive now, but in the long run, its durability and timeless style make it a wise choice.",
+      "type": "idiom"
+    },
+    {
+      "word": "beat the clock",
+      "ipa": "/biːt ðə klɒk/",
+      "meaning": "hoàn thành việc gì đó trước khi hết giờ",
+      "example": "I always wear a watch during exams because it's the only way I can effectively pace myself to beat the clock.",
+      "type": "idiom"
+    },
+    {
+      "word": "the gift of time",
+      "ipa": "/ðə ɡɪft əv taɪm/",
+      "meaning": "món quà thời gian (sự quý giá của việc quản lý thời gian)",
+      "example": "A watch is more than an accessory; it represents the gift of time and the importance of not squandering our limited hours.",
+      "type": "idiom"
+    },
+    {
+      "word": "stand the test of time",
+      "ipa": "/stænd ðə test əv taɪm/",
+      "meaning": "trường tồn với thời gian",
+      "example": "I prefer mechanical watches because they stand the test of time, unlike smartwatches that become obsolete in just a few years.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

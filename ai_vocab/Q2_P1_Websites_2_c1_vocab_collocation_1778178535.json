@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Websites_2_c1",
+  "vocab": [
+    {
+      "word": "streamline the workflow",
+      "ipa": "/ˈstriːmlaɪn ðə ˈwɜːkfləʊ/",
+      "meaning": "tối ưu hóa quy trình làm việc",
+      "example": "I am particularly fond of Trello because its features help streamline the workflow for my group projects.",
+      "type": "collocation"
+    },
+    {
+      "word": "clutter-free environment",
+      "ipa": "/ˈklʌtə friː ɪnˈvaɪrənmənt/",
+      "meaning": "môi trường không có sự lộn xộn/rác mắt",
+      "example": "Medium is my favorite platform because it offers a clutter-free environment that lets me focus entirely on the quality of the writing.",
+      "type": "collocation"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ tìm thấy/bắt gặp",
+      "example": "Reddit is a site where you can stumble upon fascinating subcultures and niche topics you never knew existed.",
+      "type": "collocation"
+    },
+    {
+      "word": "cater to a niche",
+      "ipa": "/ˈkeɪtə tə ə niːʃ/",
+      "meaning": "phục vụ một thị trường/đối tượng đặc thù",
+      "example": "I frequent GitHub as it perfectly caters to a niche audience of developers seeking open-source collaboration.",
+      "type": "collocation"
+    },
+    {
+      "word": "unrivaled accessibility",
+      "ipa": "/ʌnˈraɪvəld ækˌsesəˈbɪləti/",
+      "meaning": "khả năng truy cập không đối thủ (rất thuận tiện)",
+      "example": "The unrivaled accessibility of Wikipedia makes it an indispensable tool for a quick fact-check on any subject.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

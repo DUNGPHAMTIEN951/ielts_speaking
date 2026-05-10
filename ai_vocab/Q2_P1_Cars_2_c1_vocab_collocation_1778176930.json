@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_2_c1",
+  "vocab": [
+    {
+      "word": "a sense of exhilaration",
+      "ipa": "/ə sens əv ɪɡˌzɪləˈreɪʃn/",
+      "meaning": "cảm giác phấn khích, hào hứng tột độ",
+      "example": "I remember a profound sense of exhilaration whenever my parents drove us through the winding mountain passes.",
+      "type": "collocation"
+    },
+    {
+      "word": "confined space",
+      "ipa": "/kənˈfaɪnd speɪs/",
+      "meaning": "không gian chật hẹp, tù túng",
+      "example": "To be honest, spending hours in the confined space of a car often made me quite restless as a hyperactive child.",
+      "type": "collocation"
+    },
+    {
+      "word": "staring aimlessly",
+      "ipa": "/ˈsteərɪŋ ˈeɪmləsli/",
+      "meaning": "nhìn chăm chú một cách vô định",
+      "example": "I used to spend the entire journey staring aimlessly out the window, watching the city lights blur together.",
+      "type": "collocation"
+    },
+    {
+      "word": "evoke nostalgia",
+      "ipa": "/ɪˈvəʊk nɒˈstældʒə/",
+      "meaning": "gợi lại nỗi nhớ/kỷ niệm xưa",
+      "example": "The smell of old leather seats still manages to evoke nostalgia for the road trips we took every summer.",
+      "type": "collocation"
+    },
+    {
+      "word": "uninterrupted bonding time",
+      "ipa": "/ˌʌnɪntəˈrʌptɪd ˈbɒndɪŋ taɪm/",
+      "meaning": "khoảng thời gian gắn kết không bị gián đoạn",
+      "example": "Long car rides provided rare, uninterrupted bonding time for our family, away from the distractions of television.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

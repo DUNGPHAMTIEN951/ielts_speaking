@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Websites_2_v2",
+  "vocab": [
+    {
+      "word": "intuitive interface",
+      "ipa": "/ɪnˈtjuː.ɪ.tɪv ˈɪn.tə.feɪs/",
+      "meaning": "giao diện trực quan (dễ hiểu và dễ sử dụng)",
+      "example": "My favorite website boasts an intuitive interface that makes finding complex data feel like a breeze.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "curate content",
+      "ipa": "/kjʊəˈreɪt ˈkɒn.tent/",
+      "meaning": "chọn lọc và sắp xếp nội dung",
+      "example": "I love how the platform curates content specifically to match my professional interests in digital marketing.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "unfettered access",
+      "ipa": "/ʌnˈfet.əd ˈæk.ses/",
+      "meaning": "sự truy cập không bị giới hạn/tự do",
+      "example": "The site provides unfettered access to a vast archive of scholarly articles without requiring a subscription.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "aesthetic minimalism",
+      "ipa": "/esˈθet.ɪk ˈmɪn.ɪ.məl.ɪ.zəm/",
+      "meaning": "tính thẩm mỹ tối giản",
+      "example": "I'm drawn to the site's aesthetic minimalism, as it keeps the focus entirely on the high-quality photography.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "keep abreast of",
+      "ipa": "/kiːp əˈbrest əv/",
+      "meaning": "cập nhật những tin tức/thông tin mới nhất",
+      "example": "This tech blog is my daily go-to because it helps me keep abreast of the rapid developments in artificial intelligence.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

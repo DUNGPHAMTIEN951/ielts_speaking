@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Building_1",
+  "vocab": [
+    {
+      "word": "towering skyscrapers",
+      "ipa": "/ˈtaʊərɪŋ ˈskaɪskreɪpəz/",
+      "meaning": "những tòa nhà chọc trời cao ngất ngưởng",
+      "example": "My neighborhood is dominated by towering skyscrapers that seem to touch the clouds.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "sprawl across the horizon",
+      "ipa": "/sprɔːl əˈkrɒs ðə həˈraɪzn/",
+      "meaning": "trải dài khắp chân trời",
+      "example": "A series of high-rise apartment complexes sprawl across the horizon just a few blocks from my house.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "urban landscape",
+      "ipa": "/ˈɜːbən ˈlændskeɪp/",
+      "meaning": "cảnh quan đô thị",
+      "example": "The urban landscape near my residence has changed dramatically with the addition of several glass-fronted towers.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "obstruct the view",
+      "ipa": "/əbˈstrʌkt ðə vjuː/",
+      "meaning": "làm cản trở/che khuất tầm nhìn",
+      "example": "I used to see the mountains, but recently, a massive office block was built that completely obstructs the view.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "concrete jungle",
+      "ipa": "/ˈkɒŋkriːt ˈdʒʌŋɡl/",
+      "meaning": "khu rừng bê tông (nơi có quá nhiều tòa nhà cao tầng)",
+      "example": "Living in the heart of the city, I'm surrounded by a concrete jungle with very little green space between the buildings.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "high-density housing",
+      "ipa": "/haɪ ˈdensəti ˈhaʊzɪŋ/",
+      "meaning": "khu nhà ở có mật độ dân cư cao",
+      "example": "The area has seen a surge in high-density housing to accommodate the growing population of young professionals.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "vertical expansion",
+      "ipa": "/ˈvɜːtɪkl ɪkˈspænʃn/",
+      "meaning": "sự mở rộng theo chiều dọc (xây dựng lên cao)",
+      "example": "Due to the scarcity of land, the city council has encouraged vertical expansion in my district.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "dwarf the surroundings",
+      "ipa": "/dwɔːf ðə səˈraʊndɪŋz/",
+      "meaning": "làm cho các khu vực xung quanh trở nên nhỏ bé",
+      "example": "There is a new 50-story commercial center that absolutely dwarfs the older, two-story houses nearby.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "state-of-the-art architecture",
+      "ipa": "/steɪt əv ðɪ ɑːt ˈɑːkɪtektʃə(r)/",
+      "meaning": "kiến trúc hiện đại bậc nhất",
+      "example": "The tall buildings near my home are examples of state-of-the-art architecture, featuring eco-friendly glass and solar panels.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "within close proximity to",
+      "ipa": "/wɪˈðɪn kləʊs prɒkˈsɪməti tu/",
+      "meaning": "ở rất gần với",
+      "example": "I live within close proximity to a financial hub where most of the city's tallest structures are located.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

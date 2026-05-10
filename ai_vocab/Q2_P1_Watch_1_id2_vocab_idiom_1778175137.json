@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Watch_1_id2",
+  "vocab": [
+    {
+      "word": "part and parcel of",
+      "ipa": "/pɑːt ənd ˈpɑː.səl əv/",
+      "meaning": "phần thiết yếu, không thể tách rời",
+      "example": "Wearing a vintage watch has become part and parcel of my daily attire; I feel somewhat incomplete without it.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep tabs on",
+      "ipa": "/kiːp tæbz ɒn/",
+      "meaning": "theo dõi chặt chẽ (giờ giấc/tiến độ)",
+      "example": "I prefer wearing a watch because it allows me to keep tabs on the time during meetings without looking disrespectful by checking my phone.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the blink of an eye",
+      "ipa": "/ɪn ðə blɪŋk əv ənaɪ/",
+      "meaning": "trong nháy mắt (diễn tả thời gian trôi nhanh)",
+      "example": "Time seems to fly by in the blink of an eye when I'm busy, so having a watch helps me stay grounded and managed.",
+      "type": "idiom"
+    },
+    {
+      "word": "at a premium",
+      "ipa": "/æt ə ˈpriː.mi.əm/",
+      "meaning": "trở nên khan hiếm/đắt giá (thời gian là vàng bạc)",
+      "example": "When my time is at a premium, a quick glance at my wrist is far more efficient than fumbling for a mobile device.",
+      "type": "idiom"
+    },
+    {
+      "word": "a change of heart",
+      "ipa": "/ə tʃeɪndʒ əv hɑːt/",
+      "meaning": "thay đổi ý định/quan điểm",
+      "example": "I used to think watches were redundant, but I had a change of heart after realizing how much they enhance one's professional appearance.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_4_v2",
+  "vocab": [
+    {
+      "word": "tactile feedback",
+      "ipa": "/ˈtæk.taɪl ˈfiːd.bæk/",
+      "meaning": "phản hồi xúc giác (cảm giác từ vô lăng/mặt đường)",
+      "example": "I relish being the driver because I enjoy the tactile feedback of the steering wheel and the thrill of controlling the machine.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "vicarious enjoyment",
+      "ipa": "/vɪˈkeə.ri.əs ɪnˈdʒɔɪ.mənt/",
+      "meaning": "niềm vui gián tiếp (tận hưởng qua trải nghiệm của người khác)",
+      "example": "I often opt for the passenger seat to get some vicarious enjoyment watching my friend navigate the winding coastal roads.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "unimpeded attention",
+      "ipa": "/ˌʌn.ɪmˈpiː.dɪd əˈten.ʃn/",
+      "meaning": "sự chú ý không bị cản trở/gián đoạn",
+      "example": "Being a passenger allows me to give my unimpeded attention to the surrounding scenery rather than the traffic lights.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "master of one's own destiny",
+      "ipa": "/ˈmɑː.stər əv wʌnz əʊn ˈdes.tɪ.ni/",
+      "meaning": "người làm chủ định mệnh/quyết định của chính mình",
+      "example": "When I'm behind the wheel, I feel like the master of my own destiny, choosing exactly when to stop or take a detour.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "alleviate the burden",
+      "ipa": "/əˈliː.vi.eɪt ðə ˈbɜː.dn/",
+      "meaning": "giảm bớt gánh nặng (áp lực lái xe)",
+      "example": "On long-haul trips, I prefer to swap roles frequently to alleviate the burden of driving and keep everyone alert.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_4_coll",
+  "vocab": [
+    {
+      "word": "content aggregation sites",
+      "ipa": "/ˈkɒntent ˌæɡrɪˈɡeɪʃn saɪts/",
+      "meaning": "các trang web tổng hợp nội dung",
+      "example": "Content aggregation sites have gained massive popularity as they allow users to consume news from multiple sources in one place.",
+      "type": "collocation"
+    },
+    {
+      "word": "user-generated content",
+      "ipa": "/ˈjuːzə ˈdʒenəreɪtɪd ˈkɒntent/",
+      "meaning": "nội dung do người dùng tạo ra",
+      "example": "Platforms centered around user-generated content, like video-sharing sites, are currently the primary form of entertainment for teenagers.",
+      "type": "collocation"
+    },
+    {
+      "word": "knowledge-sharing forums",
+      "ipa": "/ˈnɒlɪdʒ ˈʃeərɪŋ ˈfɔːrəmz/",
+      "meaning": "diễn đàn chia sẻ kiến thức",
+      "example": "Knowledge-sharing forums are the go-to destination for enthusiasts looking to troubleshoot technical issues or learn new hobbies.",
+      "type": "collocation"
+    },
+    {
+      "word": "fintech ecosystems",
+      "ipa": "/ˈfɪntek ˈiːkəʊˌsɪstəmz/",
+      "meaning": "hệ sinh thái công nghệ tài chính",
+      "example": "The rise of fintech ecosystems has made digital wallet websites indispensable for daily transactions and bill payments.",
+      "type": "collocation"
+    },
+    {
+      "word": "niche interest communities",
+      "ipa": "/niːʃ ˈɪntrəst kəˈmjuːnətiz/",
+      "meaning": "các cộng đồng có cùng sở thích đặc thù",
+      "example": "Websites catering to niche interest communities, such as birdwatching or mechanical keyboards, have seen a steady growth in membership.",
+      "type": "collocation"
+    },
+    {
+      "word": "proprietary software platforms",
+      "ipa": "/prəˈpraɪətəri ˈsɒftweə(r) ˈplætfɔːm/",
+      "meaning": "các nền tảng phần mềm độc quyền",
+      "example": "Many professionals frequent proprietary software platforms online to utilize advanced cloud-based design and coding tools.",
+      "type": "collocation"
+    },
+    {
+      "word": "peer-to-peer marketplaces",
+      "ipa": "/pɪə(r) tə pɪə(r) ˈmɑːkɪtpleɪsɪz/",
+      "meaning": "thị trường giao dịch trực tiếp giữa cá nhân với cá nhân",
+      "example": "Peer-to-peer marketplaces are incredibly popular for students wanting to trade used textbooks or furniture locally.",
+      "type": "collocation"
+    },
+    {
+      "word": "on-demand video platforms",
+      "ipa": "/ɒn dɪˈmɑːnd ˈvɪdiəʊ ˈplætfɔːm/",
+      "meaning": "nền tảng video theo yêu cầu",
+      "example": "Local on-demand video platforms are successfully competing with international giants by offering culturally relevant movies.",
+      "type": "collocation"
+    },
+    {
+      "word": "career development portals",
+      "ipa": "/kəˈrɪə(r) dɪˈveləpmənt ˈpɔːtlz/",
+      "meaning": "cổng thông tin phát triển sự nghiệp",
+      "example": "With the competitive job market, career development portals that offer certified courses have become a staple for fresh graduates.",
+      "type": "collocation"
+    },
+    {
+      "word": "collaborative workspaces",
+      "ipa": "/kəˈlæbərətɪv ˈwɜːkspeɪsɪz/",
+      "meaning": "không gian làm việc cộng tác trực tuyến",
+      "example": "Since the shift to remote work, collaborative workspaces and project management websites have become essential tools for local businesses.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

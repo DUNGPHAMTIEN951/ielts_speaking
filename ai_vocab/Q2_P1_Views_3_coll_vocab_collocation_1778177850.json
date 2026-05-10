@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Views_3_coll",
+  "vocab": [
+    {
+      "word": "aesthetically pleasing",
+      "ipa": "/iːsˈθetɪkli ˈpliːzɪŋ/",
+      "meaning": "có tính thẩm mỹ cao, đẹp mắt",
+      "example": "While my country has its charms, I find the alpine scenery in Switzerland to be more aesthetically pleasing.",
+      "type": "collocation"
+    },
+    {
+      "word": "topographical contrast",
+      "ipa": "/ˌtɒpəˈɡræfɪkl ˈkɒntrɑːst/",
+      "meaning": "sự tương phản về địa hình",
+      "example": "Traveling abroad allows me to witness a topographical contrast that simply doesn't exist within our national borders.",
+      "type": "collocation"
+    },
+    {
+      "word": "breathtaking backdrop",
+      "ipa": "/ˈbreθteɪkɪŋ ˈbækdrɒp/",
+      "meaning": "khung cảnh nền đẹp đến ngạt thở",
+      "example": "The ancient temples in Greece provide a breathtaking backdrop for photography that is hard to find elsewhere.",
+      "type": "collocation"
+    },
+    {
+      "word": "innate connection",
+      "ipa": "/ɪˈneɪt kəˈnekʃn/",
+      "meaning": "mối liên kết bẩm sinh/tự nhiên",
+      "example": "I feel an innate connection to the local rice terraces, as they represent the agricultural heart of my homeland.",
+      "type": "collocation"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ bắt gặp",
+      "example": "One of the joys of going overseas is to stumble upon hidden coastal views that aren't mentioned in guidebooks.",
+      "type": "collocation"
+    },
+    {
+      "word": "visual splendor",
+      "ipa": "/ˈvɪʒuəl ˈsplendə(r)/",
+      "meaning": "sự huy hoàng/rực rỡ về mặt thị giác",
+      "example": "The visual splendor of the Northern Lights in Scandinavia is something I’ve always dreamt of seeing in person.",
+      "type": "collocation"
+    },
+    {
+      "word": "urban sprawl",
+      "ipa": "/ˈɜːbən sprɔːl/",
+      "meaning": "sự mở rộng đô thị (thường mang nghĩa tiêu cực)",
+      "example": "I prefer foreign rural landscapes because my own country’s scenery is increasingly marred by rapid urban sprawl.",
+      "type": "collocation"
+    },
+    {
+      "word": "quaint village",
+      "ipa": "/kweɪnt ˈvɪlɪdʒ/",
+      "meaning": "ngôi làng cổ kính, xinh xắn",
+      "example": "There is a certain picturesque quality to a quaint village in the French countryside that feels like it’s frozen in time.",
+      "type": "collocation"
+    },
+    {
+      "word": "vast wilderness",
+      "ipa": "/vɑːst ˈwɪldənəs/",
+      "meaning": "vùng hoang dã bao la",
+      "example": "I am captivated by the vast wilderness of the Canadian Rockies, which offers a sense of scale I can't find at home.",
+      "type": "collocation"
+    },
+    {
+      "word": "panoramic view",
+      "ipa": "/ˌpænəˈræmɪk vjuː/",
+      "meaning": "tầm nhìn toàn cảnh",
+      "example": "From the top of the Burj Khalifa, you get a panoramic view of Dubai that showcases the pinnacle of human engineering.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

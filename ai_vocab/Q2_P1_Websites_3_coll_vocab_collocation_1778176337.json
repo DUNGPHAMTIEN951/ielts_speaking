@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_3_coll",
+  "vocab": [
+    {
+      "word": "seamless integration",
+      "ipa": "/ˈsiːmləs ˌɪntɪˈɡreɪʃn/",
+      "meaning": "sự tích hợp mượt mà",
+      "example": "I've noticed a seamless integration of AI chatbots on most e-commerce sites, which makes getting support much faster.",
+      "type": "collocation"
+    },
+    {
+      "word": "cluttered interface",
+      "ipa": "/ˈklʌtəd ˈɪntəfeɪs/",
+      "meaning": "giao diện lộn xộn, rối mắt",
+      "example": "One major change is that they’ve moved away from a cluttered interface to a more minimalist design to enhance readability.",
+      "type": "collocation"
+    },
+    {
+      "word": "personalized recommendations",
+      "ipa": "/ˈpɜːsənəlaɪzd ˌrekəmenˈdeɪʃnz/",
+      "meaning": "các đề xuất được cá nhân hóa",
+      "example": "Streaming platforms have drastically improved their personalized recommendations, accurately predicting what I want to watch next.",
+      "type": "collocation"
+    },
+    {
+      "word": "intrusive advertising",
+      "ipa": "/ɪnˈtruːsɪv ˈædvətaɪzɪŋ/",
+      "meaning": "quảng cáo gây phiền hà/xâm nhập",
+      "example": "Unfortunately, some news sites have adopted more intrusive advertising, with pop-ups that hinder the overall browsing experience.",
+      "type": "collocation"
+    },
+    {
+      "word": "responsive web design",
+      "ipa": "/rɪˈspɒnsɪv web dɪˈzaɪn/",
+      "meaning": "thiết kế web tương thích (với nhiều thiết bị)",
+      "example": "The most significant upgrade is the shift toward responsive web design, ensuring the layout looks perfect on both tablets and smartphones.",
+      "type": "collocation"
+    },
+    {
+      "word": "user engagement metrics",
+      "ipa": "/ˈjuːzər ɪnˈɡeɪdʒmənt ˈmetrɪks/",
+      "meaning": "các chỉ số đo lường mức độ tương tác của người dùng",
+      "example": "Websites are constantly evolving based on user engagement metrics to ensure that the most popular content is highlighted.",
+      "type": "collocation"
+    },
+    {
+      "word": "dark mode functionality",
+      "ipa": "/dɑːk məʊd ˌfʌŋkʃəˈnæləti/",
+      "meaning": "tính năng chế độ tối (nền đen)",
+      "example": "Almost every site I visit now offers dark mode functionality, which is a blessing for reducing eye strain during night-time browsing.",
+      "type": "collocation"
+    },
+    {
+      "word": "intuitive navigation",
+      "ipa": "/ɪnˈtjuːɪtɪv ˌnævɪˈɡeɪʃn/",
+      "meaning": "điều hướng trực quan (dễ hiểu, dễ dùng)",
+      "example": "The developers have prioritized intuitive navigation, allowing users to find obscure settings without having to dig through menus.",
+      "type": "collocation"
+    },
+    {
+      "word": "security vulnerabilities",
+      "ipa": "/sɪˈkjʊərəti ˌvʌlnərəˈbɪlətiz/",
+      "meaning": "các lỗ hổng bảo mật",
+      "example": "They have overhauled their backend system to patch security vulnerabilities and protect user accounts from potential breaches.",
+      "type": "collocation"
+    },
+    {
+      "word": "loading speed optimization",
+      "ipa": "/ˈləʊdɪŋ spiːd ˌɒptɪmaɪˈzeɪʃn/",
+      "meaning": "tối ưu hóa tốc độ tải trang",
+      "example": "Thanks to better loading speed optimization, the high-resolution images on the gallery site now appear almost instantaneously.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_3_coll",
+  "vocab": [
+    {
+      "word": "a paradigm shift in",
+      "ipa": "/ə ˈpærədaɪm ʃɪft ɪn/",
+      "meaning": "một sự thay đổi mang tính bước ngoặt/căn bản về",
+      "example": "There has been a paradigm shift in how news sites present information, moving from static text to highly interactive data visualizations.",
+      "type": "collocation"
+    },
+    {
+      "word": "seamlessly transition between",
+      "ipa": "/ˈsiːmləsli trænˈzɪʃn bɪˈtwiːn/",
+      "meaning": "chuyển đổi mượt mà giữa các nền tảng/chế độ",
+      "example": "I've noticed that most websites now allow users to seamlessly transition between light and dark modes based on their system settings.",
+      "type": "collocation"
+    },
+    {
+      "word": "end-to-end encryption",
+      "ipa": "/ˌend tu ˈend ɪnˈkrɪpʃn/",
+      "meaning": "mã hóa đầu cuối (bảo mật toàn diện)",
+      "example": "Many communication-based websites have implemented end-to-end encryption to bolster user privacy against potential data breaches.",
+      "type": "collocation"
+    },
+    {
+      "word": "intuitive touch-friendly controls",
+      "ipa": "/ɪnˈtjuːɪtɪv tʌtʃ ˈfrendli kənˈtrəʊlz/",
+      "meaning": "các trình điều khiển cảm ứng trực quan",
+      "example": "A major change is the introduction of intuitive touch-friendly controls, making desktop sites much easier to navigate on tablets.",
+      "type": "collocation"
+    },
+    {
+      "word": "cloud-based synchronization",
+      "ipa": "/klaʊd beɪst ˌsɪŋkrənaɪˈzeɪʃn/",
+      "meaning": "đồng bộ hóa dựa trên nền tảng đám mây",
+      "example": "The most significant update is the cloud-based synchronization, which ensures my preferences are saved regardless of which device I use.",
+      "type": "collocation"
+    },
+    {
+      "word": "tailored to individual behavior",
+      "ipa": "/ˈteɪlərd tu ˌɪndɪˈvɪdʒuəl bɪˈheɪvjər/",
+      "meaning": "được tùy chỉnh theo hành vi cá nhân",
+      "example": "Websites are becoming increasingly tailored to individual behavior, showing me content that aligns perfectly with my previous searches.",
+      "type": "collocation"
+    },
+    {
+      "word": "eliminate technical glitches",
+      "ipa": "/ɪˈlɪmɪneɪt ˈteknɪkl ˈɡlɪtʃɪz/",
+      "meaning": "loại bỏ các lỗi kỹ thuật",
+      "example": "Recent updates have managed to eliminate technical glitches that used to cause the site to crash during peak hours.",
+      "type": "collocation"
+    },
+    {
+      "word": "undergo a visual refinement",
+      "ipa": "/ˌʌndərˈɡəʊ ə ˈvɪʒuəl rɪˈfaɪnmənt/",
+      "meaning": "trải qua một sự tinh chỉnh về mặt hình ảnh",
+      "example": "The platform didn't change its core features, but it did undergo a visual refinement to appear more modern and professional.",
+      "type": "collocation"
+    },
+    {
+      "word": "adhere to stringent privacy laws",
+      "ipa": "/ədˈhɪər tu ˈstrɪndʒənt ˈpraɪvəsi lɔːz/",
+      "meaning": "tuân thủ các luật quyền riêng tư nghiêm ngặt",
+      "example": "Websites have had to change their cookie policies to adhere to stringent privacy laws like the GDPR.",
+      "type": "collocation"
+    },
+    {
+      "word": "rich in interactive elements",
+      "ipa": "/rɪtʃ ɪn ˌɪntərˈæktɪv ˈelɪmənts/",
+      "meaning": "giàu các yếu tố tương tác",
+      "example": "The latest version of the site is much more rich in interactive elements, such as live polls and dynamic infographics.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

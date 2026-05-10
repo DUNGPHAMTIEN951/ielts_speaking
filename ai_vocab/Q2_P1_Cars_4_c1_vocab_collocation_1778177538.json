@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_4_c1",
+  "vocab": [
+    {
+      "word": "a sense of liberation",
+      "ipa": "/ə sens əv ˌlɪbəˈreɪʃn/",
+      "meaning": "cảm giác tự do/giải phóng",
+      "example": "Being behind the wheel gives me a sense of liberation, as I can decide my own route and pace.",
+      "type": "collocation"
+    },
+    {
+      "word": "recline the seat",
+      "ipa": "/rɪˈklaɪn ðə siːt/",
+      "meaning": "ngả ghế ra sau",
+      "example": "I prefer being a passenger because I can simply recline the seat and take a short nap during long journeys.",
+      "type": "collocation"
+    },
+    {
+      "word": "uninterrupted focus",
+      "ipa": "/ˌʌnˌɪntəˈrʌptɪd ˈfəʊkəs/",
+      "meaning": "sự tập trung không bị gián đoạn",
+      "example": "Driving requires uninterrupted focus, which I find quite therapeutic as it clears my mind of other worries.",
+      "type": "collocation"
+    },
+    {
+      "word": "passive observer",
+      "ipa": "/ˈpæsɪv əbˈzɜːvə(r)/",
+      "meaning": "người quan sát thụ động",
+      "example": "I enjoy the role of a passive observer, soaking in the city's sights while someone else handles the stressful traffic.",
+      "type": "collocation"
+    },
+    {
+      "word": "mechanical sympathy",
+      "ipa": "/mɪˈkænɪkl ˈsɪmpəθi/",
+      "meaning": "sự am hiểu và nâng niu máy móc (xe cộ)",
+      "example": "As a driver with a bit of mechanical sympathy, I like to feel how the engine responds to my touch on the pedals.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

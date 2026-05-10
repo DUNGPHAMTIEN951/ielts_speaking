@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Childhood_activities_1_coll",
+  "vocab": [
+    {
+      "word": "unstructured play",
+      "ipa": "/ʌnˈstrʌktʃəd pleɪ/",
+      "meaning": "vui chơi tự do (không có quy tắc gò bó)",
+      "example": "I spent most of my weekends engaged in unstructured play, which I believe is vital for developing a child's autonomy.",
+      "type": "collocation"
+    },
+    {
+      "word": "artistic endeavors",
+      "ipa": "/ɑːˈtɪstɪk ɪnˈdevərz/",
+      "meaning": "các nỗ lực/hoạt động nghệ thuật",
+      "example": "My parents always encouraged my artistic endeavors, such as pottery and finger painting, providing me with all the necessary supplies.",
+      "type": "collocation"
+    },
+    {
+      "word": "a sense of camaraderie",
+      "ipa": "/ə sens əv ˌkæməˈrɑːdəri/",
+      "meaning": "tình bạn thân thiết, sự đồng lòng",
+      "example": "Participating in neighborhood scavenger hunts built a strong sense of camaraderie among the local children.",
+      "type": "collocation"
+    },
+    {
+      "word": "recreational pursuits",
+      "ipa": "/ˌrekriˈeɪʃənl pəˈsjuːts/",
+      "meaning": "các hoạt động theo đuổi mang tính giải trí",
+      "example": "Swimming and cycling were my primary recreational pursuits whenever the summer break rolled around.",
+      "type": "collocation"
+    },
+    {
+      "word": "evoke a sense of nostalgia",
+      "ipa": "/ɪˈvəʊk ə sens əv nɒˈstældʒə/",
+      "meaning": "gợi lại cảm giác hoài niệm",
+      "example": "Thinking about those afternoons spent building sandcastles always evokes a profound sense of nostalgia in me.",
+      "type": "collocation"
+    },
+    {
+      "word": "cognitive development",
+      "ipa": "/ˈkɒɡnətɪv dɪˈveləpmənt/",
+      "meaning": "sự phát triển nhận thức",
+      "example": "Solving complex riddles and puzzles was a favorite pastime that significantly aided my cognitive development.",
+      "type": "collocation"
+    },
+    {
+      "word": "whimsical escapades",
+      "ipa": "/ˈwɪmzɪkl ˌeskəˈpeɪdz/",
+      "meaning": "những cuộc phiêu lưu kỳ thú/kỳ quặc",
+      "example": "My siblings and I were known for our whimsical escapades in the attic, pretending it was a time machine.",
+      "type": "collocation"
+    },
+    {
+      "word": "peer interaction",
+      "ipa": "/pɪə(r) ˌɪntərˈækʃn/",
+      "meaning": "tương tác với bạn bè đồng lứa",
+      "example": "I preferred group activities because they allowed for more peer interaction and shared excitement.",
+      "type": "collocation"
+    },
+    {
+      "word": "adventurous spirit",
+      "ipa": "/ədˈventʃərəs ˈspɪrɪt/",
+      "meaning": "tinh thần mạo hiểm/thích khám phá",
+      "example": "Fueled by an adventurous spirit, I would often venture into the deeper parts of the garden to look for 'hidden treasures'.",
+      "type": "collocation"
+    },
+    {
+      "word": "fine motor skills",
+      "ipa": "/faɪn ˈməʊtə(r) skɪlz/",
+      "meaning": "kỹ năng vận động tinh (sự khéo léo của đôi tay)",
+      "example": "Crafting intricate origami figures was not only fun but also a great way to hone my fine motor skills at a young age.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

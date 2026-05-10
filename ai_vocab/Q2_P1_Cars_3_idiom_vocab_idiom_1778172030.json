@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_3_idiom",
+  "vocab": [
+    {
+      "word": "a gas guzzler",
+      "ipa": "/ə ɡæs ˈɡʌz.lər/",
+      "meaning": "xe cực kỳ tốn xăng",
+      "example": "I'm not fond of massive SUVs; they're such gas guzzlers and terrible for the environment.",
+      "type": "idiom"
+    },
+    {
+      "word": "bells and whistles",
+      "ipa": "/belz ænd ˈwɪs.əlz/",
+      "meaning": "các tính năng phụ trợ/tiện ích hiện đại (thường để làm cảnh hoặc thu hút)",
+      "example": "I love modern electric cars because they come with all the latest bells and whistles, like self-parking and voice control.",
+      "type": "idiom"
+    },
+    {
+      "word": "pride and joy",
+      "ipa": "/praɪd ænd dʒɔɪ/",
+      "meaning": "niềm tự hào và hạnh phúc (vật báu)",
+      "example": "If I had a vintage Ferrari, it would certainly be my pride and joy.",
+      "type": "idiom"
+    },
+    {
+      "word": "turn heads",
+      "ipa": "/tɜːn hedz/",
+      "meaning": "khiến mọi người phải ngoái nhìn (vì ấn tượng)",
+      "example": "I like sports cars with sleek designs that really turn heads when driving through the city center.",
+      "type": "idiom"
+    },
+    {
+      "word": "smooth as silk",
+      "ipa": "/smuːð æz sɪlk/",
+      "meaning": "mượt mà như lụa",
+      "example": "I prefer luxury sedans because the ride quality is usually smooth as silk, even on bumpy roads.",
+      "type": "idiom"
+    },
+    {
+      "word": "set someone back",
+      "ipa": "/set ˈsʌm.wʌn bæk/",
+      "meaning": "tốn của ai đó một khoản tiền lớn",
+      "example": "I admire high-end hypercars, even though I know they would set me back a small fortune.",
+      "type": "idiom"
+    },
+    {
+      "word": "get from A to B",
+      "ipa": "/ɡet frəm eɪ tuː biː/",
+      "meaning": "di chuyển từ nơi này đến nơi khác (nhấn mạnh tính thực dụng)",
+      "example": "I'm not into flashy brands; I just like a reliable hatchback that gets me from A to B safely.",
+      "type": "idiom"
+    },
+    {
+      "word": "cost an arm and a leg",
+      "ipa": "/kɒst ən ɑːm ænd ə leɡ/",
+      "meaning": "rất đắt đỏ",
+      "example": "Custom-built supercars look amazing, but they cost an arm and a leg to maintain.",
+      "type": "idiom"
+    },
+    {
+      "word": "packed to the rafters",
+      "ipa": "/pækt tuː ðə ˈrɑːf.təz/",
+      "meaning": "chật ních, đầy ắp (không gian)",
+      "example": "I like family wagons because you can have them packed to the rafters with camping gear for weekend trips.",
+      "type": "idiom"
+    },
+    {
+      "word": "the cream of the crop",
+      "ipa": "/ðə kriːm əv ðə krɒp/",
+      "meaning": "thứ tốt nhất trong số những thứ cùng loại",
+      "example": "When it comes to performance, German-engineered cars are definitely the cream of the crop in my opinion.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

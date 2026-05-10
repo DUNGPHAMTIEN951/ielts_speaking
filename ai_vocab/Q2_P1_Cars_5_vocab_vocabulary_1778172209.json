@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_5",
+  "vocab": [
+    {
+      "word": "deadlock",
+      "ipa": "/ˈdedlɒk/",
+      "meaning": "tình trạng đình trệ hoàn toàn/tắc nghẽn không lối thoát",
+      "example": "When the road hits a total deadlock, I usually turn off the engine to save fuel and wait for the situation to ease.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "kill time",
+      "ipa": "/kɪl taɪm/",
+      "meaning": "giết thời gian",
+      "example": "To kill time during a long hold-up, I often dive into an educational podcast or a catchy playlist.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "gridlock",
+      "ipa": "/ˈɡrɪdlɒk/",
+      "meaning": "tình trạng ùn tắc giao thông quy mô lớn (tại các ngã tư)",
+      "example": "During a severe gridlock, I find it's best to stay patient and avoid making unnecessary lane changes.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "keep my cool",
+      "ipa": "/kiːp maɪ kuːl/",
+      "meaning": "giữ bình tĩnh, không nóng nảy",
+      "example": "It's easy to get frustrated when you're late, but I try to keep my cool by practicing deep breathing exercises.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "at a snail's pace",
+      "ipa": "/æt ə sneɪlz peɪs/",
+      "meaning": "chậm như rùa bò",
+      "example": "When the cars are moving at a snail's pace, I take the opportunity to catch up on the latest world news via the radio.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "test one's patience",
+      "ipa": "/test wʌnz ˈpeɪʃns/",
+      "meaning": "thử thách lòng kiên nhẫn của ai đó",
+      "example": "Being stuck in a bottleneck for over an hour really tests my patience, especially in the sweltering heat.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "mind-numbing",
+      "ipa": "/ˈmaɪnd nʌmɪŋ/",
+      "meaning": "cực kỳ nhàm chán/mê muội đầu óc",
+      "example": "The mind-numbing wait in a traffic jam is slightly more bearable if I have a good audiobook to keep me engaged.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "re-route",
+      "ipa": "/ˌriː ˈruːt/",
+      "meaning": "tìm lộ trình khác/đổi hướng đi",
+      "example": "I always check my GPS app to see if it can re-route me through some backstreets to bypass the main congestion.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "bumper-to-bumper",
+      "ipa": "/ˈbʌmpə tə ˈbʌmpə(r)/",
+      "meaning": "xe cộ nối đuôi nhau san sát",
+      "example": "In bumper-to-bumper traffic, I focus on maintaining a safe distance and just going with the flow.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "fret over",
+      "ipa": "/fret ˈəʊvə(r)/",
+      "meaning": "lo lắng/phiền lòng về điều gì",
+      "example": "Instead of fretting over the delay, I try to use the time productively by planning my schedule for the rest of the day.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

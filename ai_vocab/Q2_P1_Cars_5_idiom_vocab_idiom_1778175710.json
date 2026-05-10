@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_5_idiom",
+  "vocab": [
+    {
+      "word": "keep one's shirt on",
+      "ipa": "/kiːp wʌnz ʃɜːt ɒn/",
+      "meaning": "giữ bình tĩnh, không nổi nóng",
+      "example": "When the traffic came to a complete halt, I told myself to keep my shirt on and just wait for the signal.",
+      "type": "idiom"
+    },
+    {
+      "word": "gather one's thoughts",
+      "ipa": "/ˈɡæð.ər wʌnz θɔːts/",
+      "meaning": "chấn chỉnh tinh thần/sắp xếp lại suy nghĩ",
+      "example": "A gridlock actually gives me a rare moment to gather my thoughts before a hectic day at the office.",
+      "type": "idiom"
+    },
+    {
+      "word": "be par for the course",
+      "ipa": "/bi pɑːr fɔːr ðə kɔːrs/",
+      "meaning": "là chuyện thường tình/không có gì bất ngờ",
+      "example": "Getting stuck for thirty minutes during rush hour is par for the course in a metropolis like this.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep a level head",
+      "ipa": "/kiːp ə ˈlev.əl hed/",
+      "meaning": "giữ một cái đầu lạnh/tỉnh táo",
+      "example": "It's crucial to keep a level head when other drivers start acting erratically in heavy congestion.",
+      "type": "idiom"
+    },
+    {
+      "word": "cool one's jets",
+      "ipa": "/kuːl wʌnz dʒets/",
+      "meaning": "kìm chế sự nôn nóng/bình tĩnh lại",
+      "example": "I had to cool my jets and realize that honking the horn wouldn't make the cars move any faster.",
+      "type": "idiom"
+    },
+    {
+      "word": "be music to one's ears",
+      "ipa": "/bi ˈmjuː.zɪk tuː wʌnz ɪərz/",
+      "meaning": "là tin mừng/điều khiến ai đó dễ chịu (thường dùng khi nghe tin hết tắc đường)",
+      "example": "The radio announcer saying the road was clear was music to my ears after an hour of waiting.",
+      "type": "idiom"
+    },
+    {
+      "word": "go in one ear and out the other",
+      "ipa": "/ɡəʊ ɪn wʌn ɪər ænd aʊt ðə ˈʌð.ər/",
+      "meaning": "vào tai này ra tai kia (thường nói về việc nghe tin tức/podcast lúc đang xao nhãng vì tắc đường)",
+      "example": "Sometimes I try to listen to the news, but when the traffic is this bad, the information just goes in one ear and out the other.",
+      "type": "idiom"
+    },
+    {
+      "word": "take the edge off",
+      "ipa": "/teɪk ðə edʒ ɒf/",
+      "meaning": "làm giảm bớt sự căng thẳng/khó chịu",
+      "example": "Listening to some light jazz helps to take the edge off the frustration of a long commute.",
+      "type": "idiom"
+    },
+    {
+      "word": "make a dent in",
+      "ipa": "/meɪk ə dent ɪn/",
+      "meaning": "giải quyết được một phần (thường nói về việc tranh thủ làm việc)",
+      "example": "I often use the hands-free system to make a dent in my daily phone calls while sitting in traffic.",
+      "type": "idiom"
+    },
+    {
+      "word": "be at a loose end",
+      "ipa": "/bi æt ə luːs end/",
+      "meaning": "rảnh rỗi không có việc gì làm",
+      "example": "Whenever I find myself at a loose end in a stationary car, I start observing the architectural details of nearby buildings.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

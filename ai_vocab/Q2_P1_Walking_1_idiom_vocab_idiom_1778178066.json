@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Walking_1_idiom",
+  "vocab": [
+    {
+      "word": "a hop, skip, and a jump",
+      "ipa": "/ə hɒp skɪp ənd ə dʒʌmp/",
+      "meaning": "khoảng cách rất gần (chỉ vài bước chân)",
+      "example": "I walk to work every morning because my office is just a hop, skip, and a jump from my apartment.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit the pavement",
+      "ipa": "/hɪt ðə ˈpeɪvmənt/",
+      "meaning": "đi bộ trên đường (thường là đi với mục đích cụ thể hoặc đi dạo phố)",
+      "example": "After a stressful day at the office, I love to hit the pavement and explore the city's hidden alleys.",
+      "type": "idiom"
+    },
+    {
+      "word": "at a snail's pace",
+      "ipa": "/æt ə sneɪlz peɪs/",
+      "meaning": "đi chậm như sên",
+      "example": "When I'm with my elderly grandfather, we walk at a snail's pace, but I enjoy the slow conversation.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep pace with",
+      "ipa": "/kiːp peɪs wɪð/",
+      "meaning": "theo kịp tốc độ của ai đó",
+      "example": "I usually walk quite fast, so my friends often find it difficult to keep pace with me.",
+      "type": "idiom"
+    },
+    {
+      "word": "wear out one's shoe leather",
+      "ipa": "/weə(r) aʊt wʌnz ʃuː ˈleðə(r)/",
+      "meaning": "đi bộ rất nhiều (đến mức mòn cả đế giày)",
+      "example": "During my trip to Paris, I really wore out my shoe leather trying to see every museum on foot.",
+      "type": "idiom"
+    },
+    {
+      "word": "take something in one's stride",
+      "ipa": "/teɪk ˈsʌmθɪŋ ɪn wʌnz straɪd/",
+      "meaning": "đối mặt với khó khăn một cách nhẹ nhàng (vừa đi vừa giải quyết vấn đề)",
+      "example": "Walking helps me take daily challenges in my stride; it gives me time to process everything calmly.",
+      "type": "idiom"
+    },
+    {
+      "word": "stretch one's legs",
+      "ipa": "/stretʃ wʌnz leɡz/",
+      "meaning": "đi dạo để thư giãn gân cốt (sau khi ngồi lâu)",
+      "example": "After sitting at my desk for eight hours, I desperately need to go outside and stretch my legs.",
+      "type": "idiom"
+    },
+    {
+      "word": "get one's step in",
+      "ipa": "/ɡet wʌnz step ɪn/",
+      "meaning": "hoàn thành mục tiêu số bước chân trong ngày",
+      "example": "Even if I'm busy, I try to get my steps in by taking the stairs instead of the elevator.",
+      "type": "idiom"
+    },
+    {
+      "word": "on the go",
+      "ipa": "/ɒn ðə ɡəʊ/",
+      "meaning": "luôn chân luôn tay/di chuyển liên tục",
+      "example": "Being an active person, I'm always on the go and prefer walking over taking a taxi whenever possible.",
+      "type": "idiom"
+    },
+    {
+      "word": "cool one's heels",
+      "ipa": "/kuːl wʌnz hiːlz/",
+      "meaning": "đi bộ chậm lại để đợi ai đó hoặc để bình tĩnh lại",
+      "example": "Whenever I feel an argument brewing, I go for a walk to cool my heels and regain my composure.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

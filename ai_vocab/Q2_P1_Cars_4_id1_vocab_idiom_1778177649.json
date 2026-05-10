@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_4_id1",
+  "vocab": [
+    {
+      "word": "get from A to B",
+      "ipa": "/ɡet frəm eɪ tə biː/",
+      "meaning": "đi từ nơi này đến nơi khác (nhấn mạnh sự tiện lợi hơn là hành trình)",
+      "example": "As a passenger, I don't care much about the route; I just want to get from A to B as comfortably as possible.",
+      "type": "idiom"
+    },
+    {
+      "word": "recharge one's batteries",
+      "ipa": "/ˌriːˈtʃɑːdʒ wʌnz ˈbætriz/",
+      "meaning": "hồi phục năng lượng/nghỉ ngơi",
+      "example": "I prefer sitting in the back seat to recharge my batteries after a long day, rather than stressing over the traffic.",
+      "type": "idiom"
+    },
+    {
+      "word": "a backseat driver",
+      "ipa": "/ə ˈbækˌsiːt ˈdraɪvə(r)/",
+      "meaning": "người ngồi sau nhưng hay chỉ đạo/góp ý cách lái xe (thường gây khó chịu)",
+      "example": "I enjoy being a passenger, but I have to remind myself not to be a backseat driver and let the person at the wheel do their job.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit the road",
+      "ipa": "/hɪt ðə rəʊd/",
+      "meaning": "khởi hành/bắt đầu một chuyến đi",
+      "example": "I love being the driver when we hit the road for a holiday because I enjoy the feeling of leading the adventure.",
+      "type": "idiom"
+    },
+    {
+      "word": "watch the world go by",
+      "ipa": "/wɒtʃ ðə wɜːld ɡəʊ baɪ/",
+      "meaning": "quan sát thế giới trôi qua (ngắm nhìn cuộc sống từ tốn)",
+      "example": "There's something incredibly peaceful about being a passenger and just watching the world go by through the window.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

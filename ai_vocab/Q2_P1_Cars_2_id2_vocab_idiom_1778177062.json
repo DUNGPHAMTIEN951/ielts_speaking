@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_2_id2",
+  "vocab": [
+    {
+      "word": "a change of scenery",
+      "ipa": "/ə tʃeɪndʒ əv ˈsiːnəri/",
+      "meaning": "thay đổi không khí (đi nơi khác để giải tỏa)",
+      "example": "Back then, long car rides were the perfect way to get a change of scenery from our dull suburban neighborhood.",
+      "type": "idiom"
+    },
+    {
+      "word": "go down memory lane",
+      "ipa": "/ɡəʊ daʊn ˈmeməri leɪn/",
+      "meaning": "hồi tưởng lại những kỷ niệm cũ",
+      "example": "Thinking about those old family road trips really makes me go down memory lane to a much simpler time.",
+      "type": "idiom"
+    },
+    {
+      "word": "be part and parcel of",
+      "ipa": "/bi pɑːt ənd ˈpɑːsl əv/",
+      "meaning": "là phần thiết yếu/đặc trưng của cái gì",
+      "example": "Getting carsick was part and parcel of my childhood travels, but it didn't stop me from enjoying the view.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the driving seat",
+      "ipa": "/ɪn ðə ˈdraɪvɪŋ siːt/",
+      "meaning": "ở thế chủ động/kiểm soát (nghĩa bóng) hoặc ngồi ghế lái",
+      "example": "I used to pretend I was in the driving seat, mimicking my father's movements while we cruised down the highway.",
+      "type": "idiom"
+    },
+    {
+      "word": "watch like a hawk",
+      "ipa": "/wɒtʃ laɪk ə hɔːk/",
+      "meaning": "quan sát cực kỳ cẩn thận/chăm chú",
+      "example": "I would watch the passing landmarks like a hawk, trying to spot the first sign of the beach on our way to the coast.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

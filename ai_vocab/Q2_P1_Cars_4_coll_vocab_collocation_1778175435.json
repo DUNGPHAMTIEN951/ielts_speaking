@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_4_coll",
+  "vocab": [
+    {
+      "word": "command the vehicle",
+      "ipa": "/kəˈmɑːnd ðə ˈviːəkl/",
+      "meaning": "làm chủ/điều khiển phương tiện",
+      "example": "I relish the opportunity to command the vehicle because it gives me a sense of absolute control over the journey.",
+      "type": "collocation"
+    },
+    {
+      "word": "navigate arduous terrain",
+      "ipa": "/ˈnævɪɡeɪt ˈɑːdʒuəs təˈreɪn/",
+      "meaning": "lái xe qua những địa hình khó khăn/hiểm trở",
+      "example": "I prefer being the driver when we navigate arduous terrain, as I trust my own instincts more than anyone else's.",
+      "type": "collocation"
+    },
+    {
+      "word": "a passive observer",
+      "ipa": "/ə ˈpæsɪv əbˈzɜːvə(r)/",
+      "meaning": "người quan sát thụ động",
+      "example": "Being a passenger allows me to be a passive observer of the world outside the window, which I find quite relaxing.",
+      "type": "collocation"
+    },
+    {
+      "word": "curtail the stress",
+      "ipa": "/kɜːˈteɪl ðə stres/",
+      "meaning": "giảm bớt sự căng thẳng",
+      "example": "In heavy city traffic, I'd rather be a passenger to curtail the stress associated with constant braking and accelerating.",
+      "type": "collocation"
+    },
+    {
+      "word": "total immersion",
+      "ipa": "/ˈtəʊtl ɪˈmɜːʃn/",
+      "meaning": "sự tập trung/đắm chìm hoàn toàn",
+      "example": "Driving requires total immersion in the task, which helps me disconnect from my work-related worries.",
+      "type": "collocation"
+    },
+    {
+      "word": "uninterrupted focus",
+      "ipa": "/ˌʌnɪntəˈrʌptɪd ˈfəʊkəs/",
+      "meaning": "sự tập trung không gián đoạn",
+      "example": "Safety on the road demands uninterrupted focus, so I take my responsibility as a driver very seriously.",
+      "type": "collocation"
+    },
+    {
+      "word": "recline in comfort",
+      "ipa": "/rɪˈklaɪn ɪn ˈkʌmfət/",
+      "meaning": "ngả lưng thoải mái",
+      "example": "I usually opt to be a passenger on long trips so I can recline in comfort and perhaps even take a nap.",
+      "type": "collocation"
+    },
+    {
+      "word": "sheer exhilaration",
+      "ipa": "/ʃɪə(r) ɪɡˌzɪləˈreɪʃn/",
+      "meaning": "cảm giác cực kỳ hưng phấn",
+      "example": "There is a sense of sheer exhilaration when you're driving down an empty coastal road at sunset.",
+      "type": "collocation"
+    },
+    {
+      "word": "alleviate the burden",
+      "ipa": "/əˈliːvieɪt ðə ˈbɜːdn/",
+      "meaning": "giảm nhẹ gánh nặng",
+      "example": "By taking turns as the driver, we can alleviate the burden of exhaustion during cross-country travels.",
+      "type": "collocation"
+    },
+    {
+      "word": "be at the beck and call of",
+      "ipa": "/bi ət ðə bek ənd kɔːl əv/",
+      "meaning": "phụ thuộc vào sự điều khiển/sắp xếp của ai đó",
+      "example": "As a passenger, you are somewhat at the beck and call of the driver's schedule and their choice of route.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

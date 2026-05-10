@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_4_idiom",
+  "vocab": [
+    {
+      "word": "be at the helm",
+      "ipa": "/bi æt ðə helm/",
+      "meaning": "ở vị trí điều khiển/nắm quyền kiểm soát",
+      "example": "I much prefer being at the helm of a vehicle because it gives me a sense of security and direction.",
+      "type": "idiom"
+    },
+    {
+      "word": "a backseat driver",
+      "ipa": "/ə ˈbækˌsiːt ˈdraɪ.vər/",
+      "meaning": "người ngồi sau hay chỉ đạo tài xế (nghĩa bóng: người can thiệp vào việc không phải của mình)",
+      "example": "I try not to be a backseat driver when my friend is navigating, but it's hard to keep my mouth shut when I see a shortcut.",
+      "type": "idiom"
+    },
+    {
+      "word": "go the extra mile",
+      "ipa": "/ɡəʊ ði ˈek.strə maɪl/",
+      "meaning": "nỗ lực nhiều hơn mong đợi",
+      "example": "As a driver, I’m willing to go the extra mile to find a scenic route rather than just sticking to the dull highway.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the fast lane",
+      "ipa": "/ɪn ðə fɑːst leɪn/",
+      "meaning": "lối sống sôi động, hối hả và đầy áp lực",
+      "example": "Being the driver feels like living in the fast lane; you have to stay sharp and make split-second decisions constantly.",
+      "type": "idiom"
+    },
+    {
+      "word": "take the weight off one's feet",
+      "ipa": "/teɪk ðə weɪt ɒf wʌnz fiːt/",
+      "meaning": "ngồi xuống và nghỉ ngơi",
+      "example": "After a long day at the office, I'd rather be a passenger and take the weight off my feet while someone else handles the traffic.",
+      "type": "idiom"
+    },
+    {
+      "word": "buckle down",
+      "ipa": "/ˈbʌk.əl daʊn/",
+      "meaning": "bắt đầu làm việc gì đó một cách nghiêm túc",
+      "example": "When I'm behind the wheel, I really buckle down and focus entirely on the road to ensure everyone's safety.",
+      "type": "idiom"
+    },
+    {
+      "word": "recharge one's batteries",
+      "ipa": "/ˌriːˈtʃɑːdʒ wʌnz ˈbæt.ər.iz/",
+      "meaning": "nạp lại năng lượng",
+      "example": "I enjoy being a passenger on long trips as it allows me to recharge my batteries before we reach our destination.",
+      "type": "idiom"
+    },
+    {
+      "word": "give it a whirl",
+      "ipa": "/ɡɪv ɪt ə wɜːl/",
+      "meaning": "thử làm điều gì đó",
+      "example": "I used to hate driving in the city, but I decided to give it a whirl and now I actually enjoy the challenge.",
+      "type": "idiom"
+    },
+    {
+      "word": "put the brakes on",
+      "ipa": "/pʊt ðə breɪks ɒn/",
+      "meaning": "kiềm chế lại/dừng việc gì đó lại",
+      "example": "Being a passenger allows me to put the brakes on my hectic life for a moment and just enjoy the scenery.",
+      "type": "idiom"
+    },
+    {
+      "word": "know like the back of one's hand",
+      "ipa": "/nəʊ laɪk ðə bæk əv wʌnz hænd/",
+      "meaning": "biết rõ điều gì đó như lòng bàn tay",
+      "example": "I prefer driving when I'm in my hometown because I know the local streets like the back of my hand.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

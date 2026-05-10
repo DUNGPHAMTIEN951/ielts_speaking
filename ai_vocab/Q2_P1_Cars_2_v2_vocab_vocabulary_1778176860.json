@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_2_v2",
+  "vocab": [
+    {
+      "word": "uninhibited excitement",
+      "ipa": "/ˌʌnɪnˈhɪbɪtɪd ɪkˈsaɪtmənt/",
+      "meaning": "sự phấn khích vô tư/không kiềm chế",
+      "example": "As a toddler, I felt a sense of uninhibited excitement every time we buckled up for a weekend getaway.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "cabin fever",
+      "ipa": "/ˈkæbɪn ˈfiːvə(r)/",
+      "meaning": "cảm giác cuồng chân/khó chịu do bị nhốt trong không gian hẹp quá lâu",
+      "example": "Despite the fun, I often suffered from cabin fever during cross-country trips that lasted more than eight hours.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "lull someone to sleep",
+      "ipa": "/lʌl ˈsʌmwʌn tu sliːp/",
+      "meaning": "ru ai đó ngủ (bằng âm thanh hoặc chuyển động nhẹ nhàng)",
+      "example": "The rhythmic humming of the engine and the vibration of the car would invariably lull me to sleep within minutes.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "panoramic view",
+      "ipa": "/ˌpænəˈræmɪk vjuː/",
+      "meaning": "tầm nhìn toàn cảnh",
+      "example": "I used to press my face against the window to get a panoramic view of the rolling hills as we drove past.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "wanderlust",
+      "ipa": "/ˈwɒndəlʌst/",
+      "meaning": "niềm khao khát được đi du lịch/khám phá",
+      "example": "Those early childhood road trips definitely sparked a lifelong sense of wanderlust in me.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

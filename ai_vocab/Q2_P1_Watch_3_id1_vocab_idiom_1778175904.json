@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Watch_3_id1",
+  "vocab": [
+    {
+      "word": "a feather in one's cap",
+      "ipa": "/ə ˈfeðər ɪn wʌnz kæp/",
+      "meaning": "một thành tích đáng tự hào/niềm hãnh diện",
+      "example": "Owning a limited-edition Swiss watch is often seen as a feather in one's cap, representing a significant milestone in their career.",
+      "type": "idiom"
+    },
+    {
+      "word": "cost a king's ransom",
+      "ipa": "/kɒst ə kɪŋz ˈrænsəm/",
+      "meaning": "cực kỳ đắt đỏ, tiêu tốn một gia tài",
+      "example": "While some timepieces cost a king's ransom, enthusiasts are willing to pay for the heritage and precision they offer.",
+      "type": "idiom"
+    },
+    {
+      "word": "dress to the nines",
+      "ipa": "/dres tu ðə naɪnz/",
+      "meaning": "ăn mặc cực kỳ sang trọng/chỉnh tề",
+      "example": "People who like to dress to the nines often use an expensive watch as the final touch to complete their formal attire.",
+      "type": "idiom"
+    },
+    {
+      "word": "stand the test of time",
+      "ipa": "/stænd ðə test əv taɪm/",
+      "meaning": "trường tồn với thời gian",
+      "example": "Luxury watches are built to stand the test of time, making them far more valuable than temporary digital gadgets.",
+      "type": "idiom"
+    },
+    {
+      "word": "part with one's money",
+      "ipa": "/pɑːrt wɪð wʌnz ˈmʌni/",
+      "meaning": "chi tiền (thường là cho thứ gì đó đắt tiền hoặc xa xỉ)",
+      "example": "Connoisseurs are happy to part with their money for a watch that features a complex mechanical movement.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

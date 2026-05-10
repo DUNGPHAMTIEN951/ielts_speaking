@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_4_c2",
+  "vocab": [
+    {
+      "word": "spatial awareness",
+      "ipa": "/ˈspeɪʃl əˈweənəs/",
+      "meaning": "khả năng nhận thức không gian",
+      "example": "I enjoy being the driver as it challenges my spatial awareness, especially when navigating through narrow city streets.",
+      "type": "collocation"
+    },
+    {
+      "word": "sedentary journey",
+      "ipa": "/ˈsedntri ˈdʒɜːni/",
+      "meaning": "hành trình ngồi yên/thụ động",
+      "example": "I lean towards being a passenger because I can turn a sedentary journey into a productive one by reading or catching up on emails.",
+      "type": "collocation"
+    },
+    {
+      "word": "sense of agency",
+      "ipa": "/sens əv ˈeɪdʒənsi/",
+      "meaning": "cảm giác được làm chủ/tự quyết",
+      "example": "Driving provides me with a profound sense of agency, allowing me to dictate the route and make spontaneous detours.",
+      "type": "collocation"
+    },
+    {
+      "word": "motion sickness",
+      "ipa": "/ˈməʊʃn ˈsɪknəs/",
+      "meaning": "say xe/say tàu xe",
+      "example": "I strictly prefer the driver's seat because it is the most effective way for me to combat my chronic motion sickness.",
+      "type": "collocation"
+    },
+    {
+      "word": "cognitive load",
+      "ipa": "/ˈkɒɡnətɪv ləʊd/",
+      "meaning": "áp lực nhận thức/gánh nặng trí óc",
+      "example": "After a grueling day at work, I'd rather be a passenger to reduce my cognitive load and simply enjoy the passing scenery.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

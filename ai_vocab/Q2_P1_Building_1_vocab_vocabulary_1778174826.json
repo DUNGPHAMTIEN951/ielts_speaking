@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Building_1",
+  "vocab": [
+    {
+      "word": "high-rise complex",
+      "ipa": "/ˈhaɪ raɪz ˈkɒmpleks/",
+      "meaning": "khu phức hợp cao tầng",
+      "example": "There is a massive high-rise complex just a stone's throw away from my apartment, which houses both offices and luxury flats.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "dominate the skyline",
+      "ipa": "/ˈdɒmɪneɪt ðə ˈskaɪlaɪn/",
+      "meaning": "nổi bật/chiếm trọn không gian bầu trời",
+      "example": "Several glass-clad towers dominate the skyline in my neighborhood, making the area feel very metropolitan.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "obstruct the view",
+      "ipa": "/əbˈstrʌkt ðə vjuː/",
+      "meaning": "che khuất tầm nhìn",
+      "example": "Unfortunately, a new skyscraper was recently erected that completely obstructs the view of the sunset from my balcony.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "architectural landmark",
+      "ipa": "/ˌɑːkɪˈtektʃərəl ˈlændmɑːk/",
+      "meaning": "công trình kiến trúc biểu tượng",
+      "example": "A nearby 50-story building has become a local architectural landmark due to its unique spiral design.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "vertical expansion",
+      "ipa": "/ˈvɜːtɪkl ɪkˈspænʃn/",
+      "meaning": "sự mở rộng theo chiều dọc (phát triển nhà cao tầng)",
+      "example": "My district has seen rapid vertical expansion lately to accommodate the growing influx of residents.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "dwarf the surroundings",
+      "ipa": "/dwɔːf ðə səˈraʊndɪŋz/",
+      "meaning": "làm cho những thứ xung quanh trở nên nhỏ bé",
+      "example": "The monolith of a building nearby seems to dwarf the surroundings, including the quaint old houses at its base.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "residential skyscraper",
+      "ipa": "/ˌrezɪˈdenʃl ˈskaɪskreɪpə(r)/",
+      "meaning": "tòa nhà chọc trời dùng làm nhà ở",
+      "example": "I live in a relatively low-lying house, but there's a cluster of residential skyscrapers located just around the corner.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "urban density",
+      "ipa": "/ˈɜːbən ˈdensəti/",
+      "meaning": "mật độ đô thị",
+      "example": "The proliferation of tall buildings near my home is a clear reflection of the increasing urban density in the city center.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "mixed-use development",
+      "ipa": "/mɪkst juːz dɪˈveləpmənt/",
+      "meaning": "khu phát triển đa chức năng (văn phòng, nhà ở, thương mại)",
+      "example": "There are quite a few mixed-use developments nearby that offer shopping malls on the lower floors and penthouses above.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "cast a long shadow",
+      "ipa": "/kɑːst ə lɒŋ ˈʃædəʊ/",
+      "meaning": "đổ một cái bóng dài",
+      "example": "During the afternoon, the giant office tower next door casts a long shadow over our communal garden.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

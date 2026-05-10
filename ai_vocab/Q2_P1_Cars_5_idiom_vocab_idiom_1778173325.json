@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_5_idiom",
+  "vocab": [
+    {
+      "word": "let off steam",
+      "ipa": "/let ɒf stiːm/",
+      "meaning": "xả cơn giận/giải tỏa áp lực",
+      "example": "To avoid getting frustrated during gridlock, I sing along to loud music just to let off steam.",
+      "type": "idiom"
+    },
+    {
+      "word": "be miles away",
+      "ipa": "/bi maɪlz əˈweɪ/",
+      "meaning": "thả hồn treo ngược cành cây/mải mê suy nghĩ về chuyện khác",
+      "example": "When the traffic is at a standstill, I often find myself being miles away, daydreaming about my next vacation.",
+      "type": "idiom"
+    },
+    {
+      "word": "bite the bullet",
+      "ipa": "/baɪt ðə ˈbʊlɪt/",
+      "meaning": "cắn răng chịu đựng một tình huống khó chịu",
+      "example": "There's no escape from the rush hour in this city, so I just have to bite the bullet and wait it out.",
+      "type": "idiom"
+    },
+    {
+      "word": "a blessing in disguise",
+      "ipa": "/ə ˈblesɪŋ ɪn dɪsˈɡaɪz/",
+      "meaning": "trong cái rủi có cái may",
+      "example": "Surprisingly, the traffic jam was a blessing in disguise as it gave me extra time to finish my audiobook.",
+      "type": "idiom"
+    },
+    {
+      "word": "at the end of one's tether",
+      "ipa": "/æt ði end əv wʌnz ˈteðə(r)/",
+      "meaning": "kiệt sức và mất sạch kiên nhẫn",
+      "example": "By the time I finally got home after two hours in traffic, I was truly at the end of my tether.",
+      "type": "idiom"
+    },
+    {
+      "word": "get one's act together",
+      "ipa": "/ɡet wʌnz ækt təˈɡeðə(r)/",
+      "meaning": "chỉnh đốn lại cách làm việc/chuẩn bị kỹ lưỡng",
+      "example": "I use the delay to get my act together by mentally reviewing my talking points for the upcoming presentation.",
+      "type": "idiom"
+    },
+    {
+      "word": "lose one's bearings",
+      "ipa": "/luːz wʌnz ˈbeərɪŋz/",
+      "meaning": "mất phương hướng",
+      "example": "In the middle of such a massive jam, it’s easy to lose your bearings and forget which turn-off you were supposed to take.",
+      "type": "idiom"
+    },
+    {
+      "word": "count one's blessings",
+      "ipa": "/kaʊnt wʌnz ˈblesɪŋz/",
+      "meaning": "biết ơn vì những gì mình có (thay vì phàn nàn)",
+      "example": "Instead of fuming, I count my blessings that I'm in a comfortable car with air conditioning and not out in the rain.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep things in perspective",
+      "ipa": "/kiːp θɪŋz ɪn pəˈspektɪv/",
+      "meaning": "nhìn nhận mọi việc một cách khách quan/không trầm trọng hóa vấn đề",
+      "example": "I try to keep things in perspective; being ten minutes late isn't the end of the world, even if the traffic is abysmal.",
+      "type": "idiom"
+    },
+    {
+      "word": "on the fly",
+      "ipa": "/ɒn ðə flaɪ/",
+      "meaning": "làm ngay lập tức/quyết định nhanh trong lúc đang thực hiện việc khác",
+      "example": "If the main road is blocked, I have to find an alternative route on the fly using my navigation app.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

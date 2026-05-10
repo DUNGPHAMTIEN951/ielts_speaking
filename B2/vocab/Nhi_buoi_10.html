@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tiếng Anh 7 - Unit 10: Energy sources (Full 152 Words)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap');
+
+        /* Base */
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: #020617;
+            overflow-x: hidden;
+            transition: padding-right 0.3s ease-in-out;
+            color: #f1f5f9;
+        }
+
+        /* Sidebar Push Effect */
+        @media (min-width: 1024px) {
+            body.note-open {
+                padding-right: 20rem;
+            }
+        }
+
+        /* Tabs */
+        .tab-active {
+            border-bottom: 3px solid #22d3ee;
+            color: #67e8f9;
+            font-weight: 800;
+            background-color: rgba(34, 211, 238, 0.1);
+        }
+
+        /* Utils */
+        .hidden-section {
+            display: none !important;
+        }
+
+        .fade-in {
+            animation: fadeIn 0.4s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Flashcard 3D */
+        .perspective-1000 {
+            perspective: 1000px;
+        }
+
+        .transform-style-3d {
+            transform-style: preserve-3d;
+        }
+
+        .backface-hidden {
+            backface-visibility: hidden;
+        }
+
+        .rotate-y-180 {
+            transform: rotateY(180deg);
+        }
+
+        .flipped {
+            transform: rotateY(180deg);
+        }
+
+        .flashcard-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+            transform-style: preserve-3d;
+            border-radius: 1.5rem;
+            box-shadow: 0 0 30px rgba(34, 211, 238, 0.1);
+        }
+
+        .flashcard-front,
+        .flashcard-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            border-radius: 1.5rem;
+            background: #0f172a;
+            border: 2px solid #1e293b;
+            padding: 1.5rem;
+        }
+
+        .flashcard-front {
+            background: linear-gradient(135deg, #0f172a 0%, #020617 100%);
+        }
+
+        .flashcard-back {
+            background: linear-gradient(135deg, #083344 0%, #020617 100%);
+            transform: rotateY(180deg);
+        }
+
+        /* Practice Styles */
+        .correct-answer {
+            background-color: #064e3b !important;
+            border-color: #10b981 !important;
+            color: #34d399 !important;
+        }
+
+        .wrong-answer {
+            background-color: #7f1d1d !important;
+            border-color: #ef4444 !important;
+            color: #fca5a5 !important;
+        }
+
+        .choice-selected {
+            background-color: #164e63;
+            border-color: #22d3ee;
+            color: #cffafe;
+            font-weight: bold;
+        }
+
+        /* Word Ordering Styles */
+        .word-bank-item {
+            cursor: pointer;
+            transition: all 0.2s;
+            user-select: none;
+        }
+
+        .word-bank-item:hover {
+            transform: translateY(-2px);
+            background-color: #1e293b;
+        }
+
+        .word-bank-item.used {
+            opacity: 0.5;
+            pointer-events: none;
+            background-color: #020617;
+            color: #334155;
+            border-color: #0f172a;
+        }
+
+        /* Toast */
+        #toast {
+            visibility: hidden;
+            min-width: 250px;
+            background-color: #0e7490;
+            color: #fff;
+            text-align: center;
+            border-radius: 8px;
+            padding: 16px;
+            position: fixed;
+            z-index: 100;
+            left: 50%;
+            bottom: 30px;
+            transform: translateX(-50%);
+            opacity: 0;
+            transition: opacity 0.3s, bottom 0.3s;
+        }
+
+        #toast.show {
+            visibility: visible;
+            opacity: 1;
+            bottom: 50px;
+        }
+
+        /* Pulse */
+        .pulse-ring {
+            box-shadow: 0 0 0 0 rgba(34, 211, 238, 0.7);
+            animation: pulse-cyan 1.5s infinite;
+        }
+
+        @keyframes pulse-cyan {
+            0% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(34, 211, 238, 0.7);
+            }
+
+            70% {
+                transform: scale(1);
+                box-shadow: 0 0 0 10px rgba(34, 211, 238, 0);
+            }
+
+            100% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(34, 211, 238, 0);
+            }
+        }
+
+        .dark-card {
+            background: #0f172a;
+            border: 1px solid #1e293b;
+        }
+
+        .electric-glow {
+            box-shadow: 0 0 15px rgba(34, 211, 238, 0.1);
+            border-color: #1e293b;
+        }
+
+        .electric-glow:hover {
+            box-shadow: 0 0 20px rgba(34, 211, 238, 0.3);
+            border-color: #22d3ee;
+        }
+    </style>
+</head>
+
+<body class="min-h-screen flex flex-col relative text-slate-200">
+
+    <!-- Header -->
+    <header
+        class="bg-gradient-to-r from-slate-900 via-cyan-950 to-slate-950 text-white p-4 shadow-lg sticky top-0 z-50 border-b border-cyan-500/30">
+        <div class="max-w-6xl mx-auto flex justify-between items-center">
+            <div>
+                <h1 class="text-xl md:text-3xl font-extrabold"><i class="fas fa-bolt mr-2 text-cyan-400"></i>Unit 10:
+                    Energy</h1>
+                <p class="text-cyan-200 text-xs md:text-sm font-medium"><span id="header-count">152</span> Words • Grade
+                    7 (Global Success)</p>
+            </div>
+            <div class="flex gap-2">
+                <button onclick="toggleInfo()"
+                    class="text-sm bg-cyan-900/40 hover:bg-cyan-900/60 px-3 py-1.5 rounded-lg transition border border-cyan-700/50"><i
+                        class="fas fa-info-circle"></i></button>
+                <button onclick="resetApp()"
+                    class="text-sm bg-cyan-900/40 hover:bg-cyan-900/60 px-3 py-1.5 rounded-lg transition font-semibold border border-cyan-700/50">Reset</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="bg-slate-950 shadow sticky top-[72px] z-40 border-b border-slate-900">
+        <div class="max-w-6xl mx-auto flex justify-start gap-2 md:gap-4 px-4 overflow-x-auto py-2">
+            <button onclick="switchTab('vocab')" id="tab-vocab"
+                class="tab-btn tab-active px-4 py-2 rounded-lg whitespace-nowrap transition-colors"><i
+                    class="fas fa-list mr-2"></i>Từ Vựng</button>
+            <button onclick="switchTab('flashcard')" id="tab-flashcard"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-slate-900"><i
+                    class="fas fa-clone mr-2"></i>Flashcards</button>
+            <button onclick="switchTab('structure')" id="tab-structure"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-slate-900"><i
+                    class="fas fa-microphone-alt mr-2"></i>Cấu Trúc & Nói</button>
+            <button onclick="switchTab('practice')" id="tab-practice"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-slate-900"><i
+                    class="fas fa-tasks mr-2"></i>Bài Tập</button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="flex-grow max-w-6xl mx-auto w-full p-4 md:p-6 space-y-6 pb-20">
+
+        <!-- SECTION 1: VOCAB LIST -->
+        <div id="section-vocab" class="fade-in">
+            <div class="mb-6 relative max-w-xl mx-auto">
+                <input type="text" id="searchInput" onkeyup="filterVocab()"
+                    placeholder="🔍 Tìm nguồn, tiết kiệm, môi trường..."
+                    class="w-full p-4 rounded-full bg-slate-900 border border-slate-800 shadow-sm focus:outline-none focus:ring-4 focus:ring-cyan-900/50 pl-12 transition text-slate-100">
+                <i class="fas fa-search absolute left-5 top-5 text-slate-500"></i>
+            </div>
+            <div class="text-right text-slate-500 text-sm mb-2">Tổng số: <span id="vocab-count"
+                    class="font-bold">0</span> từ</div>
+            <div id="vocab-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4"></div>
+        </div>
+
+        <!-- SECTION 2: FLASHCARDS -->
+        <div id="section-flashcard" class="hidden-section fade-in flex flex-col items-center">
+            <div class="w-full max-w-lg flex justify-between items-center mb-4 px-4">
+                <span id="fc-index"
+                    class="font-bold text-cyan-400 bg-cyan-950 px-3 py-1 rounded-full text-sm border border-cyan-800/50">1
+                    / 152</span>
+                <div class="flex gap-2">
+                    <button onclick="toggleShuffle()" id="btn-shuffle"
+                        class="p-2 rounded-full hover:bg-slate-900 text-slate-400 transition" title="Xáo trộn"><i
+                            class="fas fa-random"></i></button>
+                    <button onclick="speakCurrentCard()"
+                        class="p-2 rounded-full hover:bg-slate-900 text-cyan-400 transition" title="Phát âm"><i
+                            class="fas fa-volume-up text-xl"></i></button>
+                </div>
+            </div>
+
+            <div class="perspective-1000 w-full max-w-md h-[400px] px-4 cursor-pointer group" onclick="flipCard()">
+                <div id="flashcard-inner" class="flashcard-inner relative">
+                    <div class="flashcard-front">
+                        <span class="text-xs font-bold text-cyan-600 uppercase tracking-widest mb-4">English</span>
+                        <h2 id="fc-front-text"
+                            class="text-3xl font-extrabold text-white text-center break-words mb-4 px-2">...</h2>
+                        <i class="fas fa-plug-circle-bolt text-cyan-500/20 text-4xl mt-auto"></i>
+                    </div>
+                    <div class="flashcard-back">
+                        <span id="fc-back-type"
+                            class="text-xs font-bold text-white bg-cyan-700 px-2 py-1 rounded mb-2 uppercase">...</span>
+                        <h2 id="fc-back-text" class="text-2xl font-bold text-white text-center mb-2 px-2">...</h2>
+                        <p id="fc-back-sent" class="text-cyan-300 text-sm italic text-center px-2">...</p>
+                    </div>
+                </div>
+            </div>
+            <div class="flex items-center gap-6 mt-8">
+                <button onclick="changeCard(-1)"
+                    class="bg-slate-900 hover:bg-slate-800 text-slate-300 w-12 h-12 rounded-full shadow border border-slate-800 flex items-center justify-center transition active:scale-95"><i
+                        class="fas fa-arrow-left"></i></button>
+                <button onclick="flipCard()"
+                    class="bg-cyan-600 hover:bg-cyan-700 text-white px-8 py-3 rounded-full shadow-lg font-bold transition active:scale-95 border border-cyan-400/30">Lật
+                    Thẻ</button>
+                <button onclick="changeCard(1)"
+                    class="bg-slate-900 hover:bg-slate-800 text-slate-300 w-12 h-12 rounded-full shadow border border-slate-800 flex items-center justify-center transition active:scale-95"><i
+                        class="fas fa-arrow-right"></i></button>
+            </div>
+            <div class="mt-4 flex items-center gap-2 text-sm text-slate-400">
+                <input type="checkbox" id="auto-speak" class="rounded text-cyan-600 bg-slate-900 border-slate-800">
+                <label for="auto-speak">Tự động phát âm</label>
+            </div>
+        </div>
+
+        <!-- SECTION 3: STRUCTURE -->
+        <div id="section-structure" class="hidden-section fade-in">
+            <div class="bg-cyan-950/20 rounded-xl p-6 mb-6 border-l-4 border-cyan-500">
+                <h2 class="text-xl font-bold text-cyan-200 mb-2">⚡ Energy Expert</h2>
+                <p class="text-cyan-400 text-sm">Luyện tập kể về các nguồn năng lượng (renewable/non-renewable, solar
+                    panles...).</p>
+            </div>
+            <div id="structure-card-container"></div>
+            <div class="flex justify-center mt-6 gap-4">
+                <button onclick="prevStructureCard()"
+                    class="bg-slate-900 text-slate-300 px-4 py-2 rounded-full shadow border border-slate-800 hover:bg-slate-800 font-bold"><i
+                        class="fas fa-arrow-left"></i> Trước</button>
+                <button onclick="nextStructureCard()"
+                    class="bg-cyan-600 text-white px-6 py-2 rounded-full shadow hover:bg-cyan-700 font-bold border border-cyan-400/30">Từ
+                    Tiếp Theo <i class="fas fa-arrow-right ml-1"></i></button>
+            </div>
+        </div>
+
+        <!-- SECTION 4: PRACTICE -->
+        <div id="section-practice" class="hidden-section fade-in">
+            <div class="sticky top-28 md:top-32 bg-[#020617] pt-2 pb-4 z-20 flex gap-2 overflow-x-auto no-scrollbar">
+                <button onclick="switchPracticeMode('fill')"
+                    class="prac-sub-btn active-prac bg-cyan-900/40 text-cyan-200 px-4 py-2 rounded-full text-sm font-bold border border-cyan-500/30 whitespace-nowrap">1.
+                    Spelling</button>
+                <button onclick="switchPracticeMode('wf')"
+                    class="prac-sub-btn bg-slate-900 text-slate-400 px-4 py-2 rounded-full text-sm font-bold border border-slate-800 whitespace-nowrap">2.
+                    Word Form</button>
+                <button onclick="switchPracticeMode('gram')"
+                    class="prac-sub-btn bg-slate-900 text-slate-400 px-4 py-2 rounded-full text-sm font-bold border border-slate-800 whitespace-nowrap">3.
+                    Ngữ Pháp</button>
+                <button onclick="switchPracticeMode('type1')"
+                    class="prac-sub-btn bg-slate-900 text-slate-400 px-4 py-2 rounded-full text-sm font-bold border border-slate-800 whitespace-nowrap">4.
+                    Trắc nghiệm</button>
+                <button onclick="switchPracticeMode('type2')"
+                    class="prac-sub-btn bg-slate-900 text-slate-400 px-4 py-2 rounded-full text-sm font-bold border border-slate-800 whitespace-nowrap">5.
+                    Dịch từ</button>
+            </div>
+
+            <div class="text-center text-sm text-slate-500 mb-2 font-bold" id="practice-stats">Trang 1/8</div>
+            <div id="pagination-controls" class="flex flex-wrap gap-2 mb-4 justify-center"></div>
+            <div id="practice-container" class="space-y-4 pb-10"></div>
+
+            <div class="fixed bottom-6 right-6 z-30">
+                <button onclick="checkCurrentPage()"
+                    class="bg-cyan-600 hover:bg-cyan-700 text-white font-bold py-3 px-6 rounded-full shadow-2xl animate-bounce flex items-center border border-cyan-400/30">
+                    <i class="fas fa-check-circle mr-2"></i> Chấm Điểm
+                </button>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- NOTE SIDEBAR -->
+    <div id="note-sidebar"
+        class="fixed top-24 right-0 h-[70vh] w-80 bg-slate-950 shadow-2xl transform translate-x-full transition-transform duration-300 z-50 rounded-l-2xl border-l border-slate-900 flex flex-col">
+        <button onclick="toggleNote()"
+            class="absolute top-4 -left-12 bg-cyan-600 text-white w-12 h-12 rounded-l-xl shadow flex items-center justify-center text-xl hover:bg-cyan-700 transition"><i
+                class="fas fa-pen"></i></button>
+        <div class="bg-slate-900 p-4 rounded-tl-2xl border-b border-slate-800 flex justify-between items-center">
+            <h3 class="font-bold text-slate-200"><i class="fas fa-sticky-note mr-2"></i>Sổ Tay Năng Lượng</h3>
+            <button onclick="toggleNote()" class="text-slate-400 hover:text-slate-200"><i
+                    class="fas fa-times"></i></button>
+        </div>
+        <textarea id="note-area"
+            class="flex-grow p-4 bg-slate-950 resize-none outline-none font-handwriting text-slate-400"
+            placeholder="Ghi chú về solar panels, turbines..."></textarea>
+        <div class="p-4 border-t border-slate-900 text-center">
+            <button onclick="exportToWord()"
+                class="w-full bg-cyan-700 text-white font-bold py-2 rounded-lg hover:bg-cyan-800 transition"><i
+                    class="fas fa-download mr-2"></i>Xuất Word</button>
+        </div>
+    </div>
+
+    <div id="toast">Thông báo</div>
+
+    <script>
+        // --- DATA (Unit 10: Energy - 152 Words) ---
+        const vocabData = [
+            { id: 1, en: "energy", vi: "năng lượng", type: "n" },
+            { id: 2, en: "source", vi: "nguồn", type: "n" },
+            { id: 3, en: "pretty", vi: "khá là = quite", type: "adv" },
+            { id: 4, en: "do a project", vi: "làm dự án", type: "v" },
+            { id: 5, en: "provide sb with sth", vi: "cung cấp cho ai cái gì", type: "v" },
+            { id: 6, en: "light", vi: "ánh sáng", type: "n" },
+            { id: 7, en: "heat", vi: "sức nóng, nhiệt", type: "n" },
+            { id: 8, en: "electricity", vi: "điện", type: "n" },
+            { id: 9, en: "be different from sth", vi: "khác với cái gì", type: "phrase" },
+            { id: 10, en: "many + Ns", vi: "nhiều cái gì", type: "adj" },
+            { id: 11, en: "coal", vi: "than đá", type: "n" },
+            { id: 12, en: "natural gas", vi: "Khí đốt tự nhiên", type: "n" },
+            { id: 13, en: "energy source", vi: "nguồn năng lượng", type: "n" },
+            { id: 14, en: "come from", vi: "đến từ", type: "v" },
+            { id: 15, en: "renewable", vi: "có thể tái tạo", type: "adj" },
+            { id: 16, en: "non-renewable", vi: "không thể tái tạo", type: "adj" },
+            { id: 17, en: "sun", vi: "mặt trời", type: "n" },
+            { id: 18, en: "wind", vi: "gió", type: "n" },
+            { id: 19, en: "those + Ns", vi: "những cái kia", type: "det" },
+            { id: 20, en: "much + unc.N", vi: "nhiều cái gì (không đếm được)", type: "adj" },
+            { id: 21, en: "run out of sth", vi: "hết sạch cái gì, cạn kiệt", type: "v" },
+            { id: 22, en: "type of energy", vi: "loại năng lượng", type: "n" },
+            { id: 23, en: "can V", vi: "có thể làm gì", type: "v" },
+            { id: 24, en: "mean", vi: "có nghĩa là", type: "v" },
+            { id: 25, en: "non-renewable sources", vi: "nguồn năng lượng không thể tái tạo", type: "n" },
+            { id: 26, en: "easily replace", vi: "thay thế dễ dàng", type: "v" },
+            { id: 27, en: "I get it", vi: "tôi hiểu rồi", type: "phrase" },
+            { id: 28, en: "you know", vi: "bạn biết đấy", type: "phrase" },
+            { id: 29, en: "cheap", vi: "rẻ", type: "adj" },
+            { id: 30, en: "expensive", vi: "đắt", type: "adj" },
+            { id: 31, en: "others", vi: "những cái, người khác", type: "pron" },
+            { id: 32, en: "hard to find", vi: "khó tìm", type: "adj" },
+            { id: 33, en: "What does it mean?", vi: "Nó nghĩa là gì?", type: "ques" },
+            { id: 34, en: "renewable sources", vi: "nguồn năng lượng tái tạo", type: "n" },
+            { id: 35, en: "oil", vi: "dầu", type: "n" },
+            { id: 36, en: "provide", vi: "cung cấp", type: "v" },
+            { id: 37, en: "use up sth", vi: "sử dụng cạn kiệt cái gì", type: "v" },
+            { id: 38, en: "solar energy", vi: "năng lượng mặt trời", type: "n" },
+            { id: 39, en: "wind energy", vi: "năng lượng gió", type: "n" },
+            { id: 40, en: "hydro energy", vi: "năng lượng thủy điện", type: "n" },
+            { id: 41, en: "nuclear energy", vi: "năng lượng hạt nhân", type: "n" },
+            { id: 42, en: "breeze", vi: "gió nhẹ", type: "n" },
+            { id: 43, en: "because", vi: "bởi vì", type: "conj" },
+            { id: 44, en: "although", vi: "mặc dù", type: "conj" },
+            { id: 45, en: "solar panel", vi: "tấm năng lượng mặt trời", type: "n" },
+            { id: 46, en: "on the roof", vi: "trên mái nhà", type: "adv" },
+            { id: 47, en: "produce electricity", vi: "sản xuất điện", type: "v" },
+            { id: 48, en: "reduce", vi: "giảm", type: "v" },
+            { id: 49, en: "nuclear", vi: "hạt nhân", type: "adj" },
+            { id: 50, en: "the use of", vi: "việc sử dụng", type: "phrase" },
+            { id: 51, en: "safe", vi: "an toàn", type: "adj" },
+            { id: 52, en: "dangerous", vi: "nguy hiểm", type: "adj" },
+            { id: 53, en: "recycle", vi: "tái chế", type: "v" },
+            { id: 54, en: "reuse", vi: "tái sử dụng", type: "v" },
+            { id: 55, en: "because of + N", vi: "bởi vì", type: "prep" },
+            { id: 56, en: "government", vi: "chính phủ", type: "n" },
+            { id: 57, en: "pollute", vi: "làm ô nhiễm", type: "v" },
+            { id: 58, en: "pollution", vi: "sự ô nhiễm", type: "n" },
+            { id: 59, en: "resource", vi: "tài nguyên", type: "n" },
+            { id: 60, en: "should V", vi: "nên làm gì", type: "v" },
+            { id: 61, en: "travel", vi: "đi du lịch, đi lại", type: "v" },
+            { id: 62, en: "danger", vi: "sự nguy hiểm", type: "n" },
+            { id: 63, en: "How far is it?", vi: "bao xa?", type: "ques" },
+            { id: 64, en: "syllable", vi: "âm tiết", type: "n" },
+            { id: 65, en: "distance", vi: "khoảng cách", type: "n" },
+            { id: 66, en: "burn coal", vi: "đốt than", type: "v" },
+            { id: 67, en: "environment", vi: "môi trường", type: "n" },
+            { id: 68, en: "look for sth", vi: "tìm kiếm cái gì", type: "v" },
+            { id: 69, en: "replace", vi: "thay thế", type: "v" },
+            { id: 70, en: "talk about sth", vi: "nói về cái gì", type: "v" },
+            { id: 71, en: "present continuous", vi: "Hiện tại tiếp diễn", type: "n" },
+            { id: 72, en: "at the moment", vi: "bây giờ", type: "adv" },
+            { id: 73, en: "Be quiet!", vi: "Hãy yên lặng!", type: "phrase" },
+            { id: 74, en: "take a test", vi: "làm bài kiểm tra", type: "v" },
+            { id: 75, en: "scientist", vi: "nhà khoa học", type: "n" },
+            { id: 76, en: "develop", vi: "phát triển", type: "v" },
+            { id: 77, en: "protect the environment", vi: "bảo vệ môi trường", type: "v" },
+            { id: 78, en: "nowadays", vi: "ngày nay", type: "adv" },
+            { id: 79, en: "work on a project", vi: "làm dự án", type: "v" },
+            { id: 80, en: "at school", vi: "ở trường", type: "adv" },
+            { id: 81, en: "right now", vi: "ngay bây giờ", type: "adv" },
+            { id: 82, en: "another", vi: "một cái khác", type: "det" },
+            { id: 83, en: "go on foot", vi: "đi bộ = walk", type: "v" },
+            { id: 84, en: "public transport", vi: "phương tiện công cộng", type: "n" },
+            { id: 85, en: "low", vi: "thấp", type: "adj" },
+            { id: 86, en: "light bulb", vi: "bóng đèn", type: "n" },
+            { id: 87, en: "public", vi: "công cộng", type: "adj" },
+            { id: 88, en: "warm", vi: "ấm áp", type: "adj" },
+            { id: 89, en: "turn off the light", vi: "tắt đèn", type: "v" },
+            { id: 90, en: "turn on the light", vi: "bật đèn", type: "v" },
+            { id: 91, en: "low energy bulb", vi: "bóng đèn tiết kiệm năng lượng", type: "n" },
+            { id: 92, en: "save energy", vi: "tiết kiệm năng lượng", type: "v" },
+            { id: 93, en: "main", vi: "chính, chủ yếu", type: "adj" },
+            { id: 94, en: "in the future", vi: "trong tương lai", type: "adv" },
+            { id: 95, en: "in the past", vi: "trong quá khứ", type: "adv" },
+            { id: 96, en: "would like to V", vi: "muốn làm gì", type: "v" },
+            { id: 97, en: "these + Ns", vi: "những cái này", type: "det" },
+            { id: 98, en: "produce energy", vi: "sản xuất năng lượng", type: "v" },
+            { id: 99, en: "easy to use", vi: "dễ sử dụng", type: "adj" },
+            { id: 100, en: "a lot of", vi: "rất nhiều", type: "det" },
+            { id: 101, en: "limited", vi: "có hạn", type: "adj" },
+            { id: 102, en: "run out", vi: "cạn kiệt", type: "v" },
+            { id: 103, en: "soon", vi: "sớm", type: "adv" },
+            { id: 104, en: "hydro", vi: "thuộc về nước", type: "adj" },
+            { id: 105, en: "available", vi: "có sẵn", type: "adj" },
+            { id: 106, en: "clean", vi: "sạch sẽ", type: "adj" },
+            { id: 107, en: "better", vi: "tốt hơn", type: "adj" },
+            { id: 108, en: "unavailable", vi: "không có sẵn", type: "adj" },
+            { id: 109, en: "advantage", vi: "lợi ích", type: "n" },
+            { id: 110, en: "disadvantage", vi: "bất lợi", type: "n" },
+            { id: 111, en: "be good for", vi: "có lợi cho", type: "phrase" },
+            { id: 112, en: "save money", vi: "tiết kiệm tiền", type: "v" },
+            { id: 113, en: "use low energy light bulbs", vi: "sử dụng bóng đèn tiết kiệm năng lượng", type: "v" },
+            { id: 114, en: "use solar panels", vi: "dùng tấm năng lượng mặt trời", type: "v" },
+            { id: 115, en: "heating", vi: "sự đốt nóng, sự làm nóng", type: "n" },
+            { id: 116, en: "lighting", vi: "sự thắp sáng", type: "n" },
+            { id: 117, en: "when", vi: "Khi", type: "conj" },
+            { id: 118, en: "appliance", vi: "thiết bị, dụng cụ", type: "n" },
+            { id: 119, en: "electrical", vi: "thuộc về điện", type: "adj" },
+            { id: 120, en: "cook meals", vi: "nấu ăn", type: "v" },
+            { id: 121, en: "should not V", vi: "không nên làm gì", type: "v" },
+            { id: 122, en: "mustn't V", vi: "không được phép làm gì", type: "v" },
+            { id: 123, en: "leave the room", vi: "ra khỏi phòng", type: "v" },
+            { id: 124, en: "protect", vi: "bảo vệ", type: "v" },
+            { id: 125, en: "electrical appliances", vi: "thiết bị điện", type: "n" },
+            { id: 126, en: "must V", vi: "phải làm gì", type: "v" },
+            { id: 127, en: "protection", vi: "sự bảo vệ", type: "n" },
+            { id: 128, en: "day and night", vi: "ngày đêm, mọi lúc", type: "adv" },
+            { id: 129, en: "roof", vi: "mái nhà", type: "n" },
+            { id: 130, en: "rain heavily", vi: "trời mưa to", type: "v" },
+            { id: 131, en: "normally", vi: "thông thường", type: "adv" },
+            { id: 132, en: "afraid", vi: "sợ", type: "adj" },
+            { id: 133, en: "just now", vi: "vừa mới", type: "adv" },
+            { id: 134, en: "explain", vi: "giải thích", type: "v" },
+            { id: 135, en: "Africa", vi: "Châu Phi", type: "n" },
+            { id: 136, en: "instead of", vi: "thay vì cái gì/làm gì", type: "prep" },
+            { id: 137, en: "effective", vi: "hiệu quả", type: "adj" },
+            { id: 138, en: "as you know", vi: "như bạn đã biết", type: "phrase" },
+            { id: 139, en: "save electricity", vi: "tiết kiệm điện", type: "v" },
+            { id: 140, en: "help sb to V", vi: "giúp ai làm gì", type: "v" },
+            { id: 141, en: "What about Ving?", vi: "Thế còn làm cái này thì sao?", type: "phrase" },
+            { id: 142, en: "sounds interesting", vi: "nghe thú vị đấy", type: "phrase" },
+            { id: 143, en: "ought to V", vi: "nên làm gì", type: "v" },
+            { id: 144, en: "renewable sources", vi: "nguồn năng lượng tái tạo", type: "n" },
+            { id: 145, en: "non-renewable sources", vi: "nguồn năng lượng không thể tái tạo", type: "n" },
+            { id: 146, en: "nature", vi: "thiên nhiên", type: "n" },
+            { id: 147, en: "natural", vi: "thuộc tự nhiên", type: "adj" },
+            { id: 148, en: "natural resources", vi: "tài nguyên thiên nhiên", type: "n" },
+            { id: 149, en: "had better", vi: "nên làm gì", type: "v" },
+            { id: 150, en: "electrical appliance", vi: "thiết bị điện gia dụng", type: "n" },
+            { id: 151, en: "power", vi: "năng lượng", type: "n" },
+            { id: 152, en: "solar energy", vi: "năng lượng mặt trời", type: "n" }
+        ];
+
+        // --- APP LOGIC ---
+        let currentTab = 'vocab';
+        let currentIndex = 0;
+        let isFlipped = false;
+        let activeList = [];
+        let isShuffled = false;
+        let currentMode = 'fill';
+        let currentPage = 1;
+        const itemsPerPage = 20;
+        let fullExercises = {};
+        let structIdx = 0;
+        let recognition;
+        let isRecording = false;
+
+        window.onload = function () {
+            document.getElementById('header-count').innerText = vocabData.length;
+            activeList = [...vocabData];
+            renderVocabLines();
+            updateFlashcard();
+            renderStructureCard();
+            fullExercises = generateExerciseData();
+            switchPracticeMode('fill');
+        };
+
+        function generateExerciseData() {
+            const exercises = { fill: [], wf: [], gram: [], type1: [], type2: [] };
+            vocabData.forEach((word, index) => {
+                const en = word.en.trim();
+                const vi = word.vi.trim();
+                const type = word.type ? word.type.trim().toLowerCase() : '';
+
+                // Spelling
+                let masked = en.split('').map(c => (c === ' ' || c === '/' || Math.random() > 0.5) ? c : '_').join('');
+                if (!masked.includes('_')) masked = en.replace(/./, '_');
+                exercises.fill.push({ id: index, word: en, question: `Spelling: <span class="font-mono font-bold text-cyan-400 text-lg tracking-widest bg-slate-900 px-2 py-1 rounded border border-slate-700">${masked}</span> <br><span class="text-xs text-slate-500 italic">Hint: ${vi}</span>`, answer: en });
+
+                // WF
+                let wfQ = type.includes('n') ? `This _______ is very expensive.` : type.includes('v') ? `We need to _______ our environment.` : `It is _______ for us.`;
+                exercises.wf.push({ id: index, root: en, question: `<div>${wfQ}</div><div class="text-xs text-slate-500 mt-1">Gợi ý: ${vi} (${type})</div>`, answer: en });
+
+                // Grammar - Present Continuous or Modal verbs (should, must)
+                if (en.toLowerCase() === 'should v' || en.toLowerCase() === 'must v') {
+                    exercises.gram.push({ id: index, word: en, question: `We _______ protect the nature. (should/must)`, answer: en.split(' ')[0] });
+                } else if (en.includes('continuous')) {
+                    exercises.gram.push({ id: index, word: en, question: `What is he doing? He _______ (study) energy.`, answer: 'is studying' });
+                } else {
+                    exercises.gram.push({ id: index, word: en, question: `Correct word: <span class="font-bold text-cyan-400">${en}</span>`, answer: en });
+                }
+
+                // Type 1 (Multiple Choice)
+                if (en.includes(' ')) {
+                    exercises.type1.push({ id: index, type: 'order', question: `Reorder phrase (Nghĩa: ${vi}):`, words: en.split(' ').sort(() => Math.random() - 0.5), answer: en });
+                } else {
+                    const typeMap = { 'n': 'Noun', 'v': 'Verb', 'adj': 'Adjective', 'adv': 'Adverb' };
+                    const correctType = typeMap[type] || 'Other';
+                    const opts = [...new Set(Object.values(typeMap))].sort(() => 0.5 - Math.random());
+                    exercises.type1.push({ id: index, type: 'choice', question: `"<span class="font-bold text-slate-100">${en}</span>" is a:`, options: opts, answer: correctType });
+                }
+
+                // Type 2 (Translation)
+                exercises.type2.push({ id: index, type: 'write', question: `English translation: "<span class="font-bold text-cyan-400">${vi}</span>"`, answer: en });
+            });
+            return exercises;
+        }
+
+        function switchTab(tab) {
+            currentTab = tab;
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('tab-active', 'bg-slate-900'));
+            document.getElementById(`tab-${tab}`).classList.add('tab-active', 'bg-slate-900');
+            document.querySelectorAll('main > div').forEach(div => div.classList.add('hidden-section'));
+            document.getElementById(`section-${tab}`).classList.remove('hidden-section');
+        }
+
+        function renderVocabLines(filter = "") {
+            const grid = document.getElementById('vocab-grid'); grid.innerHTML = "";
+            const filtered = vocabData.filter(item => item.en.toLowerCase().includes(filter.toLowerCase()) || item.vi.toLowerCase().includes(filter.toLowerCase()));
+            document.getElementById('vocab-count').innerText = filtered.length;
+            filtered.forEach(item => {
+                const el = document.createElement('div');
+                el.className = "dark-card p-4 rounded-xl shadow-sm hover:shadow-md transition group flex justify-between items-center electric-glow";
+                el.innerHTML = `<div><div class="flex items-center gap-2 mb-1"><span class="text-xs font-bold text-slate-600">#${item.id}</span><span class="text-[10px] bg-cyan-900/30 text-cyan-400 px-1 rounded uppercase font-bold">${item.type}</span></div><h3 class="text-lg font-bold text-white group-hover:text-cyan-400 transition">${item.en}</h3><p class="text-slate-400 text-sm">${item.vi}</p></div><button onclick="speak('${escapeQuote(item.en)}')" class="text-slate-600 hover:text-cyan-400 transition"><i class="fas fa-volume-up text-lg"></i></button>`;
+                grid.appendChild(el);
+            });
+        }
+        function filterVocab() { renderVocabLines(document.getElementById('searchInput').value); }
+
+        function updateFlashcard() {
+            const item = activeList[currentIndex];
+            isFlipped = false; document.getElementById('flashcard-inner').classList.remove('flipped');
+            document.getElementById('fc-index').innerText = `${currentIndex + 1} / ${activeList.length}`;
+            document.getElementById('fc-front-text').innerText = item.en;
+            document.getElementById('fc-back-text').innerText = item.vi;
+            document.getElementById('fc-back-type').innerText = item.type;
+            document.getElementById('fc-back-sent').innerText = `We are studying about ${item.en} in our science project.`;
+            if (document.getElementById('auto-speak').checked) speak(item.en);
+        }
+        function flipCard() { isFlipped = !isFlipped; document.getElementById('flashcard-inner').classList.toggle('flipped', isFlipped); }
+        function changeCard(dir) { currentIndex += dir; if (currentIndex < 0) currentIndex = activeList.length - 1; if (currentIndex >= activeList.length) currentIndex = 0; updateFlashcard(); }
+        function toggleShuffle() { isShuffled = !isShuffled; activeList = isShuffled ? [...vocabData].sort(() => Math.random() - 0.5) : [...vocabData]; currentIndex = 0; updateFlashcard(); }
+        function speakCurrentCard() { speak(activeList[currentIndex].en); }
+
+        function renderStructureCard() {
+            const word = vocabData[structIdx];
+            const container = document.getElementById('structure-card-container');
+            container.innerHTML = `<div class="dark-card rounded-xl shadow-lg p-6 max-w-2xl mx-auto border border-cyan-500/30"><div class="text-center mb-6"><h2 class="text-3xl font-extrabold text-white mb-1">${word.en}</h2><p class="text-slate-400 text-sm">(${word.vi})</p></div><div class="border-t border-slate-800 pt-6 text-center"><p class="font-bold text-slate-500 mb-3">Thử nói:</p><p class="text-xl font-bold text-cyan-400 mb-6 font-serif">"Is solar energy a renewable ${word.en}?"</p><button id="record-btn" onclick="toggleRecording()" class="w-16 h-16 rounded-full bg-cyan-600 hover:bg-cyan-700 text-white shadow-lg flex items-center justify-center mx-auto transition transform active:scale-95 border border-cyan-400/30"><i class="fas fa-microphone text-2xl"></i></button><p id="transcript-result" class="text-sm text-slate-500 mt-3 h-6 italic">Nhấn mic để nói...</p></div></div>`;
+        }
+        function nextStructureCard() { structIdx = (structIdx + 1) % vocabData.length; renderStructureCard(); }
+        function prevStructureCard() { structIdx = (structIdx - 1 + vocabData.length) % vocabData.length; renderStructureCard(); }
+        function toggleRecording() {
+            if (!('webkitSpeechRecognition' in window)) { showToast("Not supported"); return; }
+            if (isRecording) { recognition.stop(); return; }
+            const btn = document.getElementById('record-btn'); recognition = new webkitSpeechRecognition(); recognition.lang = 'en-US';
+            recognition.onstart = () => { isRecording = true; btn.classList.add('pulse-ring'); document.getElementById('transcript-result').innerText = "Đang nghe..."; };
+            recognition.onresult = (e) => { const x = e.results[0][0].transcript; document.getElementById('transcript-result').innerText = `"${x}"`; if (x.toLowerCase().includes(vocabData[structIdx].en.toLowerCase())) showToast("⚡ Powerful Pronunciation!"); };
+            recognition.onend = () => { isRecording = false; btn.classList.remove('pulse-ring'); };
+            recognition.start();
+        }
+
+        function switchPracticeMode(mode) { currentMode = mode; currentPage = 1; renderPagination(); renderPracticePage(); }
+        function renderPagination() {
+            const total = fullExercises[currentMode].length; const pages = Math.ceil(total / itemsPerPage);
+            const container = document.getElementById('pagination-controls'); container.innerHTML = '';
+            for (let i = 1; i <= pages; i++) { if (i > 3 && i < pages - 1) { if (i === 4) container.innerHTML += '...'; continue; } const btn = document.createElement('button'); btn.className = `px-3 py-1 rounded text-sm font-bold border transition ${i === currentPage ? 'bg-cyan-600 text-white border-cyan-600' : 'bg-slate-900 text-slate-400 hover:bg-slate-800 border-slate-800'}`; btn.innerText = i; btn.onclick = () => { currentPage = i; renderPagination(); renderPracticePage(); }; container.appendChild(btn); }
+            document.getElementById('practice-stats').innerText = `Trang ${currentPage}/${pages}`;
+        }
+        function renderPracticePage() {
+            const container = document.getElementById('practice-container'); container.innerHTML = '';
+            const start = (currentPage - 1) * itemsPerPage; const end = start + itemsPerPage;
+            const data = fullExercises[currentMode].slice(start, end);
+            const list = document.createElement('div'); list.className = "dark-card rounded-xl shadow-sm border border-slate-800";
+            data.forEach((item, i) => {
+                const row = document.createElement('div'); row.className = "p-4 border-b border-slate-900 flex flex-col gap-2";
+                row.innerHTML = `<div class="text-[10px] uppercase text-slate-600 font-bold text-right">#${start + i + 1}</div><div class="mb-2 font-medium text-slate-200">${item.question}</div>`;
+                if (item.type === 'order') {
+                    row.innerHTML += `<div id="ans-q-${start + i}" class="min-h-[40px] bg-slate-950 border border-dashed border-slate-800 rounded p-2 flex flex-wrap gap-2 mb-2" data-ans="${item.answer}"></div><div id="bank-q-${start + i}" class="flex flex-wrap gap-2">${item.words.map(w => `<span onclick="moveWord(this, 'ans-q-${start + i}', 'bank-q-${start + i}')" class="word-bank-item bg-slate-900 px-2 py-1 rounded border border-slate-800 text-xs shadow-sm">${w}</span>`).join('')}</div>`;
+                } else if (item.options) {
+                    row.innerHTML += `<div class="grid grid-cols-1 md:grid-cols-2 gap-2" data-ans="${item.answer}">${item.options.map(o => `<button onclick="selectChoice(this)" class="p-2 border border-slate-800 rounded-lg text-left hover:bg-slate-900 text-sm transition">${o}</button>`).join('')}</div>`;
+                } else {
+                    row.innerHTML += `<input type="text" data-ans="${item.answer}" class="prac-input w-full p-2 bg-slate-950 border border-slate-800 rounded focus:border-cyan-500 outline-none text-sm text-slate-100" placeholder="...">`;
+                }
+                row.innerHTML += `<div class="prac-feedback mt-1 font-bold"></div>`;
+                list.appendChild(row);
+            });
+            container.appendChild(list);
+        }
+
+        window.moveWord = function (el, tId, oId) { const t = document.getElementById(tId); const o = document.getElementById(oId); if (el.parentElement.id === oId) t.appendChild(el); else o.appendChild(el); }
+        window.selectChoice = function (btn) { const p = btn.parentElement; p.querySelectorAll('button').forEach(b => b.classList.remove('choice-selected')); btn.classList.add('choice-selected'); p.setAttribute('data-user-choice', btn.innerText); }
+
+        function checkCurrentPage() {
+            let cor = 0; let total = 0;
+            document.querySelectorAll('#practice-container .prac-input').forEach(inp => {
+                total++; const u = inp.value.trim().toLowerCase(); const a = inp.getAttribute('data-ans').toLowerCase(); const fb = inp.nextElementSibling;
+                if (u === a) { cor++; inp.classList.add('correct-answer'); fb.innerHTML = "<span class='text-green-400'>✅ Correct!</span>"; } else { inp.classList.add('wrong-answer'); fb.innerHTML = `<span class='text-red-400'>❌ ${a}</span>`; }
+            });
+            document.querySelectorAll('#practice-container div[data-ans]').forEach(c => {
+                if (!c.getAttribute('data-ans')) return;
+                total++; const u = c.getAttribute('data-user-choice'); const a = c.getAttribute('data-ans'); const fb = c.nextElementSibling;
+                if (!u) return;
+                if (u === a) { cor++; fb.innerHTML = "<span class='text-green-400'>✅ Correct!</span>"; } else { fb.innerHTML = `<span class='text-red-400'>❌ ${a}</span>`; }
+            });
+            document.querySelectorAll('div[id^="ans-q-"]').forEach(z => {
+                total++; const u = Array.from(z.children).map(s => s.innerText).join(' ').trim().toLowerCase(); const a = z.getAttribute('data-ans').toLowerCase(); const fb = z.nextElementSibling.nextElementSibling;
+                if (u === a) { cor++; fb.innerHTML = "<span class='text-green-400'>✅ Correct!</span>"; } else { fb.innerHTML = `<span class='text-red-400'>❌ ${a}</span>`; }
+            });
+            showToast(`${cor}/${total} Correct!`);
+        }
+
+        function speak(t) { window.speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(t); u.lang = 'en-US'; window.speechSynthesis.speak(u); }
+        function escapeQuote(s) { return s.replace(/'/g, "\\'"); }
+        function showToast(m) { const t = document.getElementById('toast'); t.textContent = m; t.className = "show"; setTimeout(() => t.className = "", 3000); }
+        function resetApp() { location.reload(); }
+        function toggleInfo() { alert("Unit 10: Energy sources - 152 Words."); }
+        function toggleNote() { document.getElementById('note-sidebar').classList.toggle('translate-x-full'); }
+        function exportToWord() { const t = document.getElementById('note-area').value; const b = new Blob(['\ufeff' + t], { type: 'application/msword' }); const a = document.createElement('a'); a.href = URL.createObjectURL(b); a.download = 'EnergyNotes.doc'; a.click(); }
+    </script>
+</body>
+
+</html>

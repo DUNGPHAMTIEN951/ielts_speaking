@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Websites_1_c1",
+  "vocab": [
+    {
+      "word": "algorithmic recommendations",
+      "ipa": "/ˌæl.ɡəˈrɪð.mɪk ˌrek.ə.menˈdeɪ.ʃənz/",
+      "meaning": "các đề xuất dựa trên thuật toán",
+      "example": "I often browse video-sharing platforms because their algorithmic recommendations are eerily good at finding content I enjoy.",
+      "type": "collocation"
+    },
+    {
+      "word": "comprehensive repository",
+      "ipa": "/ˌkɒm.prɪˈhen.sɪv rɪˈpɒz.ɪ.tər.i/",
+      "meaning": "kho lưu trữ thông tin toàn diện",
+      "example": "For my research, I frequently visit sites that serve as a comprehensive repository of historical documents.",
+      "type": "collocation"
+    },
+    {
+      "word": "a wealth of tutorials",
+      "ipa": "/ə welθ əv tʃuːˈtɔː.ri.əlz/",
+      "meaning": "một lượng lớn các bài hướng dẫn",
+      "example": "I'm a regular on DIY websites as they offer a wealth of tutorials for someone looking to pick up a new craft.",
+      "type": "collocation"
+    },
+    {
+      "word": "clunky interface",
+      "ipa": "/ˈklʌŋ.ki ˈɪn.tə.feɪs/",
+      "meaning": "giao diện vụng về, khó sử dụng",
+      "example": "I try to avoid government portals if I can, as they often have a clunky interface that makes navigation a nightmare.",
+      "type": "collocation"
+    },
+    {
+      "word": "user-generated content",
+      "ipa": "/ˌjuː.zəˈdʒen.ə.reɪ.tɪd ˈkɒn.tent/",
+      "meaning": "nội dung do người dùng tạo ra",
+      "example": "I have a soft spot for community-driven sites where the user-generated content provides a diverse range of perspectives.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

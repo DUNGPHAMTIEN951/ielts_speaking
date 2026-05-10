@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Watch_1_id2",
+  "vocab": [
+    {
+      "word": "a notch above",
+      "ipa": "/ə nɒtʃ əˈbʌv/",
+      "meaning": "cao hơn một bậc (về chất lượng, đẳng cấp)",
+      "example": "Wearing a high-end timepiece definitely makes an outfit look a notch above the usual casual style.",
+      "type": "idiom"
+    },
+    {
+      "word": "against the clock",
+      "ipa": "/əˈɡenst ðə klɒk/",
+      "meaning": "chạy đua với thời gian (làm việc khẩn trương)",
+      "example": "I'm often working against the clock to meet deadlines, so having a watch on my wrist is absolutely essential.",
+      "type": "idiom"
+    },
+    {
+      "word": "look a million dollars",
+      "ipa": "/lʊk ə ˈmɪljən ˈdɒlərz/",
+      "meaning": "trông rất sang trọng, lôi cuốn và đắt tiền",
+      "example": "Even with a simple suit, adding a classic watch can make you look a million dollars.",
+      "type": "idiom"
+    },
+    {
+      "word": "lose track of time",
+      "ipa": "/luːz træk əv taɪm/",
+      "meaning": "quên mất thời gian, không để ý giờ giấc",
+      "example": "I tend to lose track of time when I’m engrossed in a book, which is why I need a watch to remind me of my appointments.",
+      "type": "idiom"
+    },
+    {
+      "word": "stand the test of time",
+      "ipa": "/stænd ðə test əv taɪm/",
+      "meaning": "trường tồn với thời gian (vẫn bền, tốt hoặc hợp mốt)",
+      "example": "I prefer mechanical watches because they are built to stand the test of time, unlike modern gadgets that become obsolete quickly.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

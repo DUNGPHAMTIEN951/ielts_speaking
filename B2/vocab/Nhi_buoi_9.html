@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tiếng Anh 7 - Unit 9: Festivals around the world (Full 154 Words)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap');
+
+        /* Base */
+        body {
+            font-family: 'Nunito', sans-serif;
+            background-color: #fffaf0;
+            overflow-x: hidden;
+            transition: padding-right 0.3s ease-in-out;
+            color: #7c2d12;
+        }
+
+        /* Sidebar Push Effect */
+        @media (min-width: 1024px) {
+            body.note-open {
+                padding-right: 20rem;
+            }
+        }
+
+        /* Tabs */
+        .tab-active {
+            border-bottom: 3px solid #dc2626;
+            color: #991b1b;
+            font-weight: 800;
+            background-color: rgba(220, 38, 38, 0.1);
+        }
+
+        /* Utils */
+        .hidden-section {
+            display: none !important;
+        }
+
+        .fade-in {
+            animation: fadeIn 0.4s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Flashcard 3D */
+        .perspective-1000 {
+            perspective: 1000px;
+        }
+
+        .transform-style-3d {
+            transform-style: preserve-3d;
+        }
+
+        .backface-hidden {
+            backface-visibility: hidden;
+        }
+
+        .rotate-y-180 {
+            transform: rotateY(180deg);
+        }
+
+        .flipped {
+            transform: rotateY(180deg);
+        }
+
+        .flashcard-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+            transform-style: preserve-3d;
+            border-radius: 1.5rem;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+        }
+
+        .flashcard-front,
+        .flashcard-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            border-radius: 1.5rem;
+            background: white;
+            border: 2px solid #fecaca;
+            padding: 1.5rem;
+        }
+
+        .flashcard-front {
+            background: linear-gradient(135deg, #ffffff 0%, #fff5f5 100%);
+        }
+
+        .flashcard-back {
+            background: linear-gradient(135deg, #fef2f2 0%, #fff7ed 100%);
+            transform: rotateY(180deg);
+        }
+
+        /* Practice Styles */
+        .correct-answer {
+            background-color: #ecfdf5 !important;
+            border-color: #10b981 !important;
+            color: #065f46 !important;
+        }
+
+        .wrong-answer {
+            background-color: #fef2f2 !important;
+            border-color: #ef4444 !important;
+            color: #991b1b !important;
+        }
+
+        .choice-selected {
+            background-color: #fff7ed;
+            border-color: #f97316;
+            color: #c2410c;
+            font-weight: bold;
+        }
+
+        /* Word Ordering Styles */
+        .word-bank-item {
+            cursor: pointer;
+            transition: all 0.2s;
+            user-select: none;
+        }
+
+        .word-bank-item:hover {
+            transform: translateY(-2px);
+            background-color: #fff7ed;
+        }
+
+        .word-bank-item.used {
+            opacity: 0.5;
+            pointer-events: none;
+            background-color: #fffaf0;
+            color: #fbbf24;
+            border-color: #fde68a;
+        }
+
+        /* Toast */
+        #toast {
+            visibility: hidden;
+            min-width: 250px;
+            background-color: #dc2626;
+            color: #fff;
+            text-align: center;
+            border-radius: 8px;
+            padding: 16px;
+            position: fixed;
+            z-index: 100;
+            left: 50%;
+            bottom: 30px;
+            transform: translateX(-50%);
+            opacity: 0;
+            transition: opacity 0.3s, bottom 0.3s;
+        }
+
+        #toast.show {
+            visibility: visible;
+            opacity: 1;
+            bottom: 50px;
+        }
+
+        /* Pulse */
+        .pulse-ring {
+            box-shadow: 0 0 0 0 rgba(220, 38, 38, 0.7);
+            animation: pulse-red 1.5s infinite;
+        }
+
+        @keyframes pulse-red {
+            0% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(220, 38, 38, 0.7);
+            }
+
+            70% {
+                transform: scale(1);
+                box-shadow: 0 0 0 10px rgba(220, 38, 38, 0);
+            }
+
+            100% {
+                transform: scale(0.95);
+                box-shadow: 0 0 0 0 rgba(220, 38, 38, 0);
+            }
+        }
+    </style>
+</head>
+
+<body class="min-h-screen flex flex-col relative text-orange-950">
+
+    <!-- Header -->
+    <header
+        class="bg-gradient-to-r from-red-600 via-orange-600 to-red-700 text-white p-4 shadow-lg sticky top-0 z-50 border-b border-yellow-500/30">
+        <div class="max-w-6xl mx-auto flex justify-between items-center">
+            <div>
+                <h1 class="text-xl md:text-3xl font-extrabold"><i class="fas fa-drum mr-2 text-yellow-300"></i>Unit 9:
+                    Festivals</h1>
+                <p class="text-orange-100 text-xs md:text-sm font-medium"><span id="header-count">154</span> Words •
+                    Grade 7 (Global Success)</p>
+            </div>
+            <div class="flex gap-2">
+                <button onclick="toggleInfo()"
+                    class="text-sm bg-white/20 hover:bg-white/30 px-3 py-1.5 rounded-lg transition"><i
+                        class="fas fa-info-circle"></i></button>
+                <button onclick="resetApp()"
+                    class="text-sm bg-white/20 hover:bg-white/30 px-3 py-1.5 rounded-lg transition font-semibold">Reset</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="bg-white shadow sticky top-[72px] z-40 border-b border-orange-100">
+        <div class="max-w-6xl mx-auto flex justify-start gap-2 md:gap-4 px-4 overflow-x-auto py-2">
+            <button onclick="switchTab('vocab')" id="tab-vocab"
+                class="tab-btn tab-active px-4 py-2 rounded-lg whitespace-nowrap transition-colors"><i
+                    class="fas fa-list mr-2"></i>Từ Vựng</button>
+            <button onclick="switchTab('flashcard')" id="tab-flashcard"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-orange-50"><i
+                    class="fas fa-clone mr-2"></i>Flashcards</button>
+            <button onclick="switchTab('structure')" id="tab-structure"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-orange-50"><i
+                    class="fas fa-microphone-alt mr-2"></i>Cấu Trúc & Nói</button>
+            <button onclick="switchTab('practice')" id="tab-practice"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-orange-50"><i
+                    class="fas fa-tasks mr-2"></i>Bài Tập</button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="flex-grow max-w-6xl mx-auto w-full p-4 md:p-6 space-y-6 pb-20">
+
+        <!-- SECTION 1: VOCAB LIST -->
+        <div id="section-vocab" class="fade-in">
+            <div class="mb-6 relative max-w-xl mx-auto">
+                <input type="text" id="searchInput" onkeyup="filterVocab()"
+                    placeholder="🔍 Tìm lễ hội, hoạt động, đồ ăn..."
+                    class="w-full p-4 rounded-full border border-orange-200 shadow-sm focus:outline-none focus:ring-4 focus:ring-red-100 pl-12 transition">
+                <i class="fas fa-search absolute left-5 top-5 text-orange-300"></i>
+            </div>
+            <div class="text-right text-orange-400 text-sm mb-2">Tổng số: <span id="vocab-count"
+                    class="font-bold">0</span> từ</div>
+            <div id="vocab-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4"></div>
+        </div>
+
+        <!-- SECTION 2: FLASHCARDS -->
+        <div id="section-flashcard" class="hidden-section fade-in flex flex-col items-center">
+            <div class="w-full max-w-lg flex justify-between items-center mb-4 px-4">
+                <span id="fc-index" class="font-bold text-red-600 bg-red-100 px-3 py-1 rounded-full text-sm">1 /
+                    154</span>
+                <div class="flex gap-2">
+                    <button onclick="toggleShuffle()" id="btn-shuffle"
+                        class="p-2 rounded-full hover:bg-orange-50 text-orange-500 transition" title="Xáo trộn"><i
+                            class="fas fa-random"></i></button>
+                    <button onclick="speakCurrentCard()"
+                        class="p-2 rounded-full hover:bg-orange-50 text-red-600 transition" title="Phát âm"><i
+                            class="fas fa-volume-up text-xl"></i></button>
+                </div>
+            </div>
+
+            <div class="perspective-1000 w-full max-w-md h-[400px] px-4 cursor-pointer group" onclick="flipCard()">
+                <div id="flashcard-inner" class="flashcard-inner relative">
+                    <div class="flashcard-front">
+                        <span class="text-xs font-bold text-orange-400 uppercase tracking-widest mb-4">English</span>
+                        <h2 id="fc-front-text"
+                            class="text-3xl font-extrabold text-red-700 text-center break-words mb-4 px-2">...</h2>
+                        <i class="fas fa-mask-face text-red-500/20 text-4xl mt-auto"></i>
+                    </div>
+                    <div class="flashcard-back">
+                        <span id="fc-back-type"
+                            class="text-xs font-bold text-white bg-red-500 px-2 py-1 rounded mb-2 uppercase">...</span>
+                        <h2 id="fc-back-text" class="text-2xl font-bold text-slate-800 text-center mb-2 px-2">...</h2>
+                        <p id="fc-back-sent" class="text-orange-500 text-sm italic text-center px-2">...</p>
+                    </div>
+                </div>
+            </div>
+            <div class="flex items-center gap-6 mt-8">
+                <button onclick="changeCard(-1)"
+                    class="bg-white hover:bg-orange-50 text-orange-600 w-12 h-12 rounded-full shadow border border-orange-100 flex items-center justify-center transition active:scale-95"><i
+                        class="fas fa-arrow-left"></i></button>
+                <button onclick="flipCard()"
+                    class="bg-red-600 hover:bg-red-700 text-white px-8 py-3 rounded-full shadow-lg font-bold transition active:scale-95">Lật
+                    Thẻ</button>
+                <button onclick="changeCard(1)"
+                    class="bg-white hover:bg-orange-50 text-orange-600 w-12 h-12 rounded-full shadow border border-orange-100 flex items-center justify-center transition active:scale-95"><i
+                        class="fas fa-arrow-right"></i></button>
+            </div>
+            <div class="mt-4 flex items-center gap-2 text-sm text-orange-500">
+                <input type="checkbox" id="auto-speak" class="rounded text-red-600 border-orange-200"> <label
+                    for="auto-speak">Tự động phát âm</label>
+            </div>
+        </div>
+
+        <!-- SECTION 3: STRUCTURE -->
+        <div id="section-structure" class="hidden-section fade-in">
+            <div class="bg-red-50 rounded-xl p-6 mb-6 border-l-4 border-red-500">
+                <h2 class="text-xl font-bold text-red-900 mb-2">🎭 Festival Host</h2>
+                <p class="text-red-700 text-sm">Luyện tập kể về các lễ hội trên thế giới (Cấu trúc H/W questions).</p>
+            </div>
+            <div id="structure-card-container"></div>
+            <div class="flex justify-center mt-6 gap-4">
+                <button onclick="prevStructureCard()"
+                    class="bg-white text-red-600 px-4 py-2 rounded-full shadow border border-red-100 hover:bg-red-50 font-bold"><i
+                        class="fas fa-arrow-left"></i> Trước</button>
+                <button onclick="nextStructureCard()"
+                    class="bg-red-600 text-white px-6 py-2 rounded-full shadow hover:bg-red-700 font-bold">Từ Tiếp Theo
+                    <i class="fas fa-arrow-right ml-1"></i></button>
+            </div>
+        </div>
+
+        <!-- SECTION 4: PRACTICE -->
+        <div id="section-practice" class="hidden-section fade-in">
+            <div class="sticky top-28 md:top-32 bg-[#fffaf0] pt-2 pb-4 z-20 flex gap-2 overflow-x-auto no-scrollbar">
+                <button onclick="switchPracticeMode('fill')"
+                    class="prac-sub-btn active-prac bg-red-100 text-red-800 px-4 py-2 rounded-full text-sm font-bold border border-red-300 whitespace-nowrap">1.
+                    Spelling</button>
+                <button onclick="switchPracticeMode('wf')"
+                    class="prac-sub-btn bg-white text-orange-600 px-4 py-2 rounded-full text-sm font-bold border border-orange-200 whitespace-nowrap">2.
+                    Word Form</button>
+                <button onclick="switchPracticeMode('gram')"
+                    class="prac-sub-btn bg-white text-orange-600 px-4 py-2 rounded-full text-sm font-bold border border-orange-200 whitespace-nowrap">3.
+                    Ngữ Pháp</button>
+                <button onclick="switchPracticeMode('type1')"
+                    class="prac-sub-btn bg-white text-orange-600 px-4 py-2 rounded-full text-sm font-bold border border-orange-200 whitespace-nowrap">4.
+                    Trắc nghiệm</button>
+                <button onclick="switchPracticeMode('type2')"
+                    class="prac-sub-btn bg-white text-orange-600 px-4 py-2 rounded-full text-sm font-bold border border-orange-200 whitespace-nowrap">5.
+                    Dịch từ</button>
+            </div>
+
+            <div class="text-center text-sm text-orange-500 mb-2 font-bold" id="practice-stats">Trang 1/8</div>
+            <div id="pagination-controls" class="flex flex-wrap gap-2 mb-4 justify-center"></div>
+            <div id="practice-container" class="space-y-4 pb-10"></div>
+
+            <div class="fixed bottom-6 right-6 z-30">
+                <button onclick="checkCurrentPage()"
+                    class="bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-6 rounded-full shadow-2xl animate-bounce flex items-center">
+                    <i class="fas fa-check-circle mr-2"></i> Chấm Điểm
+                </button>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- NOTE SIDEBAR -->
+    <div id="note-sidebar"
+        class="fixed top-24 right-0 h-[70vh] w-80 bg-white shadow-2xl transform translate-x-full transition-transform duration-300 z-50 rounded-l-2xl border-l border-red-100 flex flex-col">
+        <button onclick="toggleNote()"
+            class="absolute top-4 -left-12 bg-red-600 text-white w-12 h-12 rounded-l-xl shadow flex items-center justify-center text-xl hover:bg-red-700 transition"><i
+                class="fas fa-pen"></i></button>
+        <div class="bg-red-50 p-4 rounded-tl-2xl border-b border-red-100 flex justify-between items-center">
+            <h3 class="font-bold text-red-800"><i class="fas fa-sticky-note mr-2"></i>Ghi Chú Lễ Hội</h3>
+            <button onclick="toggleNote()" class="text-gray-400 hover:text-gray-600"><i
+                    class="fas fa-times"></i></button>
+        </div>
+        <textarea id="note-area"
+            class="flex-grow p-4 bg-orange-50/30 resize-none outline-none font-handwriting text-orange-950"
+            placeholder="Ghi chú về các loại lễ hội (religious, modern...)"></textarea>
+        <div class="p-4 border-t border-orange-100 text-center">
+            <button onclick="exportToWord()"
+                class="w-full bg-red-600 text-white font-bold py-2 rounded-lg hover:bg-red-700 transition"><i
+                    class="fas fa-download mr-2"></i>Xuất Word</button>
+        </div>
+    </div>
+
+    <div id="toast">Thông báo</div>
+
+    <script>
+        // --- DATA (Unit 9: Festivals - 154 Words) ---
+        const vocabData = [
+            { id: 1, en: "festival", vi: "lễ hội", type: "n" },
+            { id: 2, en: "activity", vi: "hoạt động", type: "n" },
+            { id: 3, en: "syllable", vi: "âm tiết", type: "n" },
+            { id: 4, en: "unusual", vi: "lạ, không bình thường", type: "adj" },
+            { id: 5, en: "join sth", vi: "tham gia vào cái gì", type: "v" },
+            { id: 6, en: "describe", vi: "miêu tả", type: "v" },
+            { id: 7, en: "unusual festival", vi: "lễ hội kì lạ", type: "n" },
+            { id: 8, en: "express", vi: "bày tỏ", type: "v" },
+            { id: 9, en: "disappointment", vi: "sự thất vọng", type: "n" },
+            { id: 10, en: "cozy", vi: "ấm cúng", type: "adj" },
+            { id: 11, en: "among", vi: "giữa 3 người, vật trở lên", type: "prep" },
+            { id: 12, en: "take photos", vi: "chụp ảnh", type: "v" },
+            { id: 13, en: "Australia", vi: "nước Úc", type: "n" },
+            { id: 14, en: "September", vi: "tháng 9", type: "n" },
+            { id: 15, en: "really", vi: "thực sự", type: "adv" },
+            { id: 16, en: "the Netherlands", vi: "Hà Lan", type: "n" },
+            { id: 17, en: "folk dance", vi: "điệu múa dân gian", type: "n" },
+            { id: 18, en: "dancer", vi: "vũ công", type: "n" },
+            { id: 19, en: "wear", vi: "mặc, đeo, đội", type: "v" },
+            { id: 20, en: "at the festival", vi: "ở lễ hội", type: "adv" },
+            { id: 21, en: "tradition", vi: "truyền thống", type: "n" },
+            { id: 22, en: "costume", vi: "trang phục", type: "n" },
+            { id: 23, en: "chance to V", vi: "cơ hội làm gì", type: "phrase" },
+            { id: 24, en: "delicious", vi: "ngon", type: "adj" },
+            { id: 25, en: "any", vi: "câu phủ định, câu hỏi", type: "det" },
+            { id: 26, en: "float", vi: "xe rước, diễu hành", type: "n" },
+            { id: 27, en: "held sth", vi: "tổ chức cái gì", type: "v" },
+            { id: 28, en: "Dutch food", vi: "đồ ăn Hà Lan", type: "n" },
+            { id: 29, en: "parade", vi: "cuộc diễu hành", type: "n" },
+            { id: 30, en: "traditional costume", vi: "trang phục truyền thống", type: "n" },
+            { id: 31, en: "Dutch", vi: "người, tiếng Hà Lan", type: "n/adj" },
+            { id: 32, en: "fireworks display", vi: "trình diễn pháo hoa", type: "n" },
+            { id: 33, en: "feast", vi: "bữa tiệc", type: "n" },
+            { id: 34, en: "perform", vi: "biểu diễn", type: "v" },
+            { id: 35, en: "on New Year's Eve", vi: "vào đêm giao thừa", type: "adv" },
+            { id: 36, en: "prepare", vi: "chuẩn bị", type: "v" },
+            { id: 37, en: "special food", vi: "đặc sản", type: "n" },
+            { id: 38, en: "several", vi: "một vài", type: "det" },
+            { id: 39, en: "country", vi: "đất nước, quốc gia", type: "n" },
+            { id: 40, en: "welcome", vi: "chào mừng", type: "v" },
+            { id: 41, en: "tulip float", vi: "xe rước hoa tulip", type: "n" },
+            { id: 42, en: "traditional", vi: "thuộc truyền thống", type: "adj" },
+            { id: 43, en: "carry", vi: "mang, vác, khuân chở", type: "v" },
+            { id: 44, en: "moon cake", vi: "bánh trung thu", type: "n" },
+            { id: 45, en: "throw at", vi: "ném vào", type: "v" },
+            { id: 46, en: "cheese", vi: "phô mai", type: "n" },
+            { id: 47, en: "decorate", vi: "trang trí", type: "v" },
+            { id: 48, en: "pine tree", vi: "cây thông", type: "n" },
+            { id: 49, en: "give a gift", vi: "tặng quà", type: "v" },
+            { id: 50, en: "chase after sb", vi: "đuổi theo ai", type: "v" },
+            { id: 51, en: "wheel", vi: "bánh xe", type: "n" },
+            { id: 52, en: "Cannes Film Festival", vi: "Liên hoan phim Cannes", type: "n" },
+            { id: 53, en: "Mid-Autumn Festival", vi: "Tết trung thu", type: "n" },
+            { id: 54, en: "interested", vi: "quan tâm, hứng thú", type: "adj" },
+            { id: 55, en: "Thanksgiving", vi: "Ngày lễ Tạ Ơn", type: "n" },
+            { id: 56, en: "at Christmas", vi: "vào Lễ Giáng Sinh", type: "adv" },
+            { id: 57, en: "at Easter", vi: "vào lễ phục sinh", type: "adv" },
+            { id: 58, en: "have a feast", vi: "ăn tiệc", type: "phrase" },
+            { id: 59, en: "turkey", vi: "gà tây", type: "n" },
+            { id: 60, en: "carve a pumpkin", vi: "điêu khắc bí ngô", type: "v" },
+            { id: 61, en: "candy apples", vi: "kẹo táo", type: "n" },
+            { id: 62, en: "perform a lion dance", vi: "biểu diễn múa lân", type: "v" },
+            { id: 63, en: "on Christmas Day", vi: "vào Ngày lễ Giáng sinh", type: "adv" },
+            { id: 64, en: "How many + Ns", vi: "bao nhiêu + N đếm được số nhiều", type: "phrase" },
+            { id: 65, en: "decide to V", vi: "quyết định làm gì", type: "v" },
+            { id: 66, en: "enjoy Ving", vi: "tận hưởng làm gì", type: "v" },
+            { id: 67, en: "discuss sth", vi: "thảo luận cái gì", type: "v" },
+            { id: 68, en: "attend sth", vi: "tham dự cái gì", type: "v" },
+            { id: 69, en: "present / gift", vi: "món quà", type: "n" },
+            { id: 70, en: "clever", vi: "thông minh", type: "adj" },
+            { id: 71, en: "patient", vi: "kiên nhẫn", type: "adj" },
+            { id: 72, en: "take place", vi: "diễn ra", type: "v" },
+            { id: 73, en: "fireworks", vi: "pháo hoa", type: "n" },
+            { id: 74, en: "bake a cake", vi: "nướng bánh", type: "v" },
+            { id: 75, en: "be excited about sth", vi: "hứng thú về cái gì", type: "adj" },
+            { id: 76, en: "celebrate", vi: "ăn mừng", type: "v" },
+            { id: 77, en: "in the middle of", vi: "ở giữa cái gì", type: "prep" },
+            { id: 78, en: "lunar month", vi: "tháng âm lịch", type: "n" },
+            { id: 79, en: "favourite", vi: "yêu thích", type: "adj" },
+            { id: 80, en: "come over to my house", vi: "qua thăm nhà tôi", type: "v" },
+            { id: 81, en: "autumn", vi: "mùa thu", type: "n" },
+            { id: 82, en: "lantern", vi: "đèn lồng", type: "n" },
+            { id: 83, en: "disappointing", vi: "gây thất vọng", type: "adj" },
+            { id: 84, en: "symbol", vi: "biểu tượng", type: "n" },
+            { id: 85, en: "joy", vi: "niềm vui", type: "n" },
+            { id: 86, en: "palm", vi: "cây cọ", type: "n" },
+            { id: 87, en: "prosperity", vi: "sự thịnh vượng", type: "n" },
+            { id: 88, en: "family reunion", vi: "gia đình sum họp", type: "n" },
+            { id: 89, en: "prize", vi: "giải thưởng", type: "n" },
+            { id: 90, en: "double", vi: "gấp đôi", type: "v/adj" },
+            { id: 91, en: "twins", vi: "sinh đôi", type: "n" },
+            { id: 92, en: "talent show", vi: "chương trình tìm kiếm tài năng", type: "n" },
+            { id: 93, en: "arrive in", vi: "đến địa điểm lớn", type: "v" },
+            { id: 94, en: "held a festival", vi: "tổ chức lễ hội", type: "v" },
+            { id: 95, en: "gathering", vi: "sự tụ họp", type: "n" },
+            { id: 96, en: "thousand", vi: "nghìn", type: "num" },
+            { id: 97, en: "different countries", vi: "nhiều đất nước khác nhau", type: "n" },
+            { id: 98, en: "take part in sth", vi: "tham gia vào", type: "v" },
+            { id: 99, en: "uniform", vi: "đồng phục", type: "n" },
+            { id: 100, en: "feature", vi: "có nét nổi bật, đặc sắc là", type: "v/n" },
+            { id: 101, en: "the first", vi: "thứ nhất", type: "ord" },
+            { id: 102, en: "the second", vi: "thứ hai", type: "ord" },
+            { id: 103, en: "the third", vi: "thứ ba", type: "ord" },
+            { id: 104, en: "performance", vi: "buổi biểu diễn", type: "n" },
+            { id: 105, en: "Korea", vi: "Hàn Quốc", type: "n" },
+            { id: 106, en: "get sleepy", vi: "buồn ngủ", type: "v" },
+            { id: 107, en: "be born", vi: "được sinh ra", type: "v" },
+            { id: 108, en: "at the same time", vi: "đồng thời, cùng một lúc", type: "adv" },
+            { id: 109, en: "important", vi: "quan trọng", type: "adj" },
+            { id: 110, en: "August", vi: "tháng 8", type: "n" },
+            { id: 111, en: "in my opinion", vi: "theo ý kiến của tôi", type: "phrase" },
+            { id: 112, en: "which", vi: "cái nào", type: "pron" },
+            { id: 113, en: "since / as", vi: "bởi vì", type: "conj" },
+            { id: 114, en: "participate in sth", vi: "tham gia vào cái gì", type: "v" },
+            { id: 115, en: "take care of sb", vi: "chăm sóc ai", type: "v" },
+            { id: 116, en: "drum", vi: "cái trống", type: "n" },
+            { id: 117, en: "traditional song", vi: "bài hát truyền thống", type: "n" },
+            { id: 118, en: "celebrate sth", vi: "kỷ niệm cái gì", type: "v" },
+            { id: 119, en: "pray for sth", vi: "cầu nguyện cho", type: "v" },
+            { id: 120, en: "traditional games", vi: "trò chơi truyền thống", type: "n" },
+            { id: 121, en: "celebration", vi: "sự ăn mừng, kỷ niệm", type: "n" },
+            { id: 122, en: "crop", vi: "vụ mùa", type: "n" },
+            { id: 123, en: "better than sb", vi: "tốt hơn ai", type: "phrase" },
+            { id: 124, en: "the USA", vi: "nước Mỹ", type: "n" },
+            { id: 125, en: "the UK", vi: "Vương quốc Anh", type: "n" },
+            { id: 126, en: "England", vi: "nước Anh", type: "n" },
+            { id: 127, en: "English", vi: "người Anh", type: "n/adj" },
+            { id: 128, en: "adult", vi: "người lớn", type: "n" },
+            { id: 129, en: "only", vi: "chỉ, duy nhất", type: "adv" },
+            { id: 130, en: "cornbread", vi: "bánh ngô", type: "n" },
+            { id: 131, en: "traditional dish", vi: "món ăn truyền thống", type: "n" },
+            { id: 132, en: "board game", vi: "trò chơi trên bàn cờ", type: "n" },
+            { id: 133, en: "display", vi: "trưng bày", type: "v/n" },
+            { id: 134, en: "painting Easter eggs", vi: "tô màu trứng phục sinh", type: "v" },
+            { id: 135, en: "sweet potato", vi: "khoai lang", type: "n" },
+            { id: 136, en: "the best", vi: "tốt nhất", type: "adj" },
+            { id: 137, en: "be interested in sth/Ving", vi: "có hứng thú với cái gì", type: "adj" },
+            { id: 138, en: "Canadian", vi: "người Canada", type: "n/adj" },
+            { id: 139, en: "be thankful for sth", vi: "biết ơn vì điều gì", type: "adj" },
+            { id: 140, en: "successful", vi: "thành công", type: "adj" },
+            { id: 141, en: "harvest", vi: "mùa thu hoạch", type: "n" },
+            { id: 142, en: "take part in", vi: "tham gia", type: "v" },
+            { id: 143, en: "preparation", vi: "sự chuẩn bị", type: "n" },
+            { id: 144, en: "after", vi: "sau khi", type: "prep" },
+            { id: 145, en: "before", vi: "trước khi", type: "prep" },
+            { id: 146, en: "take an opportunity", vi: "nắm lấy cơ hội", type: "v" },
+            { id: 147, en: "volunteer to V", vi: "tình nguyện làm gì", type: "v" },
+            { id: 148, en: "serve food", vi: "phục vụ món ăn", type: "v" },
+            { id: 149, en: "homeless people", vi: "người vô gia cư", type: "n" },
+            { id: 150, en: "nursing home", vi: "viện dưỡng lão", type: "n" },
+            { id: 151, en: "opportunity / chance", vi: "cơ hội", type: "n" },
+            { id: 152, en: "gather together", vi: "tụ tập lại", type: "v" },
+            { id: 153, en: "get sleepy", vi: "buồn ngủ", type: "v" },
+            { id: 154, en: "the first", vi: "đầu tiên", type: "ord" }
+        ];
+
+        // --- APP LOGIC ---
+        let currentTab = 'vocab';
+        let currentIndex = 0;
+        let isFlipped = false;
+        let activeList = [];
+        let isShuffled = false;
+        let currentMode = 'fill';
+        let currentPage = 1;
+        const itemsPerPage = 20;
+        let fullExercises = {};
+        let structIdx = 0;
+        let recognition;
+        let isRecording = false;
+
+        window.onload = function () {
+            document.getElementById('header-count').innerText = vocabData.length;
+            activeList = [...vocabData];
+            renderVocabLines();
+            updateFlashcard();
+            renderStructureCard();
+            fullExercises = generateExerciseData();
+            switchPracticeMode('fill');
+        };
+
+        function generateExerciseData() {
+            const exercises = { fill: [], wf: [], gram: [], type1: [], type2: [] };
+            vocabData.forEach((word, index) => {
+                const en = word.en.trim();
+                const vi = word.vi.trim();
+                const type = word.type ? word.type.trim().toLowerCase() : '';
+
+                // Spelling
+                let masked = en.split('').map(c => (c === ' ' || c === '/' || Math.random() > 0.5) ? c : '_').join('');
+                if (!masked.includes('_')) masked = en.replace(/./, '_');
+                exercises.fill.push({ id: index, word: en, question: `Spelling: <span class="font-mono font-bold text-red-600 text-lg tracking-widest bg-red-50 px-2 py-1 rounded border border-red-200">${masked}</span> <br><span class="text-xs text-orange-400 italic">Hint: ${vi}</span>`, answer: en });
+
+                // WF
+                let wfQ = type.includes('n') ? `This _______ is very old.` : type.includes('v') ? `We _______ many activities.` : `The dance was _______ .`;
+                exercises.wf.push({ id: index, root: en, question: `<div>${wfQ}</div><div class="text-xs text-orange-400 mt-1">Gợi ý: ${vi} (${type})</div>`, answer: en });
+
+                // Grammar - Focus on time/place prepositions or H/W questions
+                let gramAns = en;
+                if (en.startsWith('at ') || en.startsWith('on ') || en.startsWith('in ')) {
+                    gramAns = en.split(' ')[0];
+                    exercises.gram.push({ id: index, word: en, question: `Choose prep: (in/on/at) _______ ${en.substring(en.indexOf(' ') + 1)}`, answer: gramAns });
+                } else {
+                    exercises.gram.push({ id: index, word: en, question: `Write this word correctly: <span class="font-bold text-red-600">${en}</span>`, answer: en });
+                }
+
+                // Type 1 (Multiple Choice)
+                if (en.includes(' ')) {
+                    exercises.type1.push({ id: index, type: 'order', question: `Reorder to form phrase (Nghĩa: ${vi}):`, words: en.split(' ').sort(() => Math.random() - 0.5), answer: en });
+                } else {
+                    const typeMap = { 'n': 'Noun', 'v': 'Verb', 'adj': 'Adjective', 'adv': 'Adverb' };
+                    const correctType = typeMap[type] || 'Other';
+                    const opts = [...new Set(Object.values(typeMap))].sort(() => 0.5 - Math.random());
+                    exercises.type1.push({ id: index, type: 'choice', question: `"<span class="font-bold text-slate-800">${en}</span>" is a:`, options: opts, answer: correctType });
+                }
+
+                // Type 2 (Translation)
+                exercises.type2.push({ id: index, type: 'write', question: `Dịch sang tiếng Anh: "<span class="font-bold text-red-600">${vi}</span>"`, answer: en });
+            });
+            return exercises;
+        }
+
+        function switchTab(tab) {
+            currentTab = tab;
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('tab-active', 'bg-orange-50'));
+            document.getElementById(`tab-${tab}`).classList.add('tab-active', 'bg-orange-50');
+            document.querySelectorAll('main > div').forEach(div => div.classList.add('hidden-section'));
+            document.getElementById(`section-${tab}`).classList.remove('hidden-section');
+        }
+
+        function renderVocabLines(filter = "") {
+            const grid = document.getElementById('vocab-grid'); grid.innerHTML = "";
+            const filtered = vocabData.filter(item => item.en.toLowerCase().includes(filter.toLowerCase()) || item.vi.toLowerCase().includes(filter.toLowerCase()));
+            document.getElementById('vocab-count').innerText = filtered.length;
+            filtered.forEach(item => {
+                const el = document.createElement('div');
+                el.className = "bg-white p-4 rounded-xl shadow-sm border border-orange-50 hover:shadow-md transition group flex justify-between items-center";
+                el.innerHTML = `<div><div class="flex items-center gap-2 mb-1"><span class="text-xs font-bold text-orange-200">#${item.id}</span><span class="text-[10px] bg-red-100 text-red-500 px-1 rounded uppercase font-bold">${item.type}</span></div><h3 class="text-lg font-bold text-slate-800 group-hover:text-red-600 transition">${item.en}</h3><p class="text-orange-500 text-sm">${item.vi}</p></div><button onclick="speak('${escapeQuote(item.en)}')" class="text-orange-200 hover:text-red-500 transition"><i class="fas fa-volume-up text-lg"></i></button>`;
+                grid.appendChild(el);
+            });
+        }
+        function filterVocab() { renderVocabLines(document.getElementById('searchInput').value); }
+
+        function updateFlashcard() {
+            const item = activeList[currentIndex];
+            isFlipped = false; document.getElementById('flashcard-inner').classList.remove('flipped');
+            document.getElementById('fc-index').innerText = `${currentIndex + 1} / ${activeList.length}`;
+            document.getElementById('fc-front-text').innerText = item.en;
+            document.getElementById('fc-back-text').innerText = item.vi;
+            document.getElementById('fc-back-type').innerText = item.type;
+            document.getElementById('fc-back-sent').innerText = `We celebrated the ${item.en} with a big feast.`;
+            if (document.getElementById('auto-speak').checked) speak(item.en);
+        }
+        function flipCard() { isFlipped = !isFlipped; document.getElementById('flashcard-inner').classList.toggle('flipped', isFlipped); }
+        function changeCard(dir) { currentIndex += dir; if (currentIndex < 0) currentIndex = activeList.length - 1; if (currentIndex >= activeList.length) currentIndex = 0; updateFlashcard(); }
+        function toggleShuffle() { isShuffled = !isShuffled; activeList = isShuffled ? [...vocabData].sort(() => Math.random() - 0.5) : [...vocabData]; currentIndex = 0; updateFlashcard(); }
+        function speakCurrentCard() { speak(activeList[currentIndex].en); }
+
+        function renderStructureCard() {
+            const word = vocabData[structIdx];
+            const container = document.getElementById('structure-card-container');
+            container.innerHTML = `<div class="bg-white rounded-xl shadow-lg p-6 max-w-2xl mx-auto"><div class="text-center mb-6"><h2 class="text-3xl font-extrabold text-slate-800 mb-1">${word.en}</h2><p class="text-orange-400 text-sm">(${word.vi})</p></div><div class="border-t border-orange-100 pt-6 text-center"><p class="font-bold text-slate-600 mb-3">Thử nói:</p><p class="text-xl font-bold text-red-600 mb-6 font-serif">"I am very excited to see the ${word.en} this year!"</p><button id="record-btn" onclick="toggleRecording()" class="w-16 h-16 rounded-full bg-red-600 hover:bg-red-700 text-white shadow-lg flex items-center justify-center mx-auto transition transform active:scale-95"><i class="fas fa-microphone text-2xl"></i></button><p id="transcript-result" class="text-sm text-orange-400 mt-3 h-6 italic">Nhấn mic để nói...</p></div></div>`;
+        }
+        function nextStructureCard() { structIdx = (structIdx + 1) % vocabData.length; renderStructureCard(); }
+        function prevStructureCard() { structIdx = (structIdx - 1 + vocabData.length) % vocabData.length; renderStructureCard(); }
+        function toggleRecording() {
+            if (!('webkitSpeechRecognition' in window)) { showToast("Not supported"); return; }
+            if (isRecording) { recognition.stop(); return; }
+            const btn = document.getElementById('record-btn'); recognition = new webkitSpeechRecognition(); recognition.lang = 'en-US';
+            recognition.onstart = () => { isRecording = true; btn.classList.add('pulse-ring'); document.getElementById('transcript-result').innerText = "Đang nghe..."; };
+            recognition.onresult = (e) => { const x = e.results[0][0].transcript; document.getElementById('transcript-result').innerText = `"${x}"`; if (x.toLowerCase().includes(vocabData[structIdx].en.toLowerCase())) showToast("🎉 Happy Festival!"); };
+            recognition.onend = () => { isRecording = false; btn.classList.remove('pulse-ring'); };
+            recognition.start();
+        }
+
+        function switchPracticeMode(mode) { currentMode = mode; currentPage = 1; renderPagination(); renderPracticePage(); }
+        function renderPagination() {
+            const total = fullExercises[currentMode].length; const pages = Math.ceil(total / itemsPerPage);
+            const container = document.getElementById('pagination-controls'); container.innerHTML = '';
+            for (let i = 1; i <= pages; i++) { if (i > 3 && i < pages - 1) { if (i === 4) container.innerHTML += '...'; continue; } const btn = document.createElement('button'); btn.className = `px-3 py-1 rounded text-sm font-bold border transition ${i === currentPage ? 'bg-red-600 text-white border-red-600' : 'bg-white text-orange-600 hover:bg-orange-50 border-orange-200'}`; btn.innerText = i; btn.onclick = () => { currentPage = i; renderPagination(); renderPracticePage(); }; container.appendChild(btn); }
+            document.getElementById('practice-stats').innerText = `Trang ${currentPage}/${pages}`;
+        }
+        function renderPracticePage() {
+            const container = document.getElementById('practice-container'); container.innerHTML = '';
+            const start = (currentPage - 1) * itemsPerPage; const end = start + itemsPerPage;
+            const data = fullExercises[currentMode].slice(start, end);
+            const list = document.createElement('div'); list.className = "bg-white rounded-xl shadow-sm border border-orange-100";
+            data.forEach((item, i) => {
+                const row = document.createElement('div'); row.className = "p-4 border-b border-orange-50 flex flex-col gap-2";
+                row.innerHTML = `<div class="text-[10px] uppercase text-orange-300 font-bold text-right">#${start + i + 1}</div><div class="mb-2 font-medium text-slate-800">${item.question}</div>`;
+                if (item.type === 'order') {
+                    row.innerHTML += `<div id="ans-q-${start + i}" class="min-h-[40px] bg-orange-50 border border-dashed border-orange-200 rounded p-2 flex flex-wrap gap-2 mb-2" data-ans="${item.answer}"></div><div id="bank-q-${start + i}" class="flex flex-wrap gap-2">${item.words.map(w => `<span onclick="moveWord(this, 'ans-q-${start + i}', 'bank-q-${start + i}')" class="word-bank-item bg-white px-2 py-1 rounded border border-orange-200 text-xs shadow-sm">${w}</span>`).join('')}</div>`;
+                } else if (item.options) {
+                    row.innerHTML += `<div class="grid grid-cols-1 md:grid-cols-2 gap-2" data-ans="${item.answer}">${item.options.map(o => `<button onclick="selectChoice(this)" class="p-2 border border-orange-200 rounded-lg text-left hover:bg-orange-50 text-sm transition text-slate-700">${o}</button>`).join('')}</div>`;
+                } else {
+                    row.innerHTML += `<input type="text" data-ans="${item.answer}" class="prac-input w-full p-2 border border-orange-200 rounded focus:border-red-500 outline-none text-sm text-slate-800" placeholder="...">`;
+                }
+                row.innerHTML += `<div class="prac-feedback mt-1 font-bold"></div>`;
+                list.appendChild(row);
+            });
+            container.appendChild(list);
+        }
+
+        window.moveWord = function (el, tId, oId) { const t = document.getElementById(tId); const o = document.getElementById(oId); if (el.parentElement.id === oId) t.appendChild(el); else o.appendChild(el); }
+        window.selectChoice = function (btn) { const p = btn.parentElement; p.querySelectorAll('button').forEach(b => b.classList.remove('choice-selected')); btn.classList.add('choice-selected'); p.setAttribute('data-user-choice', btn.innerText); }
+
+        function checkCurrentPage() {
+            let cor = 0; let total = 0;
+            document.querySelectorAll('#practice-container .prac-input').forEach(inp => {
+                total++; const u = inp.value.trim().toLowerCase(); const a = inp.getAttribute('data-ans').toLowerCase(); const fb = inp.nextElementSibling;
+                if (u === a) { cor++; inp.classList.add('correct-answer'); fb.innerHTML = "<span class='text-green-600'>✅ Đúng!</span>"; } else { inp.classList.add('wrong-answer'); fb.innerHTML = `<span class='text-red-600'>❌ ${a}</span>`; }
+            });
+            document.querySelectorAll('#practice-container div[data-ans]').forEach(c => {
+                if (!c.getAttribute('data-ans')) return;
+                total++; const u = c.getAttribute('data-user-choice'); const a = c.getAttribute('data-ans'); const fb = c.nextElementSibling;
+                if (!u) return;
+                if (u === a) { cor++; fb.innerHTML = "<span class='text-green-600'>✅ Đúng!</span>"; } else { fb.innerHTML = `<span class='text-red-600'>❌ ${a}</span>`; }
+            });
+            document.querySelectorAll('div[id^="ans-q-"]').forEach(z => {
+                total++; const u = Array.from(z.children).map(s => s.innerText).join(' ').trim().toLowerCase(); const a = z.getAttribute('data-ans').toLowerCase(); const fb = z.nextElementSibling.nextElementSibling;
+                if (u === a) { cor++; fb.innerHTML = "<span class='text-green-600'>✅ Đúng!</span>"; } else { fb.innerHTML = `<span class='text-red-600'>❌ ${a}</span>`; }
+            });
+            showToast(`${cor}/${total} Correct!`);
+        }
+
+        function speak(t) { window.speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(t); u.lang = 'en-US'; window.speechSynthesis.speak(u); }
+        function escapeQuote(s) { return s.replace(/'/g, "\\'"); }
+        function showToast(m) { const t = document.getElementById('toast'); t.textContent = m; t.className = "show"; setTimeout(() => t.className = "", 3000); }
+        function resetApp() { location.reload(); }
+        function toggleInfo() { alert("Unit 9: Festivals around the world - 154 Words."); }
+        function toggleNote() { document.getElementById('note-sidebar').classList.toggle('translate-x-full'); }
+        function exportToWord() { const t = document.getElementById('note-area').value; const b = new Blob(['\ufeff' + t], { type: 'application/msword' }); const a = document.createElement('a'); a.href = URL.createObjectURL(b); a.download = 'FestivalNotes.doc'; a.click(); }
+    </script>
+</body>
+
+</html>

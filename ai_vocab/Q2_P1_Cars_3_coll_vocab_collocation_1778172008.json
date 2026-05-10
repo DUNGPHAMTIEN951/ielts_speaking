@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_3_coll",
+  "vocab": [
+    {
+      "word": "utilitarian vehicle",
+      "ipa": "/ˌjuːtɪlɪˈteəriən ˈviːɪkl/",
+      "meaning": "xe thực dụng (chú trọng công năng hơn hình thức)",
+      "example": "I'm a fan of utilitarian vehicles like pick-up trucks because they are incredibly versatile for hauling heavy loads.",
+      "type": "collocation"
+    },
+    {
+      "word": "cutting-edge autonomous technology",
+      "ipa": "/ˈkʌtɪŋ edʒ ɔːˈtɒnəməs tekˈnɒlədʒi/",
+      "meaning": "công nghệ tự lái tiên tiến nhất",
+      "example": "I am fascinated by modern sedans equipped with cutting-edge autonomous technology that can assist with highway driving.",
+      "type": "collocation"
+    },
+    {
+      "word": "plush leather upholstery",
+      "ipa": "/plʌʃ ˈleðə(r) ʌpˈhəʊlstəri/",
+      "meaning": "nội thất bọc da cao cấp/êm ái",
+      "example": "Luxury coupes often boast plush leather upholstery, providing a level of comfort that is hard to beat on long journeys.",
+      "type": "collocation"
+    },
+    {
+      "word": "raw horsepower",
+      "ipa": "/rɔː ˈhɔːsˌpaʊə(r)/",
+      "meaning": "mã lực thuần túy (sức mạnh động cơ)",
+      "example": "There is something thrilling about sports cars that offer raw horsepower and lightning-fast acceleration.",
+      "type": "collocation"
+    },
+    {
+      "word": "low-slung chassis",
+      "ipa": "/ləʊ slʌŋ ˈʃæsi/",
+      "meaning": "khung gầm thấp",
+      "example": "I've always admired the aggressive look of cars with a low-slung chassis, as they seem to hug the road perfectly.",
+      "type": "collocation"
+    },
+    {
+      "word": "carbon footprint",
+      "ipa": "/ˈkɑːbən ˈfʊtprɪnt/",
+      "meaning": "dấu chân carbon (lượng khí thải gây hại)",
+      "example": "My preference has shifted toward small EVs because I want a car that helps minimize my carbon footprint.",
+      "type": "collocation"
+    },
+    {
+      "word": "panoramic sunroof",
+      "ipa": "/ˌpænəˈræmɪk ˈsʌnruːf/",
+      "meaning": "cửa sổ trời toàn cảnh",
+      "example": "I prefer family wagons that come with a panoramic sunroof to create a more airy and bright atmosphere inside the cabin.",
+      "type": "collocation"
+    },
+    {
+      "word": "unrivaled prestige",
+      "ipa": "/ʌnˈraɪvld preˈstiːʒ/",
+      "meaning": "sự uy tín/đẳng cấp không đối thủ",
+      "example": "Certain European luxury brands carry an unrivaled prestige that makes them a status symbol for many successful people.",
+      "type": "collocation"
+    },
+    {
+      "word": "tight turning circle",
+      "ipa": "/taɪt ˈtɜːnɪŋ ˈsɜːkl/",
+      "meaning": "vòng quay đầu hẹp (dễ quay đầu xe)",
+      "example": "For city living, I adore compact city cars specifically for their tight turning circle, which makes U-turns effortless.",
+      "type": "collocation"
+    },
+    {
+      "word": "durable suspension",
+      "ipa": "/ˈdjʊərəbl səˈspenʃn/",
+      "meaning": "hệ thống treo bền bỉ",
+      "example": "I lean towards rugged 4x4s with durable suspension systems that can withstand the wear and tear of gravel roads.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

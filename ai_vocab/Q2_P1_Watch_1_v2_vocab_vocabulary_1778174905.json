@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Watch_1_v2",
+  "vocab": [
+    {
+      "word": "fashion accessory",
+      "ipa": "/ˈfæʃn əkˈsesəri/",
+      "meaning": "phụ kiện thời trang",
+      "example": "For me, a watch is less about timekeeping and more of a versatile fashion accessory that complements my professional attire.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "chronometer",
+      "ipa": "/krəˈnɒmɪtə(r)/",
+      "meaning": "đồng hồ bấm giờ chính xác cao",
+      "example": "I recently invested in a high-end chronometer because I value the precision and mechanical complexity of a traditional movement.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "functional utility",
+      "ipa": "/ˈfʌŋkʃənl juːˈtɪləti/",
+      "meaning": "giá trị sử dụng thực tế",
+      "example": "While smartphones are ubiquitous, a wristwatch provides a level of functional utility that allows me to check the time discreetly during meetings.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "understated sophistication",
+      "ipa": "/ˌʌndəˈsteɪtɪd səˌfɪstɪˈkeɪʃn/",
+      "meaning": "sự tinh tế khiêm nhường",
+      "example": "I prefer a minimalist watch design as it exudes a sense of understated sophistication without being overly flashy.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "timepiece",
+      "ipa": "/ˈtaɪmpiːs/",
+      "meaning": "cỗ máy thời gian (cách gọi trang trọng của đồng hồ)",
+      "example": "A classic timepiece is one of the few items of jewelry that truly stands the test of time in a man's wardrobe.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

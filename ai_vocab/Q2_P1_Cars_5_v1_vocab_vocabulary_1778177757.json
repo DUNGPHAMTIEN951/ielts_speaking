@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_5_v1",
+  "vocab": [
+    {
+      "word": "gridlock",
+      "ipa": "/ˈɡrɪdlɒk/",
+      "meaning": "tình trạng giao thông tắc nghẽn hoàn toàn",
+      "example": "When I'm stuck in a total gridlock, I try to remain calm instead of getting frustrated by the lack of movement.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "catch up on podcasts",
+      "ipa": "/kætʃ ʌp ɒn ˈpɒdkɑːsts/",
+      "meaning": "nghe bù các chương trình podcast",
+      "example": "I usually catch up on my favorite educational podcasts to make the most of the idle time during a jam.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "maintain a sense of composure",
+      "ipa": "/meɪnˈteɪn ə sens əv kəmˈpəʊʒə(r)/",
+      "meaning": "giữ thái độ bình tĩnh, điềm tĩnh",
+      "example": "It's essential to maintain a sense of composure to avoid road rage when the traffic is crawling at a snail's pace.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "contemplate",
+      "ipa": "/ˈkɒntəmpleɪt/",
+      "meaning": "suy ngẫm, dự tính",
+      "example": "I often use the quiet moments in a stationary car to contemplate my schedule for the upcoming week.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "unforeseen delays",
+      "ipa": "/ˌʌnfɔːˈsiːn dɪˈleɪz/",
+      "meaning": "những sự chậm trễ không lường trước được",
+      "example": "I always keep an audiobook ready in case of unforeseen delays on the motorway.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

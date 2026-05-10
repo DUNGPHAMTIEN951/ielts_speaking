@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary & Sentence Building: Health & Lifestyle</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+        body { font-family: 'Inter', sans-serif; background-color: #F0FDF4; color: #1e293b; }
+        .chart-container { 
+            position: relative; 
+            width: 100%; 
+            max-width: 300px; 
+            margin: 0 auto; 
+            height: 250px; 
+            max-height: 250px; 
+        }
+        .card-shadow { box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); }
+        .interactive-btn { transition: all 0.2s ease; }
+        .interactive-btn:active { transform: scale(0.95); }
+        .fade-in { animation: fadeIn 0.5s ease-in; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+        
+        /* Custom scrollbar for notes */
+        .custom-scrollbar::-webkit-scrollbar { width: 6px; }
+        .custom-scrollbar::-webkit-scrollbar-track { background: #f1f1f1; border-radius: 4px; }
+        .custom-scrollbar::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 4px; }
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #9ca3af; }
+
+        /* Reorder word badges */
+        .word-badge {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background-color: #ffffff;
+            border: 2px solid #10b981;
+            color: #065f46;
+            border-radius: 0.5rem;
+            font-weight: 600;
+            cursor: pointer;
+            user-select: none;
+            transition: all 0.2s;
+            box-shadow: 0 2px 4px rgba(16, 185, 129, 0.2);
+        }
+        .word-badge:hover { background-color: #d1fae5; transform: translateY(-2px); }
+        .word-badge.selected-pool { opacity: 0; visibility: hidden; pointer-events: none; }
+        .dropzone {
+            min-height: 3.5rem;
+            border: 2px dashed #a7f3d0;
+            border-radius: 0.75rem;
+            background-color: #ecfdf5;
+            padding: 0.5rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            align-items: center;
+        }
+    </style>
+</head>
+<body class="bg-[#F0FDF4] min-h-screen flex flex-col">
+
+    <!-- Navbar -->
+    <nav class="bg-white border-b border-emerald-200 sticky top-0 z-50 shadow-sm">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16">
+                <div class="flex items-center">
+                    <i class="fas fa-leaf text-emerald-500 text-2xl mr-2"></i>
+                    <span class="text-2xl font-bold text-emerald-800">Vocab<span class="text-emerald-500">Builder</span></span>
+                </div>
+                <div class="flex items-center space-x-4 text-sm font-medium text-gray-500">
+                    <span id="global-score" class="hidden sm:block bg-emerald-50 text-emerald-700 px-3 py-1 rounded-full border border-emerald-200 font-bold">Điểm số: 0</span>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main class="flex-grow max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
+
+        <!-- Header -->
+        <div class="text-center mb-12 fade-in">
+            <h1 class="text-3xl font-extrabold text-slate-800 sm:text-5xl mb-4">
+                Sức Khỏe, Sở Thích & Đời Sống
+            </h1>
+            <p class="text-lg text-slate-600 max-w-2xl mx-auto">
+                Chuyên đề: Dịch thuật, Sắp xếp câu, Từ vựng & Quy tắc Trọng âm.
+            </p>
+        </div>
+
+        <!-- Section 1: Theory Dashboard -->
+        <section class="mb-16">
+            <div class="flex items-center justify-between mb-6">
+                <h2 class="text-2xl font-bold text-slate-800"><i class="fas fa-book-open text-emerald-500 mr-2"></i> 1. Flashcard Lý Thuyết</h2>
+                <span class="text-sm text-emerald-700 bg-emerald-100 px-2 py-1 border border-emerald-200 rounded shadow-sm font-semibold">Ghi nhớ</span>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+                
+                <!-- Card 1 -->
+                <div class="bg-white rounded-xl card-shadow p-5 border-t-4 border-teal-500 hover:shadow-lg transition">
+                    <h3 class="font-bold text-lg text-teal-800 mb-2 border-b border-teal-100 pb-2">Từ vựng Sức khỏe</h3>
+                    <ul class="text-sm text-slate-700 space-y-2">
+                        <li><strong>Acne / Pimple</strong> (n): mụn trứng cá <em>(Nhấn âm 1: Ác-nì, Pím-pờl)</em></li>
+                        <li><strong>Spot</strong> (n): mụn, đốm</li>
+                        <li><strong>Health problem</strong>: vấn đề sức khỏe</li>
+                        <li><strong>Sunburn</strong> (n): cháy nắng</li>
+                        <li><strong>Deal with</strong> (v): giải quyết</li>
+                        <li><strong>Avoid doing sth</strong>: tránh làm gì</li>
+                    </ul>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="bg-white rounded-xl card-shadow p-5 border-t-4 border-emerald-500 hover:shadow-lg transition">
+                    <h3 class="font-bold text-lg text-emerald-800 mb-2 border-b border-emerald-100 pb-2">Quy tắc Trọng âm</h3>
+                    <ul class="text-sm text-slate-700 space-y-2">
+                        <li><span class="text-emerald-600 font-bold">Từ 2 âm tiết:</span> Danh từ (N), Tính từ (Adj) thường nhấn <strong>âm 1</strong>. Động từ (V) nhấn <strong>âm 2</strong>.</li>
+                        <li><span class="text-emerald-600 font-bold">Từ tận cùng -y:</span> Nhấn âm thứ 3 từ dưới lên (VD: ac-<strong>TIV</strong>-i-ty, pop-u-<strong>LAR</strong>-i-ty).</li>
+                        <li>Nguyên âm không nhấn trọng âm thường đọc là <strong>/ə/</strong> (ơ). Chữ <strong>i</strong> đọc là /i/ hoặc /ai/.</li>
+                    </ul>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="bg-white rounded-xl card-shadow p-5 border-t-4 border-cyan-500 hover:shadow-lg transition">
+                    <h3 class="font-bold text-lg text-cyan-800 mb-2 border-b border-cyan-100 pb-2">Lối sống & Hoạt động</h3>
+                    <ul class="text-sm text-slate-700 space-y-2">
+                        <li><strong>Healthy habit</strong>: thói quen lành mạnh</li>
+                        <li><strong>Go boating / cycling</strong>: đi chèo thuyền / đạp xe</li>
+                        <li><strong>Outdoor activities</strong>: hoạt động ngoài trời</li>
+                        <li><strong>Give advice to sb</strong>: đưa lời khuyên (Lưu ý: <em>advice</em> không đếm được)</li>
+                        <li><strong>Would like to + V</strong>: muốn làm gì</li>
+                    </ul>
+                </div>
+
+                <!-- Card 4 -->
+                <div class="bg-white rounded-xl card-shadow p-5 border-t-4 border-green-500 hover:shadow-lg transition">
+                    <h3 class="font-bold text-lg text-green-800 mb-2 border-b border-green-100 pb-2">Nông thôn & Đời sống</h3>
+                    <ul class="text-sm text-slate-700 space-y-2">
+                        <li><strong>Popular with sb</strong>: phổ biến với ai</li>
+                        <li><strong>Peaceful = Quiet</strong> (adj): yên bình, yên tĩnh</li>
+                        <li><strong>Fresh</strong> (adj): trong lành, sạch</li>
+                        <li><strong>Neighbourhood</strong> (n): khu xóm</li>
+                        <li><strong>It sounds interesting</strong>: nghe có vẻ thú vị</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Section 2: Interactive Exercises -->
+        <div class="grid grid-cols-1 xl:grid-cols-3 gap-8 mb-16">
+            
+            <!-- Left Column: Exercises -->
+            <div class="xl:col-span-2 space-y-8">
+                
+                <!-- Part 1: Trọng âm & Từ vựng -->
+                <section id="part-1" class="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden fade-in">
+                    <div class="bg-teal-600 px-6 py-4 flex justify-between items-center">
+                        <h3 class="text-xl font-bold text-white"><i class="fas fa-volume-up mr-2"></i> Bài 1: Trọng âm & Từ vựng</h3>
+                        <span class="bg-teal-800 text-teal-100 text-xs px-2 py-1 rounded font-bold">10 Câu</span>
+                    </div>
+                    <div class="p-6">
+                        <div id="mcq-container" class="space-y-4"></div>
+                    </div>
+                </section>
+
+                <!-- Part 2: Dịch câu (Việt - Anh) -->
+                <section id="part-2" class="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden fade-in">
+                    <div class="bg-emerald-600 px-6 py-4 flex justify-between items-center">
+                        <h3 class="text-xl font-bold text-white"><i class="fas fa-language mr-2"></i> Bài 2: Dịch thuật (Việt -> Anh)</h3>
+                        <span class="bg-emerald-800 text-emerald-100 text-xs px-2 py-1 rounded font-bold">10 Câu</span>
+                    </div>
+                    <div class="p-6">
+                        <p class="mb-4 text-slate-600 text-sm bg-emerald-50 p-3 rounded border border-emerald-100">
+                            <strong>Yêu cầu:</strong> Dịch các câu tiếng Việt sau sang tiếng Anh, sử dụng các từ vựng đã học. (Viết hoa đầu câu, chấm cuối câu).
+                        </p>
+                        <div id="translate-container" class="space-y-6"></div>
+                    </div>
+                </section>
+
+                <!-- Part 3: Sắp xếp câu (Reorder) -->
+                <section id="part-3" class="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden fade-in">
+                    <div class="bg-cyan-600 px-6 py-4 flex justify-between items-center">
+                        <h3 class="text-xl font-bold text-white"><i class="fas fa-sort-alpha-down mr-2"></i> Bài 3: Xếp từ thành câu</h3>
+                        <span class="bg-cyan-800 text-cyan-100 text-xs px-2 py-1 rounded font-bold">10 Câu</span>
+                    </div>
+                    <div class="p-6">
+                        <p class="mb-4 text-slate-600 text-sm bg-cyan-50 p-3 rounded border border-cyan-100">
+                            <strong>Yêu cầu:</strong> Click vào các từ bên dưới để tạo thành câu hoàn chỉnh có nghĩa.
+                        </p>
+                        <div id="reorder-container" class="space-y-8"></div>
+                    </div>
+                </section>
+
+            </div>
+
+            <!-- Right Column: Notes & Stats -->
+            <div class="xl:col-span-1">
+                <div class="sticky top-20 space-y-6">
+                    
+                    <!-- Stats Card -->
+                    <div class="bg-white rounded-xl card-shadow p-6">
+                        <h3 class="text-lg font-bold text-slate-800 mb-4 border-b pb-2"><i class="fas fa-chart-pie text-emerald-500 mr-2"></i>Tiến Độ Hoàn Thành</h3>
+                        <div class="chart-container mb-4">
+                            <canvas id="progressChart"></canvas>
+                        </div>
+                        <div class="grid grid-cols-2 gap-4 text-center">
+                            <div class="bg-emerald-50 p-2 rounded border border-emerald-100">
+                                <div class="text-xs text-emerald-600 font-bold uppercase mb-1">Chính xác</div>
+                                <div id="stats-correct" class="text-2xl font-black text-emerald-700">0</div>
+                            </div>
+                            <div class="bg-slate-50 p-2 rounded border border-slate-200">
+                                <div class="text-xs text-slate-500 font-bold uppercase mb-1">Còn lại</div>
+                                <div id="stats-remaining" class="text-2xl font-black text-slate-700">30</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Notes Card -->
+                    <div class="bg-white rounded-xl card-shadow p-6 border-t-4 border-emerald-500">
+                        <h3 class="text-lg font-bold text-slate-800 mb-4 flex items-center justify-between">
+                            <span><i class="fas fa-edit text-emerald-500 mr-2"></i>Ghi Chú Bài Học</span>
+                        </h3>
+                        <div id="note-message" class="hidden mb-2 text-xs p-2 rounded font-semibold text-center transition-all"></div>
+                        
+                        <textarea id="note-input" class="w-full h-32 p-3 text-sm border border-slate-200 rounded-lg focus:ring-2 focus:ring-emerald-400 focus:border-transparent outline-none resize-y mb-3 bg-slate-50" placeholder="Ghi chép lại các từ vựng khó nhớ..."></textarea>
+                        
+                        <div class="flex gap-2 mb-4">
+                            <button onclick="saveNote()" class="flex-1 bg-emerald-600 text-white text-sm py-2 px-3 rounded-lg hover:bg-emerald-700 transition shadow-sm font-bold">
+                                <i class="fas fa-save mr-1"></i> Lưu
+                            </button>
+                            <button onclick="exportNotes()" class="flex-1 bg-slate-700 text-white text-sm py-2 px-3 rounded-lg hover:bg-slate-800 transition shadow-sm font-bold">
+                                <i class="fas fa-file-word mr-1"></i> Xuất Word
+                            </button>
+                        </div>
+                        
+                        <div class="max-h-60 overflow-y-auto space-y-2 pr-1 custom-scrollbar" id="notes-list">
+                            <div class="text-center text-slate-400 text-xs italic py-4">Chưa có ghi chú nào.</div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+    </main>
+
+    <script>
+        // --- 1. DATA DEFINITIONS ---
+
+        // Part 1: MCQ (Pronunciation & Vocab)
+        const mcqData = [
+            { id: "m1", q: "Theo quy tắc, từ 'acne' (mụn trứng cá) có trọng âm rơi vào âm tiết thứ mấy?", options: ["A. 1", "B. 2", "C. 3"], answer: 0, explanation: "Acne /ˈæk.ni/ là danh từ 2 âm tiết, nhấn âm 1." },
+            { id: "m2", q: "Trọng âm của từ 'activity' rơi vào âm tiết nào?", options: ["A. 1", "B. 2", "C. 3"], answer: 1, explanation: "Activity /ækˈtɪv.ə.ti/ - Tận cùng bằng -y, nhấn âm 3 từ dưới lên (âm 2)." },
+            { id: "m3", q: "Từ nào sau đây đồng nghĩa với 'quiet' (yên tĩnh)?", options: ["A. popular", "B. fresh", "C. peaceful"], answer: 2, explanation: "Peaceful (yên bình) mang nghĩa tương đồng với quiet." },
+            { id: "m4", q: "Theo quy tắc chung, ĐỘNG TỪ có 2 âm tiết thường nhấn trọng âm vào âm tiết thứ mấy?", options: ["A. 1", "B. 2", "C. Không có quy tắc"], answer: 1, explanation: "Động từ 2 âm tiết thường nhấn âm 2 (VD: a-VOID)." },
+            { id: "m5", q: "Chọn dạng động từ đúng: 'She avoids ________ exercises.'", options: ["A. do", "B. doing", "C. to do"], answer: 1, explanation: "Sau 'avoid' dùng V-ing." },
+            { id: "m6", q: "Từ 'simple' (dễ, đơn giản) nhấn trọng âm ở âm tiết thứ mấy?", options: ["A. 1", "B. 2", "C. Không nhấn"], answer: 0, explanation: "Simple /ˈsɪm.pəl/ là tính từ 2 âm tiết, nhấn âm 1." },
+            { id: "m7", q: "Từ nào dưới đây KHÔNG phải là một vấn đề sức khỏe?", options: ["A. sunburn", "B. pimple", "C. boating"], answer: 2, explanation: "Boating (đi thuyền) là một hoạt động/sở thích." },
+            { id: "m8", q: "Điền giới từ: 'Football is popular ________ Vietnamese.'", options: ["A. in", "B. with", "C. about"], answer: 1, explanation: "Cấu trúc: 'popular with sb' (phổ biến với ai)." },
+            { id: "m9", q: "Trọng âm của từ 'popularity' (sự phổ biến) rơi vào âm tiết thứ mấy?", options: ["A. 1", "B. 2", "C. 3"], answer: 2, explanation: "Popularity /ˌpɒp.jəˈlær.ə.ti/ tận cùng bằng đuôi -ity, nhấn trọng âm ở âm tiết ngay trước nó (âm 3)." },
+            { id: "m10", q: "Cấu trúc: 'I would like ________ in outdoor activities.'", options: ["A. join", "B. to join", "C. joining"], answer: 1, explanation: "Cấu trúc: 'would like + to V' (muốn làm gì)." }
+        ];
+
+        // Part 2: Translation (Việt -> Anh)
+        const translateData = [
+            { id: "t1", vi: "Mặt tôi có mụn trứng cá.", accepted: ["my face has acne", "my face has pimples", "my face has spots"] },
+            { id: "t2", vi: "Tôi cần giải quyết bài tập về nhà.", accepted: ["i need to deal with homework", "i have to deal with homework", "i need to deal with my homework"] },
+            { id: "t3", vi: "Thức ăn nhanh thì không tốt cho sức khỏe.", accepted: ["fast food is not good for health", "fast food is unhealthy", "fast food isn't good for health"] },
+            { id: "t4", vi: "Cô ấy tránh tập thể dục.", accepted: ["she avoids doing exercises", "she avoids doing exercise"] },
+            { id: "t5", vi: "Tiếng Anh thì rất dễ.", accepted: ["english is very simple", "english is very easy"] },
+            { id: "t6", vi: "Tôi thích đi xe đạp vào cuối tuần.", accepted: ["i enjoy going cycling at the weekend", "i like going cycling at the weekend", "i enjoy going cycling on the weekend"] },
+            { id: "t7", vi: "Không khí ở nông thôn thì trong lành.", accepted: ["air is fresh in the countryside", "the air is fresh in the countryside"] },
+            { id: "t8", vi: "Bộ phim nghe có vẻ thú vị.", accepted: ["the movie sounds interesting", "the movies sound interesting"] },
+            { id: "t9", vi: "Tôi muốn tham gia các hoạt động ngoài trời.", accepted: ["i would like to join in outdoor activities", "i would like to take part in outdoor activities", "i'd like to take part in outdoor activities"] },
+            { id: "t10", vi: "Bạn nên mang theo kem chống nắng.", accepted: ["you should bring suncream", "you should bring sunscreen"] }
+        ];
+
+        // Part 3: Sentence Reorder
+        // We define the exact sentence. The JS will shuffle it automatically.
+        const reorderData = [
+            { id: "r1", sentence: "I have many health problems." },
+            { id: "r2", sentence: "Football is very popular in VietNam." },
+            { id: "r3", sentence: "My neighbourhood is very friendly." },
+            { id: "r4", sentence: "Vegetables are good for health." },
+            { id: "r5", sentence: "Countryside is more peaceful than city." },
+            { id: "r6", sentence: "I am here to make sure you are good." },
+            { id: "r7", sentence: "I give advice to my friends." },
+            { id: "r8", sentence: "I go boating at the weekend." },
+            { id: "r9", sentence: "Football is popular with Vietnamese." },
+            { id: "r10", sentence: "You should bring a lunch box." }
+        ];
+
+        // Global State
+        let reorderState = {}; // { r1: { pool: [obj, obj], selected: [] } }
+        let scoreState = { total: 30, correct: new Set(), incorrect: new Set() };
+        let progressChart;
+
+        // --- 2. HELPER FUNCTIONS ---
+
+        function normalizeString(str) {
+            return str.toLowerCase().replace(/[.,;?!]/g, '').replace(/\s+/g, ' ').trim();
+        }
+
+        // Shuffle array algorithm
+        function shuffle(array) {
+            let currentIndex = array.length, randomIndex;
+            while (currentIndex !== 0) {
+                randomIndex = Math.floor(Math.random() * currentIndex);
+                currentIndex--;
+                [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
+            }
+            return array;
+        }
+
+        // Initialize Reorder State
+        reorderData.forEach(item => {
+            const words = item.sentence.split(" ").map((w, index) => ({ id: `${item.id}-w${index}`, text: w }));
+            reorderState[item.id] = {
+                correctText: item.sentence,
+                pool: shuffle([...words]),
+                selected: []
+            };
+        });
+
+        // --- 3. RENDER FUNCTIONS ---
+
+        function renderMCQ() {
+            const container = document.getElementById('mcq-container');
+            mcqData.forEach((item, index) => {
+                const div = document.createElement('div');
+                div.className = "bg-slate-50 p-5 rounded-xl border border-slate-100 shadow-sm";
+                div.innerHTML = `
+                    <p class="font-semibold text-slate-800 mb-3"><span class="text-teal-600 font-bold mr-1">${index + 1}.</span> ${item.q.replace(/_________/g, '<span class="border-b-2 border-slate-400 px-6 inline-block"></span>')}</p>
+                    <div class="flex flex-col gap-2">
+                        ${item.options.map((opt, idx) => `
+                            <button onclick="checkMCQ('${item.id}', ${idx}, this)" 
+                                    class="text-left px-4 py-2.5 rounded-lg border border-slate-200 bg-white hover:bg-teal-50 hover:border-teal-300 transition text-sm font-medium mcq-btn-${item.id}">
+                                ${opt}
+                            </button>
+                        `).join('')}
+                    </div>
+                    <div id="fb-mcq-${item.id}" class="mt-3 text-sm font-semibold hidden rounded p-2"></div>
+                `;
+                container.appendChild(div);
+            });
+        }
+
+        function renderTranslate() {
+            const container = document.getElementById('translate-container');
+            translateData.forEach((item, index) => {
+                const div = document.createElement('div');
+                div.className = "bg-emerald-50/50 p-5 rounded-xl border border-emerald-100 shadow-sm";
+                div.innerHTML = `
+                    <p class="text-slate-800 mb-2 font-medium"><span class="text-emerald-700 font-bold text-lg mr-1">${index + 1}.</span> ${item.vi}</p>
+                    <div class="flex flex-col sm:flex-row gap-2">
+                        <input type="text" id="trans-input-${item.id}" 
+                               class="flex-grow border border-slate-300 rounded-lg px-4 py-2.5 focus:ring-2 focus:ring-emerald-400 focus:border-transparent outline-none transition shadow-inner font-mono text-sm text-emerald-900" 
+                               placeholder="Type the English translation here..."
+                               onkeypress="if(event.key === 'Enter') checkTranslate('${item.id}')">
+                        <button onclick="checkTranslate('${item.id}')" 
+                                class="interactive-btn bg-emerald-600 text-white px-5 py-2.5 rounded-lg font-bold hover:bg-emerald-700 transition shadow-md whitespace-nowrap">
+                            Kiểm tra
+                        </button>
+                    </div>
+                    <div id="fb-trans-${item.id}" class="hidden mt-3 p-3 rounded-lg border text-sm"></div>
+                `;
+                container.appendChild(div);
+            });
+        }
+
+        function renderReorder() {
+            const container = document.getElementById('reorder-container');
+            container.innerHTML = ''; // Clear for re-rendering
+            
+            reorderData.forEach((item, index) => {
+                const state = reorderState[item.id];
+                const div = document.createElement('div');
+                div.className = "bg-cyan-50/50 p-5 rounded-xl border border-cyan-100 shadow-sm";
+                
+                // Dropzone (Selected words)
+                let dropzoneHtml = `<div class="dropzone mb-4 shadow-inner" id="dz-${item.id}">`;
+                if(state.selected.length === 0) {
+                    dropzoneHtml += `<span class="text-slate-400 text-sm italic">Click vào các từ bên dưới để di chuyển lên đây...</span>`;
+                } else {
+                    state.selected.forEach(wordObj => {
+                        dropzoneHtml += `<span class="word-badge bg-emerald-100 border-emerald-500 text-emerald-800" onclick="moveWordToPool('${item.id}', '${wordObj.id}')">${wordObj.text}</span>`;
+                    });
+                }
+                dropzoneHtml += `</div>`;
+
+                // Pool (Available words)
+                let poolHtml = `<div class="flex flex-wrap gap-2 mb-4" id="pool-${item.id}">`;
+                state.pool.forEach(wordObj => {
+                    const isSelected = state.selected.some(w => w.id === wordObj.id);
+                    poolHtml += `<span class="word-badge ${isSelected ? 'selected-pool' : ''}" onclick="moveWordToDropzone('${item.id}', '${wordObj.id}')">${wordObj.text}</span>`;
+                });
+                poolHtml += `</div>`;
+
+                div.innerHTML = `
+                    <div class="flex justify-between items-center mb-3">
+                        <p class="font-bold text-cyan-800 text-lg">Câu ${index + 1}</p>
+                        <button onclick="checkReorder('${item.id}')" class="interactive-btn bg-cyan-600 text-white px-4 py-1.5 rounded-lg font-bold hover:bg-cyan-700 transition shadow text-sm">Check</button>
+                    </div>
+                    ${dropzoneHtml}
+                    ${poolHtml}
+                    <div id="fb-reorder-${item.id}" class="hidden p-3 rounded-lg border text-sm mt-2"></div>
+                `;
+                container.appendChild(div);
+            });
+        }
+
+        // --- 4. INTERACTIVE LOGIC ---
+
+        function checkMCQ(qId, selectedIdx, btnElement) {
+            const buttons = document.querySelectorAll(`.mcq-btn-${qId}`);
+            buttons.forEach(b => b.disabled = true);
+            const question = mcqData.find(d => d.id === qId);
+            const fb = document.getElementById(`fb-mcq-${qId}`);
+            fb.classList.remove('hidden');
+
+            if (selectedIdx === question.answer) {
+                btnElement.classList.replace('bg-white', 'bg-emerald-100');
+                btnElement.classList.replace('border-slate-200', 'border-emerald-500');
+                btnElement.classList.add('text-emerald-800', 'font-bold');
+                fb.innerHTML = `<i class="fas fa-check-circle text-emerald-600 mr-1"></i> Chính xác! <span class="text-slate-600 font-normal ml-1">(${question.explanation})</span>`;
+                fb.className = "mt-3 text-sm font-bold text-emerald-800 bg-emerald-50 border border-emerald-200 p-3 rounded-lg";
+                updateScore(qId, true);
+            } else {
+                btnElement.classList.replace('bg-white', 'bg-red-100');
+                btnElement.classList.replace('border-slate-200', 'border-red-500');
+                btnElement.classList.add('text-red-800');
+                
+                const correctBtn = document.querySelectorAll(`.mcq-btn-${qId}`)[question.answer];
+                correctBtn.classList.replace('bg-white', 'bg-emerald-50');
+                correctBtn.classList.replace('border-slate-200', 'border-emerald-300');
+                
+                fb.innerHTML = `<i class="fas fa-times-circle text-red-600 mr-1"></i> Sai rồi. <span class="text-slate-600 font-normal ml-1">(${question.explanation})</span>`;
+                fb.className = "mt-3 text-sm font-bold text-red-800 bg-red-50 border border-red-200 p-3 rounded-lg";
+                updateScore(qId, false);
+            }
+        }
+
+        function checkTranslate(qId) {
+            const inputEl = document.getElementById(`trans-input-${qId}`);
+            const fbEl = document.getElementById(`fb-trans-${qId}`);
+            const data = translateData.find(d => d.id === qId);
+            
+            const userText = normalizeString(inputEl.value);
+            if(!userText) return;
+
+            const isCorrect = data.accepted.some(ans => normalizeString(ans) === userText);
+            fbEl.classList.remove('hidden');
+
+            if (isCorrect) {
+                inputEl.classList.remove('border-slate-300');
+                inputEl.classList.add('border-emerald-500', 'bg-emerald-50', 'text-emerald-900');
+                fbEl.innerHTML = `<i class="fas fa-check-circle text-emerald-600 mr-1"></i> <span class="font-bold text-emerald-800">Tuyệt vời!</span>`;
+                fbEl.className = "mt-3 p-3 rounded-lg border border-emerald-200 bg-emerald-50 text-sm block";
+                updateScore(qId, true);
+            } else {
+                inputEl.classList.remove('border-slate-300');
+                inputEl.classList.add('border-red-500', 'bg-red-50');
+                fbEl.innerHTML = `
+                    <div class="flex items-center mb-1"><i class="fas fa-times-circle text-red-600 mr-1"></i> <span class="font-bold text-red-800">Chưa chính xác.</span></div>
+                    <div class="text-slate-600">Gợi ý đáp án: <br><span class="font-mono bg-white border px-2 py-1 rounded inline-block mt-1 text-emerald-700 font-bold">${data.accepted[0].charAt(0).toUpperCase() + data.accepted[0].slice(1)}.</span></div>
+                `;
+                fbEl.className = "mt-3 p-3 rounded-lg border border-red-200 bg-red-50 text-sm block";
+                updateScore(qId, false);
+            }
+        }
+
+        function moveWordToDropzone(qId, wordId) {
+            const state = reorderState[qId];
+            const wordObj = state.pool.find(w => w.id === wordId);
+            if (wordObj && !state.selected.some(w => w.id === wordId)) {
+                state.selected.push(wordObj);
+                renderReorder();
+            }
+        }
+
+        function moveWordToPool(qId, wordId) {
+            const state = reorderState[qId];
+            state.selected = state.selected.filter(w => w.id !== wordId);
+            renderReorder();
+        }
+
+        function checkReorder(qId) {
+            const state = reorderState[qId];
+            const fbEl = document.getElementById(`fb-reorder-${qId}`);
+            
+            if (state.selected.length !== state.pool.length) {
+                fbEl.innerHTML = "<i class='fas fa-exclamation-triangle text-amber-500 mr-1'></i> Vui lòng sử dụng hết các từ.";
+                fbEl.className = "mt-2 p-3 rounded-lg border border-amber-200 bg-amber-50 text-amber-800 text-sm block font-medium";
+                return;
+            }
+
+            const userSentence = state.selected.map(w => w.text).join(" ");
+            const isCorrect = userSentence === state.correctText;
+
+            fbEl.classList.remove('hidden');
+            if (isCorrect) {
+                fbEl.innerHTML = `<i class="fas fa-check-circle text-emerald-600 mr-1"></i> <span class="font-bold">Chính xác!</span>`;
+                fbEl.className = "mt-2 p-3 rounded-lg border border-emerald-200 bg-emerald-50 text-emerald-800 text-sm block";
+                updateScore(qId, true);
+                
+                // Disable further clicking
+                document.getElementById(`dz-${qId}`).style.pointerEvents = 'none';
+                document.getElementById(`pool-${qId}`).style.display = 'none';
+            } else {
+                fbEl.innerHTML = `
+                    <div class="text-red-800 font-bold mb-1"><i class="fas fa-times-circle text-red-600 mr-1"></i> Chưa đúng thứ tự.</div>
+                    <div class="text-slate-600 text-xs">Hãy click vào các từ phía trên để đưa chúng về lại vị trí cũ và thử lại.</div>
+                `;
+                fbEl.className = "mt-2 p-3 rounded-lg border border-red-200 bg-red-50 text-sm block";
+                updateScore(qId, false);
+            }
+        }
+
+        // --- 5. PROGRESS & CHART LOGIC ---
+
+        function initChart() {
+            const ctx = document.getElementById('progressChart').getContext('2d');
+            progressChart = new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Đúng', 'Còn lại'],
+                    datasets: [{
+                        data: [0, scoreState.total],
+                        backgroundColor: ['#10B981', '#E2E8F0'],
+                        borderWidth: 0,
+                        hoverOffset: 4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    cutout: '75%',
+                    plugins: { legend: { position: 'bottom' } }
+                }
+            });
+        }
+
+        function updateScore(qId, isCorrect) {
+            if (isCorrect) {
+                scoreState.incorrect.delete(qId);
+                scoreState.correct.add(qId);
+            } else {
+                scoreState.correct.delete(qId);
+                scoreState.incorrect.add(qId);
+            }
+            
+            const correctCount = scoreState.correct.size;
+            const remainingCount = scoreState.total - correctCount;
+            
+            document.getElementById('stats-correct').innerText = correctCount;
+            document.getElementById('stats-remaining').innerText = remainingCount;
+            document.getElementById('global-score').innerText = `Điểm số: ${correctCount}/${scoreState.total}`;
+            
+            progressChart.data.datasets[0].data = [correctCount, remainingCount];
+            progressChart.update();
+        }
+
+        // --- 6. NOTES LOGIC ---
+
+        const NOTES_KEY = 'vocab_health_notes';
+
+        function loadNotes() {
+            const notes = JSON.parse(localStorage.getItem(NOTES_KEY)) || [];
+            const listEl = document.getElementById('notes-list');
+            listEl.innerHTML = '';
+            
+            if (notes.length === 0) {
+                listEl.innerHTML = '<div class="text-center text-slate-400 text-xs italic py-4">Chưa có ghi chú nào.</div>';
+                return;
+            }
+
+            notes.forEach((note, index) => {
+                const div = document.createElement('div');
+                div.className = "bg-white p-3 rounded border border-slate-200 text-sm text-slate-700 flex justify-between items-start group shadow-sm";
+                div.innerHTML = `
+                    <div class="whitespace-pre-wrap break-words w-10/12 leading-relaxed">${note}</div>
+                    <button onclick="deleteNote(${index})" class="text-red-300 hover:text-red-500 opacity-0 group-hover:opacity-100 transition p-1 rounded hover:bg-red-50">
+                        <i class="fas fa-trash-alt"></i>
+                    </button>
+                `;
+                listEl.appendChild(div);
+            });
+        }
+
+        function saveNote() {
+            const input = document.getElementById('note-input');
+            const text = input.value.trim();
+            if (!text) {
+                showNoteMsg('Vui lòng nhập nội dung!', 'error');
+                return;
+            }
+            
+            const notes = JSON.parse(localStorage.getItem(NOTES_KEY)) || [];
+            notes.push(text);
+            localStorage.setItem(NOTES_KEY, JSON.stringify(notes));
+            
+            input.value = '';
+            loadNotes();
+            showNoteMsg('Đã lưu ghi chú thành công!', 'success');
+        }
+
+        function deleteNote(index) {
+            const notes = JSON.parse(localStorage.getItem(NOTES_KEY)) || [];
+            notes.splice(index, 1);
+            localStorage.setItem(NOTES_KEY, JSON.stringify(notes));
+            loadNotes();
+            showNoteMsg('Đã xóa ghi chú.', 'info');
+        }
+
+        function showNoteMsg(msg, type) {
+            const msgEl = document.getElementById('note-message');
+            msgEl.textContent = msg;
+            
+            msgEl.className = 'mb-3 text-xs p-2.5 rounded font-bold text-center transition-all ';
+            if (type === 'error') msgEl.className += 'bg-red-100 text-red-800 border border-red-200';
+            else if (type === 'info') msgEl.className += 'bg-blue-100 text-blue-800 border border-blue-200';
+            else msgEl.className += 'bg-emerald-100 text-emerald-800 border border-emerald-200';
+            
+            msgEl.classList.remove('hidden');
+            setTimeout(() => msgEl.classList.add('hidden'), 3000);
+        }
+
+        function exportNotes() {
+            const notes = JSON.parse(localStorage.getItem(NOTES_KEY)) || [];
+            if (notes.length === 0) {
+                showNoteMsg('Không có ghi chú để xuất!', 'error');
+                return;
+            }
+            
+            const htmlContent = `
+                <html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+                <head>
+                    <meta charset='utf-8'><title>Ghi Chú Từ Vựng</title>
+                    <style>
+                        body { font-family: 'Times New Roman', serif; font-size: 14pt; }
+                        h1 { color: #065f46; text-align: center; }
+                        ul { padding-left: 20px; }
+                        li { margin-bottom: 10px; line-height: 1.5; }
+                    </style>
+                </head>
+                <body>
+                    <h1>Ghi Chú: Sức Khỏe & Đời Sống</h1>
+                    <p><i>Ngày xuất: ${new Date().toLocaleDateString('vi-VN')}</i></p>
+                    <ul>${notes.map(n => `<li>${n}</li>`).join('')}</ul>
+                </body></html>`;
+            
+            const blob = new Blob([htmlContent], { type: 'application/msword' });
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = 'Ghi_Chu_Tu_Vung.doc';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+
+        // --- 7. INITIALIZATION ---
+        window.onload = function() {
+            renderMCQ();
+            renderTranslate();
+            renderReorder();
+            initChart();
+            loadNotes();
+        };
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_3",
+  "vocab": [
+    {
+      "word": "iterative updates",
+      "ipa": "/ˈɪtərətɪv ʌpˈdeɪts/",
+      "meaning": "các bản cập nhật lặp lại (thay đổi nhỏ nhưng liên tục)",
+      "example": "Most platforms I use don't change overnight; instead, they undergo iterative updates to refine their core functions.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "hyper-personalized interface",
+      "ipa": "/ˌhaɪpər ˈpɜːrsənəlaɪzd ˈɪntərfeɪs/",
+      "meaning": "giao diện cá nhân hóa cực cao",
+      "example": "I've noticed a move toward a hyper-personalized interface that adapts specifically to my browsing habits.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "biometric authentication",
+      "ipa": "/ˌbaɪəʊˈmetrɪk ɔːˌθentɪˈkeɪʃn/",
+      "meaning": "xác thực sinh trắc học (vân tay, khuôn mặt)",
+      "example": "Many financial websites have introduced biometric authentication to replace traditional, cumbersome passwords.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "community-led moderation",
+      "ipa": "/kəˈmjuːnəti led ˌmɒdəˈreɪʃn/",
+      "meaning": "kiểm duyệt nội dung do cộng đồng dẫn dắt",
+      "example": "Forums are increasingly leaning on community-led moderation to maintain a healthy and civil digital environment.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "progressive web app features",
+      "ipa": "/prəˈɡresɪv web æp ˈfiːtʃərz/",
+      "meaning": "các tính năng của ứng dụng web tiến bộ (chạy mượt như app cài đặt)",
+      "example": "The site has adopted progressive web app features, allowing me to browse content offline quite effectively.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "gamified elements",
+      "ipa": "/ˈɡeɪmɪfaɪd ˈelɪmənts/",
+      "meaning": "các yếu tố trò chơi hóa (để tăng tương tác)",
+      "example": "Language learning portals often introduce gamified elements like streaks and badges to keep users motivated.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "legacy system retirement",
+      "ipa": "/ˈleɡəsi ˈsɪstəm rɪˈtaɪərmənt/",
+      "meaning": "việc loại bỏ/ngừng hoạt động các hệ thống cũ",
+      "example": "One major change was the legacy system retirement, which made the entire site significantly faster and more stable.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "dynamic content delivery",
+      "ipa": "/daɪˈnæmɪk ˈkɒntent dɪˈlɪvəri/",
+      "meaning": "phân phối nội dung linh hoạt (theo thời gian thực)",
+      "example": "Thanks to dynamic content delivery, the homepage now refreshes instantly with news tailored to my current location.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "voice-activated search",
+      "ipa": "/vɔɪs ˈæktɪveɪtɪd sɜːrtʃ/",
+      "meaning": "tìm kiếm bằng giọng nói",
+      "example": "A notable addition is the voice-activated search, which is a godsend when I'm multitasking or on the go.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "social commerce capabilities",
+      "ipa": "/ˈsəʊʃl ˈkɒmɜːrs ˌkeɪpəˈbɪlətiz/",
+      "meaning": "khả năng thương mại hóa trên mạng xã hội",
+      "example": "My favorite lifestyle blogs have added social commerce capabilities, so I can purchase featured items directly from the article.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

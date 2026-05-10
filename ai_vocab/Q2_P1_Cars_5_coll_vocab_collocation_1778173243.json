@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_5_coll",
+  "vocab": [
+    {
+      "word": "alleviate the boredom",
+      "ipa": "/əˈliːvieɪt ðə ˈbɔːdəm/",
+      "meaning": "làm giảm bớt sự buồn chán",
+      "example": "To alleviate the boredom of sitting in stationary traffic, I often listen to educational audiobooks.",
+      "type": "collocation"
+    },
+    {
+      "word": "stop-and-go traffic",
+      "ipa": "/stɒp ənd ɡəʊ ˈtræfɪk/",
+      "meaning": "giao thông ngắt quãng (nhích từng chút một)",
+      "example": "Dealing with stop-and-go traffic is exhausting, so I try to focus on deep breathing exercises to stay relaxed.",
+      "type": "collocation"
+    },
+    {
+      "word": "curb road rage",
+      "ipa": "/kɜːb rəʊd reɪdʒ/",
+      "meaning": "kiềm chế sự giận dữ khi lái xe",
+      "example": "Listening to classical music helps me curb road rage when other drivers start acting aggressively in a jam.",
+      "type": "collocation"
+    },
+    {
+      "word": "a snail-paced commute",
+      "ipa": "/ə sneɪl peɪst kəˈmjuːt/",
+      "meaning": "việc đi lại với tốc độ chậm như sên",
+      "example": "During a snail-paced commute, I find it useful to mentally plan my chores for the upcoming weekend.",
+      "type": "collocation"
+    },
+    {
+      "word": "harness the time",
+      "ipa": "/ˈhɑːrnɪs ðə taɪm/",
+      "meaning": "tận dụng thời gian",
+      "example": "I try to harness the time spent in congestion by making hands-free calls to catch up with my relatives.",
+      "type": "collocation"
+    },
+    {
+      "word": "stark contrast to",
+      "ipa": "/stɑːrk ˈkɒntræst tuː/",
+      "meaning": "sự tương phản hoàn toàn với",
+      "example": "The stillness of being stuck in a jam is a stark contrast to the usual fast-paced nature of my workday.",
+      "type": "collocation"
+    },
+    {
+      "word": "heavy influx of vehicles",
+      "ipa": "/ˈhevi ˈɪnflʌks əv ˈviːəklz/",
+      "meaning": "lượng xe cộ đổ về rất lớn",
+      "example": "Due to the heavy influx of vehicles during rush hour, I've learned to just accept the delay as inevitable.",
+      "type": "collocation"
+    },
+    {
+      "word": "keep stress levels in check",
+      "ipa": "/kiːp stres ˈlevlz ɪn tʃek/",
+      "meaning": "kiểm soát mức độ căng thẳng",
+      "example": "I usually play some upbeat jazz to keep my stress levels in check when the road ahead is completely blocked.",
+      "type": "collocation"
+    },
+    {
+      "word": "test one's patience",
+      "ipa": "/test wʌnz ˈpeɪʃns/",
+      "meaning": "thử thách lòng kiên nhẫn của ai đó",
+      "example": "Being stuck behind a long line of buses really tests my patience, but I try to remain as composed as possible.",
+      "type": "collocation"
+    },
+    {
+      "word": "an exercise in futility",
+      "ipa": "/ən ˈeksəsaɪz ɪn fjuːˈtɪləti/",
+      "meaning": "một việc làm vô ích/không có kết quả",
+      "example": "Complaining about the traffic is an exercise in futility, so I prefer to lose myself in a good playlist instead.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

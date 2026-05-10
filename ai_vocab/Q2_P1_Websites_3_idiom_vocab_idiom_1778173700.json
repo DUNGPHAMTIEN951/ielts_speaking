@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_3_idiom",
+  "vocab": [
+    {
+      "word": "move with the times",
+      "ipa": "/muːv wɪð ðə taɪmz/",
+      "meaning": "thay đổi để bắt kịp xu hướng/thời đại",
+      "example": "Most social media platforms constantly move with the times by adding short-form video features to stay relevant.",
+      "type": "idiom"
+    },
+    {
+      "word": "a double-edged sword",
+      "ipa": "/ə ˈdʌbl edʒd sɔːd/",
+      "meaning": "con dao hai lưỡi",
+      "example": "The new update is a double-edged sword; while it looks sleeker, it’s much harder to find the settings menu.",
+      "type": "idiom"
+    },
+    {
+      "word": "at a snail's pace",
+      "ipa": "/æt ə sneɪlz peɪs/",
+      "meaning": "rất chậm chạp (như rùa bò)",
+      "example": "Before the recent server upgrade, the website used to load at a snail's pace, which was incredibly frustrating.",
+      "type": "idiom"
+    },
+    {
+      "word": "the bells and whistles",
+      "ipa": "/ðə belz ənd ˈwɪslz/",
+      "meaning": "những tính năng phụ trợ hào nhoáng (nhưng không quá cần thiết)",
+      "example": "The latest version of the app has all the bells and whistles, but I personally prefer the old, simpler interface.",
+      "type": "idiom"
+    },
+    {
+      "word": "back to square one",
+      "ipa": "/bæk tu skweə(r) wʌn/",
+      "meaning": "trở lại vạch xuất phát/làm lại từ đầu",
+      "example": "After a disastrous redesign that users hated, the developers had to go back to square one and re-evaluate the layout.",
+      "type": "idiom"
+    },
+    {
+      "word": "world at one's fingertips",
+      "ipa": "/wɜːld æt wʌnz ˈfɪŋɡətɪps/",
+      "meaning": "có cả thế giới trong tầm tay",
+      "example": "With the integration of global news feeds, these websites truly put the world at my fingertips.",
+      "type": "idiom"
+    },
+    {
+      "word": "clear as crystal",
+      "ipa": "/klɪə(r) æz ˈkrɪstl/",
+      "meaning": "rõ ràng, dễ hiểu (như pha lê)",
+      "example": "They’ve updated the user agreement to make the data privacy terms clear as crystal for the average user.",
+      "type": "idiom"
+    },
+    {
+      "word": "a slippery slope",
+      "ipa": "/ə ˈslɪpəri sləʊp/",
+      "meaning": "một sự tuột dốc (một hành động dẫn đến kết quả xấu hơn)",
+      "example": "I feel that adding more and more ads is a slippery slope that will eventually drive all the loyal users away.",
+      "type": "idiom"
+    },
+    {
+      "word": "bread and butter",
+      "ipa": "/bred ənd ˈbʌtə(r)/",
+      "meaning": "phần thiết yếu/nguồn sống/tính năng cốt lõi",
+      "example": "Search functionality is the bread and butter of this site, so I’m glad they improved the search speed recently.",
+      "type": "idiom"
+    },
+    {
+      "word": "sink or swim",
+      "ipa": "/sɪŋk ɔː(r) swɪm/",
+      "meaning": "tự bơi hay là chìm (thời điểm quyết định sự thành bại)",
+      "example": "With so much competition, websites must innovate or it's a case of sink or swim in the digital market.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

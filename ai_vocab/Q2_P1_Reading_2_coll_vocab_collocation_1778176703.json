@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Reading_2_coll",
+  "vocab": [
+    {
+      "word": "cognitive retention",
+      "ipa": "/ˈkɒɡnətɪv rɪˈtenʃn/",
+      "meaning": "khả năng ghi nhớ thông tin",
+      "example": "Studies suggest that reading on paper enhances cognitive retention compared to scrolling through digital text.",
+      "type": "collocation"
+    },
+    {
+      "word": "glaring screen",
+      "ipa": "/ˈɡleərɪŋ skriːn/",
+      "meaning": "màn hình bị chói sáng",
+      "example": "I find it nearly impossible to concentrate when reading from a glaring screen under direct sunlight.",
+      "type": "collocation"
+    },
+    {
+      "word": "interact with the text",
+      "ipa": "/ˌɪntərˈækt wɪð ðə tekst/",
+      "meaning": "tương tác với văn bản (ghi chú, gạch chân...)",
+      "example": "Hardcopies allow me to interact with the text more deeply by scribbling notes in the margins.",
+      "type": "collocation"
+    },
+    {
+      "word": "e-ink technology",
+      "ipa": "/iː ɪŋk tekˈnɒlədʒi/",
+      "meaning": "công nghệ mực điện tử (giúp mắt ít mỏi)",
+      "example": "Modern e-readers utilize e-ink technology to mimic the appearance of ordinary ink on paper.",
+      "type": "collocation"
+    },
+    {
+      "word": "space-saving solution",
+      "ipa": "/speɪs ˈseɪvɪŋ səˈluːʃn/",
+      "meaning": "giải pháp tiết kiệm không gian",
+      "example": "For those living in small apartments, digital libraries are an ideal space-saving solution.",
+      "type": "collocation"
+    },
+    {
+      "word": "flick through",
+      "ipa": "/flɪk θruː/",
+      "meaning": "lật nhanh/đọc lướt qua các trang",
+      "example": "I love to flick through the pages of a magazine to find interesting articles before settling down to read.",
+      "type": "collocation"
+    },
+    {
+      "word": "clunky and cumbersome",
+      "ipa": "/ˈklʌŋki ənd ˈkʌmbəsəm/",
+      "meaning": "nặng nề và cồng kềnh",
+      "example": "Hardcover encyclopedias can be quite clunky and cumbersome, making tablets a much more agile choice.",
+      "type": "collocation"
+    },
+    {
+      "word": "instant accessibility",
+      "ipa": "/ˈɪnstənt əkˌsesəˈbɪləti/",
+      "meaning": "khả năng tiếp cận tức thì",
+      "example": "The biggest draw of digital reading is the instant accessibility to thousands of titles at the click of a button.",
+      "type": "collocation"
+    },
+    {
+      "word": "aesthetic appeal",
+      "ipa": "/esˈθetɪk əˈpiːl/",
+      "meaning": "sức hút về mặt thẩm mỹ",
+      "example": "There is an undeniable aesthetic appeal to a physical bookshelf filled with well-worn novels.",
+      "type": "collocation"
+    },
+    {
+      "word": "strain-free reading",
+      "ipa": "/streɪn friː ˈriːdɪŋ/",
+      "meaning": "việc đọc không gây mỏi (mắt)",
+      "example": "Physical books provide a strain-free reading experience that high-resolution tablets still can't quite replicate.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

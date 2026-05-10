@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_3_v1",
+  "vocab": [
+    {
+      "word": "cutting-edge electric vehicles",
+      "ipa": "/ˌkʌtɪŋ ˈedʒ ɪˈlektrɪk ˈviːəklz/",
+      "meaning": "xe điện với công nghệ tiên tiến nhất",
+      "example": "I'm particularly drawn to cutting-edge electric vehicles due to their zero-emission profile and innovative autonomous features.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "off-road capabilities",
+      "ipa": "/ˌɒf ˈrəʊd ˌkeɪpəˈbɪlətiz/",
+      "meaning": "khả năng chạy trên địa hình gồ ghề/hiểm trở",
+      "example": "I have a soft spot for rugged SUVs with impressive off-road capabilities that can handle mountainous terrain with ease.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "high-performance sports cars",
+      "ipa": "/haɪ pəˈfɔːməns spɔːts kɑːz/",
+      "meaning": "xe thể thao hiệu suất cao",
+      "example": "While they aren't very practical for daily use, I've always admired high-performance sports cars for their aerodynamic design and speed.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "fuel-efficient hybrids",
+      "ipa": "/ˌfjuːəl ɪˈfɪʃnt ˈhaɪbrɪdz/",
+      "meaning": "xe lai (điện - xăng) tiết kiệm nhiên liệu",
+      "example": "As an environmentally conscious person, I prefer fuel-efficient hybrids that minimize my carbon footprint during city commutes.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "vintage collectibles",
+      "ipa": "/ˈvɪntɪdʒ kəˈlektəblz/",
+      "meaning": "xe cổ có giá trị sưu tầm",
+      "example": "I'm fascinated by vintage collectibles because they possess a unique character and timeless aesthetic that modern cars often lack.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

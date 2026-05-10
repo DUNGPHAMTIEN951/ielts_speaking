@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Websites_2_v1",
+  "vocab": [
+    {
+      "word": "seamless navigation",
+      "ipa": "/ˈsiːm.ləs ˌnæv.ɪˈɡeɪ.ʃən/",
+      "meaning": "trải nghiệm điều hướng mượt mà (dễ sử dụng)",
+      "example": "What draws me to that site is its seamless navigation, which allows me to find specific information without any technical hiccups.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "wealth of resources",
+      "ipa": "/welθ əv rɪˈzɔː.sɪz/",
+      "meaning": "nguồn tài nguyên phong phú/khổng lồ",
+      "example": "The website provides a wealth of resources for language learners, ranging from interactive exercises to comprehensive grammar guides.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "tailor-made recommendations",
+      "ipa": "/ˌteɪ.ləˈmeɪd ˌrek.ə.menˈdeɪ.ʃənz/",
+      "meaning": "các gợi ý được cá nhân hóa/thiết kế riêng",
+      "example": "I appreciate the tailor-made recommendations based on my browsing history, as they introduce me to content I genuinely enjoy.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "user-centric design",
+      "ipa": "/ˌjuː.zəˈsen.trɪk dɪˈzaɪn/",
+      "meaning": "thiết kế lấy người dùng làm trung tâm",
+      "example": "The platform boasts a user-centric design that prioritizes accessibility and aesthetic simplicity.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "unrivaled convenience",
+      "ipa": "/ʌnˈraɪ.vəld kənˈviː.ni.əns/",
+      "meaning": "sự tiện lợi vô đối/không gì sánh bằng",
+      "example": "This e-commerce site offers unrivaled convenience, allowing me to purchase niche items from across the globe with just a few clicks.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

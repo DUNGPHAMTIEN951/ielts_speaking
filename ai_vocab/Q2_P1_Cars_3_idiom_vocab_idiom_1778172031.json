@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_3_idiom",
+  "vocab": [
+    {
+      "word": "a gas guzzler",
+      "ipa": "/ə ɡæs ˈɡʌzlə(r)/",
+      "meaning": "xe ngốn xăng",
+      "example": "I'm definitely not a fan of any gas guzzler; I much prefer electric cars that are kinder to the environment.",
+      "type": "idiom"
+    },
+    {
+      "word": "bells and whistles",
+      "ipa": "/belz ənd ˈwɪslz/",
+      "meaning": "những tính năng phụ trợ hào nhoáng (nhưng không quá cần thiết)",
+      "example": "I gravitate towards modern luxury sedans that come with all the latest bells and whistles, like seat massagers and AI assistants.",
+      "type": "idiom"
+    },
+    {
+      "word": "state of the art",
+      "ipa": "/steɪt əv ði ɑːt/",
+      "meaning": "hiện đại nhất, tối tân",
+      "example": "I am captivated by Tesla models because their battery technology is truly state of the art.",
+      "type": "idiom"
+    },
+    {
+      "word": "workhorse",
+      "ipa": "/ˈwɜːkhɔːs/",
+      "meaning": "vật/xe bền bỉ, làm việc hiệu quả (ngựa thồ)",
+      "example": "For my daily commute, I like a reliable Japanese hatchback—a real workhorse that never breaks down.",
+      "type": "idiom"
+    },
+    {
+      "word": "top of the line",
+      "ipa": "/tɒp əv ðə laɪn/",
+      "meaning": "dòng cao cấp nhất, xịn nhất",
+      "example": "If money were no object, I’d love to own a top of the line Range Rover for its sheer presence on the road.",
+      "type": "idiom"
+    },
+    {
+      "word": "built to last",
+      "ipa": "/bɪlt tə lɑːst/",
+      "meaning": "được chế tạo để bền vững với thời gian",
+      "example": "I admire vintage Mercedes cars because they were built to last, unlike some modern vehicles that feel quite flimsy.",
+      "type": "idiom"
+    },
+    {
+      "word": "the cream of the crop",
+      "ipa": "/ðə kriːm əv ðə krɒp/",
+      "meaning": "những thứ tốt nhất, tinh túy nhất",
+      "example": "When it comes to performance, Italian supercars are widely considered the cream of the crop by enthusiasts.",
+      "type": "idiom"
+    },
+    {
+      "word": "pack a punch",
+      "ipa": "/pæk ə pʌntʃ/",
+      "meaning": "có sức mạnh ấn tượng (thường dùng cho động cơ nhỏ nhưng mạnh)",
+      "example": "I like 'hot hatches'—small cars that pack a punch and are incredibly fun to drive around tight corners.",
+      "type": "idiom"
+    },
+    {
+      "word": "go the extra mile",
+      "ipa": "/ɡəʊ ði ˈekstrə maɪl/",
+      "meaning": "vượt mức mong đợi (nỗ lực hơn bình thường)",
+      "example": "I appreciate brands like Volvo because they go the extra mile to ensure passenger safety in every model.",
+      "type": "idiom"
+    },
+    {
+      "word": "middle of the road",
+      "ipa": "/ˈmɪdl əv ðə rəʊd/",
+      "meaning": "tầm trung, bình dân, không có gì nổi trội",
+      "example": "I don't need anything flashy; a middle of the road family SUV is perfectly fine for my lifestyle.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

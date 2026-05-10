@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_3_c1",
+  "vocab": [
+    {
+      "word": "spacious interior",
+      "ipa": "/ˈspeɪʃəs ɪnˈtɪəriə(r)/",
+      "meaning": "nội thất rộng rãi",
+      "example": "I gravitate towards family vans primarily for their spacious interior, which ensures comfort during long-haul journeys.",
+      "type": "collocation"
+    },
+    {
+      "word": "low-slung profile",
+      "ipa": "/ləʊ slʌŋ ˈprəʊfaɪl/",
+      "meaning": "kiểu dáng gầm thấp (đặc trưng của xe thể thao)",
+      "example": "I've always been captivated by exotic cars with a low-slung profile that conveys a sense of speed even when stationary.",
+      "type": "collocation"
+    },
+    {
+      "word": "seamless acceleration",
+      "ipa": "/ˈsiːmləs əkˌseləˈreɪʃn/",
+      "meaning": "khả năng tăng tốc mượt mà",
+      "example": "Electric sedans appeal to me because they offer seamless acceleration without the jarring gear shifts of traditional engines.",
+      "type": "collocation"
+    },
+    {
+      "word": "ergonomic layout",
+      "ipa": "/ˌɜːɡəˈnɒmɪk ˈleɪaʊt/",
+      "meaning": "thiết kế bố cục tối ưu hóa cho người dùng (công thái học)",
+      "example": "I prefer high-end German cars because they feature an ergonomic layout where every control is within easy reach of the driver.",
+      "type": "collocation"
+    },
+    {
+      "word": "all-wheel drive system",
+      "ipa": "/ɔːl wiːl draɪv ˈsɪstəm/",
+      "meaning": "hệ dẫn động bốn bánh toàn thời gian",
+      "example": "For someone living in mountainous regions, a vehicle with a robust all-wheel drive system is a top priority for safety.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

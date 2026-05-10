@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_2_id1",
+  "vocab": [
+    {
+      "word": "hit the road",
+      "ipa": "/hɪt ðə rəʊd/",
+      "meaning": "khởi hành, bắt đầu một chuyến hành trình",
+      "example": "I remember the excitement of waking up at dawn to hit the road for our annual summer vacation.",
+      "type": "idiom"
+    },
+    {
+      "word": "are we there yet?",
+      "ipa": "/ɑː(r) wi ðeə(r) jet/",
+      "meaning": "đã đến nơi chưa? (câu hỏi đặc trưng của trẻ con khi đi xe)",
+      "example": "I was that typical impatient child, constantly asking 'are we there yet?' every ten minutes during the drive.",
+      "type": "idiom"
+    },
+    {
+      "word": "at a snail's pace",
+      "ipa": "/æt ə sneɪlz peɪs/",
+      "meaning": "chậm như sên",
+      "example": "I used to loathe being stuck in traffic jams where the car moved at a snail's pace for hours on end.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the middle of nowhere",
+      "ipa": "/ɪn ðə ˈmɪdl əv ˈnəʊweə(r)/",
+      "meaning": "ở một nơi xa xôi hẻo lánh, đồng không mông quạnh",
+      "example": "My parents loved taking detours that led us to tiny villages in the middle of nowhere.",
+      "type": "idiom"
+    },
+    {
+      "word": "drive someone up the wall",
+      "ipa": "/draɪv ˈsʌmwʌn ʌp ðə wɔːl/",
+      "meaning": "làm ai đó phát điên/phát cáu",
+      "example": "My siblings and I would often bicker in the back seat, which definitely drove my father up the wall.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

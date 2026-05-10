@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Scenery_2_coll",
+  "vocab": [
+    {
+      "word": "a panoramic vista",
+      "ipa": "/ə ˌpænəˈræmɪk ˈvɪstə/",
+      "meaning": "tầm nhìn toàn cảnh bao la",
+      "example": "I lean towards the mountains because reaching the summit grants you a panoramic vista that makes all the effort worthwhile.",
+      "type": "collocation"
+    },
+    {
+      "word": "crystalline waters",
+      "ipa": "/ˈkrɪstəlaɪn ˈwɔːtərz/",
+      "meaning": "làn nước trong vắt như pha lê",
+      "example": "There is nothing more rejuvenating than diving into the crystalline waters of a secluded tropical beach.",
+      "type": "collocation"
+    },
+    {
+      "word": "snow-capped peaks",
+      "ipa": "/snəʊ kæpt piːks/",
+      "meaning": "những đỉnh núi phủ tuyết trắng",
+      "example": "The sight of snow-capped peaks piercing through the clouds creates a sense of awe that the ocean simply cannot replicate.",
+      "type": "collocation"
+    },
+    {
+      "word": "a coastal retreat",
+      "ipa": "/ə ˈkəʊstl rɪˈtriːt/",
+      "meaning": "một nơi nghỉ dưỡng ven biển",
+      "example": "I find that a coastal retreat is the ultimate antidote to the stifling atmosphere of city life.",
+      "type": "collocation"
+    },
+    {
+      "word": "undulating hills",
+      "ipa": "/ˈʌndʒəleɪtɪŋ hɪlz/",
+      "meaning": "những ngọn đồi nhấp nhô/lượn sóng",
+      "example": "I am deeply fond of the undulating hills in the countryside, as they offer a more gentle and soothing landscape.",
+      "type": "collocation"
+    },
+    {
+      "word": "the roar of the surf",
+      "ipa": "/ðə rɔːr əv ðə sɜːrf/",
+      "meaning": "tiếng sóng vỗ rì rào/ầm ầm",
+      "example": "For me, the roar of the surf is like a natural lullaby that instantly puts my mind at ease.",
+      "type": "collocation"
+    },
+    {
+      "word": "alpine air",
+      "ipa": "/ˈælpaɪn eər/",
+      "meaning": "không khí vùng núi cao",
+      "example": "I prefer high-altitude destinations specifically for the crisp, thin alpine air that feels incredibly untainted.",
+      "type": "collocation"
+    },
+    {
+      "word": "sun-drenched shoreline",
+      "ipa": "/sʌn drentʃt ˈʃɔːrlaɪn/",
+      "meaning": "bờ biển ngập tràn ánh nắng",
+      "example": "Walking along a sun-drenched shoreline during the golden hour is my definition of a perfect afternoon.",
+      "type": "collocation"
+    },
+    {
+      "word": "dense foliage",
+      "ipa": "/dens ˈfəʊliɪdʒ/",
+      "meaning": "tán lá/hệ thực vật dày đặc",
+      "example": "Mountainous regions with dense foliage provide a cooling canopy that makes hiking enjoyable even in the summer.",
+      "type": "collocation"
+    },
+    {
+      "word": "maritime scenery",
+      "ipa": "/ˈmærɪtaɪm ˈsiːnəri/",
+      "meaning": "phong cảnh biển cả",
+      "example": "I have always had a soft spot for maritime scenery, especially the dramatic contrast between jagged rocks and the deep blue sea.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

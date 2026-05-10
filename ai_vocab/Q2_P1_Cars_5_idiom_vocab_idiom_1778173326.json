@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Cars_5_idiom",
+  "vocab": [
+    {
+      "word": "roll with the punches",
+      "ipa": "/rəʊl wɪð ðə ˈpʌntʃɪz/",
+      "meaning": "thích nghi với hoàn cảnh khó khăn, xuôi theo chiều gió",
+      "example": "Instead of getting stressed about the gridlock, I just try to roll with the punches and use the time to listen to a podcast.",
+      "type": "idiom"
+    },
+    {
+      "word": "a captive audience",
+      "ipa": "/ə ˈkæp.tɪv ˈɔː.di.əns/",
+      "meaning": "người bị buộc phải lắng nghe (vì không thể rời đi)",
+      "example": "When we're stuck in traffic, my passengers become a captive audience for my terrible singing.",
+      "type": "idiom"
+    },
+    {
+      "word": "let one's mind wander",
+      "ipa": "/let wʌnz maɪnd ˈwɒn.dər/",
+      "meaning": "để tâm trí treo ngược cành cây, mơ mộng vẩn vơ",
+      "example": "If the car isn't moving at all, I often let my mind wander and start planning my dream vacation.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep a lid on",
+      "ipa": "/kiːp ə lɪd ɒn/",
+      "meaning": "kiểm soát, kìm chế (cảm giác tiêu cực như nóng nảy)",
+      "example": "I try to keep a lid on my temper when other drivers start cutting me off in a bottleneck.",
+      "type": "idiom"
+    },
+    {
+      "word": "take the rough with the smooth",
+      "ipa": "/teɪk ðə rʌf wɪð ðə smuːð/",
+      "meaning": "chấp nhận cả mặt tốt lẫn mặt xấu của một tình huống",
+      "example": "Traffic jams are part of city life, so I just take the rough with the smooth and wait it out.",
+      "type": "idiom"
+    },
+    {
+      "word": "by hook or by crook",
+      "ipa": "/baɪ hʊk ɔː baɪ krʊk/",
+      "meaning": "bằng mọi cách có thể (để tìm đường khác hoặc giải quyết vấn đề)",
+      "example": "By hook or by crook, I'll try to find a side street to escape the main road congestion.",
+      "type": "idiom"
+    },
+    {
+      "word": "count one's blessings",
+      "ipa": "/kaʊnt wʌnz ˈbles.ɪŋz/",
+      "meaning": "biết ơn những gì mình đang có (thay vì phàn nàn)",
+      "example": "When I'm stuck, I count my blessings that I'm in a comfortable car with air conditioning rather than out in the rain.",
+      "type": "idiom"
+    },
+    {
+      "word": "get one's second wind",
+      "ipa": "/ɡet wʌnz ˈsek.ənd wɪnd/",
+      "meaning": "hồi sức, tìm lại năng lượng (sau khi nghỉ ngơi tạm thời trong xe)",
+      "example": "Sometimes a 20-minute standstill helps me get my second wind before I have to face a busy day at the office.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the doldrums",
+      "ipa": "/ɪn ðə ˈdɒl.drəmz/",
+      "meaning": "trong trạng thái buồn chán, đình trệ, không tiến triển",
+      "example": "To avoid being in the doldrums while the traffic is stagnant, I usually call my mother for a long chat.",
+      "type": "idiom"
+    },
+    {
+      "word": "face the music",
+      "ipa": "/feɪs ðə ˈmjuː.zɪk/",
+      "meaning": "đối mặt với thực tế/hậu quả (việc bị muộn giờ)",
+      "example": "Once I realize I'm going to be late, I just call my boss, face the music, and stay calm in the car.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

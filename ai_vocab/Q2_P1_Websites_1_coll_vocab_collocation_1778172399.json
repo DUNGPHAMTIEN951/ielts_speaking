@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_1_coll",
+  "vocab": [
+    {
+      "word": "seamless navigation",
+      "ipa": "/ˈsiːmləs ˌnævɪˈɡeɪʃn/",
+      "meaning": "trải nghiệm lướt web mượt mà",
+      "example": "I gravitate towards sites that offer seamless navigation, as I detest clunky layouts that hinder my search for information.",
+      "type": "collocation"
+    },
+    {
+      "word": "digital storefronts",
+      "ipa": "/ˈdɪdʒɪtl ˈstɔːfrʌnts/",
+      "meaning": "các cửa hàng trực tuyến/gian hàng số",
+      "example": "I spend quite a bit of time perusing digital storefronts to keep an eye on the latest fashion trends and tech releases.",
+      "type": "collocation"
+    },
+    {
+      "word": "procrastination trap",
+      "ipa": "/prəˌkræstɪˈneɪʃn træp/",
+      "meaning": "bẫy trì hoãn (những trang web gây xao nhãng)",
+      "example": "While some websites are educational, social media often turns into a procrastination trap where I lose hours scrolling through mindless content.",
+      "type": "collocation"
+    },
+    {
+      "word": "knowledge-sharing hub",
+      "ipa": "/ˈnɒlɪdʒ ˈʃeərɪŋ hʌb/",
+      "meaning": "trung tâm chia sẻ kiến thức",
+      "example": "Stack Overflow is an indispensable knowledge-sharing hub for me whenever I encounter a particularly thorny coding issue.",
+      "type": "collocation"
+    },
+    {
+      "word": "subscription-based service",
+      "ipa": "/səbˈskrɪpʃn beɪst ˈsɜːvɪs/",
+      "meaning": "dịch vụ dựa trên phí đăng ký (như Netflix, Spotify)",
+      "example": "I frequently log into various subscription-based services to access premium content that isn't available on free platforms.",
+      "type": "collocation"
+    },
+    {
+      "word": "curate a feed",
+      "ipa": "/kjʊəˈreɪt ə fiːd/",
+      "meaning": "chọn lọc bảng tin (theo sở thích cá nhân)",
+      "example": "I use sites like Pinterest to curate a feed of interior design inspiration that aligns with my personal aesthetic.",
+      "type": "collocation"
+    },
+    {
+      "word": "real-time updates",
+      "ipa": "/ˌrɪəl ˈtaɪm ʌpˈdeɪts/",
+      "meaning": "cập nhật theo thời gian thực",
+      "example": "Financial websites are essential for me because they provide real-time updates on stock market fluctuations.",
+      "type": "collocation"
+    },
+    {
+      "word": "ad-cluttered",
+      "ipa": "/æd ˈklʌtəd/",
+      "meaning": "bị lấp đầy bởi quảng cáo",
+      "example": "I tend to avoid ad-cluttered websites because the constant pop-ups significantly degrade the reading experience.",
+      "type": "collocation"
+    },
+    {
+      "word": "open-source platform",
+      "ipa": "/ˌəʊpən ˈsɔːs ˈplæt fɔːm/",
+      "meaning": "nền tảng mã nguồn mở",
+      "example": "As a developer, I visit open-source platforms daily to contribute to projects and learn from other experts in the field.",
+      "type": "collocation"
+    },
+    {
+      "word": "aesthetic minimalism",
+      "ipa": "/esˈθetɪk ˈmɪnɪməlɪzəm/",
+      "meaning": "phong cách thẩm mỹ tối giản",
+      "example": "I am a huge fan of websites that embrace aesthetic minimalism, focusing purely on content without unnecessary visual noise.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

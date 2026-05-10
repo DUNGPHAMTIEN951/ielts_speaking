@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_3_idiom",
+  "vocab": [
+    {
+      "word": "move with the times",
+      "ipa": "/muːv wɪð ðə taɪmz/",
+      "meaning": "thay đổi để bắt kịp xu hướng/thời đại",
+      "example": "Most of the news portals I frequent have had to move with the times by incorporating more short-form video content.",
+      "type": "idiom"
+    },
+    {
+      "word": "a double-edged sword",
+      "ipa": "/ə ˈdʌbl edʒd sɔːd/",
+      "meaning": "con dao hai lưỡi",
+      "example": "The shift toward algorithm-based content is a double-edged sword; it's personalized, but it often traps me in an echo chamber.",
+      "type": "idiom"
+    },
+    {
+      "word": "the best thing since sliced bread",
+      "ipa": "/ðə best θɪŋ sɪns slaɪst bred/",
+      "meaning": "một ý tưởng/cải tiến cực kỳ tốt",
+      "example": "The new dark mode feature on my study website is the best thing since sliced bread for my late-night revision sessions.",
+      "type": "idiom"
+    },
+    {
+      "word": "change out of all recognition",
+      "ipa": "/tʃeɪndʒ aʊt əv ɔːl ˌrekəɡˈnɪʃn/",
+      "meaning": "thay đổi đến mức không còn nhận ra được nữa",
+      "example": "Since the recent update, the interface of my favorite social platform has changed out of all recognition.",
+      "type": "idiom"
+    },
+    {
+      "word": "bells and whistles",
+      "ipa": "/belz ənd ˈwɪslz/",
+      "meaning": "các tính năng phụ trợ hào nhoáng (nhưng không thực sự cần thiết)",
+      "example": "Some educational sites are adding too many bells and whistles that actually distract me from the core learning material.",
+      "type": "idiom"
+    },
+    {
+      "word": "go down the drain",
+      "ipa": "/ɡəʊ daʊn ðə dreɪn/",
+      "meaning": "đổ sông đổ biển (thường nói về công sức hoặc trải nghiệm bị hỏng)",
+      "example": "When a website updates its layout and becomes too laggy, the whole user experience just goes down the drain.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep pace with",
+      "ipa": "/kiːp peɪs wɪð/",
+      "meaning": "giữ tốc độ/bắt kịp với cái gì đó",
+      "example": "E-commerce sites are constantly changing to keep pace with the rapidly evolving online shopping habits of Gen Z.",
+      "type": "idiom"
+    },
+    {
+      "word": "the tip of the iceberg",
+      "ipa": "/ðə tɪp əv ði ˈaɪsbɜːɡ/",
+      "meaning": "chỉ là phần nổi của tảng băng chìm (một phần nhỏ của thay đổi lớn)",
+      "example": "The visual redesign is just the tip of the iceberg; the backend security of the site has also been significantly bolstered.",
+      "type": "idiom"
+    },
+    {
+      "word": "be a far cry from",
+      "ipa": "/bi ə fɑː(r) kraɪ frəm/",
+      "meaning": "khác xa so với cái gì đó",
+      "example": "The current streamlined version of Wikipedia is a far cry from the cluttered interface it had a decade ago.",
+      "type": "idiom"
+    },
+    {
+      "word": "at a snail's pace",
+      "ipa": "/æt ə sneɪlz peɪs/",
+      "meaning": "chậm như sên",
+      "example": "Some old-school forums are still changing at a snail's pace, refusing to adopt modern mobile-friendly designs.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

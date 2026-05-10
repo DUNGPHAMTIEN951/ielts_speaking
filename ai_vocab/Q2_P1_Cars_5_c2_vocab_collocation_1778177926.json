@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_5_c2",
+  "vocab": [
+    {
+      "word": "curb one's impatience",
+      "ipa": "/kɜːb wʌnz ɪmˈpeɪʃns/",
+      "meaning": "kiềm chế sự mất kiên nhẫn",
+      "example": "I try to curb my impatience by focusing on a deep breathing exercise whenever the traffic comes to a standstill.",
+      "type": "collocation"
+    },
+    {
+      "word": "stark contrast",
+      "ipa": "/stɑːk ˈkɒntrɑːst/",
+      "meaning": "sự tương phản rõ rệt",
+      "example": "The slow crawl of the commute is a stark contrast to the fast-paced nature of my working day.",
+      "type": "collocation"
+    },
+    {
+      "word": "tune into",
+      "ipa": "/tjuːn ˈɪntə/",
+      "meaning": "bật (đài), lắng nghe (một chương trình cụ thể)",
+      "example": "I often tune into a live news broadcast to stay informed about the cause of the congestion.",
+      "type": "collocation"
+    },
+    {
+      "word": "dead time",
+      "ipa": "/ded taɪm/",
+      "meaning": "thời gian chết (thời gian lãng phí không làm được việc gì)",
+      "example": "I refuse to let a traffic jam be dead time, so I usually utilize it to mentally rehearse my upcoming presentations.",
+      "type": "collocation"
+    },
+    {
+      "word": "test one's nerves",
+      "ipa": "/test wʌnz nɜːvz/",
+      "meaning": "thử thách sự kiên nhẫn/dây thần kinh của ai đó",
+      "example": "Being stuck in a bottleneck for over an hour can really test your nerves, especially during the sweltering heat.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

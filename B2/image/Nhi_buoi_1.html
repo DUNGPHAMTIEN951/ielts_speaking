@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tiếng Anh 7 - Unit 1: Hobbies & Creative Practice</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Pacifico&display=swap"
+        rel="stylesheet">
+    <style>
+        /* Base */
+        body {
+            font-family: 'Quicksand', sans-serif;
+            background-color: #f0f9ff;
+            overflow-x: hidden;
+            color: #1e293b;
+        }
+
+        h1,
+        h2,
+        h3 {
+            font-family: 'Quicksand', sans-serif;
+            font-weight: 700;
+        }
+
+        .font-cursive {
+            font-family: 'Pacifico', cursive;
+        }
+
+        /* Tabs */
+        .tab-active {
+            border-bottom: 3px solid #0ea5e9;
+            color: #0ea5e9;
+            font-weight: 700;
+            background-color: rgba(14, 165, 233, 0.1);
+        }
+
+        /* Utils */
+        .hidden-section {
+            display: none !important;
+        }
+
+        .fade-in {
+            animation: fadeIn 0.4s ease-in-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Flashcard 3D */
+        .perspective-1000 {
+            perspective: 1000px;
+        }
+
+        .transform-style-3d {
+            transform-style: preserve-3d;
+        }
+
+        .backface-hidden {
+            backface-visibility: hidden;
+        }
+
+        .flipped {
+            transform: rotateY(180deg);
+        }
+
+        .flashcard-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+            transform-style: preserve-3d;
+            border-radius: 1.5rem;
+        }
+
+        .flashcard-front,
+        .flashcard-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            border-radius: 1.5rem;
+            border: 2px solid #e2e8f0;
+            padding: 1.5rem;
+        }
+
+        .flashcard-front {
+            background: white;
+        }
+
+        .flashcard-back {
+            background: #f0f9ff;
+            transform: rotateY(180deg);
+        }
+
+        /* Practice Styles */
+        .correct-answer {
+            background-color: #dcfce7 !important;
+            border-color: #22c55e !important;
+            color: #15803d !important;
+        }
+
+        .wrong-answer {
+            background-color: #fee2e2 !important;
+            border-color: #ef4444 !important;
+            color: #b91c1c !important;
+        }
+
+        .choice-selected {
+            background-color: #e0f2fe;
+            border-color: #0ea5e9;
+            color: #0369a1;
+            font-weight: bold;
+        }
+
+        /* Toast */
+        #toast {
+            visibility: hidden;
+            min-width: 250px;
+            background-color: #0369a1;
+            color: #fff;
+            text-align: center;
+            border-radius: 8px;
+            padding: 16px;
+            position: fixed;
+            z-index: 100;
+            left: 50%;
+            bottom: 30px;
+            transform: translateX(-50%);
+            opacity: 0;
+            transition: opacity 0.3s, bottom 0.3s;
+        }
+
+        #toast.show {
+            visibility: visible;
+            opacity: 1;
+            bottom: 50px;
+        }
+
+        .hobby-card {
+            background: white;
+            border: 1px solid #e0f2fe;
+            transition: all 0.3s;
+            border-radius: 12px;
+        }
+
+        .hobby-card:hover {
+            border-color: #0ea5e9;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(14, 165, 233, 0.1);
+        }
+    </style>
+</head>
+
+<body class="min-h-screen flex flex-col relative">
+
+    <!-- Header -->
+    <header class="bg-white border-b border-sky-100 p-4 sticky top-0 z-50">
+        <div class="max-w-6xl mx-auto flex justify-between items-center">
+            <div class="flex items-center gap-3">
+                <div
+                    class="w-12 h-12 bg-sky-500 rounded-2xl flex items-center justify-center text-white shadow-lg shadow-sky-200">
+                    <i class="fas fa-palette text-xl"></i>
+                </div>
+                <div>
+                    <h1 class="text-xl md:text-2xl font-bold text-slate-800">Unit 1: Creative Hobbies</h1>
+                    <p class="text-sky-600 text-xs md:text-sm font-medium">Vocabulary & Adverb Practice • <span
+                            id="header-count">0</span> Items</p>
+                </div>
+            </div>
+            <button onclick="resetApp()"
+                class="text-sm bg-slate-50 hover:bg-slate-100 px-4 py-2 rounded-xl transition font-semibold border border-slate-200">Reset</button>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="bg-white shadow-sm sticky top-[80px] z-40">
+        <div class="max-w-6xl mx-auto flex justify-start gap-4 px-4 overflow-x-auto py-2 scrollbar-hide">
+            <button onclick="switchTab('vocab')" id="tab-vocab"
+                class="tab-btn tab-active px-4 py-2 rounded-lg whitespace-nowrap transition-colors">Workspace</button>
+            <button onclick="switchTab('flashcard')" id="tab-flashcard"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-slate-50">Memory
+                Lab</button>
+            <button onclick="switchTab('structure')" id="tab-structure"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-slate-50">Sentence
+                Builder</button>
+            <button onclick="switchTab('practice')" id="tab-practice"
+                class="tab-btn px-4 py-2 rounded-lg whitespace-nowrap transition-colors hover:bg-slate-50">Skill
+                Test</button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="flex-grow max-w-6xl mx-auto w-full p-4 md:p-6 space-y-6 pb-20">
+
+        <!-- SECTION 1: VOCAB LIST -->
+        <div id="section-vocab" class="fade-in">
+            <div class="mb-6 relative max-w-xl mx-auto">
+                <input type="text" id="searchInput" onkeyup="filterVocab()"
+                    placeholder="Search habits, hobbies, or grammar..."
+                    class="w-full p-4 rounded-full border border-sky-100 shadow-sm focus:outline-none focus:ring-4 focus:ring-sky-100 pl-12 transition">
+                <i class="fas fa-search absolute left-5 top-5 text-sky-400"></i>
+            </div>
+            <div id="vocab-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4"></div>
+        </div>
+
+        <!-- SECTION 2: FLASHCARDS -->
+        <div id="section-flashcard" class="hidden-section fade-in flex flex-col items-center">
+            <div class="w-full max-w-lg flex justify-between items-center mb-4">
+                <span id="fc-index" class="font-bold text-sky-600 bg-sky-50 px-3 py-1 rounded-full text-xs">Term 1 /
+                    0</span>
+                <button onclick="speakCurrentCard()" class="p-2 rounded-full hover:bg-sky-50 text-sky-500 transition"><i
+                        class="fas fa-volume-up text-xl"></i></button>
+            </div>
+
+            <div class="perspective-1000 w-full max-w-md h-[300px] cursor-pointer" onclick="flipCard()">
+                <div id="flashcard-inner" class="flashcard-inner">
+                    <div class="flashcard-front shadow-xl">
+                        <span class="text-xs font-bold text-slate-400 uppercase tracking-widest mb-4">Word</span>
+                        <h2 id="fc-front-text" class="text-3xl font-bold text-slate-800 text-center px-4">...</h2>
+                    </div>
+                    <div class="flashcard-back shadow-xl">
+                        <span id="fc-back-type"
+                            class="text-xs font-bold text-sky-600 bg-sky-50 px-2 py-1 rounded mb-4 uppercase">...</span>
+                        <h2 id="fc-back-text" class="text-2xl font-bold text-slate-700 text-center px-4">...</h2>
+                        <p id="fc-back-sent" class="text-sky-600 text-sm italic mt-4 px-6 text-center">...</p>
+                    </div>
+                </div>
+            </div>
+            <div class="flex items-center gap-6 mt-8">
+                <button onclick="changeCard(-1)"
+                    class="bg-white text-slate-400 w-12 h-12 rounded-full shadow-md flex items-center justify-center hover:bg-sky-50 transition"><i
+                        class="fas fa-arrow-left"></i></button>
+                <button onclick="flipCard()"
+                    class="bg-sky-500 text-white px-10 py-3 rounded-full shadow-lg font-bold transition hover:bg-sky-600 active:scale-95">Flip
+                    Card</button>
+                <button onclick="changeCard(1)"
+                    class="bg-white text-slate-400 w-12 h-12 rounded-full shadow-md flex items-center justify-center hover:bg-sky-50 transition"><i
+                        class="fas fa-arrow-right"></i></button>
+            </div>
+        </div>
+
+        <!-- SECTION 3: STRUCTURE -->
+        <div id="section-structure" class="hidden-section fade-in">
+            <div class="bg-white rounded-2xl p-6 shadow-sm border border-sky-100 max-w-3xl mx-auto space-y-6">
+                <div>
+                    <h2 class="text-lg font-bold text-slate-800 mb-4 flex items-center gap-2">
+                        <i class="fas fa-microchip text-sky-500"></i> Grammar Pattern Lab
+                    </h2>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4" id="grammar-cards">
+                        <!-- Grammar cards will be injected here -->
+                    </div>
+                </div>
+                <div class="pt-6 border-t border-slate-50">
+                    <h3 class="font-bold text-slate-700 mb-2">Structure Showcase:</h3>
+                    <div id="structure-showcase" class="p-4 bg-sky-50 rounded-xl text-sky-800 font-medium italic">
+                        Select a grammar rule above to see examples...
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- SECTION 4: PRACTICE -->
+        <div id="section-practice" class="hidden-section fade-in">
+            <div class="flex flex-wrap gap-2 mb-6 justify-center">
+                <button onclick="switchPracticeMode('fill')"
+                    class="prac-sub-btn active-prac bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-bold shadow-md transition">1.
+                    Spelling</button>
+                <button onclick="switchPracticeMode('wf')"
+                    class="prac-sub-btn bg-white text-slate-500 px-4 py-2 rounded-full text-sm font-bold shadow-sm transition border border-slate-100">2.
+                    Word Form</button>
+                <button onclick="switchPracticeMode('gram')"
+                    class="prac-sub-btn bg-white text-slate-500 px-4 py-2 rounded-full text-sm font-bold shadow-sm transition border border-slate-100">3.
+                    Grammar Focus</button>
+                <button onclick="switchPracticeMode('translate')"
+                    class="prac-sub-btn bg-white text-slate-500 px-4 py-2 rounded-full text-sm font-bold shadow-sm transition border border-slate-100">4.
+                    Translation</button>
+            </div>
+
+            <div id="practice-container" class="space-y-4 max-w-3xl mx-auto"></div>
+
+            <div class="mt-8 text-center">
+                <button onclick="checkPractice()"
+                    class="bg-sky-600 text-white font-bold py-3 px-12 rounded-full shadow-lg hover:bg-sky-700 transition active:scale-95">
+                    Check Results
+                </button>
+            </div>
+        </div>
+
+    </main>
+
+    <div id="toast">Message received!</div>
+
+    <script>
+        // --- DATA (Unit 1: Hobbies & Personal Notes) ---
+        const vocabData = [
+            { id: 1, en: "benefit", vi: "lợi ích", type: "n", sent: "Sport has many health benefits." },
+            { id: 2, en: "nice", vi: "tốt bụng, tuyệt", type: "adj", sent: "She is a very nice person." },
+            { id: 3, en: "kind", vi: "tốt bụng", type: "adj", sent: "People in my neighborhood are kind." },
+            { id: 4, en: "beautiful", vi: "đẹp", type: "adj", sent: "The weather today is beautiful." },
+            { id: 5, en: "show", vi: "cho thấy, trình diễn", type: "v", sent: "Can you show me your collection?" },
+            { id: 6, en: "build", vi: "xây dựng", type: "v", sent: "I love to build dollhouses." },
+            { id: 7, en: "dollhouse", vi: "nhà búp bê", type: "n", sent: "Making a dollhouse is my favorite hobby." },
+            { id: 8, en: "amazing", vi: "tuyệt vời", type: "adj", sent: "My teacher is an amazing person." },
+            { id: 9, en: "creative", vi: "sáng tạo", type: "adj", sent: "She has some very creative ideas." },
+            { id: 10, en: "creatively", vi: "một cách sáng tạo", type: "adv", sent: "You should solve this problem creatively." },
+            { id: 11, en: "really", vi: "thật sự", type: "adv", sent: "I really love this picture." },
+            { id: 12, en: "always", vi: "luôn luôn", type: "adv", sent: "I always do my homework on time." },
+            { id: 13, en: "usually", vi: "thường xuyên", type: "adv", sent: "I usually draw in my free time." },
+            { id: 14, en: "sometimes", vi: "thỉnh thoảng", type: "adv", sent: "I sometimes go jogging at the park." },
+            { id: 15, en: "behind", vi: "đằng sau", type: "adv/prep", sent: "The garden is behind my house." },
+            { id: 16, en: "in front of", vi: "đằng trước", type: "prep", sent: "There is a park in front of the school." },
+            { id: 17, en: "beautifully", vi: "một cách đẹp đẽ", type: "adv", sent: "She draws a painting beautifully." },
+            { id: 18, en: "hard", vi: "chăm chỉ, khó", type: "adj/adv", sent: "He works very hard every day." },
+            { id: 19, en: "unusual", vi: "bất thường, không thường xuyên", type: "adj", sent: "Collecting coins is an unusual hobby." },
+            { id: 20, en: "friendly", vi: "thân thiện", type: "adj", sent: "The local people are very friendly." },
+            { id: 21, en: "neighborhood", vi: "khu vực lân cận", type: "n", sent: "My neighborhood is very quiet." },
+            { id: 22, en: "strange", vi: "lạ lẫm", type: "adj", sent: "That is a very strange habit." },
+            { id: 23, en: "create", vi: "tạo ra", type: "v", sent: "We create art in the classroom." },
+            { id: 24, en: "actually", vi: "thật ra", type: "adv", sent: "It is actually true that I love cooking." },
+            { id: 25, en: "common", vi: "phổ biến", type: "adj", sent: "Tet is a common holiday in Vietnam." },
+            { id: 26, en: "want", vi: "muốn", type: "v", sent: "I want to do my homework now." },
+            { id: 27, en: "teach", vi: "dạy dỗ", type: "v", sent: "The teacher teaches us many lessons." },
+            { id: 28, en: "help", vi: "giúp đỡ", type: "v", sent: "My friends help me with my work." },
+            { id: 29, en: "collect", vi: "thu thập", type: "v", sent: "I like to collect old coins." },
+            { id: 30, en: "collection", vi: "bộ sưu tập", type: "n", sent: "I have a big coin collection." },
+            { id: 31, en: "hobby", vi: "sở thích", type: "n", sent: "What is your favorite hobby?" },
+            { id: 32, en: "gardening", vi: "việc làm vườn", type: "n", sent: "Gardening is very relaxing." },
+            { id: 33, en: "do the gardening", vi: "làm vườn", type: "v", sent: "I do the gardening after school." },
+            { id: 34, en: "go jogging", vi: "đội chạy bộ", type: "v", sent: "I go jogging in the park every morning." },
+            { id: 35, en: "keep fit", vi: "giữ dáng", type: "v", sent: "Playing sports helps me keep fit." },
+            { id: 36, en: "wake up", vi: "thức dậy", type: "v", sent: "I wake up early at 6:00 AM." },
+            { id: 37, en: "habit", vi: "thói quen", type: "n", sent: "Reading is a very good habit." },
+            { id: 38, en: "regularly", vi: "đều đặn", type: "adv", sent: "I play football regularly." },
+            { id: 39, en: "leave", vi: "rời khỏi", type: "v", sent: "I leave my house at 7:30 AM." },
+            { id: 40, en: "different", vi: "khác biệt", type: "adj", sent: "Every hobby is different from others." },
+            { id: 41, en: "spend", vi: "dành (thời gian/tiền)", type: "v", sent: "I spend my time doing exercise." },
+            { id: 42, en: "fast", vi: "nhanh", type: "adj/adv", sent: "I do my homework very fast." },
+            { id: 43, en: "well", vi: "tốt", type: "adv", sent: "She speaks English very well." },
+            { id: 44, en: "interesting", vi: "thú vị", type: "adj", sent: "The movie is very interesting." },
+            { id: 45, en: "boring", vi: "nhàm chán", type: "adj", sent: "Sitting at home all day is boring." },
+            { id: 46, en: "popular", vi: "phổ biến", type: "adj", sent: "Online games are very popular now." },
+            { id: 47, en: "before", vi: "trước khi", type: "prep/adv", sent: "Wash your hands before meals." },
+            { id: 48, en: "after", vi: "sau khi", type: "prep/adv", sent: "I play sports after school." },
+            { id: 49, en: "real", vi: "thật", type: "adj", sent: "Is this a real diamond?" },
+            { id: 50, en: "person", vi: "một người", type: "n", sent: "A teacher is a person who helps you learn." },
+            { id: 51, en: "people", vi: "mọi người", type: "n", sent: "People are very friendly here." },
+            { id: 52, en: "unhappy", vi: "không hạnh phúc", type: "adj", sent: "He felt unhappy because he lost his pen." },
+            { id: 53, en: "creativity", vi: "sự sáng tạo", type: "n", sent: "Designing things requires a lot of creativity." },
+            { id: 54, en: "creator", vi: "người sáng tạo", type: "n", sent: "He is a content creator on YouTube." },
+            { id: 55, en: "a bit of", vi: "một chút", type: "phrase", sent: "I need a bit of water." },
+            { id: 56, en: "my", vi: "của tôi", type: "possessive", sent: "This is my pen." },
+            { id: 57, en: "your", vi: "của bạn", type: "possessive", sent: "Is this your house?" },
+            { id: 58, en: "his", vi: "của anh ấy", type: "possessive", sent: "He loves his collection." },
+            { id: 59, en: "her", vi: "của cô ấy", type: "possessive", sent: "She brushes her hair." },
+            { id: 60, en: "its", vi: "của nó", type: "possessive", sent: "The cat licked its paw." },
+            { id: 61, en: "our", vi: "của chúng tôi", type: "possessive", sent: "We love our neighborhood." },
+            { id: 62, en: "their", vi: "của họ", type: "possessive", sent: "They are playing in their garden." }
+        ];
+
+        const grammarData = [
+            { id: 1, title: "S + V + N", rule: "Ai - làm - cái gì", exp: "I (S) + build (V) + a house (N). <br> I do homework." },
+            { id: 2, title: "S + tobe + Adj", rule: "Miêu tả ai/cái gì thế nào", exp: "You (S) + are (tobe) + smart (adj). <br> Homework is hard." },
+            { id: 3, title: "S + tobe + N", rule: "Ai/cái gì là cái gì", exp: "Music (S) + is (tobe) + a hobby (N). <br> It is a table." },
+            { id: 4, title: "Possessive Adjectives", rule: "Tính từ sở hữu (My, Your, His...)", exp: "I -> my, You -> your, He -> his, She -> her, It -> its, We -> our, They -> their." },
+            { id: 5, title: "Adverbs (~ly)", rule: "Adj + ly = Adv (Làm thế nào)", exp: "I draw a painting **beautifully**. <br> She solves problems **creatively**." },
+            { id: 6, title: "Verb Patterns", rule: "Love/Like + V-ing | want + to V", exp: "I love **dancing**. I want **to do** homework." }
+        ];
+
+        // --- APP LOGIC ---
+        let currentTab = 'vocab';
+        let currentIndex = 0;
+        let currentMode = 'fill';
+        let isFlipped = false;
+
+        window.onload = function () {
+            document.getElementById('header-count').innerText = vocabData.length;
+            renderVocab();
+            renderGrammar();
+            updateFlashcard();
+            switchPracticeMode('fill');
+        };
+
+        function switchTab(tab) {
+            currentTab = tab;
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('tab-active'));
+            document.getElementById(`tab-${tab}`).classList.add('tab-active');
+            document.querySelectorAll('main > div').forEach(div => div.classList.add('hidden-section'));
+            document.getElementById(`section-${tab}`).classList.remove('hidden-section');
+        }
+
+        function renderVocab(filter = "") {
+            const grid = document.getElementById('vocab-grid');
+            grid.innerHTML = "";
+            const filtered = vocabData.filter(i => i.en.includes(filter) || i.vi.includes(filter));
+            filtered.forEach(item => {
+                const el = document.createElement('div');
+                el.className = "hobby-card p-4 fade-in";
+                el.innerHTML = `
+                    <div class="flex justify-between items-start mb-2">
+                        <span class="text-[10px] bg-slate-100 text-slate-500 px-2 py-0.5 rounded font-bold uppercase">${item.type}</span>
+                        <button onclick="speak('${item.en}')" class="text-slate-300 hover:text-sky-500 transition"><i class="fas fa-volume-up"></i></button>
+                    </div>
+                    <h3 class="text-lg font-bold text-slate-800">${item.en}</h3>
+                    <p class="text-sm text-sky-600 font-medium">${item.vi}</p>
+                    <p class="text-[11px] text-slate-400 italic mt-2">"${item.sent}"</p>
+                `;
+                grid.appendChild(el);
+            });
+        }
+        function filterVocab() { renderVocab(document.getElementById('searchInput').value.toLowerCase()); }
+
+        function updateFlashcard() {
+            const item = vocabData[currentIndex];
+            isFlipped = false;
+            document.getElementById('flashcard-inner').classList.remove('flipped');
+            document.getElementById('fc-index').innerText = `Term ${currentIndex + 1} / ${vocabData.length}`;
+            document.getElementById('fc-front-text').innerText = item.en;
+            document.getElementById('fc-back-text').innerText = item.vi;
+            document.getElementById('fc-back-type').innerText = item.type;
+            document.getElementById('fc-back-sent').innerText = item.sent;
+        }
+        function flipCard() { isFlipped = !isFlipped; document.getElementById('flashcard-inner').classList.toggle('flipped', isFlipped); }
+        function changeCard(dir) { currentIndex += dir; if (currentIndex < 0) currentIndex = vocabData.length - 1; if (currentIndex >= vocabData.length) currentIndex = 0; updateFlashcard(); }
+        function speakCurrentCard() { speak(vocabData[currentIndex].en); }
+
+        function renderGrammar() {
+            const container = document.getElementById('grammar-cards');
+            container.innerHTML = "";
+            grammarData.forEach(item => {
+                const el = document.createElement('div');
+                el.className = "p-4 border border-sky-50 rounded-xl hover:bg-sky-50 transition cursor-pointer";
+                el.innerHTML = `
+                    <h4 class="font-bold text-slate-700 text-sm mb-1">${item.title}</h4>
+                    <p class="text-xs text-sky-500 font-bold">${item.rule}</p>
+                `;
+                el.onclick = () => document.getElementById('structure-showcase').innerHTML = item.exp;
+                container.appendChild(el);
+            });
+        }
+
+        // Practice Mode Logic
+        function switchPracticeMode(mode) {
+            currentMode = mode;
+            document.querySelectorAll('.prac-sub-btn').forEach(btn => btn.classList.remove('active-prac', 'bg-sky-500', 'text-white'));
+            const activeBtn = Array.from(document.querySelectorAll('.prac-sub-btn')).find(b => b.textContent.toLowerCase().includes(mode));
+            if (activeBtn) { activeBtn.classList.add('active-prac', 'bg-sky-500', 'text-white'); }
+
+            const container = document.getElementById('practice-container');
+            container.innerHTML = "";
+
+            let questions = [];
+            if (mode === 'fill') {
+                questions = [
+                    { q: "Spelling: Sáng tạo - [ c_e_t_v_ ]", a: "creative" },
+                    { q: "Spelling: Thói quen - [ h_b_t ]", a: "habit" },
+                    { q: "Spelling: Một chút - [ a b_t o_ ]", a: "a bit of" },
+                    { q: "Spelling: Lạ lẫm - [ s_r_n_e ]", a: "strange" },
+                    { q: "Spelling: Phổ biến - [ c_m_o_ ]", a: "common" }
+                ];
+            } else if (mode === 'wf') {
+                questions = [
+                    { q: "He has a lot of (create) ______.", a: "creativity" },
+                    { q: "He is a content (create) ______ on YouTube.", a: "creator" },
+                    { q: "The birds sing (beautiful) ______.", a: "beautifully" },
+                    { q: "People in my neighborhood are (friend) ______.", a: "friendly" },
+                    { q: "He felt (happy) ______ because he lost his toy.", a: "unhappy" }
+                ];
+            } else if (mode === 'gram') {
+                questions = [
+                    { q: "Structure Identification: 'Music is a hobby.' - Is it (1) S-V-N, (2) S-be-adj, or (3) S-be-N?", a: "3" },
+                    { q: "Structure Identification: 'Homework is hard.' - Is it (1) S-V-N, (2) S-be-adj, or (3) S-be-N?", a: "2" },
+                    { q: "Possessive: She is brushing ______ (she) hair.", a: "her" },
+                    { q: "Possessive: We love ______ (we) neighborhood.", a: "our" },
+                    { q: "Possessive: The cat licked ______ (it) paw.", a: "its" },
+                    { q: "Person/People: Ten ______ (person) are in the room.", a: "people" }
+                ];
+            } else if (mode === 'translate') {
+                questions = [
+                    { q: "Sách của bạn là ở trên bàn. (Structure 2)", a: "your book is on the table" },
+                    { q: "Âm nhạc là một sở thích. (Structure 3)", a: "music is a hobby" },
+                    { q: "Mọi người thì rất tốt bụng. (Structure 2)", a: "people are very kind" },
+                    { q: "Tôi cần một chút nước. (Structure 1)", a: "i need a bit of water" }
+                ];
+            }
+
+            questions.forEach((item, idx) => {
+                const el = document.createElement('div');
+                el.className = "bg-white p-4 rounded-xl border border-slate-100 shadow-sm";
+                el.innerHTML = `
+                    <div class="text-xs font-bold text-slate-400 mb-2 uppercase">Quest ${idx + 1}</div>
+                    <div class="mb-3 text-slate-700 font-medium">${item.q}</div>
+                    <input type="text" data-ans="${item.a}" class="prac-input w-full p-3 rounded-lg border border-slate-200 focus:border-sky-500 outline-none transition" placeholder="Your answer...">
+                    <div class="feedback mt-2 text-xs font-bold italic h-4"></div>
+                `;
+                container.appendChild(el);
+            });
+        }
+
+        function checkPractice() {
+            let correct = 0;
+            const inputs = document.querySelectorAll('.prac-input');
+            inputs.forEach(input => {
+                const user = input.value.trim().toLowerCase();
+                const actual = input.getAttribute('data-ans').toLowerCase();
+                const feedback = input.nextElementSibling;
+                if (user === actual) {
+                    correct++;
+                    input.classList.add('correct-answer');
+                    feedback.innerText = "PASSED ✓";
+                    feedback.className = "feedback mt-2 text-xs font-bold italic text-green-600";
+                } else {
+                    input.classList.add('wrong-answer');
+                    feedback.innerText = `FAILED: ${actual}`;
+                    feedback.className = "feedback mt-2 text-xs font-bold italic text-red-600";
+                }
+            });
+            showToast(`Grade: ${correct} / ${inputs.length} Score!`);
+        }
+
+        function speak(text) { window.speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(text); u.lang = 'en-US'; window.speechSynthesis.speak(u); }
+        function showToast(msg) { const t = document.getElementById('toast'); t.innerText = msg; t.className = "show"; setTimeout(() => { t.className = ""; }, 3000); }
+        function resetApp() { location.reload(); }
+    </script>
+</body>
+
+</html>

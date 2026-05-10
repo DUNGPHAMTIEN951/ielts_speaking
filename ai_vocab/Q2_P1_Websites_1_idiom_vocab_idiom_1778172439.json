@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_1_idiom",
+  "vocab": [
+    {
+      "word": "bread and butter",
+      "ipa": "/ˌbred ənd ˈbʌt.ər/",
+      "meaning": "nguồn sống, phần thiết yếu hoặc hoạt động chính",
+      "example": "Professional networking sites like LinkedIn are my bread and butter when it comes to finding new career opportunities.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep your ear to the ground",
+      "ipa": "/kiːp jɔːr ɪər tuː ðə ɡraʊnd/",
+      "meaning": "luôn lắng nghe/theo dõi để nắm bắt các xu hướng hoặc tin tức mới nhất",
+      "example": "I visit tech blogs daily to keep my ear to the ground regarding the latest software developments.",
+      "type": "idiom"
+    },
+    {
+      "word": "a gold mine",
+      "ipa": "/ə ɡəʊld maɪn/",
+      "meaning": "một mỏ vàng (nơi chứa đựng rất nhiều thứ giá trị/thông tin bổ ích)",
+      "example": "Educational platforms like Coursera are a gold mine for anyone looking to upskill without a traditional degree.",
+      "type": "idiom"
+    },
+    {
+      "word": "cut to the chase",
+      "ipa": "/kʌt tuː ðə tʃeɪs/",
+      "meaning": "đi thẳng vào vấn đề (bỏ qua phần rườm rà)",
+      "example": "I prefer news sites that cut to the chase and provide concise summaries rather than long-winded editorials.",
+      "type": "idiom"
+    },
+    {
+      "word": "get your head around something",
+      "ipa": "/ɡet jɔːr hed əˈraʊnd ˈsʌm.θɪŋ/",
+      "meaning": "hiểu thấu đáo một vấn đề phức tạp",
+      "example": "I often go to specialized forums to help me get my head around complex coding problems.",
+      "type": "idiom"
+    },
+    {
+      "word": "the lion's share",
+      "ipa": "/ðə ˈlaɪ.ənz ʃeər/",
+      "meaning": "phần lớn nhất, phần trọng tâm",
+      "example": "The lion's share of my internet usage is dedicated to research portals and academic databases.",
+      "type": "idiom"
+    },
+    {
+      "word": "at the push of a button",
+      "ipa": "/æt ðə pʊʃ əv ə ˈbʌt.ən/",
+      "meaning": "vô cùng dễ dàng và nhanh chóng (chỉ bằng một nút bấm)",
+      "example": "E-commerce sites are incredibly convenient because you can have groceries delivered at the push of a button.",
+      "type": "idiom"
+    },
+    {
+      "word": "off the beaten track",
+      "ipa": "/ɒf ðə ˈbiː.tən træk/",
+      "meaning": "độc lạ, ít người biết đến (trong ngữ cảnh web: các trang web ngách)",
+      "example": "I enjoy browsing blogs that are a bit off the beaten track to find unique travel recommendations.",
+      "type": "idiom"
+    },
+    {
+      "word": "know the ropes",
+      "ipa": "/nəʊ ðə rəʊps/",
+      "meaning": "thông thạo, biết rõ cách thức hoạt động của cái gì đó",
+      "example": "Once you know the ropes of that trading website, the interface becomes much more intuitive to navigate.",
+      "type": "idiom"
+    },
+    {
+      "word": "food for thought",
+      "ipa": "/fuːd fɔːr θɔːt/",
+      "meaning": "điều gì đó gợi suy nghĩ, đáng để suy ngẫm",
+      "example": "I frequent philosophical websites because they always provide plenty of food for thought after a long day.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

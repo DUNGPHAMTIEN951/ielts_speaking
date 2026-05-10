@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_5_c1",
+  "vocab": [
+    {
+      "word": "alleviate the boredom",
+      "ipa": "/əˈliːvieɪt ðə ˈbɔːdəm/",
+      "meaning": "giảm bớt sự nhàm chán",
+      "example": "To alleviate the boredom of sitting in stationary traffic, I often listen to narrated short stories.",
+      "type": "collocation"
+    },
+    {
+      "word": "a snail's pace",
+      "ipa": "/ə sneɪlz peɪs/",
+      "meaning": "tốc độ chậm như sên",
+      "example": "When the cars are moving at a snail's pace, I find it's the perfect time to practice my mindfulness breathing.",
+      "type": "collocation"
+    },
+    {
+      "word": "keep one's cool",
+      "ipa": "/kiːp wʌnz kuːl/",
+      "meaning": "giữ bình tĩnh (không nổi nóng)",
+      "example": "It can be incredibly testing, but I always try to keep my cool instead of venting my frustration on the horn.",
+      "type": "collocation"
+    },
+    {
+      "word": "bumper-to-bumper traffic",
+      "ipa": "/ˈbʌmpə tə ˈbʌmpə(r) ˈtræfɪk/",
+      "meaning": "giao thông dày đặc (xe nối đuôi sát nhau)",
+      "example": "During bumper-to-bumper traffic, I usually switch on the radio to stay updated on the latest news bulletins.",
+      "type": "collocation"
+    },
+    {
+      "word": "kill time",
+      "ipa": "/kɪl taɪm/",
+      "meaning": "giết thời gian (làm gì đó cho mau hết giờ)",
+      "example": "I tend to kill time by observing the interesting architecture or people around me while the road is blocked.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

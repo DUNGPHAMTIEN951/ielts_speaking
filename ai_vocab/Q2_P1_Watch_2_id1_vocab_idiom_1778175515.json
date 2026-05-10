@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Watch_2_id1",
+  "vocab": [
+    {
+      "word": "cost an arm and a leg",
+      "ipa": "/kɒst ən ɑːm ənd ə leɡ/",
+      "meaning": "rất đắt đỏ, tốn rất nhiều tiền",
+      "example": "My father surprised me with a luxury Swiss watch that must have cost an arm and a leg, but he insisted I deserved it for my promotion.",
+      "type": "idiom"
+    },
+    {
+      "word": "passed down through the ranks",
+      "ipa": "/pɑːst daʊn θruː ðə ræŋks/",
+      "meaning": "được truyền lại qua các thế hệ hoặc cấp bậc trong gia đình",
+      "example": "I was gifted a gold pocket watch that has been passed down through the ranks of my family, originally belonging to my great-grandfather.",
+      "type": "idiom"
+    },
+    {
+      "word": "worth its weight in gold",
+      "ipa": "/wɜːθ ɪts weɪt ɪn ɡəʊld/",
+      "meaning": "vô cùng hữu ích hoặc cực kỳ quý giá",
+      "example": "The smartwatch my sister gave me is worth its weight in gold because it helps me stay organized and track my health throughout the day.",
+      "type": "idiom"
+    },
+    {
+      "word": "to be over the moon",
+      "ipa": "/tu bi ˈəʊvə ðə muːn/",
+      "meaning": "vô cùng sung sướng, hạnh phúc",
+      "example": "I was absolutely over the moon when I unwrapped a sleek, limited-edition watch on my twenty-first birthday.",
+      "type": "idiom"
+    },
+    {
+      "word": "stand the test of time",
+      "ipa": "/stænd ðə test əv taɪm/",
+      "meaning": "trường tồn với thời gian, bền vững qua năm tháng",
+      "example": "The classic leather watch I received years ago has really stood the test of time; it still looks elegant and functions perfectly.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

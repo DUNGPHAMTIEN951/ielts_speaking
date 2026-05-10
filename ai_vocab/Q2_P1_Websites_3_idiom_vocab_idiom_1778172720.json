@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_3_idiom",
+  "vocab": [
+    {
+      "word": "a sea change",
+      "ipa": "/ə siː tʃeɪndʒ/",
+      "meaning": "một sự thay đổi hoàn toàn/đột phá",
+      "example": "There has been a sea change in how news websites deliver content, moving from static articles to immersive, interactive multimedia.",
+      "type": "idiom"
+    },
+    {
+      "word": "bells and whistles",
+      "ipa": "/belz ənd ˈwɪslz/",
+      "meaning": "các tính năng phụ kiện/trang trí thêm cho hấp dẫn",
+      "example": "Many sites I visit have added all sorts of bells and whistles like AI chatbots and animated interfaces that weren't there a year ago.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the twinkling of an eye",
+      "ipa": "/ɪn ðə ˈtwɪŋklɪŋ əv ən aɪ/",
+      "meaning": "trong nháy mắt/cực kỳ nhanh",
+      "example": "Modern websites now load in the twinkling of an eye thanks to better optimization and faster servers.",
+      "type": "idiom"
+    },
+    {
+      "word": "clutter up",
+      "ipa": "/ˈklʌtər ʌp/",
+      "meaning": "làm cho bừa bộn/lộn xộn",
+      "example": "I've noticed that many free platforms tend to clutter up their homepages with too many intrusive advertisements lately.",
+      "type": "idiom"
+    },
+    {
+      "word": "get with the program",
+      "ipa": "/ɡet wɪð ðə ˈprəʊɡræm/",
+      "meaning": "bắt kịp xu hướng/thay đổi để phù hợp",
+      "example": "Older educational sites are finally starting to get with the program by introducing mobile-friendly versions of their portals.",
+      "type": "idiom"
+    },
+    {
+      "word": "move with the times",
+      "ipa": "/muːv wɪð ðə taɪmz/",
+      "meaning": "thay đổi để hợp thời/không bị lạc hậu",
+      "example": "To survive the competition, even traditional encyclopedias have had to move with the times and embrace a social-media-style layout.",
+      "type": "idiom"
+    },
+    {
+      "word": "the icing on the cake",
+      "ipa": "/ðə ˈaɪsɪŋ ɒn ðə keɪk/",
+      "meaning": "phần bổ sung làm mọi thứ tốt đẹp hơn nữa",
+      "example": "The site was already informative, but the addition of a 'dark mode' feature was really the icing on the cake for me.",
+      "type": "idiom"
+    },
+    {
+      "word": "give something a facelift",
+      "ipa": "/ɡɪv ˈsʌmθɪŋ ə ˈfeɪslɪft/",
+      "meaning": "tân trang/thay đổi diện mạo bên ngoài",
+      "example": "The design team decided to give the entire interface a facelift, replacing the dull colors with a more vibrant palette.",
+      "type": "idiom"
+    },
+    {
+      "word": "par for the course",
+      "ipa": "/pɑː fə ðə kɔːs/",
+      "meaning": "điều bình thường/hiển nhiên thường thấy",
+      "example": "Frequent layout changes are now par for the course in the world of social media as platforms fight for our attention.",
+      "type": "idiom"
+    },
+    {
+      "word": "the best of both worlds",
+      "ipa": "/ðə best əv bəʊθ wɜːldz/",
+      "meaning": "vẹn cả đôi đường/kết hợp được ưu điểm của cả hai",
+      "example": "The new update offers the best of both worlds: a minimalist design that still manages to be incredibly feature-rich.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

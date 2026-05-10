@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Websites_1_v2",
+  "vocab": [
+    {
+      "word": "cluttered with ads",
+      "ipa": "/ˈklʌtəd wɪð ædz/",
+      "meaning": "bị lấp đầy/hỗn loạn bởi quảng cáo",
+      "example": "I tend to avoid sites that are cluttered with ads, as they significantly detract from the overall reading experience.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "stumble upon",
+      "ipa": "/ˈstʌmbl əˈpɒn/",
+      "meaning": "tình cờ tìm thấy/bắt gặp",
+      "example": "I often browse forums like Reddit where I can stumble upon fascinating niche communities that I never knew existed.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "seamless navigation",
+      "ipa": "/ˈsiːmləs ˌnævɪˈɡeɪʃn/",
+      "meaning": "sự điều hướng mượt mà (dễ dàng di chuyển giữa các trang)",
+      "example": "The reason I frequent that e-commerce platform is its seamless navigation, which makes the checkout process incredibly efficient.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "fountain of knowledge",
+      "ipa": "/ˈfaʊntən əv ˈnɒlɪdʒ/",
+      "meaning": "nguồn tri thức vô tận",
+      "example": "For a lifelong learner like me, Wikipedia remains a fountain of knowledge for a quick deep dive into any subject.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "behind a paywall",
+      "ipa": "/bɪˈhaɪnd ə ˈpeɪwɔːl/",
+      "meaning": "bị khóa bởi bức tường phí (yêu cầu trả tiền mới xem được nội dung)",
+      "example": "It’s frustrating when high-quality journalism is hidden behind a paywall, though I understand the need for sustainable funding.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

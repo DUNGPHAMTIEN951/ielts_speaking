@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Views_4_coll",
+  "vocab": [
+    {
+      "word": "behold the panorama",
+      "ipa": "/bɪˈhəʊld ðə ˌpænəˈrɑːmə/",
+      "meaning": "ngắm nhìn toàn cảnh rộng lớn",
+      "example": "We hiked to the peak just before dawn to behold the panorama of the sleeping city below.",
+      "type": "collocation"
+    },
+    {
+      "word": "rugged coastline",
+      "ipa": "/ˈrʌɡɪd ˈkəʊstlaɪn/",
+      "meaning": "đường bờ biển gồ ghề, đá lởm chởm",
+      "example": "The most unforgettable view I've encountered was the rugged coastline of Ireland, where massive cliffs meet the Atlantic.",
+      "type": "collocation"
+    },
+    {
+      "word": "verdant valleys",
+      "ipa": "/ˈvɜːrdnt ˈvæliz/",
+      "meaning": "những thung lũng xanh tươi mỡ màng",
+      "example": "Looking down from the cable car, I saw an endless stretch of verdant valleys dotted with small farmhouses.",
+      "type": "collocation"
+    },
+    {
+      "word": "crystalline waters",
+      "ipa": "/ˈkrɪstəlaɪn ˈwɔːtərz/",
+      "meaning": "vùng nước trong suốt như pha lê",
+      "example": "The island was surrounded by crystalline waters that shifted through every imaginable shade of blue.",
+      "type": "collocation"
+    },
+    {
+      "word": "a sense of serenity",
+      "ipa": "/ə sens əv səˈrenəti/",
+      "meaning": "một cảm giác bình yên, tĩnh lặng",
+      "example": "The mountain lake was so still that it created a profound sense of serenity that I still recall vividly.",
+      "type": "collocation"
+    },
+    {
+      "word": "snow-capped peaks",
+      "ipa": "/snəʊ kæpt piːks/",
+      "meaning": "những đỉnh núi phủ tuyết trắng",
+      "example": "The sunrise hitting the snow-capped peaks turned the entire mountain range into a brilliant shade of pink.",
+      "type": "collocation"
+    },
+    {
+      "word": "visual feast",
+      "ipa": "/ˈvɪʒuəl fiːst/",
+      "meaning": "một bữa tiệc thị giác (cảnh tượng cực kỳ đẹp)",
+      "example": "The autumn forest was a true visual feast, with leaves transitioning from vibrant gold to deep crimson.",
+      "type": "collocation"
+    },
+    {
+      "word": "unobstructed view",
+      "ipa": "/ˌʌnəbˈstrʌktɪd vjuː/",
+      "meaning": "tầm nhìn không bị che khuất",
+      "example": "From the observation deck, we had a completely unobstructed view of the horizon where the sea meets the sky.",
+      "type": "collocation"
+    },
+    {
+      "word": "majestic landscape",
+      "ipa": "/məˈdʒestɪk ˈlændskeɪp/",
+      "meaning": "phong cảnh hùng vĩ, uy nghiêm",
+      "example": "The sheer scale of the majestic landscape in the Grand Canyon makes you realize how small we truly are.",
+      "type": "collocation"
+    },
+    {
+      "word": "atmospheric conditions",
+      "ipa": "/ˌætməsˈferɪk kənˈdɪʃnz/",
+      "meaning": "điều kiện khí quyển (sương mù, mây, ánh sáng...)",
+      "example": "Due to the unique atmospheric conditions that morning, the valley was shrouded in a mystical, swirling mist.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

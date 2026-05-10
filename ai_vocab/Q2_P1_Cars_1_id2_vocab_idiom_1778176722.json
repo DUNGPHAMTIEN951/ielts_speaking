@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_1_id2",
+  "vocab": [
+    {
+      "word": "a reflection of one's personality",
+      "ipa": "/ə rɪˈflekʃn əv wʌnz ˌpɜːsəˈnæləti/",
+      "meaning": "sự phản chiếu tính cách của ai đó",
+      "example": "I believe a car's shade is often a reflection of one’s personality, with bold colors signaling a more adventurous spirit.",
+      "type": "idiom"
+    },
+    {
+      "word": "look like a million dollars",
+      "ipa": "/lʊk laɪk ə ˈmɪljən ˈdɒləz/",
+      "meaning": "trông rất lộng lẫy, sang trọng và đắt tiền",
+      "example": "In my opinion, a classic sports car in cherry red looks like a million dollars; it’s all about the prestige it conveys.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep a low profile",
+      "ipa": "/kiːp ə ləʊ ˈprəʊfaɪl/",
+      "meaning": "giữ thái độ kín tiếng, không muốn bị chú ý",
+      "example": "Most people opt for silver or grey because they prefer to keep a low profile while navigating the busy city streets.",
+      "type": "idiom"
+    },
+    {
+      "word": "the name of the game",
+      "ipa": "/ðə neɪm əv ðə ɡeɪm/",
+      "meaning": "khía cạnh quan trọng nhất của một vấn đề",
+      "example": "When it comes to resale value, sticking to neutral colors is the name of the game, as they appeal to the broadest audience.",
+      "type": "idiom"
+    },
+    {
+      "word": "horses for courses",
+      "ipa": "/ˈhɔːsɪz fə ˈkɔːsɪz/",
+      "meaning": "mỗi người/vật đều có những lựa chọn phù hợp riêng",
+      "example": "It’s really horses for courses; while a business executive might want a black sedan, a younger driver might prefer something more flamboyant.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

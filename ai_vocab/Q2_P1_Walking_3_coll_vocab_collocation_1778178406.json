@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Walking_3_coll",
+  "vocab": [
+    {
+      "word": "uninterrupted tranquility",
+      "ipa": "/ˌʌn.ɪn.təˈrʌp.tɪd træŋˈkwɪl.ə.ti/",
+      "meaning": "sự yên tĩnh không bị gián đoạn",
+      "example": "Unlike the bustling city streets, parks offer uninterrupted tranquility for those who need to clear their heads.",
+      "type": "collocation"
+    },
+    {
+      "word": "botanical diversity",
+      "ipa": "/bəˈtæn.ɪ.kəl daɪˈvɜː.sə.ti/",
+      "meaning": "sự đa dạng về thực vật",
+      "example": "Many people enjoy walking in parks to admire the botanical diversity, from exotic flowers to ancient oak trees.",
+      "type": "collocation"
+    },
+    {
+      "word": "alleviate psychological strain",
+      "ipa": "/əˈliː.vi.eɪt ˌsaɪ.kəˈlɒdʒ.ɪ.kəl streɪn/",
+      "meaning": "giảm bớt căng thẳng tâm lý",
+      "example": "Strolling through green spaces is a proven way to alleviate psychological strain after a high-pressure day at work.",
+      "type": "collocation"
+    },
+    {
+      "word": "verdant surroundings",
+      "ipa": "/ˈvɜː.dənt səˈraʊn.dɪŋz/",
+      "meaning": "môi trường xung quanh xanh ngắt/tươi tốt",
+      "example": "Walking amidst verdant surroundings provides a sensory experience that concrete environments simply cannot match.",
+      "type": "collocation"
+    },
+    {
+      "word": "foster social cohesion",
+      "ipa": "/ˈfɒs.tər ˈsəʊ.ʃəl kəʊˈhiː.ʒən/",
+      "meaning": "thúc đẩy sự gắn kết xã hội",
+      "example": "Parks act as a neutral ground that can foster social cohesion by bringing neighbors together in a relaxed setting.",
+      "type": "collocation"
+    },
+    {
+      "word": "low-impact exercise",
+      "ipa": "/ləʊ ˈɪm.pækt ˈek.sə.saɪz/",
+      "meaning": "bài tập thể dục tác động thấp (nhẹ nhàng cho khớp)",
+      "example": "The elderly often prefer parks because the soft pathways provide an ideal setting for low-impact exercise.",
+      "type": "collocation"
+    },
+    {
+      "word": "escape the urban sprawl",
+      "ipa": "/ɪˈskeɪp ðə ˈɜː.bən sprɔːl/",
+      "meaning": "thoát khỏi sự mở rộng đô thị (nghĩa bóng: thoát khỏi thành phố ngột ngạt)",
+      "example": "People head to the park to escape the urban sprawl and reconnect with a more natural pace of life.",
+      "type": "collocation"
+    },
+    {
+      "word": "serene ambiance",
+      "ipa": "/səˈriːn ˈæm.bi.əns/",
+      "meaning": "bầu không khí thanh bình",
+      "example": "The serene ambiance of a park at dawn is perfect for meditation or deep reflection while walking.",
+      "type": "collocation"
+    },
+    {
+      "word": "mitigate environmental stressors",
+      "ipa": "/ˈmɪt.ɪ.ɡeɪt ɪn.vaɪ.rənˈmen.təl ˈstres.ərz/",
+      "meaning": "giảm thiểu các yếu tố gây căng thẳng từ môi trường (tiếng ồn, bụi bặm)",
+      "example": "Public gardens help mitigate environmental stressors by filtering noise pollution and providing cleaner air for pedestrians.",
+      "type": "collocation"
+    },
+    {
+      "word": "recreational infrastructure",
+      "ipa": "/ˌrek.riˈeɪ.ʃən.əl ˈɪn.frəˌstrʌk.tʃər/",
+      "meaning": "cơ sở hạ tầng phục vụ giải trí",
+      "example": "High-quality recreational infrastructure, such as well-maintained trails and benches, encourages more frequent park visits.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

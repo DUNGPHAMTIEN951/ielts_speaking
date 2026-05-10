@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Watch_1_id1",
+  "vocab": [
+    {
+      "word": "a slave to time",
+      "ipa": "/ə sleɪv tuː taɪm/",
+      "meaning": "người luôn bị ám ảnh hoặc bị chi phối quá mức bởi giờ giấc",
+      "example": "I try not to be a slave to time, so I often leave my watch at home during the weekends to truly relax.",
+      "type": "idiom"
+    },
+    {
+      "word": "stand the test of time",
+      "ipa": "/stænd ðə test əv taɪm/",
+      "meaning": "trường tồn với thời gian, không bị lỗi thời",
+      "example": "I prefer mechanical watches because they are built to stand the test of time, unlike smartwatches that become obsolete in a few years.",
+      "type": "idiom"
+    },
+    {
+      "word": "cost a king's ransom",
+      "ipa": "/kɒst ə kɪŋz ˈræn.səm/",
+      "meaning": "cực kỳ đắt đỏ, tốn một gia tài",
+      "example": "While some luxury timepieces cost a king's ransom, I believe you can still find a stylish and reliable watch without breaking the bank.",
+      "type": "idiom"
+    },
+    {
+      "word": "like clockwork",
+      "ipa": "/laɪk ˈklɒk.wɜːk/",
+      "meaning": "đều đặn và chuẩn xác như một cỗ máy",
+      "example": "Wearing a watch helps me manage my daily schedule like clockwork, ensuring I never miss a single deadline.",
+      "type": "idiom"
+    },
+    {
+      "word": "all the bells and whistles",
+      "ipa": "/ɔːl ðə belz ənd ˈwɪs.əlz/",
+      "meaning": "đầy đủ các tính năng phụ trợ hiện đại (thường dùng cho smartwatch)",
+      "example": "I'm not a fan of those high-tech watches with all the bells and whistles; I much prefer a simple, elegant analog face.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

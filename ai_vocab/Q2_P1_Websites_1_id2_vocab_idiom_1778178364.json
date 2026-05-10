@@ -1,0 +1,40 @@
+{
+  "id": "Q2_P1_Websites_1_id2",
+  "vocab": [
+    {
+      "word": "a hop, skip and a jump",
+      "ipa": "/ə hɒp skɪp ənd ə dʒʌmp/",
+      "meaning": "khoảng cách rất gần (dễ dàng truy cập/chuyển đổi)",
+      "example": "With high-speed internet, any information I need is just a hop, skip and a jump away across various websites.",
+      "type": "idiom"
+    },
+    {
+      "word": "hit the nail on the head",
+      "ipa": "/hɪt ðə neɪl ɒn ðə hed/",
+      "meaning": "nói trúng phóc/đáp ứng chính xác (nhu cầu tìm kiếm)",
+      "example": "I love visiting specialized forums because the experts there always hit the nail on the head when answering my technical queries.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep one's finger on the pulse",
+      "ipa": "/kiːp wʌnz ˈfɪŋɡə(r) ɒn ðə pʌls/",
+      "meaning": "I regularly browse social media sites to keep my finger on the pulse of the latest global trends and viral news.",
+      "type": "idiom"
+    },
+    {
+      "word": "down the rabbit hole",
+      "ipa": "/daʊn ðə ˈræbɪt həʊl/",
+      "meaning": "sa đà vào một mê cung thông tin/việc gì đó tốn thời gian",
+      "example": "I often visit YouTube for a quick tutorial, but I usually end up going down the rabbit hole and watching videos for hours.",
+      "type": "idiom"
+    },
+    {
+      "word": "get one's fill of",
+      "ipa": "/ɡet wʌnz fɪl əv/",
+      "meaning": "thưởng thức/thu nhận đủ mức mình muốn",
+      "example": "I frequently visit streaming websites to get my fill of international documentaries and indie films.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

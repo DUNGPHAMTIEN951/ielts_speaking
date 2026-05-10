@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Childhood_activities_2_coll",
+  "vocab": [
+    {
+      "word": "uninhibited play",
+      "ipa": "/ˌʌnɪnˈhɪbɪtɪd pleɪ/",
+      "meaning": "vui chơi một cách tự do, không gò bó",
+      "example": "My weekends were filled with uninhibited play, running through the fields without a care in the world.",
+      "type": "collocation"
+    },
+    {
+      "word": "creative spark",
+      "ipa": "/kriˈeɪtɪv spɑːk/",
+      "meaning": "nguồn cảm hứng sáng tạo",
+      "example": "I found my creative spark early on through finger painting and building sandcastles.",
+      "type": "collocation"
+    },
+    {
+      "word": "whisk away",
+      "ipa": "/wɪsk əˈweɪ/",
+      "meaning": "đưa ai đó đi nhanh chóng (đến thế giới khác/nơi khác)",
+      "example": "Reading adventure stories would whisk me away to magical realms and far-off galaxies.",
+      "type": "collocation"
+    },
+    {
+      "word": "a sense of wonderment",
+      "ipa": "/ə sens əv ˈwʌndəmənt/",
+      "meaning": "một cảm giác kinh ngạc và tò mò",
+      "example": "Stargazing on clear nights always instilled in me a profound sense of wonderment about the universe.",
+      "type": "collocation"
+    },
+    {
+      "word": "communal bonding",
+      "ipa": "/kəˈmjuːnl ˈbɒndɪŋ/",
+      "meaning": "sự gắn kết cộng đồng",
+      "example": "Playing neighborhood football matches was less about the sport and more about communal bonding.",
+      "type": "collocation"
+    },
+    {
+      "word": "hand-eye coordination",
+      "ipa": "/hænd aɪ kəʊˌɔːdɪˈneɪʃn/",
+      "meaning": "sự phối hợp giữa tay và mắt",
+      "example": "I was obsessed with arcade games, which significantly sharpened my hand-eye coordination.",
+      "type": "collocation"
+    },
+    {
+      "word": "peer interaction",
+      "ipa": "/pɪə(r) ˌɪntərˈækʃn/",
+      "meaning": "sự tương tác với bạn bè cùng lứa",
+      "example": "Building secret forts in the backyard provided a perfect setting for meaningful peer interaction.",
+      "type": "collocation"
+    },
+    {
+      "word": "boundless energy",
+      "ipa": "/ˈbaʊndləs ˈenədʒi/",
+      "meaning": "năng lượng vô hạn/dồi dào",
+      "example": "I had boundless energy as a toddler, constantly jumping on the trampoline until dusk.",
+      "type": "collocation"
+    },
+    {
+      "word": "intellectual curiosity",
+      "ipa": "/ˌɪntəˈlektʃuəl ˌkjʊəriˈɒsəti/",
+      "meaning": "sự tò mò về trí tuệ/kiến thức",
+      "example": "Solving complex riddles with my father was a favorite activity that fed my intellectual curiosity.",
+      "type": "collocation"
+    },
+    {
+      "word": "escapism",
+      "ipa": "/ɪˈskeɪpɪzəm/",
+      "meaning": "khuynh hướng thoát ly thực tế (tìm niềm vui trong tưởng tượng)",
+      "example": "Video games served as a form of pure escapism for me after a long day of elementary school.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

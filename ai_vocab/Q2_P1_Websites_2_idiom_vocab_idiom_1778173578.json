@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Websites_2_idiom",
+  "vocab": [
+    {
+      "word": "be a cut above the rest",
+      "ipa": "/bi ə kʌt əˈbʌv ðə rest/",
+      "meaning": "vượt trội hơn hẳn so với những cái còn lại",
+      "example": "In terms of content quality, this educational site is a cut above the rest because of its expert-led tutorials.",
+      "type": "idiom"
+    },
+    {
+      "word": "broaden the mind",
+      "ipa": "/ˈbrɔː.dən ðə maɪnd/",
+      "meaning": "mở mang trí tuệ/đầu óc",
+      "example": "Visiting National Geographic's website truly broadens the mind with its stunning global photography and cultural insights.",
+      "type": "idiom"
+    },
+    {
+      "word": "the name of the game",
+      "ipa": "/ðə neɪm əv ðə ɡeɪm/",
+      "meaning": "khía cạnh quan trọng nhất/điều cốt yếu",
+      "example": "On Wikipedia, accuracy is the name of the game, which is why I always check their cited sources.",
+      "type": "idiom"
+    },
+    {
+      "word": "get to grips with",
+      "ipa": "/ɡet tuː ɡrɪps wɪð/",
+      "meaning": "bắt đầu hiểu hoặc giải quyết một vấn đề khó khăn",
+      "example": "I frequently use Stack Overflow to get to grips with complex coding problems that I encounter at work.",
+      "type": "idiom"
+    },
+    {
+      "word": "keep one's wits about one",
+      "ipa": "/kiːp wʌnz wɪts əˈbaʊt wʌn/",
+      "meaning": "giữ được sự tỉnh táo/cẩn trọng (để nhận biết thông tin giả)",
+      "example": "Even on my favorite news site, I have to keep my wits about me to distinguish between factual reporting and opinion pieces.",
+      "type": "idiom"
+    },
+    {
+      "word": "have the world at one's feet",
+      "ipa": "/hæv ðə wɜːld æt wʌnz fiːt/",
+      "meaning": "có cả thế giới trong tầm tay (quyền tiếp cận mọi thứ)",
+      "example": "With high-speed internet and Google, I feel like I have the world at my feet whenever I need to research a new topic.",
+      "type": "idiom"
+    },
+    {
+      "word": "a feast for the eyes",
+      "ipa": "/ə fiːst fɔːr ði aɪz/",
+      "meaning": "một bữa tiệc mãn nhãn cho đôi mắt",
+      "example": "Pinterest is an absolute feast for the eyes, especially when I’m looking for interior design inspiration.",
+      "type": "idiom"
+    },
+    {
+      "word": "know something inside out",
+      "ipa": "/nəʊ ˈsʌm.θɪŋ ɪnˈsaɪd aʊt/",
+      "meaning": "hiểu rõ điều gì đó một cách tường tận, chân tơ kẽ tóc",
+      "example": "After years of visiting this tech blog, I feel like I know the latest industry trends inside out.",
+      "type": "idiom"
+    },
+    {
+      "word": "stand the test of time",
+      "ipa": "/stænd ðə test əv taɪm/",
+      "meaning": "trường tồn với thời gian (vẫn hữu ích sau nhiều năm)",
+      "example": "Reddit has stood the test of time as a platform because of its diverse and highly active user base.",
+      "type": "idiom"
+    },
+    {
+      "word": "across the board",
+      "ipa": "/əˈkrɒs ðə bɔːd/",
+      "meaning": "toàn diện, áp dụng cho mọi khía cạnh",
+      "example": "The quality of articles on that science journal is excellent across the board, from biology to physics.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

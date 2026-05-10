@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Watch_1_id1",
+  "vocab": [
+    {
+      "word": "cost a pretty penny",
+      "ipa": "/kɒst ə ˈprɪti ˈpɛni/",
+      "meaning": "tốn rất nhiều tiền",
+      "example": "My luxury timepiece cost a pretty penny, but its durability and precision make it worth every cent.",
+      "type": "idiom"
+    },
+    {
+      "word": "dressed to the nines",
+      "ipa": "/drɛst tə ðə naɪnz/",
+      "meaning": "ăn mặc chỉnh tề, lộng lẫy",
+      "example": "I usually reserve my gold watch for special occasions when I need to be dressed to the nines.",
+      "type": "idiom"
+    },
+    {
+      "word": "a whale of a time",
+      "ipa": "/ə weɪl əv ə taɪm/",
+      "meaning": "có một khoảng thời gian cực kỳ vui vẻ",
+      "example": "I don't wear a watch when I'm on vacation because I just want to have a whale of a time without worrying about the schedule.",
+      "type": "idiom"
+    },
+    {
+      "word": "in the nick of time",
+      "ipa": "/ɪn ðə nɪk əv taɪm/",
+      "meaning": "vừa kịp lúc (sát nút)",
+      "example": "Having a watch on my wrist helps me arrive at my lectures in the nick of time, avoiding any late entries.",
+      "type": "idiom"
+    },
+    {
+      "word": "all bells and whistles",
+      "ipa": "/ɔːl bɛlz ənd ˈwɪslz/",
+      "meaning": "đầy đủ các tính năng hiện đại (đôi khi không cần thiết)",
+      "example": "I'm not a fan of smartwatches with all the bells and whistles; I prefer the simplicity of a standard clock face.",
+      "type": "idiom"
+    }
+  ],
+  "type": "idiom"
+}

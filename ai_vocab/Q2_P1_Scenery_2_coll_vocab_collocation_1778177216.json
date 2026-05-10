@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Scenery_2_coll",
+  "vocab": [
+    {
+      "word": "craggy peaks",
+      "ipa": "/ˈkræɡi piːks/",
+      "meaning": "những đỉnh núi hiểm trở, nhô cao đầy đá",
+      "example": "There is something profoundly humbling about standing beneath craggy peaks that have stood for millennia.",
+      "type": "collocation"
+    },
+    {
+      "word": "crystalline waters",
+      "ipa": "/ˈkrɪstəlaɪn ˈwɔːtərz/",
+      "meaning": "làn nước trong vắt như pha lê",
+      "example": "I’m a sea lover at heart, especially when it involves diving into the crystalline waters of a secluded bay.",
+      "type": "collocation"
+    },
+    {
+      "word": "a sense of solitude",
+      "ipa": "/ə sens əv ˈsɒlɪtjuːd/",
+      "meaning": "cảm giác biệt lập, yên bình một mình",
+      "example": "I prefer the mountains because they offer a sense of solitude that is hard to find on a crowded beach.",
+      "type": "collocation"
+    },
+    {
+      "word": "unobstructed vistas",
+      "ipa": "/ˌʌnəbˈstrʌktɪd ˈvɪstəz/",
+      "meaning": "tầm nhìn không bị che khuất",
+      "example": "From the summit, you are rewarded with unobstructed vistas of the entire valley below.",
+      "type": "collocation"
+    },
+    {
+      "word": "marine biodiversity",
+      "ipa": "/məˈriːn ˌbaɪəʊdaɪˈvɜːsəti/",
+      "meaning": "đa dạng sinh học biển",
+      "example": "I am fascinated by the sea because of the rich marine biodiversity one can explore while snorkeling.",
+      "type": "collocation"
+    },
+    {
+      "word": "steep inclines",
+      "ipa": "/stiːp ɪnˈklaɪnz/",
+      "meaning": "những dốc đứng",
+      "example": "Hiking up steep inclines is exhausting, but the fresh mountain air makes every step worthwhile.",
+      "type": "collocation"
+    },
+    {
+      "word": "intertidal zone",
+      "ipa": "/ˌɪntəˈtaɪdl zəʊn/",
+      "meaning": "vùng liên triều (nơi tiếp giáp giữa cạn và nước)",
+      "example": "I love wandering through the intertidal zone, discovering tiny creatures left behind by the receding tide.",
+      "type": "collocation"
+    },
+    {
+      "word": "lush sub-tropical flora",
+      "ipa": "/lʌʃ sʌb ˈtrɒpɪkl ˈflɔːrə/",
+      "meaning": "thảm thực vật cận nhiệt đới tươi tốt",
+      "example": "The base of these mountains is often blanketed in lush sub-tropical flora, creating a vibrant green canopy.",
+      "type": "collocation"
+    },
+    {
+      "word": "tidal rhythms",
+      "ipa": "/ˈtaɪdl ˈrɪðəmz/",
+      "meaning": "nhịp điệu của thủy triều",
+      "example": "Living by the sea allows you to synchronize your life with the natural tidal rhythms of the ocean.",
+      "type": "collocation"
+    },
+    {
+      "word": "awe-inspiring altitude",
+      "ipa": "/ɔː ɪnˈspaɪərɪŋ ˈæltɪtjuːd/",
+      "meaning": "độ cao đầy kinh ngạc/ấn tượng",
+      "example": "I find the awe-inspiring altitude of the Himalayas to be much more spiritual than any coastal destination.",
+      "type": "collocation"
+    }
+  ],
+  "type": "collocation"
+}

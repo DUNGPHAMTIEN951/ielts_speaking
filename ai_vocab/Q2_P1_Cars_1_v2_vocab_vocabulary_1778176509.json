@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Cars_1_v2",
+  "vocab": [
+    {
+      "word": "thermal absorption",
+      "ipa": "/ˈθɜːml əbˈzɔːpʃn/",
+      "meaning": "sự hấp thụ nhiệt",
+      "example": "In tropical climates, car color is vital for thermal absorption; lighter shades keep the interior significantly cooler.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "understated elegance",
+      "ipa": "/ˌʌndəˈsteɪtɪd ˈelɪɡəns/",
+      "meaning": "vẻ đẹp thanh lịch, không phô trương",
+      "example": "I prefer deep navy or charcoal grey because they exude a sense of understated elegance without being too flashy.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "safety implications",
+      "ipa": "/ˈseɪfti ˌɪmplɪˈkeɪʃnz/",
+      "meaning": "những ảnh hưởng/hệ quả đối với sự an toàn",
+      "example": "The color choice has serious safety implications, as high-visibility tones are less likely to be involved in collisions at dusk.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "maintenance-intensive",
+      "ipa": "/ˈmeɪntənəns ɪnˈtensɪv/",
+      "meaning": "đòi hỏi bảo trì/vệ sinh kỹ lưỡng",
+      "example": "While a jet-black finish looks stunning, it is incredibly maintenance-intensive because every minor scratch becomes visible.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "consumer psychology",
+      "ipa": "/kənˈsjuːmə saɪˈkɒlədʒi/",
+      "meaning": "tâm lý học người tiêu dùng",
+      "example": "Manufacturers invest heavily in consumer psychology to determine which seasonal palettes will drive the most sales.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

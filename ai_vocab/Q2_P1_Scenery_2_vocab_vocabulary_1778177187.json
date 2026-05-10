@@ -1,0 +1,76 @@
+{
+  "id": "Q2_P1_Scenery_2",
+  "vocab": [
+    {
+      "word": "snow-capped peaks",
+      "ipa": "/snəʊ kæpt piːks/",
+      "meaning": "những đỉnh núi phủ đầy tuyết",
+      "example": "I am particularly drawn to the majesty of snow-capped peaks against a clear blue sky.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "azure waters",
+      "ipa": "/ˈæʒə(r) ˈwɔːtərz/",
+      "meaning": "làn nước xanh ngắt, xanh lục cực đẹp",
+      "example": "Nothing beats the serenity of gazing out over the vast azure waters of the Mediterranean.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "rugged topography",
+      "ipa": "/ˈrʌɡɪd təˈpɒɡrəfi/",
+      "meaning": "địa hình gồ ghề, hiểm trở",
+      "example": "The rugged topography of the Highlands offers a sense of adventure that the coastline simply cannot match.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "coastal erosion",
+      "ipa": "/ˈkəʊstl ɪˈrəʊʒn/",
+      "meaning": "sự xói mòn bờ biển",
+      "example": "While I love the sea, witnessing the dramatic effects of coastal erosion is quite humbling.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "pristine shoreline",
+      "ipa": "/ˈprɪstiːn ˈʃɔːlaɪn/",
+      "meaning": "bờ biển nguyên sơ, sạch sẽ",
+      "example": "I prefer the sea because there is something magical about walking along a pristine shoreline at dawn.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "panoramic vantage point",
+      "ipa": "/ˌpænəˈræmɪk ˈvɑːntɪdʒ pɔɪnt/",
+      "meaning": "điểm quan sát có tầm nhìn bao quát/toàn cảnh",
+      "example": "Reaching the summit provides a panoramic vantage point that makes the grueling hike worthwhile.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "tranquil alpine lakes",
+      "ipa": "/ˈtræŋkwɪl ˈælpaɪn leɪks/",
+      "meaning": "những hồ nước tĩnh lặng trên vùng núi cao",
+      "example": "I'm a mountain person mainly because I find tranquil alpine lakes to be the ultimate escape from city life.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "rhythmic sound of waves",
+      "ipa": "/ˈrɪðmɪk saʊnd əv weɪvz/",
+      "meaning": "tiếng sóng vỗ đều đặn/nhịp nhàng",
+      "example": "The rhythmic sound of waves crashing against the rocks is incredibly meditative for me.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "dense coniferous forests",
+      "ipa": "/dens kəˈnɪfərəs ˈfɒrɪsts/",
+      "meaning": "rừng lá kim rậm rạp",
+      "example": "I love the mountains for their dense coniferous forests and the crisp, pine-scented air.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "sun-drenched beaches",
+      "ipa": "/sʌn drentʃt ˈbiːtʃɪz/",
+      "meaning": "những bãi biển ngập tràn ánh nắng",
+      "example": "For a summer holiday, I would always choose sun-drenched beaches over a mountain trek.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}

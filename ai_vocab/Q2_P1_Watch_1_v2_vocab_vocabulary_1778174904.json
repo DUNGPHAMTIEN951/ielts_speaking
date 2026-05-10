@@ -1,0 +1,41 @@
+{
+  "id": "Q2_P1_Watch_1_v2",
+  "vocab": [
+    {
+      "word": "a quintessential accessory",
+      "ipa": "/ə ˌkwɪntɪˈsenʃl əkˈsesəri/",
+      "meaning": "một món phụ kiện tinh túy/điển hình",
+      "example": "To me, a wristwatch is a quintessential accessory that adds a touch of professionalism to any corporate attire.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "sentimental heirloom",
+      "ipa": "/ˌsentɪˈmentl ˈerluːm/",
+      "meaning": "kỷ vật gia truyền đầy ý nghĩa tình cảm",
+      "example": "I wear this vintage Omega every day because it’s a sentimental heirloom passed down from my grandfather.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "aesthetic versatility",
+      "ipa": "/esˈθetɪk ˌvɜːrsəˈtɪləti/",
+      "meaning": "sự linh hoạt về mặt thẩm mỹ",
+      "example": "I prefer watches with leather straps due to their aesthetic versatility, as they transition seamlessly from formal meetings to casual dinners.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "technological integration",
+      "ipa": "/ˌteknəˈlɒdʒɪkl ˌɪntɪˈɡreɪʃn/",
+      "meaning": "sự tích hợp công nghệ",
+      "example": "I’ve recently embraced technological integration by switching to a smartwatch that monitors my heart rate and daily steps.",
+      "type": "vocabulary"
+    },
+    {
+      "word": "obsolete in the digital age",
+      "ipa": "/ˈɒbsəliːt ɪn ðə ˈdɪdʒɪtl eɪdʒ/",
+      "meaning": "trở nên lỗi thời trong kỷ nguyên số",
+      "example": "Some might argue that traditional watches are becoming obsolete in the digital age, given that smartphones provide atomic timekeeping.",
+      "type": "vocabulary"
+    }
+  ],
+  "type": "vocabulary"
+}
